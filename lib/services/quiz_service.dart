@@ -13,6 +13,10 @@ class QuizService {
   static const String remoteUrl =
       'https://raw.githubusercontent.com/musharrafhamraz/FIA-Preparation_App/main/questions.json';
 
+  // IMPORTANT: Your Vercel API endpoint (deploy api/trigger-scrape.js to Vercel)
+  // After deploying, replace with: https://your-app.vercel.app/api/trigger-scrape
+  static const String scraperApiUrl = 'YOUR_VERCEL_URL/api/trigger-scrape';
+
   // Set to true to always use remote, false to try remote with fallback
   static const bool alwaysUseRemote = true;
 
@@ -20,11 +24,11 @@ class QuizService {
     _prefs = await SharedPreferences.getInstance();
   }
 
-  static Future<QuizDatabase?> loadDatabase() async {
-    if (_database != null) return _database;
+  static Future<QuizDatabase?> loadDatabase({bool forceRefresh = false}) async {
+    if (_database != null && !forceRefresh) return _database;
 
     try {
-      if (alwaysUseRemote) {
+      if (alwaysUseRemote || forceRefresh) {
         // Try loading from remote first
         final response = await http
             .get(Uri.parse(remoteUrl))
@@ -66,6 +70,104 @@ class QuizService {
     } catch (e) {
       return null;
     }
+  }
+
+  // NEW: Trigger scraper and fetch fresh questions
+  static Future<List<Question>> fetchFreshQuestions(
+    String category,
+    int count,
+  ) async {
+    try {
+      // Step 1: Trigger the scraper via API
+      final triggerResponse = await http
+          .post(
+            Uri.parse(scraperApiUrl),
+            headers: {'Content-Type': 'application/json'},
+            body: json.encode({
+              'category': category.isEmpty ? 'all' : category,
+              'count': count,
+            }),
+          )
+          .timeout(const Duration(seconds: 15));
+
+      if (triggerResponse.statusCode == 200) {
+        // Step 2: Wait for scraping to complete (2-3 minutes)
+        // Poll the questions.json file every 10 seconds
+        for (int i = 0; i < 18; i++) {
+          // Try for 3 minutes max
+          await Future.delayed(const Duration(seconds: 10));
+
+          try {
+            final response = await http
+                .get(Uri.parse(remoteUrl))
+                .timeout(const Duration(seconds: 5));
+
+            if (response.statusCode == 200) {
+              final Map<String, dynamic> jsonData = json.decode(response.body);
+              final tempDb = QuizDatabase.fromJson(jsonData);
+
+              // Check if questions were updated
+              if (tempDb.questions.isNotEmpty) {
+                // Update the main database
+                _database = tempDb;
+
+                // Cache for offline use
+                await _cacheQuestions(response.body);
+
+                // Filter and return questions
+                List<Question> questions;
+                if (category.isEmpty) {
+                  questions = tempDb.questions;
+                } else {
+                  questions = tempDb.questions
+                      .where((q) => q.category == category)
+                      .toList();
+                }
+
+                questions.shuffle(Random());
+                return questions.take(count).toList();
+              }
+            }
+          } catch (e) {
+            // Continue polling
+          }
+        }
+      }
+    } catch (e) {
+      // If trigger fails, try direct fetch
+    }
+
+    // Fallback: Try to fetch existing questions
+    try {
+      final response = await http
+          .get(Uri.parse(remoteUrl))
+          .timeout(const Duration(seconds: 10));
+
+      if (response.statusCode == 200) {
+        final Map<String, dynamic> jsonData = json.decode(response.body);
+        final tempDb = QuizDatabase.fromJson(jsonData);
+
+        _database = tempDb;
+        await _cacheQuestions(response.body);
+
+        List<Question> questions;
+        if (category.isEmpty) {
+          questions = tempDb.questions;
+        } else {
+          questions = tempDb.questions
+              .where((q) => q.category == category)
+              .toList();
+        }
+
+        questions.shuffle(Random());
+        return questions.take(count).toList();
+      }
+    } catch (e) {
+      // Final fallback
+    }
+
+    // Last resort: use cached/bundled data
+    return getRandomQuestions(category, count);
   }
 
   static Future<void> _cacheQuestions(String jsonString) async {
