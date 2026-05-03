@@ -39,7 +39,7 @@ class _HomeScreenState extends State<HomeScreen> {
     });
   }
 
-  void _startQuiz() {
+  void _startQuiz() async {
     if (_database == null) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('⚠️ No questions available')),
@@ -47,28 +47,111 @@ class _HomeScreenState extends State<HomeScreen> {
       return;
     }
 
-    final questions = QuizService.getRandomQuestions(
-      _selectedCategory,
-      _questionCount,
-    );
-
-    if (questions.isEmpty) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('⚠️ No questions in this category')),
-      );
-      return;
-    }
-
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => QuizScreen(
-          questions: questions,
-          timerSeconds: _timerSeconds,
-          mode: _mode,
+    // Show loading dialog
+    showDialog(
+      context: context,
+      barrierDismissible: false,
+      builder: (context) => const Center(
+        child: Card(
+          child: Padding(
+            padding: EdgeInsets.all(24),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                CircularProgressIndicator(),
+                SizedBox(height: 16),
+                Text('🌐 Fetching fresh questions...'),
+              ],
+            ),
+          ),
         ),
       ),
     );
+
+    try {
+      // Fetch fresh questions on-demand
+      final questions = await QuizService.fetchFreshQuestions(
+        _selectedCategory,
+        _questionCount,
+      );
+
+      // Close loading dialog
+      if (mounted) Navigator.pop(context);
+
+      if (questions.isEmpty) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('⚠️ No questions in this category')),
+          );
+        }
+        return;
+      }
+
+      // Show success message
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('✅ Loaded ${questions.length} fresh questions!'),
+            backgroundColor: AppTheme.green,
+            duration: const Duration(seconds: 1),
+          ),
+        );
+      }
+
+      // Navigate to quiz
+      if (mounted) {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => QuizScreen(
+              questions: questions,
+              timerSeconds: _timerSeconds,
+              mode: _mode,
+            ),
+          ),
+        );
+      }
+    } catch (e) {
+      // Close loading dialog
+      if (mounted) Navigator.pop(context);
+
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('❌ Failed to fetch questions. Using cached data.'),
+            backgroundColor: AppTheme.amber,
+          ),
+        );
+      }
+
+      // Fallback to cached questions
+      final questions = QuizService.getRandomQuestions(
+        _selectedCategory,
+        _questionCount,
+      );
+
+      if (questions.isEmpty) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(content: Text('⚠️ No questions available')),
+          );
+        }
+        return;
+      }
+
+      if (mounted) {
+        Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (context) => QuizScreen(
+              questions: questions,
+              timerSeconds: _timerSeconds,
+              mode: _mode,
+            ),
+          ),
+        );
+      }
+    }
   }
 
   @override
