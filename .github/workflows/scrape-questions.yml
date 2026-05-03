@@ -5,6 +5,17 @@ on:
     # Run every day at 2 AM UTC (7 AM Pakistan Time)
     - cron: '0 2 * * *'
   workflow_dispatch: # Allow manual trigger
+    inputs:
+      category:
+        description: 'Category to scrape'
+        required: false
+        default: 'all'
+      count:
+        description: 'Number of questions'
+        required: false
+        default: '50'
+  repository_dispatch:
+    types: [scrape-questions]
   push:
     branches:
       - main
@@ -33,10 +44,24 @@ jobs:
         run: |
           pip install requests beautifulsoup4
       
+      - name: Get inputs
+        id: inputs
+        run: |
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            echo "category=${{ github.event.client_payload.category }}" >> $GITHUB_OUTPUT
+            echo "count=${{ github.event.client_payload.count }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "category=${{ github.event.inputs.category }}" >> $GITHUB_OUTPUT
+            echo "count=${{ github.event.inputs.count }}" >> $GITHUB_OUTPUT
+          else
+            echo "category=all" >> $GITHUB_OUTPUT
+            echo "count=50" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Run scraper
         run: |
           cd assets
-          python scraper_ondemand.py --count 50 --category all --output ../questions.json
+          python scraper_ondemand.py --count ${{ steps.inputs.outputs.count }} --category ${{ steps.inputs.outputs.category }} --output ../questions.json
       
       - name: Commit and push if changed
         run: |
