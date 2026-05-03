@@ -9,10 +9,9 @@ class QuizService {
   static QuizDatabase? _database;
   static SharedPreferences? _prefs;
 
-  // IMPORTANT: Replace this with your GitHub Pages URL after setup
-  // Format: https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/questions.json
+  // IMPORTANT: Your GitHub raw URL (fetches from main branch)
   static const String remoteUrl =
-      'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/gh-pages/questions.json';
+      'https://raw.githubusercontent.com/musharrafhamraz/FIA-Preparation_App/main/questions.json';
 
   // Set to true to always use remote, false to try remote with fallback
   static const bool alwaysUseRemote = true;
