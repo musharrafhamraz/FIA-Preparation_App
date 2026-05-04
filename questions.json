@@ -3,10 +3,153 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-03T10:16:16.850509",
+    "fetched_at": "2026-05-04T05:37:34.517098",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which sector accounts for the highest consumption of energy?",
+      "urdu": "کون سا شعبہ سب سے زیادہ توانائی استعمال کرتا ہے؟",
+      "options": [
+        "Industrial",
+        "Commercial",
+        "Domestic",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Natural gas is primarily used for which major purpose in Pakistan?",
+      "urdu": "پاکستان میں قدرتی گیس کا بنیادی استعمال کس بڑے مقصد کے لیے ہوتا ہے؟",
+      "options": [
+        "Power generation and domestic use",
+        "Jewelry production",
+        "Road construction",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the renewable source of energy?",
+      "urdu": "مندرجہ ذیل میں سے کون سا غیر روایتی (قابلِ تجدید) توانائی کا ذریعہ ہے؟",
+      "options": [
+        "Solar and wind",
+        "Coal",
+        "Natural gas",
+        "Petroleum"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most important part of the cell that controls all activities of the cell is called _____?",
+      "urdu": "سیل کا سب سے اہم حصہ جو سیل کی تمام سرگرمیوں کو کنٹرول کرتا ہے اسے _____ کہا جاتا ہے؟",
+      "options": [
+        "Vacuole",
+        "Mitochondria",
+        "Golgi bodies",
+        "Nucleus"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Night blindness is caused due to the deficiency of vitamin ______?",
+      "urdu": "رات کا اندھا پن وٹامن ______ کی کمی کی وجہ سے ہوتا ہے؟",
+      "options": [
+        "B",
+        "C",
+        "A",
+        "D"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which property makes laser light highly useful in precise applications?",
+      "urdu": "کون سی خاصیت لیزر روشنی کو نہایت درست کاموں کے لیے مفید بناتی ہے؟",
+      "options": [
+        "Low energy emission",
+        "Coherence and directionality",
+        "Multiple wavelengths",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A processor unit that controls, coordinates and directs all operations performed by the computer is ______?",
+      "urdu": "وہ پروسیسر یونٹ جو کمپیوٹر کے تمام آپریشنز کو کنٹرول، ہم آہنگ اور ہدایات دیتا ہے، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Cache memory",
+        "Arithmetic unit",
+        "Control unit",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Atoms of the same element having different mass numbers but identical chemical properties are known as?",
+      "urdu": "ایک ہی عنصر کے وہ ایٹم جن کے ماس نمبر مختلف ہوں لیکن کیمیائی خصوصیات ایک جیسی ہوں، کیا کہلاتے ہیں؟",
+      "options": [
+        "Isobars",
+        "Isotopes",
+        "Isotones",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which type of radiation can be completely stopped by a thin sheet of paper?",
+      "urdu": "کون سی شعاعیں ایک پتلی کاغذ کی شیٹ سے مکمل طور پر روکی جا سکتی ہیں؟",
+      "options": [
+        "Beta radiation",
+        "Gamma radiation",
+        "Alpha radiation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which fundamental quantity determines the atomic number of an element?",
+      "urdu": "کسی عنصر کا ایٹمی نمبر کس بنیادی مقدار سے طے ہوتا ہے؟",
+      "options": [
+        "Number of neutrons",
+        "Number of protons",
+        "Number of electrons in outer shell",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is classified as a conventional source of energy used for continuous large-scale supply?",
+      "urdu": "درج ذیل میں سے کون سا توانائی کا روایتی ذریعہ ہے جو مسلسل بڑے پیمانے پر سپلائی کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Tidal energy",
+        "Solar energy",
+        "Natural gas",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 04-05-2026</font></span></b></p>",
+      "category": "all"
+    },
     {
       "q": "What is the theme of World Press Freedom Day 2026?",
       "urdu": "عالمی یوم صحافت 2026 کی تھیم کیا ہے؟",
@@ -512,149 +655,6 @@
       ],
       "correct": 3,
       "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">پايا</font><font color=\"#0000ff\">، </font><font color=\"#ff0000\">بند</font><font color=\"#0000ff\">، </font><font color=\"#ff0000\">دُپ</font><font color=\"#0000ff\"> جهڙا لفظ </font><font color=\"#ff0000\">ڳجهارت</font><font color=\"#0000ff\"> ۾ استعمال ٿيندا آهن۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "قاضي قادن جو ڪلام ڀارت مان ڪھڙي اديب ڳولھي لڌو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نارائڻ شيام",
-        "ھيرو ٺڪر",
-        "ھيرو مل آڏواڻي",
-        "لڇمڻ ڪومل"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">قاضي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">قادن</font><font color=\"#0000ff\"> جو </font><font color=\"#ff0000\">گم</font><font color=\"#0000ff\"> ٿيل </font><font color=\"#ff0000\">ڪلام</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڀارت</font><font color=\"#0000ff\"> مان </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">هيرو ٺڪر</font><font color=\"#0000ff\"> ڳولي لڌو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "تحقيق جو فن ڪتاب ھيٺين مان ڪھڙي ليکڪ جي تصنيف آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڊاڪٽر غلام حسين پٺاڻ",
-        "ڊاڪٽر در شھوار سيد",
-        "ڊاڪٽر الهداد ٻوهيو",
-        "ڊاڪٽر فهميده حسين"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ساختيات جو نظريو ڪھڙي مغربي عالم ڏنو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "جيڪ دريدا",
-        "فرڊي نند ڊي سوسيئر",
-        "نوم چوسڪي",
-        "ھيگل"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">ساختيات</font><font color=\"#0000ff\"> جو بنيادي نظريو </font><font color=\"#ff0000\">سوئس عالم فرڊي نند ڊي سوسيئر</font><font color=\"#0000ff\"> ڏنو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "شاهه سائين نوري جو ذڪر ڪھڙي سُر ۾ ڪيو آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڪلياڻ",
-        "ڪارايل",
-        "بلاول",
-        "ڪاموڏ"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• شاهه عبداللطيف ڀٽائي </font><font color=\"#ff0000\">نوري</font><font color=\"#0000ff\"> جو ذڪر </font><font color=\"#ff0000\">سُر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڪاموڏ</font><font color=\"#0000ff\"> ۾ ڪيو آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "تون ھلين ھا ته وڌيڪ فائدو ٿئي ھا. ھن جملي جو صيغو ٻڌايو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "صيغو بياني",
-        "صيغو شرطي",
-        "صيغو امر",
-        "انهن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ڪتاب 'سنڌي غزل جي اوسر' ڪنھن جي تحقيق آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڊاڪٽر نبي بخش بلوچ",
-        "ڊاڪٽر اياز قادري",
-        "ڊاڪٽر غلام علي الانا",
-        "ڊاڪٽر ادل سومرو"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• سنڌي غزل جي اوسر </font><font color=\"#ff0000\">ڊاڪٽر اياز قادري</font><font color=\"#0000ff\"> جي تحقيق آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ھيٺين عالمن مان ڪنهن لوڪ ادب جي سڀني صنفن تي تحقيقي ڪم ڪيو آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڊاڪٽر غلام علي الانا",
-        "ڊاڪٽر نبي بخش بلوچ",
-        "ڊاڪٽر عبدالڪريم سنديلو",
-        "ڊاڪٽر شمس عرساڻي"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">نبي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بخش</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بلوچ</font><font color=\"#0000ff\"> سنڌي </font><font color=\"#ff0000\">لوڪ ادب</font><font color=\"#0000ff\"> جو وڏو </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> هو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪينجهر جي لفظي معني آهي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "گھڻائي",
-        "ٿورائي",
-        "ھلڪڙائي",
-        "چڱائي"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">ڪينجهر</font><font color=\"#0000ff\"> جو مطلب </font><font color=\"#ff0000\">گهڻائي يا وافر مقدار</font><font color=\"#0000ff\"> آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "کير ٿر جبل کي ڪاڇي جا ماڻهو _______ چوندا آهن۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڪارو",
-        "اڇو",
-        "ننڍو",
-        "نيرو"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">ڪاڇي</font><font color=\"#0000ff\"> جا </font><font color=\"#ff0000\">ماڻهو</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">کيرٿر جبل</font><font color=\"#0000ff\"> کي </font><font color=\"#ff0000\">اڇو</font><font color=\"#0000ff\"> سڏيندا آهن۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "مير عبدالحسين سانگي _______ جو شاعر ھو۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نظم",
-        "گيت",
-        "غزل",
-        "ڪافي"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">مير</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبدالحسين</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سانگي</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">غزل</font><font color=\"#0000ff\"> گو شاعر هو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "اسماعيلي مبلغن جي ڪلام کي _______ ڪوٺجي ٿو۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نظم",
-        "مثنوي",
-        "گيت",
-        "گنان"
-      ],
-      "correct": 3,
-      "explanation": "",
       "category": "all"
     }
   ]
