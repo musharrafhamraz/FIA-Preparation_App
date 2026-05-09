@@ -3,39 +3,429 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-08T04:55:09.944033",
+    "fetched_at": "2026-05-09T05:24:01.324424",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The final of 11th edition of Pakistan Super League (PSL) was held between which teams in 2026?",
-      "urdu": "پاکستان سپر لیگ (پی ایس ایل) کے 11ویں ایڈیشن کا فائنل 2026 میں کن ٹیموں کے درمیان ہوا؟",
+      "q": "What is the height range of the Lesser Himalaya given in the text?",
+      "urdu": "متن میں کم تر مالیہ کی بلندی کا دائرہ کیا بتایا گیا ہے؟",
       "options": [
-        "Peshawar Zalmi & Islamabad",
-        "Peshawar Zalmi & Hyderabad Kingsmen",
-        "Peshawar Zalmi & Quetta Gladiators",
-        "None of these"
+        "600 to 1,000 metres",
+        "1,800 to 5,500 metres",
+        "1,500 to 3,000 metres",
+        "750 to 900 metres"
       ],
-      "correct": 1,
-      "explanation": "<p \"helvetica=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px;\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About Pakistan Super League (</font><font color=\"#ff0000\">PSL</font><font color=\"#0000ff\">) <span style=\"background-color: rgb(255, 255, 0);\">2026</span><o:p></o:p></font></span></span></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">Lesser Himalaya</font><font color=\"#0000ff\"> is a middle mountain range of the </font><font color=\"#ff0000\">Himalayas</font><font color=\"#0000ff\">.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the theme of World Red Cross Day 2026?",
-      "urdu": "ورلڈ ریڈ کراس ڈے 2026 کا تھیم کیا ہے؟",
+      "q": "According to the 2017 census, what was the overall sex ratio in Pakistan?",
+      "urdu": "سن 2017 کی مردم شماری کے مطابق پاکستان میں مجموعی جنسی تناسب کیا تھا؟",
       "options": [
-        "Keeping Humanity Alive",
-        "United in Humanity",
-        "Human Development",
+        "100%",
+        "106%",
+        "104%",
         "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">World Red Cross Day is annually celebrated on </span><span style=\"font-weight: bolder;\">8 May.</span></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">Key Provincial Sex Ratios (2017 Census):</font></b></p>",
       "category": "all"
     },
     {
-      "q": "World Red Cross and Red Crescent Day is celebrated annually on____",
-      "urdu": "عالمی ریڈ کراس اور ہلال احمر کا دن ہر سال منایا جاتا ہے:",
+      "q": "The Cripps Mission visited India in?",
+      "urdu": "کرپس مشن نے کس سال ہندوستان کا دورہ کیا؟",
+      "options": [
+        "1942",
+        "1946",
+        "1944",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: red; font-family: Helvetica; font-weight: bolder; font-size: 0.875rem;\">*</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which event marked the final collapse of unity?",
+      "urdu": "اتحاد کے حتمی خاتمے کی علامت کون سا واقعہ تھا؟",
+      "options": [
+        "Industrial reform",
+        "1971 conflict",
+        "Education policy",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">1971 conflict</font><font color=\"#0000ff\"> (Pakistan–India war leading to East Pakistan separation) marked the </font><font color=\"#ff0000\">final collapse of unity</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which disparity was most critical in East-West relations?",
+      "urdu": "مشرقی اور مغربی پاکستان کے تعلقات میں سب سے اہم عدم توازن کون سا تھا؟",
+      "options": [
+        "Economic imbalance",
+        "Equal governance",
+        "Cultural similarity",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">• The most </font><font color=\"#ff0000\">critical issue</font><font color=\"#0000ff\"> between </font><font color=\"#ff0000\">East and West Pakistan </font><font color=\"#0000ff\">was economic disparity.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which characteristic increases the economic importance of a seaport?",
+      "urdu": "بندرگاہ کی معاشی اہمیت کو کون سی خصوصیت بڑھاتی ہے؟",
+      "options": [
+        "Low activity",
+        "Isolation from trade routes",
+        "Connectivity with global markets",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• A </font><font color=\"#ff0000\">seaport</font><font color=\"#0000ff\"> becomes economically important when it is </font><font color=\"#ff0000\">well connected with international </font><font color=\"#0000ff\">trade routes and global markets.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which factor most reduces effective water availability?",
+      "urdu": "پانی کی مؤثر دستیابی کو سب سے زیادہ کون سی چیز کم کرتی ہے؟",
+      "options": [
+        "Rainfall increase",
+        "Dam construction",
+        "Water losses in canals",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Water losses in canals</font><font color=\"#0000ff\"> (through seepage, evaporation, and leakage) significantly reduce </font><font color=\"#ff0000\">effective water availability</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan's geo-strategic importance is enhanced due to?",
+      "urdu": "پاکستان کی جغرافیائی و تزویراتی اہمیت کس وجہ سے بڑھتی ہے؟",
+      "options": [
+        "Internal trade",
+        "Limited borders",
+        "Proximity to multiple regions",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Pakistan’s geo-strategic</font><font color=\"#0000ff\"> importance comes from its location at the crossroads of </font><font color=\"#ff0000\">South Asia, Central Asia, and the Middle East</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which natural region is least suitable for intensive agriculture?",
+      "urdu": "کون سا قدرتی علاقہ زیادہ زرعی کاشت کے لیے سب سے کم موزوں ہے؟",
+      "options": [
+        "Balochistan Plateau",
+        "Indus Plains",
+        "Coastal plains",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">Balochistan Plateau </font><font color=\"#0000ff\">is least suitable for intensive agriculture due to </font><font color=\"#ff0000\">dry climate and low rainfall</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which factor explains seasonal rainfall variations in Pakistan?",
+      "urdu": "پاکستان میں موسمی بارشوں کے فرق کی بنیادی وجہ کیا ہے؟",
+      "options": [
+        "Trade patterns",
+        "Monsoon system",
+        "Population growth",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Seasonal rainfall</font><font color=\"#0000ff\"> in Pakistan is mainly controlled by the </font><font color=\"#ff0000\">monsoon system</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which feature most distinguishes Pakistani society from a homogeneous structure?",
+      "urdu": "پاکستانی معاشرے کو یکساں ڈھانچے سے سب سے زیادہ کیا چیز مختلف بناتی ہے؟",
+      "options": [
+        "Political stability",
+        "Economic equality",
+        "Cultural plurality",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Pakistani society</font><font color=\"#0000ff\"> is best described as </font><font color=\"#ff0000\">culturally diverse</font><font color=\"#0000ff\"> rather than homogeneous.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which principle underlies the demand for a separate Muslim state?",
+      "urdu": "ایک الگ مسلم ریاست کے مطالبے کی بنیاد کون سا اصول ہے؟",
+      "options": [
+        "Regional integration",
+        "Linguistic similarity",
+        "Distinct ideological",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• The demand for a </font><font color=\"#ff0000\">separate Muslim state</font><font color=\"#0000ff\"> was based on the </font><font color=\"#ff0000\">Two-Nation Theory</font><font color=\"#0000ff\">, which emphasized a </font><font color=\"#ff0000\">distinct ideological identity</font><font color=\"#0000ff\"> for Muslims.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which condition most strengthened Muslim political identity before independence?",
+      "urdu": "آزادی سے پہلے مسلمانوں کی سیاسی شناخت کو سب سے زیادہ مضبوط کس حالت نے کیا؟",
+      "options": [
+        "Industrial growth",
+        "Economic prosperity",
+        "Minority status under majority rule",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Muslims</font><font color=\"#0000ff\"> developed a </font><font color=\"#ff0000\">strong</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">political identity </font><font color=\"#0000ff\">when they realized they were a minority under </font><font color=\"#ff0000\">Hindu majority rule in British India</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Quantum of energy is called?",
+      "urdu": "توانائی کے کوانٹم کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Neutron",
+        "Electron",
+        "Photon",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• A </font><font color=\"#ff0000\">quantum of energy of light</font><font color=\"#0000ff\"> (electromagnetic radiation) is called a </font><font color=\"#ff0000\">photon</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Photoelectric emission stops if?",
+      "urdu": "فوٹو الیکٹرک اخراج کب رک جاتا ہے؟",
+      "options": [
+        "Frequency below threshold",
+        "Temperature rises",
+        "Frequency increases",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Photoelectric emission</font><font color=\"#0000ff\"> stops when the frequency of incident light is below the </font><font color=\"#ff0000\">threshold frequency of the metal</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Spring tides occur when?",
+      "urdu": "بہار کی لہریں کب پیدا ہوتی ہیں؟",
+      "options": [
+        "Earth slows",
+        "Moon and Sun align",
+        "Wind increases",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Spring tides</font><font color=\"#0000ff\"> occur when the </font><font color=\"#ff0000\">Earth, Moon, and Sun</font><font color=\"#0000ff\"> are in a straight line (aligned).</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which water source is most important for irrigation canals?",
+      "urdu": "آبپاشی (نہروں) کے لیے سب سے اہم پانی کا ذریعہ کون سا ہے؟",
+      "options": [
+        "Rain",
+        "Lakes",
+        "Rivers",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Rivers</font><font color=\"#0000ff\"> are the main source of water for </font><font color=\"#ff0000\">irrigation canals</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sector uses energy mainly for machinery operation?",
+      "urdu": "کون سا شعبہ زیادہ تر توانائی مشینری چلانے کے لیے استعمال کرتا ہے؟",
+      "options": [
+        "Industrial",
+        "Commercial",
+        "Agriculture",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">industrial sector</font><font color=\"#0000ff\"> uses energy mainly for </font><font color=\"#ff0000\">running machines, factories, and production systems</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Natural gas is transported mainly through?",
+      "urdu": "قدرتی گیس زیادہ تر کس ذریعے سے منتقل کی جاتی ہے؟",
+      "options": [
+        "Trucks",
+        "Ships",
+        "Pipelines",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Natural gas</font><font color=\"#0000ff\"> is mainly transported through </font><font color=\"#ff0000\">pipelines</font><font color=\"#0000ff\"> over long distances.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Biomass energy is derived from?",
+      "urdu": "بایوماس توانائی کس چیز سے حاصل ہوتی ہے؟",
+      "options": [
+        "Fossil fuels",
+        "Minerals",
+        "Organic matter",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Biomass energy</font><font color=\"#0000ff\"> is produced from </font><font color=\"#ff0000\">organic matter</font><font color=\"#0000ff\"> such as </font><font color=\"#ff0000\">plants, animals, and waste materials</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which organism is known as the powerhouse of the cell?",
+      "urdu": "کس جاندار کو سیل کا پاور ہاؤس کہا جاتا ہے؟",
+      "options": [
+        "Organ powerhouse",
+        "Cell membrane",
+        "Cytoplasm",
+        "Mitochondria"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\">Main Parts of a Cell</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which vitamin helps in the clotting of blood?",
+      "urdu": "کون سا وٹامن خون کے جمنے میں مدد کرتا ہے؟",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin K",
+        "Vitamin D"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul><div><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b><font color=\"#ff0000\">Vitamin C </font><font color=\"#0000ff\">may protect the </font><font color=\"#ff0000\">body</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">against</font><font color=\"#0000ff\"> the effects of pollution.</font></b></li><li><b><font color=\"#0000ff\">It may also prevent </font><font color=\"#ff0000\">blood clots and reduce bruising</font><font color=\"#0000ff\">.</font></b></li></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Laser light is intense due to?",
+      "urdu": "لیزر روشنی زیادہ شدید کیوں ہوتی ہے؟",
+      "options": [
+        "Reflection",
+        "Absorption",
+        "Coherence",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Laser light</font><font color=\"#0000ff\"> is intense because its light waves are </font><font color=\"#ff0000\">coherent</font><font color=\"#0000ff\">, meaning they </font><font color=\"#ff0000\">remain in the same phase and travel together</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which device converts digital signals into human-readable form?",
+      "urdu": "کون سا آلہ ڈیجیٹل سگنلز کو انسان کے پڑھنے کے قابل شکل میں تبدیل کرتا ہے؟",
+      "options": [
+        "CPU",
+        "Output unit",
+        "Input unit",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">output unit</font><font color=\"#0000ff\"> converts processed digital data into </font><font color=\"#ff0000\">human-readable</font><font color=\"#0000ff\"> form such as </font><font color=\"#ff0000\">text, images, or sound</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Isotones are atoms having same?",
+      "urdu": "آئسوٹون ایسے ایٹمز ہوتے ہیں جن میں کیا ایک جیسا ہوتا ہے؟",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Mass number",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Isotones</font><font color=\"#0000ff\"> are atoms of </font><font color=\"#ff0000\">different elements</font><font color=\"#0000ff\"> having the </font><font color=\"#ff0000\">same number</font><font color=\"#0000ff\"> of </font><font color=\"#ff0000\">neutrons</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which radiation has intermediate penetrating power?",
+      "urdu": "کون سی شعاع درمیانی درجے کی نفوذی طاقت رکھتی ہے؟",
+      "options": [
+        "Beta",
+        "Gamma",
+        "Infrared",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Beta radiation</font><font color=\"#0000ff\"> has </font><font color=\"#ff0000\">intermediate</font><font color=\"#0000ff\"> penetrating power between </font><font color=\"#ff0000\">alpha and gamma </font><font color=\"#0000ff\">rays.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The maximum mass of an atom is concentrated in _____?",
+      "urdu": "ایک ایٹم کا زیادہ سے زیادہ وزن _____ میں مرتکز ہے؟",
+      "options": [
+        "Electron",
+        "Proton",
+        "Neutron",
+        "Nucleus"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which energy source is most suitable for base-load power generation due to stable fuel supply?",
+      "urdu": "مستحکم ایندھن کی فراہمی کی وجہ سے بیس لوڈ بجلی پیدا کرنے کے لیے کون سا توانائی کا ذریعہ سب سے زیادہ موزوں ہے؟",
+      "options": [
+        "Coal energy",
+        "Wind energy",
+        "Solar energy",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Windows + F1 shortcut key is used to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Open File Explorer",
+        "Open Help and Support",
+        "Refresh Desktop",
+        "Open Settings"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "If base doubles and height remains same, area becomes?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Half",
+        "Triple",
+        "Double",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a² + b² = 50 and a = 5 then b equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">a² + b² = 50  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If sum of two sides equals the third side, the figure is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Circle",
+        "Square",
+        "Straight line",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "World Red Cross and Red Crescent Day is celebrated annually on which date?",
+      "urdu": "عالمی ریڈ کراس اور ہلال احمر کا دن ہر سال کس تاریخ کو منایا جاتا ہے؟",
       "options": [
         "May 1",
         "May 10",
@@ -47,51 +437,116 @@
       "category": "all"
     },
     {
-      "q": "Which conclusion best follows from accepting the Quran but neglecting Hadith and Sunnah in practice?",
-      "urdu": "قرآن کو ماننے لیکن عملی زندگی میں حدیث اور سنت کو نظر انداز کرنے سے کون سا نتیجہ سب سے بہتر طور پر سامنے آتا ہے؟",
+      "q": "(5x + 3)/(x(x + 1) decomposes as?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Religion remains intact because general principles are enough without prophetic explanation",
-        "Core teachings may be affirmed in theory while their practical form becomes unstable or distorted",
-        "Faith becomes simpler because secondary sources often create unnecessary detail",
+        "4/x + 1/(x + 1)",
+        "1/x + 4/(x + 1)",
+        "3/x + 2/(x + 1)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Problem: (5x + 3)/(x(x + 1))</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If f(x) = x² - x, then f(2) - f(1) equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">f(2) = 2² - 2 = 4 - 2 = 2  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If y ∝ x and y = 10 when x = 2 find y when x = 7?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "25",
+        "35",
+        "45",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">y ∝ x means y = kx  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which reading of the Seerat best explains why the Prophet's leadership produced durable reform instead of short-term compliance?",
-      "urdu": "سیرتِ نبویؐ کی کون سی تشریح سب سے بہتر وضاحت کرتی ہے کہ نبی کریم ﷺ کی قیادت نے عارضی اطاعت کے بجائے دیرپا اصلاح کیوں پیدا کی؟",
+      "q": "Solve: 2(x + 1) = x + 7?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "It relied mainly on fear, thereby ensuring immediate obedience",
-        "It preferred symbolic acts over institution-building and training",
-        "It united truth, character, and wisdom in a way that reshaped both persons and society",
+        "5",
+        "6",
+        "7",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">2(x + 1) = x + 7  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which situation most clearly proves that the spirit of worship has not yet transformed the worshipper?",
-      "urdu": "کون سی صورتحال سب سے واضح طور پر ثابت کرتی ہے کہ عبادت کی روح نے ابھی تک عبادت کرنے والے کی شخصیت کو تبدیل نہیں کیا؟",
+      "q": "If roots of x² - 6x + 8 + 0 are increased by 1, new equation is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "A person fasts and also learns patience under provocation",
-        "A person becomes more punctual in prayer and more careful with others' rights",
-        "A person is regular in ritual observance but remains exploitative in transactions",
+        "x² - 8x + 15 = 0",
+        "x² - 5x + 6 + 0",
+        "x² - 7x + 12 + 0",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">x² - 6x + 8 = 0 → (x - 2)(x - 4) = 0  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "A person accepts Allah verbally but lives as if power, success, and security are ultimately controlled by worldly structures alone. Which evaluation is most accurate?",
-      "urdu": "ایک شخص زبان سے اللہ پر ایمان کا اقرار کرتا ہے لیکن عملی زندگی میں ایسے رہتا ہے جیسے طاقت، کامیابی اور حفاظت صرف دنیاوی نظاموں کے ہاتھ میں ہو۔ سب سے درست تجزیہ کیا ہے؟",
+      "q": "If x² - px + 24 has factors differing by 2, then p equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "The case proves belief is purely private and unrelated to action",
-        "The person has strengthened faith through realism",
-        "The case shows a tension between professed faith and functional dependence",
+        "9",
+        "10",
+        "11",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the roots be r and r + 2.  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If (a + bi)(a - bi) = 17 and a + b = 5, then a² + b² equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">(a + bi)(a - bi) = a² - (bi)² = a² - b²i² = a² - b²(-1) = a² + b²  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one of the following is given as an example of a perennial canal?",
+      "urdu": "مندرجہ ذیل میں سے کون سا نہر دائمی کی مثال ہے؟",
+      "options": [
+        "Upper Chenab Canal",
+        "A seasonal flood channel",
+        "Marala-Ravi Canal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On which date did the UN Security Council commission submit its report regarding Kashmir plebiscite according to the chapter?",
+      "urdu": "باب کے مطابق اقوام متحدہ کی سلامتی کونسل کی کشمیر میں رائے شماری کے حوالے سے رپورٹ کس تاریخ کو پیش کی گئی؟",
+      "options": [
+        "6 February 1948",
+        "10 May 1946",
+        "5 January 1949",
         "None of these"
       ],
       "correct": 2,
@@ -99,12 +554,38 @@
       "category": "all"
     },
     {
-      "q": "Which example most accurately illustrates the Quran's merit as a criterion between right and wrong?",
-      "urdu": "کون سی مثال قرآن کے حق اور باطل میں فرق کرنے والے معیار ہونے کو سب سے بہتر ظاہر کرتی ہے؟",
+      "q": "From which place does the Outer Himalaya start according to the chapter?",
+      "urdu": "بیرونی ہمالیہ کہاں سے شروع ہوتا ہے؟",
       "options": [
-        "Treating recitation as sufficient proof of righteousness regardless of behavior",
-        "Using selected verses to confirm an opinion already formed by personal interest",
-        "Allowing Quranic standards to override emotional bias when judging a dispute",
+        "Attock",
+        "Mithankot",
+        "Pamir Knot",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to the 2017 census, how many males were there in Pakistan?",
+      "urdu": "سن 2017 کی مردم شماری کے مطابق پاکستان میں مردوں کی تعداد کتنی تھی؟",
+      "options": [
+        "106.4 million",
+        "101.3 million",
+        "112.24 million",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which leader seconded the Lahore Resolution according to the book?",
+      "urdu": "لاہور قرارداد کی تائید کس رہنما نے کی؟",
+      "options": [
+        "Nawab Ismail Khan",
+        "Molana Zafar Ali Khan",
+        "Chaudhry Khaliquzzaman",
         "None of these"
       ],
       "correct": 2,
@@ -112,551 +593,68 @@
       "category": "all"
     },
     {
-      "q": "Which statement best reflects the Quran's introductory status as a living source of guidance than a text of ceremonial rather reverence alone?",
-      "urdu": "قرآن کو صرف رسم کے طور پر پڑھنے کے بجائے زندہ ہدایت کا ذریعہ کس بیان سے بہتر ظاہر کیا گیا ہے؟",
+      "q": "Which political factor accelerated the final break in 1971?",
+      "urdu": "سن 1971 میں کون سا سیاسی عنصر حتمی علیحدگی کا باعث بنا؟",
       "options": [
-        "Its guidance is activated when its principles shape thought, conduct, and decision-making",
-        "Its completeness means human reflection is unnecessary once verses are recited",
-        "Its authority applies mainly to devotional settings, not to moral judgment in daily life",
-        "Its chief value lies in preserving sacred language, even if conduct remains unchanged"
+        "Balanced development",
+        "Stable governance",
+        "Denial of electoral mandate",
+        "None of these"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The term “Veep” is used for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which economic issue deepened grievances in East Pakistan?",
+      "urdu": "مشرقی پاکستان میں کون سا معاشی مسئلہ شکایات کو بڑھانے کا باعث بنا؟",
       "options": [
-        "Prime Minister",
-        "President",
-        "Vice President",
-        "Governor"
+        "Industrial growth",
+        "Unequal economic policies",
+        "Trade surplus",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which factor enhances the strategic value of Pakistan's ports?",
+      "urdu": "پاکستان کی بندرگاہوں کی اسٹریٹجک اہمیت کو کون سا عنصر بڑھاتا ہے؟",
+      "options": [
+        "Limited connectivity",
+        "Isolation",
+        "Access to international sea",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><font color=\"#0000ff\"></font></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Sindh Assembly passed the Epidemic Diseases Act in?",
-      "urdu": "سندھ اسمبلی نے وبائی امراض کا قانونکب منظور کیا؟",
+      "q": "Which issue most threatens irrigation sustainability?",
+      "urdu": "آبپاشی کی پائیداری کو سب سے زیادہ کون سا مسئلہ خطرے میں ڈالتا ہے؟",
       "options": [
-        "2014",
-        "2015",
-        "2020",
-        "2021"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><font color=\"#ff0000\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The University of Edinburgh is located in?",
-      "urdu": "یونیورسٹی آف ایڈنبرا کہاں واقع ہے؟",
-      "options": [
-        "London, England",
-        "Cardiff, Wales",
-        "Belfast, Northern Ireland",
-        "Edinburgh, Scotland"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><span style=\"font-size: 0.875rem;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first Hindu pilot in PAF is?",
-      "urdu": "پاکستان فضائیہ  میں پہلا ہندو پائلٹ کون تھا؟",
-      "options": [
-        "Rahul Dev",
-        "Dev Anand",
-        "Aneel Kumar",
-        "Asghar Khan"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Recently Pakistan took charge of Task Force 151 from which country?",
-      "urdu": "حال ہی میں پاکستان نے ٹاسک فورس 151 کی قیادت کس ملک سے سنبھالی؟",
-      "options": [
-        "Saudi Arabia",
-        "Turkey",
-        "Jordan",
-        "Bahrain"
+        "Canal expansion",
+        "Water mismanagement",
+        "Dam construction",
+        "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><font color=\"#ff9c00\"></font></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "فجائیہ جملہ کس لیے استعمال ہوتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Pakistan's location is critical primarily because it?",
+      "urdu": "پاکستان کا محلِ وقوع بنیادی طور پر کیوں اہم ہے؟",
       "options": [
-        "سوال پوچھنے کے لیے",
-        "حکم دینے کے لیے",
-        "خوشی، غم یا حیرت کے اظہار کے لیے",
-        "خبر دینے کے لیے"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\"> فجائیہ جملے ایسے جذبات کا اظہار کرنے کے لیے استعمال ہوتے ہیں ج</font><font color=\"#9c00ff\">و اچانک اور شدت سے محسوس ہوں</font><font color=\"#0000ff\">، جیسے</font><font color=\"#ff0000\"> واہ!، افسوس!، یا ارے! وغیرہ۔ ان جملوں کے آخر میں فجائیہ نشان (!) </font><font color=\"#0000ff\">لگایا جاتا ہے۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "مصدر کے آخر میں کیا آتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نہیں",
-        "ہاں",
-        "نا",
-        "ہے"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">اردو میں مصدر کے آخر میں</font><font color=\"#ff0000\"> \"نا\" آت</font><font color=\"#0000ff\">ا ہے۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "فعل اور فاعل کس جملے میں استعمال ہوتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "اسمیہ جملہ",
-        "فعلیہ جملہ",
-        "استفہامیہ جملہ",
-        "فجائیہ جملہ"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">فعلیہ جملہ وہ ہوتا ہے جو فعل سے </font><font color=\"#ff0000\">شروع ہو اور اس میں عموماً فاعل بھی موجود ہو۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "وقفے میں کس سے زیادہ ٹھہرنا ہوتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "سکتہ سے کم",
-        "سکتہ سے زیادہ",
-        "برابر",
-        "نہیں ٹھہرنا ہوتا"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">قرآن مجید کے رموزِ اوقاف میں، </font><font color=\"#ff0000\">وقفہ (ط) میں سکتہ (س یا سکتہ) کے مقابلے میں زیادہ ٹھہرنا ہوتا ہے۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "“The Great White North” is a popular nickname for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Russia",
-        "Canada",
-        "Norway",
-        "Sweden"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "کسی شخص کے لیے ضمیر کی کونسی قسم",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شخصی ضمیر",
-        "ضمیر متکلم",
-        "حاضر",
-        "ضمیر بعید"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">کسی شخص کے لیے استعمال ہونے والی</font><font color=\"#00ff00\"> ضمیر کی قسم ضمیرِ شخصی کہلاتی ہے</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A dishonest trader sells goods of 900 grams weight as 1 kg. Then his profit percentage is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10%",
-        "11.11%",
-        "12.5%",
-        "20%"
-      ],
-      "correct": 1,
-      "explanation": "<p data-end=\"282\" data-start=\"252\"><font color=\"#9c00ff\">Profit </font><font color=\"#0000ff\">= 100 g (extra charged)</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "2.5 m³ in cm³ is:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "25,000 cm³",
-        "250,000 cm³",
-        "2,500,000 cm³",
-        "25,000,000 cm³"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"49\" data-start=\"41\"><font color=\"#0000ff\">We know:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Average of cubes of first 7 natural numbers is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "96",
-        "104",
-        "112",
-        "124"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">The average of the cubes of the first 7 natural numbers is 112.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Windows Key + F shortcut key is used to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Open File Explorer",
-        "Open Search (Find files/folders)",
-        "Open Settings",
-        "Refresh Desktop"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which player made most runs in the 11th edition of Pakistan Super League (PSL) held in 2026?",
-      "urdu": "دو ہزار چھبیس میں ہونے والے پاکستان سپر لیگ (پی ایس ایل) کے 11ویں ایڈیشن میں کس کھلاڑی نے سب سے زیادہ رنز بنائے؟",
-      "options": [
-        "Babar Azam",
-        "Sufiyan Muqeem",
-        "Muhammad Rizwan",
+        "Connects major regions of Asia",
+        "Limits trade",
+        "Is isolated geographically",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p \"helvetica=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px;\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About Pakistan Super League (</font><font color=\"#ff0000\">PSL</font><font color=\"#0000ff\">) <span style=\"background-color: rgb(255, 255, 0);\">2026</span><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Address of information is registered in?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Accumulator",
-        "Memory Data Register",
-        "Memory Address Register",
-        "Control Unit"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 Thomas Cup title?",
-      "urdu": "تھامس کپ 2026 کا ٹائٹل کس نے جیتا؟",
-      "options": [
-        "France",
-        "China",
-        "Germany",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">About the <span style=\"background-color: rgb(255, 255, 0);\">2026 Thomas Cup title </span><o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Analogy: Permanent :: Temporary :: Truthful :: ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Honest",
-        "Loyal",
-        "Dishonest",
-        "Sincere"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Permanent :: Temporary::</font><font color=\"#ff0000\"> Truthful :: False (or Dishonest)</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many 10 Riyals make 100 Riyals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "8",
-        "10",
-        "12"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\">It takes 10 notes </font><font color=\"#0000ff\">of 10 Riyals to make 100 Riyals.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Hamper is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Transpire",
-        "Impede",
-        "Believe",
-        "Change"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "10% of 20 + 20% of 10 increases the number by?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"22\" data-start=\"0\"><font color=\"#0000ff\">Step-by-step solution:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mouldering means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "پانی میں ڈالنا",
-        "محفوظ رہنا",
-        "بوسیده ہونا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 07-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "قصور کے معنی ہے",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نیکی",
-        "غلطی / خطا",
-        "بہادری",
-        "سچائی"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: right; \"><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\"> قصور کے بنیادی معنی کمی، </font><font color=\"#ff0000\">کوتاہی، خامی، خطا، غلطی یا بھول چوک</font><font color=\"#0000ff\"> کے ہیں</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He said to her, \"What a cold day\"To convert this into indirect speech",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He exclaimed that it was a very cold day.",
-        "He told her that it was a cold day.",
-        "He exclaimed that it was a cold day.",
-        "He exclaimed sorrowfully that it was a cold day."
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">The direct speech \"</font><font color=\"#ff0000\">He said to her, 'What a cold day!'</font><font color=\"#0000ff\">\" </font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the narration: He said, \"I am tired.\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He told that he is tired.",
-        "He said that I was tired.",
-        "He said that he was tired.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He said, 'I can solve this.' (Indirect)",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He told he can solve",
-        "He said he can solve this",
-        "He said he could solve that",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bait-e-Riwwan was made under which tree ____?",
-      "urdu": "بیت رضوان کس درخت کے نیچے بنایا گیا؟",
-      "options": [
-        "Palm tree",
-        "Keekar tree",
-        "Peepal Tree",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "At what age of the Holy Prophet (PBUH) Hajr-e-Aswad incident occurred?",
-      "urdu": "حضور صلی اللہ علیہ وسلم کی حجر اسود کا واقعہ کس عمر میں پیش آیا؟",
-      "options": [
-        "25",
-        "40",
-        "32",
-        "35",
-        "53"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><font color=\"#00ff00\"><font face=\"Tahoma\"><b style=\"\"></b></font></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the passive voice: They have built, A house was built by them, They are building, They built a house",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "They have built",
-        "A house was built by them",
-        "They are building",
-        "They built a house"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Structure of </font><font color=\"#ff0000\">passive</font><font color=\"#0000ff\"> voice:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ameen –ul-Umat is the title of Hazrat________________(RA)?",
-      "urdu": "امین الامت حضرت کس کا لقب ہے؟",
-      "options": [
-        "Emar bin Yasir (RA)",
-        "Suleman Farsi (RA)",
-        "Abu-ubaida bin Al jaraah (RA)",
-        "Abu Saeeed Khuzir (RA)",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><span style=\"font-weight: bolder; color: rgb(133, 135, 150); font-family: Helvetica;\"><span style=\"background-color: rgb(255, 255, 0); color: rgb(255, 255, 0);\"></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change into passive: 'She sings a song.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A song sung her",
-        "A song was sung her",
-        "A song is sung by her",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Passive</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">voice</font><font color=\"#0000ff\"> structure for </font><font color=\"#ff0000\">Present Indefinite</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Patriotism is a great ______ force.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Physical",
-        "Binding",
-        "Attracting",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Courteous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Pleasant",
-        "Showing respect for others",
-        "Nasty",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline; word-break: normal;\"><font face=\"Verdana\"><b style=\"\"><font color=\"#ff0000\">Courteous</font><font color=\"#0000ff\"> means </font><font color=\"#ff0000\">شائستہ، احترام، اور دوسروں کے ساتھ اچھا سلوک</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the narration: He exclaimed with joy that Pakistan had won the Sahara Cup.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He said, \"Hurrah! Pakistan has won the Sahara Cup\"",
-        "He said, \"Pakistan has won the Sahara Cup\"",
-        "He said, \"Pakistan won the Sahara Cup\"",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which part of a formal letter contains the main message?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Signature",
-        "Salutation",
-        "Body",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The idiom “Under the weather” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To weather a storm",
-        "Standing in bad weather",
-        "Feeling unwell/sick",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Man who loves mountains is called?",
-      "urdu": "وہ شخص جو پہاڑوں سے محبت کرتا ہو اسے کیا کہا جاتا ہے؟",
-      "options": [
-        "Bibliophile",
-        "Photophile",
-        "Orophile",
-        "Selenophile"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the idiomatic expression to spill the beans mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To reveal a secret or surprise",
-        "To make a mistake or error",
-        "To share good news or exciting information",
-        "To keep a secret or confidential information"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mother said, \"may you succeed.\" \"Indirect\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Mother asks that I might succeed",
-        "Mother prayed that I might succeed",
-        "Mother prayed that I may succeed",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "China hosted how many council of head of states summits of SCO?",
-      "urdu": "چین نے شنگھائی تعاون تنظیم  کے سربراہانِ مملکت  کے کتنے اجلاسوں کی میزبانی کی ہے؟",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\">China has hosted five Council of Heads of State summits of the Shanghai Cooperation Organisation (SCO) in:</font></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
       "category": "all"
     }
   ]
