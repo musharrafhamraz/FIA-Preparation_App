@@ -3,368 +3,186 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-09T05:24:01.324424",
+    "fetched_at": "2026-05-10T05:39:37.901377",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the height range of the Lesser Himalaya given in the text?",
-      "urdu": "متن میں کم تر مالیہ کی بلندی کا دائرہ کیا بتایا گیا ہے؟",
+      "q": "In 2026, Pakistan is playing a mediatory role between which two countries?",
+      "urdu": "دو ہزار چھبیس میں پاکستان کن دو ممالک کے درمیان ثالثی کا کردار ادا کر رہا ہے؟",
       "options": [
-        "600 to 1,000 metres",
-        "1,800 to 5,500 metres",
-        "1,500 to 3,000 metres",
-        "750 to 900 metres"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">Lesser Himalaya</font><font color=\"#0000ff\"> is a middle mountain range of the </font><font color=\"#ff0000\">Himalayas</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to the 2017 census, what was the overall sex ratio in Pakistan?",
-      "urdu": "سن 2017 کی مردم شماری کے مطابق پاکستان میں مجموعی جنسی تناسب کیا تھا؟",
-      "options": [
-        "100%",
-        "106%",
-        "104%",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Key Provincial Sex Ratios (2017 Census):</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Cripps Mission visited India in?",
-      "urdu": "کرپس مشن نے کس سال ہندوستان کا دورہ کیا؟",
-      "options": [
-        "1942",
-        "1946",
-        "1944",
+        "USA and Iran",
+        "Russia and Ukraine",
+        "India and China",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><span style=\"color: red; font-family: Helvetica; font-weight: bolder; font-size: 0.875rem;\">*</span></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which event marked the final collapse of unity?",
-      "urdu": "اتحاد کے حتمی خاتمے کی علامت کون سا واقعہ تھا؟",
+      "q": "What major problem did Pakistan face due to tensions with Afghanistan at the start of 2026?",
+      "urdu": "سن 2026 کے آغاز میں افغانستان کے ساتھ کشیدگی کی وجہ سے پاکستان کو کس بڑے مسئلے کا سامنا کرنا پڑا؟",
       "options": [
-        "Industrial reform",
-        "1971 conflict",
-        "Education policy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">1971 conflict</font><font color=\"#0000ff\"> (Pakistan–India war leading to East Pakistan separation) marked the </font><font color=\"#ff0000\">final collapse of unity</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which disparity was most critical in East-West relations?",
-      "urdu": "مشرقی اور مغربی پاکستان کے تعلقات میں سب سے اہم عدم توازن کون سا تھا؟",
-      "options": [
-        "Economic imbalance",
-        "Equal governance",
-        "Cultural similarity",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">• The most </font><font color=\"#ff0000\">critical issue</font><font color=\"#0000ff\"> between </font><font color=\"#ff0000\">East and West Pakistan </font><font color=\"#0000ff\">was economic disparity.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which characteristic increases the economic importance of a seaport?",
-      "urdu": "بندرگاہ کی معاشی اہمیت کو کون سی خصوصیت بڑھاتی ہے؟",
-      "options": [
-        "Low activity",
-        "Isolation from trade routes",
-        "Connectivity with global markets",
+        "Trade surplus",
+        "Water shortage",
+        "Security and border issues",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• A </font><font color=\"#ff0000\">seaport</font><font color=\"#0000ff\"> becomes economically important when it is </font><font color=\"#ff0000\">well connected with international </font><font color=\"#0000ff\">trade routes and global markets.</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which factor most reduces effective water availability?",
-      "urdu": "پانی کی مؤثر دستیابی کو سب سے زیادہ کون سی چیز کم کرتی ہے؟",
+      "q": "Which Iranian President died in a helicopter crash in 2024?",
+      "urdu": "دو ہزار چوبیس میں کون سا ایرانی صدر ہیلی کاپٹر کے حادثے میں شہید ہوا؟",
       "options": [
-        "Rainfall increase",
-        "Dam construction",
-        "Water losses in canals",
-        "None of these"
+        "Ahmadi Najad",
+        "Hamid Karzai",
+        "Ebrahim Raisi",
+        "Hosni Mubarak"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Water losses in canals</font><font color=\"#0000ff\"> (through seepage, evaporation, and leakage) significantly reduce </font><font color=\"#ff0000\">effective water availability</font><font color=\"#0000ff\">.</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Pakistan's geo-strategic importance is enhanced due to?",
-      "urdu": "پاکستان کی جغرافیائی و تزویراتی اہمیت کس وجہ سے بڑھتی ہے؟",
+      "q": "What is the term for the process of interpreting the Quran through the Quran itself?",
+      "urdu": "قرآن کے ذریعے قرآن کی تفسیر کرنے کے عمل کو کیا اصطلاح کہتے ہیں؟",
       "options": [
-        "Internal trade",
-        "Limited borders",
-        "Proximity to multiple regions",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Pakistan’s geo-strategic</font><font color=\"#0000ff\"> importance comes from its location at the crossroads of </font><font color=\"#ff0000\">South Asia, Central Asia, and the Middle East</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which natural region is least suitable for intensive agriculture?",
-      "urdu": "کون سا قدرتی علاقہ زیادہ زرعی کاشت کے لیے سب سے کم موزوں ہے؟",
-      "options": [
-        "Balochistan Plateau",
-        "Indus Plains",
-        "Coastal plains",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">Balochistan Plateau </font><font color=\"#0000ff\">is least suitable for intensive agriculture due to </font><font color=\"#ff0000\">dry climate and low rainfall</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which factor explains seasonal rainfall variations in Pakistan?",
-      "urdu": "پاکستان میں موسمی بارشوں کے فرق کی بنیادی وجہ کیا ہے؟",
-      "options": [
-        "Trade patterns",
-        "Monsoon system",
-        "Population growth",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Seasonal rainfall</font><font color=\"#0000ff\"> in Pakistan is mainly controlled by the </font><font color=\"#ff0000\">monsoon system</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which feature most distinguishes Pakistani society from a homogeneous structure?",
-      "urdu": "پاکستانی معاشرے کو یکساں ڈھانچے سے سب سے زیادہ کیا چیز مختلف بناتی ہے؟",
-      "options": [
-        "Political stability",
-        "Economic equality",
-        "Cultural plurality",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Pakistani society</font><font color=\"#0000ff\"> is best described as </font><font color=\"#ff0000\">culturally diverse</font><font color=\"#0000ff\"> rather than homogeneous.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which principle underlies the demand for a separate Muslim state?",
-      "urdu": "ایک الگ مسلم ریاست کے مطالبے کی بنیاد کون سا اصول ہے؟",
-      "options": [
-        "Regional integration",
-        "Linguistic similarity",
-        "Distinct ideological",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• The demand for a </font><font color=\"#ff0000\">separate Muslim state</font><font color=\"#0000ff\"> was based on the </font><font color=\"#ff0000\">Two-Nation Theory</font><font color=\"#0000ff\">, which emphasized a </font><font color=\"#ff0000\">distinct ideological identity</font><font color=\"#0000ff\"> for Muslims.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which condition most strengthened Muslim political identity before independence?",
-      "urdu": "آزادی سے پہلے مسلمانوں کی سیاسی شناخت کو سب سے زیادہ مضبوط کس حالت نے کیا؟",
-      "options": [
-        "Industrial growth",
-        "Economic prosperity",
-        "Minority status under majority rule",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Muslims</font><font color=\"#0000ff\"> developed a </font><font color=\"#ff0000\">strong</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">political identity </font><font color=\"#0000ff\">when they realized they were a minority under </font><font color=\"#ff0000\">Hindu majority rule in British India</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Quantum of energy is called?",
-      "urdu": "توانائی کے کوانٹم کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Neutron",
-        "Electron",
-        "Photon",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• A </font><font color=\"#ff0000\">quantum of energy of light</font><font color=\"#0000ff\"> (electromagnetic radiation) is called a </font><font color=\"#ff0000\">photon</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Photoelectric emission stops if?",
-      "urdu": "فوٹو الیکٹرک اخراج کب رک جاتا ہے؟",
-      "options": [
-        "Frequency below threshold",
-        "Temperature rises",
-        "Frequency increases",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Photoelectric emission</font><font color=\"#0000ff\"> stops when the frequency of incident light is below the </font><font color=\"#ff0000\">threshold frequency of the metal</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Spring tides occur when?",
-      "urdu": "بہار کی لہریں کب پیدا ہوتی ہیں؟",
-      "options": [
-        "Earth slows",
-        "Moon and Sun align",
-        "Wind increases",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Spring tides</font><font color=\"#0000ff\"> occur when the </font><font color=\"#ff0000\">Earth, Moon, and Sun</font><font color=\"#0000ff\"> are in a straight line (aligned).</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which water source is most important for irrigation canals?",
-      "urdu": "آبپاشی (نہروں) کے لیے سب سے اہم پانی کا ذریعہ کون سا ہے؟",
-      "options": [
-        "Rain",
-        "Lakes",
-        "Rivers",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Rivers</font><font color=\"#0000ff\"> are the main source of water for </font><font color=\"#ff0000\">irrigation canals</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sector uses energy mainly for machinery operation?",
-      "urdu": "کون سا شعبہ زیادہ تر توانائی مشینری چلانے کے لیے استعمال کرتا ہے؟",
-      "options": [
-        "Industrial",
-        "Commercial",
-        "Agriculture",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">industrial sector</font><font color=\"#0000ff\"> uses energy mainly for </font><font color=\"#ff0000\">running machines, factories, and production systems</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Natural gas is transported mainly through?",
-      "urdu": "قدرتی گیس زیادہ تر کس ذریعے سے منتقل کی جاتی ہے؟",
-      "options": [
-        "Trucks",
-        "Ships",
-        "Pipelines",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Natural gas</font><font color=\"#0000ff\"> is mainly transported through </font><font color=\"#ff0000\">pipelines</font><font color=\"#0000ff\"> over long distances.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Biomass energy is derived from?",
-      "urdu": "بایوماس توانائی کس چیز سے حاصل ہوتی ہے؟",
-      "options": [
-        "Fossil fuels",
-        "Minerals",
-        "Organic matter",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Biomass energy</font><font color=\"#0000ff\"> is produced from </font><font color=\"#ff0000\">organic matter</font><font color=\"#0000ff\"> such as </font><font color=\"#ff0000\">plants, animals, and waste materials</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organism is known as the powerhouse of the cell?",
-      "urdu": "کس جاندار کو سیل کا پاور ہاؤس کہا جاتا ہے؟",
-      "options": [
-        "Organ powerhouse",
-        "Cell membrane",
-        "Cytoplasm",
-        "Mitochondria"
+        "Istinbat",
+        "Tahlil",
+        "Tawil",
+        "Tafsir"
       ],
       "correct": 3,
-      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\">Main Parts of a Cell</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-04-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which vitamin helps in the clotting of blood?",
-      "urdu": "کون سا وٹامن خون کے جمنے میں مدد کرتا ہے؟",
+      "q": "The WHO Pandemic Agreement was adopted at the World Health Organization in?",
+      "urdu": "عالمی ادارۂ صحت میں عالمی وبا سے متعلق معاہدہ کب منظور کیا گیا؟",
       "options": [
-        "Vitamin A",
-        "Vitamin B",
-        "Vitamin K",
-        "Vitamin D"
+        "New York",
+        "Paris",
+        "Geneva at World Health Assembly (WHA)",
+        "London"
       ],
       "correct": 2,
-      "explanation": "<p><ul></ul><div><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b><font color=\"#ff0000\">Vitamin C </font><font color=\"#0000ff\">may protect the </font><font color=\"#ff0000\">body</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">against</font><font color=\"#0000ff\"> the effects of pollution.</font></b></li><li><b><font color=\"#0000ff\">It may also prevent </font><font color=\"#ff0000\">blood clots and reduce bruising</font><font color=\"#0000ff\">.</font></b></li></ul></p>",
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span></p>",
       "category": "all"
     },
     {
-      "q": "Laser light is intense due to?",
-      "urdu": "لیزر روشنی زیادہ شدید کیوں ہوتی ہے؟",
+      "q": "The Suez Canal obstruction in March 2021 blocked traffic for?",
+      "urdu": "مارچ 2021 میں سوئز کینال  کی بندش سے ٹریفک کتنے عرصے کے لیے رکی رہی؟",
       "options": [
-        "Reflection",
-        "Absorption",
-        "Coherence",
-        "None of these"
+        "3 days",
+        "5 days",
+        "6 days 7 hours",
+        "10 days"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Laser light</font><font color=\"#0000ff\"> is intense because its light waves are </font><font color=\"#ff0000\">coherent</font><font color=\"#0000ff\">, meaning they </font><font color=\"#ff0000\">remain in the same phase and travel together</font><font color=\"#0000ff\">.</font></b></p>",
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff00ff\"></font></p>",
       "category": "all"
     },
     {
-      "q": "Which device converts digital signals into human-readable form?",
-      "urdu": "کون سا آلہ ڈیجیٹل سگنلز کو انسان کے پڑھنے کے قابل شکل میں تبدیل کرتا ہے؟",
+      "q": "Increase in oil price results in?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "CPU",
-        "Output unit",
-        "Input unit",
-        "None of these"
+        "Demand-pull inflation",
+        "Cost-push inflation",
+        "Deflation",
+        "No inflation"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">• The </font><font color=\"#ff0000\">output unit</font><font color=\"#0000ff\"> converts processed digital data into </font><font color=\"#ff0000\">human-readable</font><font color=\"#0000ff\"> form such as </font><font color=\"#ff0000\">text, images, or sound</font><font color=\"#0000ff\">.</font></b></p>",
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff0000\"></font></p>",
       "category": "all"
     },
     {
-      "q": "Isotones are atoms having same?",
-      "urdu": "آئسوٹون ایسے ایٹمز ہوتے ہیں جن میں کیا ایک جیسا ہوتا ہے؟",
+      "q": "Her way of teaching is so ___ that everyone understands.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Neutrons",
-        "Protons",
-        "Mass number",
-        "None of these"
+        "Complex",
+        "Confusing",
+        "Lucid",
+        "Difficult"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Her way of teaching is so <span style=\"background-color: rgb(255, 255, 0);\">Lucid</span> that everyone understands.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "3x + 24 = 16, x-y =2, value of x is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "8/3",
+        "−8/3",
+        "3/8",
+        "−3/8"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"40\" data-start=\"24\"><strong data-end=\"40\" data-start=\"24\"><font color=\"#0000ff\">3x + 24 = 16</font></strong></p>",
+      "category": "all"
+    },
+    {
+      "q": "By the time the train arrived, we ___ waiting at the station.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Are",
+        "Have been",
+        "Had been",
+        "Were being"
+      ],
+      "correct": 2,
+      "explanation": "<p>\n<p data-end=\"277\" data-start=\"260\"></p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 1857 War of Independence is primarily known as?",
+      "urdu": "جنگِ آزادی 1857  کو بنیادی طور پر کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "The Great Revolt of 1857",
+        "The Indian Sepoy Mutiny",
+        "The First World War",
+        "The Anglo-Afghan War"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Amanah denotes?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Trust",
+        "Enmity",
+        "Greed",
+        "Arrogance"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Isotones</font><font color=\"#0000ff\"> are atoms of </font><font color=\"#ff0000\">different elements</font><font color=\"#0000ff\"> having the </font><font color=\"#ff0000\">same number</font><font color=\"#0000ff\"> of </font><font color=\"#ff0000\">neutrons</font><font color=\"#0000ff\">.</font></b></p>",
+      "explanation": "<p><font color=\"#0000ff\">Amanah means being honest, </font><font color=\"#ff0000\">trustworthy, and responsible in keeping a trust.</font></p>",
       "category": "all"
     },
     {
-      "q": "Which radiation has intermediate penetrating power?",
-      "urdu": "کون سی شعاع درمیانی درجے کی نفوذی طاقت رکھتی ہے؟",
+      "q": "The Last Hajj is called?",
+      "urdu": "آخری حج کو کیا کہا جاتا ہے؟",
       "options": [
-        "Beta",
-        "Gamma",
-        "Infrared",
-        "None of these"
+        "Hajj-ul-Wida (Farewell Hajj)",
+        ". Hajj-ul-Akbar",
+        "Hajj-ul-Asghar",
+        "Hajj-ul-Nab"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">Beta radiation</font><font color=\"#0000ff\"> has </font><font color=\"#ff0000\">intermediate</font><font color=\"#0000ff\"> penetrating power between </font><font color=\"#ff0000\">alpha and gamma </font><font color=\"#0000ff\">rays.</font></b></p>",
+      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
       "category": "all"
     },
     {
-      "q": "The maximum mass of an atom is concentrated in _____?",
-      "urdu": "ایک ایٹم کا زیادہ سے زیادہ وزن _____ میں مرتکز ہے؟",
+      "q": "The Synonym of Obfuscate is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Electron",
-        "Proton",
-        "Neutron",
-        "Nucleus"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which energy source is most suitable for base-load power generation due to stable fuel supply?",
-      "urdu": "مستحکم ایندھن کی فراہمی کی وجہ سے بیس لوڈ بجلی پیدا کرنے کے لیے کون سا توانائی کا ذریعہ سب سے زیادہ موزوں ہے؟",
-      "options": [
-        "Coal energy",
-        "Wind energy",
-        "Solar energy",
+        "Blur",
+        "Enlighten",
+        "Reveal",
         "None of these"
       ],
       "correct": 0,
@@ -372,289 +190,471 @@
       "category": "all"
     },
     {
-      "q": "Windows + F1 shortcut key is used to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the real meaning of Qiyas?",
+      "urdu": "قیاس کا اصل معنی کیا ہے؟",
       "options": [
-        "Open File Explorer",
-        "Open Help and Support",
-        "Refresh Desktop",
-        "Open Settings"
+        "Searching",
+        "Judging",
+        "Consensus",
+        "Thinking"
       ],
       "correct": 1,
-      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><br/></p>",
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#846300\" style=\"\"></font></p>",
       "category": "all"
     },
     {
-      "q": "If base doubles and height remains same, area becomes?",
+      "q": "If I ____ you, I would take the offer.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Half",
-        "Triple",
-        "Double",
+        "Was",
+        "Were",
+        "Are",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "If a² + b² = 50 and a = 5 then b equals?",
+      "q": "The Synonym of Intransigent is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "5",
-        "6",
-        "7",
+        "Flexible",
+        "Unyielding",
+        "Agreeable",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "To steal someone’s thunder means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To help someone",
+        "To take attention",
+        "To frighten someone",
+        "To make someone happy"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">To \"steal someone’s thunder\" means to</font><font color=\"#ff0000\"> take credit, attention</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Obdurate Urdu Meaning?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "نرم دل",
+        "ضدی",
+        "خوش مزاج",
+        "ایماندار"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style='font-weight: bold; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><font color=\"#ff0000\">Obdurate means ضد کرنے والا</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Repudiate is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Accept",
+        "Reject",
+        "Approve",
+        "Support"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Main purpose/reason for GDP reduction from 2020 to 2022 was?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Increase in exports",
+        "Global economic slowdown due to COVID-19 pandemic",
+        "Rise in tourism",
+        "Increase in foreign investment"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff9c00\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Inchoate Urdu Meaning?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مکمل",
+        "ترقی یافتہ",
+        "نامکمل",
+        "طاقتور"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Inchoate Urdu Meaning:</font><font color=\"#ff0000\"> <span style=\"font-size: 0.875rem;\"> ابتدائی / نامکمل / غیر ترقی یافتہ</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is Bicameral Legislation?",
+      "urdu": "بائیکیمرل قانون سازی کیا ہے؟",
+      "options": [
+        "Based on Two Houses",
+        "Based on One House",
+        "Based on Multi-Houses",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">a² + b² = 50  </font></b></p>",
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 09-05-2026</font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "If sum of two sides equals the third side, the figure is?",
+      "q": "CPEC Phase II main focus is on?",
+      "urdu": "سی پیک  کے دوسرے مرحلے کا مرکزی فوکس کس پر ہے؟",
+      "options": [
+        "Road construction only",
+        "Industrial cooperation and Special Economic Zones (SEZs)",
+        "Defense agreements",
+        "Tourism only"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><span style=\"font-size: 0.875rem;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Transient is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Circle",
-        "Square",
-        "Straight line",
-        "None of these"
+        "Obituary",
+        "Permanent",
+        "Temporal",
+        "None of the above"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "World Red Cross and Red Crescent Day is celebrated annually on which date?",
-      "urdu": "عالمی ریڈ کراس اور ہلال احمر کا دن ہر سال کس تاریخ کو منایا جاتا ہے؟",
+      "q": "What is the literal meaning of Ijtihad?",
+      "urdu": "اجتہاد کا لفظی مطلب کیا ہے؟",
       "options": [
-        "May 1",
-        "May 10",
-        "May 8",
-        "None of these"
+        "Consensus",
+        "Attempt",
+        "Law",
+        "Power"
       ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">World Red Cross Day is annually celebrated on </span><span style=\"font-weight: bolder;\">8 May.</span></p>",
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "(5x + 3)/(x(x + 1) decomposes as?",
+      "q": "How many SEZs were agreed and how many were prioritised under CPEC?",
+      "urdu": "سی پیک کے تحت کتنے اسپیشل اکنامک زونز پر اتفاق کیا گیا اور کتنے کو ترجیح دی گئی؟",
+      "options": [
+        "7 agreed, 3 prioritised",
+        "9 agreed, 4 prioritised",
+        "10 agreed, 5 prioritised",
+        "8 agreed, 2 prioritised"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mujadid Alif Sani is title of _____?",
+      "urdu": "مجدد الف ثانی کس کا لقب ہے؟",
+      "options": [
+        "Shah Waliullah",
+        "Syed Ahmed Shaheed",
+        "Sheikh Ahmad Sirhindi",
+        "Syed Ahmad Khan"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "To throw down the gauntlet means?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "4/x + 1/(x + 1)",
-        "1/x + 4/(x + 1)",
-        "3/x + 2/(x + 1)",
-        "None of these"
+        "To surrender",
+        "To accept defeat",
+        "To issue a challenge someone to fight",
+        "To avoid conflict"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Problem: (5x + 3)/(x(x + 1))</font></b></p>",
+      "explanation": "<p><font color=\"#0000ff\">To throw down the gauntlet  means to issue a challenge</font><font color=\"#ff0000\">, provoke a confrontation, or dare someone to argue or compete with you</font></p>",
       "category": "all"
     },
     {
-      "q": "If f(x) = x² - x, then f(2) - f(1) equals?",
+      "q": "The first Surah of the Holy Quran is ____?",
+      "urdu": "قرآن پاک کی پہلی سورت کون سی ہے؟",
+      "options": [
+        "Surah-e-Baqarah",
+        "Surah-e-Nisa",
+        "Surah-e-Nas",
+        "Surah-e-Fatiha"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which year was the Paris Agreement signed?",
+      "urdu": "پیرس معاہدے پر کس سال دستخط ہوئے؟",
+      "options": [
+        "2012",
+        "2015",
+        "2018",
+        "2020"
+      ],
+      "correct": 1,
+      "explanation": "<p \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px; font-family: \"><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><b style=\"font-weight: bold;\"><span style=\"font-size: 1rem; font-family: Helvetica;\"><span style=\"color: rgb(255, 0, 0);\"></span></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The longest river in Pakistan is ____?",
+      "urdu": "پاکستان کا سب سے لمبا دریا کونسا ہے؟",
+      "options": [
+        "Ravi",
+        "Indus",
+        "Chenab",
+        "Jhelum"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ffffff\" style=\"background-color: rgb(255, 0, 0);\"><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder;\">Additional information related to Indus River</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under Indus Water Treaty which of the following rivers were given to Pakistan?",
+      "urdu": "انڈس واٹر ٹریٹی کے تحت پاکستان کو مندرجہ ذیل میں سے کونسا دریا دیا گیا؟",
+      "options": [
+        "Indus, Jhelum and Chenab",
+        "Ravi and Indus",
+        "Indus and Jhelum",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(255, 0, 0); font-family: Helvetica; background-color: rgb(255, 255, 0);\">Last updated by NS on 06 May 2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of \"Diligent\" is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Lazy",
+        "Hardworking",
+        "Active",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Diligent means محنتی</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the synonym of UBIQUITOUS?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Affluent",
+        "Resigning",
+        "Omni-present",
+        "Omni-potent"
+      ],
+      "correct": 2,
+      "explanation": "<p><div><font color=\"#0000ff\">Ubiquitous means </font><font color=\"#ff0000\">found everywhere,</font></div><div><font color=\"#0000ff\">Omnipresent: </font><font color=\"#ff9c00\">Present everywhere simultaneously.</font></div> <span style=\"background-color: rgb(255, 255, 0); color: rgb(255, 0, 255); font-size: 0.875rem;\">Last updated question NS on 09 MAY 2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has hosted 29th United Nations Climate Change Conference (COP29)?",
+      "urdu": "کس ملک نے اقوام متحدہ کی 29ویں موسمیاتی تبدیلی کانفرنس کی میزبانی کی ہے؟",
+      "options": [
+        "UAE",
+        "Egypt",
+        "Azerbaijan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#0000ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "COP 28 will be hosted by?",
+      "urdu": "کاپ 28  کی میزبانی کس ملک نے کی؟",
+      "options": [
+        "UAE",
+        "UK",
+        "USA",
+        "None"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#00ff00\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The marked price of a coat is Rs. 2000. The shopkeeper offers his customer two successive discounts 10% and 5%. Find the final selling price of the coat?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 1710",
+        "Rs. 1690",
+        "Rs. 1675",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let's calculate the final selling price after two successive discounts of 10% and 5% on the marked price of Rs. 2000.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When Hijra started?",
+      "urdu": "ہجرت کب شروع ہوئی؟",
+      "options": [
+        "12th Rabi-ul-Awwal of 14th year of Nabawat",
+        "12th of Rabi-ul-Awwal of 12th year of Nabawat",
+        "12th of Rabi-ul-Awwal of 13th year of Nabawat",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "CPEC connected Gwadar to city of China ______?",
+      "urdu": "سی پیک گوادر کو چین کے کس شہر سے ملاتا ہے؟",
+      "options": [
+        "Beijing",
+        "Wakhan",
+        "Kashgar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Prophet Ibrahim (A.S) is a friend of whom?",
+      "urdu": "حضرت ابراہیم علیہ السلام اللہ کے کس دوست کے طور پر جانے جاتے ہیں؟",
+      "options": [
+        "Nuh A.S",
+        "Dawood A.S",
+        "Musa A.S",
+        "None of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ffffff\" style=\"background-color: rgb(156, 0, 0);\">Based on the options provided (Nuh A.S, Dawood A.S, Musa A.S), the correct answer is None of the Above</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Laws about Zina revealed in ___A.H",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
         "2",
+        "3",
         "4",
-        "6",
-        "None of these"
+        "5"
       ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">f(2) = 2² - 2 = 4 - 2 = 2  </font></b></p>",
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff00ff\">Last updated question on 09 MAY 2026</font></span></p>",
       "category": "all"
     },
     {
-      "q": "If y ∝ x and y = 10 when x = 2 find y when x = 7?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is named as Shaikh-ul-Anbia?",
+      "urdu": "شیخُ الانبیاء کس نبی کو کہا جاتا ہے؟",
       "options": [
-        "25",
-        "35",
-        "45",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">y ∝ x means y = kx  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Solve: 2(x + 1) = x + 7?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">2(x + 1) = x + 7  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If roots of x² - 6x + 8 + 0 are increased by 1, new equation is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "x² - 8x + 15 = 0",
-        "x² - 5x + 6 + 0",
-        "x² - 7x + 12 + 0",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">x² - 6x + 8 = 0 → (x - 2)(x - 4) = 0  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If x² - px + 24 has factors differing by 2, then p equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "9",
-        "10",
-        "11",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the roots be r and r + 2.  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If (a + bi)(a - bi) = 17 and a + b = 5, then a² + b² equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "16",
-        "17",
-        "18",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">(a + bi)(a - bi) = a² - (bi)² = a² - b²i² = a² - b²(-1) = a² + b²  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is given as an example of a perennial canal?",
-      "urdu": "مندرجہ ذیل میں سے کون سا نہر دائمی کی مثال ہے؟",
-      "options": [
-        "Upper Chenab Canal",
-        "A seasonal flood channel",
-        "Marala-Ravi Canal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "On which date did the UN Security Council commission submit its report regarding Kashmir plebiscite according to the chapter?",
-      "urdu": "باب کے مطابق اقوام متحدہ کی سلامتی کونسل کی کشمیر میں رائے شماری کے حوالے سے رپورٹ کس تاریخ کو پیش کی گئی؟",
-      "options": [
-        "6 February 1948",
-        "10 May 1946",
-        "5 January 1949",
+        "Hazrat Musa (عليهم السلام)",
+        "Hazrat Essa (عليهم السلام)",
+        "Hazrat Noah (عليهم السلام)",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#0000ff\">His </font><font color=\"#ff0000\">famous titles </font><font color=\"#0000ff\">include:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "From which place does the Outer Himalaya start according to the chapter?",
-      "urdu": "بیرونی ہمالیہ کہاں سے شروع ہوتا ہے؟",
+      "q": "Ghazwa-e-Badr occurred in which hijrah?",
+      "urdu": "غزوہ بدر کس ہجری میں ہوا؟",
       "options": [
-        "Attock",
-        "Mithankot",
-        "Pamir Knot",
-        "None of these"
+        "2nd",
+        "3rd",
+        "4th",
+        "1st"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 09-05-2026</font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "According to the 2017 census, how many males were there in Pakistan?",
-      "urdu": "سن 2017 کی مردم شماری کے مطابق پاکستان میں مردوں کی تعداد کتنی تھی؟",
+      "q": "What was the old name of Madina?",
+      "urdu": "مدینہ کا پرانا نام کیا تھا؟",
       "options": [
-        "106.4 million",
-        "101.3 million",
-        "112.24 million",
-        "None of these"
+        "Bakkah",
+        "Hujaz",
+        "Najad",
+        "Yasrab"
       ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "correct": 3,
+      "explanation": "<p \"helvetica=\"\" 24px;\"=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" line-height:=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0in 0in 0.0001pt 9pt; color: rgb(33, 37, 41); padding: 0px;\"><span style=\"font-weight: bolder;\"><span style=\"color: red; font-family: Helvetica;\">*****</span></span></p>",
       "category": "all"
     },
     {
-      "q": "Which leader seconded the Lahore Resolution according to the book?",
-      "urdu": "لاہور قرارداد کی تائید کس رہنما نے کی؟",
+      "q": "Name the renowned cleric & ex-JUI MPA who was gunned down in KP's Charsadda in May 2026?",
+      "urdu": "معروف عالم دین اور جے یو آئی کے سابق ایم پی اے کا نام بتائیں جنہیں مئی 2026 میں کے پی کے چارسدہ میں گولی مار کر قتل کیا گیا تھا؟",
       "options": [
-        "Nawab Ismail Khan",
-        "Molana Zafar Ali Khan",
-        "Chaudhry Khaliquzzaman",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which political factor accelerated the final break in 1971?",
-      "urdu": "سن 1971 میں کون سا سیاسی عنصر حتمی علیحدگی کا باعث بنا؟",
-      "options": [
-        "Balanced development",
-        "Stable governance",
-        "Denial of electoral mandate",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which economic issue deepened grievances in East Pakistan?",
-      "urdu": "مشرقی پاکستان میں کون سا معاشی مسئلہ شکایات کو بڑھانے کا باعث بنا؟",
-      "options": [
-        "Industrial growth",
-        "Unequal economic policies",
-        "Trade surplus",
+        "Fazal-u-Rehman",
+        "Muhammad Idrees",
+        "Mufti Tariq Masood",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">On</font><font color=\"#ff0000\"> 5 May 2026</font><font color=\"#0000ff\">, renowned religious scholar and\r\nformer Jamiat Ulema-e-Islam Pakistan-Fazl (JUI-F) MPA </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Maulana Sheikh Muhammad\r\nIdrees</font><font color=\"#0000ff\"> was shot dead in a targeted attack in Khyber Pakhtunkhwa’s </font>Charsadda\r\n<font color=\"#0000ff\">district.<o:p></o:p></font></b></span></p>",
       "category": "all"
     },
     {
-      "q": "Which factor enhances the strategic value of Pakistan's ports?",
-      "urdu": "پاکستان کی بندرگاہوں کی اسٹریٹجک اہمیت کو کون سا عنصر بڑھاتا ہے؟",
+      "q": "Where was the 2026 Thomas Cup, an international badminton competition held?",
+      "urdu": "دو ہزار چھبیس تھامس کپ، ایک بین الاقوامی بیڈمنٹن مقابلہ کہاں منعقد ہوا؟",
       "options": [
-        "Limited connectivity",
-        "Isolation",
-        "Access to international sea",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which issue most threatens irrigation sustainability?",
-      "urdu": "آبپاشی کی پائیداری کو سب سے زیادہ کون سا مسئلہ خطرے میں ڈالتا ہے؟",
-      "options": [
-        "Canal expansion",
-        "Water mismanagement",
-        "Dam construction",
+        "Germany",
+        "Denmark",
+        "Poland",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the <span style=\"background-color: rgb(255, 255, 0);\">2026 Thomas Cup title</span><o:p></o:p></font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "Pakistan's location is critical primarily because it?",
-      "urdu": "پاکستان کا محلِ وقوع بنیادی طور پر کیوں اہم ہے؟",
+      "q": "Which principle best defines respect for humanity in Islam?",
+      "urdu": "اسلام میں انسانیت کے احترام کی بہترین بنیاد کیا ہے؟",
       "options": [
-        "Connects major regions of Asia",
-        "Limits trade",
-        "Is isolated geographically",
+        "Conditional dignity",
+        "Authority-based treatment",
+        "Universal respect with justice",
         "None of these"
       ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which misunderstanding most reduces modesty to superficiality?",
+      "urdu": "کون سی غلط فہمی حیا کو صرف ظاہری شکل تک محدود کر دیتی ہے؟",
+      "options": [
+        "Combining inner and outer",
+        "Respecting others",
+        "Limiting modesty to dress alone",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which behavior best demonstrates integrity under ethical pressure?",
+      "urdu": "اخلاقی دباؤ کے تحت کون سا رویہ دیانت کو بہترین طور پر ظاہر کرتا ہے؟",
+      "options": [
+        "Maintaining image",
+        "Upholding justice despite disadvantage",
+        "Adapting truth to situation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
       "category": "all"
     }
   ]
