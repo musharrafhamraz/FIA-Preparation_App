@@ -3,17 +3,134 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-10T05:39:37.901377",
+    "fetched_at": "2026-05-11T06:01:00.200199",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "In 2026, Pakistan is playing a mediatory role between which two countries?",
-      "urdu": "دو ہزار چھبیس میں پاکستان کن دو ممالک کے درمیان ثالثی کا کردار ادا کر رہا ہے؟",
+      "q": "What is the concept of Shura (Shurah)?",
+      "urdu": "شوریٰ کا تصور کیا ہے؟",
       "options": [
-        "USA and Iran",
-        "Russia and Ukraine",
-        "India and China",
+        "Rule by military",
+        "Decision-making through consultation",
+        "Judicial system",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under what amendment to the constitution of Pakistan, maximums provincial autonomy is ensured?",
+      "urdu": "پاکستان کے آئین میں کس ترمیم کے تحت زیادہ سے زیادہ صوبائی خودمختاری کو یقینی بنایا گیا؟",
+      "options": [
+        "20th",
+        "18th",
+        "17th",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which language Shah Wali Ullah translated the Holy Quran?",
+      "urdu": "شاہ ولی اللہ نے قرآن پاک کا ترجمہ کس زبان میں کیا؟",
+      "options": [
+        "Sindhi",
+        "English",
+        "Persian",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On which place, first Wahi was descended?",
+      "urdu": "سب سے پہلے وحی کس مقام پر نازل ہوئی؟",
+      "options": [
+        "Sore Cave",
+        "Hira Cave",
+        "Khana-Kaaba",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); font-weight: 700; font-size: 0.875rem;\"><br/></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which house of Pakistan represents all provinces equally?",
+      "urdu": "پاکستان میں کون سا ایوان تمام صوبوں کی برابر نمائندگی کرتا ہے؟",
+      "options": [
+        "National Assembly",
+        "Senate",
+        "Provincial Assembly",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In climate change context, COP stands for?",
+      "urdu": "موسمیاتی تبدیلی کے تناظر میں سی او پی کا مطلب کیا ہے؟",
+      "options": [
+        "Climate Organization Panel",
+        "Conference of Parties",
+        "Committee of Paris",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Key feature of IMF Stand-By Agreement is that it?",
+      "urdu": "آئی ایم ایف اسٹینڈ بائے معاہدے کی بنیادی خصوصیت کیا ہے؟",
+      "options": [
+        "Cancels all foreign debt automatically",
+        "Provides free grants without conditions",
+        "Gives short-term financial assistance with conditions",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Key purpose of SEZs (Special Economic Zones) under CPEC is?",
+      "urdu": "سی پیک کے تحت اسپیشل اکنامک زونز کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Increase agriculture only",
+        "Promote industrial development and foreign investment",
+        "Control inflation directly",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan and China have signed an agreement for ______ railway track in 2019.",
+      "urdu": "پاکستان اور چین نے 2019 میں ریلوے ٹریک کے لیے کس معاہدے پر دستخط کیے ہیں۔",
+      "options": [
+        "ML-1",
+        "ML",
+        "MS-5",
+        "Pak China Train"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Council of Common Interests (CCI) resolves the disputes of ______?",
+      "urdu": "کونسل آف کامن انٹرسٹس کن کے درمیان تنازعات حل کرتی ہے؟",
+      "options": [
+        "Power sharing between the Federation and Provinces",
+        "Federation",
+        "Provinces",
         "None of these"
       ],
       "correct": 0,
@@ -21,640 +138,523 @@
       "category": "all"
     },
     {
-      "q": "What major problem did Pakistan face due to tensions with Afghanistan at the start of 2026?",
-      "urdu": "سن 2026 کے آغاز میں افغانستان کے ساتھ کشیدگی کی وجہ سے پاکستان کو کس بڑے مسئلے کا سامنا کرنا پڑا؟",
+      "q": "Freedom of movement is provided under which Article of the Constitution of Pakistan?",
+      "urdu": "پاکستان کے آئین میں نقل و حرکت کی آزادی کس آرٹیکل میں دی گئی ہے؟",
       "options": [
-        "Trade surplus",
-        "Water shortage",
-        "Security and border issues",
+        "Article 14",
+        "Article 15",
+        "Article 16",
         "None of these"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which Iranian President died in a helicopter crash in 2024?",
-      "urdu": "دو ہزار چوبیس میں کون سا ایرانی صدر ہیلی کاپٹر کے حادثے میں شہید ہوا؟",
+      "q": "Pakistani Currency notes are issued by?",
+      "urdu": "پاکستانی کرنسی نوٹ کس ادارے کی طرف سے جاری کیے جاتے ہیں؟",
       "options": [
-        "Ahmadi Najad",
-        "Hamid Karzai",
-        "Ebrahim Raisi",
-        "Hosni Mubarak"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the term for the process of interpreting the Quran through the Quran itself?",
-      "urdu": "قرآن کے ذریعے قرآن کی تفسیر کرنے کے عمل کو کیا اصطلاح کہتے ہیں؟",
-      "options": [
-        "Istinbat",
-        "Tahlil",
-        "Tawil",
-        "Tafsir"
+        "National Bank",
+        "MCB",
+        "HBL",
+        "State Bank of Pakistan"
       ],
       "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-04-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">first emergency notes</font><font color=\"#0000ff\"> were printed by </font><font color=\"#ff0000\">De La Rue &amp; Company</font><font color=\"#0000ff\"> between </font><font color=\"#ff0000\">1948</font><font color=\"#0000ff\"> and </font><font color=\"#ff0000\">1960</font><font color=\"#0000ff\"> in denominations of:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The WHO Pandemic Agreement was adopted at the World Health Organization in?",
-      "urdu": "عالمی ادارۂ صحت میں عالمی وبا سے متعلق معاہدہ کب منظور کیا گیا؟",
+      "q": "The NFC Award is ______?",
+      "urdu": "این ایف سی ایوارڈ کیا ہے؟",
       "options": [
-        "New York",
-        "Paris",
-        "Geneva at World Health Assembly (WHA)",
-        "London"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Suez Canal obstruction in March 2021 blocked traffic for?",
-      "urdu": "مارچ 2021 میں سوئز کینال  کی بندش سے ٹریفک کتنے عرصے کے لیے رکی رہی؟",
-      "options": [
-        "3 days",
-        "5 days",
-        "6 days 7 hours",
-        "10 days"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Increase in oil price results in?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Demand-pull inflation",
-        "Cost-push inflation",
-        "Deflation",
-        "No inflation"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff0000\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Her way of teaching is so ___ that everyone understands.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Complex",
-        "Confusing",
-        "Lucid",
-        "Difficult"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Her way of teaching is so <span style=\"background-color: rgb(255, 255, 0);\">Lucid</span> that everyone understands.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "3x + 24 = 16, x-y =2, value of x is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "8/3",
-        "−8/3",
-        "3/8",
-        "−3/8"
-      ],
-      "correct": 1,
-      "explanation": "<p data-end=\"40\" data-start=\"24\"><strong data-end=\"40\" data-start=\"24\"><font color=\"#0000ff\">3x + 24 = 16</font></strong></p>",
-      "category": "all"
-    },
-    {
-      "q": "By the time the train arrived, we ___ waiting at the station.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Are",
-        "Have been",
-        "Had been",
-        "Were being"
-      ],
-      "correct": 2,
-      "explanation": "<p>\n<p data-end=\"277\" data-start=\"260\"></p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 1857 War of Independence is primarily known as?",
-      "urdu": "جنگِ آزادی 1857  کو بنیادی طور پر کس نام سے جانا جاتا ہے؟",
-      "options": [
-        "The Great Revolt of 1857",
-        "The Indian Sepoy Mutiny",
-        "The First World War",
-        "The Anglo-Afghan War"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Amanah denotes?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Trust",
-        "Enmity",
-        "Greed",
-        "Arrogance"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Amanah means being honest, </font><font color=\"#ff0000\">trustworthy, and responsible in keeping a trust.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Last Hajj is called?",
-      "urdu": "آخری حج کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Hajj-ul-Wida (Farewell Hajj)",
-        ". Hajj-ul-Akbar",
-        "Hajj-ul-Asghar",
-        "Hajj-ul-Nab"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Obfuscate is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Blur",
-        "Enlighten",
-        "Reveal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the real meaning of Qiyas?",
-      "urdu": "قیاس کا اصل معنی کیا ہے؟",
-      "options": [
-        "Searching",
-        "Judging",
-        "Consensus",
-        "Thinking"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#846300\" style=\"\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If I ____ you, I would take the offer.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Was",
-        "Were",
-        "Are",
+        "Water sharing formula within Federation",
+        "Funds sharing formula within Federation",
+        "Electricity sharing formula within Federation",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The Synonym of Intransigent is?",
+      "q": "5(x − 3) = 2(2x + 7)?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Flexible",
-        "Unyielding",
-        "Agreeable",
+        "1",
+        "29",
+        "29/1",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">5x − 15 = 4x + 14</font></b></p>",
       "category": "all"
     },
     {
-      "q": "To steal someone’s thunder means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who administers the oath to the Prime Minister of Pakistan?",
+      "urdu": "پاکستان کے وزیرِ اعظم سے حلف کون لیتا ہے؟",
       "options": [
-        "To help someone",
-        "To take attention",
-        "To frighten someone",
-        "To make someone happy"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">To \"steal someone’s thunder\" means to</font><font color=\"#ff0000\"> take credit, attention</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Obdurate Urdu Meaning?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نرم دل",
-        "ضدی",
-        "خوش مزاج",
-        "ایماندار"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style='font-weight: bold; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><font color=\"#ff0000\">Obdurate means ضد کرنے والا</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Repudiate is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Accept",
-        "Reject",
-        "Approve",
-        "Support"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Main purpose/reason for GDP reduction from 2020 to 2022 was?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Increase in exports",
-        "Global economic slowdown due to COVID-19 pandemic",
-        "Rise in tourism",
-        "Increase in foreign investment"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#ff9c00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Inchoate Urdu Meaning?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مکمل",
-        "ترقی یافتہ",
-        "نامکمل",
-        "طاقتور"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Inchoate Urdu Meaning:</font><font color=\"#ff0000\"> <span style=\"font-size: 0.875rem;\"> ابتدائی / نامکمل / غیر ترقی یافتہ</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is Bicameral Legislation?",
-      "urdu": "بائیکیمرل قانون سازی کیا ہے؟",
-      "options": [
-        "Based on Two Houses",
-        "Based on One House",
-        "Based on Multi-Houses",
+        "President",
+        "Senate Chairman",
+        "Speaker National Assembly",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 09-05-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "CPEC Phase II main focus is on?",
-      "urdu": "سی پیک  کے دوسرے مرحلے کا مرکزی فوکس کس پر ہے؟",
-      "options": [
-        "Road construction only",
-        "Industrial cooperation and Special Economic Zones (SEZs)",
-        "Defense agreements",
-        "Tourism only"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><span style=\"font-size: 0.875rem;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Transient is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Obituary",
-        "Permanent",
-        "Temporal",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the literal meaning of Ijtihad?",
-      "urdu": "اجتہاد کا لفظی مطلب کیا ہے؟",
-      "options": [
-        "Consensus",
-        "Attempt",
-        "Law",
-        "Power"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many SEZs were agreed and how many were prioritised under CPEC?",
-      "urdu": "سی پیک کے تحت کتنے اسپیشل اکنامک زونز پر اتفاق کیا گیا اور کتنے کو ترجیح دی گئی؟",
-      "options": [
-        "7 agreed, 3 prioritised",
-        "9 agreed, 4 prioritised",
-        "10 agreed, 5 prioritised",
-        "8 agreed, 2 prioritised"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mujadid Alif Sani is title of _____?",
-      "urdu": "مجدد الف ثانی کس کا لقب ہے؟",
-      "options": [
-        "Shah Waliullah",
-        "Syed Ahmed Shaheed",
-        "Sheikh Ahmad Sirhindi",
-        "Syed Ahmad Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "To throw down the gauntlet means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To surrender",
-        "To accept defeat",
-        "To issue a challenge someone to fight",
-        "To avoid conflict"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">To throw down the gauntlet  means to issue a challenge</font><font color=\"#ff0000\">, provoke a confrontation, or dare someone to argue or compete with you</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first Surah of the Holy Quran is ____?",
-      "urdu": "قرآن پاک کی پہلی سورت کون سی ہے؟",
-      "options": [
-        "Surah-e-Baqarah",
-        "Surah-e-Nisa",
-        "Surah-e-Nas",
-        "Surah-e-Fatiha"
-      ],
-      "correct": 3,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "In which year was the Paris Agreement signed?",
-      "urdu": "پیرس معاہدے پر کس سال دستخط ہوئے؟",
+      "q": "The Shimla agreement between India and Pakistan was singed in?",
+      "urdu": "سن 1972 میں شملہ معاہدہ پاکستان اور بھارت کے درمیان کب اور کہاں ہوا؟",
       "options": [
-        "2012",
-        "2015",
-        "2018",
-        "2020"
-      ],
-      "correct": 1,
-      "explanation": "<p \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px; font-family: \"><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><b style=\"font-weight: bold;\"><span style=\"font-size: 1rem; font-family: Helvetica;\"><span style=\"color: rgb(255, 0, 0);\"></span></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The longest river in Pakistan is ____?",
-      "urdu": "پاکستان کا سب سے لمبا دریا کونسا ہے؟",
-      "options": [
-        "Ravi",
-        "Indus",
-        "Chenab",
-        "Jhelum"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ffffff\" style=\"background-color: rgb(255, 0, 0);\"><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder;\">Additional information related to Indus River</span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under Indus Water Treaty which of the following rivers were given to Pakistan?",
-      "urdu": "انڈس واٹر ٹریٹی کے تحت پاکستان کو مندرجہ ذیل میں سے کونسا دریا دیا گیا؟",
-      "options": [
-        "Indus, Jhelum and Chenab",
-        "Ravi and Indus",
-        "Indus and Jhelum",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(255, 0, 0); font-family: Helvetica; background-color: rgb(255, 255, 0);\">Last updated by NS on 06 May 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of \"Diligent\" is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Lazy",
-        "Hardworking",
-        "Active",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Diligent means محنتی</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of UBIQUITOUS?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Affluent",
-        "Resigning",
-        "Omni-present",
-        "Omni-potent"
+        "1965",
+        "1969",
+        "1972",
+        "1974"
       ],
       "correct": 2,
-      "explanation": "<p><div><font color=\"#0000ff\">Ubiquitous means </font><font color=\"#ff0000\">found everywhere,</font></div><div><font color=\"#0000ff\">Omnipresent: </font><font color=\"#ff9c00\">Present everywhere simultaneously.</font></div> <span style=\"background-color: rgb(255, 255, 0); color: rgb(255, 0, 255); font-size: 0.875rem;\">Last updated question NS on 09 MAY 2026</span></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which country has hosted 29th United Nations Climate Change Conference (COP29)?",
-      "urdu": "کس ملک نے اقوام متحدہ کی 29ویں موسمیاتی تبدیلی کانفرنس کی میزبانی کی ہے؟",
+      "q": "Which is the first mosque in the history of Islam?",
+      "urdu": "تاریخ اسلام کی پہلی مسجد کون سی ہے؟",
       "options": [
-        "UAE",
-        "Egypt",
-        "Azerbaijan",
+        "Masjid-ul-Haram",
+        "Masjid-e-Nabavi",
+        "Masjid-e-Aqsa",
+        "Masjid-e-Quba"
+      ],
+      "correct": 3,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "When does the treaty of Hudaibiya take place?",
+      "urdu": "معاہدہ حدیبیہ کب ہوا؟",
+      "options": [
+        "6th Hijri",
+        "7th Hijri",
+        "8th Hijri",
+        "9th Hijri"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "FIR stands for _______?",
+      "urdu": "ایف آئی آر کا مطلب کیا ہے؟",
+      "options": [
+        "First Information Regular",
+        "First Information  Report",
+        "First in charge Report",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#0000ff\"></font></p>",
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "COP 28 will be hosted by?",
-      "urdu": "کاپ 28  کی میزبانی کس ملک نے کی؟",
+      "q": "PDNA stands for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "UAE",
-        "UK",
-        "USA",
+        "Public Development National Authority",
+        "Post Disaster Needs Assessment",
+        "Pakistan Data Network Agency",
+        "Public Disaster National Act"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10 MAY 2026</span><font color=\"#ff00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Quadratic equation 2x²-kx+5=0 to have equal roots, what should the value of K",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "±2√(10)",
+        "±4 √(10)",
+        "±10",
+        "±20"
+      ],
+      "correct": 0,
+      "explanation": "<p data-end=\"517\" data-start=\"503\"><font color=\"#9c00ff\">Using formula:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 8 persons have an average of 12.5 and one person of 18 kg is replaced with 10 kg, the new average will be:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10.5",
+        "11.5",
+        "12.5",
+        "13.5"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"29\" data-start=\"0\"><font color=\"#0000ff\">Average of 8 persons = 12.5</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "This book is divided _____ three parts.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "Into",
+        "By",
+        "With"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">This book is divided </font><font color=\"#00ff00\">into </font><font color=\"#0000ff\">three parts.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "He asked me, “Did you submit the assignment?”",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He asked me if I had submitted the assignment.",
+        "He asked me that I submitted the assignment.",
+        "He said me to submit the assignment.",
+        "He asked had I submitted the assignment."
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Reporting Verb: \"</font><font color=\"#ff0000\">Asked</font><font color=\"#0000ff\">\"</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "He liked eating, singing and dancing. This sentence is an example of?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Alliteration",
+        "Parallelism",
+        "Irony",
+        "Hyperbole"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ratio of boys and girls in a class is 9:11. If there are 80 students in total, the number of girls is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "36",
+        "40",
+        "44",
+        "48"
+      ],
+      "correct": 2,
+      "explanation": "<p data-end=\"32\" data-start=\"0\"><font color=\"#0000ff\">Ratio of boys : girls = 9 : 11</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A shopkeeper marked an item 25% above its cost price. During a sale, he offered a discount of 10%. What was his profit percentage?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10%",
+        "12.5%",
+        "15%",
+        "25%"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"25\" data-start=\"0\"><font color=\"#0000ff\">Assume cost price = 100</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan’s security measures are driven by a?",
+      "urdu": "پاکستان کے سیکیورٹی اقدامات کس چیز کے تحت چلائے جاتے ہیں؟",
+      "options": [
+        "Foreign Trade Policy",
+        "National Security Policy (NSP)",
+        "Education Reform Policy",
+        "Industrial Policy"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "After 25% discount and 55% tax on discounted price, the final price is 1260. The original price is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1000",
+        "1084",
+        "1100",
+        "1200"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"26\" data-start=\"0\"><font color=\"#0000ff\">Let original price = <strong data-end=\"26\" data-start=\"21\">x</strong></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In protective security, “control in depth” means:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Single layer of security at entry point",
+        "Multiple layers of security controls arranged in depth",
+        "No security at all",
+        "Security only at exit points"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Control in depth means a system of several security layers </font><font color=\"#9c00ff\">(physical, technical, and administrative)</font><font color=\"#0000ff\"> so that if one fails, others still provide protection.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is increased by 12% and then decreased by 12%. The final result is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "No change",
+        "1.44% increase",
+        "1.44% decrease",
+        "2% decrease"
+      ],
+      "correct": 2,
+      "explanation": "<p data-end=\"27\" data-start=\"0\"><font color=\"#0000ff\">Let original number = 100</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The average of 3 numbers is 26. If the first number is 16 and second is 31, the third number is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "correct": 3,
+      "explanation": "<p data-end=\"27\" data-start=\"0\"><font color=\"#0000ff\">Average of 3 numbers = 26</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A:B = 4:5, both invested for same time (9 months). Total profit = 22000. A’s share is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "9000",
+        "9500",
+        "9778",
+        "10000"
+      ],
+      "correct": 2,
+      "explanation": "<p data-end=\"55\" data-start=\"0\"><font color=\"#0000ff\">Profit is divided in the ratio of <strong data-end=\"54\" data-start=\"34\">(capital × time)</strong>.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mean of 5 numbers is 18. Four numbers are 16, 18, 14, 22. The 5th number is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "18",
+        "19",
+        "20",
+        "21"
+      ],
+      "correct": 2,
+      "explanation": "<p data-end=\"24\" data-start=\"0\"><font color=\"#0000ff\">Mean of 5 numbers = 18</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ratio of boys to girls is 9:11. If total students are 80, number of girls is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "36",
+        "40",
+        "44",
+        "48"
+      ],
+      "correct": 2,
+      "explanation": "<p data-end=\"57\" data-start=\"0\"><font color=\"#0000ff\">Ratio boys : girls = <strong data-end=\"31\" data-start=\"21\">9 : 11</strong><br data-end=\"34\" data-start=\"31\"/>\r\nTotal students = <strong data-end=\"57\" data-start=\"51\">80</strong></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Grey List?",
+      "urdu": "گری لسٹ کا کیا مطلب ہے؟",
+      "options": [
+        "List of developed countries",
+        "List of countries under normal trade rules",
+        "List of countries under increased monitoring for financial risks",
+        "List of military alliances"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10 MAY 2026</span><font color=\"#0000ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The reports were published, ______ the employees finished the task earlier.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "So that",
+        "Because",
+        "As a result",
+        "Since"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">The reports were published, and</font><font color=\"#00ff00\"> as a result</font><font color=\"#0000ff\">, the employees finished the task earlier.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "(Change the narration): He said, “I am ill today.”",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He said that he is ill today.",
+        "He said that he was ill that day.",
+        "He said that I was ill today.",
+        "He said that he has been ill today."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#9c00ff\">He said that he was ill that day.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Pakistan, Senators are elected through _________?",
+      "urdu": "پاکستان میں سینیٹرز کا انتخاب _________ کے ذریعے کیا جاتا ہے؟",
+      "options": [
+        "Alternative Voting System",
+        "Single Transferable voting system",
+        "Porportional voting system",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Surah Nisa is a Surah focus on ________",
+      "urdu": "سورہ نساء ایک سورہ ہے جو ________ پر توجہ مرکوز کرتی ہے",
+      "options": [
+        "Rights of orphan",
+        "Rights of woman",
+        "Rights of parents",
         "None"
       ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#00ff00\"></font></p>",
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10 MAY 2026</span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>",
       "category": "all"
     },
     {
-      "q": "The marked price of a coat is Rs. 2000. The shopkeeper offers his customer two successive discounts 10% and 5%. Find the final selling price of the coat?",
+      "q": "Mount Everest is situated in which country?",
+      "urdu": "ماؤنٹ ایورسٹ کس ملک میں واقع ہے؟",
+      "options": [
+        "Japan",
+        "Nepal",
+        "Pakistan",
+        "Bhutan"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The purpose of International Monetary Fund is to _____?",
+      "urdu": "بین الاقوامی مالیاتی فنڈ ​​کا مقصد  کیا ہے؟",
+      "options": [
+        "Promote International Trade",
+        "Maintain stable exchange rate",
+        "Help economically backward countries",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Headquarter of International Finance Corporation (IFC) is located in _____?",
+      "urdu": "انٹرنیشنل فنانس کارپوریشن (آئی ایف سی) کا ہیڈ کوارٹر _____ میں واقع ہے؟",
+      "options": [
+        "Washington",
+        "New York",
+        "Geneva",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p data-pm-slice=\"1 1 []\"><b style=\"\"><font color=\"#ff0000\">The International Finance Corporation (IFC)</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Majlis-e-Shura is consist of _____?",
+      "urdu": "مجلسِ شوریٰ کن پر مشتمل ہے؟",
+      "options": [
+        "National Assembly",
+        "Senate",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">It consists of </font><font color=\"#ff0000\">two</font><font color=\"#0000ff\"> houses:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the other name of Surah Fatiha?",
+      "urdu": "سورۃ الفاتحہ کا دوسرا نام کیا ہے؟",
+      "options": [
+        "Umm al-Kitab",
+        "Umm al-Quran",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">Quran</font><font color=\"#0000ff\"> starts with </font><font color=\"#ff0000\">Surah Al-Fatiha</font><font color=\"#0000ff\">, which has </font><font color=\"#ff0000\">several</font><font color=\"#0000ff\"> names.</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is responsible for internal airport security?",
+      "urdu": "اندرونی ایئرپورٹ سیکیورٹی کا ذمہ دار کون ہوتا ہے؟",
+      "options": [
+        "Customs",
+        "ASF",
+        "Police",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the 18th Amendment Bill of the Constitution passed by the National Assembly?",
+      "urdu": "آئین کی اٹھارویں ترمیم کا بل قومی اسمبلی سے کب منظور ہوا؟",
+      "options": [
+        "April 8, 2010",
+        "April 15, 2010",
+        "April 19, 2010",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Eighteenth Amendment</font><font color=\"#0000ff\"> to the Constitution of Pakistan</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan–Iran border is in which province?",
+      "urdu": "پاکستان ایران سرحد پاکستان کے کس صوبے میں واقع ہے؟",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Balochistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "SBP (State Bank of Pakistan) rising policy is mainly used to control?",
+      "urdu": "اسٹیٹ بینک آف پاکستان کی پالیسی ریٹ بڑھانے کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Long-term inflation",
+        "Temporary inflation",
+        "Population growth",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Laconic is ____?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Rs. 1710",
-        "Rs. 1690",
-        "Rs. 1675",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let's calculate the final selling price after two successive discounts of 10% and 5% on the marked price of Rs. 2000.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Hijra started?",
-      "urdu": "ہجرت کب شروع ہوئی؟",
-      "options": [
-        "12th Rabi-ul-Awwal of 14th year of Nabawat",
-        "12th of Rabi-ul-Awwal of 12th year of Nabawat",
-        "12th of Rabi-ul-Awwal of 13th year of Nabawat",
-        "None of these"
+        "Enjoy",
+        "Industry",
+        "Concise",
+        "None"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "CPEC connected Gwadar to city of China ______?",
-      "urdu": "سی پیک گوادر کو چین کے کس شہر سے ملاتا ہے؟",
-      "options": [
-        "Beijing",
-        "Wakhan",
-        "Kashgar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prophet Ibrahim (A.S) is a friend of whom?",
-      "urdu": "حضرت ابراہیم علیہ السلام اللہ کے کس دوست کے طور پر جانے جاتے ہیں؟",
-      "options": [
-        "Nuh A.S",
-        "Dawood A.S",
-        "Musa A.S",
-        "None of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ffffff\" style=\"background-color: rgb(156, 0, 0);\">Based on the options provided (Nuh A.S, Dawood A.S, Musa A.S), the correct answer is None of the Above</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Laws about Zina revealed in ___A.H",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff00ff\">Last updated question on 09 MAY 2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is named as Shaikh-ul-Anbia?",
-      "urdu": "شیخُ الانبیاء کس نبی کو کہا جاتا ہے؟",
-      "options": [
-        "Hazrat Musa (عليهم السلام)",
-        "Hazrat Essa (عليهم السلام)",
-        "Hazrat Noah (عليهم السلام)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#0000ff\">His </font><font color=\"#ff0000\">famous titles </font><font color=\"#0000ff\">include:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ghazwa-e-Badr occurred in which hijrah?",
-      "urdu": "غزوہ بدر کس ہجری میں ہوا؟",
-      "options": [
-        "2nd",
-        "3rd",
-        "4th",
-        "1st"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 09-05-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the old name of Madina?",
-      "urdu": "مدینہ کا پرانا نام کیا تھا؟",
-      "options": [
-        "Bakkah",
-        "Hujaz",
-        "Najad",
-        "Yasrab"
-      ],
-      "correct": 3,
-      "explanation": "<p \"helvetica=\"\" 24px;\"=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" line-height:=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0in 0in 0.0001pt 9pt; color: rgb(33, 37, 41); padding: 0px;\"><span style=\"font-weight: bolder;\"><span style=\"color: red; font-family: Helvetica;\">*****</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the renowned cleric & ex-JUI MPA who was gunned down in KP's Charsadda in May 2026?",
-      "urdu": "معروف عالم دین اور جے یو آئی کے سابق ایم پی اے کا نام بتائیں جنہیں مئی 2026 میں کے پی کے چارسدہ میں گولی مار کر قتل کیا گیا تھا؟",
-      "options": [
-        "Fazal-u-Rehman",
-        "Muhammad Idrees",
-        "Mufti Tariq Masood",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">On</font><font color=\"#ff0000\"> 5 May 2026</font><font color=\"#0000ff\">, renowned religious scholar and\r\nformer Jamiat Ulema-e-Islam Pakistan-Fazl (JUI-F) MPA </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Maulana Sheikh Muhammad\r\nIdrees</font><font color=\"#0000ff\"> was shot dead in a targeted attack in Khyber Pakhtunkhwa’s </font>Charsadda\r\n<font color=\"#0000ff\">district.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where was the 2026 Thomas Cup, an international badminton competition held?",
-      "urdu": "دو ہزار چھبیس تھامس کپ، ایک بین الاقوامی بیڈمنٹن مقابلہ کہاں منعقد ہوا؟",
-      "options": [
-        "Germany",
-        "Denmark",
-        "Poland",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the <span style=\"background-color: rgb(255, 255, 0);\">2026 Thomas Cup title</span><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which principle best defines respect for humanity in Islam?",
-      "urdu": "اسلام میں انسانیت کے احترام کی بہترین بنیاد کیا ہے؟",
-      "options": [
-        "Conditional dignity",
-        "Authority-based treatment",
-        "Universal respect with justice",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which misunderstanding most reduces modesty to superficiality?",
-      "urdu": "کون سی غلط فہمی حیا کو صرف ظاہری شکل تک محدود کر دیتی ہے؟",
-      "options": [
-        "Combining inner and outer",
-        "Respecting others",
-        "Limiting modesty to dress alone",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which behavior best demonstrates integrity under ethical pressure?",
-      "urdu": "اخلاقی دباؤ کے تحت کون سا رویہ دیانت کو بہترین طور پر ظاہر کرتا ہے؟",
-      "options": [
-        "Maintaining image",
-        "Upholding justice despite disadvantage",
-        "Adapting truth to situation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</font></b></p>",
       "category": "all"
     }
   ]
