@@ -3,10 +3,569 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-12T05:40:36.932599",
+    "fetched_at": "2026-05-13T05:51:31.337954",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which statement best explains why natural gas is widely preferred as a domestic fuel?",
+      "urdu": "گھریلو ایندھن کے طور پر قدرتی گیس کو کیوں زیادہ پسند کیا جاتا ہے؟",
+      "options": [
+        "It is difficult to transport",
+        "It is convenient to use and burns comparatively cleanly",
+        "It burns with more smoke than coal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which energy source is obtained directly from sunlight and is therefore classified as renewable?",
+      "urdu": "کون سا توانائی کا ذریعہ براہِ راست سورج کی روشنی سے حاصل ہوتا ہے اور اس لیے قابلِ تجدید کہلاتا ہے؟",
+      "options": [
+        "Coal",
+        "Solar energy",
+        "Petroleum",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which cell component is present as the living material in which organelles are embedded?",
+      "urdu": "کون سا خلیاتی جزو زندہ مادہ ہوتا ہے جس میں تمام آرگنیلز موجود ہوتے ہیں؟",
+      "options": [
+        "Cell wall",
+        "Cytoplasm",
+        "Chlorophyll",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which class of food is chiefly regarded as the principal energy-giving component of an ordinary diet?",
+      "urdu": "عام غذا میں توانائی فراہم کرنے والا بنیادی جزو کون سی خوراکی جماعت ہے؟",
+      "options": [
+        "Vitamins",
+        "Carbohydrates",
+        "Minerals",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which property of laser light makes it particularly effective for transmitting energy to a very small target area?",
+      "urdu": "لیزر روشنی کی کون سی خصوصیت اسے ایک بہت چھوٹے ہدف والے علاقے تک توانائی منتقل کرنے میں خاص طور پر مؤثر بناتی ہے؟",
+      "options": [
+        "Random spreading",
+        "Low coherence",
+        "High concentration in a narrow beam",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which component supplies the processed result of computer operations to the user?",
+      "urdu": "کمپیوٹر آپریشنز کے پروسیس شدہ نتائج صارف کو کون سا حصہ فراہم کرتا ہے؟",
+      "options": [
+        "Output unit",
+        "Control unit",
+        "ALU",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If two atoms have the same number of neutrons but belong to different elements, they are described as?",
+      "urdu": "اگر دو ایٹمز میں نیوٹرانوں کی تعداد ایک جیسی ہو لیکن وہ مختلف عناصر سے تعلق رکھتے ہوں تو انہیں کیا کہا جاتا ہے؟",
+      "options": [
+        "Isotopes",
+        "Ions",
+        "Isotones",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which radioactive radiation has the lowest penetrating power among the common three types?",
+      "urdu": "عام تین اقسام میں سے کون سی تابکار شعاع سب سے کم نفوذی طاقت رکھتی ہے؟",
+      "options": [
+        "Beta radiation",
+        "Alpha radiation",
+        "Gamma radiation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An atom remains electrically neutral when the number of protons is equal to the number of?",
+      "urdu": "ایٹم برقی طور پر غیر جانبدار کب رہتا ہے جب پروٹونز کی تعداد کس کے برابر ہو؟",
+      "options": [
+        "Nucleons",
+        "Neutrons",
+        "Electrons",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which energy source depends most directly on the availability of moving air and therefore may vary from place to place?",
+      "urdu": "کون سا توانائی کا ذریعہ چلتی ہوئی ہوا کی دستیابی پر سب سے زیادہ منحصر ہوتا ہے اور جگہ کے مطابق مختلف ہو سکتا ہے؟",
+      "options": [
+        "Wind energy",
+        "Nuclear energy",
+        "Natural gas",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If A and B are in the ratio 3 : 5 and B increases by 20%, find the new ratio?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3 : 4",
+        "3 : 2",
+        "3 : 6",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let A = 3x, B = 5x</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If two routes are in the ratio 7 : 9 and the first route is 14 km, find the second distance?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">7 parts = 14 km → 1 part = 2 km</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If Red : Blue : Green = 3 : 4 : 5 and Green = 60, find total sum of ratios value?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "144",
+        "120",
+        "132",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Green ratio = 5 parts = 60</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If two numbers have a sum of 52 and their difference is 8, the larger number is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the numbers be x and y, with x &gt; y  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If x² − 9x + 20 = 0, the larger value of x will be?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">x² - 9x + 20 = 0  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If there are 4 packets more than twice of a number and total packets are 38, the number is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the number be x.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The disadvantage of using DeepSeek in governmental affairs is?",
+      "urdu": "حکومتی امور میں ڈیپ سیک کے استعمال کا نقصان کیا ہے؟",
+      "options": [
+        "Faster decision making",
+        "Data privacy and security risks",
+        "High accuracy in data analysis",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Fard Ayn is called whom?",
+      "urdu": "فرضِ عین کس کو کہا جاتا ہے؟",
+      "options": [
+        "Individual obligation",
+        "Collective obligation",
+        "Recommended act",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Chain of custody in court is described as?",
+      "urdu": "عدالت میں \"تحویل کا سلسلہ\" سے کیا مراد ہے؟",
+      "options": [
+        "Police arrest process",
+        "Legal punishment procedure",
+        "Record of handling and movement of evidence",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Supply Chain Resilience?",
+      "urdu": "سپلائی چین ریزیلینس سے کیا مراد ہے؟",
+      "options": [
+        "Stopping trade between countries",
+        "Increasing production cost only",
+        "Ability of supply chain to recover and continue during disruptions",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Energy Transition?",
+      "urdu": "توانائی کی منتقلی سے کیا مراد ہے؟",
+      "options": [
+        "Shift from fossil fuels to clean and renewable energy",
+        "Increase in use of fossil fuels only",
+        "Stopping all electricity production",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During 2021–25, a major reason for urban flooding was?",
+      "urdu": "سن 2021–25 کے دوران شہری سیلاب کی بڑی وجہ کیا تھی؟",
+      "options": [
+        "Increase in forests",
+        "Poor drainage system and heavy rainfall",
+        "Decrease in population",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which commission approves bills for public welfare in Pakistan?",
+      "urdu": "پاکستان میں عوامی فلاح کے بلوں کی منظوری کون دیتا ہے؟",
+      "options": [
+        "Election Commission",
+        "Planning Commission",
+        "National Assembly",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan Senate's election is held after every ______?",
+      "urdu": "پاکستان سینیٹ کا انتخاب ہر ______ کے بعد ہوتا ہے؟",
+      "options": [
+        "Two years",
+        "Three years",
+        "Four Years",
+        "Six years"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\">About </span><span style=\"font-weight: bolder;\">Senate </span><span style=\"font-weight: bolder;\">of Pakistan</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which caliph first started Hijri Calendar?",
+      "urdu": "ہجری کیلنڈر سب سے پہلے کس خلیفہ نے شروع کیا؟",
+      "options": [
+        "Hazrat Usman (RA)",
+        "Hazrat Abu Bakar (RA)",
+        "Hazrat Umar (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Current Hijri Year is ______(Click)?",
+      "urdu": "ہجری کیلنڈر سب سے پہلے کس خلیفہ نے شروع کیا؟",
+      "options": [
+        "Hazrat Usman (RA)",
+        "Hazrat Abu Bakar (RA)",
+        "Hazrat Umar (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Basically, Booty is the right of ______?",
+      "urdu": "بنیادی طور پر مالِ غنیمت کس کا حق ہے؟",
+      "options": [
+        "Allah and his Prophet (PBUH)",
+        "Makkans",
+        "The Non-Muslim",
+        "The Muslims"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 12-05-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The students were ______ and the teacher, therefore, did not take the class.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Few",
+        "Only few",
+        "A less",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Neither Hafsa nor children _______ coming to the party.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Is",
+        "Are",
+        "Is not",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is interested _____ reading books.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "At",
+        "On",
+        "In",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "I am not accustomed _______ being interrupted.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To",
+        "At",
+        "For",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He arrived _____ time to catch the train.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "On",
+        "At",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is proficient ____ mathematics.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "Of",
+        "With",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Some distinguished teachers sat _____ the committee which recommended expansion higher education.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "About",
+        "On",
+        "Between",
+        "In"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "She has been living here _______ 1999.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "For",
+        "Since",
+        "From",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "To have one's hands full is to be completely _____ or have a difficult task.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Occupied",
+        "Accommodated",
+        "Employed",
+        "Interlocked"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the present Director General (DG) of World Health Organization (WHO)?",
+      "urdu": "ورلڈ ہیلتھ آرگنائزیشن کے موجودہ ڈائریکٹر جنرل کون ہیں؟",
+      "options": [
+        "Margaret Chan",
+        "Tedros Adhanom",
+        "Hiroshi Nakajima",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">Tedros Adhanom</b><b style=\"color: rgb(0, 0, 255);\"> replaced </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">Margaret Chan</b><b style=\"color: rgb(0, 0, 255);\"> as 8th DG WHO in </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">2017</b><b style=\"color: rgb(0, 0, 255);\">.<br/></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In May 2026, Pakistan and which country signed cooperation regarding Drug trafficking control?",
+      "urdu": "مئی 2026 میں، پاکستان اور کس ملک نے منشیات کی اسمگلنگ کنٹرول کے حوالے سے تعاون پر دستخط کیے؟",
+      "options": [
+        "China",
+        "Russia",
+        "Bangladesh",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In May 2026, </font><font color=\"#ff0000\">Pakistan and Bangladesh </font><font color=\"#0000ff\">signed a memorandum of understanding (MoU) to strengthen bilateral cooperation against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">drug trafficking</font><font color=\"#0000ff\"> and narcotics abuse.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In May 2026, Pakistan and Bangladesh signed cooperation regarding which of the following?",
+      "urdu": "مئی 2026 میں، پاکستان اور بنگلہ دیش نے مندرجہ ذیل میں سے کس کے حوالے سے تعاون پر دستخط کیے؟",
+      "options": [
+        "Nuclear technology",
+        "Drug trafficking control",
+        "River water treaty",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">In May 2026, </font><font color=\"#ff0000\">Pakistan and Bangladesh </font><font color=\"#0000ff\">signed a\r\nmemorandum of understanding (MoU) to strengthen bilateral cooperation against\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">drug trafficking</font><font color=\"#0000ff\"> and narcotics abuse.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Pakistani official attended the oath-taking ceremony of Bangladesh’s Prime Minister Tarique Rahman in 2026?",
+      "urdu": "دو ہزار چھبیس میں بنگلہ دیش کے وزیر اعظم طارق رحمان کی تقریب حلف برداری میں کس پاکستانی عہدیدار نے شرکت کی؟",
+      "options": [
+        "Ishaq Dar",
+        "Ahsan Iqbal",
+        "Mohsin Naqvi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The 13th Jatiya Sangsad (Parliamentary) Election in </font><span style=\"background-color: rgb(255, 255, 0);\">Bangladesh </span><font color=\"#0000ff\">was held in </font><font color=\"#ff00ff\">2026.</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many basic pillars of Islam are there?",
+      "urdu": "اسلام کے بنیادی ارکان کتنے ہیں؟",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-03-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "7, 6, 10, 8 and 9 are numbers and their frequencies are 2, 2, 5, 1, 2. Find their mean?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "8",
+        "8.5",
+        "9",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Find the mean of:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the first step taken in the Incident Command System (ICS)?",
+      "urdu": "واقعہ کمانڈ سسٹم میں پہلا قدم کیا ہے؟",
+      "options": [
+        "Planning",
+        "Establishing Command",
+        "Communication setup",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Financial Action Task Force (FATF), an international intergovernmental organization was established in Paris to stop ______?",
       "urdu": "فنانشل ایکشن ٹاسک فورس کو پیرس میں ______ کو روکنے کے لیے قائم کیا گیا تھا؟",
@@ -96,565 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find 12.5% of 640?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70",
-        "75",
-        "80",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">12.5% = 1/8</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Total fixed fee of card is Rs. 750. If 30 ID cards are being made in Rs. 2250, what the processing amount of one card?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "50",
-        "60",
-        "70",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Given:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Ceasefire is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "War",
-        "Truce",
-        "Attack",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If price increase by 20% and then decreased by 20%, what happen to the final price?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Same",
-        "Increase",
-        "Decrease",
-        "Double"
-      ],
-      "correct": 0,
-      "explanation": "<p data-end=\"170\" data-start=\"113\"><font color=\"#0000ff\">Assume price</font><font color=\"#ff00ff\"> = 100</font><br data-end=\"134\" data-start=\"131\"/><font color=\"#0000ff\">\r\nAfter </font><font color=\"#00ff00\">+20% → 120</font><br data-end=\"153\" data-start=\"150\"/><font color=\"#0000ff\">\r\nAfter </font><font color=\"#ff9c00\">−20% → 96</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The constitution of 1956 was made under which Act?",
-      "urdu": "سن 1956 کا آئین کس ایکٹ کے تحت بنایا گیا تھا؟",
-      "options": [
-        "Indian Independence Act, 1947",
-        "Indian Independence Act, 1935",
-        "Indian Independence Act, 1942",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which armed force works internally in Pakistan for law enforcement duties?",
-      "urdu": "پاکستان میں اندرونی قانون نافذ کرنے کے فرائض کون سی فورس انجام دیتی ہے؟",
-      "options": [
-        "Pakistan Navy",
-        "Pakistan Air Force",
-        "Pakistan Rangers",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the name of the Law of Evidence in Pakistan?",
-      "urdu": "پاکستان میں شواہد کے قانون کا کیا نام ہے؟",
-      "options": [
-        "Qanoon-e-Shahadat",
-        "Qanoon-e-Azmat",
-        "Qanoon-e-Adalat",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Section of Criminal Procedure Code relates to registration of First Information Report (FIR) for a cognizable offence?",
-      "urdu": "مجرمانہ طریقہ کار کے ضابطہ اخلاق کے کون سے حصے کا تعلق قابل شناخت جرم کے لئے فرسٹ انفارمیشن رپورٹ (ایف آئی آر) کے اندراج سے ہے؟",
-      "options": [
-        "Section 173",
-        "Section 154",
-        "Section 497",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Accused must be presented before a magistrate within?",
-      "urdu": "ملزم کو کس وقت کے اندر مجسٹریٹ کے سامنے پیش کیا جانا چاہیے؟",
-      "options": [
-        "12 hours",
-        "24 hours",
-        "36 hours",
-        "48 hours"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Protection of property rights is covered under which articles?",
-      "urdu": "جائیداد کے حقوق کے تحفظ کا ذکر آئین پاکستان کے کن آرٹیکلز میں ہے؟",
-      "options": [
-        "Articles 23 & 24",
-        "Articles 25 & 26",
-        "Articles 27 & 28",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Qanoon-e-Shahadat enacted?",
-      "urdu": "قانون شاہادات کو کب نافذ کیا گیا تھا؟",
-      "options": [
-        "1990",
-        "1973",
-        "1984",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sadaq-e-Eid-ul-fitr has been proclaimed in the year?",
-      "urdu": "صدقہ فطر (زکوٰۃ الفطر) کس سال فرض کیا گیا؟",
-      "options": [
-        "2 Hijri",
-        "3 Hijri",
-        "4 Hijri",
-        "5 Hijri"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Lahore Resolution was passed on ________?",
-      "urdu": "لاہور کی قرارداد کب منظور ہوئی؟",
-      "options": [
-        "14 March 1945",
-        "23 March 1940",
-        "12 March 1948",
-        "28 March 1947"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "An item priced at Rs 1250 is offered at 18% discount. What is the discount amount?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1025",
-        "1125",
-        "1225",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Original Price: 1,250  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What annual payment will discharge a debt of Rs 1025 due in 2 years at a compound interest rate of 5% per annum?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "500",
-        "525.50",
-        "540",
-        "551.25"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Main function of ASF at airport is to safeguard ______?",
-      "urdu": "ایئرپورٹ پر اے ایس ایف کا بنیادی کام کیا حفاظت کرنا ہے؟",
-      "options": [
-        "Unlawful interferences",
-        "Adopting counter terrorism measures",
-        "Preventing crime and maintaining law",
-        "All of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Freedom of Trade, Business or Profession is the basic concept of which Article of our Constitution (1973)?",
-      "urdu": "پاکستان کے آئین 1973 میں تجارت، کاروبار یا پیشے کی آزادی کس آرٹیکل میں دی گئی ہے؟",
-      "options": [
-        "Article 18",
-        "Article 16",
-        "Article 17",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan signed  Strategic Mutual Defence Agreement with which country in September 2025?",
-      "urdu": "پاکستان نے ستمبر 2025 میں کس ملک کے ساتھ سٹریٹیجک باہمی دفاعی معاہدے پر دستخط کیے؟",
-      "options": [
-        "Qatar",
-        "Saudi Arabia",
-        "China",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">: <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Police Order was enforced in Pakistan in _____?",
-      "urdu": "پاکستان میں پولیس آرڈر کس سال نافذ ہوا؟",
-      "options": [
-        "2003",
-        "2001",
-        "2004",
-        "2002"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Focus areas</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Laconic is ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Enjoy",
-        "Industry",
-        "Concise",
-        "None"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The drug will have \"pernicious\" effect on your health. The Antonym of “Pernicious” is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ruinous",
-        "Prolonged",
-        "Beneficial",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 11-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Article 50 of the Constitution of Pakistan 1973, the Parliament of Pakistan consisting of _____?",
-      "urdu": "پاکستان 1973 کے آئین کا آرٹیکل 50 ، پاکستان کی پارلیمنٹ _____ پر مشتمل ہے؟",
-      "options": [
-        "Senate of Pakistan",
-        "President and Two House",
-        "President of Pakistan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the highest mountain peak of Pakistan?",
-      "urdu": "پاکستان کی بلند ترین چوٹی کون سی ہے؟",
-      "options": [
-        "Tirich Mir",
-        "Nanga Parbat",
-        "K2",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The famous Khyber pass links Peshawar with ____?",
-      "urdu": "خیبر کا مشہور درہ پشاور کو کس سے جوڑتا ہے؟",
-      "options": [
-        "Quetta",
-        "Kandahar",
-        "Kabul",
-        "Chaman"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Important Passes of Pakistan</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Second Highest mountain of the world K-2 is located in _______?",
-      "urdu": "دنیا کا دوسرا بلند ترین پہاڑ کے-ٹو _______ میں واقع ہے؟",
-      "options": [
-        "Balochistan",
-        "KPK",
-        "Kashmir",
-        "Gilgit Baltistan"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ff0000\"><span style=\"font-weight: bolder;\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Borith Lake is located in :",
-      "urdu": "بوریت جھیل کہا ں واقع ہے",
-      "options": [
-        "Hunza Valley",
-        "Dadu",
-        "KPK",
-        "Kahmir"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-family: Helvetica; background-color: rgb(255, 255, 0);\">Last updated by NS on 06 May 2026</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country in South Asia is the largest population?",
-      "urdu": "جنوبی ایشیا میں سب سے زیادہ آبادی والا ملک کون سا ہے؟",
-      "options": [
-        "Pakistan",
-        "India",
-        "Sri Lanka",
-        "China"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NS on 11 May 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Liaquat Ali Khan Joined Muslim League in which year?",
-      "urdu": "لیاقت علی خان کس سال مسلم لیگ میں شامل ہوئے؟",
-      "options": [
-        "1923",
-        "1920",
-        "1916",
-        "1913"
-      ],
-      "correct": 0,
-      "explanation": "<p> </p>",
-      "category": "all"
-    },
-    {
-      "q": "The only fertile desert in the world is__________?",
-      "urdu": "دنیا کا واحد زرخیز صحرا کونسا ہے؟",
-      "options": [
-        "Sahara Desert",
-        "Dasht -e Lut Desert",
-        "Great Thar Desert",
-        "Chihuahuan Desert"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NS on 11 May 2026</span><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\"><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"background-color: rgb(255, 0, 0);\"></span></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan has a coastline of _____?",
-      "urdu": "پاکستان کے پاس _____ کی ساحلی پٹی ہے؟",
-      "options": [
-        "500 mi",
-        "750 mi",
-        "650 mi",
-        "800 mi"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Most Important Note:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many basic pillars of Islam are there?",
-      "urdu": "اسلام کے بنیادی ارکان کتنے ہیں؟",
-      "options": [
-        "4",
-        "6",
-        "5",
-        "7"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-03-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The third surah of the Holy Quran is?",
-      "urdu": "قرآن پاک کی تیسری سورت ہے؟",
-      "options": [
-        "Al e imran",
-        "Al nisa",
-        "AL e maeda",
-        "Al inam"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"\"><font face=\"Helvetica\"><b style=\"\"><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\">Al Imran is the</span><span style=\"color: rgb(255, 0, 0);\"> third chapter (sūrah) of the Quran </span></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country has hosted 29th United Nations Climate Change Conference (COP29)?",
-      "urdu": "کس ملک نے اقوام متحدہ کی 29ویں موسمیاتی تبدیلی کانفرنس کی میزبانی کی ہے؟",
-      "options": [
-        "UAE",
-        "Egypt",
-        "Azerbaijan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 09 MAY 2026</span><font color=\"#0000ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which specific terrorist groups did Pakistan target during strikes in February 2026 inside Afghanistan?",
-      "urdu": "فروری 2026 میں افغانستان کے اندر حملوں کے دوران پاکستان نے کن مخصوص دہشت گرد گروپوں کو نشانہ بنایا؟",
-      "options": [
-        "TTP (Fitna al-Khawarij) and ISKP",
-        "Al-Qaeda and BLA",
-        "TTP and Afghan National Army",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span lang=\"EN-US\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-05-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Indirect speech of “How cold is the weather today?” is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He said that the weather is cold today.",
-        "He exclaimed that the weather was very cold that day.",
-        "He said weather was cold.",
-        "He asked that weather is cold."
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NS on 11 May 2026</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Child's = 80, Youngsters = 10 25% part of sweets for each youngster 15% part of sweets for each child Total sweets = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1350",
-        "1450",
-        "1550",
-        "1650"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Sweets for children = 80 × 15 = 1200</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan took command of Combined Task Force 151 from which country?",
-      "urdu": "پاکستان نے کمبائنڈ ٹاسک فورس 151  کی کمان کس ملک سے سنبھالی؟",
-      "options": [
-        "Brazil",
-        "Turkey",
-        "Canada",
-        "Saudi Arabia"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NS on 11 May 2026</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which leader not attend first round table conference?",
-      "urdu": "کونسا لیڈر پہلی گول میز کانفرنس میں شریک نہیں ہوا؟",
-      "options": [
-        "Allama Iqbal",
-        "Quaid e Azam",
-        "Gandhi",
-        "Sir Agha Khan"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "جملے میں کام کرنے والے کو کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مفعول",
-        "فاعل",
-        "فعل",
-        "صفت"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><b><font color=\"#0000ff\">فاعل: کام کرنے والا</font><font color=\"#ff0000\"> (جیسے: احمد، علی، میں)۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ ریختہ کب استعمال ہوا؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "فارسی زبان کے لیے",
-        "اردو زبان کے لیے",
-        "عربی زبان کے لیے",
-        "پنجابی زبان کے لیے"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><b><font color=\"#0000ff\">لفظ \"ریختہ\" اردو زبان کے قدیم نام کے طور پر بنیادی طور پر</font><font color=\"#ff0000\"> 17ویں اور 18ویں صدی (مغل دور) میں شاعری کے لیے استعمال ہونا شروع ہوا</font><font color=\"#0000ff\">، </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "فعل لازم کیا ہوتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "جسے مفعول کی ضرورت ہو",
-        "جو زمانہ ظاہر نہ کرے",
-        "جسے مفعول کی ضرورت نہ ہو",
-        "جو صرف حال میں استعمال ہو"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">تعریف: ایسا فعل جس کا معنی</font><font color=\"#ff0000\"> صرف فاعل کے ساتھ واضح ہو جائے۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "جزم کسے کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حرکت کو",
-        "سکون کو",
-        "زیر کو",
-        "زبر کو"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">جزم کا بنیادی معنی </font><font color=\"#ff0000\">کاٹنا، مضبوط ارادہ یا سکون </font><font color=\"#0000ff\">ہے۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the third fundamental pillar of Islam?",
-      "urdu": "اسلام کا تیسرا بنیادی ستون کون سا ہے؟",
-      "options": [
-        "Zakat",
-        "Hajj",
-        "Fasting",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
       "category": "all"
     }
   ]
