@@ -3,207 +3,324 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-13T05:51:31.337954",
+    "fetched_at": "2026-05-14T05:50:27.119982",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which statement best explains why natural gas is widely preferred as a domestic fuel?",
-      "urdu": "گھریلو ایندھن کے طور پر قدرتی گیس کو کیوں زیادہ پسند کیا جاتا ہے؟",
-      "options": [
-        "It is difficult to transport",
-        "It is convenient to use and burns comparatively cleanly",
-        "It burns with more smoke than coal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which energy source is obtained directly from sunlight and is therefore classified as renewable?",
-      "urdu": "کون سا توانائی کا ذریعہ براہِ راست سورج کی روشنی سے حاصل ہوتا ہے اور اس لیے قابلِ تجدید کہلاتا ہے؟",
-      "options": [
-        "Coal",
-        "Solar energy",
-        "Petroleum",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which cell component is present as the living material in which organelles are embedded?",
-      "urdu": "کون سا خلیاتی جزو زندہ مادہ ہوتا ہے جس میں تمام آرگنیلز موجود ہوتے ہیں؟",
-      "options": [
-        "Cell wall",
-        "Cytoplasm",
-        "Chlorophyll",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which class of food is chiefly regarded as the principal energy-giving component of an ordinary diet?",
-      "urdu": "عام غذا میں توانائی فراہم کرنے والا بنیادی جزو کون سی خوراکی جماعت ہے؟",
-      "options": [
-        "Vitamins",
-        "Carbohydrates",
-        "Minerals",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which property of laser light makes it particularly effective for transmitting energy to a very small target area?",
-      "urdu": "لیزر روشنی کی کون سی خصوصیت اسے ایک بہت چھوٹے ہدف والے علاقے تک توانائی منتقل کرنے میں خاص طور پر مؤثر بناتی ہے؟",
-      "options": [
-        "Random spreading",
-        "Low coherence",
-        "High concentration in a narrow beam",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which component supplies the processed result of computer operations to the user?",
-      "urdu": "کمپیوٹر آپریشنز کے پروسیس شدہ نتائج صارف کو کون سا حصہ فراہم کرتا ہے؟",
-      "options": [
-        "Output unit",
-        "Control unit",
-        "ALU",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If two atoms have the same number of neutrons but belong to different elements, they are described as?",
-      "urdu": "اگر دو ایٹمز میں نیوٹرانوں کی تعداد ایک جیسی ہو لیکن وہ مختلف عناصر سے تعلق رکھتے ہوں تو انہیں کیا کہا جاتا ہے؟",
-      "options": [
-        "Isotopes",
-        "Ions",
-        "Isotones",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which radioactive radiation has the lowest penetrating power among the common three types?",
-      "urdu": "عام تین اقسام میں سے کون سی تابکار شعاع سب سے کم نفوذی طاقت رکھتی ہے؟",
-      "options": [
-        "Beta radiation",
-        "Alpha radiation",
-        "Gamma radiation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An atom remains electrically neutral when the number of protons is equal to the number of?",
-      "urdu": "ایٹم برقی طور پر غیر جانبدار کب رہتا ہے جب پروٹونز کی تعداد کس کے برابر ہو؟",
-      "options": [
-        "Nucleons",
-        "Neutrons",
-        "Electrons",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which energy source depends most directly on the availability of moving air and therefore may vary from place to place?",
-      "urdu": "کون سا توانائی کا ذریعہ چلتی ہوئی ہوا کی دستیابی پر سب سے زیادہ منحصر ہوتا ہے اور جگہ کے مطابق مختلف ہو سکتا ہے؟",
-      "options": [
-        "Wind energy",
-        "Nuclear energy",
-        "Natural gas",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If A and B are in the ratio 3 : 5 and B increases by 20%, find the new ratio?",
+      "q": "Select the correct Urdu translation of 'Penalize'?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "3 : 4",
-        "3 : 2",
-        "3 : 6",
-        "None of these"
+        "جزا دينا",
+        "سرابنا",
+        "خواہش پوری کرنا",
+        "ان میں سے کوئی نہیں"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let A = 3x, B = 5x</font></b></p>",
+      "explanation": "<p><b><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 14-05-2026</font></span></b></p>",
       "category": "all"
     },
     {
-      "q": "If two routes are in the ratio 7 : 9 and the first route is 14 km, find the second distance?",
+      "q": "Select the correct Urdu translation of 'Dump'.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "14",
-        "16",
-        "18",
-        "None of these"
+        "سنبهالنا",
+        "پھینک دینا",
+        "حوصلہ توڑنا",
+        "ان میں سے کوئی نہیں"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">7 parts = 14 km → 1 part = 2 km</font></b></p>",
+      "explanation": "<p><b><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 14-05-2026</font></span></b></p>",
       "category": "all"
     },
     {
-      "q": "If Red : Blue : Green = 3 : 4 : 5 and Green = 60, find total sum of ratios value?",
+      "q": "She said, 'I shall return soon.' (Indirect)",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "144",
-        "120",
-        "132",
+        "She said she would return soon",
+        "She says she would return soon",
+        "She told she shall return soon",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Green ratio = 5 parts = 60</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Direct: </font><font color=\"#ff0000\">I shall return soon</font><font color=\"#0000ff\">.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "If two numbers have a sum of 52 and their difference is 8, the larger number is?",
+      "q": "He said, 'I must finish this. (Indirect)",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "30",
-        "35",
-        "40",
+        "He told he must finish",
+        "He said he must finish that",
+        "He said he had to finish that",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the numbers be x and y, with x &gt; y  </font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Direct:</font><font color=\"#ff0000\"> I must finish this</font><font color=\"#0000ff\">.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "If x² − 9x + 20 = 0, the larger value of x will be?",
+      "q": "Identify the passive sentence: A book is read by him, He reads a book, He has read a book, He is reading a book",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "5",
-        "6",
+        "A book is read by him",
+        "He reads a book",
+        "He has read a book",
+        "He is reading a book"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change into passive: 'She has written a letter.'",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "She is written a letter",
+        "A letter has written by her",
+        "A letter has been written by her",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "She apologized _____ her mistake.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "With",
+        "For",
+        "On",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He succeeded _________ working hard.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Through",
+        "By",
+        "For",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which tone is preferred in official communication?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Emotional",
+        "Casual",
+        "Formal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which part of a letter follows the salutation?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Signature",
+        "Address",
+        "Body",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the phrasal meaning of “Call it a day”?",
+      "urdu": "\"اسے ایک دن کہو\" کا لفظی معنی کیا ہے؟",
+      "options": [
+        "To stop because one does not want to do any more / End work",
+        "To stop doing something that is annoying",
+        "To get rid of something that is harmful",
+        "To stop and finish the whole matter"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct meaning of 'At the eleventh hour.'",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Celebrate day",
+        "Early time",
+        "Last moment",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Identify the conjunction: He ran fast because he was late.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fast",
+        "Because",
+        "Was",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Identify the adjective in: 'This is a difficult question.'",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Question",
+        "Difficult",
+        "This",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the sentence 'He hardly works', identify the adverb.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hardly",
+        "Works",
+        "He",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a:b = 7:8 and b:c = 4:5, then a:c equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "28:40",
+        "7:10",
+        "14:20",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">a:b = 7:8</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mean of 5, 7, 9 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
         "7",
+        "6",
+        "8",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">x² - 9x + 20 = 0  </font></b></p>",
+      "explanation": "<p><font color=\"#0000ff\" style=\"\"><b>Mean = (5 + 7 + 9) ÷ 3</b></font></p>",
       "category": "all"
     },
     {
-      "q": "If there are 4 packets more than twice of a number and total packets are 38, the number is?",
+      "q": "A chord passing through center is called?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Radius",
+        "Diameter",
+        "Tangent",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "tan²θ + 1 equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "cos²θ",
+        "sec²θ",
+        "cosec²θ",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Using trigonometric identity:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If cosθ = 5/13, then sinθ equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "12/13",
+        "12/14",
+        "12/15",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given cosθ = 5/13</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If height triples and base remains same, area becomes?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Half",
+        "Double",
+        "Triple",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Area of triangle = ½ × base × height</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If hypotenuse = 25 and one side = 7, other side equals?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "22",
+        "23",
+        "24",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let other side = x</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A triangle with sides 9, 40, 41 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Obtuse",
+        "Equilateral",
+        "Right triangle",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Check using Pythagoras theorem:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "(7x + 5)/x(x + 1) decomposes as?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5/x + 2/(x + 1)",
+        "3/x + 1/(x + 1)",
+        "2/x + 4/(x + 1)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">(7x + 5)/[x(x + 1)] = A/x + B/(x + 1)</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If f(x) = x² + 1 then f(2) + f(3) equals?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
         "15",
@@ -212,449 +329,332 @@
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the number be x.</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">f(2) = 2² + 1 = 4 + 1 = 5  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "The disadvantage of using DeepSeek in governmental affairs is?",
-      "urdu": "حکومتی امور میں ڈیپ سیک کے استعمال کا نقصان کیا ہے؟",
-      "options": [
-        "Faster decision making",
-        "Data privacy and security risks",
-        "High accuracy in data analysis",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fard Ayn is called whom?",
-      "urdu": "فرضِ عین کس کو کہا جاتا ہے؟",
-      "options": [
-        "Individual obligation",
-        "Collective obligation",
-        "Recommended act",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Chain of custody in court is described as?",
-      "urdu": "عدالت میں \"تحویل کا سلسلہ\" سے کیا مراد ہے؟",
-      "options": [
-        "Police arrest process",
-        "Legal punishment procedure",
-        "Record of handling and movement of evidence",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is meant by Supply Chain Resilience?",
-      "urdu": "سپلائی چین ریزیلینس سے کیا مراد ہے؟",
-      "options": [
-        "Stopping trade between countries",
-        "Increasing production cost only",
-        "Ability of supply chain to recover and continue during disruptions",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is meant by Energy Transition?",
-      "urdu": "توانائی کی منتقلی سے کیا مراد ہے؟",
-      "options": [
-        "Shift from fossil fuels to clean and renewable energy",
-        "Increase in use of fossil fuels only",
-        "Stopping all electricity production",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During 2021–25, a major reason for urban flooding was?",
-      "urdu": "سن 2021–25 کے دوران شہری سیلاب کی بڑی وجہ کیا تھی؟",
-      "options": [
-        "Increase in forests",
-        "Poor drainage system and heavy rainfall",
-        "Decrease in population",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which commission approves bills for public welfare in Pakistan?",
-      "urdu": "پاکستان میں عوامی فلاح کے بلوں کی منظوری کون دیتا ہے؟",
-      "options": [
-        "Election Commission",
-        "Planning Commission",
-        "National Assembly",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan Senate's election is held after every ______?",
-      "urdu": "پاکستان سینیٹ کا انتخاب ہر ______ کے بعد ہوتا ہے؟",
-      "options": [
-        "Two years",
-        "Three years",
-        "Four Years",
-        "Six years"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\">About </span><span style=\"font-weight: bolder;\">Senate </span><span style=\"font-weight: bolder;\">of Pakistan</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which caliph first started Hijri Calendar?",
-      "urdu": "ہجری کیلنڈر سب سے پہلے کس خلیفہ نے شروع کیا؟",
-      "options": [
-        "Hazrat Usman (RA)",
-        "Hazrat Abu Bakar (RA)",
-        "Hazrat Umar (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Current Hijri Year is ______(Click)?",
-      "urdu": "ہجری کیلنڈر سب سے پہلے کس خلیفہ نے شروع کیا؟",
-      "options": [
-        "Hazrat Usman (RA)",
-        "Hazrat Abu Bakar (RA)",
-        "Hazrat Umar (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Basically, Booty is the right of ______?",
-      "urdu": "بنیادی طور پر مالِ غنیمت کس کا حق ہے؟",
-      "options": [
-        "Allah and his Prophet (PBUH)",
-        "Makkans",
-        "The Non-Muslim",
-        "The Muslims"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 12-05-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The students were ______ and the teacher, therefore, did not take the class.",
+      "q": "If y ∝ x and y = 16 when x = 4 find y when x = 6?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Few",
-        "Only few",
-        "A less",
+        "22",
+        "23",
+        "24",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Since y ∝ x, we have y = kx for some constant k.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Neither Hafsa nor children _______ coming to the party.",
+      "q": "Solve: 4x - 5 = 3x + 7?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Is",
-        "Are",
-        "Is not",
+        "12",
+        "13",
+        "14",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-03-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">4x - 3x = 7 + 5  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "He is interested _____ reading books.",
+      "q": "If roots of x² - 5x + 4 = 0 are increased by 1, new equation is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "At",
-        "On",
-        "In",
+        "x² - 7x + 10 = 0",
+        "x² - 5x + 10 = 0",
+        "x² - 6x + 10 = 0",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Roots of x² - 5x + 4 = 0:  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "I am not accustomed _______ being interrupted.",
+      "q": "If x² - px + 35 has factors differing by 2, then p equals?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "To",
-        "At",
-        "For",
+        "12",
+        "13",
+        "14",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Let the roots be r and r + 2, since they differ by 2.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "He arrived _____ time to catch the train.",
+      "q": "If (a + bi)(a - bi) = 37 and a - b = 3, then a² + b² equals?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "In",
-        "On",
-        "At",
+        "17",
+        "27",
+        "37",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">(a + bi)(a - bi) is a standard identity:  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "He is proficient ____ mathematics.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What are artificial springs in Balochistan called?",
+      "urdu": "بلوچستان میں مصنوعی چشموں کو کیا کہا جاتا ہے؟",
       "options": [
-        "In",
-        "Of",
-        "With",
+        "Hamoons",
+        "Headworks",
+        "Karezes",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-04-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Some distinguished teachers sat _____ the committee which recommended expansion higher education.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "The road/highway connecting Pakistan and China is called?",
+      "urdu": "پاکستان اور چین کو ملانے والی سڑک/ہائی وے کو کیا کہا جاتا ہے؟",
       "options": [
-        "About",
-        "On",
-        "Between",
-        "In"
+        "Karakoram Highway",
+        "Indus Highway",
+        "Express Highway",
+        "Hamaliya Highway"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 13-05-2026</b></span></font></p>",
       "category": "all"
     },
     {
-      "q": "She has been living here _______ 1999.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which is the highest peak of Himalayas range in Pakistan?",
+      "urdu": "پاکستان میں ہمالیہ کی بلند ترین چوٹی کون سی ہے؟",
       "options": [
-        "For",
-        "Since",
-        "From",
+        "K-2",
+        "Nanga Parbat",
+        "Sakasar",
+        "Tirichmir"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"line-height: 150%;\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 13-05-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is listed in the text as a regional language of Pakistan?",
+      "urdu": "مندرجہ ذیل میں سے پاکستان کی علاقائی زبان کے طور پر کون سی زبان شامل ہے؟",
+      "options": [
+        "Persian",
+        "Brahui",
+        "Turkish",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "To have one's hands full is to be completely _____ or have a difficult task.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "On what date did Gandhi-Jinnah talks begin at the residence of Quaid-e-Azam in Bombay?",
+      "urdu": "بمبئی میں قائداعظم کی رہائش گاہ پر گاندھی جناح مذاکرات کس تاریخ کو شروع ہوئے؟",
       "options": [
-        "Occupied",
-        "Accommodated",
-        "Employed",
-        "Interlocked"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the present Director General (DG) of World Health Organization (WHO)?",
-      "urdu": "ورلڈ ہیلتھ آرگنائزیشن کے موجودہ ڈائریکٹر جنرل کون ہیں؟",
-      "options": [
-        "Margaret Chan",
-        "Tedros Adhanom",
-        "Hiroshi Nakajima",
+        "24 June 1945",
+        "14 August 1944",
+        "9 September 1944",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">Tedros Adhanom</b><b style=\"color: rgb(0, 0, 255);\"> replaced </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">Margaret Chan</b><b style=\"color: rgb(0, 0, 255);\"> as 8th DG WHO in </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">2017</b><b style=\"color: rgb(0, 0, 255);\">.<br/></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "In May 2026, Pakistan and which country signed cooperation regarding Drug trafficking control?",
-      "urdu": "مئی 2026 میں، پاکستان اور کس ملک نے منشیات کی اسمگلنگ کنٹرول کے حوالے سے تعاون پر دستخط کیے؟",
+      "q": "Which political development intensified the crisis leading to separation?",
+      "urdu": "کون سی سیاسی پیش رفت نے علیحدگی کے بحران کو مزید شدید کر دیا؟",
       "options": [
-        "China",
-        "Russia",
-        "Bangladesh",
+        "Refusal to transfer power",
+        "Stable elections",
+        "Cultural exchange",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In May 2026, </font><font color=\"#ff0000\">Pakistan and Bangladesh </font><font color=\"#0000ff\">signed a memorandum of understanding (MoU) to strengthen bilateral cooperation against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">drug trafficking</font><font color=\"#0000ff\"> and narcotics abuse.<o:p></o:p></font></span></span></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "In May 2026, Pakistan and Bangladesh signed cooperation regarding which of the following?",
-      "urdu": "مئی 2026 میں، پاکستان اور بنگلہ دیش نے مندرجہ ذیل میں سے کس کے حوالے سے تعاون پر دستخط کیے؟",
+      "q": "Which imbalance most strained relations between the two wings of Pakistan?",
+      "urdu": "پاکستان کے دونوں حصوں (مشرقی و مغربی پاکستان) کے درمیان تعلقات کو سب سے زیادہ کس عدم توازن نے متاثر کیا؟",
       "options": [
-        "Nuclear technology",
-        "Drug trafficking control",
-        "River water treaty",
+        "Cultural similarity",
+        "Resource allocation disparity",
+        "Religious unity",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">In May 2026, </font><font color=\"#ff0000\">Pakistan and Bangladesh </font><font color=\"#0000ff\">signed a\r\nmemorandum of understanding (MoU) to strengthen bilateral cooperation against\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">drug trafficking</font><font color=\"#0000ff\"> and narcotics abuse.<o:p></o:p></font></b></span></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which Pakistani official attended the oath-taking ceremony of Bangladesh’s Prime Minister Tarique Rahman in 2026?",
-      "urdu": "دو ہزار چھبیس میں بنگلہ دیش کے وزیر اعظم طارق رحمان کی تقریب حلف برداری میں کس پاکستانی عہدیدار نے شرکت کی؟",
+      "q": "Which attribute makes a port strategically significant?",
+      "urdu": "کون سی خصوصیت کسی بندرگاہ کو اسٹریٹجک طور پر اہم بناتی ہے؟",
       "options": [
-        "Ishaq Dar",
-        "Ahsan Iqbal",
-        "Mohsin Naqvi",
+        "Limited hinterland",
+        "Isolation from markets",
+        "Access to major maritime routes",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The 13th Jatiya Sangsad (Parliamentary) Election in </font><span style=\"background-color: rgb(255, 255, 0);\">Bangladesh </span><font color=\"#0000ff\">was held in </font><font color=\"#ff00ff\">2026.</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "How many basic pillars of Islam are there?",
-      "urdu": "اسلام کے بنیادی ارکان کتنے ہیں؟",
+      "q": "Which factor most undermines irrigation efficiency in Pakistan?",
+      "urdu": "پاکستان میں آبپاشی کی کارکردگی کو سب سے زیادہ کون سا عنصر کمزور کرتا ہے؟",
       "options": [
-        "4",
-        "6",
-        "5",
-        "7"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-03-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "7, 6, 10, 8 and 9 are numbers and their frequencies are 2, 2, 5, 1, 2. Find their mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "8",
-        "8.5",
-        "9",
+        "Improved storage",
+        "Canal expansion",
+        "Seepage and evaporation losses",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Find the mean of:</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the first step taken in the Incident Command System (ICS)?",
-      "urdu": "واقعہ کمانڈ سسٹم میں پہلا قدم کیا ہے؟",
+      "q": "Pakistan's strategic location most directly facilitates?",
+      "urdu": "پاکستان کا اسٹریٹجک محلِ وقوع سب سے زیادہ کس چیز کو آسان بناتا ہے؟",
       "options": [
-        "Planning",
-        "Establishing Command",
-        "Communication setup",
+        "Cultural isolation",
+        "Population growth",
+        "Regional connectivity and transit trade",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Financial Action Task Force (FATF), an international intergovernmental organization was established in Paris to stop ______?",
-      "urdu": "فنانشل ایکشن ٹاسک فورس کو پیرس میں ______ کو روکنے کے لیے قائم کیا گیا تھا؟",
+      "q": "Which region's physical characteristics limit large-scale settlement?",
+      "urdu": "کس علاقے کی طبعی خصوصیات بڑی آبادی کے قیام کو محدود کرتی ہیں؟",
       "options": [
-        "Money Laundering",
-        "Human Trafficking",
-        "Drug Smuggling",
+        "Indus Plains",
+        "Coastal belt",
+        "Mountainous North",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"background-color: rgb(255, 255, 0);\">FATF (Financial Action Task Force)</span><font color=\"#0000ff\">:</font></span></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The role of the Election Commission of Pakistan (ECP) is ______?",
-      "urdu": "الیکشن کمیشن آف پاکستان کا کردار کیا ہے؟",
+      "q": "Which element is most responsible for temperature extremes in Pakistan?",
+      "urdu": "پاکستان میں شدید درجہ حرارت کی سب سے بڑی وجہ کون سا عنصر ہے؟",
       "options": [
-        "To manage foreign relations",
-        "To ensure free and fair elections",
-        "To control the media",
+        "Continental location",
+        "Trade flows",
+        "Linguistic fragmentation",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "After 15% discount, sale price of a thing is 8500. Find the original price?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which factor most effectively integrates diverse communities in Pakistan?",
+      "urdu": "پاکستان میں مختلف برادریوں کو سب سے زیادہ کس عامل نے متحد کیا ہے؟",
       "options": [
-        "10000",
-        "20000",
-        "30000",
+        "Economic disparity",
+        "Regional rivalries",
+        "Common ideological identity",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">If 15% discount was given, you paid 85% of the original price.</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Because of the blockage in the Black Sea, which product’s trade is mainly affected?",
-      "urdu": "بحیرۂ اسود کی بندش کی وجہ سے کس چیز کی تجارت سب سے زیادہ متاثر ہوتی ہے؟",
+      "q": "Which argument most strongly supports the concept of a distinct Muslim nation?",
+      "urdu": "کس دلیل نے ایک علیحدہ مسلم قوم کے تصور کو سب سے زیادہ مضبوط کیا؟",
       "options": [
-        "Oil",
-        "Wheat",
-        "Cotton",
+        "Divergent social and religious systems",
+        "Economic cooperation",
+        "Linguistic overlap",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Sole function of ASF is to protect?",
-      "urdu": "اے ایس ایف کا واحد کام کس کی حفاظت کرنا ہے؟",
+      "q": "Which circumstance most compelled Muslims to seek a separate political framework?",
+      "urdu": "کس صورتحال نے مسلمانوں کو ایک علیحدہ سیاسی نظام کے مطالبے پر سب سے زیادہ مجبور کیا؟",
       "options": [
-        "Personnel and property",
-        "Building",
-        "Aircraft",
+        "Educational reforms",
+        "Administrative efficiency",
+        "Persistent political under-representation",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "If you reach a crime scene and find wet evidence (e.g., clothes affected by flood water), what should be your first action?",
-      "urdu": "اگر آپ کسی جرم کے مقام پر پہنچیں اور وہاں گیلی شواہد (مثلاً سیلاب سے متاثرہ کپڑے) دیکھیں تو آپ کا پہلا عمل کیا ہوگا؟",
+      "q": "Which idea lies at the heart of quantum theory regarding emission and absorption of energy?",
+      "urdu": "کوانٹم نظریہ کے مطابق توانائی کے اخراج اور جذب کے بارے میں بنیادی خیال کیا ہے؟",
       "options": [
-        "Secure the scene to prevent contamination and ensure safety",
-        "Collect the wet evidence immediately",
-        "Wash the area for cleanliness",
+        "Energy is exchanged in definite small packets",
+        "Energy has no relation to radiation",
+        "Energy changes only continuously",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Islam is based on?",
-      "urdu": "اسلام کس پر مبنی ہے؟",
+      "q": "In the photoelectric effect, which factor must reach a minimum required value before electrons can be emitted from a metal surface?",
+      "urdu": "فوٹو الیکٹرک اثر میں کون سا عامل کم از کم ضروری حد تک پہنچنا چاہیے تاکہ دھات کی سطح سے الیکٹران خارج ہو سکیں؟",
       "options": [
-        "Customs and traditions",
-        "Quran and Sunnah",
-        "Political laws",
+        "Frequency of light",
+        "Temperature of the room",
+        "Pressure of surrounding air",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the Sun, Earth, and Moon are arranged so that tidal forces reinforce one another, the resulting tides are called?",
+      "urdu": "جب سورج، زمین اور چاند اس طرح سیدھ میں ہوں کہ سمندری مدوجزر کی قوتیں ایک دوسرے کو مضبوط کریں تو ان کو کیا کہتے ہیں؟",
+      "options": [
+        "Local tides",
+        "Spring tides",
+        "Wind tides",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "For the country's agriculture, the most significant surface-water contribution comes mainly from?",
+      "urdu": "ملک کی زراعت کے لیے سطحی پانی کا سب سے اہم ذریعہ کون سا ہے؟",
+      "options": [
+        "Atmospheric moisture only",
+        "Small ponds",
+        "Rivers",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In terms of production activity, rising factory output would most directly increase energy use in which sector?",
+      "urdu": "پیداواری سرگرمیوں کے لحاظ سے اگر فیکٹریوں کی پیداوار بڑھ جائے تو توانائی کے استعمال میں سب سے زیادہ اضافہ کس شعبے میں ہوگا؟",
+      "options": [
+        "Domestic sector",
+        "Residential sector",
+        "Industrial sector",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     }
   ]
