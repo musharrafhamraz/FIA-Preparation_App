@@ -3,10 +3,556 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-14T05:50:27.119982",
+    "fetched_at": "2026-05-15T05:57:22.118472",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "In which districts of Balochistan are some karezes still functioning according to the chapter?",
+      "urdu": "بابِ معلومات کے مطابق بلوچستان کے کن اضلاع میں کچھ کاریز اب بھی فعال ہیں؟",
+      "options": [
+        "Sibi, Hub and Lasbela",
+        "Gwadar, Turbat and Pasni",
+        "Zhob, Loralai, Pishin, Quetta and Mastung",
+        "Kalat, Khuzdar and Awaran"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following country opposed Pakistan’s membership in the United Nations at the time of Independence?",
+      "urdu": "آزادی کے وقت اقوامِ متحدہ میں پاکستان کی رکنیت کی مخالفت کس ملک نے کی؟",
+      "options": [
+        "India",
+        "Iran",
+        "China",
+        "Afghanistan"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Hindu Kush range starts at the?",
+      "urdu": "ہندوکش کا سلسلہ کہاں سے شروع ہوتا ہے؟",
+      "options": [
+        "Pamir Plateau",
+        "China Border",
+        "Afghan border",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The British Parliament announced the Independence Act on?",
+      "urdu": "برطانوی پارلیمنٹ نے آزادی ایکٹ کا اعلان کب کیا؟",
+      "options": [
+        "14 July 1947",
+        "15 July 1947",
+        "16 July 1947",
+        "18 July 1947"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did Shimla conference held?",
+      "urdu": "شملہ کانفرنس کب ہوئی؟",
+      "options": [
+        "24 July 1946",
+        "24 July 1945",
+        "24 June 1945",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which development directly led to political breakdown in 1971?",
+      "urdu": "سن 1971 میں سیاسی نظام کے ٹوٹنے کا براہِ راست سبب کون سا واقعہ تھا؟",
+      "options": [
+        "Military operation and conflict",
+        "Educational reforms",
+        "Industrial policy",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which governance approach widened distrust between East and West Pakistan?",
+      "urdu": "مشرقی اور مغربی پاکستان کے درمیان بداعتمادی بڑھانے والی طرزِ حکومت کون سی تھی؟",
+      "options": [
+        "Equal autonomy",
+        "Centralized authority",
+        "Balanced development",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which feature increases the strategic importance of Gwadar Port?",
+      "urdu": "گوادر بندرگاہ کی اسٹریٹجک اہمیت کس وجہ سے بڑھتی ہے؟",
+      "options": [
+        "Small harbor size",
+        "Proximity to international shipping lanes",
+        "Isolation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which issue most critically reduces water use efficiency?",
+      "urdu": "کون سا مسئلہ پانی کے استعمال کی کارکردگی کو سب سے زیادہ کم کرتا ہے؟",
+      "options": [
+        "Rainfall growth",
+        "Canal seepage",
+        "Storage increase",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan's location provides advantage mainly in?",
+      "urdu": "پاکستان کے محلِ وقوع کا سب سے بڑا فائدہ کس شعبے میں ہے؟",
+      "options": [
+        "Population distribution",
+        "Cultural isolation",
+        "Trade and transit routes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which region has limited agricultural potential due to terrain and water scarcity?",
+      "urdu": "کون سا علاقہ زمین کی بناوٹ اور پانی کی کمی کی وجہ سے زراعت کے لیے محدود صلاحیت رکھتا ہے؟",
+      "options": [
+        "River valleys",
+        "Coastal plains",
+        "Balochistan Plateau",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which factor primarily explains low rainfall in interior regions?",
+      "urdu": "اندرونی علاقوں میں کم بارش کی بنیادی وجہ کیا ہے؟",
+      "options": [
+        "Trade routes",
+        "Distance from sea",
+        "Urbanization",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which element most effectively binds diverse ethnic groups in Pakistan?",
+      "urdu": "پاکستان میں مختلف نسلی گروہوں کو سب سے زیادہ متحد کرنے والا عنصر کون سا ہے؟",
+      "options": [
+        "Economic disparity",
+        "Shared national ideology",
+        "Linguistic uniformity",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which perspective best explains the ideological basis of Pakistan?",
+      "urdu": "پاکستان کی نظریاتی بنیاد کو بہتر طور پر کون سا نقطۂ نظر بیان کرتا ہے؟",
+      "options": [
+        "Linguistic fragmentation",
+        "Distinct religious-social system",
+        "Regional cooperation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which political reality most reinforced Muslim demand for a separate state?",
+      "urdu": "کون سی سیاسی حقیقت نے مسلمانوں کے علیحدہ ریاست کے مطالبے کو سب سے زیادہ مضبوط کیا؟",
+      "options": [
+        "Trade liberalization",
+        "Administrative decentralization",
+        "Fear of permanent majority domination",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Planck introduced quantum theory to explain?",
+      "urdu": "پلانک نے کوانٹم تھیوری کس کی وضاحت کے لیے پیش کی؟",
+      "options": [
+        "Gravity",
+        "Atomic mass",
+        "Blackbody radiation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Increasing frequency of light increases?",
+      "urdu": "روشنی کی فریکوئنسی بڑھنے سے کیا بڑھتا ہے؟",
+      "options": [
+        "Number of electron",
+        "Intensity",
+        "Energy of electrons",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Neap tides occur due to?",
+      "urdu": "نیپ ٹائڈز کس وجہ سے پیدا ہوتے ہیں؟",
+      "options": [
+        "Earth rotation",
+        "Right angle position of Moon",
+        "Strong winds",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which system stores river water for later use?",
+      "urdu": "دریا کے پانی کو بعد میں استعمال کے لیے کون سا نظام ذخیرہ کرتا ہے؟",
+      "options": [
+        "Tank",
+        "Canal",
+        "Dam",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sector primarily uses energy for transportation purposes?",
+      "urdu": "توانائی کا کون سا شعبہ بنیادی طور پر نقل و حمل کے لیے استعمال کرتا ہے؟",
+      "options": [
+        "Transport",
+        "Industrial",
+        "Agriculture",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Natural gas is odorless in its pure form and therefore?",
+      "urdu": "قدرتی گیس اپنی خالص حالت میں بے بو ہوتی ہے، اس لیے کیا کیا جاتا ہے؟",
+      "options": [
+        "Is not usable",
+        "Needs odorant for detection",
+        "Needs color addition",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which energy source is directly obtained from plant and animal waste?",
+      "urdu": "پودوں اور جانوروں کے فضلے سے براہِ راست حاصل ہونے والا توانائی کا ذریعہ کون سا ہے؟",
+      "options": [
+        "Wind",
+        "Hydro",
+        "Biomass",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which part of the cell contains genetic material?",
+      "urdu": "سیل کے کس حصے میں جینیاتی مواد موجود ہوتا ہے؟",
+      "options": [
+        "Ribosome",
+        "Cytoplasm",
+        "Nucleus",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The major source of quick energy for our body is?",
+      "urdu": "انسانی جسم کے لیے فوری توانائی کا سب سے بڑا ذریعہ کون سا ہے؟",
+      "options": [
+        "Carbohydrates",
+        "Mineral",
+        "Vitamin",
+        "Protein"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Laser beams are used in communication because they?",
+      "urdu": "لیزر بیمز مواصلات میں کیوں استعمال کی جاتی ہیں؟",
+      "options": [
+        "Are invisible",
+        "Have low intensity",
+        "Travel in straight narrow paths",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which component executes instructions and processes data?",
+      "urdu": "کون سا جز ہدایات پر عمل کرتا ہے اور ڈیٹا کو پراسیس کرتا ہے؟",
+      "options": [
+        "Input unit",
+        "CPU",
+        "Monitor",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Isotopes of an element have the same number of _______?",
+      "urdu": "ایک عنصر کے آاسوٹوپس میں کس کی ایک ہی تعداد ہے؟",
+      "options": [
+        "Neutrons",
+        "Protons",
+        "Electrons",
+        "Beta rays"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which radiation is least affected by magnetic fields?",
+      "urdu": "کون سی شعاع مقناطیسی میدان سے سب سے کم متاثر ہوتی ہے؟",
+      "options": [
+        "Alpha",
+        "Gamma",
+        "Beta",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mass number of an atom shows _____?",
+      "urdu": "ایک ایٹم کا ماس نمبر _____ ظاہر کرتا ہے؟",
+      "options": [
+        "Numbers of protons",
+        "Number of electrons",
+        "Number of proton and neutron",
+        "Number of proton and electrons"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which source of energy is considered unreliable due to its dependence on weather conditions?",
+      "urdu": "کون سا توانائی کا ذریعہ موسم پر انحصار کی وجہ سے غیر قابلِ اعتماد سمجھا جاتا ہے؟",
+      "options": [
+        "Coal",
+        "Wind energy",
+        "Natural gas",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which principle defines respect for humanity in Islam?",
+      "urdu": "اسلام میں انسانیت کے احترام کا بنیادی اصول کیا ہے؟",
+      "options": [
+        "Conditional respect",
+        "Universal dignity with justice",
+        "Cultural preference",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which view most accurately reflects Islamic modesty?",
+      "urdu": "اسلامی حیا کا سب سے درست تصور کون سا ہے؟",
+      "options": [
+        "Silence",
+        "External appearance only",
+        "Internal and external discipline",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which action best reflects ethical integrity under challenge?",
+      "urdu": "مشکل حالات میں کون سا عمل اخلاقی دیانت داری کی بہترین مثال ہے؟",
+      "options": [
+        "Selective truth",
+        "Avoiding responsibility",
+        "Maintaining justice despite pressure",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which principle from Hijrah demonstrates strategic foresight?",
+      "urdu": "ہجرت کا کون سا اصول دور اندیشی اور حکمتِ عملی کو ظاہر کرتا ہے؟",
+      "options": [
+        "Building a structured community",
+        "Seeking comfort",
+        "Avoiding responsibility",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which role of Sunnah is most critical for understanding Islam practically?",
+      "urdu": "اسلام کو عملی طور پر سمجھنے کے لیے سنت کا سب سے اہم کردار کیا ہے؟",
+      "options": [
+        "Cultural reference",
+        "Historical record",
+        "Implementation of Quranic teachings",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which feature of Seerat explains its application across different eras?",
+      "urdu": "سیرت کی کون سی خصوصیت مختلف ادوار میں اس کے اطلاق کی وضاحت کرتی ہے؟",
+      "options": [
+        "Political dominance",
+        "Cultural traditions",
+        "Universal principles applied with wisdom",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which situation best demonstrates that worship has influenced personal character?",
+      "urdu": "کون سی صورتحال سب سے بہتر ظاہر کرتی ہے کہ عبادت نے انسان کے کردار پر اثر ڈالا ہے؟",
+      "options": [
+        "Increased rituals only",
+        "Withdrawal from society",
+        "Ethical consistency in actions",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which inconsistency most weakens the practical impact of belief in Tawheed?",
+      "urdu": "توحید پر ایمان کے عملی اثر کو سب سے زیادہ کون سی بات کمزور کرتی ہے؟",
+      "options": [
+        "Lack of social interaction",
+        "Preference for privacy",
+        "Treating worldly systems as ultimate authority",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which outcome best reflects the Quran as a source of moral clarity rather than ritual identity?",
+      "urdu": "قرآن کو صرف رسمی شناخت کے بجائے اخلاقی رہنمائی کا ذریعہ کس نتیجے میں بہتر طور پر ظاہر کیا جاتا ہے؟",
+      "options": [
+        "Memorization for recognition",
+        "Increased recitation with unchanged behavior",
+        "Ethical decisions guided by Quranic values",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which interpretation best preserves the Quran's universality without ignoring contextual understanding?",
+      "urdu": "کون سی تشریح قرآن کی عالمگیریت کو بہتر طور پر برقرار رکھتی ہے بغیر سیاق و سباق کو نظر انداز کیے؟",
+      "options": [
+        "Its guidance is fixed only for early Muslims",
+        "Its teachings are symbolic and non-practical",
+        "Its principles remain universal but require contextual reasoning for application",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the real name of Muhammad Fateh?",
+      "urdu": "محمد فاتح کا اصل نام کیا تھا؟",
+      "options": [
+        "Sultan Suleiman",
+        "Sultan Mehmed II",
+        "Selim I",
+        "Osman I"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Where was Imam Ghazali born?",
+      "urdu": "امام غزالی کہاں پیدا ہوئے تھے؟",
+      "options": [
+        "Baghdad",
+        "Damascus",
+        "Tabaran",
+        "Cairo"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff00ff\"><br/></font><font color=\"#0000ff\" style=\"font-weight: 700;\"></font></p>",
+      "category": "all"
+    },
     {
       "q": "Select the correct Urdu translation of 'Penalize'?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -17,7 +563,7 @@
         "ان میں سے کوئی نہیں"
       ],
       "correct": 0,
-      "explanation": "<p><b><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 14-05-2026</font></span></b></p>",
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</b></font></p>",
       "category": "all"
     },
     {
@@ -29,8 +575,8 @@
         "حوصلہ توڑنا",
         "ان میں سے کوئی نہیں"
       ],
-      "correct": 0,
-      "explanation": "<p><b><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 14-05-2026</font></span></b></p>",
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</b></font></p>",
       "category": "all"
     },
     {
@@ -55,7 +601,7 @@
         "He said he had to finish that",
         "None of these"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "<p><b><font color=\"#0000ff\">Direct:</font><font color=\"#ff0000\"> I must finish this</font><font color=\"#0000ff\">.</font></b></p>",
       "category": "all"
     },
@@ -81,7 +627,7 @@
         "A letter has been written by her",
         "None of these"
       ],
-      "correct": 0,
+      "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
       "category": "all"
     },
@@ -94,7 +640,7 @@
         "On",
         "None of these"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
       "category": "all"
     },
@@ -107,554 +653,8 @@
         "For",
         "None of these"
       ],
-      "correct": 0,
+      "correct": 1,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which tone is preferred in official communication?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Emotional",
-        "Casual",
-        "Formal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which part of a letter follows the salutation?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Signature",
-        "Address",
-        "Body",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the phrasal meaning of “Call it a day”?",
-      "urdu": "\"اسے ایک دن کہو\" کا لفظی معنی کیا ہے؟",
-      "options": [
-        "To stop because one does not want to do any more / End work",
-        "To stop doing something that is annoying",
-        "To get rid of something that is harmful",
-        "To stop and finish the whole matter"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct meaning of 'At the eleventh hour.'",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Celebrate day",
-        "Early time",
-        "Last moment",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the conjunction: He ran fast because he was late.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fast",
-        "Because",
-        "Was",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the adjective in: 'This is a difficult question.'",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Question",
-        "Difficult",
-        "This",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the sentence 'He hardly works', identify the adverb.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hardly",
-        "Works",
-        "He",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a:b = 7:8 and b:c = 4:5, then a:c equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "28:40",
-        "7:10",
-        "14:20",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">a:b = 7:8</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mean of 5, 7, 9 is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "7",
-        "6",
-        "8",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\" style=\"\"><b>Mean = (5 + 7 + 9) ÷ 3</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A chord passing through center is called?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Radius",
-        "Diameter",
-        "Tangent",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "tan²θ + 1 equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "cos²θ",
-        "sec²θ",
-        "cosec²θ",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Using trigonometric identity:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If cosθ = 5/13, then sinθ equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "12/13",
-        "12/14",
-        "12/15",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Given cosθ = 5/13</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If height triples and base remains same, area becomes?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Half",
-        "Double",
-        "Triple",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Area of triangle = ½ × base × height</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If hypotenuse = 25 and one side = 7, other side equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "22",
-        "23",
-        "24",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let other side = x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A triangle with sides 9, 40, 41 is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Obtuse",
-        "Equilateral",
-        "Right triangle",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Check using Pythagoras theorem:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "(7x + 5)/x(x + 1) decomposes as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5/x + 2/(x + 1)",
-        "3/x + 1/(x + 1)",
-        "2/x + 4/(x + 1)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">(7x + 5)/[x(x + 1)] = A/x + B/(x + 1)</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If f(x) = x² + 1 then f(2) + f(3) equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15",
-        "16",
-        "17",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">f(2) = 2² + 1 = 4 + 1 = 5  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If y ∝ x and y = 16 when x = 4 find y when x = 6?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "22",
-        "23",
-        "24",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Since y ∝ x, we have y = kx for some constant k.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Solve: 4x - 5 = 3x + 7?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "12",
-        "13",
-        "14",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">4x - 3x = 7 + 5  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If roots of x² - 5x + 4 = 0 are increased by 1, new equation is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "x² - 7x + 10 = 0",
-        "x² - 5x + 10 = 0",
-        "x² - 6x + 10 = 0",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Roots of x² - 5x + 4 = 0:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If x² - px + 35 has factors differing by 2, then p equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "12",
-        "13",
-        "14",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the roots be r and r + 2, since they differ by 2.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If (a + bi)(a - bi) = 37 and a - b = 3, then a² + b² equals?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "17",
-        "27",
-        "37",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">(a + bi)(a - bi) is a standard identity:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What are artificial springs in Balochistan called?",
-      "urdu": "بلوچستان میں مصنوعی چشموں کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Hamoons",
-        "Headworks",
-        "Karezes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The road/highway connecting Pakistan and China is called?",
-      "urdu": "پاکستان اور چین کو ملانے والی سڑک/ہائی وے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Karakoram Highway",
-        "Indus Highway",
-        "Express Highway",
-        "Hamaliya Highway"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 13-05-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the highest peak of Himalayas range in Pakistan?",
-      "urdu": "پاکستان میں ہمالیہ کی بلند ترین چوٹی کون سی ہے؟",
-      "options": [
-        "K-2",
-        "Nanga Parbat",
-        "Sakasar",
-        "Tirichmir"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"line-height: 150%;\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 13-05-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is listed in the text as a regional language of Pakistan?",
-      "urdu": "مندرجہ ذیل میں سے پاکستان کی علاقائی زبان کے طور پر کون سی زبان شامل ہے؟",
-      "options": [
-        "Persian",
-        "Brahui",
-        "Turkish",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "On what date did Gandhi-Jinnah talks begin at the residence of Quaid-e-Azam in Bombay?",
-      "urdu": "بمبئی میں قائداعظم کی رہائش گاہ پر گاندھی جناح مذاکرات کس تاریخ کو شروع ہوئے؟",
-      "options": [
-        "24 June 1945",
-        "14 August 1944",
-        "9 September 1944",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which political development intensified the crisis leading to separation?",
-      "urdu": "کون سی سیاسی پیش رفت نے علیحدگی کے بحران کو مزید شدید کر دیا؟",
-      "options": [
-        "Refusal to transfer power",
-        "Stable elections",
-        "Cultural exchange",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which imbalance most strained relations between the two wings of Pakistan?",
-      "urdu": "پاکستان کے دونوں حصوں (مشرقی و مغربی پاکستان) کے درمیان تعلقات کو سب سے زیادہ کس عدم توازن نے متاثر کیا؟",
-      "options": [
-        "Cultural similarity",
-        "Resource allocation disparity",
-        "Religious unity",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which attribute makes a port strategically significant?",
-      "urdu": "کون سی خصوصیت کسی بندرگاہ کو اسٹریٹجک طور پر اہم بناتی ہے؟",
-      "options": [
-        "Limited hinterland",
-        "Isolation from markets",
-        "Access to major maritime routes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which factor most undermines irrigation efficiency in Pakistan?",
-      "urdu": "پاکستان میں آبپاشی کی کارکردگی کو سب سے زیادہ کون سا عنصر کمزور کرتا ہے؟",
-      "options": [
-        "Improved storage",
-        "Canal expansion",
-        "Seepage and evaporation losses",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan's strategic location most directly facilitates?",
-      "urdu": "پاکستان کا اسٹریٹجک محلِ وقوع سب سے زیادہ کس چیز کو آسان بناتا ہے؟",
-      "options": [
-        "Cultural isolation",
-        "Population growth",
-        "Regional connectivity and transit trade",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which region's physical characteristics limit large-scale settlement?",
-      "urdu": "کس علاقے کی طبعی خصوصیات بڑی آبادی کے قیام کو محدود کرتی ہیں؟",
-      "options": [
-        "Indus Plains",
-        "Coastal belt",
-        "Mountainous North",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which element is most responsible for temperature extremes in Pakistan?",
-      "urdu": "پاکستان میں شدید درجہ حرارت کی سب سے بڑی وجہ کون سا عنصر ہے؟",
-      "options": [
-        "Continental location",
-        "Trade flows",
-        "Linguistic fragmentation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which factor most effectively integrates diverse communities in Pakistan?",
-      "urdu": "پاکستان میں مختلف برادریوں کو سب سے زیادہ کس عامل نے متحد کیا ہے؟",
-      "options": [
-        "Economic disparity",
-        "Regional rivalries",
-        "Common ideological identity",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which argument most strongly supports the concept of a distinct Muslim nation?",
-      "urdu": "کس دلیل نے ایک علیحدہ مسلم قوم کے تصور کو سب سے زیادہ مضبوط کیا؟",
-      "options": [
-        "Divergent social and religious systems",
-        "Economic cooperation",
-        "Linguistic overlap",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which circumstance most compelled Muslims to seek a separate political framework?",
-      "urdu": "کس صورتحال نے مسلمانوں کو ایک علیحدہ سیاسی نظام کے مطالبے پر سب سے زیادہ مجبور کیا؟",
-      "options": [
-        "Educational reforms",
-        "Administrative efficiency",
-        "Persistent political under-representation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which idea lies at the heart of quantum theory regarding emission and absorption of energy?",
-      "urdu": "کوانٹم نظریہ کے مطابق توانائی کے اخراج اور جذب کے بارے میں بنیادی خیال کیا ہے؟",
-      "options": [
-        "Energy is exchanged in definite small packets",
-        "Energy has no relation to radiation",
-        "Energy changes only continuously",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the photoelectric effect, which factor must reach a minimum required value before electrons can be emitted from a metal surface?",
-      "urdu": "فوٹو الیکٹرک اثر میں کون سا عامل کم از کم ضروری حد تک پہنچنا چاہیے تاکہ دھات کی سطح سے الیکٹران خارج ہو سکیں؟",
-      "options": [
-        "Frequency of light",
-        "Temperature of the room",
-        "Pressure of surrounding air",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When the Sun, Earth, and Moon are arranged so that tidal forces reinforce one another, the resulting tides are called?",
-      "urdu": "جب سورج، زمین اور چاند اس طرح سیدھ میں ہوں کہ سمندری مدوجزر کی قوتیں ایک دوسرے کو مضبوط کریں تو ان کو کیا کہتے ہیں؟",
-      "options": [
-        "Local tides",
-        "Spring tides",
-        "Wind tides",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "For the country's agriculture, the most significant surface-water contribution comes mainly from?",
-      "urdu": "ملک کی زراعت کے لیے سطحی پانی کا سب سے اہم ذریعہ کون سا ہے؟",
-      "options": [
-        "Atmospheric moisture only",
-        "Small ponds",
-        "Rivers",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In terms of production activity, rising factory output would most directly increase energy use in which sector?",
-      "urdu": "پیداواری سرگرمیوں کے لحاظ سے اگر فیکٹریوں کی پیداوار بڑھ جائے تو توانائی کے استعمال میں سب سے زیادہ اضافہ کس شعبے میں ہوگا؟",
-      "options": [
-        "Domestic sector",
-        "Residential sector",
-        "Industrial sector",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></b></p>",
       "category": "all"
     }
   ]
