@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-18T06:17:27.093696",
+    "fetched_at": "2026-05-19T06:11:12.877972",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Choose the Correct meaning of the given pair of words: Stationary and Stationery",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Stationary writing materials; Stationery = fixed.",
+        "Stationary not moving; Stationery = writing materials.",
+        "Both mean \"paper.\"",
+        "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "Choose the Correct meaning of the given pair of words: Complement and Compliment",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Complement to praise; Compliment = to complete.",
+        "Complement to complete; Compliment = to praise.",
+        "Both mean “to correct.”",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the Correct meaning of the given pair of words: Principal and Principle",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Principal head of school; Principle = moral rule.",
+        "Principal student; Principle money",
+        "Principal rule; Principle = head of school.",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Choose the Correct meaning of the given pair of words: Brake and Break",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Brake to destroy; Break = to stop.",
+        "Brake to stop; Break to damage or pause.",
+        "Brake rest; Break = to run.",
+        "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Choose the Correct meaning of the given pair of words: Peace and Piece",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
+        "Peace calmness; Piece = a part.",
+        "Pence a part; Piece = calmness.",
+        "Peace war; Piece = unity.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the Holy Quran, Rooh-ul-Ameen is the title of _____?",
+      "urdu": "قرآن مجید میں ، روہ الامین _____ کا عنوان ہے؟",
+      "options": [
+        "Angel Michael",
+        "Angel Jibril",
+        "Angel Israfil",
+        "Angel Azrael"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px;\"><span \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"font-weight: bolder; font-size: 0.875rem; font-family: \"><span style=\"color: rgb(255, 255, 255); font-weight: 400; background-color: rgb(156, 0, 0);\">Last updated by NA on 25- April-2026</span><font color=\"#ff0000\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Prophet has been called as: \"Zun-Noon\" in the Holy \"Quran?",
+      "urdu": "قرآن پاک میں کس نبی کو \"ذون النون\" کہا گیا ہے؟",
+      "options": [
+        "Hazrat Yousuf (AS)",
+        "Hazrat Hood (AS)",
+        "Hazrat Yahya (AS)",
+        "Hazrat Younus (AS)"
       ],
       "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the supreme sovereign (Hakimiyyat-e-A‘la) in the universe?",
+      "urdu": "کائنات میں حاکمیتِ اعلیٰ کون ہے؟",
+      "options": [
+        "Angels",
+        "Prophets",
+        "Allah Almighty",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the practical center of unity (Ijtima‘iyat) in Islam?",
+      "urdu": "اسلام میں اجتماعیت کا عملی مرکز کیا ہے؟",
+      "options": [
+        "Market",
+        "Mosque",
+        "School",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Betray is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Deceive",
+        "Treachery",
+        "Be loyal",
+        "Trick"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bold; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 18-05-2026</font></span><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Islam is not only a religion but also what?",
+      "urdu": "اسلام صرف ایک مذہب نہیں بلکہ کیا ہے؟",
+      "options": [
+        "A code of life (Dastoor-e-Hayat)",
+        "A political system",
+        "A social culture",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the consensus of Islamic scholars on a legal issue called?",
+      "urdu": "کسی شرعی مسئلے پر اسلامی علماء کے متفقہ فیصلے کو کیا کہتے ہیں؟",
+      "options": [
+        "Urf",
+        "Qiyas",
+        "Ijma",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the term for rulings and laws of previous nations mentioned in Islamic teachings?",
+      "urdu": "اسلامی تعلیمات میں سابقہ امتوں کے احکام اور قوانین کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Shariah",
+        "Sunnah",
+        "Shara‘ man qablana",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Duration of Makki Period?",
+      "urdu": "مکی دور کی مدت کیا ہے؟",
+      "options": [
+        "12 Years",
+        "13 Years 9 Months 29 days",
+        "12 Years 9 Months 5 days",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\" style=\"\">Last verified on 18-05-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the term for local customs that become a source of Islamic law?",
+      "urdu": "مقامی رسم و رواج جو اسلامی قانون کا ذریعہ بن جائیں، انہیں کیا کہا جاتا ہے؟",
+      "options": [
+        "Urf",
+        "Qiyas",
+        "Ijma",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Wahi-e-Jali?",
+      "urdu": "وحیِ جلی سے کیا مراد ہے؟",
+      "options": [
+        "Hadith",
+        "Inspiration to saints",
+        "The Holy Qur’an",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is spending in the way of Allah called?",
+      "urdu": "اللہ کی راہ میں خرچ کرنے کو کیا کہتے ہیں؟",
+      "options": [
+        "Infaq",
+        "Zakat",
+        "Hajj",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the financial compensation given in cases of murder called in Islamic law?",
+      "urdu": "اسلامی قانون میں قتل کے معاملے میں دی جانے والی مالی تلافی کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Zakat",
+        "Diyat (Blood money)",
+        "Kaffarah",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Islamic terminology, what is a Waqf land called?",
+      "urdu": "اسلامی اصطلاح میں وقف شدہ زمین کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Usher land",
+        "Kharaj land",
+        "Arazi-e-Mauqoofa",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first ever International treaty in Islamic History is known as?",
+      "urdu": "اسلامی تاریخ کا پہلا بین الاقوامی معاہدہ کس کو کہا جاتا ہے؟",
+      "options": [
+        "Bait-e-Rizwan",
+        "Treaty of Madina",
+        "Hilf-ul-Fazool",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Ma‘ad?",
+      "urdu": "معاد سے کیا مراد ہے؟",
+      "options": [
+        "Resurrection / being raised again (Hereafter)",
+        "Birth of a human being",
+        "Worldly life",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the literal meaning of Bay‘ah?",
+      "urdu": "بیعت کا لغوی معنی کیا ہے؟",
+      "options": [
+        "Worship",
+        "Agreement / pledge (to sell oneself / make a covenant)",
+        "Leadership",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the meaning of Islamophobia?",
+      "urdu": "اسلاموفوبیا کا کیا مطلب ہے؟",
+      "options": [
+        "Respect for Islam",
+        "Love for Islamic teachings",
+        "Fear, hatred, or harassment against Islam or Muslims",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which surah Uswah Hasna of the Prophet is mentioned?",
+      "urdu": "نبی کریم ﷺ کے اُسوۂ حسنہ کا ذکر قرآن مجید کی کس سورت میں آیا ہے؟",
+      "options": [
+        "Ahzab",
+        "Maida",
+        "Baqra",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who supervised the committee formed for the compilation of the Qur’an during Caliph Abu Bakr’s time?",
+      "urdu": "حضرت ابوبکر صدیقؓ کے دور میں قرآن مجید کی جمع و تدوین کے لیے بنائی گئی کمیٹی کی نگرانی کس نے کی؟",
+      "options": [
+        "Abu Hurairah (RA)",
+        "Umar ibn al-Khattab (RA)",
+        "Zaid bin Thabit (RA)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What are the verses of the Qur’an in which legal rulings (Ahkam) are mentioned called?",
+      "urdu": "قرآن کی وہ آیات جن میں شرعی احکام بیان کیے گئے ہوں، انہیں کیا کہتے ہیں؟",
+      "options": [
+        "Ayat-e-Madani",
+        "Ayat-ul-Ahkam",
+        "Ayat-ul-Qisas",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nisab of Zakat for Silver is?",
+      "urdu": "چاندی کی زکوٰۃ کا نصاب کیا ہے؟",
+      "options": [
+        "40 Tolas",
+        "50 Tolas",
+        "50 ½ Tolas",
+        "52 ½ Tolas"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font style=\"\"><span style=\"font-family: Helvetica;\"><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Nisab of zakat for </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">silver</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">52 1/2 tola</font></span></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nisab of zakat for gold is _____?",
+      "urdu": "زکوٰۃ کا نصاب سونے کے لیے کتنا ہے؟",
+      "options": [
+        "7.5 tola",
+        "8 tola",
+        "5 tola",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ahzab means?",
+      "urdu": "احزاب کا مطلب ہے؟",
+      "options": [
+        "Ditch",
+        "Allies",
+        "Khandaq",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which prayers are performed for rain?",
+      "urdu": "بارش کے لئے کون سی دعائیں کی جاتی ہیں؟",
+      "options": [
+        "Namaz-e-Khasoof",
+        "Namaz-e-Kasoof",
+        "Namaz-e-Istisqa",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What type of prayer is Nimaz-e-Janaza?",
+      "urdu": "نماز جنازہ کون سی نماز ہے ؟",
+      "options": [
+        "Fera-e-Ain",
+        "Sunnat",
+        "Farz-e-Kaffaya",
+        "Wajib"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 18-05-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Aili Zindagi?",
+      "urdu": "عائلی زندگی سے کیا مراد ہے؟",
+      "options": [
+        "Political life",
+        "Family life",
+        "Economic life",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The current order of the Quranic Surah is _____?",
+      "urdu": "قرآنی سورتوں کی موجودہ ترتیب کیا ہے؟",
+      "options": [
+        "Nuzooli",
+        "Touqeefi",
+        "Hukmo",
+        "Sharal"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Surah are social manners mentioned?",
+      "urdu": "معاشرتی آداب کس سورت میں ذکر کیے گئے ہیں؟",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Hujurat",
+        "Surah Yaseen",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"font-weight: bold; background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Ijtimā‘iyyat is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Individualism",
+        "Unity / Mutual cooperation",
+        "Isolation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to Shariah, what is that ruling which is obligatory for legally responsible persons in normal circumstances called?",
+      "urdu": "شریعت کے مطابق وہ حکم جو عام حالات میں مکلف افراد پر لازم ہو، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Ibahah",
+        "Azimah",
+        "Rukhsah",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The wealth or property left by deceased is called?",
+      "urdu": "وفات پانے والے شخص کی چھوڑی ہوئی جائیداد یا مال کو کیا کہتے ہیں؟",
+      "options": [
+        "Taraka",
+        "Sadaqa",
+        "Asaba",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On what are deeds based?",
+      "urdu": "اعمال کس چیز پر مبنی ہوتے ہیں؟",
+      "options": [
+        "Intention",
+        "Wealth",
+        "Social status",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Amal Ahl al-Madinah’ is a source of Islamic law according to which Imam?",
+      "urdu": "عمل اہلِ مدینہ اسلامی قانون کا ماخذ کس امام کے نزدیک ہے؟",
+      "options": [
+        "Imam Shafi’i",
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Masalih al-Mursalah is accepted as a source of Islamic law by which school of thought?",
+      "urdu": "مصالح مرسلہ کو اسلامی قانون کا ماخذ کس فقہی مکتب فکر نے قبول کیا ہے؟",
+      "options": [
+        "Hanafi school only",
+        "Shafi’i school only",
+        "Maliki school",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The number of Ghazwat in which the Holy Prophet (SAW) took part?",
+      "urdu": "حضور صلی اللہ علیہ وآلہ وسلم نے ذاتی طور پر کتنے غزوت میں حصہ لیا؟",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the literal meaning of Ijtihad?",
+      "urdu": "اجتہاد کا لفظی مطلب کیا ہے؟",
+      "options": [
+        "Consensus",
+        "Attempt",
+        "Law",
+        "Power"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Wasatiyyah?",
+      "urdu": "وسطیت سے کیا مراد ہے؟",
+      "options": [
+        "Balance and moderation",
+        "Extremism in beliefs",
+        "Complete isolation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Wahi Ghair Matloo?",
+      "urdu": "وحی غیر متلو سے کیا مراد ہے؟",
+      "options": [
+        "Revelation recited in Salah",
+        "Revelation not included in the Qur’an text",
+        "Human speech",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Tafseer-ul-Qur’an bil-Qur’an?",
+      "urdu": "تفسیر القرآن بالقرآن کا کیا مطلب ہے؟",
+      "options": [
+        "Explaining Qur’an by history",
+        "Explaining Qur’an by Hadith only",
+        "Explaining Qur’an by Qur’an itself",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The tax collected from Non-Muslim living under the Islamic government is called?",
+      "urdu": "اسلامی حکومت کے تحت رہنے والے غیر مسلموں سے وصول کیے جانے والے ٹیکس کو کیا کہتے ہیں؟",
+      "options": [
+        "Sariya",
+        "Jaziya",
+        "Qazaf",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Verdana\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the author of Seerat-un-Nabi?",
+      "urdu": "سیرت النبی کا مصنف کون تھا؟",
+      "options": [
+        "Maulana Shibli Nomani and Maulana Syed Suleman Nadvi",
+        "Maulana Maududi",
+        "Imam Ghazali",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who wrote Tafheem-ul-Quran?",
+      "urdu": "تفہیم القرآن کس نے لکھا؟",
+      "options": [
+        "Syed Abul Ala Maududi",
+        "Abdul Rahman",
+        "Israr Ahmed",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the title of Tafseer written by Mufti Muhammad Shafi?",
+      "urdu": "مفتی محمد شفیع کی لکھی ہوئی تفسیر کا نام کیا ہے؟",
+      "options": [
+        "Tafseer-e-Jalalayn",
+        "Maariful Qur’an",
+        "Tafseer Ibn Kathir",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\" style=\"\">Last verified on 18-05-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Miraj Shareef event occurred on _____?",
+      "urdu": "معراج شریف کا واقعہ _____ کو پیش آیا؟",
+      "options": [
+        "8th nabvi",
+        "9th nabvi",
+        "10th nabvi",
+        "11th nabvi"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It is also known as </font><font color=\"#ff00ff\">'Isra and Mi'raj' or 'Shab-e-Meraj'. </font></span></p>",
+      "category": "all"
     }
   ]
 }
