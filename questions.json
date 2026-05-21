@@ -3,30 +3,173 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-20T06:11:32.986065",
+    "fetched_at": "2026-05-21T06:13:08.940292",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Who was the president of USA during World War I?",
-      "urdu": "پہلی جنگ عظیم کے دوران امریکہ کا صدر کون تھا؟",
+      "q": "Two students are fighting. What would be the restorative approach for the teacher?",
+      "urdu": "دو طلبہ آپس میں لڑ رہے ہیں۔ استاد کے لیے بحالی نقطہ نظر کیا ہوگی؟",
       "options": [
-        "William Howard Taft",
-        "Woodrow Wilson",
-        "Warren G. Harding",
+        "Help students understand harm caused and repair relationships",
+        "Suspend both students immediately",
+        "Give corporal punishment",
         "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ffffff\" style=\"background-color: rgb(255, 0, 0);\"> World War I (1914–1918)</font></p>",
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Gabriel phthalimide synthesis is used for preparation of?",
-      "urdu": "گیبریل فثالیمائڈ سنتھیسس کس کے لیے استعمال ہوتا ہے؟",
+      "q": "Lamarck's theory does NOT support which of the following? Adaptation through environmental influence, Use and disuse of organs, Inheritance of acquired characters, Evolution by genetic variation arising before environmental need",
+      "urdu": "لیمارک کا نظریہ درج ذیل میں سے کس چیز کی حمایت نہیں کرتا؟",
       "options": [
-        "1° amine",
-        "2° amine",
-        "3° amine",
+        "Adaptation through environmental influence",
+        "Use and disuse of organs",
+        "Inheritance of acquired characters",
+        "Evolution by genetic variation arising before environmental need"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Modern synthetic theory of evolution differs from Darwin's original theory mainly because it incorporates?",
+      "urdu": "جدید مصنوعی نظریہ ارتقاء، ڈارون کے اصل نظریے سے بنیادی طور پر کس چیز کی شمولیت کی وجہ سے مختلف ہے؟",
+      "options": [
+        "Fossil evidence and embryology",
+        "Genetics and population thinking",
+        "Natural selection only",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the sentence: Scarcely had it stopped raining _____ the sun came out.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "While",
+        "When",
+        "But",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the sentence: Hardly had I reached the station _____ the train left.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "When",
+        "While",
+        "But",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change into indirect speech: “He said, ‘Who drafted this policy?’”",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He said who drafted that policy.",
+        "He asked who had drafted that policy.",
+        "He said who was drafting this policy.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Frugal is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Expensive",
+        "Thrifty",
+        "Economical",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A student designs a new experiment to test a hypothesis. This best represents which Bloom's Taxonomy level?",
+      "urdu": "ایک طالب علم مفروضے کو جانچنے کے لیے ایک نیا تجربہ ڈیزائن کرتا ہے۔  یہ بلوم کی کس درجہ بندی کی سطح کی بہترین نمائندگی کرتا ہے؟",
+      "options": [
+        "Creating",
+        "Evaluating",
+        "Remembering",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A teacher asks students to judge the validity of a scientific argument. Which Bloom's Taxonomy level is being used?",
+      "urdu": "ایک استاد طلبہ سے سائنسی دلیل کی درستگی کا جائزہ لینے کو کہتا ہے۔ یہ بلوم کی درجہ بندی کی کون سی سطح ہے؟",
+      "options": [
+        "Evaluating",
+        "Remembering",
+        "Understanding",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which level of Bloom's Taxonomy involves recalling facts and basic concepts?",
+      "urdu": "بلوم کی درجہ بندی کی کون سی سطح حقائق اور بنیادی تصورات کو یاد کرنے سے متعلق ہے؟",
+      "options": [
+        "Understanding",
+        "Applying",
+        "Remembering",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "DNA polymerase replicates DNA in which direction?",
+      "urdu": "ڈی این اے پولیمریز ڈی این اے کو کس سمت میں نقل کرتا ہے؟",
+      "options": [
+        "3′ → 5′ only",
+        "5′ → 3′ only",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The dominant generation in pteridophytes is?",
+      "urdu": "پٹیرڈوفائٹس میں غالب نسل کون سی ہوتی ہے؟",
+      "options": [
+        "Zygote",
+        "Gametophyte",
+        "Sporophyte",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If both parents are normal and they have an affected child with a recessive disorder, what will be the possible genotype of the parents?",
+      "urdu": "اگر دونوں والدین نارمل ہوں لیکن ان کا بچہ رسیسو بیماری کا شکار ہو، تو والدین کا ممکنہ جینی ٹائپ کیا ہوگا؟",
+      "options": [
+        "Aa and Aa",
+        "AA and AA",
+        "AA and Aa",
         "None of these"
       ],
       "correct": 0,
@@ -34,90 +177,25 @@
       "category": "all"
     },
     {
-      "q": "Concentration of B changes but rate remains unchanged. Correct equation?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "In a dihybrid cross, the correct phenotypic ratio was?",
+      "urdu": "ڈائی ہائبرڈ کراس میں صحیح فینوٹائپک تناسب کیا ہوتا ہے؟",
       "options": [
-        "r = [A]¹[B]²",
-        "r = [A]²[B]¹",
-        "r = [A]²[B]⁰",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Reagent used for reduction of nitrobenzene to aniline is?",
-      "urdu": "نائٹرو بینزین کو اینیلین میں تبدیل کرنے کے لیے کون سا ری ایجنٹ استعمال ہوتا ہے؟",
-      "options": [
-        "H₂/Ni",
-        "Fe/HCl",
-        "KMnO₄",
+        "1:2:1",
+        "9:3:3:1",
+        "12:3:1",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "For endothermic reaction, when is it spontaneous?",
-      "urdu": "اینڈوتھرمک ری ایکشن کب خود بخود ہوتا ہے؟",
+      "q": "Ruminants digest cellulose in their stomach because?",
+      "urdu": "جگالی جانور اپنے معدے میں سیلولوز کو کیوں ہضم کر سکتے ہیں؟",
       "options": [
-        "ΔG = +ve",
-        "ΔG = 0",
-        "ΔG = −ve",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which quantum number set is not applicable? n = 3, l = 3, m = 2, s = 1/2, n = 4, l = 2, m = 0, s = -1/2, n = 3, l = 2, m = 1, s = +1/2, n = 2, l = 1, m = 0, s = -1/2",
-      "urdu": "کون سا کوانٹم نمبر سیٹ درست نہیں ہے؟",
-      "options": [
-        "n = 3, l = 3, m = 2, s = 1/2",
-        "n = 4, l = 2, m = 0, s = -1/2",
-        "n = 3, l = 2, m = 1, s = +1/2",
-        "n = 2, l = 1, m = 0, s = -1/2"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "n = 4, l = 2, number of electrons will be?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">For l=2, it represents the d-subshell.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which gas effuses faster? O₂, H₂, CO₂, N₂",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "O₂",
-        "H₂",
-        "CO₂",
-        "N₂"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will increase the vapour pressure in liquid–vapour equilibrium?",
-      "urdu": "مائع–بخار توازن میں بخارات کے دباؤ میں اضافہ کس سے ہوگا؟",
-      "options": [
-        "Increase pressure",
-        "Decrease temperature",
-        "Increase temperature",
+        "They have microorganisms that digest cellulose",
+        "They produce cellulase enzymes themselves",
+        "Cellulose is easily broken down by acid",
         "None of these"
       ],
       "correct": 0,
@@ -125,12 +203,90 @@
       "category": "all"
     },
     {
-      "q": "Boiling point of water is higher than H₂S due to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "In double stranded DNA, the percentage of adenine is 30%. The percentage of cytosine is?",
+      "urdu": "ڈبل اسٹرینڈڈ ڈی این اے میں اگر ایڈینین کی مقدار %30 ہو تو سائٹوسین کی مقدار کیا ہوگی؟",
       "options": [
-        "Hydrogen bonding",
-        "Ionic bonding",
-        "Covalent bonding",
+        "20%",
+        "30%",
+        "40%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nondisjunction of sister chromatids during mitosis directly produces daughter cells with?",
+      "urdu": "مائٹوسس کے دوران بہن کرومیٹڈس کے عدم جدا ہونے سے بیٹی خلیات میں کیا نتیجہ نکلتا ہے؟",
+      "options": [
+        "Identical diploid sets",
+        "Haploid chromosome number",
+        "Aneuploidy",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A child receives enough calories from starchy food but very little dietary protein and develops edema. This presentation is most consistent with?",
+      "urdu": "ایک بچے کو نشاستہ دار غذا سے کافی کیلوریز مل رہی ہیں لیکن پروٹین بہت کم ہے اور اسے جسم میں سوجن ہو جاتی ہے۔ یہ کس بیماری کی علامت ہے؟",
+      "options": [
+        "Marasmus",
+        "Kwashiorkor",
+        "Rickets",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sexual reproduction restores diploid chromosome number at fertilization because meiosis produces?",
+      "urdu": "جنسی تولید میں فرٹیلائزیشن کے بعد ڈپلائیڈ کروموسوم نمبر اس لیے بحال ہوتا ہے کیونکہ میوسس کیا پیدا کرتا ہے؟",
+      "options": [
+        "Somatic cells",
+        "Diploid gametes",
+        "Haploid gametes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Homologous chromosomes line up as pairs at the equator during?",
+      "urdu": "میوسس میں ہومولوگس کروموسوم جوڑوں کی شکل میں خطِ استوا پر کب ترتیب پاتے ہیں؟",
+      "options": [
+        "Metaphase II of meiosis",
+        "Metaphase of mitosis",
+        "Metaphase I of meiosis",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Crossing over in meiosis takes place in ______?",
+      "urdu": "مییوسس میں عبور کرنا ______ میں ہوتا ہے؟",
+      "options": [
+        "Diakinesis",
+        "Pachytene",
+        "Zygotene",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Both populations of frogs can mate, but embryos die early and do not develop into adults. This is an example of?",
+      "urdu": "دو مینڈکوں کی آبادیوں میں ملاپ ہو سکتا ہے، لیکن جنین جلد مر جاتا ہے اور بالغ نہیں بنتا۔ یہ کس قسم کی تولیدی تنہائی ہے؟",
+      "options": [
+        "Postzygotic isolation",
+        "Habitat isolation",
+        "Behavioral isolation",
         "None of these"
       ],
       "correct": 0,
@@ -138,523 +294,367 @@
       "category": "all"
     },
     {
-      "q": "Which statement describes a supercritical fluid? It behaves only as a solid, It has fixed shape and volume, No boundary exists between gas and liquid phases, None of these",
-      "urdu": "سپر کریٹیکل فلوئیڈ کے بارے میں کون سا بیان درست ہے؟",
+      "q": "What event is essential at the start of allopatric speciation?",
+      "urdu": "ایلوپیٹرک اسپیسیشن کے آغاز کے لیے کون سا واقعہ ضروری ہوتا ہے؟",
       "options": [
-        "It behaves only as a solid",
-        "It has fixed shape and volume",
-        "No boundary exists between gas and liquid phases",
+        "Sudden mutation in all individuals",
+        "Increased gene flow between populations",
+        "Geographic separation that reduces gene flow",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which species contains a 3-center 2-electron bond?",
+      "q": "Which is least compatible with Lamarck's explanation of evolution? Use and disuse of organs, Inheritance of acquired characteristics, Organisms change according to environmental needs, Random mutations appear before environment needs them",
+      "urdu": "مندرجہ ذیل میں سے کون سا نظریہ لامارک کے ارتقاء کے نظریے سے سب سے کم مطابقت رکھتا ہے؟",
+      "options": [
+        "Use and disuse of organs",
+        "Inheritance of acquired characteristics",
+        "Organisms change according to environmental needs",
+        "Random mutations appear before environment needs them"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a mosquito population, a few individuals already carry a gene variant that reduces the effect of an insecticide. After repeated spraying, that variant becomes common. Which process best explains this change?",
+      "urdu": "مچھروں کی آبادی میں کچھ افراد کے پاس پہلے سے ایسا جین موجود تھا جو کیڑے مار دوا کے اثر کو کم کرتا تھا۔ بار بار اسپرے کے بعد وہ جین عام ہو گیا۔ اس تبدیلی کی بہترین وجہ کیا ہے؟",
+      "options": [
+        "Natural selection acting on pre-existing variation",
+        "Genetic drift",
+        "Mutation after spraying",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence: The data was analysed, and the findings was reported., The data were analysed, and the findings were reported., The data were analysed, and the findings was reported., None of these",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "CH₄",
-        "NH₃",
-        "Diborane (B₂H₆)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why is ionization energy of oxygen less than nitrogen?",
-      "urdu": "آکسیجن کی آئنائزیشن انرجی نائٹروجن سے کم کیوں ہوتی ہے؟",
-      "options": [
-        "Oxygen has larger atomic size",
-        "Oxygen has paired electrons causing repulsion in p subshell",
-        "Nitrogen has higher nuclear charge",
+        "The data was analysed, and the findings was reported.",
+        "The data were analysed, and the findings were reported.",
+        "The data were analysed, and the findings was reported.",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "ΔH = −40 kJ mol⁻¹, ΔS = −100 J mol⁻¹ K⁻¹. Above which temperature does reaction become non-spontaneous?",
+      "q": "Obdurate Urdu Meaning?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "200 K",
-        "300 K",
-        "400 K",
+        "نرم دل",
+        "ضدی",
+        "خوش مزاج",
+        "ایماندار"
+      ],
+      "correct": 1,
+      "explanation": "<p><b \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"font-weight: bold; font-family: \"><font color=\"#ff0000\">Obdurate means ضد کرنے والا</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Tenuous is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Significant",
+        "Lengthy",
+        "Delicate",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">For spontaneity, use Gibbs free energy:</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "On dilution of strong electrolyte solution?",
+      "q": "The drug will have \"pernicious\" effect on your health. The Antonym of “Pernicious” is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Molar concentration increases, specific conductivity decreases",
-        "Molar concentration decreases, specific conductivity decreases",
-        "Both increase",
+        "Ruinous",
+        "Prolonged",
+        "Beneficial",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 11-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is _____ honest teacher and _____ university lecturer.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "An, a",
+        "The, A",
+        "An, the",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice: “They postponed the seminar early due to rain.”",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The seminar was postponed early due to rain.",
+        "The seminar is postponed early due to rain.",
+        "The seminar had been postponed early due to rain.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to ______, an adolescent faces psychological issues of.",
+      "urdu": "کون سا نظریہ بتاتا ہے کہ نوجوان نفسیاتی مسائل کا شکار ہوتا ہے؟",
+      "options": [
+        "Erikson",
+        "Freud",
+        "Piaget",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A test blueprint (table of specification) is?",
+      "urdu": "ٹیسٹ بلیوپرنٹ کیا ہوتا ہے؟",
+      "options": [
+        "A plan that links content areas with learning objectives and weightage in a test",
+        "A list of students in a class",
+        "A chart showing marks of students",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Fishes with cartilage (like sharks) belong to?",
+      "urdu": "کارٹیلیج والی مچھلیاں (جیسے شارک) کس گروہ سے تعلق رکھتی ہیں؟",
+      "options": [
+        "Osteichthyes",
+        "Amphibia",
+        "Chondrichthyes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Gymnosperms are characterized by?",
+      "urdu": "جِمنوسپرمز کی خاص پہچان کیا ہے؟",
+      "options": [
+        "Absence of vascular tissues",
+        "Naked seeds",
+        "Seeds enclosed within a fruit",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Nernst equation electrode potential depends on?",
-      "urdu": "نیرنست مساوات کے مطابق الیکٹروڈ پوٹینشل کن چیزوں پر منحصر ہوتا ہے؟",
+      "q": "Angiosperms are characterized by?",
+      "urdu": "اینجیوسپرمز کی خاص پہچان کیا ہے؟",
       "options": [
-        "Only concentration",
-        "Only temperature",
-        "Concentration and temperature",
+        "Absence of vascular tissues",
+        "Naked seeds",
+        "Seeds enclosed within a fruit",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Bond order of O₂⁺ is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "The term primary productivity refers to?",
+      "urdu": "بنیادی پیداواری صلاحیت سے کیا مراد ہے؟",
       "options": [
-        "1.5",
-        "2",
-        "2.5",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Reaction is spontaneous at constant T and P if?",
-      "urdu": "مستقل درجہ حرارت اور دباؤ پر ردِ عمل کب خود بخود ہوتا ہے؟",
-      "options": [
-        "ΔG > 0",
-        "ΔG = 0",
-        "ΔG < 0",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Leaving group in nucleophilic acyl substitution of ethanoyl chloride is? OH⁻, Cl⁻, CH₃⁻, None of these",
-      "urdu": "ایتھانوائل کلورائیڈ کے نیوکلیوفیلک ایسیل سبسٹی ٹیوشن میں لیونگ گروپ کون سا ہوتا ہے؟",
-      "options": [
-        "OH⁻",
-        "Cl⁻",
-        "CH₃⁻",
+        "Total energy used by consumers in an ecosystem",
+        "Rate at which producers convert solar energy into chemical energy",
+        "Decomposition rate of dead organisms",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Markovnikov’s rule: HBr + propene produces?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "In a food web, if a top predator is eliminated/killed?",
+      "urdu": "فوڈ ویب میں اگر سب سے اوپر والا شکاری ختم ہو جائے تو کیا ہوتا ہے؟",
       "options": [
-        "Propanol",
-        "1-bromopropane",
-        "2-bromopropane",
+        "All trophic levels remain unchanged",
+        "Prey population decreases sharply",
+        "Prey population increases and ecosystem balance is disturbed",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Critical temperature means the temperature above which? Gas cannot be liquefied by pressure alone, Gas freezes immediately, Gas becomes plasma, None of these",
-      "urdu": "کریٹیکل درجہ حرارت کیا ہے؟ اس سے اوپر کیا ہوتا ہے؟",
+      "q": "In an environment, a niche is?",
+      "urdu": "ماحولیاتی نظام میں \"نِچ\" کیا ہوتا ہے؟",
       "options": [
-        "Gas cannot be liquefied by pressure alone",
-        "Gas freezes immediately",
-        "Gas becomes plasma",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is a strong ligand among all? Cl⁻, H₂O, CN⁻, None of these",
-      "urdu": "ان میں سب سے مضبوط لیگنڈ کون سا ہے؟",
-      "options": [
-        "Cl⁻",
-        "H₂O",
-        "CN⁻",
+        "The total number of organisms in a habitat",
+        "The physical place where an organism lives",
+        "The role and position of a species in its ecosystem",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is correct about [Ni(CN)₄]²⁻? Square planar and paramagnetic, Tetrahedral and paramagnetic, Square planar and diamagnetic, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Deficiency of Vitamin D results in _____?",
+      "urdu": "وٹامن ڈی کی کمی کے نتیجے میں کیا ہوتا ہے؟",
       "options": [
-        "Square planar and paramagnetic",
-        "Tetrahedral and paramagnetic",
-        "Square planar and diamagnetic",
+        "Rickets",
+        "Scurvy",
+        "Night blindness",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
       "category": "all"
     },
     {
-      "q": "Which has maximum number of unpaired electrons? Mn²⁺, Fe²⁺, Co²⁺, None of these",
-      "urdu": "کون سا آئن سب سے زیادہ غیر جفت الیکٹران رکھتا ہے؟",
+      "q": "Fertilization of the ovum by the sperm usually occurs in the _____?",
+      "urdu": "نطفہ کے ذریعہ بیضوی کی کھاد عام طور پر _____ میں ہوتی ہے؟",
       "options": [
-        "Mn²⁺",
-        "Fe²⁺",
-        "Co²⁺",
+        "Fallopian tubes",
+        "Uterus",
+        "Vagina",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "Which has the bond angle near to 120°? CH₄, NH₃, BF₃, None of these",
-      "urdu": "کون سا مالیکیول 120° کے قریب بانڈ اینگل رکھتا ہے؟",
+      "q": "What is basic unit of classification?",
+      "urdu": "درجہ بندی کا بنیادی اکائی کیا ہے؟",
       "options": [
-        "CH₄",
-        "NH₃",
-        "BF₃",
+        "Species",
+        "Order",
+        "Family",
+        "Genus"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">These </font><font color=\"#ff0000\">groups or levels</font><font color=\"#0000ff\"> are:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Homologous organs are best defined as?",
+      "urdu": "ہم شکل اعضاء کی بہترین تعریف کیا ہے؟",
+      "options": [
+        "Organs with same function but different structure",
+        "Organs with same origin but different functions",
+        "Organs with no evolutionary relationship",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The role of DNA polymerase in replication is?",
+      "urdu": "ڈی این اے ریپلیکیشن میں ڈی این اے پولیمریز کا کیا کردار ہوتا ہے؟",
+      "options": [
+        "Unwinding the DNA helix",
+        "Joining Okazaki fragments only",
+        "Synthesizing new DNA strands by adding nucleotides",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which has highest ionic character? KBr, LiF, NaCl, None of these",
-      "urdu": "سب سے زیادہ آئنک خصوصیت کس میں ہے؟",
+      "q": "Transcription in a eukaryotic cell occurs in the?",
+      "urdu": "یوکاریوٹک خلیے میں ٹرانسکرپشن کہاں ہوتی ہے؟",
       "options": [
-        "KBr",
-        "LiF",
-        "NaCl",
+        "Nucleus",
+        "Cytoplasm",
+        "Mitochondria",
         "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Ethyl acetate formed by reaction of ethanol and ethanoic acid is an example of?",
-      "urdu": "ایتھانول اور ایتھانوئک ایسڈ کے ردِ عمل سے بننے والا ایتھائل ایسیٹیٹ کس قسم کا ردِ عمل ہے؟",
+      "q": "A classic example of stabilizing selection is?",
+      "urdu": "انتخاب کو مستحکم کرنا کی ایک کلاسک مثال کون سی ہے؟",
       "options": [
-        "Neutralization",
-        "Hydrolysis",
-        "Esterification",
+        "Darwin’s finches developing different beaks",
+        "Dark moths surviving in polluted areas",
+        "Intermediate birth weight having highest survival",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "For a spontaneous reaction, Gibbs free energy is?",
-      "urdu": "خود بخود ہونے والے ردِ عمل کے لیے گِبس فری انرجی کیا ہوتی ہے؟",
+      "q": "In natural selection, the characteristic/trait most likely to increase in a population is one that?",
+      "urdu": "قدرتی انتخاب میں کون سی خصوصیت آبادی میں زیادہ ہونے کا امکان رکھتی ہے؟",
       "options": [
-        "Negative",
-        "Positive",
-        "Zero",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Increase in reaction quotient (Q) causes Gibbs free energy to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Decrease",
-        "Remain constant",
-        "Increase",
+        "Reduces survival chances",
+        "Has no effect on survival or reproduction",
+        "Increases reproductive success in a given environment",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which orbital faces highest effective nuclear charge? 3s, 3p, 3d, None of these",
-      "urdu": "کون سا آربٹل سب سے زیادہ مؤثر نیوکلیئر چارج محسوس کرتا ہے؟",
+      "q": "A population bottleneck most directly causes?",
+      "urdu": "آبادی میں \"بوتل نیک\" سب سے زیادہ کس چیز کا سبب بنتا ہے؟",
       "options": [
-        "3s",
-        "3p",
-        "3d",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Correct statement for SN2 reaction is: Inversion of configuration; rate depends on both substrate and nucleophile, Racemization; rate depends only on substrate, Retention of configuration; rate depends only on nucleophile, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Inversion of configuration; rate depends on both substrate and nucleophile",
-        "Racemization; rate depends only on substrate",
-        "Retention of configuration; rate depends only on nucleophile",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ground state electronic configuration of chromium is?",
-      "urdu": "کرومیم کی زمینی حالت میں الیکٹرانک ترتیب کیا ہے؟",
-      "options": [
-        "[Ar] 3d⁴ 4s²",
-        "[Ar] 3d⁵ 4s¹",
-        "[Ar] 3d⁶ 4s⁰",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "First ionization energy of boron is less than beryllium because electron is removed from?",
-      "urdu": "بوران کی پہلی آئنائزیشن انرجی بیریلیم سے کم کیوں ہے۔ الیکٹران کس مدار سے نکلتا ہے؟",
-      "options": [
-        "2p orbital",
-        "1s orbital",
-        "2s orbital",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Magnetic properties of O₂ are due to?",
-      "urdu": "آکسیجن کی مقناطیسی خصوصیات کس وجہ سے ہیں؟",
-      "options": [
-        "Unpaired electrons",
-        "Paired electrons",
-        "Ionic bonding",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which compound has the highest lattice energy?",
-      "urdu": "کون سا مرکب سب سے زیادہ لیٹیس انرجی رکھتا ہے؟",
-      "options": [
-        "NaCl",
-        "MgO",
-        "KBr",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shape of SF₄?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Tetrahedral",
-        "Trigonal planar",
-        "See-saw",
+        "Increase in gene flow",
+        "Increase in mutation rate",
+        "Reduction in genetic variation due to genetic drift",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the oxidation state of Fe in [Fe(CN)6]4−?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Crossing over of linked genes occurs during _____ of meiosis.",
+      "urdu": "منسلک جینوں کے دوران کراسنگ _____ میونیس کے دوران ہوتا ہے.",
       "options": [
-        "+1",
-        "+2",
-        "+3",
+        "Prophase I",
+        "Prophase II",
+        "Metaphase I",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "After meiosis of a diploid cell, the result will be?",
+      "urdu": "ایک ڈپلائیڈ خلیے کی میوسس کے بعد نتیجہ کیا ہوتا ہے؟",
+      "options": [
+        "Two diploid cells",
+        "Four haploid cells",
+        "One diploid cell",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Each CN⁻ has −1 charge, so 6 CN⁻ = −6</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a Daniell cell, electrons flow from?",
-      "urdu": "ڈینیئل سیل میں الیکٹران کس سمت میں بہتے ہیں؟",
-      "options": [
-        "Cu to Zn",
-        "Zn to Cu",
-        "Salt bridge to Zn",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to Faraday’s law, the mass deposited during electrolysis is?",
-      "urdu": "فراڈے کے قانون کے مطابق الیکٹرولائسز میں جمع ہونے والا ماس کیا ہوتا ہے؟",
-      "options": [
-        "m = ZIt",
-        "m = ZIt/96500",
-        "m = 96500/ZIt",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Dehydration of tertiary butanol with concentrated acid gives?",
-      "urdu": "تھریشیری بیوٹانول کو کنسنٹریٹڈ ایسڈ کے ساتھ ڈی ہائیڈریشن کرنے پر کیا بنتا ہے؟",
-      "options": [
-        "2-Methylpropene",
-        "Propene",
-        "2-Methylpropane",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the major product when HBr reacts with propane?",
-      "urdu": "جب ایچ بی آر پروپین کے ساتھ ری ایکشن کرتا ہے تو اہم پروڈکٹ کیا بنتی ہے؟",
-      "options": [
-        "2-Bromopropane",
-        "1-Bromopropane",
-        "Bromomethane",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Cross-linking in polymers?",
-      "urdu": "حل پذیری اور سختی کے بارے میں کیا درست ہے؟",
-      "options": [
-        "Increases solubility and decreases rigidity",
-        "Decreases solubility and increases rigidity",
-        "Increases both solubility and flexibility",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the manufacturing of Nylon 6,6, which two chemicals are used?",
-      "urdu": "نائلون 6,6 کی تیاری میں کون سے دو کیمیکل استعمال ہوتے ہیں؟",
-      "options": [
-        "Adipic acid and Hexamethylenediamine",
-        "Terephthalic acid and Ethylene glycol",
-        "Caprolactam and Water",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The monomer of polystyrene is?",
-      "urdu": "پولی اسٹائرین کا مونومر کیا ہے؟",
-      "options": [
-        "Ethene",
-        "Propene",
-        "Styrene",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Grignard reagent reacts with CO₂ followed by acidic workup to give?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Carboxylic acid",
-        "Alcohol",
-        "Aldehyde",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If T = 298 K, ΔS = +25 and ΔH = +100, the reaction will be?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Spontaneous",
-        "Non-spontaneous",
-        "At equilibrium",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the boiling point of a glucose solution having molality 0.5 m (Kb = 0.512 °C·kg/mol)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "100.256°C",
-        "100°C",
-        "101.256°C",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the triple point of a substance?",
-      "urdu": "کسی مادے کا ٹرپل پوائنٹ کیا ہوتا ہے؟",
-      "options": [
-        "Point where solid, liquid, and gas coexist in equilibrium",
-        "Point where only solid and liquid coexist",
-        "Point where only liquid and gas coexist",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which reaction do all atoms of reactants appear in the product?",
-      "urdu": "کس ری ایکشن میں ری ایکٹنٹس کے تمام ایٹم پروڈکٹ میں شامل ہوتے ہیں؟",
-      "options": [
-        "Combustion of methane",
-        "Hydrogenation of alkene",
-        "Substitution reaction",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which electrophile is used in aromatic nitration? NO⁺, NO₂⁻ , NO₂⁺, None of these",
-      "urdu": "اروماتک نائٹریشن میں کون سا الیکٹروفائل استعمال ہوتا ہے؟",
-      "options": [
-        "NO⁺",
-        "NO₂⁻",
-        "NO₂⁺",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     }
   ]
