@@ -3,10 +3,413 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-21T06:13:08.940292",
+    "fetched_at": "2026-05-22T06:11:10.491914",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which radiation can penetrate human body easily but is less ionizing?",
+      "urdu": "کون سی شعاع انسانی جسم میں آسانی سے داخل ہو سکتی ہے لیکن کم آئنائزنگ ہوتی ہے؟",
+      "options": [
+        "Gamma",
+        "Alpha",
+        "Beta",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which particle has negligible mass compared to proton?",
+      "urdu": "پروٹون کے مقابلے میں کس ذرّے کی کمیت نہ ہونے کے برابر ہوتی ہے؟",
+      "options": [
+        "Electron",
+        "Proton",
+        "Nucleus",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which energy source requires fuel combustion for electricity generation?",
+      "urdu": "کون سا توانائی کا ذریعہ بجلی پیدا کرنے کے لیے ایندھن کے جلنے کی ضرورت رکھتا ہے؟",
+      "options": [
+        "Coal",
+        "Solar",
+        "Tidal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which principle best defines respect for humanity?",
+      "urdu": "انسانیت کے احترام کو بہترین طور پر کون سا اصول بیان کرتا ہے؟",
+      "options": [
+        "Universal dignity with justice",
+        "Conditional respect",
+        "Cultural bias",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which view most accurately represents modesty in Islam?",
+      "urdu": "اسلام میں حیا کا سب سے درست تصور کون سا ہے؟",
+      "options": [
+        "Social withdrawal",
+        "Silence",
+        "Integration of internal and external discipline",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which action best demonstrates ethical strength under pressure?",
+      "urdu": "دباؤ کے تحت اخلاقی مضبوطی کو سب سے بہتر کون سا عمل ظاہر کرتا ہے؟",
+      "options": [
+        "Maintaining justice despite disadvantage",
+        "Avoiding conflict",
+        "Selective truth",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which interpretation of Hijrah best reflects its strategic significance?",
+      "urdu": "ہجرت کی کون سی تشریح اس کی حکمتِ عملی کو سب سے بہتر ظاہر کرتی ہے؟",
+      "options": [
+        "Selective truth",
+        "Protecting image",
+        "Escape from hardship",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which role of Sunnah is essential for translating belief into practice?",
+      "urdu": "عقیدے کو عملی زندگی میں تبدیل کرنے کے لیے سنت کا کون سا کردار ضروری ہے؟",
+      "options": [
+        "Cultural influence",
+        "Optional reference",
+        "Explaining and implementing Quranic guidance",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which aspect of the Seerat explains its universal applicability?",
+      "urdu": "سیرت کا کون سا پہلو اس کی عالمگیر قابلِ اطلاق ہونے کی وضاحت کرتا ہے؟",
+      "options": [
+        "Historical narratives alone",
+        "Political strategies only",
+        "Moral principles applied with wisdom across contexts",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which case best indicates that worship has transformed behavior?",
+      "urdu": "کون سی مثال سب سے بہتر ظاہر کرتی ہے کہ عبادت نے انسان کے رویّے کو بدل دیا ہے؟",
+      "options": [
+        "Avoidance of society",
+        "Increased ritual acts only",
+        "Moral consistency in personal and social dealings",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country retains the absolute top spot as the world's most powerful passport in the May 2026 Henley Passport Index update?",
+      "urdu": "کس ملک نے مئی 2026 کے ہینلے پاسپورٹ انڈیکس اپ ڈیٹ میں دنیا کے سب سے طاقتور پاسپورٹ کے طور پر مطلق ٹاپ پوزیشن برقرار رکھی ہے؟",
+      "options": [
+        "Iceland",
+        "Demark",
+        "Singapore",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley </font><font color=\"#0000ff\">Passport Index released in <span style=\"background-color: rgb(255, 255, 0);\">May 2026</span><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the May 2026 update, Pakistan's passport ranking dropped from 97th (earlier in the year) to which position globally?",
+      "urdu": "مئی 2026 کی تازہ کاری میں، پاکستان کے پاسپورٹ کی درجہ بندی 97ویں (سال کے شروع میں) سے گر کر عالمی سطح پر کس پوزیشن پر آ گئی؟",
+      "options": [
+        "100th",
+        "99th",
+        "98th",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley </font><font color=\"#0000ff\">Passport Index released in <span style=\"background-color: rgb(255, 255, 0);\">May 2026</span><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country ranked No. 1 in the Henley Passport Index released in May 2026?",
+      "urdu": "مئی 2026 میں جاری کردہ ہینلے پاسپورٹ انڈیکس میں کون سا ملک نمبر 1 پر ہے؟",
+      "options": [
+        "Japan",
+        "Germany",
+        "Singapore",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley </font><font color=\"#0000ff\">Passport Index released in <span style=\"background-color: rgb(255, 255, 0);\">May 2026</span><o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which inconsistency shows a hidden weakness in Tawheed?",
+      "urdu": "کون سی بے ربطی توحید میں ایک پوشیدہ کمزوری کو ظاہر کرتی ہے؟",
+      "options": [
+        "Preferring solitude in worship",
+        "Believing outcomes are controlled solely by material forces",
+        "Practicing rituals occasionally",
+        "Avoiding recognition"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which situation best reveals the Quran's role as a moral criterion rather than symbolic reverence?",
+      "urdu": "کس صورتِ حال سے یہ ظاہر ہوتا ہے کہ قرآن محض علامتی احترام نہیں بلکہ ایک اخلاقی معیار ہے؟",
+      "options": [
+        "Reciting for ceremonial occasionally",
+        "Using verses selectively for argument",
+        "Applying its teachings to resolve ethical dilemmas fairly",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which view best explains how the Quran remains relevant despite changing human conditions?",
+      "urdu": "قرآن مجید انسانی حالات کے بدلنے کے باوجود کیسے متعلقہ رہتا ہے۔ اس کی بہترین وضاحت کون سا نظریہ کرتا ہے؟",
+      "options": [
+        "Its guidance changes entirely with society",
+        "Its rulings are confined to for fixed historical contexts",
+        "Its principles provide a framework adaptable through reasoning",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the correct Urdu translation of 'Prejudice'?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "انکار کرنا",
+        "تنقید کرنا",
+        "تعصب",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 21-05-2026</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the correct Urdu translation of 'Condole'?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "خوشی منانا",
+        "اظہارِ ہمدردی کرنا",
+        "انصاف",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He said, “I will call you.” Indirect",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He said that he would call me.",
+        "He told me that he would call me.",
+        "He asked me that he would call me.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "He said, 'I have lost my pen.' (Indirect)",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He told he has lost his pen",
+        "He said he has lost his pen",
+        "He said he had lost his pen",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A wolf enters into an ecosystem, resulting in a decrease in the herbivore population and allowing vegetation to regrow. This is example of?",
+      "urdu": "ایک بھیڑیا ایک ماحولیاتی نظام میں داخل ہوتا ہے، جس سے سبزی خور کی تعداد کم ہو جاتی ہے اور پودوں دوبارہ بڑھنے لگتی ہے۔ یہ کس چیز کی مثال ہے؟",
+      "options": [
+        "Competition",
+        "Symbiosis",
+        "Trophic cascade",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pebrine disease in silkworm is caused by which pathogen?",
+      "urdu": "ریشم کے کیڑے میں پیبرائن کی بیماری کس روگجن کی وجہ سے ہوتی ہے؟",
+      "options": [
+        "Bacillus thuringiensis",
+        "Nosema bombycis",
+        "Salmonella typhi",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the known as the father of taxonomy?",
+      "urdu": "درجہ بندی کا باپ کس کو کہا جاتا ہے؟",
+      "options": [
+        "Edward Jenner",
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Carolus Linnaeus"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The gestation period of an elephant is approximately?",
+      "urdu": "ہاتھی کے حمل کی مدت تقریباً کتنی ہوتی ہے؟",
+      "options": [
+        "9–12 months",
+        "12–15 months",
+        "18–22 months",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The optimal pH of amylase present in saliva is approximately?",
+      "urdu": "لعاب میں موجود امیلیز کا بہترین پی ایچ تقریباً کیا ہوتا ہے؟",
+      "options": [
+        "2.0 – 3.0",
+        "4.5 – 5.5",
+        "6.8 – 7.0",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pebrine disease of silkworm is caused by?",
+      "urdu": "ریشم کے کیڑے کی پیبرائن بیماری کس وجہ سے ہوتی ہے؟",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Protozoa",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Silkworm belongs to which phylum?",
+      "urdu": "ریشم کا کیڑا کس فیلم سے تعلق رکھتا ہے؟",
+      "options": [
+        "Mollusca",
+        "Arthropoda",
+        "Annelida",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the phenotypes of a generation have equal dominant and recessive organisms (1:1 ratio), this represents?",
+      "urdu": "اگر کسی نسل کے فینوٹائپس میں مساوی غالب اور متواتر حیاتیات ہیں (1:1 تناسب)، تو یہ کیا نمائندگی کرتا ہے؟",
+      "options": [
+        "Law of dominance",
+        "Law of independent assortment",
+        "Law of segregation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a dihybrid cross involving two traits, if the genes are not linked and both parents are heterozygous for both traits (AaBb × AaBb in a test cross), what is phenotypic ratio?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1:1:1:1",
+        "9:3:3:1",
+        "3:1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In monohybrid cross between pure tall (TT) and pure dwarf (tt) plants, the genotype of F1 generation is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Tt",
+        "TT",
+        "TTT",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two students are joking during lab time. The teacher wants to give them less attention for the joke and involve them in the activity. Which approach should the teacher use?",
+      "urdu": "دو طلبہ لیب کے دوران مذاق کر رہے ہیں۔ استاد انہیں کم توجہ دے کر سرگرمی میں شامل کرنا چاہتا ہے۔ استاد کو کون سا طریقہ استعمال کرنا چاہیے؟",
+      "options": [
+        "Corporal punishment",
+        "Planned ignoring with redirection",
+        "Suspension from class",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Two students are fighting. What would be the restorative approach for the teacher?",
       "urdu": "دو طلبہ آپس میں لڑ رہے ہیں۔ استاد کے لیے بحالی نقطہ نظر کیا ہوگی؟",
@@ -251,409 +654,6 @@
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Homologous chromosomes line up as pairs at the equator during?",
-      "urdu": "میوسس میں ہومولوگس کروموسوم جوڑوں کی شکل میں خطِ استوا پر کب ترتیب پاتے ہیں؟",
-      "options": [
-        "Metaphase II of meiosis",
-        "Metaphase of mitosis",
-        "Metaphase I of meiosis",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Crossing over in meiosis takes place in ______?",
-      "urdu": "مییوسس میں عبور کرنا ______ میں ہوتا ہے؟",
-      "options": [
-        "Diakinesis",
-        "Pachytene",
-        "Zygotene",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Both populations of frogs can mate, but embryos die early and do not develop into adults. This is an example of?",
-      "urdu": "دو مینڈکوں کی آبادیوں میں ملاپ ہو سکتا ہے، لیکن جنین جلد مر جاتا ہے اور بالغ نہیں بنتا۔ یہ کس قسم کی تولیدی تنہائی ہے؟",
-      "options": [
-        "Postzygotic isolation",
-        "Habitat isolation",
-        "Behavioral isolation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What event is essential at the start of allopatric speciation?",
-      "urdu": "ایلوپیٹرک اسپیسیشن کے آغاز کے لیے کون سا واقعہ ضروری ہوتا ہے؟",
-      "options": [
-        "Sudden mutation in all individuals",
-        "Increased gene flow between populations",
-        "Geographic separation that reduces gene flow",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is least compatible with Lamarck's explanation of evolution? Use and disuse of organs, Inheritance of acquired characteristics, Organisms change according to environmental needs, Random mutations appear before environment needs them",
-      "urdu": "مندرجہ ذیل میں سے کون سا نظریہ لامارک کے ارتقاء کے نظریے سے سب سے کم مطابقت رکھتا ہے؟",
-      "options": [
-        "Use and disuse of organs",
-        "Inheritance of acquired characteristics",
-        "Organisms change according to environmental needs",
-        "Random mutations appear before environment needs them"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a mosquito population, a few individuals already carry a gene variant that reduces the effect of an insecticide. After repeated spraying, that variant becomes common. Which process best explains this change?",
-      "urdu": "مچھروں کی آبادی میں کچھ افراد کے پاس پہلے سے ایسا جین موجود تھا جو کیڑے مار دوا کے اثر کو کم کرتا تھا۔ بار بار اسپرے کے بعد وہ جین عام ہو گیا۔ اس تبدیلی کی بہترین وجہ کیا ہے؟",
-      "options": [
-        "Natural selection acting on pre-existing variation",
-        "Genetic drift",
-        "Mutation after spraying",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: The data was analysed, and the findings was reported., The data were analysed, and the findings were reported., The data were analysed, and the findings was reported., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The data was analysed, and the findings was reported.",
-        "The data were analysed, and the findings were reported.",
-        "The data were analysed, and the findings was reported.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Obdurate Urdu Meaning?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نرم دل",
-        "ضدی",
-        "خوش مزاج",
-        "ایماندار"
-      ],
-      "correct": 1,
-      "explanation": "<p><b \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"font-weight: bold; font-family: \"><font color=\"#ff0000\">Obdurate means ضد کرنے والا</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Tenuous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Significant",
-        "Lengthy",
-        "Delicate",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The drug will have \"pernicious\" effect on your health. The Antonym of “Pernicious” is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ruinous",
-        "Prolonged",
-        "Beneficial",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 11-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is _____ honest teacher and _____ university lecturer.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "An, a",
-        "The, A",
-        "An, the",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the voice: “They postponed the seminar early due to rain.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The seminar was postponed early due to rain.",
-        "The seminar is postponed early due to rain.",
-        "The seminar had been postponed early due to rain.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to ______, an adolescent faces psychological issues of.",
-      "urdu": "کون سا نظریہ بتاتا ہے کہ نوجوان نفسیاتی مسائل کا شکار ہوتا ہے؟",
-      "options": [
-        "Erikson",
-        "Freud",
-        "Piaget",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A test blueprint (table of specification) is?",
-      "urdu": "ٹیسٹ بلیوپرنٹ کیا ہوتا ہے؟",
-      "options": [
-        "A plan that links content areas with learning objectives and weightage in a test",
-        "A list of students in a class",
-        "A chart showing marks of students",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fishes with cartilage (like sharks) belong to?",
-      "urdu": "کارٹیلیج والی مچھلیاں (جیسے شارک) کس گروہ سے تعلق رکھتی ہیں؟",
-      "options": [
-        "Osteichthyes",
-        "Amphibia",
-        "Chondrichthyes",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Gymnosperms are characterized by?",
-      "urdu": "جِمنوسپرمز کی خاص پہچان کیا ہے؟",
-      "options": [
-        "Absence of vascular tissues",
-        "Naked seeds",
-        "Seeds enclosed within a fruit",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Angiosperms are characterized by?",
-      "urdu": "اینجیوسپرمز کی خاص پہچان کیا ہے؟",
-      "options": [
-        "Absence of vascular tissues",
-        "Naked seeds",
-        "Seeds enclosed within a fruit",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term primary productivity refers to?",
-      "urdu": "بنیادی پیداواری صلاحیت سے کیا مراد ہے؟",
-      "options": [
-        "Total energy used by consumers in an ecosystem",
-        "Rate at which producers convert solar energy into chemical energy",
-        "Decomposition rate of dead organisms",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a food web, if a top predator is eliminated/killed?",
-      "urdu": "فوڈ ویب میں اگر سب سے اوپر والا شکاری ختم ہو جائے تو کیا ہوتا ہے؟",
-      "options": [
-        "All trophic levels remain unchanged",
-        "Prey population decreases sharply",
-        "Prey population increases and ecosystem balance is disturbed",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In an environment, a niche is?",
-      "urdu": "ماحولیاتی نظام میں \"نِچ\" کیا ہوتا ہے؟",
-      "options": [
-        "The total number of organisms in a habitat",
-        "The physical place where an organism lives",
-        "The role and position of a species in its ecosystem",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Deficiency of Vitamin D results in _____?",
-      "urdu": "وٹامن ڈی کی کمی کے نتیجے میں کیا ہوتا ہے؟",
-      "options": [
-        "Rickets",
-        "Scurvy",
-        "Night blindness",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fertilization of the ovum by the sperm usually occurs in the _____?",
-      "urdu": "نطفہ کے ذریعہ بیضوی کی کھاد عام طور پر _____ میں ہوتی ہے؟",
-      "options": [
-        "Fallopian tubes",
-        "Uterus",
-        "Vagina",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is basic unit of classification?",
-      "urdu": "درجہ بندی کا بنیادی اکائی کیا ہے؟",
-      "options": [
-        "Species",
-        "Order",
-        "Family",
-        "Genus"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">These </font><font color=\"#ff0000\">groups or levels</font><font color=\"#0000ff\"> are:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Homologous organs are best defined as?",
-      "urdu": "ہم شکل اعضاء کی بہترین تعریف کیا ہے؟",
-      "options": [
-        "Organs with same function but different structure",
-        "Organs with same origin but different functions",
-        "Organs with no evolutionary relationship",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The role of DNA polymerase in replication is?",
-      "urdu": "ڈی این اے ریپلیکیشن میں ڈی این اے پولیمریز کا کیا کردار ہوتا ہے؟",
-      "options": [
-        "Unwinding the DNA helix",
-        "Joining Okazaki fragments only",
-        "Synthesizing new DNA strands by adding nucleotides",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Transcription in a eukaryotic cell occurs in the?",
-      "urdu": "یوکاریوٹک خلیے میں ٹرانسکرپشن کہاں ہوتی ہے؟",
-      "options": [
-        "Nucleus",
-        "Cytoplasm",
-        "Mitochondria",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A classic example of stabilizing selection is?",
-      "urdu": "انتخاب کو مستحکم کرنا کی ایک کلاسک مثال کون سی ہے؟",
-      "options": [
-        "Darwin’s finches developing different beaks",
-        "Dark moths surviving in polluted areas",
-        "Intermediate birth weight having highest survival",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In natural selection, the characteristic/trait most likely to increase in a population is one that?",
-      "urdu": "قدرتی انتخاب میں کون سی خصوصیت آبادی میں زیادہ ہونے کا امکان رکھتی ہے؟",
-      "options": [
-        "Reduces survival chances",
-        "Has no effect on survival or reproduction",
-        "Increases reproductive success in a given environment",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A population bottleneck most directly causes?",
-      "urdu": "آبادی میں \"بوتل نیک\" سب سے زیادہ کس چیز کا سبب بنتا ہے؟",
-      "options": [
-        "Increase in gene flow",
-        "Increase in mutation rate",
-        "Reduction in genetic variation due to genetic drift",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Crossing over of linked genes occurs during _____ of meiosis.",
-      "urdu": "منسلک جینوں کے دوران کراسنگ _____ میونیس کے دوران ہوتا ہے.",
-      "options": [
-        "Prophase I",
-        "Prophase II",
-        "Metaphase I",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "After meiosis of a diploid cell, the result will be?",
-      "urdu": "ایک ڈپلائیڈ خلیے کی میوسس کے بعد نتیجہ کیا ہوتا ہے؟",
-      "options": [
-        "Two diploid cells",
-        "Four haploid cells",
-        "One diploid cell",
-        "None of these"
-      ],
-      "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-05-2026</font></b></p>",
       "category": "all"
     }
