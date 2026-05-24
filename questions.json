@@ -3,186 +3,238 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-23T05:41:31.945768",
+    "fetched_at": "2026-05-24T06:03:59.728775",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The Synonym of Reticent is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Natural gas burns with?",
+      "urdu": "قدرتی گیس جلنے پر کس رنگ کا شعلہ پیدا کرتی ہے؟",
       "options": [
-        "Silent",
-        "Reserved",
-        "Restful",
-        "Both A and B"
+        "Yellow flame",
+        "Blue flame",
+        "Smoky flame",
+        "None of these"
       ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 16-05-2026</font></span></p>",
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The Synonym of Response is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which energy source uses sunlight directly to produce electricity?",
+      "urdu": "کون سا توانائی کا ذریعہ سورج کی روشنی کو براہِ راست بجلی پیدا کرنے کے لیے استعمال کرتا ہے؟",
       "options": [
-        "Rely",
-        "Rally",
-        "Reply",
+        "Hydro",
+        "Solar",
+        "Wind",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which organelle is responsible for energy production in the cell?",
+      "urdu": "سیل میں توانائی پیدا کرنے کا ذمہ دار کون سا آرگنیل ہے؟",
+      "options": [
+        "Ribosome",
+        "Nucleus",
+        "Mitochondria",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The Synonym of Austere is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which nutrient is essential for maintaining body temperature and insulation?",
+      "urdu": "جسم کے درجہ حرارت کو برقرار رکھنے اور جسم کو محفوظ رکھنے کے لیے کون سا غذائی جز ضروری ہے؟",
       "options": [
-        "Luxurious",
-        "Strict",
-        "Gentle",
+        "Vitamins",
+        "Fats",
+        "Carbohydrates",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The Synonym of Sporadic is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which property of laser makes it useful in cutting materials?",
+      "urdu": "لیزر کی کون سی خصوصیت اسے مواد کو کاٹنے کے لیے مفید بناتی ہے؟",
       "options": [
-        "Irregular",
-        "Instinctive",
-        "Accidental",
+        "High intensity",
+        "Diffusion",
+        "Random waves",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 23-05-2026</font></span></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Her candid remarks impressed the higher authorities. The Antonym of Candid is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which unit interprets instructions and directs operations?",
+      "urdu": "کون سا یونٹ ہدایات کو سمجھ کر کمپیوٹر کے کاموں کو کنٹرول کرتا ہے؟",
       "options": [
-        "Devious",
-        "Secretive",
-        "Guarded",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Resilient is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fragile",
-        "Tough",
-        "Flexible",
-        "Both B and C"
-      ],
-      "correct": 3,
-      "explanation": "<p>\n</p>",
-      "category": "all"
-    },
-    {
-      "q": "The land was divided ______ the two sisters and the two brothers.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Into",
-        "Between",
-        "Among",
+        "ALU",
+        "RAM",
+        "Control Unit",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Identify the gerund: Always inspect the brakes before driving the car.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which term refers to atoms with same mass number but different atomic numbers?",
+      "urdu": "وہ کون سی اصطلاح ہے جو ایسے ایٹمز کے لیے استعمال ہوتی ہے جن کا ماس نمبر ایک جیسا ہو لیکن ایٹمی نمبر مختلف ہو؟",
       "options": [
-        "Spotted",
-        "Driving",
-        "Always",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "This book is divided _____ three parts.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In",
-        "Into",
-        "By",
-        "With"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">This book is divided </font><font color=\"#00ff00\">into </font><font color=\"#0000ff\">three parts.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Part of speech showing relationship of noun/pronoun?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Conjunction",
-        "Preposition",
-        "Adverb",
-        "Interjection"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(33, 37, 41); text-align: right;\"><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated question by NS on 2 MAY 2026</font></span><font color=\"#0000ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: “To leave no stone unturned” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To make every possible effort to achieve something",
-        "To avoid difficulties",
-        "To do nothing about a problem",
+        "Isobars",
+        "Isotones",
+        "Isotopes",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What does \"to draw the lines\" mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which radiation consists of helium nuclei?",
+      "urdu": "کون سی شعاع ہیلیم کے نیوکلیائی ذرات پر مشتمل ہوتی ہے؟",
       "options": [
-        "To decide one's occupation",
-        "To set limits",
-        "To prepare for the battle",
+        "Gamma",
+        "Alpha",
+        "Beta",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Idiom: “Set the line” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which particle is located outside the nucleus and participates in chemical bonding?",
+      "urdu": "کون سا ذرہ نیوکلئیس کے باہر پایا جاتا ہے اور کیمیائی بندھن میں حصہ لیتا ہے؟",
       "options": [
-        "To draw a physical line",
-        "To establish a standard or rule",
-        "To cross a boundary",
+        "Electron",
+        "Proton",
+        "Neutron",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which energy source provides power by converting heat from fuel combustion into electricity?",
+      "urdu": "کون سا توانائی کا ذریعہ ایندھن کے جلنے سے پیدا ہونے والی حرارت کو بجلی میں تبدیل کر کے طاقت فراہم کرتا ہے؟",
+      "options": [
+        "Tidal",
+        "Thermal power",
+        "Solar",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Idiom: “To turn every coin” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which principle best reflects Islamic respect for humanity?",
+      "urdu": "اسلام میں انسانیت کے احترام کے اصول کی بہترین عکاسی کون سا اصول کرتا ہے؟",
       "options": [
-        "To waste money",
-        "To avoid spending money",
-        "To use money carefully / be very economical",
+        "Authority-based treatment",
+        "Conditional dignity",
+        "Universal respect with justice",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which interpretation best reflects the holistic concept of modesty?",
+      "urdu": "حیا کے جامع تصور کی بہترین وضاحت کون سی ہے؟",
+      "options": [
+        "External appearance only",
+        "Social withdrawal",
+        "Internal and external discipline combined",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which response best reflects ethical integrity in conflicting situations?",
+      "urdu": "متضاد حالات میں کون سا ردِعمل اخلاقی دیانتداری کی بہترین عکاسی کرتا ہے؟",
+      "options": [
+        "Adjusting truth for convenience",
+        "Protecting reputation",
+        "Upholding justice despite disadvantage",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which interpretation of Hijrah best highlights its long-term objective?",
+      "urdu": "ہجرت کی کون سی تشریح اس کے طویل مدتی مقصد کو سب سے بہتر ظاہر کرتی ہے؟",
+      "options": [
+        "Economic necessity",
+        "Establishing a stable value-based society",
+        "Avoiding immediate hardship",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which misunderstanding most undermines the role of Sunnah?",
+      "urdu": "کون سی غلط فہمی سنت کے کردار کو سب سے زیادہ کمزور کرتی ہے؟",
+      "options": [
+        "Viewing it as explanatory guidance",
+        "Considering it optional in practice",
+        "Recognizing its practical importance",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which feature of the Prophet's Seerat ensures its relevance beyond its historical setting?",
+      "urdu": "نبی کریم ﷺ کی سیرت کی کون سی خصوصیت اسے تاریخی دور سے آگے بھی ہمیشہ قابلِ عمل بناتی ہے؟",
+      "options": [
+        "Universal moral principles applied with wisdom",
+        "Cultural traditions",
+        "Specific historical events",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which situation best indicates that worship has failed to influence moral behavior?",
+      "urdu": "کون سی صورتحال ظاہر کرتی ہے کہ عبادت اخلاقی کردار پر اثر انداز ہونے میں ناکام رہی ہے؟",
+      "options": [
+        "Worship leading to humility",
+        "Ritual practice alongside unethical dealings",
+        "Increased devotion with improved conduct",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which belief flaw most directly weakens accountability before Allah?",
+      "urdu": "کون سی عقیدے کی کمزوری اللہ کے سامنے جوابدہی کے احساس کو سب سے زیادہ کمزور کرتی ہے؟",
+      "options": [
+        "Preferring anonymity",
+        "Avoiding social interaction",
+        "Viewing worldly causes as independent and ultimate",
         "None of these"
       ],
       "correct": 2,
@@ -190,90 +242,25 @@
       "category": "all"
     },
     {
-      "q": "In the constructivist approach, knowledge is built through  ______?",
-      "urdu": "تعمیری نقطہ نظر میں، علم کی تعمیر ______ کے ذریعے ہوتی ہے؟",
+      "q": "Which action best demonstrates submission to Quranic guidance rather than selective use?",
+      "urdu": "قرآن کی ہدایت کے سامنے مکمل اطاعت کا بہترین مظاہرہ کون سا عمل کرتا ہے؟",
       "options": [
-        "Personal experience and interactions",
-        "Memorizing facts",
-        "Strict instructions",
+        "Revising decisions when Quranic values conflict with self-interest",
+        "Quoting verses to support personal opinion",
+        "Reciting regularly without reflection",
         "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is Formative Assessment?",
-      "urdu": "تشکیلاتی تشخیص کیا ہے؟",
-      "options": [
-        "Formative Assessment is considered as a way of assessing after teaching and learning process for feedback into teaching and learning processes",
-        "Formative Assessment is considered as a way of assessing during teaching and learning process for feedback into teaching and learning processes",
-        "Formative Assessment is considered as a formal way of assessing students learning after a certain period of time",
-        "Formative Assessment is considered as a informal way of assessing students learning after a certain period of time"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bloom’s Taxonomy Level 4 and 5 are?",
-      "urdu": "بلوم ٹیکسونومی کے لیول 4 اور 5 کونسی ہیں؟",
-      "options": [
-        "Analyze and Evaluate",
-        "Remember and Understand",
-        "Apply and Create",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to Vygotsky’s theory, what is “Scaffolding”?",
-      "urdu": "ویگوتسکی کے نظریہ کے مطابق ، \"اسکیفولڈنگ\" کیا ہے؟",
-      "options": [
-        "A temporary framework for growth",
-        "A temporary framework for learning",
-        "A temporary framework for support",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The concept of reliability refers to _______?",
-      "urdu": "وشوسنییتا کا تصور _______ سے مراد ہے؟",
-      "options": [
-        "Consistency of scores",
-        "Objectivity of instructions",
-        "Purpose of measurement",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the key principle behind the flipped classroom model?",
-      "urdu": "فلپ شدہ کلاس روم ماڈل کے پیچھے کلیدی اصول کیا ہے؟",
-      "options": [
-        "Lectures are delivered at home, and activities are completed in class",
-        "There is no distinction between classroom and homework activities",
-        "Teachers spend most of the class time grading papers",
-        "Students complete all work in the classroom under teacher supervision"
       ],
       "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is a minimal pair?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which interpretation best reflects the Quran's role in guiding evolving human societies?",
+      "urdu": "کون سی تفسیر ترقی پذیر انسانی معاشروں کی رہنمائی میں قرآن کے کردار کی بہترین عکاسی کرتی ہے؟",
       "options": [
-        "Words with the same pronunciation and meaning",
-        "Words with different meanings but same spelling",
-        "Two words that differ by only one sound and have different meanings",
+        "It provides fixed rulings for limited historical circumstances",
+        "It depends entirely on societal customs for interpretation",
+        "It establishes enduring principles requiring thoughtful contextual application",
         "None of these"
       ],
       "correct": 2,
@@ -281,220 +268,246 @@
       "category": "all"
     },
     {
-      "q": "What is diction?",
+      "q": "Select the correct Urdu translation of 'Patridge'?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "The rhythm of a sentence",
-        "The structure of a poem",
-        "The choice and use of words in speech or writing",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change of sound/meaning in a predictable phonetic environment is called?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Elision",
-        "Assimilation",
-        "Insertion",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Main reason for Faustus’s conflict in Dr. Faustus is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ambition and desire for unlimited knowledge and power",
-        "Love for wealth only",
-        "Fear of society",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Too much jargon in formal academic texts reduces?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Clarity",
-        "Readability",
-        "Comprehension",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "“-tion” and “-ation” are?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Inflectional suffixes",
-        "Derivational suffixes",
-        "Prefixes",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is Deixis?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Words whose meaning depends on context, speaker, time, or place",
-        "Words whose meaning is fixed and universal",
-        "Words that have no grammatical function",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Style of Paradise Lost is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Simple conversational style",
-        "Mock-heroic style",
-        "Epic / Grand style",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "School episode in Hard Times is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Focus on religious teaching methods",
-        "Celebration of modern education",
-        "Criticism of rigid factual education/Utilitarianism",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Wordsworth’s view of poetry in Preface to Lyrical Ballads is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Poetry is imitation of classical rules",
-        "Poetry is the spontaneous overflow of powerful feelings recollected in tranquility",
-        "Poetry is a form of dramatic dialogue only",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Time in Mrs. Dalloway?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Psychological / subjective time",
-        "Objective time",
-        "Clock time only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Milton's Paradise Lost is written in _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Free verse",
-        "Blank verse",
-        "Heroic couplet",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "“A Modest Proposal” by Jonathan Swift is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Horatian Satire",
-        "Mock Epic",
-        "Juvenalian Satire",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the literary and theatrical device where the audience or reader knows crucial information that the characters do not?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Dramatic irony",
-        "Metaphor",
-        "Foreshadowing",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Dramatic</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">irony</font><font color=\"#0000ff\"> occurs when:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Abundant is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Scarce",
-        "Plentiful",
-        "Rare",
-        "Limited"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Meticulous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ridiculous",
-        "Conscientious",
-        "Precise",
-        "Both B and C"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font><br/></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Select the correct Urdu translation of 'Endorse'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "تصدیق کرنا / توثیق کرنا",
-        "چھپانا",
-        "توڑنا",
+        "ایک قسم کا پھل",
+        "ایک قسم کا پرنده",
+        "ایک موسیقی کا آلہ",
         "ان میں سے کوئی نہیں"
       ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the correct Urdu translation of 'Collide'?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دوڑنا",
+        "ٹکرانا",
+        "گرنا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "She said, 'I will come tomorrow.' (Indirect)",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "She told she will come tomorrow",
+        "She said she will come tomorrow",
+        "She said she would come the next day",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: He said, \"I am tired.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He told that he is tired.",
+        "He said that I was tired.",
+        "He said that he was tired.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Identify the passive voice: He has played football, He plays football, Football is played by him, He is playing football",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He has played football",
+        "He plays football",
+        "Football is played by him",
+        "He is playing football"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice: She wrote a letter.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A letter is written by her.",
+        "A letter was written by her.",
+        "A letter has been written by her.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "She is afraid _____ the dog/darkness.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Off",
+        "Of",
+        "To",
+        "From"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "She is fond ______ classical music.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "By",
+        "With",
+        "Of",
+        "For"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is appropriate language in formal letters?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Polite and respectful",
+        "Slang",
+        "Informal words",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which part of a formal letter comes at the end?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Address",
+        "Heading",
+        "Closing",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What are the rushing streams formed by rainwater on hill slopes called?",
+      "urdu": "پہاڑی ڈھلوانوں پر بارش کے پانی سے بننے والی تیز بہنے والی ندیوں کو کیا کہتے ہیں؟",
+      "options": [
+        "Perennial canals",
+        "Karezes",
+        "Hill torrents",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which movement removed Sardar Daud in April 1978 according to Afghan history mentioned in the chapter?",
+      "urdu": "افغان تاریخ کے مطابق اپریل 1978 میں سردار داؤد کو کس تحریک نے ہٹایا؟",
+      "options": [
+        "Saur Revolution",
+        "RCD Movement",
+        "Green Movement",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is the highest peak (mountain) of the Hindu Kush range in Pakistan?",
+      "urdu": "پاکستان میں ہندوکش رینج کا سب سے اونچا چوٹی (پہاڑ) کون سا ہے؟",
+      "options": [
+        "Tirich Mir",
+        "Nanga Parbat",
+        "K-2",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which western tributary of the Indus is included in the Upper Indus Plain according to the chapter?",
+      "urdu": "بالائی دریائے سندھ کے میدان میں شامل مغربی معاون دریا کون سا ہے؟",
+      "options": [
+        "Kabul",
+        "Jhelum",
+        "Sutlej",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many seats won by All India Muslim League in 1945 Legislative Elections?",
+      "urdu": "سن 1945 کے قانون ساز انتخابات میں آل انڈیا مسلم لیگ نے کتنی سیٹیں حاصل کیں؟",
+      "options": [
+        "35",
+        "32",
+        "30",
+        "28"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which development most directly precipitated the 1971 crisis?",
+      "urdu": "سن 1971 کے بحران کو سب سے براہِ راست کس پیش رفت نے جنم دیا؟",
+      "options": [
+        "Trade negotiations",
+        "Industrial policy",
+        "Breakdown of political reconciliation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which disparity most contributed to political alienation in East Pakistan?",
+      "urdu": "مشرقی پاکستان میں سیاسی دوری کا سب سے بڑا سبب کون سا عدم توازن تھا؟",
+      "options": [
+        "Unequal economic allocation",
+        "Cultural similarity",
+        "Religious unity",
+        "None of these"
+      ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is blank verse?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which attribute most enhances the strategic relevance of Pakistan's seaports?",
+      "urdu": "پاکستان کی بندرگاہوں کی اسٹریٹجک اہمیت کو سب سے زیادہ کون سی خصوصیت بڑھاتی ہے؟",
       "options": [
-        "A poem without any rhythm",
-        "Unrhymed poetry written in a regular metrical pattern, usually iambic pentameter",
-        "A poem with random rhymes",
+        "Limited hinterland",
+        "Geographic isolation",
+        "Access to global maritime routes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which factor most critically reduces irrigation system efficiency?",
+      "urdu": "آبپاشی نظام کی کارکردگی کو سب سے زیادہ کون سا عنصر کم کرتا ہے؟",
+      "options": [
+        "Increased storage",
+        "Transmission losses in canals",
+        "Improved drainage",
         "None of these"
       ],
       "correct": 1,
@@ -502,38 +515,77 @@
       "category": "all"
     },
     {
-      "q": "Elegy is a poem that is written about someone's?",
+      "q": "Pakistan's strategic advantage is most closely linked to?",
+      "urdu": "پاکستان کا اسٹریٹجک فائدہ سب سے زیادہ کس سے متعلق ہے؟",
+      "options": [
+        "Cultural uniformity",
+        "Climatic stability",
+        "Its role as a regional transit corridor",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the idiom cost an arm and a leg mean?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Honor",
-        "Death",
-        "Heroism",
-        "Praise"
+        "To be very cheap",
+        "To be extremely expensive / Very expensive",
+        "To be painful",
+        "To be hard to carry"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The idiom \"once a blue moon\" means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Often",
+        "Rarely",
+        "Rapidly",
+        "Slowly"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Identify the preposition in the sentence: The cat is under the table.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Is",
+        "Table",
+        "Under",
+        "The"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Identify the noun in: 'Patience is a great virtue.'",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Great",
+        "Patience",
+        "Virtue",
+        "None of these"
       ],
       "correct": 1,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is metaphysical poetry?",
+      "q": "In the sentence 'He barely passed the exam', identify the adverb.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Poetry focused on nature and rural life",
-        "Poetry written only in narrative form",
-        "A type of poetry that deals with deep philosophical ideas, intellect, spirituality, love, and abstract concepts",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is a volta in poetry?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A turn or shift in thought/emotion in a poem, especially in a sonnet",
-        "A rhyme scheme in a poem",
-        "A type of stanza",
+        "Barely",
+        "Passed",
+        "Exam",
         "None of these"
       ],
       "correct": 0,
@@ -541,64 +593,38 @@
       "category": "all"
     },
     {
-      "q": "What are allophones?",
+      "q": "If a/b = 9/10 and b/c = 5/6 then a:c equals?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Different meanings of the same word",
-        "Different spellings of a word",
-        "Different pronunciations (variants) of the same phoneme",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the word “Butter” (American English), the /t/ sound is pronounced like a soft /d/ sound. What is this phonological process called?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Assimilation",
-        "Flapping",
-        "Elision",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Piaget's stage of development characterized by abstract thinking, hypothetical-deductive reasoning, and systematic evaluation of complex problems is?",
-      "urdu": "پیاجے کے مطابق وہ کون سا مرحلہ ہے جس میں مجرد سوچ، مفروضاتی-قیاسی استدلال اور پیچیدہ مسائل کا منظم تجزیہ ہوتا ہے؟",
-      "options": [
-        "Formal Operational Stage",
-        "Sensorimotor Stage",
-        "Preoperational Stage",
+        "3:4",
+        "2:3",
+        "5:3",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Key </font><font color=\"#ff0000\">abilities</font><font color=\"#0000ff\"> include:</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Given:  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "A literary genre focusing on the psychological, moral and emotional development of a protagonist from youth to adulthood is called?",
+      "q": "Mean of 10, 12, 14 is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Tragedy",
-        "Satire",
-        "Bildungsroman",
+        "12",
+        "13",
+        "14",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Mean = (Sum of numbers) / (Total numbers)  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "“Smoke + Fog = Smog” is an example of which word formation technique?",
+      "q": "A secant intersects a circle at?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Blending",
-        "Compounding",
-        "Clipping",
+        "Two points",
+        "One point",
+        "No point",
         "None of these"
       ],
       "correct": 0,
@@ -606,55 +632,29 @@
       "category": "all"
     },
     {
-      "q": "Article 25-A of the constitution obligates states to provide free and compulsory education up to class?",
+      "q": "cotθ × tanθ equals?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
+        "1",
+        "2",
         "3",
-        "5",
-        "8",
-        "5-16"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Article 25-A of the Constitution of Pakistan </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">mandates</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> the provision of free and compulsory education to all</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"> children from the age of five to sixteen years.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "At the end of 10th grade education in Pakistan (Matriculation), students are awarded a?",
-      "urdu": "پاکستان میں دسویں جماعت (میٹرک) مکمل کرنے کے بعد طلبہ کو کون سا سرٹیفکیٹ دیا جاتا ہے؟",
-      "options": [
-        "Bachelor Degree",
-        "Intermediate Certificate",
-        "Secondary School Certificate (SSC)",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">SSC</font><font color=\"#0000ff\"> stands for </font><font color=\"#ff0000\">Secondary School Certificate</font><font color=\"#0000ff\">.</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">cotθ = 1/tanθ  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which law explains the relationship between force, mass, and acceleration (Force = Mass x Acceleration)?",
+      "q": "If cosθ = 9/41 then sinθ equals?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Newton’s First Law",
-        "Newton’s Second Law",
-        "Newton’s Third Law",
-        "Law of Gravitation"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which radiation consists of high-speed electrons emitted from the nucleus?",
-      "urdu": "کون سی شعاعیں نیوکلیئس سے خارج ہونے والے تیز رفتار الیکٹرانز پر مشتمل ہوتی ہیں؟",
-      "options": [
-        "Gamma rays",
-        "Beta rays",
-        "Alpha rays",
+        "40/41",
+        "40/9",
+        "41/40",
         "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-05-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:  </font></b></p>",
       "category": "all"
     }
   ]
