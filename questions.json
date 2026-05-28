@@ -3,10 +3,36 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-27T06:23:37.057408",
+    "fetched_at": "2026-05-28T06:15:29.050879",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "An international organization whose stated aims are facilitating cooperation in international law, international security, economic development, social progress, human rights, and the achieving of world peace is known as?",
+      "urdu": "وہ بین الاقوامی تنظیم جس کا مقصد بین الاقوامی قانون، عالمی امن، انسانی حقوق، سلامتی اور معاشی ترقی میں تعاون کو فروغ دینا ہے، کیا کہلاتی ہے؟",
+      "options": [
+        "World International Organization",
+        "United Nations Organization",
+        "League of Nations",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is the deepest ocean of the world?",
+      "urdu": "مندرجہ ذیل میں سے دنیا کا سب سے گہرا سمندر کون سا ہے؟",
+      "options": [
+        "Artic Ocean",
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 1rem;\"></span></p>",
+      "category": "all"
+    },
     {
       "q": "Who is the Current Secretary General of United Nation (UNO)?",
       "urdu": "اقوام متحدہ (یو این او) کا موجودہ سیکرٹری جنرل کون ہے؟",
@@ -21,7 +47,7 @@
       "category": "all"
     },
     {
-      "q": "When Thyroid Day is observed_______?",
+      "q": "When Thyroid Day is observed?",
       "urdu": "تائرواڈ ڈے کب منایا جاتا ہے؟",
       "options": [
         "May 30",
@@ -625,32 +651,6 @@
         "Beginning",
         "Starting",
         "Opening",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym: I don't know if the painting is AUTHENTIC.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Inauthentic",
-        "Unauthentic",
-        "Disauthentic",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Synonym: When does your driving licence EXPIRE?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Finish",
-        "Complete",
-        "Run out",
         "None of these"
       ],
       "correct": 2,
