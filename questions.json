@@ -3,10 +3,362 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-28T06:15:29.050879",
+    "fetched_at": "2026-05-29T06:16:48.485676",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Shortcut Key for justifying the text in MS Word is?",
+      "urdu": "ایم ایس ورڈ میں متن کو درست ثابت کرنے کے لیے شارٹ کٹ کلید کیا ہے؟",
+      "options": [
+        "Crtl + J",
+        "Crtl + I",
+        "Crtl + M",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A(An) _____ is an Internet service that provides remote storage to computer users.",
+      "urdu": "ایک ______ انٹرنیٹ سروس ہے جو کمپیوٹر صارفین کو ریموٹ اسٹوریج فراہم کرتی ہے۔",
+      "options": [
+        "Smart TV",
+        "Cloud Storage",
+        "Solid-state drive (SSD)",
+        "Bluetooth"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which tab of the ribbon should you go to for removing gridlines on a worksheet?",
+      "urdu": "ورک شیٹ پر گرڈ لائنز کو ہٹانے کے لیے آپ کو ربن کے کس ٹیب پر جانا چاہیے؟",
+      "options": [
+        "Formulates",
+        "View",
+        "Review",
+        "Developer"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which tab of the ribbon can you change Workbook Views to Page Break Preview?",
+      "urdu": "اقوام متحدہ کا موجودہ سیکرٹری جنرل کون ہے؟",
+      "options": [
+        "Page Layout",
+        "View",
+        "Review",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What are the keyboard shortcut keys to edit formula in a cell?",
+      "urdu": "ایم ایس ایکسل میں موجودہ سیل میں فارمولے ایڈٹ کرنے کے لیے کون سا کی بورڈ شارٹ کٹ استعمال ہوتا ہے؟",
+      "options": [
+        "F2",
+        "F4",
+        "CTRL +1",
+        "CRTL + F"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What are the keyboard shortcut keys to paste special?",
+      "urdu": "خصوصی پیسٹ کرنے کے لیے کی بورڈ شارٹ کٹ کیز کیا ہیں؟",
+      "options": [
+        "ALT + H + V + F",
+        "ALT + H + V + P",
+        "ALT + H + V + O",
+        "ALT + H + V + S"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A _______ is like a summary table of the dataset that enables you to create reports and analyze trends.",
+      "urdu": "ایک ______ ڈیٹا سیٹ کا خلاصہ ٹیبل ہوتا ہے جو رپورٹس بنانے اور رجحانات کو سمجھنے میں مدد دیتا ہے۔",
+      "options": [
+        "Data table",
+        "Pivot table",
+        "Trend table",
+        "Summary"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Function ________ in Excel is used to look up information in a table and extract the corresponding data.",
+      "urdu": "ایکسل میں کس فنکشن کا استعمال ٹیبل میں معلومات تلاش کرنے اور متعلقہ ڈیٹا کو نکالنے کے لیے کیا جاتا ہے؟",
+      "options": [
+        "FETCH",
+        "GET",
+        "VLOOKUP",
+        "DATA"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How can you split a column into 2 or more columns?",
+      "urdu": "آپ ایک کالم کو 2 یا زیادہ کالموں میں کیسے تقسیم کر سکتے ہیں؟",
+      "options": [
+        "Select the cell that you want to split. Then, navigate to the Home Tab, after that, select Text to Column.",
+        "Select the cell that you want to split. Then, navigate to the Insert Tab, after that, select Text to Column.",
+        "Select the cell that you want to split. Then, navigate to the Design Tab, after that, select Text to Column.",
+        "Select the cell that you want to split. Then, navigate to the Data Tab, after that, select Text to Column."
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\">Split data into multiple columns:</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is not a valid option to insert a hyperlink in Excel, which can link to? Link to home, Existing file or web page, Place in this document, Create new document, E-mail Address",
+      "urdu": "ایکسل میں ہائپر لنک ڈالنے کے لیے درج ذیل میں سے کون درست آپشن نہیں ہے، جس سے لنک کیا جا سکتا ہے؟",
+      "options": [
+        "Link to home",
+        "Existing file or web page",
+        "Place in this document",
+        "Create new document",
+        "E-mail Address"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How do you freeze panes in Excel?",
+      "urdu": "آپ ایکسل میں پین کو کیسے منجمد کرتے ہیں؟",
+      "options": [
+        "View the tab and go to Freeze Panes",
+        "Home tab and go to Freeze Panes",
+        "Review tab and go to Freeze Panes",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\">Freeze Panes</font><font color=\"#0000ff\"> in Excel is used to </font><font color=\"#ff0000\">keep rows or columns visible</font><font color=\"#0000ff\"> while scrolling.</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Currency of South Korea?",
+      "urdu": "جنوبی کوریا کی کرنسی کیا ہے؟",
+      "options": [
+        "Rupee",
+        "Won",
+        "Krone",
+        "Dollar"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192); font-family: Helvetica;\">South Korean capital</span><span style=\"font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192); font-family: Helvetica;\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size: 12pt; line-height: 107%; color: red; font-family: Helvetica;\">Seoul</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size: 12pt; line-height: 107%; color: red; font-family: Helvetica;\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The famous \"Three sisters\" volcanoes are located in _______?",
+      "urdu": "مشہور \"تھری سسٹرس\" آتش فشاں کہاں واقع ہیں؟",
+      "options": [
+        "China",
+        "Russia",
+        "United Kingdom",
+        "United States of America"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Sisters</font><font color=\"#0000ff\"> are now known as:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The major river of the Egypt is?",
+      "urdu": "مصر کا سب سے بڑا دریا کون سا ہے؟",
+      "options": [
+        "Euphrates",
+        "Nile",
+        "Niger",
+        "Limpopo"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which lake, known for its high salt content?",
+      "urdu": "کون سی جھیل اپنے زیادہ نمکین پانی کے لیے مشہور ہے؟",
+      "options": [
+        "Lake Turkana",
+        "Lake Chad",
+        "Lake Albert",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Geneva is famous for the following except? World Tourism Organization, World Intellectual Property Organization, World Trade Organization, World Health Organization",
+      "urdu": "جنیوا مندرجہ ذیل کے لیے مشہور ہے سوائے",
+      "options": [
+        "World Tourism Organization",
+        "World Intellectual Property Organization",
+        "World Trade Organization",
+        "World Health Organization"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><span style=\"color: rgb(0, 0, 255);\">:</span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Code \"Smiling Buddha\" is a name given to nuclear test of the _____ country.",
+      "urdu": "سمائیل گ بدھا کس ملک کے ایٹمی تجربے کا کوڈ نام تھا؟",
+      "options": [
+        "India",
+        "North Korea",
+        "China",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 29-05-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "An organization to set labour standards, develop policies and devise programmes promoting decent work for all women and men is better known as?",
+      "urdu": "مزدوروں کے معیار مقرر کرنے، پالیسیاں بنانے اور مرد و خواتین کے لیے بہتر روزگار کو فروغ دینے والی تنظیم کیا کہلاتی ہے؟",
+      "options": [
+        "ICRC",
+        "IMF",
+        "ILO",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "An internal organization to promote international cooperation among police authorities in fighting crime is called?",
+      "urdu": "جرائم کے خلاف مختلف ممالک کی پولیس کے درمیان تعاون کو فروغ دینے والی بین الاقوامی تنظیم کیا کہلاتی ہے؟",
+      "options": [
+        "International Police",
+        "World Great Union",
+        "Financial Action Task Force",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan celebrated which edition of Youme Takbeer in 2026?",
+      "urdu": "پاکستان نے 2026 میں یوم تکبیر کا کون سا ایڈیشن منایا؟",
+      "options": [
+        "26th",
+        "27th",
+        "28th",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:12.0pt\"><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Youm-e-Takbeer is celebrated on </span></b><b><span style=\"font-size:12.0pt;line-height:107%;color:red\">May 28</span></b><b><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\">, annually to commemorate the historic event of conducting </span></b><b><span style=\"font-size:12.0pt;line-height:107%;color:red\">nuclear tests in 1998</span></b><b><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\">. <o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "\"Youme-e-Takbeer\" in Pakistan is celebrated on?",
+      "urdu": "پاکستان میں یوم تکبیر کب منایا جاتا ہے؟",
+      "options": [
+        "14 August",
+        "28 May",
+        "23 March",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><font face=\"Verdana\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#0070c0\">Youm-e-Takbeer is </font><font color=\"#00ff00\">celebrated</font><font color=\"#0070c0\"> on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">May 28</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "\"Yaum-e-Takbeer\" is celebrated to commemorate the:",
+      "urdu": "یوم تکبیر کن کی یاد میں منائی جاتی ہے",
+      "options": [
+        "1965 War",
+        "First Nuclear tests by Pakistan",
+        "Death of School children in Peshawar",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Squash is set to host its Olympic debut in which edition of the Olympic Games?",
+      "urdu": "اسکواش اولمپک گیمز کے کس ایڈیشن میں اپنے اولمپک ڈیبیو کی میزبانی کرنے والا ہے؟",
+      "options": [
+        "Los Angeles 2026",
+        "Los Angeles 2028",
+        "Los Angeles 2028",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Five new sports including </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">cricket</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">, squash, baseball-softball, lacrosse and flag football – have been added to the </span><span style=\"font-weight: bolder; color: rgb(255, 0, 0);\">2028</span><span style=\"color: rgb(255, 0, 255);\"><span style=\"font-weight: bolder;\"> </span><span style=\"font-weight: bolder;\">Los Angeles Olympics.</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "International Day of Families is celebrated on which date______?",
+      "urdu": "خاندانوں کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
+      "options": [
+        "15 June every year",
+        "15 May every year",
+        "15 April every year",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">International Day of Families is celebrated on</font><span style=\"background-color: rgb(255, 255, 0);\"> 15th of May</span><font color=\"#0000ff\"> every year.</font></span><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Romanian gymnast Nadia Comăneci received which award at the  Laureus World Sports Awards 2026?",
+      "urdu": "رومانیہ کی جمناسٹ نادیہ کومنیسی نے لاریئس ورلڈ اسپورٹس ایوارڈز 2026 میں کون سا ایوارڈ حاصل کیا؟",
+      "options": [
+        "Laureus Sporting Inspiration Award",
+        "Laureus World Comeback of the Year",
+        "Laureus Lifetime Achievement Award",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#0000ff\">Romanian gymnast</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Nadia Comăneci</font><font color=\"#0000ff\"> received the </font>Laureus Lifetime Achievement Award <font color=\"#0000ff\">at the 2026 Laureus World Sports Awards.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is planning to deploy continental ballistic missile named \"RS-28 Sarmat\"?",
+      "urdu": "کون سا ملک آر ایس 28 سرمت نامی براعظمی بیلسٹک میزائل نصب کرنے کا منصوبہ بنا رہا ہے؟",
+      "options": [
+        "China",
+        "America",
+        "Russia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Russian </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">RS-28 Sarmat intercontinental ballistic missile.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 2026 World Press Freedom Index is published by which organization?",
+      "urdu": "دو ہزار چھبیس ورلڈ پریس فریڈم انڈیکس کس ادارے نے شائع کیا ہے؟",
+      "options": [
+        "Freedom House",
+        "Reporters Without Borders",
+        "Amnesty International",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About <span style=\"background-color: rgb(255, 255, 0);\">World Press Freedom Index 2026</span><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
     {
       "q": "An international organization whose stated aims are facilitating cooperation in international law, international security, economic development, social progress, human rights, and the achieving of world peace is known as?",
       "urdu": "وہ بین الاقوامی تنظیم جس کا مقصد بین الاقوامی قانون، عالمی امن، انسانی حقوق، سلامتی اور معاشی ترقی میں تعاون کو فروغ دینا ہے، کیا کہلاتی ہے؟",
@@ -303,357 +655,6 @@
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Children _____ sweets.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Are liking",
-        "Will be like",
-        "Like",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The school _____ closed tomorrow.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Will be",
-        "Will be remained",
-        "Will remain",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "I found the wristwatch that I ____ lost the day before yesterday.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Have",
-        "Had",
-        "Had been",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find out the correct sentence: She resembles with her mother in curts and features., She takes after her mother in curts and features., She is taking after her mother in curts and features., She takes after her mother's curts and features.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "She resembles with her mother in curts and features.",
-        "She takes after her mother in curts and features.",
-        "She is taking after her mother in curts and features.",
-        "She takes after her mother's curts and features."
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find out the correct sentence: Is it known to you where does he live?, Do you know where does he live?, Do you know where is he living?, Do you know where he lives?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Do you know where does he live?",
-        "Do you know where is he living?",
-        "Do you know where he lives?",
-        "Is it known to you where does he lives?"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find out the correct sentence: I don't know why he left early., I don't know why did he leave early., I need not to know why he left early., I should know why was he leaving early.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "I don't know why he left early.",
-        "I don't know why did he leave early.",
-        "I need not to know why he left early.",
-        "I should know why was he leaving early."
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 26-05-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find out the correct sentence: The poors and the needy suffer too much. What not a pity!, Poor and needy suffer much. It is pity., The poor and the needy suffer much. What a pity!, Poors and needy suffer much. What a great pity!",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The poors and the needy suffer too much. What not a pity!",
-        "Poor and needy suffer much. It is pity.",
-        "The poor and the needy suffer much. What a pity!",
-        "Poors and needy suffer much. What a great pity!"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 26-05-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find out the correct sentence: It is a good turn of you that you did to me., It is nice of you to do me such a good turn., It is good of you doing me such a good turn., It is nice from you to do me such a good turn.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "It is a good turn of you that you did to me.",
-        "It is nice of you to do me such a good turn.",
-        "It is good of you doing me such a good turn.",
-        "It is nice from you to do me such a good turn."
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "It is hard to _____ everybody in these hard days.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Displease",
-        "Please",
-        "Disagree",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "She is a lady of his?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Choice",
-        "Love",
-        "Looks",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Headstrong children often ____ their parents.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Abuse",
-        "Refuse",
-        "Defy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"font-weight: bold; background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Barking dogs _____ bite.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Never",
-        "Always",
-        "Seldom",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "We should live in ______ within one nation.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Coherence",
-        "Cooperation",
-        "Coexistence",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Error detection: Do you want to drank coffee with me?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To drank",
-        "Want",
-        "With",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Error detection: The air was so cold we could hardly breath.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Could",
-        "Breath",
-        "Hardly",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 26-05-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Error detection: He stood aghast at the site of so much blood.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Aghast",
-        "Site of",
-        "Stood",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Error detection: I didn't find any of the locks opened.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Opened",
-        "Find",
-        "Didn't",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 26-05-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Error detection: He sat quiet silent in a corner.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Silent",
-        "Sat",
-        "Quiet",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "They nodded ____ silent agreement.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "With",
-        "In",
-        "At",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "They are well known _____ everybody there.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "By",
-        "To",
-        "For",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</span></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "I was sandwiched _______ two fat men on the bus.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "By",
-        "In",
-        "Between",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is taller _______ any other boy in the class.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To",
-        "Than",
-        "By",
-        "That"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "She seized hold _____ my hand.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Of",
-        "From",
-        "With",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "She always dreamt of owning a large collection of fancy clothes. The Antonym of Always is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sometimes",
-        "Seldom",
-        "Barely",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><span \"helvetica=\"\" \"open=\"\" 16px;\"=\"\" cantarell,=\"\" font-size:=\"\" neue\",=\"\" oxygen,=\"\" roboto,=\"\" sans\",=\"\" sans-serif;=\"\" segoe=\"\" style=\"font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, \" ubuntu,=\"\" ui\",=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</font><br/></span></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym: Millman ground my wheat grains in FINE flour.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Thick",
-        "Granular",
-        "Hard",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 26-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Dormant is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Inert",
-        "Indulgence",
-        "Doff",
-        "Active"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><span comic=\"\" ms\";\"=\"\" sans=\"\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 26-05-2026</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym: His CLOSING remarks covered all the important matter.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Beginning",
-        "Starting",
-        "Opening",
-        "None of these"
-      ],
-      "correct": 2,
       "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
       "category": "all"
     }
