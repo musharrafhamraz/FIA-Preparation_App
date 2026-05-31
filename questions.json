@@ -3,73 +3,385 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-05-30T05:50:32.212827",
+    "fetched_at": "2026-05-31T06:21:48.425823",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "لفظ نيڪ روشن جي معني لکو؟",
+      "q": "شاهه جي رسالي (ڊاڪٽر هوتچند گربخشاڻي) جي ٽن جلدن ۾ ڪيترا سُر ڏنل آهن؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "روشن خيال ۽ نيڪ فطرت وارو",
-        "اونداهو ماڻهو",
-        "جاهل شخص",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">نيڪ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">روشن</font><font color=\"#0000ff\"> اهڙي شخص کي چيو ويندو آهي </font><font color=\"#ff0000\">جيڪو سٺي سوچ ۽ نيڪ خصلتن وارو</font><font color=\"#0000ff\"> هجي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ سفيد پوش جي معني لکو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "امير ماڻهو",
-        "فوجي آفيسر",
-        "عزتدار / اشراف ماڻهو",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">سفيد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">پوش</font><font color=\"#0000ff\"> لفظ عام طور تي انهن ماڻهن لاءِ استعمال ٿيندو آهي جيڪي </font><font color=\"#ff0000\">ظاهر ۾ عزتدار ۽ شريف زندگي گذارين ٿا</font><font color=\"#0000ff\">۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪتاب \"تخليق جو موت\" جو ليکڪ ڪير آهي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شيخ اياز",
-        "امر جليل",
-        "خيرالنساءِ جعفري",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">خيرالنساءِ </font><font color=\"#ff0000\">جعفري</font><font color=\"#0000ff\"> سنڌي ادب جي سڃاتل </font><font color=\"#ff0000\">ليکڪا ۽ شاعره</font><font color=\"#0000ff\"> هئي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪتاب \"سنڌي ٻوليءَ جو سماجي ڪارج\" جو ليکڪ ڪير آهي",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڊاڪٽر نبي بخش بلوچ",
-        "ڊاڪٽر الهداد ٻوهيـو",
-        "سراج الحق ميمڻ",
+        "17",
+        "18",
+        "19",
         "انھن مان ڪو به نه"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الهداد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ٻوهيـو</font><font color=\"#0000ff\"> سنڌي </font><font color=\"#ff0000\">لسانيات</font><font color=\"#0000ff\"> جا اهم محقق هئا۔</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\">گربخشاڻيءَ</font><font color=\"#0000ff\"> جي ايڊيشن ۾ </font><font color=\"#ff0000\">شاهه جو رسالو</font><font color=\"#0000ff\"> تحقيق سان ترتيب ڏنل آهي۔</font></b></p>",
       "category": "all"
     },
     {
-      "q": "ڪتاب \"سنڌي ٻولي\" جو ليکڪ ڪير آهي؟",
+      "q": "قديم سنڌ تاريخ ڪنھن جي لکيل آھي؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "ڀيرومل مهرچند آڏواڻي",
+        "ڪاڪو ڀيرومل مهرچند آڏواڻي",
         "مرزا قليچ بيگ",
-        "سراج الحق ميمڻ",
+        "ڊاڪٽر نبي بخش بلوچ",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">ڪاڪو</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڀيرومل</font><font color=\"#0000ff\"> سنڌي ادب جو وڏو </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ھمہ اوست ناول جو مصنف ڪير آهي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "آغا سليم",
+        "شيخ اياز",
+        "علي بابا",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">همہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اوست</font><font color=\"#0000ff\"> سنڌي ادب جو </font><font color=\"#ff0000\">مشهور ناول</font><font color=\"#0000ff\"> آهي، جيڪو </font><font color=\"#ff0000\">آغا</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سليم</font><font color=\"#0000ff\"> لکيو آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "موھن جو دڙو ناول ڪنھن جو لکيل آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "غلام رباني آگرو",
+        "امر جليل",
+        "علي بابا",
+        "انھن مان ڪو به نه م"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">علي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بابا</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">افسانه نگار</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">ناول نگار</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ھيري ٺڪر قاضي قادن جا ڪيترا بيت ڳولي ڪڍيا آهن؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "112",
+        "212",
+        "312",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "تذڪرہ شعراءِ لاڙ ڪنھن جو لکيل آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "پروفيسر لطف الله بدوي",
+        "محمد سومار شيخ",
+        "ڊاڪٽر نبي بخش بلوچ",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سومار</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">محقق ۽ مؤرخ</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌي ادبي تاريخ (ٻہ ڀاڱا) جو لکندڙ ڪير آهي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "غلام رباني آگرو",
+        "مرزا قليچ بيگ",
+        "خان بهادر محمد صديق ميمڻ",
         "انھن مان ڪو به نه"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">سراج</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الحق</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ميمڻ</font><font color=\"#0000ff\"> سنڌي ادب جا نامور </font><font color=\"#ff0000\">ليکڪ</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">ناول</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">نگار</font><font color=\"#0000ff\"> هئا۔</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\">خان</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بهادر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">صديق</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ميمڻ</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">مؤرخ</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌي زبان ۽ علم لسان ڪنھن جو لکيل ڪتاب آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ڊاڪٽر نبي بخش بلوچ",
+        "پروفيسر علي نواز جتوئي",
+        "ڊاڪٽر مرليڌر جيٽلي",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">پروفيسر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">علي نواز</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جتوئي</font><font color=\"#0000ff\"> سنڌي ٻوليءَ جو مشهور </font><font color=\"#ff0000\">لسانيات</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">دان</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "شاهه جي رسالي جي لغت \"لغات لطيفي\" ڪنھن جي لکيل آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرزا قليچ بيگ",
+        "ڊاڪٽر نبي بخش بلوچ",
+        "ڊاڪٽر هوتچند مولچند گربخشاڻي",
+        "انھن مان ڪو به نه م"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">مرزا</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">قليچ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بيگ</font><font color=\"#0000ff\"> سنڌي ادب جو وڏو </font><font color=\"#ff0000\">محقق، اديب ۽ لغت نويس</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ڪھڙي ڪھاڻي جو تعلق ڪيچ مڪران سان آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سسئي پنهون",
+        "عمر مارئي",
+        "ليلا چنيسر",
+        "انھن مان ڪو به نه م"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">سسئي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">پنهون</font><font color=\"#0000ff\"> سنڌي ادب جي مشهور </font><font color=\"#ff0000\">لوڪ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڪهاڻي</font><font color=\"#0000ff\"> آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اخبار تعليم حيدرآباد جي ڪھڙي ڪاليج مان نڪرندي هئي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "گورنمينٽ ڪاليج حيدرآباد",
+        "سنڌ يونيورسٽي",
+        "ٽيچرس ٽريننگ ڪاليج فار مين حيدرآباد",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">اخبار</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تعليم سنڌ</font><font color=\"#0000ff\"> جي قديم </font><font color=\"#ff0000\">تعليمي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">رسالو</font><font color=\"#0000ff\"> هو، جيڪو </font><font color=\"#ff0000\">1902ع</font><font color=\"#0000ff\"> ۾ شروع ٿيو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌالاجي مان ڪھڙو ادبي رسالو شايع ٿئي ٿو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مهراڻ",
+        "ادب",
+        "گل ڦل",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">سنڌالاجي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سنڌ يونيورسٽي</font><font color=\"#0000ff\"> سان لاڳاپيل اهم </font><font color=\"#ff0000\">ادبي ۽ تحقيقي ادارو</font><font color=\"#0000ff\"> آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "رحيمداد خان مولائي شيدائي ڪھڙي تاريخ لکي آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "چچ نامو",
+        "تاريخ جنت سنڌ",
+        "تحفة الڪرام",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">رحيمداد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">خان</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مولائي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شيدائي</font><font color=\"#0000ff\"> سنڌ جو مشهور مؤرخ هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "شاھ جي سُر ڪيڏاري ۾ ڪھڙو قصو بيان ٿيل آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ليلا چنيسر",
+        "سسئي پنهون",
+        "امامن",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبداللطيف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڀٽائي</font><font color=\"#0000ff\"> جي </font><font color=\"#ff0000\">سر ڪيڏارو</font><font color=\"#0000ff\"> ۾ </font><font color=\"#ff0000\">ڪربلا جو واقعو</font><font color=\"#0000ff\"> بيان ٿيل آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "شيخ حماد جمالي ڪھڙي دؤر جو وڏو بزرگ ھو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ارغون",
+        "ترخان",
+        "سمن",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">حماد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جمالي</font><font color=\"#0000ff\"> سنڌ جو مشهور صوفي بزرگ ۽ عالم هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "عشقيه قصو لاکو ڦلاڻي ۽ مھرراڻي ڪھڙي دؤر جو آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سومرا",
+        "سما",
+        "ٽالپر",
+        "ڪلھوڙا"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">• </font><font color=\"#ff0000\">لاکو</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڦلاڻي</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">مھرراڻي</font><font color=\"#0000ff\"> سنڌ جو مشهور </font><font color=\"#ff0000\">عشقيه ۽ رزميه قصو</font><font color=\"#0000ff\"> آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ماموئي فقيرن جون قبرون ڪٿي آهن؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ٺٽو",
+        "حيدرآباد",
+        "لاڙڪاڻو",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">ماموئي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">فقير</font><font color=\"#0000ff\"> سنڌي لوڪ روايتن جا مشهور </font><font color=\"#ff0000\">صوفي بزرگ </font><font color=\"#0000ff\">سمجهيا وڃن ٿا۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ماموئي فقيرن جا تحقيق ٿيل ڪيترا بيت آھن؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ست",
+        "اٺ",
+        "نو",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">ماموئي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">فقير</font><font color=\"#0000ff\"> سنڌي لوڪ ادب جا </font><font color=\"#ff0000\">پراسرار</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">تاريخي</font><font color=\"#0000ff\"> شخصيتون آهن۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "نوري ڄام تماچي جي قصي جي ڪري ڪھڙي ڍنڍ مشھور آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "منڇر ڍنڍ",
+        "ڪينجهر ڍنڍ",
+        "هاليجي ڍنڍ",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">نوري</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڄام</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تماچي</font><font color=\"#0000ff\"> جو مشهور لوڪ قصو </font><font color=\"#ff0000\">ڪينجهر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڍنڍ</font><font color=\"#0000ff\"> سان لاڳاپيل آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ميرن جي حڪومت جو دؤر ڪھڙو رھيو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "۱۷۸۲",
+        "۱۷۸۲ - ۱۸۴۵",
+        "۱۷۸۲ - ۱۸۴۳",
+        "انھن مان ڪو به"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">ميرن</font><font color=\"#0000ff\"> (</font><font color=\"#ff0000\">ٽالپر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">حڪمرانن</font><font color=\"#0000ff\">) جي حڪومت سنڌ ۾ </font><font color=\"#ff0000\">1782ع</font><font color=\"#0000ff\"> کان </font><font color=\"#ff0000\">1843ع</font><font color=\"#0000ff\"> تائين رهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "عروضي شاعري جي شروعات سنڌي شاعري ۾ ڪھڙي دؤر کان ٿي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ڪلهوڙن",
+        "ٽالپر",
+        "سمن",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">سنڌي شاعري ۾ </font><font color=\"#ff0000\">عروضي شاعري</font><font color=\"#0000ff\"> جي باقاعده شروعات </font><font color=\"#ff0000\">ڪلهوڙن دؤر</font><font color=\"#0000ff\"> ۾ ٿي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌ جو ڪھڙو دڙو قديم سنڌي تھذيب سمجھيو وڃي ٿو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "آمري دڙو",
+        "ڪوٽڏيجي دڙو",
+        "موهن جو دڙو",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">موهن</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جو</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">دڙو</font><font color=\"#0000ff\"> سنڌو سڀيتا جو </font><font color=\"#ff0000\">اهم مرڪز</font><font color=\"#0000ff\"> آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ڪھڙي محقق پھريائين شاھ جي بيتن کي رسالي مان خارج ڪيو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ڊاڪٽر ھوتچند مولچند گربخشاڻي",
+        "غلام رباني آگرو",
+        "ڊاڪٽر نبي بخش بلوچ",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ھوتچند</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مولچند گربخشاڻي</font><font color=\"#0000ff\"> شاهه عبداللطيف ڀٽائي جي رسالي جو </font><font color=\"#ff0000\">پهريون سائنسي ايڊيٽر</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ڊاڪٽر اينيميري شمل سنڌي جي ڪھڙي شاعر تي وڌيڪ تحقيقي ڪم ڪيو آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "شاهه عبداللطيف ڀٽائي",
+        "سچل سرمست",
+        "روحل فقير",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\" style=\"\"> </font><font color=\"#ff0000\">اينيميري</font><font color=\"#0000ff\" style=\"\"> </font><font color=\"#ff0000\">شمل</font><font color=\"#0000ff\" style=\"\"> هڪ مشهور </font><font color=\"#ff0000\">جرمن محقق ۽ مستشرق</font><font color=\"#0000ff\" style=\"\"> هئي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "شاھ ڪريم جي قبر تي ڪنھن مقبرو جوڙايو هو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرزا عيسيٰ ترخان",
+        "ميان غلام شاهه ڪلهوڙو",
+        "شاھ عبداللطيف ڀٽائي",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبداللطيف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڀٽائي</font><font color=\"#0000ff\">، </font><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبدالڪريم بلڙي</font><font color=\"#0000ff\"> واري جي روحاني عظمت کان گهڻو متاثر هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "شاهه جي ڪلام ۾ ڪيترين سورمين جو ذڪر آهي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "پنج",
+        "ست",
+        "اٺ",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبداللطيف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڀٽائي</font><font color=\"#0000ff\"> جي رسالي ۾ </font><font color=\"#ff0000\">ست</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سورمين</font><font color=\"#0000ff\"> جو ذڪر ملي ٿو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ڊاڪٽر مرليڌر جيٽلي سنڌي جي ڪھڙي صنف تي تحقيق ڪري مشھور آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "شاعري",
+        "افسانو",
+        "لسانيات",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مرليڌر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جيٽلي</font><font color=\"#0000ff\"> سنڌي ٻوليءَ جو مشهور </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">لسانيات</font><font color=\"#0000ff\"> دان آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ڊاڪٽر عبدالڪريم سنديلو ڪھڙي شھر ۾ رهندو هو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حيدرآباد",
+        "لاڙڪاڻو",
+        "ڪراچي",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبدالڪريم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سنديلو</font><font color=\"#0000ff\"> سنڌي ٻوليءَ جو مشهور </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">لغت نويس</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ماڻڪ موتي لال ڪتاب ڪنھن جو لکيل آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ڊاڪٽر نبي بخش بلوچ",
+        "ميمڻ عبدالمجيد سنڌي",
+        "شيخ اياز",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">ميمڻ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبدالمجيد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سنڌي</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">اديب</font><font color=\"#0000ff\"> هو۔</font></b></p>",
       "category": "all"
     },
     {
@@ -86,575 +398,263 @@
       "category": "all"
     },
     {
-      "q": "ڪتاب \"چوٽيھون در\" جو ليکڪ ڪير آهي؟",
+      "q": "تذڪرہ لطيفي (ٽي ڀاڱا) جو لکندڙ ڪير آهي؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "نسيم کرل",
+        "پروفيسر لطف الله بدوي",
+        "مرزا قليچ بيگ",
+        "غلام محمد گرامي",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">پروفيسر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">لطف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الله</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بدوي</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">نقاد</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌي شاعري ۾ طنز، مزاح ۽ هجو لاءِ ڪھڙو شاعر مشهور آهي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرزا قليچ بيگ",
+        "محمد هاشم مخلص",
+        "شيخ اياز",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">هاشم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مخلص</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">طنز ۽ مزاح نگار</font><font color=\"#0000ff\"> شاعر هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مير عبدالحسين سانگي ڪھڙي شاعريءَ جي ڪري مشھور آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مذهبي شاعري",
+        "طنزيه شاعري",
+        "عشقيه شاعري",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">مير</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبدالحسين</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سانگي</font><font color=\"#0000ff\"> سنڌي ٻوليءَ جو مشهور </font><font color=\"#ff0000\">شاعر</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌ جو شاھنامو ڪھڙي ٽالپر حاڪم جو لکيل آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مير فتح علي خان ٽالپر",
+        "مير نصير خان ٽالپر",
+        "مير حسن علي ٽالپر",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">مير</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">حسن</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">علي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ٽالپر</font><font color=\"#0000ff\"> هڪ علم دوست </font><font color=\"#ff0000\">ٽالپر حڪمران ۽ شاعر</font><font color=\"#0000ff\"> هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌي شاعري جو \"جان ملٽن\" ڪھڙي شاعر کي چيو وڃي ٿو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "شاهه عبداللطيف ڀٽائي",
+        "حافظ حامد",
+        "شيخ اياز",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">حافظ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">حامد</font><font color=\"#0000ff\"> کي سندس </font><font color=\"#ff0000\">علمي ۽ ادبي</font><font color=\"#0000ff\"> حيثيت سبب سنڌي شاعري جو </font><font color=\"#ff0000\">جان ملٽن</font><font color=\"#0000ff\"> چيو وڃي ٿو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مصري شاھ شاعريءَ جي ڪھڙي صنف جي ڪري مشھور آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "نظم",
+        "بيت",
+        "ڪافي",
+        "انھن مان ڪو به نه"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">مصري</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> سنڌي ٻوليءَ جو مشهور </font><font color=\"#ff0000\">صوفي</font><font color=\"#0000ff\"> شاعر هو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "دل جي دنيا افسانن جي مجموعي جو لکندڙ ڪير آهي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
         "امر جليل",
-        "شيخ اياز",
+        "غلام رباني آگرو",
+        "جمال ابڙو",
         "انھن مان ڪو به نه"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">نسيم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">کرل</font><font color=\"#0000ff\"> سنڌي افسانوي ادب جا </font><font color=\"#ff0000\">مشهور</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڪهاڻيڪار</font><font color=\"#0000ff\"> هئا۔</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\">امر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جليل</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">افسانه نگار</font><font color=\"#0000ff\"> آهي، جيڪو پنهنجي </font><font color=\"#ff0000\">نرالي اسلوب</font><font color=\"#0000ff\"> لاءِ سڃاتو وڃي ٿو۔</font></b></p>",
       "category": "all"
     },
     {
-      "q": "ڪتاب \"ساهيوال جيل جي ڊائري\" ڪنھن جو لکيل آهي؟",
+      "q": "بدنصيب ٿري ڊرامو ڪنھن جو لکيل آھي؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "ذوالفقار علي ڀٽو",
-        "مخدوم محمد زمان",
-        "شيخ اياز",
+        "غلام رباني آگرو",
+        "محمد عثمان ڏيپلائي",
+        "محمد اسماعيل عرساڻي",
         "انھن مان ڪو به نه"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اياز</font><font color=\"#0000ff\"> سنڌي جديد </font><font color=\"#ff0000\">شاعري ۽ نثر</font><font color=\"#0000ff\"> جا وڏا نالا هئا۔</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اسماعيل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عرساڻي</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">اديب، ڊراما نگار ۽ شاعر ھو۔</font></b></p>",
       "category": "all"
     },
     {
-      "q": "ڪتاب \"ڪٿي تہ ڀڃبو ٿڪ مسافر\" ڪنھن جو لکيل آهي؟",
+      "q": "نورجھان ناول ڪنھن جو لکيل آھي؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "نارائڻ شيام",
+        "ڊاڪٽر هوتچند مولچند گربخشاڻي",
         "شيخ اياز",
-        "تنوير عباسي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اياز</font><font color=\"#0000ff\"> سنڌي جديد </font><font color=\"#ff0000\">شاعريءَ جا وڏا</font><font color=\"#0000ff\"> شاعر هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪتاب \"بڙ جي ڇانو اڳي کان گھاٽي\" ڪنھن جو لکيل آهي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شيخ اياز",
-        "استاد بخاري",
-        "تنوير عباسي",
+        "محمد عثمان ڏيپلائي",
         "انھن مان ڪو به نه"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اياز</font><font color=\"#0000ff\"> سنڌي </font><font color=\"#ff0000\">جديد ادب</font><font color=\"#0000ff\"> جا وڏا شاعر هئا۔</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ھوتچند</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مولچند</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">گربخشاڻي</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">عالم، محقق ۽ اديب</font><font color=\"#0000ff\"> ھو۔</font></b></p>",
       "category": "all"
     },
     {
-      "q": "ڪتاب \"چنڊ ڳليون\" ڪنھن جو لکيل آهي؟",
+      "q": "سرفراز ڪلھوڙي جو ڪھڙو ڪلام موجود آھي؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "استاد بخاري",
-        "مرزا قليچ بيگ",
-        "شيخ اياز",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اياز</font><font color=\"#0000ff\"> سنڌي </font><font color=\"#ff0000\">جديد شاعريءَ</font><font color=\"#0000ff\"> جا سڀ کان </font><font color=\"#ff0000\">وڏا</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شاعر</font><font color=\"#0000ff\"> هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪتاب \"جي ڪاڪ ڪڪوريا ڪاپڙي\" ڪنھن جو لکيل آهي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مرزا قليچ بيگ",
-        "شيخ اياز",
-        "استاد بخاري",
+        "مثنوي",
+        "مدح",
+        "رسالو",
         "انھن مان ڪو به نه"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اياز</font><font color=\"#0000ff\"> جو هي (</font><font color=\"#ff0000\">جي ڪاڪ ڪڪوريا ڪاپڙي</font><font color=\"#0000ff\">) ڪتاب سندس مشهور </font><font color=\"#ff0000\">شعري مجموعن</font><font color=\"#0000ff\"> مان هڪ آهي۔</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">سرفراز</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڪلهوڙو</font><font color=\"#0000ff\"> ڪلهوڙا دور جو </font><font color=\"#ff0000\">مشهور حڪمران</font><font color=\"#0000ff\"> هو۔</font></b></p>",
       "category": "all"
     },
     {
-      "q": "جمع خان جو تخلص ڇا هو؟",
+      "q": "سلطان الاولياء خواجہ محمد زمان ڪهڙي شهر ۾ رهندو هو؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "سرشار",
-        "احسن",
-        "غريب",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">جمع</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">خان</font><font color=\"#0000ff\"> پنهنجي شاعري ۾ </font><font color=\"#ff0000\">تخلص غريب</font><font color=\"#0000ff\"> استعمال ڪندو هو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "محمد خان جو تخلص ڇا هو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "وفا",
-        "سرور",
-        "مجيدي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">خان</font><font color=\"#0000ff\"> پنهنجي شاعري ۽ ادبي لکڻين ۾ </font><font color=\"#ff0000\">تخلص مجيدي </font><font color=\"#0000ff\">استعمال ڪندو هو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "اللہ بخش عقيلي جو تخلص ڇا هو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "وفا",
-        "سرشار",
-        "نياز",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">اللہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بخش</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عقيلي</font><font color=\"#0000ff\"> سنڌي ادب جا سڃاتل </font><font color=\"#ff0000\">ليکڪ</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">شاعر</font><font color=\"#0000ff\"> هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "حافظ محمد جو تخلص ڇا هو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "احسن",
-        "محسن",
-        "حسن",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">حافظ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> سنڌي شاعر هو ۽ شاعري ۾ </font><font color=\"#ff0000\">تخلص</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">احسن</font><font color=\"#0000ff\"> استعمال ڪندو هو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "محمد هاشم ٽکڙائي جو تخلص ڇا هو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حسرت",
-        "سرور",
-        "مخلص",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">هاشم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ٽکڙائي</font><font color=\"#0000ff\"> سنڌ جا مشهور </font><font color=\"#ff0000\">شاعر ۽ عالم</font><font color=\"#0000ff\"> هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "منھنجي مختصر آتم ڪهاڻي ______ لکي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مرزا قليچ بيگ",
-        "ڊاڪٽر عمر بن محمد دائود پوٽو",
-        "ڊاڪٽر نبي بخش بلوچ",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عمر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بن محمد دائود پوٽو</font><font color=\"#0000ff\"> سنڌ جا وڏا </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">مؤرخ</font><font color=\"#0000ff\"> هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪوڪڻ يا ڪلياڻ ______ جو لکيل آھي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نارائڻ شيام",
-        "شيخ اياز",
-        "استاد بخاري",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">استاد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بخاري</font><font color=\"#0000ff\"> سنڌي جديد </font><font color=\"#ff0000\">شاعريءَ</font><font color=\"#0000ff\"> جا مشهور شاعر هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "موجودہ سنڌي الفابيٽ ______ سرڪار تيار ڪرائي ھئي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مغل سرڪار",
-        "انگريز سرڪار",
-        "ٽالپر سرڪار",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">سنڌي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ٻوليءَ</font><font color=\"#0000ff\"> جي </font><font color=\"#ff0000\">موجوده</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الفابيٽ</font><font color=\"#0000ff\"> کي باقاعده صورت </font><font color=\"#ff0000\">انگريز سرڪار</font><font color=\"#0000ff\"> ڏني۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "آخوند عزيز الله ______ جو سنڌيءَ ۾ ترجمو ڪيو۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "بخاري شريف",
-        "قرآن شريف",
-        "مثنوي رومي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">آخوند</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">عزيز</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">الله</font><font color=\"#0000ff\"> ميان سيوستاني </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">سنڌي ٻوليءَ</font><font color=\"#0000ff\"> جا پهريان وڏا عالم ۽ مترجم هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪتاب \"ادب ۽ تنقيد\" ______ جو لکيل آھي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شيخ اياز",
-        "ڊاڪٽر شيخ محمد ابراهيم خليل",
-        "ڊاڪٽر نبي بخش بلوچ",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">ڊاڪٽر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شيخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">محمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ابراهيم خليل</font><font color=\"#0000ff\"> سنڌي ادب جا اهم </font><font color=\"#ff0000\">نقاد</font><font color=\"#0000ff\"> ۽ </font><font color=\"#ff0000\">محقق</font><font color=\"#0000ff\"> هئا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "علامہ قاضي چيئر ______ ۾ قائم آهي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "سنڌ يونيورسٽي ڄامشورو",
-        "شاهه عبداللطيف يونيورسٽي",
-        "ڪراچي يونيورسٽي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">سنڌ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">يونيورسٽي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڄامشورو</font><font color=\"#0000ff\"> ۾ </font><font color=\"#ff0000\">علامه آءِ آءِ قاضي چيئر</font><font color=\"#0000ff\"> قائم آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "شيخ اياز چيئر ______ ۾ قائم آھي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شاهه عبداللطيف يونيورسٽي خيرپور",
-        "ڪراچي يونيورسٽي",
-        "سنڌ يونيورسٽي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبداللطيف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">يونيورسٽي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">خيرپور</font><font color=\"#0000ff\"> ۾ </font><font color=\"#ff0000\">شيخ اياز</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">چيئر</font><font color=\"#0000ff\"> قائم آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "شاهه لطيف چيئر ______ ۾ قائم آهي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شاهه عبداللطيف يونيورسٽي",
-        "سنڌ يونيورسٽي",
-        "ڪراچي يونيورسٽي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">لطيف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">چيئر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڪراچي يونيورسٽي</font><font color=\"#0000ff\"> ۾ قائم آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "سچل چيئر ______ ۾ قائم آھي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "سنڌ يونيورسٽي",
-        "شاھ عبداللطيف يونيورسٽي خيرپور",
-        "ڪراچي يونيورسٽي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">سچل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">چيئر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شاهه</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبداللطيف يونيورسٽي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">خيرپور</font><font color=\"#0000ff\"> ۾ قائم آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪتين ڪر موڙيا جڏهن ______ جو ڪتاب آھي۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شيخ اياز",
-        "استاد بخاري",
-        "تنوير عباسي",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">شيخ اياز </font><font color=\"#0000ff\">جو هي</font><font color=\"#ff0000\"> (ڪتين ڪر موڙيا جڏهن) </font><font color=\"#0000ff\">ڪتاب</font><font color=\"#ff0000\"> </font><font color=\"#0000ff\">سندس</font><font color=\"#ff0000\"> شاعري جو مشهور </font><font color=\"#0000ff\">مجموعو</font><font color=\"#ff0000\"> </font><font color=\"#0000ff\">آهي</font><font color=\"#ff0000\">۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "سچل سرمست جي فارسي ديوان جو نالو لکو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ديوانِ سچل",
-        "ديوانِ آشڪار",
-        "ديوانِ عشق",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">سچل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سرمست</font><font color=\"#0000ff\"> پنهنجي </font><font color=\"#ff0000\">فارسي</font><font color=\"#0000ff\"> شاعري ۾ تخلص </font><font color=\"#ff0000\">آشڪار</font><font color=\"#0000ff\"> استعمال ڪندو هو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "شاھ ڪريم جو رسالو پهريون ڀيرو ڪنهن شايع ڪيو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مرزا قليچ بيگ",
-        "ڀيرومل مهرچند آڏواڻي",
-        "شيخ اياز",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "شيخ اياز ڪهڙي سال ۾ وفات ڪئي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1995",
-        "1996",
-        "1997",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ميون شاھ عنايت رضوي ڪٿي جو رهاڪو هو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نصرپور",
         "سيوهڻ",
-        "هالا پراڻا",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "سنڌي ادبي بورڊ جي لوڪ ادب رٿا چاليھن جلدن ۾ ڪنهن مڪمل ڪئي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مرزا قليچ بيگ",
-        "ڊاڪٽر نبي بخش خان بلوچ",
-        "ڀيرومل مهرچند آڏواڻي",
+        "لنواري شريف",
+        "درازا",
         "انھن مان ڪو به نه"
       ],
       "correct": 1,
-      "explanation": "",
+      "explanation": "<p><b><font color=\"#ff0000\">سلطان</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الاولياء</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">خواجہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">محمد زمان</font><font color=\"#0000ff\"> سنڌ جي مشهور صوفي بزرگن مان هو۔</font></b></p>",
       "category": "all"
     },
     {
-      "q": "مخدوم عبدالرؤف ڀٽي ڪهڙي صنف جو شاعر هو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "India and Pakistan signed Lahore Declaration during the period of?",
+      "urdu": "انڈیا اور پاکستان نے لاہور اعلامیہ کس دور میں دستخط کیا؟",
       "options": [
-        "غزل",
-        "مولود",
-        "مرثيو",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "سر ڪاموڏ ۾ شاهه لطيف ڪهڙو داستان ڳايو آهي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نوري ڄام تماچي",
-        "ليلا چنيسر",
-        "سسئي پنهون",
-        "انھن مان ڪو به نه"
+        "Mian Nawaz Sharif",
+        "Benazir Bhutto",
+        "Muhammad Khan Junejo",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "",
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-05-2026</font></span></p>",
       "category": "all"
     },
     {
-      "q": "ڪتاب \"گل ڦل\" جو ليکڪ ۽ مرتب ڪير آهي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Estonia Latvia and Lithuania are known as what?",
+      "urdu": "ایسٹونیا لٹویا اور لتھوانیا کس نام سے مشہور ہیں؟",
       "options": [
-        "مرزا قليچ بيگ",
-        "شيخ اياز",
-        "پرمانند ميوارام",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">پرمانند</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ميوارام</font><font color=\"#0000ff\"> سنڌي ادب جو مشهور </font><font color=\"#ff0000\">اديب، ليکڪ ۽ صحافي</font><font color=\"#0000ff\"> هو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪتاب \"سنڌي ٻوليءَ جي تاريخ\" ڪنھن لکيو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڀيرومل مهرچند آڏواڻي",
-        "غلام علي الانا",
-        "ڊاڪٽر نبي بخش خان بلوچ",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "شاھ جو رسالو پھرئين ڪنھن تيار ڪري ڇپرايو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ڊاڪٽر نبي بخش بلوچ",
-        "مرزا قليچ بيگ",
-        "ارنيسٽ ٽرمپ",
-        "انھن مان ڪو به نه"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">جرمن عالم </font><font color=\"#ff0000\">ارنيسٽ ٽرمپ</font><font color=\"#0000ff\"> پهريون شخص هو جنهن \"</font><font color=\"#ff0000\">شاھ جو رسالو\"</font><font color=\"#0000ff\"> کي ترتيب ڏئي ڇپرايو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Largest Continent (by Area and Population) of the World is _______?",
-      "urdu": "دنیا کا سب سے بڑا براعظم (رقبہ اور آبادی کے لحاظ سے) کونسا ہے؟",
-      "options": [
-        "Asia",
-        "Europe",
-        "Africa",
-        "North America"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "To create an index, you mark the index entries by providing the _____ of the main entry and the ______ in your document, and then you build the index.",
-      "urdu": "انڈیکس بنانے کے لیے، آپ مین انٹری کا _____ اور دستاویز میں اس کا _____ فراہم کرتے ہیں، پھر انڈیکس بناتے ہیں۔",
-      "options": [
-        "Cross-reference, name",
-        "Name, cross-reference",
-        "Link, cross-reference",
+        "Pacific States",
+        "Baltic States",
+        "Atlantic States",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "explanation": "<p><font color=\"#ff0000\" face=\"Calibri\"><span style=\"font-size: 24px; background-color: rgb(255, 255, 0);\"><b>Last verified on 30-05-2026</b></span></font></p>",
       "category": "all"
     },
     {
-      "q": "In Excel, We use the _____ start date and end date function to return the number of whole days between start_date and end_date.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "When was Indus Water Treaty signed?",
+      "urdu": "سندھ طاس معاہدے پر کب دستخط ہوئے؟",
       "options": [
-        "DATEDIF()",
-        "DATEDIFF",
-        "DAYSBETWEEN",
-        "INTERVAL"
+        "September 19, 1950",
+        "September 19, 1960",
+        "September 19, 1965",
+        "September 19, 1973"
       ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "correct": 1,
+      "explanation": "<p data-end=\"248\" data-start=\"0\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
       "category": "all"
     },
     {
-      "q": "You want to add your favorite command to Quick Access Bar: I. When you find a favorite command, right-click it, and then click Add to Quick Access Toolbar. II. Goto File>Options> Quick Access Toolbar and add selected commands",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "The First Crusade lasted from?",
+      "urdu": "پہلی صلیبی جنگ کس سال سے کس سال تک جاری رہی؟",
       "options": [
-        "Only Option (I)",
-        "Only Option II)",
-        "Both A and B",
+        "1075 to 1099 A.D",
+        "1085 to 1099 A.D",
+        "1095 to 1099 A.D",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The paragraph formatting is carried forward to the next paragraph by pressing the _____ key.",
-      "urdu": "پیراگراف کی فارمیٹنگ اگلے پیراگراف میں جاری رکھنے کے لیے کون سی کی دبائی جاتی ہے؟",
+      "q": "Pick out the Surah which discusses the miracles of the Holy Prophet (PBUH)?",
+      "urdu": "وہ سورت منتخب کریں جس میں نبی کریم ﷺ کے معجزات کا ذکر ہے؟",
       "options": [
-        "Shift",
-        "Enter",
-        "Ctrl",
-        "Alt"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">formatting</font><font color=\"#0000ff\"> is carried forward to the next paragraph such as:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If we press the F8 key thrice in MS Word, We will?",
-      "urdu": "اگر ہم ایم ایس ورڈ میں ایف ایٹ کی تین بار دبائیں تو کیا ہوگا؟",
-      "options": [
-        "Automatically align the text",
-        "select a paragraph",
-        "Select a sentence",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "To adjust the document margin in MS Word, we use which of the following?",
-      "urdu": "ایم ایس ورڈ میں دستاویز کے مارجن کو ایڈجسٹ کرنے کے لیے، ہم مندرجہ ذیل میں سے کون سا استعمال کرتے ہیں؟",
-      "options": [
-        "Indent",
-        "Margin",
-        "Space",
+        "Surah Al-Ghashia",
+        "Surah Alam Nashra",
+        "Surah Al-Doha",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The Shortcut key to split a table in MS Word is?",
-      "urdu": "ایم ایس ورڈ میں ٹیبل کو تقسیم (دو حصوں میں تقسیم) کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "q": "Belgrade is a capital of ____?",
+      "urdu": "بلغراد کس کا دارالحکومت ہے؟",
       "options": [
-        "Ctrl + Alt + Enter",
-        "Ctrl + Shift + Enter",
-        "Alt + Shift + Enter",
-        "Alt + space + Enter"
+        "Serbia (Yugoslavia)",
+        "UK",
+        "Chilli",
+        "Switzerland"
       ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"></span></p>",
       "category": "all"
     },
     {
-      "q": "Suppose that you have document having three columns, is it possible to have a vertical line between each column?",
-      "urdu": "اگر آپ کے دستاویز میں تین کالم ہیں، تو کیا ہر کالم کے درمیان عمودی لائن لگانا ممکن ہے؟",
+      "q": "After the Deluge the boat of Hazrat Noah (AS) stopped in Turkey. He remained in boat for?",
+      "urdu": "طوفان کے بعد حضرت نوح علیہ السلام کی کشتی ترکی میں رکی، وہ کشتی میں کتنے ماہ رہے؟",
       "options": [
-        "No, it s not possible",
-        "Yes, it is possible by selecting a check box in columns option dialog box",
-        "Yes, it is possible by selecting a check box in columns option dialog box",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 29-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If you frequently create a certain type of document, such as a monthly report, a sales forecast, or a presentation with a company logo, save it as a ______ so you can use that as your starting point instead of recreating the file from scratch each time you need it.",
-      "urdu": "اگر آپ بار بار کسی خاص قسم کی دستاویز (جیسے ماہانہ رپورٹ یا سیلز فُورکاسٹ) بناتے ہیں، تو آپ اسے کس میں محفوظ کریں گے تاکہ ہر بار نیا بنانے کی بجائے اسے استعمال کیا جا سکے؟",
-      "options": [
-        "PDF",
-        "Open Document Text",
-        "Template",
-        "Rich Text Format"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Suppose you want the headings in your document to appear in bold and in a particular color and font size. Although you can manually set each formatting option individually for each header, it is much easier to use a _____ that applies all of these options at once.",
-      "urdu": "اگر آپ چاہتے ہیں کہ آپ کے ڈاکیومنٹ میں ہیڈنگز بولڈ، مخصوص رنگ اور فونٹ سائز میں ہوں، تو ان تمام سیٹنگز کو ایک ساتھ اپلائی کرنے کے لیے کیا استعمال کیا جاتا ہے؟",
-      "options": [
-        "Format painter",
-        "Paste special",
-        "Style",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the best way to enforce text to start from the new page?",
-      "urdu": "ٹیکسٹ کو نئے صفحے سے شروع کرنے کے لیے بہترین طریقہ کیا ہے؟",
-      "options": [
-        "Using page break, entering more text will not affect the whole document",
-        "Using page break, entering more text will affect the whole document",
-        "Press Enter key repeatedly until text goes to next page, entering more text will not affect the whole document",
+        "6 months",
+        "7 months",
+        "8 months",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information:</font></span></p>",
       "category": "all"
     },
     {
-      "q": "Which of these refers to the PowerPoint view used for displaying only the text (title and bullets)?",
-      "urdu": "پاورپوائنٹ میں کون سا ویو صرف ٹیکسٹ (ٹائٹل اور بُلٹس) دکھانے کے لیے استعمال ہوتا ہے؟",
+      "q": "The Roman Empire was divided into two Empires in the year of?",
+      "urdu": "رومن سلطنت کو دو سلطنتوں میں کس سال تقسیم کیا گیا؟",
       "options": [
-        "Slide show",
-        "Outline view",
-        "Slide sorter view",
-        "Notes page view"
+        "495 A.D",
+        "195 A.D",
+        "395 A.D",
+        "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Milk, butter and ghee provide?",
+      "urdu": "دودھ، مکھن اور گھی کس وٹامن کی فراہمی کرتے ہیں؟",
+      "options": [
+        "Vitamin B and C",
+        "Vitamin B and K",
+        "Vitamin A and D",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-05-2026</font></b></p>",
       "category": "all"
     }
   ]
