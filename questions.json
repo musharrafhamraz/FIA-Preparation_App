@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-01T07:00:25.463326",
+    "fetched_at": "2026-06-02T06:44:18.558954",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "بوطیقا کے مصنف کون ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "افلاطون",
+        "ارسطو",
+        "سقراط",
+        "ان میں سے کوئی نہیں"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "",
+      "category": "all"
     },
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "داستان زبان اردو کس کی تصنیف ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "شوکت سبزواری",
+        "مولوی عبدالحق",
+        "ڈاکٹر جمیل جالبی",
+        "ان میں سے کوئی نہیں"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Greenwich is located in ____?",
+      "urdu": "گرین وچ کس ملک میں ہے؟",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "France",
+        "Finland",
+        "Germany",
+        "England"
       ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "correct": 3,
+      "explanation": "<p style=\"\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Greenwich meridian</font><font color=\"#0000ff\">, also known as the </font><font color=\"#ff0000\">prime meridian</font><font color=\"#0000ff\">, passes through the following countries:</font></span></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Who becomes the first female Judge of the Supreme Court of Pakistan?",
+      "urdu": "سپریم کورٹ آف پاکستان کی پہلی خاتون جج کون بنی؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Justice Ayesha Malik",
+        "Justice Syeda Tahira Safdar",
+        "Justice Ashraf Jahan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Diamond is allotropic form of _______?",
+      "urdu": "ڈائمنڈ کس عنصر کی مختلف شکل (اللوٹروپک فارم) ہے؟",
+      "options": [
+        "Carbon",
+        "Hydrogen",
+        "Oxygen",
+        "Aluminum"
+      ],
+      "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Indus Water Treaty signed?",
+      "urdu": "سندھ طاس معاہدے پر کب دستخط ہوئے؟",
+      "options": [
+        "September 19, 1950",
+        "September 19, 1960",
+        "September 19, 1965",
+        "September 19, 1973"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"248\" data-start=\"0\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which device converts chemical energy into electrical energy?",
+      "urdu": "کون سا آلہ کیمیائی توانائی کو برقی توانائی میں تبدیل کرتا ہے؟",
+      "options": [
+        "Generator",
+        "Battery",
+        "Modem",
+        "Electric Motor"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Total Height of K-2 Peak in meters?",
+      "urdu": "میٹر میں کے-2 چوٹی کی کل اونچائی کتنی ہے؟",
+      "options": [
+        "8410 meters",
+        "8210 meters",
+        "8511 meters",
+        "8611 meters"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What game is called the “Sports of Kings”?",
+      "urdu": "کس کھیل کو \"بادشاہوں کے کھیل\" کہا جاتا ہے؟",
+      "options": [
+        "Bridge",
+        "Tennis",
+        "Chess",
+        "Golf"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Secretary General of United Nations visited Larkana Sindh during the rain emergency?",
+      "urdu": "اقوام متحدہ کا کون سا سیکرٹری جنرل بارش کی ایمرجنسی کے دوران لاڑکانہ (سندھ) آیا تھا؟",
+      "options": [
+        "Kofi Annan",
+        "Kurt Waldheim",
+        "Banki Moon",
+        "Antonio Guterres"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the major Kharif crop of Pakistan?",
+      "urdu": "پاکستان کی سب سے بڑی خریف فصل کون سی ہے؟",
+      "options": [
+        "Maize",
+        "Wheat",
+        "Gram",
+        "All of these"
+      ],
+      "correct": 0,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder; color: rgb(33, 37, 41);\"><font color=\"#ff0000\">Major Kharif Crops</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was awarded a Royal Gold Medal for Architecture by Royal Institute of British Architects?",
+      "urdu": "رائل انسٹی ٹیوٹ آف برٹش آرکیٹیکٹس کی طرف سے آرکیٹیکچر کے لیے رائل گولڈ میڈل کسے دیا گیا؟",
+      "options": [
+        "Nayyar Ali Dada",
+        "Yasmeen Larri",
+        "Kausar Bashir Ahmed",
+        "Habib Fida Ali"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Yasmeen Larri</font><font color=\"#ff0000\"> was awarded a Royal Gold Medal for Architecture by the Royal Institute of British Architects in 2023.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مثنوی سحرالبیان کا سب سے فعال کردار کونسا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بدر منیر",
+        "نجم النساء",
+        "شہزادہ بے نظیر",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "قصیدہ کس صنف کے طرزِ پر لکھا جاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرثیہ",
+        "غزل",
+        "مثنوی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "سوز و گداز، رزم و بزم کس صنف شاعری کی خصوصیات ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرثیہ",
+        "غزل",
+        "قصیدہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff00ff\">سوز</font><font color=\"#0000ff\"> </font><font color=\"#ff00ff\">و گداز، رزم و بزم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مرثیہ</font><font color=\"#0000ff\"> کی نمایاں خصوصیات ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "جدیدیت کی فکری بنیادوں میں کس فلسفے کا خاص کردار ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "وجودیت",
+        "وحدت الوجود",
+        "مارکیت",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">جدیدیت</font><font color=\"#0000ff\"> کی فکری بنیادوں میں </font><font color=\"#ff0000\">وجودیت</font><font color=\"#0000ff\"> کا اہم کردار ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "حالی کے نزدیک کون سی صنف سخن سب سے زیادہ کارآمد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "نظم",
+        "قصیدہ",
+        "رباعی",
+        "مثنوی"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">مولانا</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الطاف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">حسین</font><font color=\"#0000ff\"> حالی کے نزدیک </font><font color=\"#ff0000\">مثنوی</font><font color=\"#0000ff\"> سب سے زیادہ </font><font color=\"#ff0000\">کارآمد صنفِ سخن</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مناجات بیوہ کی صنفی حیثیت کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرثیہ",
+        "قصیدہ",
+        "کہانی",
+        "نظم"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "شعر کے حروف کی حرکات و سکنات کے لحاظ سے بحر کے حروف کے ساتھ مطابقت پیدا کرنا ادبی اصطلاح میں کیا کہلاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "تلمیح",
+        "تقطیع",
+        "مطلع",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">شعر کے حروف کو </font><font color=\"#ff0000\">حرکات و سکنات</font><font color=\"#0000ff\"> کے مطابق بحر کے وزن سے ملانا </font><font color=\"#ff0000\">تقطیع</font><font color=\"#0000ff\"> کہلاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "تجھے ہم ولی سمجھتے جو نہ بادہ خوار ہوتا۔ یہ کس طرح کا جملہ ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ماضی شرطیہ",
+        "ماضی بعید",
+        "ماضی حلفیہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">یہ جملہ </font><font color=\"#ff0000\">ماضی شرطیہ</font><font color=\"#0000ff\"> ہے کیونکہ اس میں </font><font color=\"#ff0000\">ایک</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شرط</font><font color=\"#0000ff\"> (اگر) اور اس کا نتیجہ </font><font color=\"#ff0000\">ماضی</font><font color=\"#0000ff\"> کے انداز میں بیان ہوا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سرمایہ دارانہ نظام کا مخالفت کرنے والی علامہ اقبال کی پہلی نظم کون سی تھی؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "خضر راہ",
+        "بانگِ درا",
+        "شعاع امید",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">علامہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اقبال</font><font color=\"#0000ff\"> کی نظم </font><font color=\"#ff0000\">خضرِ راہ</font><font color=\"#0000ff\"> </font><font color=\"#ff00ff\">سرمایہ دارانہ نظام اور مغربی تہذیب پر تنقید</font><font color=\"#0000ff\"> کرنے والی ابتدائی اہم نظموں میں شمار ہوتی ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "کس شاعر نے سب سے پہلے اپنے دیوان کو حروف تہجی کے ساتھ جمع کیا؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ولی دکنی",
+        "قلی قطب شاہ",
+        "علامہ اقبال م",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">اردو میں </font><font color=\"#ff0000\">سب</font><font color=\"#0000ff\"> سے </font><font color=\"#ff0000\">پہلے</font><font color=\"#0000ff\"> اپنے </font><font color=\"#ff0000\">دیوان کو حروفِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تہجی</font><font color=\"#0000ff\"> (الف بائی ترتیب) کے ساتھ مرتب کرنے کا سہرا </font><font color=\"#ff0000\">قلی قطب شاہ</font><font color=\"#0000ff\"> کے سر جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مغربی تنقید میں علویت کا نظریہ کس کا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "لانجائنس",
+        "ارسطو",
+        "سڈنی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "نظم کی اس ہیئت کو کیا کہتے ہیں جس میں وزن تو ہو مگر قوافی کا اہتمام نہ کیا گیا ہو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "آزاد نظم",
+        "پابند نظم",
+        "نثری نظم",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "اردو کا فردوسی کسے کہا جاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مولانا الطاف حسین حالی",
+        "مولانا ظفر علی خان",
+        "علامہ اقبال",
+        "حفیظ جالندھری"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "کس نقاد نے داغ دہلوی کو زبان کے حوالے سے شکسپیئر کے درجے کا شاعر بتایا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "رشید حسن",
+        "حسن عسکری",
+        "فراق گورکھپوری",
+        "قاضی عبدالودود"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "علامہ اقبال نے اپنی شاعری میں کس صنف نظم کو سب سے زیادہ برتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ترکیب بند",
+        "غزل",
+        "مثنوی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">علامہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اقبال</font><font color=\"#0000ff\"> نے اپنی شاعری میں سب سے زیادہ </font><font color=\"#ff0000\">ترکیب</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بند</font><font color=\"#0000ff\"> نظم کو استعمال کیا۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سر سید احمد خان کا پرچہ علی گڑھ انسٹیٹیوٹ گزٹ کس زبان میں شائع ہوتا تھا؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اردو اور انگریزی",
+        "اردو",
+        "انگریزی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">سر</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سید</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">احمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">خان</font><font color=\"#0000ff\"> کا پرچہ </font><font color=\"#ff0000\">علی گڑھ انسٹیٹیوٹ گزٹ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">دو زبانوں</font><font color=\"#0000ff\"> میں شائع ہوتا تھا: </font><font color=\"#ff0000\">اردو</font><font color=\"#0000ff\"> اور </font><font color=\"#ff0000\">انگریزی</font><font color=\"#0000ff\">۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "تحقیق اور تدوین کی اصلاح میں مخطوطہ سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "پرانا خط",
+        "خطوط کا مجموعہ",
+        "قلمی غیر مطبوعہ نسخہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "فرہنگ تلفظ کس کی مولف کردہ لغت ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ڈاکٹر جمیل جالبی",
+        "شان الحق حقی",
+        "غالب",
+        "انعام الحق"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "تحقیق و تدوین کی اصطلاح میں تسوید سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "کسی کتاب کی تالیف کرنا",
+        "کسی کتاب کا پہلا مسودہ لکھنا",
+        "کسی متن پر حاشیہ چڑھنا",
+        "کئی کتا بوں کا موازنہ کرکے رائے قائم کرنا"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "وزن، بحر اور تقطیع کا فن کیا کہلاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "علم بدیع",
+        "علم نحو",
+        "علم صرف",
+        "علم عروض"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "ایسی نظم جس کے ہر بند میں مصرع یا شعر چار بار دہرایا جائے، اصطلاح میں کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ترجیع بند",
+        "ترکیب بند",
+        "مخمس",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "ٹکسالی زبان کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "فصیح، مستند زبان",
+        "اچھی زبان",
+        "نامکمل زبان",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">ٹکسالی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">زبان</font><font color=\"#0000ff\"> سے مراد وہ زبان ہے جو </font><font color=\"#ff0000\">درست، فصیح اور مستند</font><font color=\"#0000ff\"> اصولوں کے مطابق ہو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اگر قصیدے یا غزل کا دوسرا شعر بھی ہم قافیہ، ہم ردیف ہو تو اسے اصطلاح میں کیا کہیں گے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حسنِ مطلع",
+        "حسن مطمع",
+        "حسن دیگر",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">جب </font><font color=\"#ff0000\">غزل</font><font color=\"#0000ff\"> یا </font><font color=\"#ff0000\">قصیدے</font><font color=\"#0000ff\"> کے پہلے شعر (</font><font color=\"#ff0000\">مطلع</font><font color=\"#0000ff\">) کے بعد دوسرا شعر بھی ہم قافیہ اور ہم ردیف ہو تو اسے </font><font color=\"#ff0000\">حسنِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مطلع</font><font color=\"#0000ff\"> کہتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ایسا قصیدہ جس میں شاعر تشبیب میں اپنے حالات اور زمانے کی شکایات کا ذکر کرتا ہے اسے کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بیانیہ",
+        "حالیہ",
+        "فخریہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">ایسا </font><font color=\"#ff0000\">قصیدہ</font><font color=\"#0000ff\"> جس کی </font><font color=\"#ff0000\">تشبیب میں شاعر</font><font color=\"#0000ff\"> اپنے ذاتی حالات اور زمانے کی شکایات بیان کرے، اسے </font><font color=\"#ff0000\">قصیدۂ حالیہ </font><font color=\"#0000ff\">کہتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "حروف شمسی کی تعداد کتنی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دس",
+        "بارہ",
+        "چودہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">عربی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">گرامر</font><font color=\"#0000ff\"> کے مطابق </font><font color=\"#ff0000\">حروفِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شمسی 14</font><font color=\"#0000ff\"> ہوتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اردو لغت (تاریخی اصول پر) کتنی جلدوں پر مشتمل ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "انیس",
+        "بیس",
+        "اکیس",
+        "بائیس"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "ارسطو نے ڈرامے کے فن میں کسے اولیت دی",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "کردار",
+        "پلاٹ",
+        "ہیرو",
+        "ماحول"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "ڈراما انارکلی میں انارکلی کا اصل نام کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "زبیدہ",
+        "نادرہ",
+        "فہیمدہ",
+        "محمودہ"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "حسنِ یوسف اور یدِ بیضا کو اردو زبان کی اصطلاح میں کیا کہیں گے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "تشبیح",
+        "تلمیح",
+        "کیایہ",
+        "مجازمرسل"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "فیض کے علاوہ درج ذیل میں سے کس شاعر کو بھی لینن انعام ملا تھا؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سجاد ظہیر",
+        "ساحر لدھیانوی",
+        "علی سردار جعفری",
+        "اخترالا یمان"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">فیض</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">احمد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">فیض</font><font color=\"#0000ff\"> کے علاوہ علی </font><font color=\"#ff0000\">سردار جعفری</font><font color=\"#0000ff\"> کو بھی </font><font color=\"#ff0000\">لینن امن انعام</font><font color=\"#0000ff\"> ملا تھا۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مسدس مد و جزر اسلام کے آغاز میں حالی نے کس فلسفی کا ذکر کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بقراط",
+        "سقراط",
+        "ارسطو",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">مسدس</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مد و جزر اسلام</font><font color=\"#0000ff\"> میں حالی نے آغاز میں قدیم یونانی فلسفی </font><font color=\"#ff0000\">بقراط</font><font color=\"#0000ff\"> کا ذکر کیا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مقررہ مصرع کی بحر اور زمین میں شعر گوئی کو شعری اصطلاح میں کیا کہا جاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مصرعِ طرح",
+        "بندش",
+        "بیت الغزل",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">جب شاعر کسی مقررہ </font><font color=\"#ff0000\">مصرع کی بحر، وزن اور قافیہ/ردیف</font><font color=\"#0000ff\"> میں شعر کہتا ہے تو اسے </font><font color=\"#ff0000\">مصرعِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">طرح</font><font color=\"#0000ff\"> کہا جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ایسی نثر کا اصلاح میں کیا نام ہے جس کے دو فقروں کے تمام الفاظ ایک دوسرے کے ہم وزن اور حرف آخر بھی مواقف ہوں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مسجع",
+        "مرصع",
+        "مقفی",
+        "مرجز"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">ایسی نثر جس کے </font><font color=\"#ff0000\">دو فقروں</font><font color=\"#0000ff\"> کے الفاظ آپس میں </font><font color=\"#ff0000\">ہم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">وزن</font><font color=\"#0000ff\"> ہوں اور </font><font color=\"#ff0000\">آخر</font><font color=\"#0000ff\"> میں </font><font color=\"#ff0000\">ہم قافیہ</font><font color=\"#0000ff\"> بھی ہوں، اسے </font><font color=\"#ff0000\">نثرِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مسجع</font><font color=\"#0000ff\"> کہتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "کسی دوسرے کے کلام کو کم و بیش کر کے اپنے کلام میں لانے کو بلاغت کی اصطلاح میں کیا کہا جاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اشتقاق",
+        "تکرار",
+        "ایہام",
+        "تضمین"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "اقبال کا مرد مومن یا انسان کامل کس کے فوق البشر سے مشابہت رکھتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "نیطٹے",
+        "گوئٹے",
+        "برگساں",
+        "جرج برنارڈ شاہ"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "غالب کو جرمن شاعر گوئٹے کا ہم نوا کس نے کہا؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "علامہ اقبال",
+        "فراق گورکھپوری",
+        "حالی",
+        "جوش ملیح آبادی"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "مسدس حالی ایک الہامی کتاب ہے۔ یہ قول کس کا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "شبلی نعمانی",
+        "میر احسن",
+        "آزاد",
+        "جمیل جالبی"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "کس تنقید کے مطابق ادب ایک مادی و سماجی حل ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "نفسیاتی تنقید",
+        "تاثراتی تنقید",
+        "جمالیاتی تنقید",
+        "مارکسی تنقید"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
     }
   ]
 }
