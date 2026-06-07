@@ -1,663 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-06T05:56:09.687853",
+    "fetched_at": "2026-06-07T06:26:57.555362",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "When the Martial Law of Ayub Khan was abolished?",
-      "urdu": "ایوب خان کا مارشل لا کب ختم ہوا؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "April 1962",
-        "8th June 1962",
-        "14th August 1962",
-        "8th July 1962"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The concept of acting in aid of civil powers by the Armed forces has been laid down in the constitutions of Pakistan 1973?",
-      "urdu": "مسلح افواج کی طرف سے سول پاور کی مدد میں کام کرنے کا تصور پاکستان کے آئین 1973 میں کس آرٹیکل میں بیان کیا گیا ہے؟",
-      "options": [
-        "Article 245",
-        "Article 270",
-        "Article 243",
-        "Article 273"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "\"She _______ her mother's advice and decided to go\".",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ignores",
-        "Ignored",
-        "Ignoring",
-        "Ignore"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "\"She _____ to the party last night\".",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Go",
-        "Goes",
-        "Went",
-        "Going"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Consolidate is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Build",
-        "Destroy",
-        "Expand",
-        "Weaken"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Thar Coalfied has huge reserves of coal. It is located in which district of Sindh?",
-      "urdu": "تھر کول فیلڈ سندھ کے کس ضلع میں واقع ہے؟",
-      "options": [
-        "Jacobabad",
-        "Thatta",
-        "Jamshoro",
-        "Tharparkar"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 06-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hayat-e-Javed is written by Altaf Hussain Hali about _____?",
-      "urdu": "حیات جاوید کو الطاف حسین حالی نے کس کے بارے میں لکھا ہے؟",
-      "options": [
-        "Agha Khan",
-        "Muhammad Ali Jinnah",
         "Allama Iqbal",
-        "Sir Sayyid Ahmad Khan"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to the scientists, how many galaxies are there in the Universe?",
-      "urdu": "سائنسدانوں کے مطابق کائنات میں کتنی کہکشائیں ہیں؟",
-      "options": [
-        "10 million",
-        "100 million",
-        "10 billion",
-        "100 billion"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is called the National Poet of Sindh?",
-      "urdu": "سندھ کا قومی شاعر کسے کہا جاتا ہے؟",
-      "options": [
-        "Ustad Bukhari",
-        "Usman Marwandi",
-        "Abdul Latif Bhitai",
-        "None of these"
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p style=\"\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 06-06-2026</font></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Which country is called the Land of Thunder Dragon?",
-      "urdu": "کس ملک کو تھنڈر ڈریگن کی سرزمین کہا جاتا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Nepal",
-        "Sri Lanka",
-        "Bhutan",
-        "Bangladesh"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">Bhutan</font><font color=\"#0000ff\"> is called the “</font><font color=\"#ff0000\">Land of the Thunder Dragon</font><font color=\"#0000ff\">”.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani poet got Lenin prize in 1962?",
-      "urdu": "سن 1962 میں کس پاکستانی شاعر کو لینن پرائز ملا؟",
-      "options": [
-        "Faiz Ahamad Faiz",
-        "Ahmad Faraz",
-        "Wasif Ali Wasif",
-        "Jaun Elia",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is the winner / champion of FIFA Women's World Cup 2023?",
-      "urdu": "فیفا ویمنز ورلڈ کپ 2023 کا فاتح کون سا ملک ہے؟",
-      "options": [
-        "England",
-        "Spain",
-        "Japan",
-        "Argentina",
-        "France"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">FIFA Women's World Cup 2023 (football)</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "“The children ______ playing in the park”.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Enjoys",
-        "Enjoy",
-        "Enjoying",
-        "Enjoyed"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 06-06-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the sentence with correct subject-verb agreement: Neither of the options are suitable, Neither of the options is suitable, Neither of the option are suitable, Neither of the option is suitable",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Neither of the options are suitable",
-        "Neither of the options is suitable",
-        "Neither of the option are suitable",
-        "Neither of the option is suitable"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ali must have ________ the to stick to his diet, if he wants to lose weight.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Obstinacy",
-        "Determination",
-        "Decision",
-        "Obligation"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "World's largest salt mine is \"Sifto Salt Mine\". It is located at?",
-      "urdu": "دنیا کی سب سے بڑی نمک کی کان کہاں واقع ہے؟",
-      "options": [
-        "China",
-        "Canada",
-        "Pakistan",
-        "Venezuela"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hanna lake is located in _____?",
-      "urdu": "حنا جھیل کہاں واقع ہے؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
         "Karachi",
-        "Dadu",
-        "Quetta",
+        "Lahore",
+        "Islamabad",
         "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</b></font></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What play the most important role in regulating temperature and determining climate on the Earth?",
-      "urdu": "درجہ حرارت کو منظم کرنے اور زمین پر آب و ہوا کا تعین کرنے میں سب سے اہم کردار کس کا ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Mountains",
-        "Oceans",
-        "Deserts",
-        "Forests"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Which forests act as barriers against cyclones?",
-      "urdu": "کون سے جنگلات طوفانوں کے خلاف رکاوٹوں کا کام کرتے ہیں؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Alpine forests",
-        "Mangrove forests",
-        "Evergreen forests",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></span><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the official language of Brazil?",
-      "urdu": "برازیل کی سرکاری زبان کیا ہے؟",
-      "options": [
-        "Spanish",
-        "English",
-        "Portuguese",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left: 23px;\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Brazil's</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Real</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sir Syed Khan Ahmed became chief judge in which year?",
-      "urdu": "سر سید احمد خان چیف جج کس سال بنے؟",
-      "options": [
-        "1849",
-        "1846",
-        "1848",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Arab League's summit 2023 was held in which country?",
-      "urdu": "عرب لیگ کا سربراہی اجلاس 2023 کس ملک میں منعقد ہوا؟",
-      "options": [
-        "Egypt",
-        "UAE",
-        "Saudi Arabia",
-        "Qatar"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the sentence with correct subject-verb agreement? Every of the students in the class has completed the assignment, Every of the students in the class have completed the assignment, Every student in the class has completed the assignment, Every student in the class have completed the assignment",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Every of the students in the class has completed the assignment",
-        "Every of the students in the class have completed the assignment",
-        "Every student in the class has completed the assignment",
-        "Every student in the class have completed the assignment"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the sentence with correct subject-verb agreement? The herd of sheep is grazing in the field, The herd of sheep are grazing in the field, The herds of sheep is grazing in the field, The herds of sheep are grazing in the field",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The herd of sheep is grazing in the field",
-        "The herd of sheep are grazing in the field",
-        "The herds of sheep is grazing in the field",
-        "The herds of sheep are grazing in the field"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the Idiom of \"To keeps one's temper\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To become hungry",
-        "To be in good mood",
-        "To preserve ones energy",
-        "To be aloof from"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest Island of the world is _____?",
-      "urdu": "دنیا کا سب سے بڑا جزیرہ کون سا ہے؟",
-      "options": [
-        "Iceland",
-        "Cyprus",
-        "Greenland",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Angel Falls is the world's tallest waterfalls, located in which country?",
-      "urdu": "اینجل فالس دنیا کی سب سے اونچی آبشار ہے جو کس ملک میں واقع ہے؟",
-      "options": [
-        "Canada",
-        "Russia",
-        "Venezuela",
-        "Mexico"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the correct plural form of 'Child'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Childies",
-        "Chilredn",
-        "Children",
-        "Childrens"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Smog is a case of?",
-      "urdu": "سموگ کس چیز کی مثال ہے؟",
-      "options": [
-        "Acid rain",
-        "Air pollution",
-        "Ozone layer thinning",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Daughter of East was written by ______?",
-      "urdu": "مشرق کی بیٹی ___ نے لکھی تھی؟",
-      "options": [
-        "Fatima Jinnah",
-        "Benazir Bhutto",
-        "Ghanwa Bhutto",
-        "Begum Raina Liaqat Ali Khan"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">****</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who drew the boundary / line dividing between India and Pakistan?",
-      "urdu": "ہندوستان اور پاکستان کے درمیان سرحد کس نے کھینچی؟",
-      "options": [
-        "Sir Douglas Gracy",
-        "Lord Mountbatten",
-        "Sir Stafford Cripps",
-        "Sir Cyril Radcliffe"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the correct plural form of 'analysis'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Analysis",
-        "Analyses",
-        "Analayses",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An adjective which means “Indented teach” is spelt as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Didactyc",
-        "Didactic",
-        "Didacctic",
-        "Dydactic"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the correct Analogy of “Petal :: Flower”?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Engine :: Car",
-        "Pen :: Paper",
-        "Cat :: Dog",
-        "Ball :: Game"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Hoax is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rumor",
-        "Mystery",
-        "Lie",
-        "Trick"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Something _____ happened or they would be here by now.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Must",
-        "Must have",
-        "Must have been",
-        "Must be"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Cosset is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Neglect",
-        "Like",
-        "Pamper",
-        "Pinch"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "You know they do not allow _____ in there.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Eat and drink",
-        "You eat and drink",
-        "To each and drink",
-        "Eating and drinking"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the phrasal meaning of “Call it a day”?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To stop because one does not want to do any more / End work",
-        "To stop doing something that is annoying",
-        "To get rid of something that is harmful",
-        "To stop and finish the whole matter"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "_____ is a work written to defend a writer’s opinion or to elaborate and clarify a problem.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Aptronym",
-        "Blurb",
-        "Deceit",
-        "Apology"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the indirect form of speech in the given sentence: He says, “I will sit in the garden”?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He said that he was sitting in the garden",
-        "He said that he will sit in the garden",
-        "He said that he should sit in the garden",
-        "He said that he would sit in the garden"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The words said within inverted commas are termed as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Indirect speech",
-        "Direct speech",
-        "Expressive words",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pragmatics is the study of?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Linguistic meaning",
-        "Intended meaning",
-        "Denotative meaning",
-        "Literal meaning"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Parole in structuralism is defined as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A set of rules",
-        "Background knowledge",
-        "An individual utterance",
-        "Something only written"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the phonetic description of the word “Fuchsia”?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "/‘fjuː : /a/",
-        "/‘fju /: a/",
-        "/fa/ʃə/",
-        "/ˈfjuːʃə/"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is Snowball Sampling?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A given number of subjects are selected from a specific group",
-        "Existing people are asked to nominate further people known to them",
-        "Choosing population according to researcher’s own judgement",
-        "Choosing the willing and potential participants"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What are Velar Sounds?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "/&/ and /$/",
-        "/p/, /b/, /m/, /w/",
-        "/s/ or /z/",
-        "/k/ and /g/n/"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is Code Switching in Linguistics?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The loan-borrowing vocabulary from one language to another",
-        "Use of two languages or dialects in a single sentence",
-        "Permanent alternatives in a language over time",
-        "The choice of words and style of expression"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is Spiral Curriculum?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Involving teaching staff to develop new relevant curricula",
-        "Focuses on what learners are excepted to know in various subject areas",
-        "The key concepts over time in the context of new",
-        "One system of curriculum, medium of instruction and assessment in a state"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who presented Three Circles Model of World English?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Schneider",
-        "George Widdowson",
-        "Moag",
-        "Braj Kachru"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
