@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-14T06:43:26.576067",
+    "fetched_at": "2026-06-15T07:23:53.833240",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Quaid e Azam Muhammad Ali Jinnah's first major case as a lawyer in Bombay involved?",
+      "urdu": "قائداعظم محمد علی جناح کا بمبئی میں پہلا بڑا مقدمہ کس نوعیت کا تھا؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
-      ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "A constitutional matter",
+        "A commercial dispute",
+        "A criminal defense case",
+        "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Quaid e Azam was elected President of Muslim League in which year?",
+      "urdu": "قائد اعظم کس سال مسلم لیگ کے صدر منتخب ہوئے؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "1930",
+        "1932",
+        "1934",
+        "1945"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following children were from the first marriage of Allama Iqbal?",
+      "urdu": "علامہ اقبال کی پہلی شادی سے کون سے بچے تھے؟",
+      "options": [
+        "Miraj Begum and Aftab Ahmed",
+        "Miraj Begum and Javed Iqbal",
+        "Aftab Ahmed and Javed Iqbal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Miraj Begum and Aftab Iqbal</font><font color=\"#0000ff\"> were the children from </font><font color=\"#ff0000\">Allama Iqbal’s first</font><font color=\"#0000ff\"> marriage with </font><font color=\"#ff0000\">Karim Bibi</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The book Payam-i Mashriq was written by Iqbal in response to?",
+      "urdu": "علامہ اقبال کی کتاب پیامِ مشرق کس کے جواب میں لکھی گئی؟",
+      "options": [
+        "Rumi's Masnavi",
+        "Goethe's West-östlicher Divan",
+        "Mark's Das Kapital",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The slogan \"Pakistan ka matlab kya? La ilaha illallah\" gained popularity during?",
+      "urdu": "نعرہ \"پاکستان کا مطلب کیا؟ لا الٰہ الا اللہ\" کس موقع پر مشہور ہوا؟",
+      "options": [
+        "Direct Action Day",
+        "Lucknow Pact",
+        "Lahore Resolution",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Liaquat Ali Khan Joined Muslim League in which year?",
+      "urdu": "لیاقت علی خان کس سال مسلم لیگ میں شامل ہوئے؟",
+      "options": [
+        "1923",
+        "1920",
+        "1916",
+        "1913"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b><b style=\"color: rgb(0, 0, 255); font-size: 0.875rem;\">:</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Mughal Emperor who was defeated in the Battle of Buxar (1764) was?",
+      "urdu": "جنگِ بکسر 1764 میں شکست کھانے والا مغل بادشاہ کون تھا؟",
+      "options": [
+        "Muhammad Shah",
+        "Bahadur Shah I",
+        "Shah Alam II",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Mughal Emperor who faced the Battle of Plassey indirectly through his Nawab was?",
+      "urdu": "مغل بادشاہ جس کے دور میں نواب کے ذریعے بالواسطہ جنگِ پلاسی پیش آئی؟",
+      "options": [
+        "Muhammad Shah",
+        "Shah Alam II",
+        "Alamgir II",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Battle of Khanwa (1527) was fought between Babur and?",
+      "urdu": "جنگِ خانوا 1527 میں بابر اور کس کے درمیان لڑی گئی؟",
+      "options": [
+        "Sher Shah Suri",
+        "Rana Sanga",
+        "Hemu",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Mughal Emperor who issued the Farman granting the East India Company trading rights in Bengal?",
+      "urdu": "مغل بادشاہ جس نے ایسٹ انڈیا کمپنی کو بنگال میں تجارتی حقوق دینے کا فرمان جاری کیا؟",
+      "options": [
+        "Shah Jahan",
+        "Aurangzeb",
+        "Farrukhsiyar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Zabt system of land revenue assessment in the Mughal era under Emperor Akbar was based on?",
+      "urdu": "مغل دور میں شہنشاہ اکبر کا زبط نظام کس بنیاد پر تھا؟",
+      "options": [
+        "Religious tithes",
+        "Fixed cash payments by peasants",
+        "Measurement of land, classification of crops, and average produce",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Mughal emperor faced repeated invasions by Nadir Shah and Ahmad Shah Abdali, weakening the empire significantly?",
+      "urdu": "مغل بادشاہوں میں سے کس کو نادر شاہ اور احمد شاہ ابدالی کی بار بار حملوں کا سامنا کرنا پڑا جس سے سلطنت کمزور ہو گئی؟",
+      "options": [
+        "Muhammad Shah",
+        "Bahadur Shah I",
+        "Shah Alam II",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which telecom operators purchased 5G spectrum in Pakistan's March 2026 auction?",
+      "urdu": "(پاکستان کے مارچ 2026 کے 5-جی اسپیکٹرم نیلامی میں کون سے ٹیلی کام آپریٹرز نے حصہ لیا/خریدا؟",
+      "options": [
+        "Telenor, Zong, and Jazz",
+        "Telenor, Jazz, and Ufone",
+        "Jazz, Zong, and Ufone",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was the 25th council of heads of state meeting of the Shanghai cooperation Organization (SCO) summit 2025?",
+      "urdu": "شنگھائی کوآپریشن آرگنائزیشن سربراہی اجلاس 2025 کی 25ویں کونسل آف ہیڈز آف سٹیٹ میٹنگ کہاں ہوئی؟",
+      "options": [
+        "Dushanbe, Tajikistan",
+        "Astana, Kazakhstan",
+        "Tianjin, China",
+        "Tashkent, Uzbekistan"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">: </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In 2025, which South American country faced a major political crisis after its President attempted to dissolve Congress?",
+      "urdu": "سن 2025 میں جنوبی امریکہ کا کون سا ملک سیاسی بحران کا شکار ہوا جب صدر نے کانگریس کو تحلیل کرنے کی کوشش کی؟",
+      "options": [
+        "Brazil",
+        "Peru",
+        "Chile",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which African country hosted the 48th Ordinary Session of African Union Executive Council (2026)?",
+      "urdu": "افریقی یونین کی 48ویں عام اجلاس (2026) کی میزبانی کس افریقی ملک نے کی؟",
+      "options": [
+        "Ethiopia",
+        "South Africa",
+        "Nigeria",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country became the first in the EU to officially recognize Palestine as a state in 2014, sparking debate across Europe?",
+      "urdu": "سن 2014 میں یورپی یونین کا پہلا ملک جس نے فلسطین کو بطور ریاست تسلیم کیا کون سا تھا؟",
+      "options": [
+        "Sweden",
+        "Ireland",
+        "Portugal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Strait is between Australia and Papua New Guinea?",
+      "urdu": "آسٹریلیا اور پاپوا نیو گنی کے درمیان کون سا آبنائے واقع ہے؟",
+      "options": [
+        "Palk Strait",
+        "Torres Strait",
+        "Dardanelles Strait",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The QUAD (US, India, Japan, Australia) in 2025 announced a joint initiative on?",
+      "urdu": "سن 2025 میں کواڈ نے مشترکہ طور پر کس موضوع پر اقدام کا اعلان کیا؟",
+      "options": [
+        "AI regulation",
+        "Maritime security",
+        "Nuclear disarmament",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">Objectives</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In 2025, which Middle Eastern country normalized relations with Syria after years of isolation?",
+      "urdu": "سن 2025 میں کس مشرقِ وسطیٰ کے ملک نے کئی سال بعد شام کے ساتھ تعلقات معمول پر لائے؟",
+      "options": [
+        "UAE",
+        "Egypt",
+        "Saudi Arabia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">Key actions</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which African country faced a military coup attempt in 2025, raising concerns about regional stability?",
+      "urdu": "سن 2025 میں کس افریقی ملک کو فوجی بغاوت کی کوشش کا سامنا کرنا پڑا جس نے علاقائی استحکام پر خدشات پیدا کیے؟",
+      "options": [
+        "Benin",
+        "Sudan",
+        "Burkina Faso",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Capital of Suriname?",
+      "urdu": "سورینام کا دارالحکومت کونسا ہے؟",
+      "options": [
+        "Paramaribo",
+        "Bangkok",
+        "Kampala",
+        "Lusaka"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Suriname</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height: 107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%; color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%; color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Paramaribo</span><!--[if supportFields]><span style='font-size: 12.0pt;line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country hosted the Climate Change Conference COP30 summit in 2025?",
+      "urdu": "کس ملک نے 2025 میں موسمیاتی تبدیلی کانفرنس کوپ30- سربراہی اجلاس کی میزبانی کی؟",
+      "options": [
+        "Brazil",
+        "Egypt",
+        "Germany",
+        "France"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"\">United Nations Climate Change Conference 2025</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The G20 Summit in 2025, hosted by Brazil, placed major emphasis on?",
+      "urdu": "سن 2025 میں برازیل کی میزبانی میں ہونے والی جی-ٹوئنٹی سمٹ کا بنیادی فوکس کیا تھا؟",
+      "options": [
+        "AI governance and regulation",
+        "Expansion of NATO",
+        "Global oil price stabilization",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Key </font><font color=\"#ff0000\">focus</font><font color=\"#0000ff\"> area:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the binding requirement for a state that joins the Treaty on the Prohibition of Nuclear Weapons (TPNW) if it currently host nuclear weapons?",
+      "urdu": "اگر کوئی ریاست جو ایٹمی ہتھیار رکھتی ہو ٹی پی این ڈبلیو میں شامل ہو جائے تو اس پر کیا لازمی شرط عائد ہوتی ہے؟",
+      "options": [
+        "It must conclude a safeguards agreement with the IAEA within 18 months",
+        "It must destroy them within exactly 5 years",
+        "It must remove and eliminate the weapons in accordance with legally binding time bound plan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Arctic Council operates under strict mandate. Which of the following is explicitly excluded from its charter and scope?",
+      "urdu": "آرکٹک کونسل کے دائرہ اختیار میں سے کون سا معاملہ واضح طور پر شامل نہیں ہے؟",
+      "options": [
+        "Sustainable development",
+        "Military security matters",
+        "Indigenous cultural cooperation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">Main focus areas</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Asian country recently signed a defense pact with the Philippines to counterbalance China's influence in the South China Sea?",
+      "urdu": "جنوبی چین سمندر میں چین کے اثر و رسوخ کو متوازن کرنے کے لیے فلپائن کے ساتھ حال ہی میں کس ایشیائی ملک نے دفاعی معاہدہ کیا؟",
+      "options": [
+        "Malaysia",
+        "Japan",
+        "Thailand",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Focus areas:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Capital of Liechtenstein?",
+      "urdu": "لیختنسٹین کا دارالحکومت کونسا ہے؟",
+      "options": [
+        "Vaduz",
+        "Kuala Lumpur",
+        "Palikir",
+        "Yaren"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Liechtenstein</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height: 107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%; color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%; color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Vaduz</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which African nation joined BRICS in 2024, expanding the bloc's influence?",
+      "urdu": "سن 2024 میں کس افریقی ملک نے برکس میں شمولیت اختیار کی؟",
+      "options": [
+        "Nigeria",
+        "Kenya",
+        "Ethiopia",
+        "Ghana"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country was recently listed by the U.S. Department of Energy as eligible for Compressed Natural Gas (CNG) exports under the Natural Gas Act?",
+      "urdu": "امریکی محکمہ توانائی نے حال ہی میں نیچرل گیس ایکٹ کے تحت کس ملک کو سی این جی برآمدات کے لیے اہل قرار دیا؟",
+      "options": [
+        "Turkey",
+        "Egypt",
+        "Morocco",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The League of Nations failed primarily because?",
+      "urdu": "لیگ آف نیشنز بنیادی طور پر کیوں ناکام ہوئی؟",
+      "options": [
+        "The U.S. never joined",
+        "It lacked a headquarters",
+        "It had too much military power",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Magna Carta (1215) was significant because it?",
+      "urdu": "میگنا کارٹا (1215ء) کی اہمیت کیا تھی؟",
+      "options": [
+        "Established democracy in England",
+        "Limited the power of the English king",
+        "Ended feudalism in Europe",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country was first to recognize independence of United States of America?",
+      "urdu": "امریکہ کی آزادی کو سب سے پہلے کس ملک نے تسلیم کیا؟",
+      "options": [
+        "France",
+        "Germany",
+        "Morocco",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following word means \"The highest point of structure\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Acme",
+        "Amnesia",
+        "Anorexia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following word means \"intrinsically\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In medias res",
+        "Per",
+        "Per se",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following word means \"by itself\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ipso Facto",
+        "In Situ",
+        "Inter",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following word means \"courtyard or outdoor space\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Plaza",
+        "Patio",
+        "Rodeo",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One word substitution: Compulsion to tell lies?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Mythomania",
+        "Megalomania",
+        "Theocracy",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One word substitution: Battle against the gods?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Theomachy",
+        "Titanomachy",
+        "Gigantomachy",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One word substitution: One who loves and admires the British?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Anglophile",
+        "Androphile",
+        "Philanderer",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One word substitution: A shrewish loud-mouthed female?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Virago",
+        "Notorious",
+        "Incorrigible",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One word substitution: An expert in writing by hand?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Chiropodist",
+        "Chirographer",
+        "Somniloquist",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On word substitution: Study of various aspects of ageing / The study of the physical, social and mental aspects of aging is called?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Esthetics",
+        "Genetics",
+        "Gerontology",
+        "Clinical psychology"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Inchoate is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Developed",
+        "Unformed",
+        "Primitive",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Recondite is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Simple",
+        "Manifest",
+        "Sociable",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Jejune is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Scanty",
+        "Sophisticated",
+        "Plentiful",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Antediluvian is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Modern",
+        "Ancient",
+        "Defiant",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Recalcitrant is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Stubborn",
+        "Defiant",
+        "Obedient",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Ephemeral is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Temporary",
+        "Fleeting",
+        "Eternal",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Pulchritude is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Wisdom",
+        "Wealth",
+        "Beauty",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
