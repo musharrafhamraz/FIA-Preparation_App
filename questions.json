@@ -3,10 +3,49 @@
     "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-16T07:29:26.890308",
+    "fetched_at": "2026-06-17T07:13:06.952687",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "options": [
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": 1,
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
+    },
+    {
+      "q": "What does CPU stand for?",
+      "urdu": "",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
+      ],
+      "correct": 0,
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
+    },
     {
       "q": "What is the largest ocean on Earth?",
       "urdu": "",
@@ -32,45 +71,6 @@
       "correct": 2,
       "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
       "category": "pak-study"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
-      ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
     }
   ]
 }
