@@ -3,526 +3,43 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-20T06:24:02.799374",
+    "fetched_at": "2026-06-21T06:53:49.163536",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The Synonym of Embezzle is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "World Brain Tumor Day is observed on which date?",
+      "urdu": "ورلڈ برین ٹیومر ڈے کس تاریخ کو منایا جاتا ہے؟",
       "options": [
-        "Remunerate",
-        "Clear",
-        "Balance",
-        "Misappropriate"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><span style=\"text-align: right; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 05-06-2026</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Imperceptible is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Humble",
-        "Mean",
-        "Obvious",
-        "Subtle"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><span dir=\"RTL\" lang=\"ER\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 20-06-2026</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Defiance is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Anxiety",
-        "Obedience",
-        "Suspicion",
-        "Dismay"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "One word substitution: A style in which a writer makes display of his knowledge.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Kingpin",
-        "Kingslayer",
-        "Pedantic",
-        "Executive"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><span style=\"font-size: 12pt; line-height: 107%; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The idiom “To smell a rat” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To detect something wrong",
-        "To suspect a trick or detect",
-        "To suspect that something is wrong",
-        "To suspect foul dealings",
-        "All of these"
-      ],
-      "correct": 4,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the idiom \"hit the nail right on the head\" mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To be exactly correct",
-        "Speaking directly to the point",
-        "Perform as a task with exactness",
-        "To say something that is exactly right",
-        "All of these"
-      ],
-      "correct": 4,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-01-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He will contact you when he returns from \"abroad\". Here 'Abroad' is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Noun",
-        "Adverb",
-        "Verb",
-        "Adjective"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "\"Bit by bit\". I started to feel. Here 'Bit by Bit' is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Noun",
-        "Adverb",
-        "Verb",
-        "Adjective"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "She _______ her homework everyday.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Do",
-        "Does",
-        "Doing",
-        "Did"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the sentence with correct punctuation: Please bring the following items a pencil, a notebook, and a calculator., Please bring the following items: a pencil, a notebook, and a calculator., Please bring the following items; a pencil, a notebook, and a calculator., Please bring the following items- a pencil, a notebook, and a calculator.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Please bring the following items a pencil, a notebook, and a calculator.",
-        "Please bring the following items: a pencil, a notebook, and a calculator.",
-        "Please bring the following items; a pencil, a notebook, and a calculator.",
-        "Please bring the following items- a pencil, a notebook, and a calculator."
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is correct plural form of “Person”?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Person",
-        "Persons",
-        "People",
-        "Peoples"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Witch : Coven :: ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ogre : Castle",
-        "Seer : Prophecy",
-        "Actor : Troupe",
-        "Fairy : Spell"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "One word substitution: One who speaks less?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Obsolete",
-        "Hypocrite",
-        "Misogynist",
-        "Reticent"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The continued to work in the field?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Even through it rained heavily",
-        "Even through there is heavy rain",
-        "In spite the heavy rains",
-        "Although heavily rains"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The speaker did not properly space out his speech, but went on _____ one point only.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Stressing",
-        "Avoiding",
-        "Devoting",
-        "Decrying"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "It was unanimously resolved that the parties _____ launching of popular programmes.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Should be unitedly undertaken",
-        "Should be unitedly undertake",
-        "Should unitedly undertake",
+        "June 6",
+        "June 4",
+        "June 8",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\">World Brain Tumor Day</font><font color=\"#0000ff\"> is observed on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">June 8</font><font color=\"#0000ff\"> to spread awareness and educate people about brain tumors.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Despite ______ tired, she continued working.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "When is World Crocodile Day observed?",
+      "urdu": "مگرمچھ کا عالمی دن کب منایا جاتا ہے؟",
       "options": [
-        "Being",
-        "Been",
-        "To be",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the sentence with correct subject-verb agreement: Either the cat or the dog were responsible for the mess, Either the cat or the dog was responsible for the mess, Either the cats or the dog were responsible for the mess",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Either the cat or the dog were responsible for the mess",
-        "Either the cat or the dog was responsible for the mess",
-        "Either the cats or the dog were responsible for the mess",
-        "Either the cats or the dog was responsible for the mess"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The phrase 'to have your hands full' means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To be a sinner",
-        "To have plenty of wealth",
-        "Something related to fighting",
-        "To have too many things to do"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He _______ on the project for months.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Working",
-        "Works",
-        "Worked",
-        "Work"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In 2024, Pakistan’s total liquid foreign exchange reserves are about?",
-      "urdu": "سن 2024 میں پاکستان کے کل لیکوئڈ زرمبادلہ کے ذخائر تقریباً کتنے ہیں؟",
-      "options": [
-        "$ 9 billion",
-        "$ 13 billion",
-        "$ 17 billion",
-        "$ 20 billion"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the First Secretary General of UNO?",
-      "urdu": "یونائیٹڈ نیشن کے پہلے سیکرٹری جنرل کون تھے؟",
-      "options": [
-        "Trygve Lie",
-        "Dag Hammarskjold",
-        "Kurt Walheion",
-        "U Thant"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#ff00ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Asia Football Cup 2024 was won by?",
-      "urdu": "ایشیا فٹ بال کپ 2024 کس نے جیتا؟",
-      "options": [
-        "UAE",
-        "Qatar",
-        "Jordon",
-        "South Africa"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Between the melting point and boiling point of a substance, the substance is a?",
-      "urdu": "کسی مادے کے میلٹنگ پوائنٹ اور بوائلنگ پوائنٹ کے درمیان وہ مادہ کس حالت میں ہوتا ہے؟",
-      "options": [
-        "Solid",
-        "Liquid",
-        "Gas",
-        "Crystal"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The driest and windiest continent in the world is?",
-      "urdu": "دنیا کا سب سے خشک اور ہوا والا براعظم کون سا ہے؟",
-      "options": [
-        "Antarctica",
-        "Australia",
-        "Africa",
-        "South America"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the full name of Pakistan’s own satellite PRSS?",
-      "urdu": "پاکستان کے اپنے سیٹلائٹ (پی آر ایس ایس) کا پورا نام کیا ہے؟",
-      "options": [
-        "Public Radio Satellite System",
-        "Pakistan Remote Systematic Sensing",
-        "Pakistan Remote Sensing Satellite",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Daughter of East was written by?",
-      "urdu": "کتاب \"مشرق کی بیٹی\" کس نے لکھی؟",
-      "options": [
-        "Fatima Jinnah",
-        "Benazir Bhutto",
-        "Ghanwa Bhutto",
-        "Begum Raina Liaqat Ali Khan"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Indus Waters Treaty was signed on 19 September 1960 in Karachi by?",
-      "urdu": "انڈس واٹرز ٹریٹی 19 ستمبر 1960 کو کس نے دستخط کی؟",
-      "options": [
-        "Jawaharlal Nehru and Ayub Khan",
-        "Indira Gandhi and Ayub Khan",
-        "Jawaharlal Nehru and Zulifqar Ali Bhutto",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p data-end=\"248\" data-start=\"0\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first European to reach India by sea?",
-      "urdu": "سمندر کے راستے بھارت پہنچنے والا پہلا یورپی کون تھا؟",
-      "options": [
-        "Christopher Columbus",
-        "Macro Polo",
-        "John Cabot",
-        "Vasco Da Gama"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The headquarter of Asian Development Bank is located in?",
-      "urdu": "ایشیائی ترقیاتی بینک کا ہیڈ کوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Manilia",
-        "Tokyo",
-        "Jakarta",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Asia is the world’s most populous continent. The second most populous/densely population continent of the world is?",
-      "urdu": "ایشیا دنیا کا سب سے زیادہ آبادی والا براعظم ہے۔ دوسرا سب سے زیادہ آبادی والا براعظم کون سا ہے؟",
-      "options": [
-        "Africa",
-        "Europe",
-        "South America",
-        "North America"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many time zones are there on/in earth/world?",
-      "urdu": "زمین پر کتنے ٹائم زون ہوتے ہیں؟",
-      "options": [
-        "24",
-        "12",
-        "10",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Oldest University in the World is?",
-      "urdu": "دنیا کی سب سے قدیم یونیورسٹی کون سی ہے؟",
-      "options": [
-        "Cambridge University",
-        "Oxford University",
-        "University of Bologna",
-        "University of Warwick"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Light year is a unit of _____?",
-      "urdu": "نوری سال _____ کی اکائی ہے؟",
-      "options": [
-        "Light",
-        "Distance",
-        "Time",
+        "June 18",
+        "June 17",
+        "June 16",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">World Crocodile Day</span> is an annual global event\r\nobserved every </font><font color=\"#ff0000\">June 17</font><font color=\"#0000ff\"> dedicated to raising awareness about the conservation of\r\ncrocodilians (including crocodiles, alligators, caimans, and gharials) and\r\ntheir vital wetland habitats.</font><span style=\"font-size: 12pt;\"><o:p></o:p></span></b></span></p>",
       "category": "all"
     },
     {
-      "q": "How many barrages are there in Sindh?",
-      "urdu": "سندھ میں کتنے بیراج ہیں؟",
+      "q": "The Current Hijri/Islamic year is?",
+      "urdu": "موجودہ سن ہجری کیا ہے؟",
       "options": [
-        "4",
-        "3",
-        "2",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> major </font><font color=\"#ff0000\">barrages</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Sindh</font><font color=\"#0000ff\">.</font></b></font><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is called the Father of Internet?",
-      "urdu": "انٹرنیٹ کا باپ کسے کہا جاتا ہے؟",
-      "options": [
-        "Vint Cerf",
-        "Charles Babbage",
-        "Tim Berners Lee",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year was OIC founded?",
-      "urdu": "او آئی سی کی بنیاد کس سال ہوئی؟",
-      "options": [
-        "December 7, 1985",
-        "4 April 1949",
-        "September 25, 1969",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"\">OIC (Organization of Islamic Cooperation)</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The name of first Pakistani Aircraft is?",
-      "urdu": "پاکستان کے پہلے طیارے کا نام کیا ہے؟",
-      "options": [
-        "JF-9 Thunder",
-        "JF-8 Thunder",
-        "JF-17 Thunder",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the year _______ Pakistan became an Islamic Republic.",
-      "urdu": "پاکستان کس سال اسلامی جمہوری ملک بنا؟",
-      "options": [
-        "1954",
-        "1956",
-        "1955",
-        "1952"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "On which river Diamer Bhasha dam is being constructed?",
-      "urdu": "دیامر بھاشا ڈیم کس دریا پر تعمیر کیا جا رہا ہے؟",
-      "options": [
-        "River Neelam",
-        "River Kabul",
-        "River Indus",
+        "1446 AH",
+        "1447 AH",
+        "1448 AH",
         "None of these"
       ],
       "correct": 2,
@@ -530,116 +47,389 @@
       "category": "all"
     },
     {
-      "q": "Which country boycott from G20 meeting held in India?",
-      "urdu": "بھارت میں ہونے والے جی-20 اجلاس کا بائیکاٹ کس ملک نے کیا؟",
+      "q": "What is the theme of World Bicycle Day 2026?",
+      "urdu": "ورلڈ بائیسکل ڈے 2026 کا تھیم کیا ہے؟",
+      "options": [
+        "Riding together for a Sustainable Future",
+        "Cycling for a Greener Future",
+        "Promoting Health through Cycling",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(0, 0, 255);\">World Bicycle Day is marked on</span><span style=\"color: rgb(255, 0, 0);\"> </span></span></span><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(255, 0, 0);\">3rd June </span><span style=\"color: rgb(0, 0, 255);\">every year </span></span></span><span style=\"color: rgb(0, 0, 255); font-weight: bold; font-family: Helvetica;\">to </span><span style=\"color: rgb(0, 0, 255); font-weight: 700; font-family: Helvetica;\">recognize</span><span style=\"color: rgb(0, 0, 255); font-weight: bold; font-family: Helvetica;\"> bicycling as a way to get a sustainable form of travel.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When world bicycle day is observed?",
+      "urdu": "سائیکل کا عالمی دن کب منایا جاتا ہے؟",
+      "options": [
+        "June 1",
+        "June 2",
+        "June 3",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\">World Bicycle Day is marked on</span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\"> </span></span></b><b style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">3rd June </span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\">every year </span></span></b><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255); font-weight: bold; font-family: Helvetica;\">to </span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255); font-weight: 700; font-family: Helvetica;\">recognize</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255); font-weight: bold; font-family: Helvetica;\"> bicycling as a way to get a sustainable form of travel.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Fatima Sana belongs to which country who set a Women's T20 World Cup record?",
+      "urdu": "فاطمہ ثنا کا تعلق کس ملک سے ہے جنہوں نے ویمنز ٹی ٹوئنٹی ورلڈ کپ کا ریکارڈ بنایا؟",
       "options": [
         "Pakistan",
-        "China",
-        "Russia",
+        "South Africa",
+        "New Zealand",
         "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\"> </font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "ایک بڑے جملے میں بہت سے چھوٹے جملوں کو الگ کرنے کے لیے یہ علامت استعمال کی جاتی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سکتہ",
+        "وقفہ",
+        "قوسین",
+        "فراق"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is a macro?",
+      "urdu": "میکرو کیا ہے؟",
+      "options": [
+        "A style set",
+        "A large file",
+        "Automated sequence of commands",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is phishing?",
+      "urdu": "فِشنگ کیا ہے؟",
+      "options": [
+        "A method of encrypting data for security",
+        "Cybercrime involving fraudulent emails or messages to obtain sensitive information",
+        "A technique to speed up network connections",
+        "A way to block access to websites"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "United Nations Organization (UNO) officially came into existence / was founded / established on?",
-      "urdu": "اقوام متحدہ کا ادارہ باضابطہ طور پر کب وجود میں آیا؟",
+      "q": "What is the primary function of Firewall in computer networks?",
+      "urdu": "کمپیوٹر نیٹ ورکس میں فائر وال کا بنیادی کام کیا ہے؟",
       "options": [
-        "10 October 1945",
-        "14 October 1945",
-        "24 October 1945",
-        "28 October 1945"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" initial;=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Arial, sans-serif\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Financial (Fiscal) Year of Pakistan starts from?",
-      "urdu": "پاکستان کا مالی (فِسکل) سال کب سے شروع ہوتا ہے؟",
-      "options": [
-        "1 July through 30 June",
-        "1 June through 30 July",
-        "1 August through 30 September",
+        "To prevent/block unauthorized access",
+        "To block viruses",
+        "To speed up network traffic",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "War of 1965 resulted in signing of?",
-      "urdu": "سن 1965 کی جنگ کے نتیجے میں کس معاہدے پر دستخط ہوئے؟",
+      "q": "Total population is 80,000. If 75% attended, how many did not attend?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Tashkent Pact",
-        "Shimla Pact",
-        "Lahore Pact",
+        "20,000",
+        "10,000",
+        "2,000",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Leaders</font><font color=\"#0000ff\">:</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Total population = 80,000</font></b></p>",
       "category": "all"
     },
     {
-      "q": "How many registered voters were set to cast vote in General Elections 2024 in Pakistan?",
-      "urdu": "پاکستان میں عام انتخابات 2024 میں کتنے رجسٹرڈ ووٹرز ووٹ ڈالنے کے لیے مقرر تھے؟",
+      "q": "Who stopped the war between USA and Iran?",
+      "urdu": "امریکہ اور ایران کے درمیان جنگ کس نے روکی؟",
       "options": [
-        "126 million",
-        "124 million",
-        "128 million",
-        "132 million"
+        "Russia",
+        "China",
+        "Pakistan",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Who is the current Secretary General of Arab League?",
-      "urdu": "عرب لیگ کے موجودہ سیکرٹری جنرل کون ہیں؟",
+      "q": "Recently outsourced PIA, 34.5% share was acquired by which group?",
+      "urdu": "حال ہی میں پی آئی اے کے %34.5 حصص کس گروپ نے حاصل کیے؟",
       "options": [
-        "Mahmood Riad",
-        "Amr Mousa",
-        "Nabil Elaraby",
-        "Ahmed Aboul Gheit"
+        "Arif Habib Corporation",
+        "Dawood Group",
+        "Habib Bank Group",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Pungent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sharp smell",
+        "Disagreeable",
+        "Smoky",
+        "Polite"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who conquered Fort Al-Natata?",
+      "urdu": "قلعہ النطاہ/الناتا کو کس نے فتح کیا؟",
+      "options": [
+        "Hazrat Umar (RA)",
+        "Hazrat Usman (RA)",
+        "Hazrat Ali (RA)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name the language in which the Holy Quran was translated for the first time in the subcontinent?",
+      "urdu": "اس زبان کا نام بتائیں جس میں برصغیر میں پہلی بار قرآن مجید کا ترجمہ کیا گیا تھا؟",
+      "options": [
+        "Sindhi",
+        "Balochi",
+        "Punjabi",
+        "Persian"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Ahmed Aboul Gheit</font><font color=\"#0000ff\">:</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; line-height: 16.5pt;\"><span style=\"font-weight: bolder;\"><span arial\",sans-serif;=\"\" mso-fareast-font-family:\"times=\"\" new=\"\" roman\";color:white;mso-themecolor:background1\"=\"\" style=\"font-size: 12pt;\"><font color=\"#ffd663\">Language <o:p></o:p></font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "\"Jinnah of Pakistan\" written by?",
-      "urdu": "کتاب \"جناح آف پاکستان\" کس نے لکھی؟",
+      "q": "We ______ respect our elders.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Stanly Wolpert",
-        "Hector Bolitho",
-        "Philip Hitti",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first battle of Panipat was fought during in the year?",
-      "urdu": "پانی پت کی پہلی جنگ کس سال لڑی گئی تھی؟",
-      "options": [
-        "1528",
-        "1526",
-        "1525",
+        "Must",
+        "Should",
+        "Shall",
         "None of these"
       ],
       "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nobody part me _____ my family.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "From",
+        "With",
+        "To",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the World Bank President who recently visited Pakistan?",
+      "urdu": "ورلڈ بینک کے وہ صدر کون ہیں جو حال ہی میں پاکستان آئے؟",
+      "options": [
+        "David Malpass",
+        "Kristalina Georgieva",
+        "Ajay Banga",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Stubborn is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fearless",
+        "Shameless",
+        "Loyal",
+        "Inflexible"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 21-06-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which year was the Gwadar Port Authority established?",
+      "urdu": "گوادر پورٹ اتھارٹی کس سال میں قائم کی گئی تھی؟",
+      "options": [
+        "1998",
+        "2000",
+        "2002",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"\"><span comic=\"\" ms\";\"=\"\" sans=\"\" style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which part of human brain is involved in maintaining the posture and balance of the body?",
+      "urdu": "انسان کے دماغ کا کون سا حصہ جسم کی پوزیشن اور توازن برقرار رکھتا ہے؟",
+      "options": [
+        "Cerebrum",
+        "Hypothalamus",
+        "Cerebellum",
+        "Medulla oblongata"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first general elections in Pakistan were held on?",
+      "urdu": "پاکستان میں پہلے عام انتخابات _____ کو ہوئے؟",
+      "options": [
+        "Dec 7, 1970",
+        "Dec 6, 1970",
+        "Dec 5, 1970",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Head/Barrage Trimmu is located on which rivers?",
+      "urdu": "ہیڈ ٹریمّو کس دریا کے سنگم پر واقع ہے؟",
+      "options": [
+        "Chenab & Jhelum",
+        "Indus & Kabul",
+        "Ravi & Chenab",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Lead pencil is made up of?",
+      "urdu": "لیڈ پنسل کس چیز سے بنتی ہے؟",
+      "options": [
+        "Aluminum",
+        "Silver",
+        "Graphite",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Senate of Pakistan consists of how many members?",
+      "urdu": "پاکستان کی سینیٹ کتنے ارکان پر مشتمل ہے؟",
+      "options": [
+        "100",
+        "96",
+        "104",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">After </font><font color=\"#ff0000\">18th Amendment</font><font color=\"#0000ff\"> Strength: </font><font color=\"#ff0000\">104</font><font color=\"#0000ff\"> members</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hume Dam is located in?",
+      "urdu": "ہیوم ڈیم کس ملک میں واقع ہے؟",
+      "options": [
+        "Australia",
+        "United States",
+        "Pakistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Diamond is allotropic form of?",
+      "urdu": "ڈائمنڈ کس عنصر کی مختلف شکل (اللوٹروپک فارم) ہے؟",
+      "options": [
+        "Carbon",
+        "Hydrogen",
+        "Oxygen",
+        "Aluminum"
+      ],
+      "correct": 0,
       "explanation": "<p></p>",
       "category": "all"
     },
     {
-      "q": "In American histrionics which President gave resign?",
-      "urdu": "امریکی تاریخ میں کس صدر نے استعفیٰ دیا؟",
+      "q": "Naveed Akram, one of the suspects in the Bondi Beach attack, was originally from which country?",
+      "urdu": "بونڈی بیچ حملے کے ایک مشتبہ شخص نوید اکرم کا تعلق اصل میں کس ملک سے تھا؟",
       "options": [
-        "Richard Nixon",
-        "Elsen Hower",
-        "Ronald Reagon",
+        "India",
+        "Pakistan",
+        "Australia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sor Range in Pakistan is popular for the production of?",
+      "urdu": "پاکستان میں سور رینج کس چیز کی پیداوار کے لیے مشہور ہے؟",
+      "options": [
+        "Coal",
+        "Gas",
+        "Oil",
+        "Salt"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "United States of America attacked which country in 2026 and abudcted its president Nicolas Maduro?",
+      "urdu": "امریکہ نے 2026 میں کس ملک پر حملہ کیا اور صدر نکولس مادورو کو اغوا کیا؟",
+      "options": [
+        "Colombia",
+        "Guyana",
+        "Venezuela",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which can be dissolved in water? Alcohol, Benzene, Ether, None of these",
+      "urdu": "پانی میں کون سا مادہ حل ہو سکتا ہے؟",
+      "options": [
+        "Alcohol",
+        "Benzene",
+        "Ether",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the proverb: No man is a/an _______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Island",
+        "Sea",
+        "Mountain",
         "None of these"
       ],
       "correct": 0,
@@ -647,16 +437,224 @@
       "category": "all"
     },
     {
-      "q": "Who has written the book “Das Capital (Kapital)”?",
-      "urdu": "داس کیپٹل کتاب کس نے لکھی ہے؟",
+      "q": "How many Countries are called Scandinavian Countries?",
+      "urdu": "اسکینڈینیوین ممالک کتنے ہیں؟",
       "options": [
-        "Karl Marx",
-        "Lenin",
-        "Stalin",
+        "5",
+        "4",
+        "3",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "غریب کی جورو سب کی بھابی کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "غریب پر سب کا بس چلتا ہے",
+        "غریب ہمیشہ خوش رہتا ہے",
+        "غریب کو سب عزت دیتے ہیں",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">غریب</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">کی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جورو سب کی بھابی</font><font color=\"#0000ff\"> کا مطلب ہے کہ </font><font color=\"#ff0000\">کمزور اور غریب شخص</font><font color=\"#0000ff\"> پر ہر </font><font color=\"#ff0000\">کوئی حکم</font><font color=\"#0000ff\"> چلاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which volatile RAM is faster?",
+      "urdu": "کون سی وولیٹائل ریم زیادہ تیز ہے؟",
+      "options": [
+        "DRAM",
+        "SRAM",
+        "Flash Memory",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Islam was declared \"State Religion\" of Pakistan in which constitution?",
+      "urdu": "اسلام کو پاکستان کا ریاستی مذہب کس آئین میں قرار دیا گیا؟",
+      "options": [
+        "1956",
+        "1962",
+        "1973",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the 1956 constitution, what official name was given to Pakistan?",
+      "urdu": "سن 1956 کے آئین میں پاکستان کو کیا سرکاری نام دیا گیا تھا؟",
+      "options": [
+        "United States of Pakistan",
+        "Republic of Pakistan",
+        "Islamic Republic of Pakistan",
+        "Islamic Pakistan"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Fatima Jinnah died on?",
+      "urdu": "فاطمہ جناح کا انتقال کب ہوا؟",
+      "options": [
+        "9 July 1965",
+        "9 July 1966",
+        "9 July 1967",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 2x² − 3x − 2 = 0, then x = ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "x = 2, −1/2",
+        "x = 1, −2",
+        "x = 3, −1",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Equation 2x² − 3x − 2 = 0  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Secretary of State of the United States?",
+      "urdu": "امریکہ کا موجودہ وزیر خارجہ کون ہے؟",
+      "options": [
+        "Daniel Bennett Smith",
+        "Marco Rubio",
+        "Mike Pompeo",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Cosmic rays were discovered by?",
+      "urdu": "کاسمک ریز کو کس نے دریافت کیا؟",
+      "options": [
+        "Albert Einstein",
+        "Victor Hess",
+        "Marie Curie",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which protocol is used to establish a secure channel of communication over a potentially insecure network?",
+      "urdu": "کون سا پروٹوکول غیر محفوظ نیٹ ورک پر محفوظ مواصلاتی چینل قائم کرنے کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "HTTPS (SSL/TLS)",
+        "DHCP",
+        "FTP",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mail merge is used to?",
+      "urdu": "میل مرج کس کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Combine multiple documents together",
+        "Send emails to multiple recipients",
+        "Merge data into a template document",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "نیم روز میں 'روز' کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اسم",
+        "فعل",
+        "صفت",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">روز</font><font color=\"#0000ff\"> کا مطلب </font><font color=\"#ff0000\">دن</font><font color=\"#0000ff\"> ہے اور یہ ایک </font><font color=\"#ff0000\">اسم</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When were general elections held in Zia-ul-Haq era?",
+      "urdu": "ضیاء الحق کے دور میں عام انتخابات کب ہوئے؟",
+      "options": [
+        "1977",
+        "1985",
+        "1988",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was the Bandung Conference held?",
+      "urdu": "بندونگ کانفرنس کہاں منعقد ہوئی؟",
+      "options": [
+        "India",
+        "Indonesia",
+        "Egypt",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hub Dam is located in which province?",
+      "urdu": "حب ڈیم کس صوبے میں واقع ہے؟",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Newsletter is composed in?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Formal style",
+        "Informal style",
+        "Literary style",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The internet address that doesn't change every day is called?",
+      "urdu": "انٹرنیٹ کا وہ ایڈریس جو روزانہ تبدیل نہیں ہوتا اسے کیا کہتے ہیں؟",
+      "options": [
+        "Dynamic IP Address",
+        "Static IP Address",
+        "Temporary IP Address",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
       "category": "all"
     }
   ]
