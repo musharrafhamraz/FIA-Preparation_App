@@ -3,160 +3,368 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-22T07:27:35.516326",
+    "fetched_at": "2026-06-23T06:09:47.242404",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which of the following is a member of G7? Japan, Russia, China, None of these",
-      "urdu": "مندرجہ ذیل میں سے کون سا ملک جی-7 کا رکن ہے؟",
+      "q": "In our body, the percentage of water is?",
+      "urdu": "انسانی جسم میں پانی کی مقدار کتنے فیصد ہوتی ہے؟",
       "options": [
-        "Japan",
-        "Russia",
-        "China",
+        "30 percent",
+        "90 percent",
+        "60 percent",
+        "50 percent"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "“Rose” is which part of speech?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Adjective only",
+        "Pronoun only",
+        "Noun and Verb",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "رات گئی ___ گئی۔",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بات",
+        "نیند",
+        "خوشی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">مکمل محاورہ ہے: رات گئی </font><font color=\"#ff0000\">بات</font><font color=\"#0000ff\"> گئی۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first honorable Chief Justice of Pakistan?",
+      "urdu": "پاکستان کے پہلے معزز چیف جسٹس کون تھے؟",
+      "options": [
+        "Justice Abdul Rashid",
+        "Justice Muhammad Munir",
+        "Justice Muhammad Shahabuddin",
+        "Justice A.R. Cornelius"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A 3-digit number is reversed, and the new number is 297 greater than the original. The sum of the first and third digits is 7. What is the product of the first and third digits?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10",
+        "12",
+        "14",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Let the 3-digit number be abc = 100a + 10b + c  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "G.H. Mead's theory is called?",
-      "urdu": "جی ایچ میڈ کی تھیوری کو کیا کہا جاتا ہے؟",
+      "q": "Which testing does NOT affect or “hurt” previous coding, design, and other elements of a software?",
+      "urdu": "کون سا ٹیسٹنگ پہلے سے موجود کوڈ، ڈیزائن یا سافٹ ویئر کے دوسرے حصوں کو متاثر نہیں کرتا؟",
       "options": [
-        "Structural Functionalism",
-        "Conflict Theory",
-        "Symbolic Interactionism (Theory of Self)",
+        "Regression Testing",
+        "Unit Testing",
+        "Alpha Testing",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Role set means?",
-      "urdu": "رول سیٹ سے کیا مراد ہے؟",
+      "q": "Rectified spirit contains alcohol about?",
+      "urdu": "ریکٹیفائیڈ اسپرٹ میں الکوحل کی مقدار تقریباً کتنی ہوتی ہے؟)",
       "options": [
-        "Fixed role in life",
-        "One role in many statuses",
-        "All roles attached to one status",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Feminism mainly works for?",
-      "urdu": "فیمنزم بنیادی طور پر کس کے لیے کام کرتا ہے؟",
-      "options": [
-        "Gender inequality",
-        "Gender equality",
-        "Male dominance",
+        "95%",
+        "90%",
+        "85%",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The main function of social institutions is to?",
-      "urdu": "سماجی اداروں کا بنیادی کام کیا ہے؟",
+      "q": "Tourmaline is classified as a semi-precious stone and the gemstone can be found in?",
+      "urdu": "ٹورمالین ایک نیم قیمتی پتھر ہے، یہ کہاں پایا جاتا ہے؟",
       "options": [
-        "Fulfill basic social needs",
-        "Eliminate social values",
-        "Prevent social interaction",
+        "Gilgit",
+        "Swat",
+        "Chitral",
         "None of these"
       ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Social control means?",
-      "urdu": "سوشل کنٹرول سے کیا مراد ہے؟",
+      "q": "201 × 199 = ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Creating social conflicts",
-        "Regulating behavior and maintaining order",
-        "Eliminating all social rules",
+        "40000",
+        "39999",
+        "39801",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "explanation": "<p><span style=\"font-size: 0.875rem;\"><b><font color=\"#0000ff\">Use identity: (a + 1)(a - 1) = a² - 1  </font></b></span></p>",
       "category": "all"
     },
     {
-      "q": "Dramaturgy Theory mainly relates to?",
-      "urdu": "ڈراماٹرجی تھیوری بنیادی طور پر کس سے متعلق ہے؟",
+      "q": "A drowning man catches _______ a straw.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Economic development",
-        "Political systems",
-        "Presentation of self in daily life",
-        "None of these"
+        "Up",
+        "At",
+        "On",
+        "Over"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The concepts of Total Institutions and Stigma are associated with?",
-      "urdu": "ٹوٹل انسٹی ٹیوشنز اور سٹگما کے تصورات کس سے متعلق ہیں؟",
+      "q": "Wazir Khan Mosque is located in?",
+      "urdu": "وزیر خان مسجد کہاں واقع ہے؟",
       "options": [
-        "Karl Marx",
-        "Max Weber",
-        "Erving Goffman",
-        "None of these"
+        "Islamabad",
+        "Lahore",
+        "Karachi",
+        "Quetta"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 22-06-2026</font></b></p>",
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Dramaturgy Theory was given by?",
-      "urdu": "ڈراماٹرجی تھیوری کس نے پیش کی؟",
+      "q": "ٹسوے بہانا محاورہ ہے۔ اس کا مفہوم کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Karl Marx",
-        "Max Weber",
-        "Erving Goffman",
-        "None of these"
+        "جھوٹ موٹ کا رونا",
+        "پانی بہانا",
+        "پھوٹ پھوٹ کر رونا",
+        "ان میں سے کوئی نہیں"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "According to Auguste Comte, the first stage of society is?",
-      "urdu": "آگسٹ کومٹ کے مطابق معاشرے کا پہلا مرحلہ کون سا ہے؟",
+      "q": "Which sorting algorithm is the fastest in the average case?",
+      "urdu": "اوسط معاملے میں کون سا چھنٹائی الگورتھم سب سے تیز ہے؟",
       "options": [
-        "Theological stage",
-        "Metaphysical stage",
-        "Positive stage",
+        "Quick Sort",
+        "Merge Sort",
+        "Bubble Sort",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">It is the </font><font color=\"#ff0000\">earliest stage</font><font color=\"#0000ff\"> in his Law of </font><font color=\"#ff0000\">Three Stages</font><font color=\"#0000ff\"> theory.</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "“Social Statics” and “Social Dynamics” were given by?",
-      "urdu": "سوشل اسٹیٹکس اور سوشل ڈائنامکس کس نے پیش کیے؟",
+      "q": "Who was the first Foreign Minister of Pakistan?",
+      "urdu": "پاکستان کے پہلے وزیرِ خارجہ کون تھے؟",
       "options": [
-        "Auguste Comte",
-        "Karl Marx",
-        "Max Weber",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam",
+        "Muhammad Ali",
+        "Zafarullah Khan"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Prophet Muhammad ﷺ gave the armor named “Al-Bayda” obtained in the Battle of Badr to whom?",
+      "urdu": "غزوہ بدر میں حاصل ہونے والا زرہ البیضاء نبی کریم ﷺ نے کس کو دیا؟",
+      "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Sa’d bin Abi Waqqas (RA)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mazar-i-Sharif is an important city of which country?",
+      "urdu": "مزار شریف کس ملک کا اہم شہر ہے؟",
+      "options": [
+        "Afghanistan",
+        "Pakistan",
+        "Uzbekistan",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which country will host the G7 Summit 2027?",
-      "urdu": "جی 7 سمٹ 2027 کی میزبانی کون سا ملک کرے گا؟",
+      "q": "After the death of Hazrat Khadija, Prophet Muhammad (SAW) married?",
+      "urdu": "حضرت خدیجہؓ کی وفات کے بعد نبی کریم ﷺ نے کس سے نکاح کیا؟",
       "options": [
-        "United States",
-        "France",
-        "Germany",
+        "Sawdah bint Zam'ah (RA)",
+        "Hazrat Asma (RA)",
+        "Hazrat Aisha (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan Special Police was established under?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pakistan Special Police Establishment Ordinance 1948 (V of 1948) ,",
+        "Pakistan Special Police Establishment Ordinance 1948, (VI of 1948) ,",
+        "Pakistan Special Police Establishment Ordinance 1948, (VII of 1948) ,",
+        "Pakistan Special Police Establishment Ordinance 1948, (IV of 1948) ,"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"Style\" style=\"margin-right:20.9pt;line-height:14.85pt;mso-line-height-rule: exactly\"><b style=\"font-size: 18px; font-family: Muli, sans-serif; text-align: justify; text-transform: uppercase;\">ORIGIN &amp; HISTORY</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The jurisdiction of FIA is divided into which of the following zones?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "7",
+        "11",
+        "4",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in;background:#0070C0\"><b><span style=\"color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242;mso-style-textfill-fill-color:\r\n#F2F2F2;mso-style-textfill-fill-themecolor:background1;mso-style-textfill-fill-alpha:\r\n100.0%;mso-style-textfill-fill-colortransforms:lumm=95000\">ADG North<o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Federal Investigation Agency was formed in which year?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1972",
+        "1974",
+        "1975",
+        "1978"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-weight: bold;\">FIA </span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\">stands for</span><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"> Federal Investigation Agency. </span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Director General of FIA Is assisted by how many Directors?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "13",
+        "11",
+        "25",
+        "12"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-weight: bold;\">The Director General of the FIA is assisted by </span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\">07 Additional Director-Generals</span><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"> and</span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"> 25 Directors</span><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"> for effective monitoring and smooth functioning of the operations spread all over the country.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Incident of Ifk (افک) is related to which wife of the Holy Prophet ﷺ?",
+      "urdu": "واقعہ افک نبی کریم ﷺ کی کس زوجہ سے متعلق ہے؟",
+      "options": [
+        "Hazrat Ayesha (RA)",
+        "Hazrat Khadija (RA)",
+        "Hazrat Hafsa (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Analogy: Incising : Spatula :: Lifting : ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Forceps",
+        "Scalpel",
+        "Blade",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the effect of data compression?",
+      "urdu": "ڈیٹا کمپریشن کا کیا اثر ہوتا ہے؟",
+      "options": [
+        "Deletes data permanently",
+        "Increases file size",
+        "Decreases file size",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one of the following is NOT a characteristic of cloud computing? On-demand self-service, Broad network access, Resource pooling, Manual data processing",
+      "urdu": "مندرجہ ذیل میں سے کون سا کلاؤڈ کمپیوٹنگ کی خصوصیت نہیں ہے؟",
+      "options": [
+        "On-demand self-service",
+        "Broad network access",
+        "Resource pooling",
+        "Manual data processing"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a Database table, a single row will be called?",
+      "urdu": "ڈیٹا بیس ٹیبل میں ایک مکمل قطار کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Field",
+        "Record",
+        "Data type",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which testing method is used for combining old and new systems?",
+      "urdu": "پرانے اور نئے سسٹم کو یکجا کرنے کے لیے کون سا ٹیسٹنگ طریقہ استعمال ہوتا ہے؟",
+      "options": [
+        "Unit Testing",
+        "Integration Testing",
+        "System Testing",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Turing Test?",
+      "urdu": "ٹورنگ ٹیسٹ کیا ہے؟",
+      "options": [
+        "A test to determine if a machine can show human-like intelligence",
+        "A test to measure computer speed",
+        "A test to check internet security",
         "None of these"
       ],
       "correct": 0,
@@ -164,194 +372,155 @@
       "category": "all"
     },
     {
-      "q": "Canada joined the G6 in 1976, after which it became the?",
-      "urdu": "کینیڈا نے 1976 میں جی-6 میں شمولیت اختیار کی، جس کے بعد یہ کیا بنا؟",
+      "q": "Which protocol deals with resolving domain names?",
+      "urdu": "کون سا پروٹوکول ڈومین ناموں کو حل کرنے کا کام کرتا ہے؟",
       "options": [
-        "G5",
-        "G7",
-        "G8",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The European Union participates in the G7 as a?",
-      "urdu": "یورپی یونین جی-7 میں کس حیثیت سے شامل ہوتی ہے؟",
-      "options": [
-        "Full member",
-        "Observer state",
-        "Non-enumerated member",
+        "HTTP",
+        "FTP",
+        "DNS",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What was the Real Name of Nawab Mohsin-ul-Mulk?",
-      "urdu": "نواب محسن الملک کا اصل نام کیا تھا؟",
+      "q": "Characteristic of hydrophytes is?",
+      "urdu": "آبی پودوں کی خصوصیت کیا ہے؟",
       "options": [
-        "Nawab Hizar Hayat",
-        "Syed Mehdi Ali",
-        "Nawab Mushtaq Hussain",
+        "Stem with sclerenchyma",
+        "Poorly developed roots",
+        "Well developed roots",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "A major global change after World War II was?",
-      "urdu": "دوسری جنگِ عظیم کے بعد ایک بڑی عالمی تبدیلی کیا تھی؟",
+      "q": "The audible range of normal human ear is ____?",
+      "urdu": "عام انسانی کان کی سننے کی حد کتنی ہوتی ہے؟",
       "options": [
-        "Renaissance movement",
-        "Industrial Revolution",
-        "Decolonization and rise of welfare state",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The value of (100)¹·⁵ is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1000",
-        "100",
-        "10000",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">(100)¹·⁵ = (100)³/² = √(100³) </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The headquarters of International Court of Justice (ICJ) is located in _____?",
-      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
-      "options": [
-        "New York",
-        "Washington",
-        "Geneva",
-        "Hague"
+        "16 Hz to 20kHz",
+        "10 Hz to 31kHz",
+        "67 Hz to 45kHz",
+        "20 Hz to 20kHz"
       ],
       "correct": 3,
-      "explanation": "",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Alps mountain range is located in which continent?",
-      "urdu": "الپس پہاڑی سلسلہ کس براعظم میں واقع ہے؟",
+      "q": "Which of the following Planet has the smallest diameter?",
+      "urdu": "مندرجہ ذیل میں سے کس سیارے کا قطر سب سے چھوٹا ہے؟",
       "options": [
-        "Europe",
-        "Africa",
-        "South America",
-        "None of these"
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 23-06-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Aral Sea is located between which two countries that share its waters?",
+      "urdu": "بحیرہ ارال کن دو ممالک کے درمیان واقع ہے جو اس کے پانیوں میں شریک ہیں؟",
+      "options": [
+        "Uzbekistan and Kazakhstan",
+        "Kyrgyzstan and Tajikistan",
+        "Turkmenistan and Azerbaijan",
+        "Iran and Turkmenistan"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Main rivers feeding it:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Baltoro Glacier is found in _____ ranges of Pakistan.",
-      "urdu": "بالتورہ گلیشیئر پاکستان کے کس پہاڑی سلسلے میں واقع ہے؟",
+      "q": "Who discovered the circulation of blood?",
+      "urdu": "خون کی گردش کو کس نے دریافت کیا؟",
       "options": [
-        "Hindu Kush",
-        "Karakorum",
-        "Himalayas",
-        "None of these"
+        "Parker",
+        "William Harvey",
+        "Mendel",
+        "Newton"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "How many provinces Pakistan has currently?",
-      "urdu": "پاکستان میں اس وقت کتنے صوبے ہیں؟",
+      "q": "Pakistan joined Non-Aligned Movement (NAM) in which year?",
+      "urdu": "پاکستان نے غیر جانبدار تحریک میں کس سال شمولیت اختیار کی؟",
       "options": [
-        "4",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Definition of “Muslim” was given in which Constitution of Pakistan?",
-      "urdu": "پاکستان کے کس آئین میں \"مسلم\" کی تعریف دی گئی ہے؟",
-      "options": [
-        "1956 Constitution",
-        "1962 Constitution",
-        "1973 Constitution",
+        "1980",
+        "1989",
+        "1979",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who dismissed the government of Khawaja Nazim ud Din?",
-      "urdu": "خواجہ ناظم الدین کی حکومت کو کس نے برطرف کیا؟",
-      "options": [
-        "Malik Ghulam Muhammad",
-        "Sikandar Ali Mirza",
-        "M. Ali Bogra",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which type of bus provides a path to transfer data between CPU and memory?",
-      "urdu": "سی پی یو اور میموری کے درمیان ڈیٹا منتقل کرنے کے لیے کون سی بس استعمال ہوتی ہے؟",
-      "options": [
-        "Data Bus",
-        "Control Bus",
-        "Address Bus",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The Capital of Ummayed Dynasty was?",
-      "urdu": "اموی خلافت کا دارالحکومت کیا تھا؟",
+      "q": "When was Indus Water Treaty signed?",
+      "urdu": "سندھ طاس معاہدے پر کب دستخط ہوئے؟",
       "options": [
-        "Baghdad",
-        "Cairo",
-        "Damascus",
-        "None of these"
+        "September 19, 1950",
+        "September 19, 1960",
+        "September 19, 1965",
+        "September 19, 1973"
       ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "correct": 1,
+      "explanation": "<p data-end=\"248\" data-start=\"0\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
       "category": "all"
     },
     {
-      "q": "During the Battle of Tabook, Medina was under the protection of?",
-      "urdu": "غزوۂ تبوک کے دوران مدینہ منورہ کی حفاظت کس کے سپرد تھی؟",
+      "q": "When First martial law was imposed in Pakistan?",
+      "urdu": "پاکستان میں پہلا مارشل لاء کب لگا؟",
       "options": [
-        "Hazrat Usman (R.A)",
-        "Hazrat Abu Bakr (R.A)",
-        "Hazrat Ali (R.A)",
+        "October 7 1958",
+        "October 7 1959",
+        "October 7 1960",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
       "category": "all"
     },
     {
-      "q": "Due to smoking, damage to alveoli results in?",
-      "urdu": "سگریٹ نوشی کی وجہ سے الویولی کو نقصان ہونے سے کیا نتیجہ نکلتا ہے؟",
+      "q": "What is the term for the Governor of state bank of Pakistan?",
+      "urdu": "اسٹیٹ بینک آف پاکستان کے گورنر کی مدت کیا ہوتی ہے؟",
       "options": [
-        "Increased oxygen absorption",
-        "Reduced gas exchange efficiency",
-        "Faster breathing rate always improves lungs",
+        "5 years",
+        "4 years",
+        "3 years",
+        "2 years"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><span style=\"font-weight: bolder;\"><br/></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the minimum age of Senator under 1973 Constitution?",
+      "urdu": "سن 1973 کے آئین کے تحت سینیٹر کی کم از کم عمر کیا ہے؟",
+      "options": [
+        "30 years",
+        "25 years",
+        "35 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "BRICS Plus naval exercise is mainly concerned with?",
+      "urdu": "برکس پلس بحری مشقیں بنیادی طور پر کس سے متعلق ہیں؟",
+      "options": [
+        "Arctic exploration",
+        "Red Sea/Houthi attacks & maritime security threats",
+        "Space warfare",
         "None of these"
       ],
       "correct": 1,
@@ -359,129 +528,25 @@
       "category": "all"
     },
     {
-      "q": "What is the mass of one proton?",
-      "urdu": "ایک پروٹان کا کمیت کیا ہے؟",
-      "options": [
-        "Equal to 1836 electron",
-        "Equal to proton",
-        "Equal to 1836 neutron",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 22-06-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Analogy: Outrage : Peeve :: Strive : ?",
+      "q": "The idiom “Left out in the cold” means?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Curse",
-        "Duel",
-        "Attempt",
+        "Feeling cold in winter",
+        "Ignored or excluded",
+        "Going outside at night",
         "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Analogy: Summer : Sag :: Winter : ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Contract",
-        "Expand",
-        "Melt",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Filibuster is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Obstruction",
-        "Agreement",
-        "Voting",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Stentorian is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Violent",
-        "Misbegotten",
-        "Loud",
-        "Stealthy"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Picayune is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Important",
-        "Trivial",
-        "Expensive",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest glacier outside the polar regions, located in Pakistan?",
-      "urdu": "قطبی علاقوں کے باہر پاکستان میں واقع سب سے بڑا گلیشیئر کون سا ہے؟",
-      "options": [
-        "Baltoro Glacier",
-        "Siachen Glacier",
-        "Batura Glacier",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Tarbela Dam is build on which river?",
-      "urdu": "تربیلا ڈیم کس دریا پر بنایا گیا ہے؟",
-      "options": [
-        "Indus",
-        "Ravi",
-        "Satluj",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><span style=\"font-family: Helvetica;\"><font style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></font></span></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat Ali (R.A) was martyred in the city of?",
-      "urdu": "حضرت علی رضی اللہ عنہ کس شہر میں شہید ہوئے؟",
-      "options": [
-        "Najaf",
-        "Kufa",
-        "Madina",
-        "Karbala"
       ],
       "correct": 1,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Ransomware attack is an attack which performs?",
-      "urdu": "رینسم ویئر اٹیک کس قسم کا حملہ ہوتا ہے؟",
+      "q": "The idiom “One hand washes the other” means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Deletes all hardware components",
-        "Encrypts data and demands ransom for access",
-        "Improves system speed",
+        "One person always wins",
+        "Mutual help or cooperation",
+        "Washing hands properly",
         "None of these"
       ],
       "correct": 1,
@@ -489,172 +554,107 @@
       "category": "all"
     },
     {
-      "q": "HTML is used for?",
-      "urdu": "ایچ ٹی ایم ایل کس کام کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Networking",
-        "Web designing",
-        "Database",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "وقار الملک گرائمر کی رو سے کیا ہے؟",
+      "q": "Change into indirect speech:  Father said, “Don’t play in the rain.”",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "اسم",
-        "صفت",
-        "فعل",
-        "ان میں سے کوئی نہیں"
+        "Father told that don’t play in the rain.",
+        "Father told not to play in the rain.",
+        "Father said that don’t play in the rain.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He ______ not like spicy food.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The master was annoyed _____ servant.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "With",
+        "For",
+        "On",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">وقار</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الملک</font><font color=\"#0000ff\"> ایک شخص کا نام ہے، اس لیے یہ </font><font color=\"#ff0000\">اسمِ خاص</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Who is the Current Chief Justice of Pakistan (CJP)?",
-      "urdu": "پاکستان کے موجودہ چیف جسٹس کون ہیں؟",
+      "q": "The Antonym of Heal is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Justice Umar Ata Bandial",
-        "Justice Qazi Faez Isa",
-        "Justice Yahya Afridi",
+        "Recover",
+        "Wound",
+        "Injure",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">Justice Yahya Afridi</font><font color=\"#0000ff\"> is the current &amp; </font><font color=\"#ff0000\">30th </font><font color=\"#0000ff\">Chief Justice CJ of </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">since </font><font color=\"#ff0000\">October 2024.</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Nurek Lake is located in which country?",
-      "urdu": "نوریک جھیل کس ملک میں واقع ہے؟",
+      "q": "The Antonym of Eclat is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Pakistan",
-        "Afghanistan",
-        "Tajikistan",
+        "Glory",
+        "Success",
+        "Obscurity",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Calibri\"><span style=\"font-size: 24px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 21-06-2026</b></span></font></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Database normalization reduces?",
-      "urdu": "ڈیٹا بیس نارملائزیشن کس چیز کو کم کرتی ہے؟",
+      "q": "The Synonym of Lissome is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Tables",
-        "Data redundancy",
-        "Data size",
-        "None of these"
+        "Slow",
+        "Honest",
+        "Supple",
+        "Dull"
       ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Sulu Sea is located between which regions?",
-      "urdu": "سلُو سمندر کن خطوں کے درمیان واقع ہے؟",
+      "q": "Solve the equation: 2x² + 5x − 12 = 0. Find the value of x?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "India and Sri Lanka",
-        "Philippines, Malaysia (Sabah) and Indonesia",
-        "China and Japan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Pervez Musharraf resigned as the President of Pakistan?",
-      "urdu": "پرویز مشرف نے پاکستان کے صدر کے عہدے سے کب استعفیٰ دیا؟",
-      "options": [
-        "14 July 2008",
-        "18 August 2008",
-        "12 September 2008",
-        "7 October 2005"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The total number of electorates in the Electoral College for the election of America president are?",
-      "urdu": "امریکی صدر کے انتخاب کے لیے الیکٹورل کالج کے کل ارکان کتنے ہیں؟",
-      "options": [
-        "438",
-        "538",
-        "440",
-        "540"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">Composition</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Liaquat Ali Khan was assassinated in Rawalpindi on?",
-      "urdu": "لیاقت علی خان کو راولپنڈی میں کب شہید کیا گیا؟",
-      "options": [
-        "17 November 1951",
-        "17 September 1951",
-        "16 October 1951",
+        "x = 2, x = −3",
+        "x = −2, x = 3",
+        "x = 3/2, x = −4",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-05-2026</font></span></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">2x² + 5x − 12 = 0</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Who is the father of personal computer?",
-      "urdu": "پرسنل کمپیوٹر کا باپ کس کو کہا جاتا ہے؟",
+      "q": "Which city in Punjab, Pakistan, is renowned for beautiful camel skin art, handicrafts, and glazed pottery?",
+      "urdu": "پاکستان کے پنجاب میں کون سا شہر اونٹ کی کھال کے فن، دستکاری اور چمکدار مٹی کے برتنوں کے لیے مشہور ہے؟",
       "options": [
-        "Charles Babbage",
-        "Edward Robert",
-        "Allen Turing",
-        "None of these"
+        "Quetta",
+        "Karachi",
+        "Sukkur",
+        "Multan"
       ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Neon gas was discovered by?",
-      "urdu": "نیون گیس کس نے دریافت کی؟",
-      "options": [
-        "Henry Cavendish",
-        "William Ramsay and Morris Travers",
-        "Marie Curie",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is known as the Father of the Helicopter?",
-      "urdu": "ہیلی کاپٹر کا باپ کس کو کہا جاتا ہے؟",
-      "options": [
-        "Thomas Edison",
-        "Igor Sikorsky",
-        "Wright Brothers",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest country in the world by area is?",
-      "urdu": "رقبے کے لحاظ سے دنیا کا سب سے بڑا ملک کون سا ہے؟",
-      "options": [
-        "USA",
-        "Russia",
-        "Australia",
-        "China"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bold; background-color: rgb(255, 255, 0);\">List of Largest countries by area:</span></p>",
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
       "category": "all"
     }
   ]
