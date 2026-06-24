@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-23T06:09:47.242404",
+    "fetched_at": "2026-06-24T06:09:11.862264",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "In our body, the percentage of water is?",
-      "urdu": "انسانی جسم میں پانی کی مقدار کتنے فیصد ہوتی ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "30 percent",
-        "90 percent",
-        "60 percent",
-        "50 percent"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "“Rose” is which part of speech?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Adjective only",
-        "Pronoun only",
-        "Noun and Verb",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "رات گئی ___ گئی۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "بات",
-        "نیند",
-        "خوشی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">مکمل محاورہ ہے: رات گئی </font><font color=\"#ff0000\">بات</font><font color=\"#0000ff\"> گئی۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first honorable Chief Justice of Pakistan?",
-      "urdu": "پاکستان کے پہلے معزز چیف جسٹس کون تھے؟",
-      "options": [
-        "Justice Abdul Rashid",
-        "Justice Muhammad Munir",
-        "Justice Muhammad Shahabuddin",
-        "Justice A.R. Cornelius"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A 3-digit number is reversed, and the new number is 297 greater than the original. The sum of the first and third digits is 7. What is the product of the first and third digits?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the 3-digit number be abc = 100a + 10b + c  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which testing does NOT affect or “hurt” previous coding, design, and other elements of a software?",
-      "urdu": "کون سا ٹیسٹنگ پہلے سے موجود کوڈ، ڈیزائن یا سافٹ ویئر کے دوسرے حصوں کو متاثر نہیں کرتا؟",
-      "options": [
-        "Regression Testing",
-        "Unit Testing",
-        "Alpha Testing",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Rectified spirit contains alcohol about?",
-      "urdu": "ریکٹیفائیڈ اسپرٹ میں الکوحل کی مقدار تقریباً کتنی ہوتی ہے؟)",
-      "options": [
-        "95%",
-        "90%",
-        "85%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Tourmaline is classified as a semi-precious stone and the gemstone can be found in?",
-      "urdu": "ٹورمالین ایک نیم قیمتی پتھر ہے، یہ کہاں پایا جاتا ہے؟",
-      "options": [
-        "Gilgit",
-        "Swat",
-        "Chitral",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "201 × 199 = ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "40000",
-        "39999",
-        "39801",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 0.875rem;\"><b><font color=\"#0000ff\">Use identity: (a + 1)(a - 1) = a² - 1  </font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A drowning man catches _______ a straw.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Up",
-        "At",
-        "On",
-        "Over"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Wazir Khan Mosque is located in?",
-      "urdu": "وزیر خان مسجد کہاں واقع ہے؟",
-      "options": [
-        "Islamabad",
-        "Lahore",
-        "Karachi",
-        "Quetta"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ٹسوے بہانا محاورہ ہے۔ اس کا مفہوم کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "جھوٹ موٹ کا رونا",
-        "پانی بہانا",
-        "پھوٹ پھوٹ کر رونا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which sorting algorithm is the fastest in the average case?",
-      "urdu": "اوسط معاملے میں کون سا چھنٹائی الگورتھم سب سے تیز ہے؟",
-      "options": [
-        "Quick Sort",
-        "Merge Sort",
-        "Bubble Sort",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first Foreign Minister of Pakistan?",
-      "urdu": "پاکستان کے پہلے وزیرِ خارجہ کون تھے؟",
-      "options": [
+        "Allama Iqbal",
         "Liaquat Ali Khan",
-        "Quaid-e-Azam",
-        "Muhammad Ali",
-        "Zafarullah Khan"
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "What does CPU stand for?",
+      "urdu": "",
+      "options": [
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
+      ],
+      "correct": 0,
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
+    },
+    {
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</b></font></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "The Prophet Muhammad ﷺ gave the armor named “Al-Bayda” obtained in the Battle of Badr to whom?",
-      "urdu": "غزوہ بدر میں حاصل ہونے والا زرہ البیضاء نبی کریم ﷺ نے کس کو دیا؟",
-      "options": [
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Umar (RA)",
-        "Hazrat Sa’d bin Abi Waqqas (RA)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mazar-i-Sharif is an important city of which country?",
-      "urdu": "مزار شریف کس ملک کا اہم شہر ہے؟",
-      "options": [
-        "Afghanistan",
-        "Pakistan",
-        "Uzbekistan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "After the death of Hazrat Khadija, Prophet Muhammad (SAW) married?",
-      "urdu": "حضرت خدیجہؓ کی وفات کے بعد نبی کریم ﷺ نے کس سے نکاح کیا؟",
-      "options": [
-        "Sawdah bint Zam'ah (RA)",
-        "Hazrat Asma (RA)",
-        "Hazrat Aisha (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan Special Police was established under?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Pakistan Special Police Establishment Ordinance 1948 (V of 1948) ,",
-        "Pakistan Special Police Establishment Ordinance 1948, (VI of 1948) ,",
-        "Pakistan Special Police Establishment Ordinance 1948, (VII of 1948) ,",
-        "Pakistan Special Police Establishment Ordinance 1948, (IV of 1948) ,"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"Style\" style=\"margin-right:20.9pt;line-height:14.85pt;mso-line-height-rule: exactly\"><b style=\"font-size: 18px; font-family: Muli, sans-serif; text-align: justify; text-transform: uppercase;\">ORIGIN &amp; HISTORY</b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The jurisdiction of FIA is divided into which of the following zones?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "7",
-        "11",
-        "4",
-        "3"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in;background:#0070C0\"><b><span style=\"color:#F2F2F2;mso-themecolor:background1;mso-themeshade:242;mso-style-textfill-fill-color:\r\n#F2F2F2;mso-style-textfill-fill-themecolor:background1;mso-style-textfill-fill-alpha:\r\n100.0%;mso-style-textfill-fill-colortransforms:lumm=95000\">ADG North<o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Federal Investigation Agency was formed in which year?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1972",
-        "1974",
-        "1975",
-        "1978"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-weight: bold;\">FIA </span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\">stands for</span><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"> Federal Investigation Agency. </span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Director General of FIA Is assisted by how many Directors?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "13",
-        "11",
-        "25",
-        "12"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-weight: bold;\">The Director General of the FIA is assisted by </span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\">07 Additional Director-Generals</span><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"> and</span><span style=\"font-weight: bold; color: rgb(255, 0, 0);\"> 25 Directors</span><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"> for effective monitoring and smooth functioning of the operations spread all over the country.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Incident of Ifk (افک) is related to which wife of the Holy Prophet ﷺ?",
-      "urdu": "واقعہ افک نبی کریم ﷺ کی کس زوجہ سے متعلق ہے؟",
-      "options": [
-        "Hazrat Ayesha (RA)",
-        "Hazrat Khadija (RA)",
-        "Hazrat Hafsa (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Analogy: Incising : Spatula :: Lifting : ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Forceps",
-        "Scalpel",
-        "Blade",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the effect of data compression?",
-      "urdu": "ڈیٹا کمپریشن کا کیا اثر ہوتا ہے؟",
-      "options": [
-        "Deletes data permanently",
-        "Increases file size",
-        "Decreases file size",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is NOT a characteristic of cloud computing? On-demand self-service, Broad network access, Resource pooling, Manual data processing",
-      "urdu": "مندرجہ ذیل میں سے کون سا کلاؤڈ کمپیوٹنگ کی خصوصیت نہیں ہے؟",
-      "options": [
-        "On-demand self-service",
-        "Broad network access",
-        "Resource pooling",
-        "Manual data processing"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a Database table, a single row will be called?",
-      "urdu": "ڈیٹا بیس ٹیبل میں ایک مکمل قطار کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Field",
-        "Record",
-        "Data type",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which testing method is used for combining old and new systems?",
-      "urdu": "پرانے اور نئے سسٹم کو یکجا کرنے کے لیے کون سا ٹیسٹنگ طریقہ استعمال ہوتا ہے؟",
-      "options": [
-        "Unit Testing",
-        "Integration Testing",
-        "System Testing",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Turing Test?",
-      "urdu": "ٹورنگ ٹیسٹ کیا ہے؟",
-      "options": [
-        "A test to determine if a machine can show human-like intelligence",
-        "A test to measure computer speed",
-        "A test to check internet security",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which protocol deals with resolving domain names?",
-      "urdu": "کون سا پروٹوکول ڈومین ناموں کو حل کرنے کا کام کرتا ہے؟",
-      "options": [
-        "HTTP",
-        "FTP",
-        "DNS",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Characteristic of hydrophytes is?",
-      "urdu": "آبی پودوں کی خصوصیت کیا ہے؟",
-      "options": [
-        "Stem with sclerenchyma",
-        "Poorly developed roots",
-        "Well developed roots",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The audible range of normal human ear is ____?",
-      "urdu": "عام انسانی کان کی سننے کی حد کتنی ہوتی ہے؟",
-      "options": [
-        "16 Hz to 20kHz",
-        "10 Hz to 31kHz",
-        "67 Hz to 45kHz",
-        "20 Hz to 20kHz"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following Planet has the smallest diameter?",
-      "urdu": "مندرجہ ذیل میں سے کس سیارے کا قطر سب سے چھوٹا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
         "Venus",
-        "Earth",
-        "Mercury",
-        "Mars"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 23-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Aral Sea is located between which two countries that share its waters?",
-      "urdu": "بحیرہ ارال کن دو ممالک کے درمیان واقع ہے جو اس کے پانیوں میں شریک ہیں؟",
-      "options": [
-        "Uzbekistan and Kazakhstan",
-        "Kyrgyzstan and Tajikistan",
-        "Turkmenistan and Azerbaijan",
-        "Iran and Turkmenistan"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Main rivers feeding it:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who discovered the circulation of blood?",
-      "urdu": "خون کی گردش کو کس نے دریافت کیا؟",
-      "options": [
-        "Parker",
-        "William Harvey",
-        "Mendel",
-        "Newton"
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan joined Non-Aligned Movement (NAM) in which year?",
-      "urdu": "پاکستان نے غیر جانبدار تحریک میں کس سال شمولیت اختیار کی؟",
-      "options": [
-        "1980",
-        "1989",
-        "1979",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was Indus Water Treaty signed?",
-      "urdu": "سندھ طاس معاہدے پر کب دستخط ہوئے؟",
-      "options": [
-        "September 19, 1950",
-        "September 19, 1960",
-        "September 19, 1965",
-        "September 19, 1973"
-      ],
-      "correct": 1,
-      "explanation": "<p data-end=\"248\" data-start=\"0\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When First martial law was imposed in Pakistan?",
-      "urdu": "پاکستان میں پہلا مارشل لاء کب لگا؟",
-      "options": [
-        "October 7 1958",
-        "October 7 1959",
-        "October 7 1960",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the term for the Governor of state bank of Pakistan?",
-      "urdu": "اسٹیٹ بینک آف پاکستان کے گورنر کی مدت کیا ہوتی ہے؟",
-      "options": [
-        "5 years",
-        "4 years",
-        "3 years",
-        "2 years"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><span style=\"font-weight: bolder;\"><br/></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the minimum age of Senator under 1973 Constitution?",
-      "urdu": "سن 1973 کے آئین کے تحت سینیٹر کی کم از کم عمر کیا ہے؟",
-      "options": [
-        "30 years",
-        "25 years",
-        "35 years",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "BRICS Plus naval exercise is mainly concerned with?",
-      "urdu": "برکس پلس بحری مشقیں بنیادی طور پر کس سے متعلق ہیں؟",
-      "options": [
-        "Arctic exploration",
-        "Red Sea/Houthi attacks & maritime security threats",
-        "Space warfare",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The idiom “Left out in the cold” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Feeling cold in winter",
-        "Ignored or excluded",
-        "Going outside at night",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The idiom “One hand washes the other” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "One person always wins",
-        "Mutual help or cooperation",
-        "Washing hands properly",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change into indirect speech:  Father said, “Don’t play in the rain.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Father told that don’t play in the rain.",
-        "Father told not to play in the rain.",
-        "Father said that don’t play in the rain.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He ______ not like spicy food.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Do",
-        "Does",
-        "Did",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The master was annoyed _____ servant.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "With",
-        "For",
-        "On",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Heal is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Recover",
-        "Wound",
-        "Injure",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Eclat is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Glory",
-        "Success",
-        "Obscurity",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Lissome is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Slow",
-        "Honest",
-        "Supple",
-        "Dull"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Solve the equation: 2x² + 5x − 12 = 0. Find the value of x?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "x = 2, x = −3",
-        "x = −2, x = 3",
-        "x = 3/2, x = −4",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">2x² + 5x − 12 = 0</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city in Punjab, Pakistan, is renowned for beautiful camel skin art, handicrafts, and glazed pottery?",
-      "urdu": "پاکستان کے پنجاب میں کون سا شہر اونٹ کی کھال کے فن، دستکاری اور چمکدار مٹی کے برتنوں کے لیے مشہور ہے؟",
-      "options": [
-        "Quetta",
-        "Karachi",
-        "Sukkur",
-        "Multan"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
