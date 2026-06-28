@@ -3,22 +3,22 @@
     "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-27T05:55:23.499658",
+    "fetched_at": "2026-06-28T06:21:03.146992",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "correct": 2,
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
       "q": "What is the largest ocean on Earth?",
@@ -60,17 +60,17 @@
       "category": "pak-study"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "correct": 1,
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
