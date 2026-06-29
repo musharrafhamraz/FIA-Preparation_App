@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-06-28T06:21:03.146992",
+    "fetched_at": "2026-06-29T06:51:30.013984",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "The atmospheric pressure at any place is measured by _____?",
+      "urdu": "کسی بھی جگہ پر ہوا کا دباؤ _____ سے ماپا جاتا ہے؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Altimeter",
+        "Pressure Meter",
+        "Barometer",
+        "None of the above"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-03-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
-      ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "The National Anthem of Pakistan is written by?",
+      "urdu": "پاکستان کا قومی ترانہ کس نے لکھا ہے؟",
       "options": [
         "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "Quaid-e-Azam",
+        "Chaudry Rehmat Ali",
+        "Hafiz Jalandhri"
       ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\" style=\"line-height:150%\"><b><span \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"></span></b></p>",
+      "category": "all"
     },
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "The speed of light is ________?",
+      "urdu": "روشنی کی رفتار ____ ہے؟",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "280,000 km/s",
+        "300,000 km/s",
+        "320,000 km/s",
+        "None of the above"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Largest Desert of Pakistan is?",
+      "urdu": "پاکستان کا سب سے بڑا صحرا کونسا ہے؟",
+      "options": [
+        "Thall Desert",
+        "Thar Desert",
+        "Cholistan Desert",
+        "Kharan Desert"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pakistan hosts </font><font color=\"#ff0000\">five major deserts</font><font color=\"#0000ff\"> which were historic forests:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym Scarce is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Mediocre",
+        "Abundant",
+        "Plentiful",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most abundant gase in the earth's atmosphere by volume is _____?",
+      "urdu": "زمین کے ماحول میں حجم کے لحاظ سے سب سے زیادہ پائی جانے والی گیس کون سی ہے؟",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following longitudes is the standard meridian of Pakistan?",
+      "urdu": "پاکستان کا معیاری نصف النہار کون سا طول البلد ہے؟",
+      "options": [
+        "60° E",
+        "70° E",
+        "75° E",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence: He is working here since five years., He has been working here since five years., He has been working here for five years., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He is working here since five years.",
+        "He has been working here since five years.",
+        "He has been working here for five years.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The SI Unit of Capacitance of capacitor is called?",
+      "urdu": "کیپیسٹر کی گنجائش کی ایس آئی اکائی کیا کہلاتی ہے؟",
+      "options": [
+        "Ampere",
+        "Newton",
+        "Farad",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Additional information:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In June 2026, successful diplomatic talks between the United States and which country were held in Switzerland?",
+      "urdu": "جون 2026 میں سوئٹزرلینڈ میں امریکہ اور کس ملک کے درمیان کامیاب سفارتی مذاکرات ہوئے؟",
+      "options": [
+        "Israel",
+        "Iran",
+        "Russia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Islamabad Memorandum of Understanding (MOU) </font><font color=\"#0000ff\">signed between the </font><span style=\"background-color: rgb(255, 255, 0);\">US and Iran</span><font color=\"#0000ff\"> on </font>June 17, 2026<font color=\"#0000ff\">, established a </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">60-day </font><font color=\"#0000ff\">timeframe.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which terrorist group attacked Karachi Rangers Camp on 27 June 2026?",
+      "urdu": "ستائیس جون 2026 کو کراچی رینجرز کیمپ پر کس دہشت گرد گروپ نے حملہ کیا؟",
+      "options": [
+        "Lashkar-e-Jhangvi",
+        "Jaish-e-Muhammad",
+        "Jamaat-ul-Ahrar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The\r\nterrorist group </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Jamaat-ul-Ahrar</font><font color=\"#0000ff\">, a militant faction of the Tehreek-e-Taliban\r\nPakistan (</font><font color=\"#ff0000\">TTP</font><font color=\"#0000ff\">), claimed responsibility for the attack on the Pakistan Rangers\r\ncamp in </font>Karachi<font color=\"#0000ff\">'s Gulistan-i-Jauhar area on </font>June 27, 2026<font color=\"#0000ff\">.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which South American country in 2026 experienced powerful earthquakes of magnitudes 7.2 and 7.5, considering one of the most intense in a century?",
+      "urdu": "دو ہزار چھبیس میں کس جنوبی امریکی ملک نے سات پوائنٹ دو اور سات پوائنٹ پانچ کی شدت کے طاقتور زلزلوں کا تجربہ کیا، جو کہ ایک صدی کے سب سے شدید زلزلوں میں سے ایک ہے؟",
+      "options": [
+        "Chile",
+        "Ecuador",
+        "Venezuela",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Lionel Messi has become the highest goal scorer in FIFA world cup. Which team does he play for?",
+      "urdu": "لیونل میسی فیفا ورلڈ کپ میں سب سے زیادہ گول کرنے والے کھلاڑی بن گئے ہیں۔ وہ کس ٹیم کے لیے کھیلتا ہے؟",
+      "options": [
+        "Portugal",
+        "Argentina",
+        "Germany",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Lionel Messi</font><font color=\"#0000ff\"> scored the first World Cup hat-trick of his career against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Algeria</font><font color=\"#0000ff\"> during Argentina's opening match of the 2026 FIFA World Cup.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was the 2025 Gaza peace summit held?",
+      "urdu": "دو ہزار پچیس  غزہ امن اجلاس کہاں منعقد ہوا تھا؟",
+      "options": [
+        "Palestine",
+        "Egypt",
+        "Saudi Arabia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The\r\n</font><font color=\"#ff0000\">2025 Gaza Peace Summit</font><font color=\"#0000ff\"> (also known as the Sharm El-Sheikh Peace Summit) was\r\nheld in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Sharm El Sheikh, Egypt.</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the current Federal Minister of Petroleum Division?",
+      "urdu": "موجودہ وفاقی وزیر پیٹرولیم ڈویژن کون ہے؟",
+      "options": [
+        "Ali Pervaiz Malik",
+        "Musadik Masood Malik",
+        "Abdul Razzaq Dawood",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><font color=\"#0000ff\" style=\"font-weight: bold;\">The current </font><b style=\"\"><font color=\"#0000ff\">Federal Minister of </font><font color=\"#ff0000\">Petroleum </font><font color=\"#0000ff\">Division is </font></b></span><b style=\"\"><font color=\"#ff0000\">Ali Pervaiz Malik.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Prime Minister Shehbaz Sharif addressed the passing-out ceremony at which institution on 27 June 2026?",
+      "urdu": "وزیر اعظم شہباز شریف نے 27 جون 2026 کو کس ادارے میں پاسنگ آؤٹ تقریب سے خطاب کیا؟",
+      "options": [
+        "Pakistan Military Academy",
+        "Pakistan Naval Academy",
+        "National Defence University",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Prime\r\nMinister Muhammad Shehbaz Sharif attended the passing out ceremony of <span style=\"background-color: rgb(255, 255, 0);\">125th\r\n</span>Midshipmen and 33rd SSC courses at </font>Pakistan Naval Academy<font color=\"#0000ff\">, PNS Rahbar in Karachi on 27 June 2026.</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which party formed government in Gilgit-Baltistan after winning the most seats in the June 2026 elections?",
+      "urdu": "جون 2026 کے انتخابات میں سب سے زیادہ سیٹیں جیت کر گلگت بلتستان میں کس پارٹی نے حکومت بنائی؟",
+      "options": [
+        "Pakistan Peoples Party (PPP)",
+        "Pakistan Muslim League (Nawaz)",
+        "Pakistan Tehreek-e-Insaf (PTI)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">The party that won the most seats in the <span style=\"background-color: rgb(255, 255, 0);\">2026 Gilgit-Baltistan Assembly</span> election was the Pakistan Peoples Party (</font><font color=\"#ff0000\">PPP</font><font color=\"#0000ff\">).<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Prime Minister of which country Keir Starmer  resigned from his post in 2026?",
+      "urdu": "کس ملک کے وزیر اعظم کیر اسٹارمر نے 2026 میں اپنے عہدے سے استعفیٰ دیا تھا؟",
+      "options": [
+        "Mexico",
+        "Denmark",
+        "England",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On 22 June 2026, </font><font color=\"#ff0000\">Keir Starmer</font><font color=\"#0000ff\"> announced that he would resign as both </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Prime Minister of the United Kingdom </font><font color=\"#0000ff\">and leader of the Labour Party, less than two years after leading Labour to a landslide election victory in </font>2024<font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which edition of Women’s T20 World Cup being held in 2026?",
+      "urdu": "دو ہزار چھبیس میں ویمنز ٹی ٹوئنٹی ورلڈ کپ کا کون سا ایڈیشن منعقد ہو رہا ہے؟",
+      "options": [
+        "10th",
+        "11th",
+        "12th",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Additional Information about Women’s T20 World Cup 2026<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many total countries are included in the Global Peace Index 2026?",
+      "urdu": "گلوبل پیس انڈیکس 2026 میں کل کتنے ممالک شامل ہیں؟",
+      "options": [
+        "161",
+        "162",
+        "163",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the </font><font color=\"#ff00ff\">2026 Global Peace Index</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the most peaceful country in the world according to the Global Peace Index 2026?",
+      "urdu": "گلوبل پیس انڈیکس 2026 کے مطابق دنیا کا سب سے پرامن ملک کون سا ہے؟",
+      "options": [
+        "Iceland",
+        "Norway",
+        "Denmark",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the </font><font color=\"#ff00ff\">2026 Global Peace Index</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which castle of Lebanon was captured by Israel in 2026?",
+      "urdu": "اسرائیل نے 2026 میں لبنان کے کس قلعے پر قبضہ کیا تھا؟",
+      "options": [
+        "Byblos Castle",
+        "Beirut Castle",
+        "Beaufort Castle",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Israel\r\n</font><font color=\"#0000ff\">captured </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Beaufort </font><font color=\"#0000ff\">Castle, a 12th-century medieval fortress in southern </font>Lebanon <font color=\"#0000ff\">in 2026.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "International Cricket Council (ICC) suspended membership of which country's cricket board in 2026?",
+      "urdu": "انٹرنیشنل کرکٹ کونسل  نے 2026 میں کس ملک کے کرکٹ بورڈ کی رکنیت معطل کر دی؟",
+      "options": [
+        "Germany",
+        "Canada",
+        "Japan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The\r\nInternational Cricket Council (</font><font color=\"#ff0000\">ICC</font><font color=\"#0000ff\">) suspended Cricket </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Canada </font><font color=\"#0000ff\">with immediate effect on\r\n</font>1 June 2026<font color=\"#0000ff\"> after finding what it called “serious breaches of its membership\r\nobligations.”<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "On which date was the Israel–Lebanon Framework Agreement signed?",
+      "urdu": "اسرائیل-لبنان فریم ورک معاہدے پر کس تاریخ کو دستخط ہوئے؟",
+      "options": [
+        "18 June 2026",
+        "26 June 2026",
+        "12 June 2026",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Israel </span>and </font><font color=\"#ff0000\">Lebanon </font><font color=\"#0000ff\">signed a framework agreement in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Washington</font><font color=\"#0000ff\">, USA on </font>26 June 2026.<o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who develop the idea for universal turing machines which become the basis for the first computer?",
+      "urdu": "یونیورسل ٹیورنگ مشینوں کا خیال کون تیار کرتا ہے جو پہلے کمپیوٹر کی بنیاد بنتی ہے؟",
+      "options": [
+        "Bill gates",
+        "Alan Turing",
+        "Babbage",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Against which country did Lionel Messi score the goals to become the all- time leading scorer in men's FIFA World Cup history during the 2026 edition?",
+      "urdu": "لیونل میسی نے 2026 کے ایڈیشن کے دوران مردوں کے فیفا ورلڈ کپ کی تاریخ میں سب سے زیادہ گول کرنے والے کس ملک کے خلاف گول کیے؟",
+      "options": [
+        "France",
+        "Mexico",
+        "Algeria",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Lionel Messi</font><font color=\"#0000ff\"> scored the first World Cup hat-trick of his career against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Algeria</font><font color=\"#0000ff\"> during Argentina's opening match of the 2026 FIFA World Cup.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which country has emergency been declared in June 2026 after devastating earthquakes?",
+      "urdu": "جون 2026 میں تباہ کن زلزلوں کے بعد کس ملک میں ایمرجنسی کا اعلان کیا گیا؟",
+      "options": [
+        "Congo",
+        "Nepal",
+        "Venezuela",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On </font><font color=\"#ff0000\">24 June  2026</font><font color=\"#0000ff\">, northern </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Venezuela </font><font color=\"#0000ff\">was struck by catastrophic back-to-back twin earthquakes measuring magnitudes of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">7.2 and 7.5,</font><font color=\"#0000ff\"> marking the country's most powerful seismic event in over a century.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which edition of United Nations International Day in Support of Victims of Torture observed in 2026?",
+      "urdu": "دو ہزار چھبیس میں تشدد کے متاثرین کی حمایت میں اقوام متحدہ کے بین الاقوامی دن کا کون سا ایڈیشن منایا گیا؟",
+      "options": [
+        "29th",
+        "28th",
+        "27th",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#ff0000\">International Day in Support of Victims of Torture</font><font color=\"#0000ff\"> is observed annually across the globe on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">26 June</font><font color=\"#0000ff\"> to raise global awareness about the absolute prohibition of torture, support victims and survivors.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "On what date the International Day in Support of Victims of Torture is observed?",
+      "urdu": "تشدد کے متاثرین کی حمایت کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
+      "options": [
+        "June 25",
+        "June 26",
+        "June 27",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">International Day in\r\nSupport of Victims of Torture</font><font color=\"#0000ff\"> is observed annually across the globe on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">26 June</font><font color=\"#0000ff\">\r\nto raise global awareness about the absolute prohibition of torture, support\r\nvictims and survivors.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "International Day Against Drug Abuse and Illicit Trafficking is observed on which date?",
+      "urdu": "بین الاقوامی یومِ انسداد منشیات و غیر قانونی اسمگلنگ کب منایا جاتا ہے؟",
+      "options": [
+        "June 29",
+        "June 26",
+        "June 23",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><b style=\"\"><span lang=\"EN-US\" style=\"font-size: 12pt;\"><font color=\"#ff0000\">Theme\r\n</font><span style=\"background-color: rgb(255, 255, 0);\">2026</span><font color=\"#ff0000\">: World Drug Problem: Persisting Issues, New Challenges, Innovative\r\nResponses<o:p></o:p></font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In June 2026, Pakistan helped the US reach an agreement with which country?",
+      "urdu": "جون 2026 میں پاکستان نے امریکہ کو کس ملک کے ساتھ معاہدہ کرنے میں مدد کی؟",
+      "options": [
+        "China",
+        "Russia",
+        "Iran",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Islamabad Memorandum of Understanding (MOU) </font><font color=\"#0000ff\">signed between the </font><span style=\"background-color: rgb(255, 255, 0);\">US and Iran</span><font color=\"#0000ff\"> on </font>June 17, 2026<font color=\"#0000ff\">, established a </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">60-day </font><font color=\"#0000ff\">timeframe.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country brokered Israel–Lebanon Framework Agreement in June 2026?",
+      "urdu": "جون 2026 میں کس ملک نے اسرائیل-لبنان فریم ورک معاہدے میں ثالثی کی؟",
+      "options": [
+        "Pakistan",
+        "USA",
+        "France",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Israel </span>and </font><font color=\"#ff0000\">Lebanon </font><font color=\"#0000ff\">signed a framework agreement in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Washington</font><font color=\"#0000ff\">, USA on </font>26 June 2026.<o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In June 2026, Israel and Lebanon signed a trilateral framework agreement. In which city was this pact officially signed?",
+      "urdu": "جون 2026 میں اسرائیل اور لبنان نے سہ فریقی فریم ورک معاہدے پر دستخط کیے تھے۔ یہ معاہدہ سرکاری طور پر کس شہر میں ہوا؟",
+      "options": [
+        "Beirut",
+        "Jerusalem",
+        "Washington",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Israel </span>and </font><font color=\"#ff0000\">Lebanon </font><font color=\"#0000ff\">signed a framework agreement in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Washington</font><font color=\"#0000ff\">, USA on </font>26 June 2026.<o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which international administration mediated and hosted the June 2026 Israel-Lebanon framework agreement?",
+      "urdu": "کونسی بین الاقوامی انتظامیہ نے ثالثی کی اور جون 2026 کے اسرائیل-لبنان فریم ورک معاہدے کی میزبانی کی؟",
+      "options": [
+        "The Biden administration",
+        "The Trump administration",
+        "The Macron administration",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Israel\r\n</span>and </font><font color=\"#ff0000\">Lebanon </font><font color=\"#0000ff\">signed a framework agreement in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Washington</font><font color=\"#0000ff\">, USA on </font>26 June 2026.<o:p></o:p></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When is International Day of Women in Diplomacy celebrated?",
+      "urdu": "ڈپلومیسی میں خواتین کا عالمی دن کب منایا جاتا ہے؟",
+      "options": [
+        "June 24",
+        "June 25",
+        "June 26",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">International\r\nDay of Women in Diplomacy </font><font color=\"#0000ff\">is celebrated every year on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">June 24th. </font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In June 2026, devastating earthquake of magnitudes of 7.2 and 7.5 struck the mainland of which South American country?",
+      "urdu": "جون 2026 میں، سات اعشاریہ دو اور سات اعشاریہ پانچ کی شدت کا تباہ کن زلزلہ کس جنوبی امریکی ملک کی سرزمین پر آیا؟",
+      "options": [
+        "Brazil",
+        "Colombia",
+        "Venezuela",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On </font><font color=\"#ff0000\">24 June  2026</font><font color=\"#0000ff\">, northern </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Venezuela </font><font color=\"#0000ff\">was struck by catastrophic back-to-back twin earthquakes measuring magnitudes of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">7.2 and 7.5,</font><font color=\"#0000ff\"> marking the country's most powerful seismic event in over a century.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Default name of a newly created MS Powerpoint File is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Document 1",
+        "Book1",
+        "Presentation1",
+        "All of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"background:#002060\"><b><span style=\"color:white;\r\nmso-themecolor:background1\">Important Information about MS Powerpoint<o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Default name of a newly created MS Excel File is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Book1",
+        "Document 1",
+        "File 1",
+        "All of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"background:#002060\"><b><span style=\"color:white;\r\nmso-themecolor:background1\">Important Information about MS Excel<o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Default name of a newly created MS Word File is?",
+      "urdu": "نئی بنائی گئی ایم ایس ورڈ فائل کا ڈیفالٹ نام کیا ہے؟",
+      "options": [
+        "Document 1",
+        "Untitled 1",
+        "File 1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"margin-top:0in;margin-right:0in;margin-bottom:0in;margin-left:.25in;\r\nmargin-bottom:.0001pt;text-align:justify;background:#002060\"><span style='font-size:10.5pt;font-family:\"Arial\",sans-serif;color:white;mso-themecolor:\r\nbackground1'>Important Information about MS Word<o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Ukraine Recovery Conference in 2026 held in which country?",
+      "urdu": "دو ہزار چھبیس میں یوکرین ریکوری کانفرنس کس ملک میں منعقد ہوئی؟",
+      "options": [
+        "Ukraine",
+        "Poland",
+        "Russia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">The</font><font color=\"#ff0000\"> Ukraine Recovery Conference 2026 </font><font color=\"#0000ff\">(URC 2026) is a major international event focused on rebuilding </font>Ukraine <font color=\"#0000ff\">and supporting its economy during and after the war with Russia.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which type of machine learning uses labeled data?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Unsupervised Learning",
+        "Deep Learning",
+        "Supervised Learning",
+        "Reinforcement Learning"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Supervised\r\nlearning trains models using labeled input-output pairs.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does 'AI' stand for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Adaptive Interface",
+        "Augmented Information",
+        "Artificial Intelligence",
+        "Automated Intelligence"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">AI stands\r\nfor Artificial Intelligence, the simulation of human intelligence by machines.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is widely regarded as the 'Father of Artificial Intelligence'?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "John McCarthy",
+        "Marvin Minsky",
+        "Geoffrey Hinton",
+        "Alan Turing"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">John\r\nMcCarthy coined the term 'Artificial Intelligence' in 1956 at the Dartmouth\r\nConference.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Turing Test is used to evaluate a machine's ability to:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Translate languages",
+        "Compute fast",
+        "Exhibit human-like intelligence",
+        "Store data"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">The Turing\r\nTest measures whether a machine can exhibit behavior indistinguishable from a\r\nhuman.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an example of Narrow AI?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Artificial General Intelligence",
+        "A spam email filter",
+        "A self-aware robot",
+        "A conscious machine"
+      ],
+      "correct": 1,
+      "explanation": "<p><i><span style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\nmso-fareast-font-family:Arial;color:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:\r\nEN-US;mso-bidi-language:AR-SA'>Narrow AI performs a single specific task, like\r\nfiltering spam emails.</span></i></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which programming language is most commonly used in AI development?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Python",
+        "Assembly",
+        "COBOL",
+        "HTML"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Python is\r\nthe most popular AI language due to libraries like TensorFlow and PyTorch.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a 'neuron' in an artificial neural network?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A database",
+        "A type of CPU",
+        "A basic computational unit",
+        "A storage device"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">An\r\nartificial neuron is the basic computational unit that processes weighted\r\ninputs.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of these is NOT a category of machine learning?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Supervised",
+        "Unsupervised",
+        "Descriptive",
+        "Reinforcement"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">The three\r\nmain categories are supervised, unsupervised, and reinforcement learning.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does 'ML' stand for in AI?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Machine Language",
+        "Manual Learning",
+        "Machine Learning",
+        "Multi Logic"
+      ],
+      "correct": 2,
+      "explanation": "<p><i><span style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";mso-fareast-font-family:Arial;color:#0070C0;\r\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'>ML\r\nstands for Machine Learning, a subset of AI that learns from data.</span></i></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which AI system defeated the world chess champion Garry Kasparov in 1997?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Deep Blue",
+        "AlphaGo",
+        "Watson",
+        "ChatGPT"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">IBM's Deep\r\nBlue defeated Garry Kasparov in chess in 1997.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
     }
   ]
 }
