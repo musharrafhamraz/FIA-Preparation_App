@@ -3,6 +3,7 @@ import 'package:google_fonts/google_fonts.dart';
 import '../models/quiz_category.dart';
 import '../models/question.dart';
 import '../services/quiz_service.dart';
+import '../services/notification_service.dart';
 import '../theme/app_theme.dart';
 import 'quiz_screen.dart';
 
@@ -345,6 +346,8 @@ class _HomeScreenState extends State<HomeScreen> {
           const SizedBox(height: 24),
           _buildSettingsCard(),
           const SizedBox(height: 16),
+          _buildNotificationCard(),
+          const SizedBox(height: 16),
           _buildCategoryCard(),
           const SizedBox(height: 16),
           SizedBox(
@@ -575,6 +578,135 @@ class _HomeScreenState extends State<HomeScreen> {
             color: isSelected ? AppTheme.bg : AppTheme.muted,
             fontWeight: isSelected ? FontWeight.w600 : FontWeight.normal,
           ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildNotificationCard() {
+    return Card(
+      child: Padding(
+        padding: const EdgeInsets.all(24),
+        child: Column(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Row(
+              children: [
+                Text(
+                  'DAILY REMINDERS ',
+                  style: GoogleFonts.syne(
+                    fontSize: 12,
+                    fontWeight: FontWeight.w700,
+                    color: AppTheme.muted,
+                    letterSpacing: 2,
+                  ),
+                ),
+                const SizedBox(width: 8),
+                Container(
+                  padding: const EdgeInsets.symmetric(
+                    horizontal: 6,
+                    vertical: 2,
+                  ),
+                  decoration: BoxDecoration(
+                    color: AppTheme.amber.withOpacity(0.1),
+                    borderRadius: BorderRadius.circular(4),
+                  ),
+                  child: const Text('🔔', style: TextStyle(fontSize: 12)),
+                ),
+              ],
+            ),
+            const SizedBox(height: 16),
+            Text(
+              'Get notified to take a quiz at these times:',
+              style: TextStyle(fontSize: 13, color: AppTheme.muted),
+            ),
+            const SizedBox(height: 12),
+            Wrap(
+              spacing: 8,
+              runSpacing: 8,
+              children: [
+                _buildTimeChip('🌅 6:00 AM', true),
+                _buildTimeChip('🕛 12:00 PM', true),
+                _buildTimeChip('🌆 6:00 PM', true),
+                _buildTimeChip('🌙 12:00 AM', true),
+              ],
+            ),
+            const SizedBox(height: 16),
+            Row(
+              children: [
+                Expanded(
+                  child: OutlinedButton.icon(
+                    onPressed: () async {
+                      await NotificationService.scheduleReminders();
+                      if (mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('✅ Reminders scheduled!'),
+                            backgroundColor: AppTheme.green,
+                          ),
+                        );
+                      }
+                    },
+                    icon: const Text('🔔'),
+                    label: const Text('Enable'),
+                  ),
+                ),
+                const SizedBox(width: 10),
+                Expanded(
+                  child: OutlinedButton.icon(
+                    onPressed: () async {
+                      await NotificationService.cancelAllReminders();
+                      if (mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('🔕 Reminders disabled'),
+                            backgroundColor: AppTheme.muted,
+                          ),
+                        );
+                      }
+                    },
+                    icon: const Text('🔕'),
+                    label: const Text('Disable'),
+                  ),
+                ),
+              ],
+            ),
+            const SizedBox(height: 10),
+            OutlinedButton.icon(
+              onPressed: () async {
+                await NotificationService.showTestNotification();
+                if (mounted) {
+                  ScaffoldMessenger.of(context).showSnackBar(
+                    const SnackBar(content: Text('📨 Test notification sent!')),
+                  );
+                }
+              },
+              icon: const Text('📨'),
+              label: const Text('Test Notification'),
+              style: OutlinedButton.styleFrom(
+                minimumSize: const Size.fromHeight(44),
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildTimeChip(String label, bool isActive) {
+    return Container(
+      padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+      decoration: BoxDecoration(
+        color: isActive ? AppTheme.accent.withOpacity(0.1) : AppTheme.surface2,
+        border: Border.all(color: isActive ? AppTheme.accent : AppTheme.border),
+        borderRadius: BorderRadius.circular(20),
+      ),
+      child: Text(
+        label,
+        style: TextStyle(
+          fontSize: 12,
+          color: isActive ? AppTheme.accent : AppTheme.muted,
+          fontWeight: FontWeight.w500,
         ),
       ),
     );
