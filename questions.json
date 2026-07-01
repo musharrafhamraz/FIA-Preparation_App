@@ -3,658 +3,658 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-01T06:35:54.798519",
+    "fetched_at": "2026-07-01T20:45:00.480063",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The Organisation of Islamic Cooperation (OIC) 2024 Summit was hosted by which country?",
-      "urdu": "آرگنائزیشن آف اسلامک کوآپریشن  کا دو ہزار چوبیس کا سربراہی اجلاس کس ملک نے میزبانی کی؟",
+      "q": "Which statement is most accurate about AI-generated deepfake media",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Saudi Arabia",
-        "Pakistan",
-        "Gambia",
-        "Turkey"
+        "It is always harmless",
+        "It can be used for impersonation, fraud ,and misinformation",
+        "It is always easy to detect",
+        "It cannot affect investigations"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Deepfakes are a serious generative AI risk in cybercrime and\r\ninvestigations.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In AI-assisted investigations, what does “auditability” mean?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "AI works without logs",
+        "The AI process can be reviewed and traced",
+        "The system deletes outputs",
+        "The model hides its reasoning"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Auditability means decisions and processing steps can be examined later</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the best practice when using AI-generated summaries of seized documents?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Accept them without checking",
+        "Compare summaries with original documents",
+        "Delete original documents",
+        "Use summaries as final evidence"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>AI summaries can miss or distort details, so originals must be checked.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why should sensitive case details not be entered into public AI tools?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "AI cannot read them",
+        "They may create privacy and confidentiality risks",
+        "They improve battery life",
+        "They make prompts shorter"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Confidential data should be protected from unauthorized exposure.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is an adversarial prompt?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A normal polite request",
+        "A prompt designed to mislead or manipulate the AI system",
+        "A summary request",
+        "A translation task"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Adversarial prompts are crafted to exploit weaknesses in AI behavior.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which LLM setting is most suitable for consistent factual answers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "High temperature",
+        "Low temperature",
+        "Random temperature",
+        "Maximum creativity mode"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Lower temperature makes outputs more focused and less random.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the biggest danger of using generative AI to create synthetic evidence?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "It uses more RAM",
+        "It can mislead investigations and courts",
+        "It improves accuracy",
+        "It reduces file size"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Synthetic evidence can damage fairness, legality, and truth-finding.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which method best reduces hallucination in an LLM used for official work?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Higher temperature",
+        "Grounding answers in verified documents",
+        "Asking vague questions",
+        "Removing all context"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Verified sources and document grounding reduce unsupported AI claims.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why is human-in-the-loop oversight important in high-stakes AI use?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "It removes all errors automatically",
+        "It ensures human review and accountability",
+        "It makes AI slower only",
+        "It replaces legal procedures"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Human oversight helps prevent blind reliance on AI in sensitive decisions.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a jailbreak attempt in LLM usage?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Improving model speed",
+        "Trying to bypass safety rules or restrictions",
+        "Updating antivirus",
+        "Reducing file size"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Jailbreaks are attempts to make the model ignore its safety or policy\r\nconstraints</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which risk occurs when an LLM reveals sensitive information from its training or prompt data?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Data/privacy leakage",
+        "Tokenization",
+        "Image compression",
+        "Overclocking"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Privacy leakage happens when confidential or sensitive information is\r\nexposed.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the safest use of an LLM in FIA-style case analysis?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Replacing the investigator completely",
+        "Assisting with summarization while humans verify results",
+        "Creating evidence",
+        "Ignoring chain of custody"
+      ],
+      "correct": 1,
+      "explanation": "<p><span ar-sa\"=\"\" color:#0070c0;mso-ansi-language:en-us;mso-fareast-language:en-us;mso-bidi-language:=\"\" new=\"\" roman\",\"serif\";mso-fareast-font-family:\"times=\"\" roman\";=\"\" style=\"font-size:12.0pt;line-height:107%;\r\nfont-family:\" times=\"\">AI should support human investigators, not replace verification and\r\naccountability.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In an official investigation, why should LLM-generated legal references be verified?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "LLMs are always offline",
+        "LLMs may hallucinate fake citations",
+        "LLMs cannot read text",
+        "LLMs only process images"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLMs can produce convincing but false legal or factual references.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a prompt injection attack?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A hardware failure",
+        "An attempt to manipulate an AI model through malicious instructions",
+        "A type of image filter",
+        "A database error"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Prompt injection tries to override or manipulate the model’s intended\r\nbehavior.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed ChatGPT?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "OpenAI",
+        "Adobe",
+        "Intel",
+        "Samsung"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>ChatGPT is a conversational AI system developed by OpenAI.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed LLaMA?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Meta",
+        "OpenAI",
+        "Apple",
+        "Oracle"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLaMA is Meta’s family of language models.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed Gemini?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Amazon"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Gemini is Google’s AI model family.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed Claude?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Anthropic",
+        "Meta",
+        "IBM",
+        "Tesla"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Claude is Anthropic’s AI chatbot/model family.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the main purpose of an AI chatbot?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Natural language conversation",
+        "Disk partitioning",
+        "Hardware repair",
+        "Virus creation"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Chatbots use NLP/LLMs to interact with users in human language.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which use of LLMs is helpful for students?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Learning concepts with examples",
+        "Cheating in exams",
+        "Creating fake certificates",
+        "Spreading rumors"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLMs can support learning when used ethically.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is plagiarism risk in using Generative AI?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Copying AI-generated work without proper review or attribution",
+        "Cleaning data",
+        "Translating text",
+        "Compressing files"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>AI output should be used responsibly and according to rules.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which practice helps reduce hallucinations?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Asking vague questions",
+        "Requesting sources or using retrieved documents",
+        "Increasing randomness",
+        "Ignoring context"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Grounding answers in sources reduces unsupported claims.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why should AI-generated legal or official content be reviewed by a human?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "AI is always illegal",
+        "AI output may contain errors",
+        "AI cannot write text",
+        "AI deletes documents"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Human review is important for accuracy and accountability.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a limitation of LLMs?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "They can never make mistakes",
+        "They may generate outdated or incorrect information",
+        "They do not process text",
+        "They only work offline"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLMs can be wrong and may need verification.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a user prompt?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The instruction entered by the user",
+        "A hardware chip",
+        "A hidden database",
+        "A printer setting"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>The user prompt tells the AI what task to perform.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a system prompt usually used for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Setting model behavior or instructions",
+        "Opening a file",
+        "Installing software",
+        "Changing monitor color"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>A system prompt defines the overall behavior or role of the AI.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which task is an example of multimodal AI usage?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Reading an image and answering questions about it",
+        "Formatting a USB",
+        "Cooling a CPU",
+        "Deleting files"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Multimodal systems can understand both visual and textual information.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is multimodal AI?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "AI that processes only numbers",
+        "AI that processes text ,images, audio or video",
+        "AI without data",
+        "AI only for games"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Multimodal AI can work with more than one type of input.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is an example of few-shot prompting?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "“Translate this” only",
+        "Giving two translated examples before asking for a new translation",
+        "Closing the browser",
+        "Uploading no text"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Examples help the model follow the required pattern.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is few-shot prompting?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Providing a few examples in the prompt",
+        "Giving no prompt",
+        "Deleting examples",
+        "Using only images"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Few-shot prompting guides the model by showing sample inputs and outputs.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is zero-shot prompting",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Giving no task",
+        "Asking a model to perform a task without examples",
+        "Training with many examples",
+        "Removing tokens"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Zero-shot means the model performs a task without task-specific\r\nexamples.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is fine-tuning?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Further training a pre-trained model on specific data",
+        "Formatting a disk",
+        "Deleting prompts",
+        "Increasing screen size"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Fine-tuning adapts a model to a particular task or domain.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why is RAG useful?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "It reduces the need for verification",
+        "It improves factual grounding",
+        "It removes all errors",
+        "It replaces all humans"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>RAG helps the model answer using relevant retrieved information</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of RAG in LLM systems?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To delete files",
+        "To retrieve external knowledge for better answers",
+        "To slow down AI",
+        "To encrypt prompts"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Retrieval-Augmented Generation grounds responses in external documents.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Stable Diffusion is mainly used for:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Image generation",
+        "Password cracking",
+        "Spreadsheet formulas",
+        "Email routing"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Stable Diffusion is a generative AI model for creating images.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which model is mainly used for generating images from text prompts?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "DALL•E",
+        "Excel",
+        "MySQL",
+        "PowerPoint"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>DALL·E creates images from written descriptions.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a safe use of Generative AI?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Creating fake evidence",
+        "Drafting a study summary",
+        "Spreading misinformation",
+        "Making forged documents"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Generative AI should be used ethically and responsibly.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which information should generally NOT be entered into a public AI chatbot?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Public facts",
+        "General questions",
+        "Sensitive personal data",
+        "Exam topics"
       ],
       "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);\">Last updated by NS 19 April 2026</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;line-height:\r\n  normal\"><span style='font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  mso-fareast-font-family:\"Times New Roman\";color:#0070C0'>Private information\r\n  should be protected from unnecessary exposure.<o:p></o:p></span></p>",
       "category": "all"
     },
     {
-      "q": "Pakistan's Arshad Nadeem won gold medal in Olympics 2024 in Javelin Throw by achieving throw of how much meters?",
-      "urdu": "پاکستان کے ارشد ندیم نے اولمپکس 2024 میں جیولن تھرو میں کتنے میٹر کا تھرو حاصل کر کے گولڈ میڈل جیتا؟",
+      "q": "Which task is suitable for an LLM?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "90.97 meters",
-        "92.97 meters",
-        "91.97 meters",
-        "None of these"
+        "Summarizing emails",
+        "Washing clothes",
+        "Repairing hardware",
+        "Charging a phone"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLMs are useful for text-based tasks like summarization.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is tokenization?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Breaking text into smaller units",
+        "Translating speech",
+        "Printing images",
+        "Removing viruses"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLMs process text as tokens such as words or subwords.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a context window in an LLM?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Screen size",
+        "Amount of text the model can consider at once",
+        "Keyboard layout",
+        "Storage space"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Arshad Nadeem</font></span></p>",
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>The context window limits how much input and conversation the model can\r\nuse.</span></p>",
       "category": "all"
     },
     {
-      "q": "The largest bird in the world is?",
-      "urdu": "دنیا کا سب سے بڑا پرندہ کونسا ہے؟",
+      "q": "Which temperature is better for factual exam answers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Cranes Bald-eagle",
-        "Ostrich",
-        "Penguin",
-        "None of these"
+        "Very high",
+        "Low",
+        "Random",
+        "Maximum"
       ],
       "correct": 1,
-      "explanation": "<p></p>",
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;line-height:\r\n  normal\"><span style='font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  mso-fareast-font-family:\"Times New Roman\";color:#0070C0'>Lower temperature produces\r\n  more consistent and less random answers.<o:p></o:p></span></p>",
       "category": "all"
     },
     {
-      "q": "Which of the following is the deepest ocean of the world?",
-      "urdu": "مندرجہ ذیل میں سے دنیا کا سب سے گہرا سمندر کون سا ہے؟",
+      "q": "What does the temperature setting in an LLM control?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Artic Ocean",
-        "Pacific Ocean",
-        "Atlantic Ocean",
-        "None of these"
+        "Screen brightness",
+        "Randomness/creativity",
+        "Internet speed",
+        "Battery level"
       ],
       "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 1rem;\"></span></p>",
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Higher temperature gives more creative output; lower temperature gives\r\nmore focused output.</span></p>",
       "category": "all"
     },
     {
-      "q": "What is the Currency of Russia?",
-      "urdu": "روس کی کرنسی کیا ہے؟",
+      "q": "What is an AI hallucination?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Rand",
-        "Ruble",
-        "Rupee",
-        "Dollar"
+        "A slow response",
+        "A false answer presented confidently",
+        "A virus attack",
+        "A saved file"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Russia</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Ruble</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></span></p>",
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Hallucination means the model gives incorrect information as if it were\r\ntrue.</span></p>",
       "category": "all"
     },
     {
-      "q": "Which is the currency of the country Bangladesh?",
-      "urdu": "بنگلہ دیش ملک کی کرنسی کون سی ہے؟",
+      "q": "What should you do after receiving an important factual answer from an LLM?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Yen",
-        "Yuan",
-        "Dollar",
-        "Taka"
+        "Trust it blindly",
+        "Verify it independently",
+        "Delete it",
+        "Ignore it"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLMs can produce incorrect or fabricated information.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "“Summarize this paragraph in five bullet points” is an example of:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Image generation",
+        "Text summarization",
+        "Data backup",
+        "File compression"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;line-height:\r\n  normal\"><span style='font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  mso-fareast-font-family:\"Times New Roman\";color:#0070C0'>LLMs can shorten\r\n  long text into key points.<o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does prompt engineering mean?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Building AI hardware",
+        "Writing effective instructions",
+        "Deleting data",
+        "Encrypting files"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Prompt engineering is the skill of giving better instructions to get\r\nbetter AI responses.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the most important factor for getting a useful answer from an LLM?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fast internet",
+        "Clear prompt",
+        "Large monitor",
+        "Antivirus"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>A clear prompt helps the model understand the task, context, and\r\nexpected output.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "WWW stands for ____?",
+      "urdu": "سے کیا مراد ہے؟ WWW",
+      "options": [
+        "World Whole Web",
+        "Wide World Web",
+        "Web World Wild",
+        "World Wide Web"
       ],
       "correct": 3,
-      "explanation": "<p style=\"\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Bangladesh</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Taka</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
+      "explanation": "<p><ul></ul></p>",
       "category": "all"
     },
     {
-      "q": "Which is the currency of Nepal?",
-      "urdu": "نیپال کی کرنسی کون سی ہے؟",
+      "q": "URL has an abbreviation of?",
+      "urdu": "یو آر ایل کا مکمل نام کیا ہے؟",
       "options": [
-        "Dinar",
-        "Yen",
-        "Dollar",
-        "Rupee"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Nepal</span><span style=\"font-weight: bolder; font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-weight: bolder; font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Capital</span><span style=\"font-weight: bolder; font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-weight: bolder; font-size: 12pt; line-height: 17.12px; color: red;\">Kathmandu</span><span style=\"font-weight: bolder; font-size: 12pt; line-height: 17.12px; color: red;\">.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where International Monetary Fund (IMF) headquarters located?",
-      "urdu": "آئی ایم ایف کا ہیڈ کوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Paris",
-        "London",
-        "Geneva",
-        "Washington"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Quaid-e-Azam was elected President of Muslim League in which year?",
-      "urdu": "قائد اعظم کس سال مسلم لیگ کے صدر منتخب ہوئے؟",
-      "options": [
-        "1930",
-        "1932",
-        "1934",
-        "1945"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Shimla (Simla) agreement between India and Pakistan was singed in?",
-      "urdu": "سن 1972 میں شملہ معاہدہ پاکستان اور بھارت کے درمیان کب اور کہاں ہوا؟",
-      "options": [
-        "1965",
-        "1969",
-        "1972",
-        "1974"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When First martial law was imposed in Pakistan?",
-      "urdu": "پاکستان میں پہلا مارشل لاء کب لگا؟",
-      "options": [
-        "October 7 1958",
-        "October 7 1959",
-        "October 7 1960",
+        "Uniform Resource Locator",
+        "Universal Resource Link",
+        "Uniform Reference Link",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the number of Zakat among pillars?",
-      "urdu": "ستونوں میں زکوٰۃ کی تعداد کتنی ہے؟",
-      "options": [
-        "First",
-        "Second",
-        "Third",
-        "Fourth"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">five pillars </font><font color=\"#0000ff\">of Islam:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The World’s fastest bird is?",
-      "urdu": "دنیا کا سب سے تیز رفتار پرندہ کون سا ہے؟",
-      "options": [
-        "Humming Bird",
-        "Ostrich",
-        "Hen",
-        "Peregrine falcon"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does 'PDF' stand for?",
-      "urdu": "پی ڈی ایف کا کیا مطلب ہے؟",
-      "options": [
-        "Print Document Format",
-        "Portable Disc Format",
-        "Portable Document Format",
-        "Portable Document Firewall"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); font-size: 1.75rem;\">ان سولات کو ضرور پڑھیں</span><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ctrl + F2 shortcut key is used for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Opens the Save As dialog",
-        "Opens the Print Preview window",
-        "Finds text in the document",
-        "Opens the Format menu"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, Alt + 5 shortcut key is used for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Selecting an entire table",
-        "Saving a document",
-        "Opening a new document",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p data-pm-slice=\"1 1 []\"><b><font color=\"#ff0000\">Alt + 5</font><font color=\"#0000ff\"> (on the numeric keypad) is used to </font><font color=\"#ff0000\">select an entire table</font><font color=\"#0000ff\"> in MS Word.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who discovered the Blood Group System?",
-      "urdu": "بلڈ گروپ سسٹم کس نے دریافت کیا؟",
-      "options": [
-        "William Murdock",
-        "Karl Landsteiner",
-        "Edward Jenner",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where headquarters of World Health Organization (WHO) located?",
-      "urdu": "ورلڈ ہیلتھ آرگنائزیشن کا ہیڈ کوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Austria",
-        "Paris",
-        "Geneva",
-        "New York"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan conducted its first nuclear test in _____?",
-      "urdu": "پاکستان نے اپنا پہلا ایٹمی تجربہ _____ میں کیا؟",
-      "options": [
-        "Turbat",
-        "Chaghi",
-        "Quetta",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-size: 0.875rem; color: rgb(0, 0, 255); font-family: Helvetica;\"><b><br/></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Scarcity is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Lack",
-        "Shortage",
-        "Abundance",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"\"><span style=\"background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 01-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "PRUDENT can be substituted with ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Wise",
-        "Careless",
-        "Foolish",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first male martyr (Shaheed) of Islam?",
-      "urdu": "اسلام کے پہلے مرد شہید کون تھے؟",
-      "options": [
-        "Hazart Zaid Bin Haris (RA)",
-        "Hazrat Shoaib Roomi (RA)",
-        "Hazrat Ammar bin Yasir (RA)",
-        "Hazrat Haris bin Halla (RA)"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is first muazzin of Islam is?",
-      "urdu": "اسلام کا پہلا مؤذن کون ہے؟",
-      "options": [
-        "Hazrat Bilal",
-        "Hazrat Umar",
-        "Abu Bakar",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 28-04-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Allah says, “Wives of Prophet Muhammad ﷺ are mothers of believers” in Surah _____?",
-      "urdu": "اللہ تعالیٰ نے کس سورہ میں فرمایا کہ نبی ﷺ کی بیویاں مومنوں کی مائیں ہیں؟",
-      "options": [
-        "Surah Muhammad",
-        "Surah Yaaseen",
-        "Surah Ahzaab",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-04-2026</font><br/></b><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"0\"><tbody> </tbody></table></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key to open a new MS Word document?",
-      "urdu": "نئی ایم ایس ورڈ دستاویز کھولنے کے لیے شارٹ کٹ کی کونسی ہے؟",
-      "options": [
-        "Ctrl + O",
-        "Ctrl + N",
-        "Ctrl + W",
-        "Ctrl + M"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"user-select: initial !important;\"><b><span style=\"user-select: initial !important;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Tashkent declaration between Pakistan and India was signed on?",
-      "urdu": "پاکستان اور بھارت کے درمیان معاہدہ تاشقند پر دستخط کب ہوئے؟",
-      "options": [
-        "10 January 1966",
-        "1 January 1965",
-        "15 January 1964",
-        "1 February 1966"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Signatories</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Pakistan officially joined United Nations Organisations (UNO)?",
-      "urdu": "پاکستان نےکب باضابطہ طور پر اقوام متحدہ کے اداروں میں شمولیت اختیار کی؟",
-      "options": [
-        "30 September 1947",
-        "3 September 1947",
-        "10 September 1947",
-        "20 September 1947"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following countries first introduced (invented) paper currency (banknotes) in the world?",
-      "urdu": "مندرجہ ذیل میں سے کس ملک نے دنیا میں سب سے پہلے کاغذی کرنسی (بینک نوٹ) متعارف کروائی؟",
-      "options": [
-        "China",
-        "USA",
-        "Greece",
-        "France"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Olympic Games are held after how many years?",
-      "urdu": "اولمپک کھیل کتنے سال بعد منعقد ہوتے ہیں؟",
-      "options": [
-        "4 years",
-        "3 years",
-        "2 years",
-        "1 years"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mangla Dam was constructed on the which river?",
-      "urdu": "منگلا ڈیم کس دریا پر تعمیر کیا گیا ہے؟",
-      "options": [
-        "Indus",
-        "Sutlej",
-        "Jhelum",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: justify;\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-06-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Objective Resolution was passed on ______?",
-      "urdu": "قرار داد مقاصد کب منظور ہوئی؟",
-      "options": [
-        "12 March 1947",
-        "12 March 1948",
-        "12 March 1949",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"222\" data-start=\"190\"><b style=\"\"><span data-end=\"202\" data-start=\"190\" style=\"color: rgb(0, 0, 255);\">Adopted:</span> <span data-end=\"220\" data-start=\"203\" style=\"\"><font color=\"#ff0000\">12 March 1949</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan hosted the second Islamic Summit of OIC in _____?",
-      "urdu": "پاکستان نے _____ میں او آئی سی کے دوسرے اسلامی سربراہی اجلاس کی میزبانی کی؟",
-      "options": [
-        "1963",
-        "1969",
-        "1971",
-        "1974"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "“Namaz-e-Istisqa” is prayer for _____?",
-      "urdu": "نماز استسقاء کس مقصد کے لیے پڑھی جاتی ہے؟",
-      "options": [
-        "COVID-19",
-        "Lunar eclipse",
-        "Solar eclipse",
-        "Rain"
-      ],
-      "correct": 3,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ghazwa-e-Badr occurred in which hijrah?",
-      "urdu": "غزوہ بدر کس ہجری میں ہوا؟",
-      "options": [
-        "2nd",
-        "3rd",
-        "4th",
-        "1st"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 09-05-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Qibla changed from Al-Aqsa mosque to Masjid-e-Haram?",
-      "urdu": "قبلہ کو مسجد اقصیٰ سے مسجد حرام میں کب تبدیل کیا گیا؟",
-      "options": [
-        "Shaban 1 AH",
-        "Ramadan 1 AH",
-        "Shaban 2 AH",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hajj is not completed unless you go to _____?",
-      "urdu": "حج مکمل نہیں ہوتا جب تک آپ _____ نہیں جاتے؟",
-      "options": [
-        "Makkah",
-        "Madina",
-        "Arafat",
-        "Mina"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What CE year did the Hijrat Madina (also known as the Migration to Medina or the Hijrah) take place?",
-      "urdu": "ہجرت مدینہ (جسے ہجرت مدینہ یا ہجرت بھی کہا جاتا ہے) کس عیسوی سال میں ہوئی؟",
-      "options": [
-        "622",
-        "621",
-        "620",
-        "618"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the old name of Madina?",
-      "urdu": "مدینہ کا پرانا نام کیا تھا؟",
-      "options": [
-        "Bakkah",
-        "Hujaz",
-        "Najad",
-        "Yasrab"
-      ],
-      "correct": 3,
-      "explanation": "<p \"helvetica=\"\" 24px;\"=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" line-height:=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0in 0in 0.0001pt 9pt; color: rgb(33, 37, 41); padding: 0px;\"><span style=\"font-weight: bolder;\"><span style=\"color: red; font-family: Helvetica;\">*****</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the Second pillar of Islam?",
-      "urdu": "اسلام کا دوسرا ستون کون سا ہے؟",
-      "options": [
-        "Namaz",
-        "Roza",
-        "Zakat",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><span style=\"color: rgb(0, 0, 255); font-family: Helvetica;\">There are </span><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\">five </font></span><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\">pillars</font><font color=\"#0000ff\"> of Islam:</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Unenviable is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Unpleasant",
-        "Pleasant",
-        "Awesome",
-        "Natural"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Area of rectangle one side increased by 20%, other side is increased by? (Area unchanged)",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "25% decrease",
-        "20% decrease",
-        "16.67% decrease",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Area = length x width</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is the same as One Thousand and One?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1000",
-        "1001",
-        "1010",
-        "1100"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">One Thousand and One</font><font color=\"#0000ff\"> = 1000 + 1 = </font><font color=\"#ff0000\">1001</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the value of 20% of 200?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "20",
-        "40",
-        "60",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">20% of 200 = (20 ÷ 100) × 200</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A toy is sold for Rs. 220, what was the cost if the rate of profit was 10% of the cost?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 196",
-        "Rs. 198",
-        "Rs. 200",
-        "Rs. 210"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\" face=\"Helvetica\"><b>Selling price = Cost + 10% profit</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the average of 5/6, 4/3, 3/4?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1",
-        "35/36",
-        "38/37",
-        "6/5"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">To find the average, we need to first convert each fraction to a decimal:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the sequence: 6, 11, ______ , 27.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "16",
-        "17",
-        "18",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The differences are increasing by 2:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the analogy: Current : Ampere :: Atmosphere : ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Barometer",
-        "Pascal",
-        "Pressure",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: Rule of Thumb means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A rough estimate",
-        "Fixed rule",
-        "Exact estimation",
-        "An easy choice"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the voice: Why does an officer neglect duties?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Why is the duties neglected by an officer?",
-        "Why the duties neglected by an officer?",
-        "Why are the duties neglected by an officer?",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "She cares ______ the environment.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "About",
-        "Of",
-        "In",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</font></b></p>",
+      "explanation": "<p><font color=\"#0000ff\"><b>Used:</b></font></p>",
       "category": "all"
     }
   ]
