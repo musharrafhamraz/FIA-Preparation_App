@@ -4,6 +4,8 @@ import '../models/quiz_category.dart';
 import '../models/question.dart';
 import '../services/quiz_service.dart';
 import '../services/notification_service.dart';
+import '../services/notification_service_test.dart';
+import '../services/simple_notification_service.dart';
 import '../theme/app_theme.dart';
 import 'quiz_screen.dart';
 
@@ -200,7 +202,7 @@ class _HomeScreenState extends State<HomeScreen> {
           Row(
             children: [
               Text(
-                '⚡ TestPoint Quiz ',
+                '⚡ Sarkari Tayyari Quiz ',
                 style: GoogleFonts.syne(
                   fontSize: 20,
                   fontWeight: FontWeight.w800,
@@ -372,7 +374,7 @@ class _HomeScreenState extends State<HomeScreen> {
             borderRadius: BorderRadius.circular(20),
           ),
           child: Text(
-            'OFFLINE QUIZ BANK · TESTPOINT PK',
+            'OFFLINE QUIZ BANK · Sarkari Tayyari',
             style: GoogleFonts.syne(
               fontSize: 11,
               fontWeight: FontWeight.w600,
@@ -637,12 +639,19 @@ class _HomeScreenState extends State<HomeScreen> {
                 Expanded(
                   child: OutlinedButton.icon(
                     onPressed: () async {
-                      await NotificationService.scheduleReminders();
+                      final success =
+                          await NotificationService.enableRemindersWithPermission();
                       if (mounted) {
                         ScaffoldMessenger.of(context).showSnackBar(
-                          const SnackBar(
-                            content: Text('✅ Reminders scheduled!'),
-                            backgroundColor: AppTheme.green,
+                          SnackBar(
+                            content: Text(
+                              success
+                                  ? '✅ Reminders enabled! You\'ll be notified at 6 AM, 12 PM, 6 PM, 12 AM'
+                                  : '❌ Please grant notification permission',
+                            ),
+                            backgroundColor: success
+                                ? AppTheme.green
+                                : AppTheme.red,
                           ),
                         );
                       }
@@ -674,17 +683,174 @@ class _HomeScreenState extends State<HomeScreen> {
             const SizedBox(height: 10),
             OutlinedButton.icon(
               onPressed: () async {
-                await NotificationService.showTestNotification();
+                // First cancel any existing
+                await NotificationService.cancelAllReminders();
+
+                // Test notification
+                final success =
+                    await NotificationService.testBackgroundNotification();
+
                 if (mounted) {
-                  ScaffoldMessenger.of(context).showSnackBar(
-                    const SnackBar(content: Text('📨 Test notification sent!')),
-                  );
+                  if (success) {
+                    final count = await NotificationService.getPendingCount();
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      SnackBar(
+                        content: Text(
+                          '⏰ Test notification scheduled for 30 seconds! Pending: $count\nClose the app and wait!',
+                        ),
+                        duration: const Duration(seconds: 4),
+                      ),
+                    );
+                  } else {
+                    ScaffoldMessenger.of(context).showSnackBar(
+                      const SnackBar(
+                        content: Text('❌ Failed to schedule notification'),
+                        backgroundColor: AppTheme.red,
+                      ),
+                    );
+                  }
                 }
               },
-              icon: const Text('📨'),
-              label: const Text('Test Notification'),
+              icon: const Text('🔔'),
+              label: const Text('Test Background (30s)'),
               style: OutlinedButton.styleFrom(
                 minimumSize: const Size.fromHeight(44),
+              ),
+            ),
+            const SizedBox(height: 10),
+            OutlinedButton.icon(
+              onPressed: () async {
+                final count = await NotificationService.getPendingCount();
+                final message = '📋 Pending notifications: $count';
+                if (mounted) {
+                  ScaffoldMessenger.of(
+                    context,
+                  ).showSnackBar(SnackBar(content: Text(message)));
+                }
+              },
+              icon: const Text('📋'),
+              label: const Text('Check Pending'),
+            ),
+            const SizedBox(height: 15),
+            // DEBUG SECTION
+            Container(
+              padding: const EdgeInsets.all(12),
+              decoration: BoxDecoration(
+                color: AppTheme.surface2,
+                borderRadius: BorderRadius.circular(12),
+                border: Border.all(color: AppTheme.border),
+              ),
+              child: Column(
+                children: [
+                  const Text(
+                    '🔧 Debug Tests',
+                    style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      color: AppTheme.accent,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  Row(
+                    children: [
+                      Expanded(
+                        child: ElevatedButton(
+                          onPressed: () async {
+                            await NotificationTestService.init();
+                            await NotificationTestService.testImmediate();
+                            if (mounted) {
+                              ScaffoldMessenger.of(context).showSnackBar(
+                                const SnackBar(
+                                  content: Text('✅ Immediate test sent!'),
+                                ),
+                              );
+                            }
+                          },
+                          child: const Text('Immediate'),
+                        ),
+                      ),
+                      const SizedBox(width: 8),
+                      Expanded(
+                        child: ElevatedButton(
+                          onPressed: () async {
+                            await NotificationTestService.init();
+                            await NotificationTestService.testShortDelay();
+                            if (mounted) {
+                              ScaffoldMessenger.of(context).showSnackBar(
+                                const SnackBar(
+                                  content: Text('⏱️ 10-second test scheduled!'),
+                                ),
+                              );
+                            }
+                          },
+                          child: const Text('10sec'),
+                        ),
+                      ),
+                    ],
+                  ),
+                  const SizedBox(height: 8),
+                  ElevatedButton(
+                    onPressed: () async {
+                      await NotificationTestService.init();
+                      await NotificationTestService.testBackground30Seconds();
+                      final count =
+                          await NotificationTestService.getPendingCount();
+                      if (mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          SnackBar(
+                            content: Text(
+                              '🎯 Debug 30s test! Pending: $count\nClose app and wait!',
+                            ),
+                          ),
+                        );
+                      }
+                    },
+                    style: ElevatedButton.styleFrom(
+                      minimumSize: const Size.fromHeight(40),
+                      backgroundColor: AppTheme.accent,
+                    ),
+                    child: const Text('Debug 30s Test'),
+                  ),
+                  const SizedBox(height: 8),
+                  ElevatedButton(
+                    onPressed: () async {
+                      await NotificationTestService.init();
+                      await NotificationTestService.testWithExactAlarmPermission();
+                      if (mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text('🎯 Testing exact alarm permission!'),
+                          ),
+                        );
+                      }
+                    },
+                    style: ElevatedButton.styleFrom(
+                      minimumSize: const Size.fromHeight(40),
+                      backgroundColor: Colors.orange,
+                    ),
+                    child: const Text('Test Exact Alarm Permission'),
+                  ),
+                  const SizedBox(height: 8),
+                  ElevatedButton(
+                    onPressed: () async {
+                      await SimpleNotificationService.init();
+                      await SimpleNotificationService.triggerReminderNow();
+                      if (mounted) {
+                        ScaffoldMessenger.of(context).showSnackBar(
+                          const SnackBar(
+                            content: Text(
+                              '✅ Manual reminder triggered! More will follow in 1-3 minutes',
+                            ),
+                          ),
+                        );
+                      }
+                    },
+                    style: ElevatedButton.styleFrom(
+                      minimumSize: const Size.fromHeight(40),
+                      backgroundColor: Colors.green,
+                    ),
+                    child: const Text('Manual Reminder (Workaround)'),
+                  ),
+                ],
               ),
             ),
           ],
