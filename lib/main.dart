@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'services/quiz_service.dart';
 import 'services/notification_service.dart';
+import 'services/notification_service_test.dart';
+import 'services/simple_notification_service.dart';
 import 'theme/app_theme.dart';
 import 'screens/home_screen.dart';
 
@@ -11,6 +13,11 @@ void main() async {
   // Initialize services
   await QuizService.init();
   await NotificationService.init();
+  await NotificationTestService.init();
+  await SimpleNotificationService.init();
+
+  // Check if it's a reminder time and show notification
+  await SimpleNotificationService.checkAndShowReminderIfTime();
 
   // Set system UI overlay style
   SystemChrome.setSystemUIOverlayStyle(
