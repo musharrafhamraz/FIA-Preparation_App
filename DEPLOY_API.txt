@@ -1,0 +1,156 @@
+═══════════════════════════════════════════════════════════════
+  DEPLOY SCRAPER API TO VERCEL - Step by Step
+═══════════════════════════════════════════════════════════════
+
+This API allows your Flutter app to trigger the GitHub Actions scraper
+on-demand to fetch fresh questions.
+
+═══════════════════════════════════════════════════════════════
+STEP 1: Create GitHub Personal Access Token (PAT)
+═══════════════════════════════════════════════════════════════
+
+1. Go to: https://github.com/settings/tokens
+2. Click "Generate new token" → "Generate new token (classic)"
+3. Name: "FIA Quiz Scraper API"
+4. Expiration: No expiration (or 1 year)
+5. Select scopes:
+   ✅ repo (Full control of private repositories)
+6. Click "Generate token"
+7. **COPY THE TOKEN** - you won't see it again!
+
+═══════════════════════════════════════════════════════════════
+STEP 2: Deploy to Vercel (Free)
+═══════════════════════════════════════════════════════════════
+
+1. Go to: https://vercel.com/signup
+2. Sign up with GitHub
+3. Click "Add New" → "Project"
+4. Import your repository: musharrafhamraz/FIA-Preparation_App
+5. Configure:
+   - Framework Preset: Other
+   - Root Directory: ./
+   - Build Command: (leave empty)
+   - Output Directory: (leave empty)
+
+6. **Add Environment Variable:**
+   - Key: GITHUB_PAT
+   - Value: [paste your GitHub token from Step 1]
+
+7. Click "Deploy"
+8. Wait for deployment to complete (1-2 minutes)
+9. Copy your deployment URL (e.g., https://fia-preparation-app.vercel.app)
+
+═══════════════════════════════════════════════════════════════
+STEP 3: Update Flutter App
+═══════════════════════════════════════════════════════════════
+
+Open: lib/services/quiz_service.dart
+
+Find this line:
+  static const String scraperApiUrl = 'YOUR_VERCEL_URL/api/trigger-scrape';
+
+Replace with your Vercel URL:
+  static const String scraperApiUrl = 'https://fia-preparation-app.vercel.app/api/trigger-scrape';
+
+Save the file.
+
+═══════════════════════════════════════════════════════════════
+STEP 4: Test the Setup
+═══════════════════════════════════════════════════════════════
+
+1. Run your Flutter app:
+   flutter run
+
+2. Select a category (e.g., "Computer")
+
+3. Press "🚀 Start Quiz"
+
+4. You should see:
+   - "🌐 Fetching fresh questions..." dialog
+   - Wait 2-3 minutes (scraping takes time)
+   - "✅ Loaded X fresh questions!"
+
+5. Verify on GitHub:
+   - Go to: https://github.com/musharrafhamraz/FIA-Preparation_App/actions
+   - You should see a new workflow run
+   - Check questions.json was updated
+
+═══════════════════════════════════════════════════════════════
+HOW IT WORKS
+═══════════════════════════════════════════════════════════════
+
+User presses "Start Quiz"
+    ↓
+Flutter app calls Vercel API
+    ↓
+Vercel API triggers GitHub Actions
+    ↓
+GitHub Actions runs Python scraper
+    ↓
+Scraper fetches fresh questions from testpointpk.com
+    ↓
+questions.json is updated and committed
+    ↓
+Flutter app polls for updated file
+    ↓
+Fresh questions loaded into quiz!
+
+═══════════════════════════════════════════════════════════════
+TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════
+
+Problem: "Failed to trigger scraper"
+Solution: Check that GITHUB_PAT is set correctly in Vercel
+         Go to Vercel Dashboard → Project → Settings → Environment Variables
+
+Problem: Scraping takes too long
+Solution: This is normal! Scraping 50 questions takes 2-3 minutes
+         The app polls every 10 seconds for up to 3 minutes
+
+Problem: No fresh questions
+Solution: Check GitHub Actions logs for errors
+         Go to: https://github.com/musharrafhamraz/FIA-Preparation_App/actions
+
+Problem: API returns 500 error
+Solution: Check Vercel function logs
+         Go to Vercel Dashboard → Project → Deployments → Click latest → Functions
+
+═══════════════════════════════════════════════════════════════
+COST
+═══════════════════════════════════════════════════════════════
+
+✅ Vercel: FREE (Hobby plan includes 100GB bandwidth/month)
+✅ GitHub Actions: FREE (2,000 minutes/month for public repos)
+✅ Total Cost: $0/month
+
+═══════════════════════════════════════════════════════════════
+ALTERNATIVE: Skip API and Use Manual Trigger
+═══════════════════════════════════════════════════════════════
+
+If you don't want to deploy the API, you can:
+
+1. Manually trigger GitHub Actions:
+   - Go to: https://github.com/musharrafhamraz/FIA-Preparation_App/actions
+   - Click "Scrape Questions Daily"
+   - Click "Run workflow"
+   - Select category and count
+   - Click "Run workflow"
+
+2. Wait 2-3 minutes for completion
+
+3. Open your app - it will fetch the updated questions
+
+This way, you scrape fresh questions manually before using the app.
+
+═══════════════════════════════════════════════════════════════
+DONE!
+═══════════════════════════════════════════════════════════════
+
+Your app now:
+✅ Triggers real-time scraping on-demand
+✅ Fetches genuinely fresh questions from the website
+✅ Updates questions.json automatically
+✅ Works offline with cached fallback
+✅ Costs $0/month to run
+
+Enjoy your quiz app with always-fresh questions! 🎉
