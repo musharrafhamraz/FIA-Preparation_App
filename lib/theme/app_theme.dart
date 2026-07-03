@@ -13,6 +13,10 @@ class AppTheme {
   static const Color text = Color(0xFFe2e8f0);
   static const Color muted = Color(0xFF64748b);
 
+  // Additional text colors for better consistency
+  static const Color textPrimary = text;
+  static const Color textSecondary = muted;
+
   static ThemeData get darkTheme {
     return ThemeData(
       brightness: Brightness.dark,
