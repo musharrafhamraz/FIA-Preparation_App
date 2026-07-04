@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-03T20:08:21.946030",
+    "fetched_at": "2026-07-04T04:33:57.430705",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "Where did the longest traffic jam in recorded history occur?",
+      "urdu": "تاریخ کا سب سے طویل ٹریفک جام کہاں پیش آیا؟",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "China",
+        "India",
+        "United States",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b><font color=\"#ff0000\">Last verified on 03-07-2026</font></b></span></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "What is the Currency of Cuba?",
+      "urdu": "کیوبا کی کرنسی کیا ہے؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Quetzal",
+        "Guyanese Dollar",
+        "Cuban Peso",
+        "Ghanaian Cedi"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p class=\"MsoNormal\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Cuba</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Cuban Peso</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Abul Qasim Ferdowsi was a persian by _______ profession.",
+      "urdu": "ابوالقاسم فردوسی پیشے کے لحاظ سے کیا تھے؟",
+      "options": [
+        "Astronomer",
+        "Poet",
+        "Chemist",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Biography Of Holy Prophet (SAW) entitled “Sirat Rasul Ullah (Life of the Messenger of God)” was written by?",
+      "urdu": "سیرت رسول اللہ کے نام سے رسول اللہ ﷺ کی سیرت کس نے لکھی؟",
+      "options": [
+        "Ibn-e-Ishaq",
+        "Ibn-e-Hisham",
+        "Ibn-e-Khaldun",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Compilation of Ahadith is called _____?",
+      "urdu": "احادیث کو جمع اور مرتب کرنے کے عمل کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Tadveen",
+        "Jama al Hadith",
+        "Maariz",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Eid Prayer is ___?",
+      "urdu": "عید کی نماز کیا ہے؟",
+      "options": [
+        "Sunnat",
+        "Farz",
+        "Wajib",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 03-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The number of Ashab-e-Kahf was?",
+      "urdu": "اصحابِ کہف کی تعداد کتنی تھی؟",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did the lady named Zainab poisoned Holy Prophetﷺ?",
+      "urdu": "حضرت زینب نے رسول اللہ ﷺ کو کب زہر دیا؟",
+      "options": [
+        "Ghazw-e-Uhd",
+        "Conquest of Khyber",
+        "Conquest of Makkah",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Frailty is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Energy",
+        "Intensify",
+        "Strength",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many doors are there in Masjid-e-Haram?",
+      "urdu": "مسجدِ حرام میں کل کتنے دروازے ہیں؟",
+      "options": [
+        "23",
+        "21",
+        "19",
+        "25"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the punishment of Had-e-Qazf (false Accusation)?",
+      "urdu": "حدِ قذف (جھوٹا الزام) کی سزا کیا ہے؟",
+      "options": [
+        "50 Lashes",
+        "70 Lashes",
+        "80 Lashes",
+        "90 Lashes"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The wind blew ______ in the storm.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fiercely",
+        "Diligently",
+        "Happily",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 26.6667px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 03-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Everyone was drowned. Here 'everyone' is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Interrogative pronoun",
+        "Indefinite pronoun",
+        "Demonstrative pronoun",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The meat of calf is called _____?",
+      "urdu": "بچھڑے کے گوشت کو کیا کہتے ہیں؟",
+      "options": [
+        "Veal",
+        "Venison",
+        "Chevon",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 03-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Turn the lights ______ before you go to bed.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Off",
+        "On",
+        "Out",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Most of the guests arrived ______ buses.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "With",
+        "By",
+        "From",
+        "In"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom “Get the sack” means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Resigned",
+        "Got rid of",
+        "Was dismissed from",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Ductile is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Docile",
+        "Pliable",
+        "Devious",
+        "Rigid"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Bluster is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bravado",
+        "Boast",
+        "Confidence",
+        "Meekness"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Dank is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Dangerous",
+        "Ugly",
+        "Plunder",
+        "Damp"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The country which leads in the production of rubber is?",
+      "urdu": "ربڑ کی پیداوار میں دنیا کا سب سے آگے ملک کون سا ہے؟",
+      "options": [
+        "China",
+        "Thailand",
+        "Indonesia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which becomes the first country with free public transport?",
+      "urdu": "کون سا ملک عوام کے لیے مفت پبلک ٹرانسپورٹ فراہم کرنے والا دنیا کا پہلا ملک بنا؟",
+      "options": [
+        "Luxembourg",
+        "America",
+        "Japan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Enigma is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Answer",
+        "Puzzle",
+        "Hatred",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Surah is called Aroos-ul-Quran (the Bride of the Quran)?",
+      "urdu": "عروس القرآن (قرآن کی دلہن) کس سورت کو کہتے ہیں؟",
+      "options": [
+        "Yaseen",
+        "Fatiha",
+        "Rahman",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Roboto, arial, sans-serif\"><span style=\"font-size: 18px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "______ is the unit of measurement for the potential difference that cause a current to flow through a conductor.",
+      "urdu": "برقی رو پیدا کرنے والے برقی دباؤ کی اکائی کیا ہے؟",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many articles are the in 1973 constitution of Pakistan?",
+      "urdu": "پاکستان کے 1973 کے آئین میں کتنے آرٹیکلز ہیں؟",
+      "options": [
+        "330",
+        "250",
+        "240",
+        "280"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the First Chief Election Commissioner of Pakistan?",
+      "urdu": "پاکستان کے پہلے چیف الیکشن کمشنر کون تھے؟",
+      "options": [
+        "F. M. Khan",
+        "Sardar Muhammad Raza Khan",
+        "Sardar Muhammad Yousaf",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the largest Mobile service in Pakistan?",
+      "urdu": "پاکستان کا سب سے بڑا موبائل سروس فراہم کرنے والا نیٹ ورک کون سا ہے؟",
+      "options": [
+        "Zong",
+        "Mobilink",
+        "Ufone",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many farz Wuzu (ablution) has?",
+      "urdu": "وضو میں کتنے فرض ہیں؟",
+      "options": [
+        "Three",
+        "Five",
+        "Two",
+        "Four"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">4 Farz</font><font color=\"#0000ff\"> (obligatory acts) in </font><font color=\"#ff0000\">Wudu</font><font color=\"#0000ff\"> (Ablution).</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who holds the key to Kabba?",
+      "urdu": "فتح مکہ کے بعد کلید کعبہ کس صحابی کے حوالے کی گئی؟",
+      "options": [
+        "Hazrat Usman bin Affan (RA)",
+        "Hazrat Usman bin Talha (RA)",
+        "Hazrat Bilal (RA)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 28-04-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Holy Prophet (SAW) was died on ______?",
+      "urdu": "حضرت محمد ﷺ کا وصال کب ہوا؟",
+      "options": [
+        "15th June 632 AD",
+        "18th June 632 AD",
+        "8th June 632 AD",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the Orthodox Caliphate, who had the longest tenure?",
+      "urdu": "خلافتِ راشدہ میں سب سے طویل مدت تک خلیفہ کون رہے؟",
+      "options": [
+        "Hazrat Ali (RA)",
+        "Hazrat Usman (RA)",
+        "Hazrt Umar (RA)",
+        "Hazrat Abu Bakr Siddique (RA)"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many times the word “Zakat” came together with “Salat” in Quran?",
+      "urdu": "قرآن مجید میں زکوٰۃ اور نماز (صلاۃ) کا ذکر ایک ساتھ کتنی بار آیا ہے؟",
+      "options": [
+        "20 times",
+        "32 times",
+        "40 times",
+        "42 times"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 12-06-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which protocol is used to establish a secure channel of communication over a potentially insecure network?",
+      "urdu": "کون سا پروٹوکول غیر محفوظ نیٹ ورک پر محفوظ مواصلاتی چینل قائم کرنے کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "HTTPS (SSL/TLS)",
+        "DHCP",
+        "FTP",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why do things float more easily on sea water than on fresh water?",
+      "urdu": "چیزیں میٹھے پانی کی نسبت سمندری پانی میں زیادہ آسانی سے کیوں تیرتی ہیں؟",
+      "options": [
+        "Sea water is denser due to dissolved salts",
+        "Sea water is warmer",
+        "Fresh water is heavier",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of the Organization of the Islamic Conference (OIC) located?",
+      "urdu": "اسلامی کانفرنس (او آئی سی) کی تنظیم کا صدر دفتر کہاں واقع ہے؟",
+      "options": [
+        "Jeddah",
+        "Khatmando",
+        "Geneva",
+        "Makkah"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 10-05-2026</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Allah says, “Wives of Prophet Muhammad ﷺ are mothers of believers” in Surah _____?",
+      "urdu": "اللہ تعالیٰ نے کس سورہ میں فرمایا کہ نبی ﷺ کی بیویاں مومنوں کی مائیں ہیں؟",
+      "options": [
+        "Surah Muhammad",
+        "Surah Yaaseen",
+        "Surah Ahzaab",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-04-2026</font><br/></b><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" class=\"MsoNormalTable\" width=\"0\"><tbody> </tbody></table></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who establishes Bait Ul Mal?",
+      "urdu": "بیت المال کس نے قائم کیا؟",
+      "options": [
+        "Hazrat Abu Bakar (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Usman (RA)",
+        "Hazrat Ali (RA)"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 27-04-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Uncertainty Principle applies at the?",
+      "urdu": "اصولِ عدمِ یقین کس سطح پر لاگو ہوتا ہے؟",
+      "options": [
+        "Macroscopic level",
+        "Classical level",
+        "Quantum level",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an even function? sinx, tanx, cosx, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "sinx",
+        "tanx",
+        "cosx",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What will be the probability of getting odd numbers if a dice is thrown?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">A die has 6 equally likely outcomes: 1, 2, 3, 4, 5, 6.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On every 10th December, the Noble Peace Prize is awarded in ______?",
+      "urdu": "ہر سال 10 دسمبر کو نوبیل امن انعام کہاں دیا جاتا ہے؟",
+      "options": [
+        "Sweden",
+        "Rome",
+        "Norway",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where headquarters of World Bank located?",
+      "urdu": "ورلڈ بینک کا ہیڈ کوارٹر کہاں واقع ہے؟",
+      "options": [
+        "New York",
+        "London",
+        "Washington",
+        "Paris"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#ff0000\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\">World Bank</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When a moving car suddenly applies brakes, a passenger bends forward due to the?",
+      "urdu": "جب چلتی ہوئی گاڑی اچانک بریک لگاتی ہے تو مسافر آگے کی طرف کیوں جھک جاتا ہے؟",
+      "options": [
+        "Inertia of rest",
+        "Inertia of motion",
+        "Inertia of direction",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "SQR stands for?",
+      "urdu": "ایس کیو آر کا مکمل نام کیا ہے؟",
+      "options": [
+        "Structured Query Report",
+        "Simple Query Reporter",
+        "Structured Query Reporter",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "GUI stands for _______?",
+      "urdu": "جی آئ یو کا مطلب کیا ہے؟",
+      "options": [
+        "Graphical Use Interface",
+        "Graphical User Interface",
+        "Graphic User Interface",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan conducted its first nuclear test in _____?",
+      "urdu": "پاکستان نے اپنا پہلا ایٹمی تجربہ _____ میں کیا؟",
+      "options": [
+        "Turbat",
+        "Chaghi",
+        "Quetta",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-size: 0.875rem; color: rgb(0, 0, 255); font-family: Helvetica;\"><b><br/></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Cabinet Mission announced their plan on which date?",
+      "urdu": "کیبنٹ مشن نے کس تاریخ کو اپنے منصوبے کا اعلان کیا؟",
+      "options": [
+        "8th April 1947",
+        "5th December 1947",
+        "15th January 1947",
+        "16th May 1946"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 13.3333px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-05-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Kaleemullah (One who spoke to Allah) was the title of which Prophet?",
+      "urdu": "کلیم اللہ کس نبی کا لقب تھا؟",
+      "options": [
+        "Hazrat Ibrahim A.S",
+        "Hazrat Musa A.S",
+        "Hazrat Dawood A.S",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\" style=\"\">Last verified on 17-05-2026</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who bears the title of Ameen-ul-Ummat (Trustee/Trustworthy of the Ummah)?",
+      "urdu": "امت کا امین (امین الامت) کا لقب کس صحابی کو دیا گیا؟",
+      "options": [
+        "Hazrat Umar",
+        "Hazrat Abu Akbar",
+        "Hazrat Abu Ubaidah Bin Jarah",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Last verified on 28-04-2026</font></span></span></p>",
+      "category": "all"
     }
   ]
 }
