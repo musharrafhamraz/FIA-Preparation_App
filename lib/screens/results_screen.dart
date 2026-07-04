@@ -328,8 +328,6 @@ class _ResultsScreenState extends State<ResultsScreen>
   }
 
   Widget _buildReviewItem(Question question, int? userAnswer) {
-    const labels = ['A', 'B', 'C', 'D', 'E', 'F'];
-
     return Container(
       margin: const EdgeInsets.only(bottom: 10),
       decoration: BoxDecoration(
@@ -386,7 +384,7 @@ class _ResultsScreenState extends State<ResultsScreen>
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 3),
       decoration: BoxDecoration(
-        color: color.withOpacity(0.1),
+        color: color.withValues(alpha: 0.1),
         borderRadius: BorderRadius.circular(5),
       ),
       child: Text(text, style: TextStyle(fontSize: 12, color: color)),
