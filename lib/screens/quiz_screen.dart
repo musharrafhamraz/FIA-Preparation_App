@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_html/flutter_html.dart';
 import '../models/question.dart';
-import '../models/quiz_category.dart';
 import '../theme/app_theme.dart';
 import 'results_screen.dart';
 
@@ -265,7 +264,9 @@ class _QuizScreenState extends State<QuizScreen> {
     return Container(
       padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
       decoration: BoxDecoration(
-        color: isWarning ? AppTheme.red.withOpacity(0.1) : AppTheme.surface2,
+        color: isWarning
+            ? AppTheme.red.withValues(alpha: 0.1)
+            : AppTheme.surface2,
         borderRadius: BorderRadius.circular(6),
       ),
       child: Row(
@@ -314,8 +315,8 @@ class _QuizScreenState extends State<QuizScreen> {
       margin: const EdgeInsets.only(bottom: 14),
       padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 5),
       decoration: BoxDecoration(
-        color: AppTheme.amber.withOpacity(0.1),
-        border: Border.all(color: AppTheme.amber.withOpacity(0.25)),
+        color: AppTheme.amber.withValues(alpha: 0.1),
+        border: Border.all(color: AppTheme.amber.withValues(alpha: 0.25)),
         borderRadius: BorderRadius.circular(20),
       ),
       child: Text(
@@ -330,13 +331,6 @@ class _QuizScreenState extends State<QuizScreen> {
   }
 
   Widget _buildQuestionCard(Question question) {
-    final categoryName = QuizCategory.categories
-        .firstWhere(
-          (c) => c.slug == question.category,
-          orElse: () => const QuizCategory(name: 'General', slug: ''),
-        )
-        .name;
-
     return Card(
       child: Stack(
         children: [
@@ -359,7 +353,7 @@ class _QuizScreenState extends State<QuizScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  categoryName.toUpperCase(),
+                  'QUIZ QUESTION',
                   style: GoogleFonts.syne(
                     fontSize: 11,
                     fontWeight: FontWeight.w600,
@@ -418,13 +412,13 @@ class _QuizScreenState extends State<QuizScreen> {
         if (showResult) {
           if (isCorrect) {
             borderColor = AppTheme.green;
-            bgColor = AppTheme.green.withOpacity(0.09);
+            bgColor = AppTheme.green.withValues(alpha: 0.09);
             labelBg = AppTheme.green;
             labelColor = Colors.white;
             icon = const Icon(Icons.check, color: AppTheme.green, size: 20);
           } else if (isSelected) {
             borderColor = AppTheme.red;
-            bgColor = AppTheme.red.withOpacity(0.07);
+            bgColor = AppTheme.red.withValues(alpha: 0.07);
             labelBg = AppTheme.red;
             labelColor = Colors.white;
             icon = const Icon(Icons.close, color: AppTheme.red, size: 20);
@@ -503,7 +497,9 @@ class _QuizScreenState extends State<QuizScreen> {
               Container(
                 padding: const EdgeInsets.symmetric(horizontal: 9, vertical: 3),
                 decoration: BoxDecoration(
-                  border: Border.all(color: AppTheme.amber.withOpacity(0.4)),
+                  border: Border.all(
+                    color: AppTheme.amber.withValues(alpha: 0.4),
+                  ),
                   borderRadius: BorderRadius.circular(20),
                 ),
                 child: Text(
