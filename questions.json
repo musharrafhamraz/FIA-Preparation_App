@@ -3,7 +3,7 @@
     "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-05T09:37:43.303181",
+    "fetched_at": "2026-07-05T14:27:52.741819",
     "source": "live_scrape"
   },
   "questions": [
@@ -19,6 +19,19 @@
       "correct": 2,
       "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
       "category": "pak-study"
+    },
+    {
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
       "q": "What does CPU stand for?",
@@ -57,19 +70,6 @@
       ],
       "correct": 1,
       "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
       "category": "general-knowledge"
     }
   ]
