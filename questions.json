@@ -1,76 +1,662 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-06T05:09:04.034838",
+    "fetched_at": "2026-07-06T11:24:27.178591",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Who is the Current Chief Minister (CM) of Gilgit-Baltistan(GB)?",
+      "urdu": "گلگت بلتستان (جی بی) کے موجودہ وزیر اعلیٰ کون ہیں؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Khalid khurshid Khan",
+        "Yar Muhammad",
+        "Amjad Hussain Azar",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><a href=\"https://en.wikipedia.org/wiki/Amjad_Hussain_Azar\" style=\"\" target=\"_blank\"><b><font color=\"#0000ff\">Click here for reference </font></b></a><b><span style=\"font-size: 12pt;\"><o:p></o:p></span></b></span></p>",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "The sum of all the interior angles of a pentagon is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "540°",
+        "560°",
+        "580°",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><b><font color=\"#0000ff\">Use the formula: (n − 2) × 180°.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "After how many years did a Pakistani Foreign Minister visit Bangladesh during Ishaq Dar's visit in August 2025?",
+      "urdu": "اگست 2025 میں اسحاق ڈار کے دورۂ بنگلہ دیش کے دوران، کتنے سال بعد کسی پاکستانی وزیرِ خارجہ نے بنگلہ دیش کا دورہ کیا؟",
+      "options": [
+        "10 years",
+        "13 years",
+        "15 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 06-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Balochistan Became Province in _______?",
+      "urdu": "بلوچستان کو صوبے کا درجہ کب دیا گیا؟",
+      "options": [
+        "14th August 1973",
+        "14th August 1947",
+        "1st July 1970",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 06-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In June 2026, Pakistan launched strikes inside in which country?",
+      "urdu": "جون 2026 میں، پاکستان نے کس ملک کے اندر حملے کیے؟",
+      "options": [
+        "India",
+        "Iran",
+        "Afghanistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">In\r\nJune 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">launched ground operations and airstrikes inside\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Afghanistan</font><font color=\"#0000ff\">.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Following leaders led the Muslim League's delegation for Simla Conference?",
+      "urdu": "شملہ کانفرنس میں مسلم لیگ کے وفد کی قیادت کن رہنماؤں نے کی؟",
+      "options": [
+        "Jinnah and Nizamuddin",
+        "Jinnah and Liaquat",
+        "Jinnah, Liaquat and Nizamuddin",
+        "Liaquat and Nizamuddin"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The \"Communal Award\" given by?",
+      "urdu": "کمیونل ایوارڈ کس نے دیا تھا؟",
+      "options": [
+        "Lloyd George",
+        "Ramsay Macdonald",
+        "Winston Churchill",
+        "Stanley Baldwin"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Zero error of the instrument is _______?",
+      "urdu": "آلے کی زیرو ایرر کس قسم کی غلطی ہے؟",
+      "options": [
+        "Systematic error",
+        "Human error",
+        "Random error",
+        "Classified error"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Dr. Abdul Salam won the Nobel Prize for the subject of _____?",
+      "urdu": "ڈاکٹر عبدالسلام کو نوبیل انعام کس مضمون میں ملا؟",
+      "options": [
+        "Biology",
+        "Chemistry",
+        "Mathematics",
+        "Physics"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Convex lenses are also known as ____?",
+      "urdu": "محدب عدسے کو اور کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "Converging lenses",
+        "Diverging lenses",
+        "Deflecting lenses",
+        "Reflecting lenses"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "______ is the unit of measurement for the potential difference that cause a current to flow through a conductor.",
+      "urdu": "برقی رو پیدا کرنے والے برقی دباؤ کی اکائی کیا ہے؟",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Watt"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Heat transfer by vacuum occurs via?",
+      "urdu": "خلا میں حرارت کس ذریعے سے منتقل ہوتی ہے؟",
+      "options": [
+        "Radiation",
+        "Conduction",
+        "Convection",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What do the green and white colors of the Pakistan flag represent?",
+      "urdu": "پاکستانی پرچم کے سبز اور سفید رنگ کس چیز کی نمائندگی کرتے ہیں؟",
+      "options": [
+        "Muslim majority in Pakistan",
+        "Various religious minorities",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Colors</font><font color=\"#0000ff\"> Meaning:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The number of Ashab-e-Kahf was?",
+      "urdu": "اصحابِ کہف کی تعداد کتنی تھی؟",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The D-8 is an organization of nine _____ countries.",
+      "urdu": "ڈی ایٹ کس قسم کے نو ممالک کی تنظیم ہے؟",
+      "options": [
+        "Developing",
+        "Developed",
+        "Asian",
+        "African"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many countries are declared nuclear powers?",
+      "urdu": "دنیا میں کتنے ممالک کو نیوکلیئر (ایٹمی) طاقتیں قرار دیا گیا ہے؟",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "correct": 3,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 135,=\"\" 150);\"=\"\" 700;=\"\" arial,=\"\" color=\"\" color:=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 1rem;\"></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Caspian Sea, Red Sea and Aral Sea are actually?",
+      "urdu": "کیسپین سی، ریڈ سی اور ارال سی اصل میں کیا ہیں؟",
+      "options": [
+        "Rivers",
+        "Lakes",
+        "Canals",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was CPEC agreement signed between China and Pakistan?",
+      "urdu": "چین اور پاکستان کے درمیان سی پیک معاہدہ کب دستخط ہوا؟",
+      "options": [
+        "20 June 2015",
+        "20 June 2014",
+        "20 April 2014",
+        "20 April 2015"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "_____ is the 32th member to join NATO in March 2024.",
+      "urdu": "مارچ 2024 میں نیٹو کا 32واں رکن کون سا ملک بنا؟",
+      "options": [
+        "Germany",
+        "Uganda",
+        "Sweden",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Latest Member: </font><font color=\"#ff0000\">Sweden (joined 7 March 2024)</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current President of India?",
+      "urdu": "ہندوستان کا موجودہ صدر کون ہے؟",
+      "options": [
+        "Manmohan Singh",
+        "Droupadi Murmu",
+        "Narendar Modi",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"146\" data-start=\"72\"><b style=\"\"><span data-end=\"90\" data-start=\"72\" style=\"\"><font color=\"#ff0000\">Droupadi Murmu</font></span><font color=\"#0000ff\"> became the </font><span data-end=\"143\" data-start=\"102\" style=\"\"><font color=\"#ff0000\">first tribal woman President</font></span><span data-end=\"143\" data-start=\"102\" style=\"color: rgb(0, 0, 255);\"> of India</span><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the 18th Amendment Bill of the Constitution passed by the National Assembly?",
+      "urdu": "آئین کی اٹھارویں ترمیم کا بل قومی اسمبلی سے کب منظور ہوا؟",
+      "options": [
+        "April 8, 2010",
+        "April 15, 2010",
+        "April 19, 2010",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Eighteenth Amendment</font><font color=\"#0000ff\"> to the Constitution of Pakistan</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "First Five Year Plan was prepared by Pakistan in?",
+      "urdu": "پہلا پانچ سالہ منصوبہ پاکستان نے کب تیار کیا؟",
+      "options": [
+        "1951",
+        "1955",
+        "1956",
+        "1957"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Arabian Desert is primarily located in which region?",
+      "urdu": "صحرائے عرب بنیادی طور پر کس علاقے میں واقع ہے؟",
+      "options": [
+        "Northern Africa",
+        "Western Asia",
+        "Southern Europe",
+        "Central America"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">It primarily </font><font color=\"#ff0000\">covers</font><font color=\"#0000ff\"> much of the </font><font color=\"#ff0000\">Arabian Peninsula</font><font color=\"#0000ff\">, including </font><font color=\"#ff0000\">countries</font><font color=\"#0000ff\"> such as:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is called the 'Land of Golden Fiber'?",
+      "urdu": "کس ملک کو \"سنہری ریشے کی سرزمین\" کہا جاتا ہے؟",
+      "options": [
+        "Bangladesh",
+        "India",
+        "China",
+        "Bhutan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is called Land of Thousand Lakes?",
+      "urdu": "کس ملک کو ہزار جھیلوں کی سرزمین کہا جاتا ہے؟",
+      "options": [
+        "Indonesia",
+        "Maldives",
+        "Finland",
+        "Iceland"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "FATA was merged with KPK under which constitutional amendment?",
+      "urdu": "فاٹا کو خیبر پختونخوا میں کس آئینی ترمیم کے تحت ضم کیا گیا؟",
+      "options": [
+        "22nd",
+        "23rd",
+        "24th",
+        "25th"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Isa (AS) was sent to preach the message of Allah to the people of ____?",
+      "urdu": "حضرت عیسیٰؑ اللہ کا پیغام پہنچانے کے لیے کن لوگوں کی طرف بھیجے گئے تھے؟",
+      "options": [
+        "Islam",
+        "Whole World",
+        "Israel",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 06-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bani Israel was the nation of which Prophet (AS), who is also known by the title Israel?",
+      "urdu": "بنی اسرائیل کس نبیؑ کی قوم تھی، جنہیں \"اسرائیل\" کے لقب سے بھی جانا جاتا ہے؟",
+      "options": [
+        "Hazrat Musa (AS)",
+        "Hazrat Yaqoob (AS)",
+        "Hazrat Yousuf (AS)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Madni Surahs have a general emphasis on?",
+      "urdu": "مدنی سورتوں میں عام طور پر کس چیز پر زیادہ زور دیا گیا ہے؟",
+      "options": [
+        "Ghazwat",
+        "The social and religion laws and values",
+        "Laws of nature",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Surah Hajj has been commanded?",
+      "urdu": "حج کا حکم قرآنِ مجید کی کس سورت میں دیا گیا ہے؟",
+      "options": [
+        "Surah Al-Fatihah",
+        "Surah Al-Hajj",
+        "Surah Al-Baqarah",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Paradise is mentioned in Quran for _____ times.",
+      "urdu": "قرآنِ مجید میں جنت کا ذکر کتنی بار آیا ہے؟",
+      "options": [
+        "150",
+        "140",
+        "155",
+        "160"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Objective Resolution was passed on ______?",
+      "urdu": "قرار داد مقاصد کب منظور ہوئی؟",
+      "options": [
+        "12 March 1947",
+        "12 March 1948",
+        "12 March 1949",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p data-end=\"222\" data-start=\"190\"><b style=\"\"><span data-end=\"202\" data-start=\"190\" style=\"color: rgb(0, 0, 255);\">Adopted:</span> <span data-end=\"220\" data-start=\"203\" style=\"\"><font color=\"#ff0000\">12 March 1949</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country parliament has the largest membership?",
+      "urdu": "کس ملک کی پارلیمنٹ کے ارکان کی تعداد سب سے زیادہ ہے؟",
+      "options": [
+        "Canada",
+        "Russia",
+        "China",
+        "India"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Headquarters of SAARC is located in which city?",
+      "urdu": "سارک کا ہیڈ کوارٹر کس شہر میں واقع ہے؟",
+      "options": [
+        "Katmandu",
+        "Islamabad",
+        "Delhi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Diet is a Parliament of which country?",
+      "urdu": "ڈائٹ کس ملک کی پارلیمنٹ کو کہا جاتا ہے؟",
+      "options": [
+        "Uk",
+        "Usa",
+        "Norway",
+        "Japan"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, which shortcut is used for print preview?",
+      "urdu": "ایم ایس ورڈ میں پرنٹ پریویو کے لیے کون سا شارٹ کٹ استعمال ہوتا ہے؟",
+      "options": [
+        "Alt + O",
+        "Ctrl + F2",
+        "Shift + P",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one of the following rivers does not originate in India? Ravi River, Beas River, Sutlej River, None of these",
+      "urdu": "مندرجہ ذیل میں سے کون سا دریا بھارت سے نکلتا نہیں ہے؟",
+      "options": [
+        "Ravi River",
+        "Beas River",
+        "Sutlej River",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Simla agreement was signed between Indira Gandhi and ________?",
+      "urdu": "شملہ معاہدہ اندرا گاندھی اور کس کے درمیان ہوا تھا؟",
+      "options": [
+        "Ayoub Khan",
+        "Zulfiqar Ali Bhutto",
+        "Yahiya Khan",
+        "General Zia"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Indus Water Treaty signed?",
+      "urdu": "سندھ طاس معاہدے پر کب دستخط ہوئے؟",
+      "options": [
+        "September 19, 1950",
+        "September 19, 1960",
+        "September 19, 1965",
+        "September 19, 1973"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"248\" data-start=\"0\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the Constitution of 1973 enforced?",
+      "urdu": "سن 1973 کا آئین کب نافذ ہوا؟",
+      "options": [
+        "14th August 1973",
+        "14th September 1973",
+        "14th October 1973",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the punishment of Had-e-Qazf (false Accusation)?",
+      "urdu": "حدِ قذف (جھوٹا الزام) کی سزا کیا ہے؟",
+      "options": [
+        "50 Lashes",
+        "70 Lashes",
+        "80 Lashes",
+        "90 Lashes"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which date of Zil-Hajj is called Yaum-e-Arfat?",
+      "urdu": "ذی الحج کی کس تاریخ کو یوم عرفات کہتے ہیں؟",
+      "options": [
+        "9 Zil-Hajj",
+        "7 Zil Hajj",
+        "10 Zil Hajj",
+        "11 Zil Hajj"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Quaid-e-Azam gave his Fourteen (14) Points in response to ____?",
+      "urdu": "قائدِاعظم نے اپنے چودہ نکات کس کے جواب میں پیش کیے؟",
+      "options": [
+        "Simon Commission",
+        "Nehru report",
+        "British people",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many types of network on the basis of distance?",
+      "urdu": "نیٹورک کے فاصلے کی بنیاد پر کتنی قسم ہیں؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">Networks</font><font color=\"#0000ff\"> are typically classified into </font><font color=\"#ff0000\">four</font><font color=\"#0000ff\"> main types based on </font><font color=\"#ff0000\">distance</font><font color=\"#0000ff\"> (geographical coverage):</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Age of Hazrat Adam (A.S) at Sheesh’s (A.S) birth was ______ years.",
+      "urdu": "حضرت آدمؑ کی عمر حضرت شیثؑ کی پیدائش کے وقت کتنے سال تھی؟",
+      "options": [
+        "160",
+        "130",
+        "100",
+        "190"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 02-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan joined SAARC in which year?",
+      "urdu": "پاکستان کس سال میں سارک میں شامل ہوا؟",
+      "options": [
+        "1985",
+        "1984",
+        "1983",
+        "1987"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff00ff\" face=\"Helvetica\"><span style=\"font-weight: bolder;\">South Asian Association for Regional Cooperation (SAARC):</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who give the title “Quaid-e-Azam” to Muhammad Ali Jinnah?",
+      "urdu": "محمد علی جناح کو \"قائدِ اعظم\" کا لقب کس نے دیا؟",
+      "options": [
+        "Maulana Mazharuddin Shaheed",
+        "Moulana Muhammad Ali Johar",
+        "Syed Ameer Ali",
+        "Allama Iqbal"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change into passive: 'He is reading a book.'",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A book read him",
+        "A book is read by him",
+        "A book is being read by him",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which prophet died while standing with the support of a stick?",
+      "urdu": "کون سے نبیؑ عصا کے سہارے کھڑے ہوئے وفات پا گئے؟",
+      "options": [
+        "Hazrat Haroon A.S",
+        "Hazrat Musa A.S",
+        "Hazrat Suleman A.S",
+        "Hazrat Essa A.S"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Prophet of Allah is dignified with the special title Khalil Ullah (Friend of God)?",
+      "urdu": "اللہ کے خاص لقب خلیل اللہ سے کون سے نبی سرفراز ہیں؟",
+      "options": [
+        "Hazrat Adam (AS)",
+        "Hazrat Nuh (AS)",
+        "Hazrat Ibrahim (AS)",
+        "Hazrat Essa (AS)"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
     }
   ]
 }
