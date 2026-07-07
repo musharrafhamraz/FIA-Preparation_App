@@ -1,663 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-07T10:21:06.722104",
+    "fetched_at": "2026-07-07T15:42:00.773779",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The literary term 'In medias res' means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "In conclusion",
-        "In the middle of things",
-        "At the beginning",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He spoke with such _____ that everyone was convinced.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Elocution",
-        "Eloquence",
-        "Eloquently",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: The jury has reached their verdict, The jury has reached its verdict, The jury reach its verdict, The jury have reached its verdict",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The jury has reached their verdict",
-        "The jury has reached its verdict",
-        "The jury reach its verdict",
-        "The jury have reached its verdict"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word 'Mendacious' means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Untruthful/Lying",
-        "Truthful",
-        "Aggressive",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which CE year did the Prophet Muhammad (PBUH) migrate (Hijrah) from Makkah to Madinah?",
-      "urdu": "نبی کریم صلی اللہ علیہ وسلم نے مکہ مکرمہ سے مدینہ منورہ کی طرف ہجرت (ہجرت) کس عیسوی میں کی؟",
-      "options": [
-        "610 CE",
-        "620 CE",
-        "622 CE",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Aqeedah' (literal meaning) in Islam refers to?",
-      "urdu": "اسلام میں \"عقیدہ\" سے کیا مراد ہے؟",
-      "options": [
-        "The tie of knot",
-        "Religious creed and beliefs",
-        "Islamic law",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Prophet was swallowed by a whale (fish) and remained in its abdomen?",
-      "urdu": "کون سے نبی مچھلی (وہیل) کے پیٹ میں رہے تھے؟",
-      "options": [
-        "Hazrat Ibrahim AS",
-        "Hazrat Musa AS",
-        "Hazrat Younas AS",
-        "Hazrat Dawood AS"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "The word 'Tafseer' means?",
-      "urdu": "لفظ \"تفسیر\" کا کیا مطلب ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Explanation/commentary of the Quran",
-        "Hadith collection",
-        "Islamic law",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "The term 'Musharik' in Islamic law refers to?",
-      "urdu": "اسلامی اصطلاح \"مشرک\" سے کیا مراد ہے؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "One who commits Shirk",
-        "A partner in business",
-        "A witness",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Surah is also called 'Surah al-Ahzab?",
-      "urdu": "کون سی سورت \"سورۃ الاحزاب\" کہلاتی ہے؟",
-      "options": [
-        "Surah 34",
-        "Surah 33",
-        "Surah 36",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Salat-e-Kasoof is offered at the time of ____?",
-      "urdu": "نماز کسوف ____ کے وقت پڑھی جاتی ہے؟",
-      "options": [
-        "Earthquake",
-        "Lunar eclipse",
-        "Solar (Sun) eclipse",
-        "Heavy rain"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the meaning of Tauheed?",
-      "urdu": "توحید کا کیا مطلب ہے؟",
-      "options": [
-        "The Oneness of Allah",
-        "The Prophethood",
-        "Angels",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><font face=\"Verdana\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat Abu Bakr (RA), the first Khalifa (Caliph) ruled for approximately how many years (duration)?",
-      "urdu": "خلیفہ اول حضرت ابوبکر رضی اللہ عنہ نے تقریباً کتنے سال (مدت) حکومت کی؟",
-      "options": [
-        "Two",
-        "Three",
-        "Four",
-        "Five"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Musnad' in Hadith science refers to?",
-      "urdu": "علمِ حدیث میں \"مسند\" سے کیا مراد ہے؟",
-      "options": [
-        "A fabricated Hadith",
-        "A weak Hadith",
-        "A Hadith with a connected chain back to Prophet SAW",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Siha-e-Sitta are ______ books of Hadith.",
-      "urdu": "صحاحِ ستہ کتنی حدیث کی کتابوں پر مشتمل ہیں؟",
-      "options": [
-        "Two",
-        "Three",
-        "Five",
-        "Six"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\">Siha-e-Sitta</font><font color=\"#0000ff\"> (Sihah al-Sittah) are the </font><font color=\"#ff0000\">six authentic </font><font color=\"#0000ff\">books of </font><font color=\"#ff0000\">Hadith</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Sunni</font><font color=\"#0000ff\"> Islam.</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Islamic month of Dhul Hijjah is significant because of?",
-      "urdu": "اسلامی مہینہ ذوالحجہ کس وجہ سے اہم ہے؟",
-      "options": [
-        "The birth of the Prophet",
-        "Hajj and Eid-ul-Adha",
-        "The first revelation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Islamic jurisprudence, 'Halal' means?",
-      "urdu": "اسلامی فقہ میں \"حلال\" کا کیا مطلب ہے؟",
-      "options": [
-        "Compulsory",
-        "Forbidden",
-        "Permissible",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term Artificial Intelligence was invented by?",
-      "urdu": "مصنوعی ذہانت کی اصطلاح کس نے ایجاد کی؟",
-      "options": [
-        "Albert Einstein",
-        "John McCarthy",
-        "Geoffrey Hinton",
-        "Alan Turing",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(255, 0, 0);\">John McCarthy</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"> is recognized as the </span><span style=\"font-weight: bolder;\">father </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">of </span><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Artificial Intelligence</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"> due to his astounding contribution in the field of Computer Science.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is the common language for Artificial Intelligence?",
-      "urdu": "مصنوعی ذہانت کے لئے مندرجہ ذیل میں سے کون سی مشترکہ زبان ہے؟",
-      "options": [
-        "LISP",
-        "JAVA",
-        "Python",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Python is widely considered the most common and popular language for</font><font color=\"#ff0000\"> Artificial Intelligence </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the mode of AI widely used in 2025?",
-      "urdu": "دو ہزار پچیس میں زیادہ تر کون سا اے آئی موڈ استعمال ہوا؟",
-      "options": [
-        "Generative AI",
-        "Reactive AI",
-        "Expert Systems",
-        "Narrow AI"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">Generative AI became the most widely used mode of a</font><font color=\"#ff0000\">rtificial intelligence in 2025.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which AI feature is used for upper body movements in robotics?",
-      "urdu": "روبوٹکس میں اوپر کے جسم کی حرکات کے لیے کون سا اے آئی فیچر استعمال ہوتا ہے؟",
-      "options": [
-        "Helix Humanoid",
-        "Generative AI",
-        "Embedded AI",
-        "Reactive AI"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Helix Humanoid is an AI-driven system d</font><font color=\"#ff0000\">esigned to enable human-like upper-body movements.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If AI is embedded in robotics to perform real-time work, it is known as?",
-      "urdu": "اگر روبوٹکس میں اے آئی کو حقیقی وقت کے کام کے لیے شامل کیا جائے تو اسے کیا کہا جاتا ہے؟",
-      "options": [
-        "Embedded AI",
-        "Reactive AI",
-        "Generative AI",
-        "Narrow AI"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Embedded AI refers to AI integrated into </font><font color=\"#ff0000\">devices to perform specific tasks.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Quran was standardized into one script under which Caliph?",
-      "urdu": "قرآنِ مجید کو ایک ہی رسم الخط/نسخے میں کس خلیفہ کے دور میں معیاری بنایا گیا؟",
-      "options": [
-        "Hazrat Umar (RA)",
-        "Hazrat Usman (RA)",
-        "Hazrat Ali (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which type of AI is used for learning apps?",
-      "urdu": "سیکھنے والی ایپس میں کس قسم کی مصنوعی ذہانت استعمال ہوتی ہے؟",
-      "options": [
-        "Robotics",
-        "Computer Vision",
-        "Chatgpt",
-        "Expert Systems"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ChatGPT works on?",
-      "urdu": "چیٹ جی پی ٹی کس پر کام کرتا ہے؟",
-      "options": [
-        "Supervised Learning",
-        "Reinforcement Learning",
-        "Unsupervised Learning",
-        "Genetic Algorithms"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "AI stands for ______?",
-      "urdu": "اے آئی کا مطلب ______ ہے؟",
-      "options": [
-        "Artificial Information",
-        "Artificial Intelligence",
-        "Actual Information",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Kaleemullah (One who spoke to Allah) was the title of which Prophet?",
-      "urdu": "کلیم اللہ کس نبی کا لقب تھا؟",
-      "options": [
-        "Hazrat Ibrahim A.S",
-        "Hazrat Musa A.S",
-        "Hazrat Dawood A.S",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\" style=\"\">Last verified on 17-05-2026</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Islamic term 'Barzakh' refers to?",
-      "urdu": "اسلامی اصطلاح \"برزخ\" سے کیا مراد ہے؟",
-      "options": [
-        "Intermediate state between death & resurrection",
-        "Heaven",
-        "Hell",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which companion was the first to accept Islam among men?",
-      "urdu": "مردوں میں سب سے پہلے اسلام قبول کرنے والے صحابی کون تھے؟",
-      "options": [
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Umar (RA)",
-        "Hazrat Usman (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "When does the treaty of Hudaibiya take place?",
-      "urdu": "معاہدہ حدیبیہ کب ہوا؟",
-      "options": [
-        "6th Hijri",
-        "7th Hijri",
-        "8th Hijri",
-        "9th Hijri"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which surah is called Ummul Kitab (Mother of the Book)?",
-      "urdu": "کون سی سورت کو اُمُّ الکتاب (کتاب کی ماں) کہا جاتا ہے؟",
-      "options": [
-        "Surah Fatih",
-        "Surah Bakra",
-        "Surah Muhammad",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Naskh' in Quranic sciences refers to?",
-      "urdu": "علومِ قرآن میں \"نسخ\" سے کیا مراد ہے؟",
-      "options": [
-        "Translation",
-        "Calligraphy",
-        "Abrogation of verses",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b><font color=\"#ff0000\">Last verified on 07-07-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is a TRUE statement about supervised vs unsupervised learning?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Supervised needs labels; unsupervised finds structure without labels",
-        "Neither uses data",
-        "Both need labels",
-        "Unsupervised always needs labels"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Supervised\r\nlearning needs labeled data; unsupervised finds hidden structure unlabeled.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which model architecture do GPT-4 and similar LLMs primarily rely on?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "K-Means",
-        "Naive Bayes",
-        "Decoder-based Transformer",
-        "Decision Tree"
-      ],
-      "correct": 2,
-      "explanation": "<p><i><span style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\nmso-fareast-font-family:Arial;color:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:\r\nEN-US;mso-bidi-language:AR-SA'>GPT-style LLMs use decoder-only Transformer\r\narchitectures.</span></i></p>",
-      "category": "all"
-    },
-    {
-      "q": "SAARC was founded in the year?",
-      "urdu": "سارک کی بنیاد کس سال رکھی گئی؟",
-      "options": [
-        "1984",
-        "1986",
-        "1985",
-        "1987"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Headquarters of SAARC is located in which city?",
-      "urdu": "سارک کا ہیڈ کوارٹر کس شہر میں واقع ہے؟",
-      "options": [
-        "Katmandu",
+        "Karachi",
+        "Lahore",
         "Islamabad",
-        "Delhi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the idiom \"hit the nail right on the head\" mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To be exactly correct",
-        "Speaking directly to the point",
-        "Perform as a task with exactness",
-        "To say something that is exactly right",
-        "All of these"
-      ],
-      "correct": 4,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-01-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When the Holy Prophet (PBUH) offered his first Eid prayer?",
-      "urdu": "رسول اللہ ﷺ نے پہلی عید کی نماز کب ادا کی؟",
-      "options": [
-        "1 A.H",
-        "2 A.H",
-        "3 A.H",
-        "4 A.H"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is interested _____ reading books.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "At",
-        "On",
-        "In",
-        "None of these"
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-05-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Who holds the key to Kabba?",
-      "urdu": "فتح مکہ کے بعد کلید کعبہ کس صحابی کے حوالے کی گئی؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Hazrat Usman bin Affan (RA)",
-        "Hazrat Usman bin Talha (RA)",
-        "Hazrat Bilal (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 28-04-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first male martyr (Shaheed) of Islam?",
-      "urdu": "اسلام کے پہلے مرد شہید کون تھے؟",
-      "options": [
-        "Hazart Zaid Bin Haris (RA)",
-        "Hazrat Shoaib Roomi (RA)",
-        "Hazrat Yasir ibn Amir (RA)",
-        "Hazrat Haris bin Halla (RA)"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the name of the camel which the Holy Prophet (SAW) was riding in the migration of Madina?",
-      "urdu": "ہجرتِ مدینہ کے دوران نبی کریم ﷺ کس اونٹنی پر سوار تھے؟",
-      "options": [
-        "Buldul",
-        "Anza",
-        "Qaswa",
-        "Zulifqar"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many verses of Surah Al-Alaq were first revealed to the Holy Prophet (PBUH) in the first Wahi (revelation)?",
-      "urdu": "پہلی وحی میں سورۃ العلق کی کتنی آیات نبی کریم ﷺ پر نازل ہوئیں؟",
-      "options": [
-        "Four",
-        "Seven",
-        "Six",
-        "Five"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Which is the longest strait in the world?",
-      "urdu": "دنیا کی سب سے لمبی آبنائے کون سی ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Bering Strait",
-        "Strait of Gibraltar",
-        "Strait of Malacca",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In how many Round Table Conferences did Quaid-e-Azam participate?",
-      "urdu": "قائدِاعظم نے کتنی گول میز کانفرنسوں میں شرکت کی؟",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The rear (back) view mirror used in the vehicles is _____?",
-      "urdu": "گاڑیوں میں استعمال ہونے والا ریئر ویو مرر کون سا ہوتا ہے؟",
-      "options": [
-        "Parabolic mirror",
-        "Plane mirror",
-        "Concave mirror",
-        "Convex mirror"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified 26-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Silver reflects approximately what percentage of visible light?",
-      "urdu": "چاندی مرئی روشنی کا تقریباً کتنے فیصد حصہ منعکس کرتی ہے؟",
-      "options": [
-        "95%",
-        "75%",
-        "85%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the purpose of a 'validation set'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Storing logs",
-        "Tuning the model during development",
-        "Encrypting weights",
-        "Final deployment"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">The validation set tunes hyperparameters\r\nand checks performance during development.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is a 'chatbot' primarily built using?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Computer Vision",
-        "Robotics only",
-        "Natural Language Processing",
-        "Cryptography"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Chatbots\r\nrely on NLP to understand and generate human language.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which company created the AI assistant 'Copilot'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Microsoft",
-        "Meta",
-        "Amazon",
-        "Tesla"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Microsoft\r\nCopilot is an AI assistant integrated across Microsoft products.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
