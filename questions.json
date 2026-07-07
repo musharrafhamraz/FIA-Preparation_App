@@ -3,659 +3,656 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-06T20:46:30.890253",
+    "fetched_at": "2026-07-07T04:51:16.370437",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is phishing?",
-      "urdu": "فِشنگ کیا ہے؟",
+      "q": "Aitekaaf (Seclusion) during the month of Ramzan is ____?",
+      "urdu": "رمضان المبارک میں اعتکاف کرنا کیا ہے؟",
       "options": [
-        "A method of encrypting data for security",
-        "Cybercrime involving fraudulent emails or messages to obtain sensitive information",
-        "A technique to speed up network connections",
-        "A way to block access to websites"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fathometer is used to measure ______?",
-      "urdu": "فیتھومیٹر کس چیز کی پیمائش کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Ocean Depth",
-        "Earthquakes",
-        "Rainfalls",
-        "None of these"
+        "Sunnah",
+        "Mustahab",
+        "Wajib",
+        "Nafl"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 07-07-2026</font></b></span></p>",
       "category": "all"
     },
     {
-      "q": "What is the primary function of Firewall in computer networks?",
-      "urdu": "کمپیوٹر نیٹ ورکس میں فائر وال کا بنیادی کام کیا ہے؟",
+      "q": "Important AI, Machine Learning Techniques are",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "To prevent/block unauthorized access",
-        "To block viruses",
-        "To speed up network traffic",
-        "None of these"
+        "وضاحت میں چیک کریں",
+        "یہ سوال بہت اہم ہے"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\" style=\"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;\r\nline-height:normal\"><b><span style='font-size:12.0pt;font-family:\"Times New Roman\",serif;\r\nmso-fareast-font-family:\"Times New Roman\";color:#002060;background:yellow;\r\nmso-highlight:yellow'>Important AI / Machine Learning Techniques</span></b><span style='font-size:12.0pt;font-family:\"Times New Roman\",serif;mso-fareast-font-family:\r\n\"Times New Roman\";color:#002060'><o:p></o:p></span></p>",
       "category": "all"
     },
     {
-      "q": "Almost 40% of the world's oil supply passes through which strait?",
-      "urdu": "دنیا کی تقریباً %40 تیل کی ترسیل کس آبنائے سے گزرتی ہے؟",
+      "q": "Which of the following is a network topology? Bus, Star, Ring, All of these",
+      "urdu": "درج ذیل میں سے نیٹ ورک ٹوپولوجی کون سی ہے؟",
       "options": [
-        "Bosporus",
-        "Hormuz",
-        "Malacca",
-        "Gibraltar"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The world's deepest trench the Mariana Trench is located in?",
-      "urdu": "دنیا کی سب سے گہری سمندری کھائی، ماریانا ٹرنچ، کس سمندر میں واقع ہے؟",
-      "options": [
-        "Indian Ocean",
-        "Atlantic Ocean",
-        "Pacific Ocean",
-        "Arctic Ocean"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Nunito, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Foreign key is?",
-      "urdu": "فارن کی کیا ہوتی ہے؟",
-      "options": [
-        "A key that uniquely identifies a record in the same table",
-        "A key used to delete records",
-        "A field in one table that refers to the primary key of another table",
-        "A password for database security"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"532\" data-start=\"427\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who explained the Photoelectric Effect?",
-      "urdu": "فوٹو الیکٹرک ایفیکٹ کی وضاحت کس نے کی؟",
-      "options": [
-        "Isaac Newton",
-        "James Clerk Maxwell",
-        "Albert Einstein",
-        "Niels Bohr"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "_____ is the 32th member to join NATO in March 2024.",
-      "urdu": "مارچ 2024 میں نیٹو کا 32واں رکن کون سا ملک بنا؟",
-      "options": [
-        "Germany",
-        "Uganda",
-        "Sweden",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Latest Member: </font><font color=\"#ff0000\">Sweden (joined 7 March 2024)</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the fundamental force that attracts any two objects with mass towards each other?",
-      "urdu": "وہ بنیادی قوت کون سی ہے جو کمیت رکھنے والی کسی بھی دو اجسام کو ایک دوسرے کی طرف کھینچتی ہے؟",
-      "options": [
-        "Electromagnetic force",
-        "Strong nuclear force",
-        "Gravitational force",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Freezing point of water is ______?",
-      "urdu": "پانی کا نقطۂ انجماد کیا ہے؟",
-      "options": [
-        "0°C",
-        "32°F",
-        "273K",
+        "Bus",
+        "Star",
+        "Ring",
         "All of these"
       ],
       "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The boiling point of water on a centigrade scale is?",
-      "urdu": "سینٹی گریڈ (سیلسیس) پیمانے پر پانی کا نقطۂ ابال کیا ہے؟",
-      "options": [
-        "80°C",
-        "90°C",
-        "100°C",
-        "10°C"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "One nanometer is equal to ______?",
-      "urdu": "ایک نینو میٹر کس کے برابر ہوتا ہے؟",
-      "options": [
-        "10⁻³ m",
-        "10⁻⁶ m",
-        "10⁻⁹ m",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Laws of magnetic induction given by _____?",
-      "urdu": "مقناطیسی القا کے قوانین کس نے پیش کیے؟",
-      "options": [
-        "Tesla",
-        "Faraday",
-        "Newton",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Apprenticeship, Apprenticeshipp, Aprenticeship, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Apprenticeship",
-        "Apprenticeshipp",
-        "Aprenticeship",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Infallible is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Weak",
-        "Perfect",
-        "Outspoken",
-        "Authentic"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Victory is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Defeat",
-        "Triumph",
-        "Success",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Holy Prophet (PBHU) performed Hajj in ____?",
-      "urdu": "نبی کریم ﷺ نے حج کب ادا کیا؟",
-      "options": [
-        "9 Hijri",
-        "10 Hijri",
-        "8 Hijri",
-        "11 Hijri"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41); padding-top: 8px;\"><b style=\"font-weight: bold;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Prophet is called Abu-ul-Ambiya (Father of Prophets)?",
-      "urdu": "ابو الانبیاء کس نبی کو کہتے ہیں؟",
-      "options": [
-        "Hazrat Adam (A.S)",
-        "Hazrat Abraheem (A.S)",
-        "Hazrat Nooh (A.S)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "27°C is equal to how many Kelvin (K)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "273 K",
-        "290 K",
-        "300 K",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Kelvin = °C + 273</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Compiler is the ______?",
-      "urdu": "کمپائلر کیا ہے؟",
-      "options": [
-        "Name given to the computer operator",
-        "Translator of source program to object / Translator of high-level program to machine",
-        "Part of the digital machine to store the information",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is an example of a cloud storage service? Skype, Dropbox, Internet Explorer, Mozilla Firefox",
-      "urdu": "مندرجہ ذیل میں سے کلاؤڈ اسٹوریج سروس کی مثال کون سی ہے؟",
-      "options": [
-        "Skype",
-        "Dropbox",
-        "Internet Explorer",
-        "Mozilla Firefox"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 06-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Cache memory is located on ______?",
-      "urdu": "کیش میموری کہاں موجود ہوتی ہے؟",
-      "options": [
-        "CPU",
-        "Software",
-        "Window",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fasting (Soam) was made obligatory in _____?",
-      "urdu": "روزہ کب فرض کیا گیا؟",
-      "options": [
-        "8th Shaban, 2 A.H",
-        "7th Shaban, 2 A.H",
-        "10th Shaban, 2 A.H",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year, the order of the Hijab for women was revealed?",
-      "urdu": "خواتین کے لیے حجاب کا حکم کس سال نازل ہوا؟",
-      "options": [
-        "3rd A.H",
-        "4th A.H",
-        "5th A.H",
-        "6th A.H"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 27-04-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which battle is referred to as Yaumul Furqan?",
-      "urdu": "یوم الفرقان کس جنگ کو کہتے ہیں؟",
-      "options": [
-        "Hunayn",
-        "Badr",
-        "Uhad",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-family: Helvetica;\"></span><span style=\"font-family: Helvetica;\"></span><span style=\"font-family: Helvetica;\"></span><span style=\"font-family: Helvetica;\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Chief Minister (CM) of Gilgit-Baltistan(GB)?",
-      "urdu": "گلگت بلتستان (جی بی) کے موجودہ وزیر اعلیٰ کون ہیں؟",
-      "options": [
-        "Khalid khurshid Khan",
-        "Yar Muhammad",
-        "Amjad Hussain Azar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><a href=\"https://en.wikipedia.org/wiki/Amjad_Hussain_Azar\" style=\"\" target=\"_blank\"><b><font color=\"#0000ff\">Click here for reference </font></b></a><b><span style=\"font-size: 12pt;\"><o:p></o:p></span></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The sum of all the interior angles of a pentagon is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "540°",
-        "560°",
-        "580°",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Use the formula: (n − 2) × 180°.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "After how many years did a Pakistani Foreign Minister visit Bangladesh during Ishaq Dar's visit in August 2025?",
-      "urdu": "اگست 2025 میں اسحاق ڈار کے دورۂ بنگلہ دیش کے دوران، کتنے سال بعد کسی پاکستانی وزیرِ خارجہ نے بنگلہ دیش کا دورہ کیا؟",
-      "options": [
-        "10 years",
-        "13 years",
-        "15 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 06-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Balochistan Became Province in _______?",
-      "urdu": "بلوچستان کو صوبے کا درجہ کب دیا گیا؟",
-      "options": [
-        "14th August 1973",
-        "14th August 1947",
-        "1st July 1970",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 06-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In June 2026, Pakistan launched strikes inside in which country?",
-      "urdu": "جون 2026 میں، پاکستان نے کس ملک کے اندر حملے کیے؟",
-      "options": [
-        "India",
-        "Iran",
-        "Afghanistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">In\r\nJune 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">launched ground operations and airstrikes inside\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Afghanistan</font><font color=\"#0000ff\">.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Following leaders led the Muslim League's delegation for Simla Conference?",
-      "urdu": "شملہ کانفرنس میں مسلم لیگ کے وفد کی قیادت کن رہنماؤں نے کی؟",
-      "options": [
-        "Jinnah and Nizamuddin",
-        "Jinnah and Liaquat",
-        "Jinnah, Liaquat and Nizamuddin",
-        "Liaquat and Nizamuddin"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The \"Communal Award\" given by?",
-      "urdu": "کمیونل ایوارڈ کس نے دیا تھا؟",
-      "options": [
-        "Lloyd George",
-        "Ramsay Macdonald",
-        "Winston Churchill",
-        "Stanley Baldwin"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zero error of the instrument is _______?",
-      "urdu": "آلے کی زیرو ایرر کس قسم کی غلطی ہے؟",
-      "options": [
-        "Systematic error",
-        "Human error",
-        "Random error",
-        "Classified error"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Dr. Abdul Salam won the Nobel Prize for the subject of _____?",
-      "urdu": "ڈاکٹر عبدالسلام کو نوبیل انعام کس مضمون میں ملا؟",
-      "options": [
-        "Biology",
-        "Chemistry",
-        "Mathematics",
-        "Physics"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Convex lenses are also known as ____?",
-      "urdu": "محدب عدسے کو اور کس نام سے جانا جاتا ہے؟",
-      "options": [
-        "Converging lenses",
-        "Diverging lenses",
-        "Deflecting lenses",
-        "Reflecting lenses"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "______ is the unit of measurement for the potential difference that cause a current to flow through a conductor.",
-      "urdu": "برقی رو پیدا کرنے والے برقی دباؤ کی اکائی کیا ہے؟",
-      "options": [
-        "Ampere",
-        "Volt",
-        "Ohm",
-        "Watt"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Heat transfer by vacuum occurs via?",
-      "urdu": "خلا میں حرارت کس ذریعے سے منتقل ہوتی ہے؟",
-      "options": [
-        "Radiation",
-        "Conduction",
-        "Convection",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What do the green and white colors of the Pakistan flag represent?",
-      "urdu": "پاکستانی پرچم کے سبز اور سفید رنگ کس چیز کی نمائندگی کرتے ہیں؟",
-      "options": [
-        "Muslim majority in Pakistan",
-        "Various religious minorities",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Colors</font><font color=\"#0000ff\"> Meaning:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The number of Ashab-e-Kahf was?",
-      "urdu": "اصحابِ کہف کی تعداد کتنی تھی؟",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The D-8 is an organization of nine _____ countries.",
-      "urdu": "ڈی ایٹ کس قسم کے نو ممالک کی تنظیم ہے؟",
-      "options": [
-        "Developing",
-        "Developed",
-        "Asian",
-        "African"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many countries are declared nuclear powers?",
-      "urdu": "دنیا میں کتنے ممالک کو نیوکلیئر (ایٹمی) طاقتیں قرار دیا گیا ہے؟",
-      "options": [
-        "8",
-        "6",
-        "7",
-        "9"
-      ],
-      "correct": 3,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 135,=\"\" 150);\"=\"\" 700;=\"\" arial,=\"\" color=\"\" color:=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 1rem;\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Caspian Sea, Red Sea and Aral Sea are actually?",
-      "urdu": "کیسپین سی، ریڈ سی اور ارال سی اصل میں کیا ہیں؟",
-      "options": [
-        "Rivers",
-        "Lakes",
-        "Canals",
-        "None of these"
-      ],
-      "correct": 1,
       "explanation": "<p><ul></ul></p>",
       "category": "all"
     },
     {
-      "q": "When was CPEC agreement signed between China and Pakistan?",
-      "urdu": "چین اور پاکستان کے درمیان سی پیک معاہدہ کب دستخط ہوا؟",
+      "q": "The committee __________ its report.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "20 June 2015",
-        "20 June 2014",
-        "20 April 2014",
-        "20 April 2015"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current President of India?",
-      "urdu": "ہندوستان کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Manmohan Singh",
-        "Droupadi Murmu",
-        "Narendar Modi",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p data-end=\"146\" data-start=\"72\"><b style=\"\"><span data-end=\"90\" data-start=\"72\" style=\"\"><font color=\"#ff0000\">Droupadi Murmu</font></span><font color=\"#0000ff\"> became the </font><span data-end=\"143\" data-start=\"102\" style=\"\"><font color=\"#ff0000\">first tribal woman President</font></span><span data-end=\"143\" data-start=\"102\" style=\"color: rgb(0, 0, 255);\"> of India</span><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the 18th Amendment Bill of the Constitution passed by the National Assembly?",
-      "urdu": "آئین کی اٹھارویں ترمیم کا بل قومی اسمبلی سے کب منظور ہوا؟",
-      "options": [
-        "April 8, 2010",
-        "April 15, 2010",
-        "April 19, 2010",
+        "Has completed",
+        "Have completed",
+        "Had completed",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Eighteenth Amendment</font><font color=\"#0000ff\"> to the Constitution of Pakistan</font></b></font></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "First Five Year Plan was prepared by Pakistan in?",
-      "urdu": "پہلا پانچ سالہ منصوبہ پاکستان نے کب تیار کیا؟",
+      "q": "The 'Transformer' architecture was introduced in the 2017 paper titled:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "1951",
-        "1955",
-        "1956",
-        "1957"
+        "Attention Is All You Need",
+        "Deep Residual Learning",
+        "ImageNet Classification",
+        "Generative Adversarial Nets"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">'Attention\r\nIs All You Need' (2017) introduced the Transformer architecture.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which architecture introduced the 'attention mechanism' that powers modern LLMs?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "LSTM",
+        "Transformer",
+        "Perceptron",
+        "Autoencoder"
       ],
       "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">The\r\nTransformer architecture introduced self-attention, foundational to modern\r\nLLMs.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In AI, a 'heuristic' is best described as",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A rule-of-thumb to guide search efficiently",
+        "A data type",
+        "An exact solution",
+        "A hardware component"
+      ],
+      "correct": 0,
+      "explanation": "<p><i><span style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";mso-fareast-font-family:Arial;color:#0070C0;\r\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'>A\r\nheuristic is an approximate strategy that guides search toward likely\r\nsolutions.</span></i></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an unsupervised dimensionality reduction technique?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "KNN",
+        "PCA",
+        "Decision Tree",
+        "Logistic Regression"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Principal\r\nComponent Analysis (PCA) reduces dimensions while preserving variance.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "FATF headquarters located in?",
+      "urdu": "ایف اے ٹی ایف کا ہیڈکوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Geneva",
+        "Hague",
+        "Paris",
+        "Washington"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "River Nile originates (primary source) from ______?",
+      "urdu": "دریائے نیل کہاں سے نکلتا ہے؟",
+      "options": [
+        "Lake Victoria",
+        "Cherangani Hills",
+        "Lake Nyasa",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which mountain known as Chahgori or Savage Mountain?",
+      "urdu": "کون سا پہاڑ \"چہگوری یا سیویج ماؤنٹین\" کے نام سے مشہور ہے؟",
+      "options": [
+        "Mount Everest",
+        "Lhotse",
+        "K2",
+        "Kilimanjaro"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In reinforcement learning, the entity that learns and makes decisions is called the:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Environment",
+        "Reward",
+        "Agent",
+        "Policy"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">The agent\r\nperceives the environment and takes actions to maximize rewards.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which deep learning architecture is most suited for image processing?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "SVM",
+        "RNN",
+        "Decision Tree",
+        "CNN"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Convolutional\r\nNeural Networks (CNNs) are designed for spatial/image data.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which search strategy explores nodes level by level?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A* Search",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Greedy Search"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Breadth-First Search (BFS) explores all\r\nnodes at one depth before going deeper.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "K-Means is an example of which type of learning?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Reinforcement",
+        "Supervised",
+        "Semi-supervised",
+        "Unsupervised"
+      ],
+      "correct": 3,
+      "explanation": "<p><i><span style='font-size:10.0pt;font-family:\"Arial\",\"sans-serif\";\r\nmso-fareast-font-family:Arial;color:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:\r\nEN-US;mso-bidi-language:AR-SA'>K-Means is an unsupervised clustering algorithm\r\nthat groups unlabeled data.</span></i></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which activation function outputs values between 0 and 1?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Tanh",
+        "Linear",
+        "Sigmoid",
+        "ReLU"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">The Sigmoid function squashes inputs\r\ninto the range (0,1).</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which algorithm is used to find the shortest path and uses a heuristic function?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "DFS",
+        "BFS",
+        "Linear search",
+        "A* (A-star)"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">A* combines\r\npath cost and a heuristic estimate to find the shortest path efficiently.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a virtual voice assistant?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Notepad",
+        "Siri",
+        "Photoshop",
+        "Excel"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Siri is a\r\nvoice-based virtual assistant developed by Apple.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an application of NLP?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "File compression",
+        "Disk formatting",
+        "Image rotation",
+        "Language translation"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Natural\r\nLanguage Processing powers applications like language translation.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the main purpose of an AI chatbot?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Natural language conversation",
+        "Disk partitioning",
+        "Hardware repair",
+        "Virus creation"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Chatbots use NLP/LLMs to interact with users in human language.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed Claude?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Anthropic",
+        "Meta",
+        "IBM",
+        "Tesla"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Claude is Anthropic’s AI chatbot/model family.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed Gemini?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Meta",
+        "Amazon"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>Gemini is Google’s AI model family.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed LLaMA?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Meta",
+        "OpenAI",
+        "Apple",
+        "Oracle"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>LLaMA is Meta’s family of language models.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which company developed ChatGPT?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "OpenAI",
+        "Adobe",
+        "Intel",
+        "Samsung"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>ChatGPT is a conversational AI system developed by OpenAI.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The second constitution (1962) of Pakistan was enforced on?",
+      "urdu": "پاکستان کا دوسرا آئین (1962) کب نافذ ہوا؟",
+      "options": [
+        "14th August 1973",
+        "8th  June 1962",
+        "23rd March 1956",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which AI system defeated the world chess champion Garry Kasparov in 1997?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Deep Blue",
+        "AlphaGo",
+        "Watson",
+        "ChatGPT"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">IBM's Deep\r\nBlue defeated Garry Kasparov in chess in 1997.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does 'ML' stand for in AI?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Machine Language",
+        "Manual Learning",
+        "Machine Learning",
+        "Multi Logic"
+      ],
+      "correct": 2,
+      "explanation": "<p><i><span style='font-size:10.0pt;\r\nfont-family:\"Arial\",\"sans-serif\";mso-fareast-font-family:Arial;color:#0070C0;\r\nmso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'>ML\r\nstands for Machine Learning, a subset of AI that learns from data.</span></i></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Countries are members of OIC?",
+      "urdu": "او آئی سی کے کتنے رکن ممالک ہیں؟",
+      "options": [
+        "55",
+        "56",
+        "57",
+        "69"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"segoe=\"\" arial,=\"\" color=\"\" emoji\",=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\";\"=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which programming language is most commonly used in AI development?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Python",
+        "Assembly",
+        "COBOL",
+        "HTML"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Python is\r\nthe most popular AI language due to libraries like TensorFlow and PyTorch.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is widely regarded as the 'Father of Artificial Intelligence'?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "John McCarthy",
+        "Marvin Minsky",
+        "Geoffrey Hinton",
+        "Alan Turing"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">John\r\nMcCarthy coined the term 'Artificial Intelligence' in 1956 at the Dartmouth\r\nConference.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the most important factor for getting a useful answer from an LLM?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fast internet",
+        "Clear prompt",
+        "Large monitor",
+        "Antivirus"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style='font-size:12.0pt;line-height:107%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\";\r\ncolor:#0070C0;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:\r\nAR-SA'>A clear prompt helps the model understand the task, context, and\r\nexpected output.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which type of machine learning uses labeled data?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Unsupervised Learning",
+        "Deep Learning",
+        "Supervised Learning",
+        "Reinforcement Learning"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">Supervised\r\nlearning trains models using labeled input-output pairs.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does 'AI' stand for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Adaptive Interface",
+        "Augmented Information",
+        "Artificial Intelligence",
+        "Automated Intelligence"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:6.0pt;\r\nmargin-left:.25in\"><i><span style=\"font-size:10.0pt;color:#0070C0\">AI stands\r\nfor Artificial Intelligence, the simulation of human intelligence by machines.</span></i><span style=\"color:#0070C0\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Scarcity is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Lack",
+        "Shortage",
+        "Abundance",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" style=\"\"><span style=\"background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 01-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "PRUDENT can be substituted with ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Wise",
+        "Careless",
+        "Foolish",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: “To turn over a new leaf” means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Do a new jobs",
+        "Change one’s behaviour for the better",
+        "Read between the pages of a book",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Facial recognition is a prime example of ______?",
+      "urdu": "چہرے کی شناخت کس کی نمایاں مثال ہے؟",
+      "options": [
+        "Artificial Intelligence (AI)",
+        "Cybersecurity",
+        "Cloud Computing",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Salat-e-Kasoof is offered at the time of ____?",
+      "urdu": "نماز کسوف ____ کے وقت پڑھی جاتی ہے؟",
+      "options": [
+        "Earthquake",
+        "Lunar eclipse",
+        "Solar (Sun) eclipse",
+        "Heavy rain"
+      ],
+      "correct": 2,
       "explanation": "<p></p>",
       "category": "all"
     },
     {
-      "q": "The Arabian Desert is primarily located in which region?",
-      "urdu": "صحرائے عرب بنیادی طور پر کس علاقے میں واقع ہے؟",
+      "q": "Glass is an example of ______?",
+      "urdu": "شیشہ کس کی مثال ہے؟",
       "options": [
-        "Northern Africa",
-        "Western Asia",
-        "Southern Europe",
-        "Central America"
+        "Crystalline solid",
+        "Liquid",
+        "Amorphous solid",
+        "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">It primarily </font><font color=\"#ff0000\">covers</font><font color=\"#0000ff\"> much of the </font><font color=\"#ff0000\">Arabian Peninsula</font><font color=\"#0000ff\">, including </font><font color=\"#ff0000\">countries</font><font color=\"#0000ff\"> such as:</font></b></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which country is called the 'Land of Golden Fiber'?",
-      "urdu": "کس ملک کو \"سنہری ریشے کی سرزمین\" کہا جاتا ہے؟",
+      "q": "The Synonym of Obsolete is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Bangladesh",
-        "India",
-        "China",
-        "Bhutan",
+        "Outdated",
+        "New",
+        "Modern",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which country is called Land of Thousand Lakes?",
-      "urdu": "کس ملک کو ہزار جھیلوں کی سرزمین کہا جاتا ہے؟",
+      "q": "Which is the first country to launch 5G network service?",
+      "urdu": "فائیو جی نیٹ ورک سروس شروع کرنے والا پہلا ملک کون سا ہے؟",
       "options": [
-        "Indonesia",
-        "Maldives",
-        "Finland",
-        "Iceland"
+        "Pakistan",
+        "South Korea",
+        "USA",
+        "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "correct": 1,
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "FATA was merged with KPK under which constitutional amendment?",
-      "urdu": "فاٹا کو خیبر پختونخوا میں کس آئینی ترمیم کے تحت ضم کیا گیا؟",
+      "q": "Where there is a will, there is a _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "22nd",
-        "23rd",
-        "24th",
-        "25th"
+        "Plan",
+        "Path",
+        "Solution",
+        "Way"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: Add fuel to the fire means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Create problem",
+        "Worsen bad situation",
+        "Aggravate trouble",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "RAM is a ______ memory.",
+      "urdu": "ریم ایک ______ میموری ہے۔",
+      "options": [
+        "Permanent",
+        "Volatile",
+        "Primary Memory",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "LAN stands for _____?",
+      "urdu": "ایل اے این کا مطلب کیا ہے؟",
+      "options": [
+        "Limited Area Network",
+        "Logical Area Network",
+        "Local Area Network",
+        "Large Area Network"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "GUI stands for _______?",
+      "urdu": "جی آئ یو کا مطلب کیا ہے؟",
+      "options": [
+        "Graphical Use Interface",
+        "Graphical User Interface",
+        "Graphic User Interface",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sector is the biggest consumer of electricity in Pakistan?",
+      "urdu": "پاکستان میں بجلی کا سب سے بڑا صارف کون سا شعبہ ہے؟",
+      "options": [
+        "Domestic",
+        "Industrial",
+        "Commerical",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is the largest trading partner of Pakistan?",
+      "urdu": "پاکستان کا سب سے بڑا تجارتی شراکت دار کون سا ملک ہے؟",
+      "options": [
+        "Saudi Arabia",
+        "China",
+        "Japan",
+        "USA"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Total amendments in the 1973 constitution of Pakistan?",
+      "urdu": "پاکستان کے 1973 کے آئین میں کل کتنی ترامیم کی جا چکی ہیں؟",
+      "options": [
+        "20",
+        "22",
+        "25",
+        "27"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Abu Bakr (R.A) entrusted the work / responsibility of compilation of the Holy Quran to whom?",
+      "urdu": "حضرت ابو بکر صدیقؓ نے قرآن مجید کی جمع و تدوین کی ذمہ داری کس کو سونپی؟",
+      "options": [
+        "Hazrat Amir (R.A)",
+        "Hazrat Zaid bin Sabit (R.A)",
+        "Hazrat Usama bin Zaid (R.A)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 25-06-2026</font></span></p>",
       "category": "all"
     }
   ]
