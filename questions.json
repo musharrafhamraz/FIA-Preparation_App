@@ -3,7 +3,7 @@
     "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-08T09:22:50.937286",
+    "fetched_at": "2026-07-08T15:15:08.851609",
     "source": "live_scrape"
   },
   "questions": [
@@ -34,19 +34,6 @@
       "category": "general-knowledge"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
       "q": "Who is known as the Father of the Nation in Pakistan?",
       "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
@@ -71,6 +58,19 @@
       "correct": 1,
       "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
       "category": "general-knowledge"
+    },
+    {
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     }
   ]
 }
