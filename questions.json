@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-08T04:13:22.341652",
+    "fetched_at": "2026-07-08T09:22:50.937286",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "In MS Word, 'Cross-reference' is used to?",
-      "urdu": "(ایم ایس ورڈ میں 'کراس-رفرنس' کس مقصد کے لیے استعمال ہوتا ہے؟)",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Compare fonts",
-        "Link to another part of the same document",
-        "Compare two documents",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In official correspondence, 'Demi-Official' letters are written in?",
-      "urdu": "سرکاری خط و کتابت میں ڈیمی آفیشل خطوط کس انداز میں لکھے جاتے ہیں؟",
-      "options": [
-        "Passive voice only",
-        "First person with a personal tone",
-        "Third person formal style",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is phishing?",
-      "urdu": "فِشنگ کیا ہے؟",
-      "options": [
-        "A method of encrypting data for security",
-        "Cybercrime involving fraudulent emails or messages to obtain sensitive information / Duplicitous efforts to steal delicate information by imitating trusted entity",
-        "A technique to speed up network connections",
-        "A way to block access to websites"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, which function counts only non-empty cells in a range?",
-      "urdu": "ایم ایس ایکسل میں کون سا فنکشن کسی رینج میں صرف خالی نہ ہونے والے سیلز کو شمار کرتا ہے؟",
-      "options": [
-        "COUNTA()",
-        "COUNT()",
-        "COUNTIF()",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "Which ocean lies between Africa and Australia?",
-      "urdu": "افریقہ اور آسٹریلیا کے درمیان کون سا سمندر واقع ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
         "Atlantic Ocean",
-        "Arctic Ocean",
         "Indian Ocean",
-        "None of these"
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "The 'Paris Agreement' (2015) is an international treaty on?",
-      "urdu": "پیرس معاہدہ 2015 کس موضوع پر ایک بین الاقوامی معاہدہ ہے؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Climate change",
-        "Trade and tariffs",
-        "Nuclear disarmament",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Nuremberg Trials after WWII were held to prosecute?",
-      "urdu": "دوسری جنگِ عظیم کے بعد نیورمبرگ ٹرائلز کس کے خلاف مقدمات چلانے کے لیے منعقد کیے گئے تھے؟",
-      "options": [
-        "Soviet officers",
-        "Japanese war criminals",
-        "Nazi German war criminals",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 'Demographic Dividend' refers to?",
-      "urdu": "ڈیموگرافک ڈویڈنڈ سے کیا مراد ہے؟",
-      "options": [
-        "Immigration benefits",
-        "Economic benefits from an aging population",
-        "Growth potential from a large working-age population",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sputnik-1 was the first manmade spacecraft, which was launched on October 4, 1957 by the ____?",
-      "urdu": "اسپتنک-1، دنیا کا پہلا مصنوعی خلائی سیارہ، 4 اکتوبر 1957 کو کس ملک نے لانچ کیا؟",
-      "options": [
-        "USSR (Soviet Union)",
-        "United States of America",
-        "China",
-        "Great Britain"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "AI stands for ______?",
-      "urdu": "اے آئی کا مطلب کیا ہے؟",
-      "options": [
-        "Artificial Information",
-        "Artificial Intelligence",
-        "Actual Information",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the purpose of the Marshall Plan in 1948?",
-      "urdu": "سن 1948 میں مارشل پلان کا مقصد کیا تھا؟",
-      "options": [
-        "Foreign aid to Western Europe / Rebuild war-torn European economies",
-        "Economic assistance to Africa",
-        "Recovery from WW1",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The human genome project was completed in?",
-      "urdu": "ہیومن جینوم پروجیکٹ کب مکمل ہوا؟",
-      "options": [
-        "2000",
-        "2003",
-        "2010",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was ASEAN (Association of Southeast Asian Nations) founded?",
-      "urdu": "آسیان (جنوب مشرقی ایشیائی ممالک کی تنظیم) کب قائم ہوئی؟",
-      "options": [
-        "8th August 1968",
-        "8th August 1967",
-        "8th August 1969",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Green revolution refers to the development of ________?",
-      "urdu": "گرین ریولوشن سے کیا مراد ہے؟",
-      "options": [
-        "Dwarf varieties",
-        "Introduction of high-yield crop varieties & techniques / Dwarf high fertilizer responsive varieties",
-        "Fertilizer responsive varieties",
-        "All of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who discover Penicillin?",
-      "urdu": "پینسلن کس نے دریافت کی؟",
-      "options": [
-        "Alexander Fleming",
-        "Louis Pasteur",
-        "Edward Jenner",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 01-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Bosphorus Strait is located in?",
-      "urdu": "آبنائے باسفورس کہاں واقع ہے؟",
-      "options": [
-        "Turkey",
-        "Greece",
-        "Egypt",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country has received maximum Nobel Prizes after its institution?",
-      "urdu": "نوبیل انعام کے اجراء کے بعد سب سے زیادہ نوبیل انعام کس ملک نے حاصل کیے ہیں؟",
-      "options": [
-        "Germany",
-        "France",
-        "USA",
-        "U.K"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Top 5 Countries by Nobel Laureates</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 'Pandemic' COVID-19 was declared a global health emergency in?",
-      "urdu": "کووڈ-19 کو عالمی صحت کی ہنگامی صورتحال کب قرار دیا گیا؟",
-      "options": [
-        "2021",
-        "2019",
-        "2020",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Nuclear Non-Proliferation Treaty (NPT) was formed in 1968 for what purpose?",
-      "urdu": "این پی ٹی کس مقصد کے لئے 1968 میں تشکیل دی گئی تھی؟",
-      "options": [
-        "To promote space exploration",
-        "To develop nuclear energy",
-        "To stop the spread of nuclear weapons",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is called the Father of Internet?",
-      "urdu": "انٹرنیٹ کا باپ کسے کہا جاتا ہے؟",
-      "options": [
-        "Vint Cerf",
-        "Charles Babbage",
-        "Tim Berners Lee",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Geopolitics' refers to?",
-      "urdu": "جیو پولیٹکس سے کیا مراد ہے؟",
-      "options": [
-        "Environmental policy",
-        "Geological surveys",
-        "Influence of geography on politics and IR",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which international body issues the Human Development Index (HDI)?",
-      "urdu": "ہیومن ڈیولپمنٹ انڈیکس کس بین الاقوامی ادارے کی طرف سے جاری کیا جاتا ہے؟",
-      "options": [
-        "UNDP",
-        "World Bank",
-        "IMF",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Main Indicators: </font><font color=\"#ff0000\">3</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Magna Carta signed by King John of England?",
-      "urdu": "بادشاہ جان آف انگلینڈ نے میگنا کارٹا کب دستخط کیا؟",
-      "options": [
-        "1212",
-        "1215",
-        "1216",
-        "1218"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 14.6667px; white-space-collapse: preserve; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan's Electronic Voting Machine (EVM) debate primarily concerns?",
-      "urdu": "پاکستان میں الیکٹرانک ووٹنگ مشین پر بحث بنیادی طور پر کس معاملے سے متعلق ہے؟",
-      "options": [
-        "Cost of elections",
-        "Voter registration",
-        "Accuracy, transparency, and cybersecurity",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 18th Constitutional Amendment Act was passed on _____?",
-      "urdu": "اٹھارویں آئینی ترمیمی ایکٹ _____ پر منظور کیا گیا؟",
-      "options": [
-        "19th April 2010",
-        "8th April 2010",
-        "10th April 2010",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Makran Coastal Highway connects Karachi to?",
-      "urdu": "مکران کوسٹل ہائی وے کراچی کو کس شہر سے ملاتی ہے؟",
-      "options": [
-        "Quetta",
-        "Gwadar",
-        "Turbat",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Civil aviation regulations in Pakistan come under which authority?",
-      "urdu": "پاکستان میں سول ایوی ایشن کے قوانین اور ضوابط کس ادارے کے تحت آتے ہیں؟",
-      "options": [
-        "Pakistan Civil Aviation Authority (CAA)",
-        "Airport Security Force (ASF)",
-        "Pakistan International Airlines (PIA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mangla Dam was constructed/situated on the which river?",
-      "urdu": "منگلا ڈیم کس دریا پر تعمیر کیا گیا ہے؟",
-      "options": [
-        "Indus",
-        "Sutlej",
-        "Jhelum",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: justify;\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-06-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first Commander-in-Chief of Pakistan Army?",
-      "urdu": "پاکستان آرمی کا پہلا کمانڈر انچیف کون تھا؟",
-      "options": [
-        "Gen. George Murphy",
-        "G.M. Ayub Khan",
-        "Gen. Frank Meservy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Kirthar national park is in which province of Pakistan?",
-      "urdu": "کیرتھر نیشنل پارک پاکستان کے کس صوبے میں واقع ہے؟",
-      "options": [
-        "Punjab",
-        "Sindh",
-        "KPK",
-        "None"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 07-07-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan's Public Service Commission at federal level is called?",
-      "urdu": "پاکستان میں وفاقی سطح پر پبلک سروس کمیشن کو کیا کہا جاتا ہے؟",
-      "options": [
-        "FPSC",
-        "PPSC",
-        "CSS",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Rawal Dam supplies water to?",
-      "urdu": "راول ڈیم کن شہروں کو پانی فراہم کرتا ہے؟",
-      "options": [
-        "Islamabad and Rawalpindi",
-        "Lahore",
         "Karachi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Symbol\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which constitutional body is responsible for the delimitation of constituencies in Pakistan?",
-      "urdu": "پاکستان میں انتخابی حلقہ بندی کی ذمہ دار آئینی ادارہ کون سا ہے؟",
-      "options": [
-        "NADRA",
-        "FBR",
-        "Election Commission of Pakistan",
-        "None of these"
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What is the height of K2 (Godwin Austin), second highest mountain of world?",
-      "urdu": "دنیا کے دوسرے بلند ترین پہاڑ گاڈون آسٹن (کے ٹو) کی اونچائی کتنی ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "8,511 meters (27,923 feet)",
-        "8,611 meters (28,251 feet)",
-        "8,848 meters (29,029 feet)",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 12-03-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Noble Peace Prize in 2014 was won by a Pakistani ______?",
-      "urdu": "سن 2014 میں نوبل امن انعام ایک پاکستانی ______ نے جیتا تھا؟",
-      "options": [
-        "Malala Yousafzai",
-        "Imran Khan",
-        "Abdul Salam",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Suleman Range is located along the boundary between?",
-      "urdu": "سلیمان پہاڑی سلسلہ کن علاقوں کی سرحد کے ساتھ واقع ہے؟",
-      "options": [
-        "Balochistan and Punjab/KPK",
-        "Punjab and Sindh",
-        "KPK and Afghanistan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When NADRA was established?",
-      "urdu": "نادرا کب قائم ہوا؟",
-      "options": [
-        "March 10, 2001",
-        "March 10, 2003",
-        "March 10, 2000",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 'Hamoodur Rahman Commission' investigated the events of?",
-      "urdu": "حمود الرحمٰن کمیشن نے کن واقعات کی تحقیقات کیں؟",
-      "options": [
-        "1971 War and Fall of Dhaka",
-        "1965 War",
-        "Kargil 1999",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Strategic Plans Division (SPD) of Pakistan oversees?",
-      "urdu": "پاکستان کا اسٹریٹیجک پلانز ڈویژن کس کی نگرانی کرتا ہے؟",
-      "options": [
-        "Nuclear assets management",
-        "Economic planning",
-        "Intelligence agencies",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which constitutional article provides for the Fundamental Rights of citizens in Pakistan?",
-      "urdu": "پاکستان کے شہریوں کے بنیادی حقوق کس آئینی آرٹیکل میں دیے گئے ہیں؟",
-      "options": [
-        "Article 8–28",
-        "Article 32–45",
-        "Article 40–60",
-        "Article 90–120"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Indus Basin Replacement Works under the Indus Waters Treaty was funded by?",
-      "urdu": "سندھ طاس معاہدے کے تحت انڈس بیسن ریپلیسمنٹ ورکس کی مالی معاونت کس نے کی؟",
-      "options": [
-        "World Bank and international consortium",
-        "Pakistan alone",
-        "India alone",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the First female Speaker of National Assembly of Pakistan?",
-      "urdu": "پاکستان کی قومی اسمبلی کی پہلی خاتون اسپیکر کون تھیں؟",
-      "options": [
-        "Fahmida Mirza",
-        "Ayesha Mirza",
-        "Sofia Mirza",
-        "Pakeeza Mirza"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Agartala Conspiracy Case was between State and?",
-      "urdu": "آگرتالہ سازش کیس ریاست اور کس کے درمیان تھا؟",
-      "options": [
-        "Zulfikar Ali Bhutto",
-        "Sheikh Mujibur Rahman",
-        "Ayub Khan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin: 0.5em 0px 1em;\"><span style=\"background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-radius: 2px; background-color: rgb(255, 255, 255);\"><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">Muhammad Ayub Khan</span></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current Advocate General Islamabad Capital Territory?",
-      "urdu": "اسلام آباد کیپیٹل ٹیریٹری کے موجودہ ایڈووکیٹ جنرل کون ہیں؟",
-      "options": [
-        "Niazullah Niazi",
-        "Jahangir Jadoon",
-        "Naveed Hayat Malik",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\"><img data-filename=\"1000373950.webp\" src=\"data:image/webp;base64,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\" style=\"width: 267.818px;\"/><br/></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Prime Minister along with his cabinet ministers __________ coming today.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Were",
-        "Is",
-        "Are",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word 'Equivocate' means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To disagree strongly",
-        "To speak clearly",
-        "To use ambiguous language to avoid committing oneself",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sentence uses \"whom\" correctly? To whom should I address this letter?, Whom is going to the conference?, Whom wrote this report?, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To whom should I address this letter?",
-        "Whom is going to the conference?",
-        "Whom wrote this report?",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Probity is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Complete honesty",
-        "Honesty",
-        "Moral uprightness",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A 'Précis' should be approximately ______ of the original passage.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Two-thirds",
-        "One-quarter",
-        "One-third",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correctly punctuated sentence: The report, which was late was rejected., The report which was late was rejected., The report which was late, was rejected., The report, which was late, was rejected.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The report, which was late was rejected.",
-        "The report which was late was rejected.",
-        "The report which was late, was rejected.",
-        "The report, which was late, was rejected."
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
