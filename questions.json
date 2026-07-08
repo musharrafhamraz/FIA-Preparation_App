@@ -3,10 +3,296 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-07T20:43:51.861277",
+    "fetched_at": "2026-07-08T04:13:22.341652",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "In MS Word, 'Cross-reference' is used to?",
+      "urdu": "(ایم ایس ورڈ میں 'کراس-رفرنس' کس مقصد کے لیے استعمال ہوتا ہے؟)",
+      "options": [
+        "Compare fonts",
+        "Link to another part of the same document",
+        "Compare two documents",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In official correspondence, 'Demi-Official' letters are written in?",
+      "urdu": "سرکاری خط و کتابت میں ڈیمی آفیشل خطوط کس انداز میں لکھے جاتے ہیں؟",
+      "options": [
+        "Passive voice only",
+        "First person with a personal tone",
+        "Third person formal style",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is phishing?",
+      "urdu": "فِشنگ کیا ہے؟",
+      "options": [
+        "A method of encrypting data for security",
+        "Cybercrime involving fraudulent emails or messages to obtain sensitive information / Duplicitous efforts to steal delicate information by imitating trusted entity",
+        "A technique to speed up network connections",
+        "A way to block access to websites"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel, which function counts only non-empty cells in a range?",
+      "urdu": "ایم ایس ایکسل میں کون سا فنکشن کسی رینج میں صرف خالی نہ ہونے والے سیلز کو شمار کرتا ہے؟",
+      "options": [
+        "COUNTA()",
+        "COUNT()",
+        "COUNTIF()",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which ocean lies between Africa and Australia?",
+      "urdu": "افریقہ اور آسٹریلیا کے درمیان کون سا سمندر واقع ہے؟",
+      "options": [
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Paris Agreement' (2015) is an international treaty on?",
+      "urdu": "پیرس معاہدہ 2015 کس موضوع پر ایک بین الاقوامی معاہدہ ہے؟",
+      "options": [
+        "Climate change",
+        "Trade and tariffs",
+        "Nuclear disarmament",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Nuremberg Trials after WWII were held to prosecute?",
+      "urdu": "دوسری جنگِ عظیم کے بعد نیورمبرگ ٹرائلز کس کے خلاف مقدمات چلانے کے لیے منعقد کیے گئے تھے؟",
+      "options": [
+        "Soviet officers",
+        "Japanese war criminals",
+        "Nazi German war criminals",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Demographic Dividend' refers to?",
+      "urdu": "ڈیموگرافک ڈویڈنڈ سے کیا مراد ہے؟",
+      "options": [
+        "Immigration benefits",
+        "Economic benefits from an aging population",
+        "Growth potential from a large working-age population",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sputnik-1 was the first manmade spacecraft, which was launched on October 4, 1957 by the ____?",
+      "urdu": "اسپتنک-1، دنیا کا پہلا مصنوعی خلائی سیارہ، 4 اکتوبر 1957 کو کس ملک نے لانچ کیا؟",
+      "options": [
+        "USSR (Soviet Union)",
+        "United States of America",
+        "China",
+        "Great Britain"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "AI stands for ______?",
+      "urdu": "اے آئی کا مطلب کیا ہے؟",
+      "options": [
+        "Artificial Information",
+        "Artificial Intelligence",
+        "Actual Information",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the purpose of the Marshall Plan in 1948?",
+      "urdu": "سن 1948 میں مارشل پلان کا مقصد کیا تھا؟",
+      "options": [
+        "Foreign aid to Western Europe / Rebuild war-torn European economies",
+        "Economic assistance to Africa",
+        "Recovery from WW1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The human genome project was completed in?",
+      "urdu": "ہیومن جینوم پروجیکٹ کب مکمل ہوا؟",
+      "options": [
+        "2000",
+        "2003",
+        "2010",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was ASEAN (Association of Southeast Asian Nations) founded?",
+      "urdu": "آسیان (جنوب مشرقی ایشیائی ممالک کی تنظیم) کب قائم ہوئی؟",
+      "options": [
+        "8th August 1968",
+        "8th August 1967",
+        "8th August 1969",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Green revolution refers to the development of ________?",
+      "urdu": "گرین ریولوشن سے کیا مراد ہے؟",
+      "options": [
+        "Dwarf varieties",
+        "Introduction of high-yield crop varieties & techniques / Dwarf high fertilizer responsive varieties",
+        "Fertilizer responsive varieties",
+        "All of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who discover Penicillin?",
+      "urdu": "پینسلن کس نے دریافت کی؟",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Edward Jenner",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 01-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Bosphorus Strait is located in?",
+      "urdu": "آبنائے باسفورس کہاں واقع ہے؟",
+      "options": [
+        "Turkey",
+        "Greece",
+        "Egypt",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has received maximum Nobel Prizes after its institution?",
+      "urdu": "نوبیل انعام کے اجراء کے بعد سب سے زیادہ نوبیل انعام کس ملک نے حاصل کیے ہیں؟",
+      "options": [
+        "Germany",
+        "France",
+        "USA",
+        "U.K"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Top 5 Countries by Nobel Laureates</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Pandemic' COVID-19 was declared a global health emergency in?",
+      "urdu": "کووڈ-19 کو عالمی صحت کی ہنگامی صورتحال کب قرار دیا گیا؟",
+      "options": [
+        "2021",
+        "2019",
+        "2020",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nuclear Non-Proliferation Treaty (NPT) was formed in 1968 for what purpose?",
+      "urdu": "این پی ٹی کس مقصد کے لئے 1968 میں تشکیل دی گئی تھی؟",
+      "options": [
+        "To promote space exploration",
+        "To develop nuclear energy",
+        "To stop the spread of nuclear weapons",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is called the Father of Internet?",
+      "urdu": "انٹرنیٹ کا باپ کسے کہا جاتا ہے؟",
+      "options": [
+        "Vint Cerf",
+        "Charles Babbage",
+        "Tim Berners Lee",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The term 'Geopolitics' refers to?",
+      "urdu": "جیو پولیٹکس سے کیا مراد ہے؟",
+      "options": [
+        "Environmental policy",
+        "Geological surveys",
+        "Influence of geography on politics and IR",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which international body issues the Human Development Index (HDI)?",
+      "urdu": "ہیومن ڈیولپمنٹ انڈیکس کس بین الاقوامی ادارے کی طرف سے جاری کیا جاتا ہے؟",
+      "options": [
+        "UNDP",
+        "World Bank",
+        "IMF",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Main Indicators: </font><font color=\"#ff0000\">3</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "When Magna Carta signed by King John of England?",
       "urdu": "بادشاہ جان آف انگلینڈ نے میگنا کارٹا کب دستخط کیا؟",
@@ -368,292 +654,6 @@
         "The report, which was late, was rejected."
       ],
       "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of the Inimical is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Friendly",
-        "Hostile",
-        "Helpful",
-        "Amiable"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which device is used in: 'Fair is foul, and foul is fair' (Macbeth)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Anaphora",
-        "Alliteration",
-        "Chiasmus",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fill in the blank: The report was ______ flawed that it was rejected.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "So",
-        "Very",
-        "Such",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The correct plural of 'phenomenon' is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Phenom",
-        "Phenomenas",
-        "Phenomena",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sentence has a misplaced modifier? She drove nearly all children to school, She nearly drove her children to school every day, She drove her children to school nearly every day, Nearly every day she drove her children to school",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "She drove nearly all children to school",
-        "She nearly drove her children to school every day",
-        "She drove her children to school nearly every day",
-        "Nearly every day she drove her children to school"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Enervate is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Weaken",
-        "Strengthen",
-        "Excite",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct form: Had I known earlier, I _______ helped.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Should",
-        "Would",
-        "Will have",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is an example of 'synecdoche'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "All hands on deck",
-        "Life is a journey",
-        "She is as fast as a cheetah",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which CE year did the Prophet Muhammad (PBUH) migrate (Hijrah) from Makkah to Madinah?",
-      "urdu": "نبی کریم صلی اللہ علیہ وسلم نے مکہ مکرمہ سے مدینہ منورہ کی طرف ہجرت (ہجرت) کس عیسوی میں کی؟",
-      "options": [
-        "610 CE",
-        "620 CE",
-        "622 CE",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The literary term 'In medias res' means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In conclusion",
-        "In the middle of things",
-        "At the beginning",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He spoke with such _____ that everyone was convinced.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Elocution",
-        "Eloquence",
-        "Eloquently",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: The jury has reached their verdict, The jury has reached its verdict, The jury reach its verdict, The jury have reached its verdict",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The jury has reached their verdict",
-        "The jury has reached its verdict",
-        "The jury reach its verdict",
-        "The jury have reached its verdict"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word 'Mendacious' means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Untruthful/Lying",
-        "Truthful",
-        "Aggressive",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Aqeedah' (literal meaning) in Islam refers to?",
-      "urdu": "اسلام میں \"عقیدہ\" سے کیا مراد ہے؟",
-      "options": [
-        "The tie of knot",
-        "Religious creed and beliefs",
-        "Islamic law",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Prophet was swallowed by a whale (fish) and remained in its abdomen?",
-      "urdu": "کون سے نبی مچھلی (وہیل) کے پیٹ میں رہے تھے؟",
-      "options": [
-        "Hazrat Ibrahim AS",
-        "Hazrat Musa AS",
-        "Hazrat Younas AS",
-        "Hazrat Dawood AS"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word 'Tafseer' means?",
-      "urdu": "لفظ \"تفسیر\" کا کیا مطلب ہے؟",
-      "options": [
-        "Explanation/commentary of the Quran",
-        "Hadith collection",
-        "Islamic law",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Musharik' in Islamic law refers to?",
-      "urdu": "اسلامی اصطلاح \"مشرک\" سے کیا مراد ہے؟",
-      "options": [
-        "One who commits Shirk",
-        "A partner in business",
-        "A witness",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Surah is also called 'Surah al-Ahzab?",
-      "urdu": "کون سی سورت \"سورۃ الاحزاب\" کہلاتی ہے؟",
-      "options": [
-        "Surah 34",
-        "Surah 33",
-        "Surah 36",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Salat-e-Kasoof is offered at the time of ____?",
-      "urdu": "نماز کسوف ____ کے وقت پڑھی جاتی ہے؟",
-      "options": [
-        "Earthquake",
-        "Lunar eclipse",
-        "Solar (Sun) eclipse",
-        "Heavy rain"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the meaning of Tauheed?",
-      "urdu": "توحید کا کیا مطلب ہے؟",
-      "options": [
-        "The Oneness of Allah",
-        "The Prophethood",
-        "Angels",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><font face=\"Verdana\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat Abu Bakr (RA), the first Khalifa (Caliph) ruled for approximately how many years (duration)?",
-      "urdu": "خلیفہ اول حضرت ابوبکر رضی اللہ عنہ نے تقریباً کتنے سال (مدت) حکومت کی؟",
-      "options": [
-        "Two",
-        "Three",
-        "Four",
-        "Five"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Musnad' in Hadith science refers to?",
-      "urdu": "علمِ حدیث میں \"مسند\" سے کیا مراد ہے؟",
-      "options": [
-        "A fabricated Hadith",
-        "A weak Hadith",
-        "A Hadith with a connected chain back to Prophet SAW",
-        "None of these"
-      ],
-      "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
       "category": "all"
     }
