@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-08T15:15:08.851609",
+    "fetched_at": "2026-07-08T20:15:45.056974",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "Which death anniversary of Abdul Sattar Edhi was observed on 8 July 2026?",
+      "urdu": "آٹھ جولائی 2026 کو عبدالستار ایدھی کی کون سی برسی منائی گئی؟",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
-      ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
-    },
-    {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "9th",
+        "10th",
+        "11th",
+        "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150);\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-family: Helvetica; color: rgb(0, 0, 255);\">10th death anniversary of Abdul Sattar Edhi was observed on 8 July 2026</span></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "In government offices, 'Classified' documents are those that?",
+      "urdu": "سرکاری دفاتر میں 'کلاسیفائیڈ' دستاویزات سے کیا مراد ہے؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Are filed in alphabetical order",
+        "Are publicly available personnel only",
+        "Delicate data restricted to authorize personnel",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sentence correctly uses the 'absolute phrase'?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "We continued the storm passed",
+        "The storm having passed, we continued our journey",
+        "The storm passed, we continued",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Blockchain technology is primarily associated with which of the following?",
+      "urdu": "بلاک چین ٹیکنالوجی زیادہ تر کس چیز سے وابستہ ہے؟",
+      "options": [
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Cryptocurrency and secure digital transaction",
+        "Virtual Reality"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence: Small people attended than expected, Less people attended than expected, Little people attended than expected, Fewer people attended than expected",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Small people attended than expected",
+        "Less people attended than expected",
+        "Little people attended than expected",
+        "Fewer people attended than expected"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The term 'Digital Signature' in official documents is used for?",
+      "urdu": "سرکاری دستاویزات میں 'ڈجیجل سگنیچر' کس مقصد کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Email formatting",
+        "Handwritten signatures scanned",
+        "Cryptographic authentication of identify",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a 'lossy' image compression format?",
+      "urdu": "مندرجہ ذیل میں سے کون سا امیج کمپریشن فارمیٹ 'لاسی' ہے؟",
+      "options": [
+        "JPEG",
+        "PNG",
+        "BMP",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In official file tracking, 'Current Number' (C/No.) refers to?",
+      "urdu": "سرکاری فائل ٹریکنگ میں 'کرنٹ نمبر' سے کیا مراد ہے؟",
+      "options": [
+        "Year of record",
+        "Phone number of officer",
+        "Serial number of current file or correspondence",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel, the 'IF' function is used to?",
+      "urdu": "ایم ایس ایکسل میں 'اف' فنکشن کس مقصد کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Sort data",
+        "Perform conditional logic",
+        "Calculate averages",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A 'Memorandum of Understanding (MoU)' differs from a contract in that it?",
+      "urdu": "مفاہمتی یادداشت معاہدے سے کس طرح مختلف ہوتی ہے؟",
+      "options": [
+        "Is only between private parties",
+        "Is legally binding",
+        "Is usually not legally binding but expresses intent",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two-Factor Authentication  2FA requires?",
+      "urdu": "ٹو-فیکٹر آتھنٹیکیشن کے لیے کیا ضروری ہوتا ہے؟",
+      "options": [
+        "Only password",
+        "Only OTP",
+        "Password + second verification / A second layer of security requiring additional verification beyond a password",
+        "Username only"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, 'Table of Authorities' is used in?",
+      "urdu": "ایم ایس ورڈ میں 'ٹیبل آف اتھارٹیز' کس مقصد کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Financial reports",
+        "Scientific reports",
+        "Legal documents to cite cases and statutes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most secure method of password management is?",
+      "urdu": "پاس ورڈ کے محفوظ انتظام کا بہترین طریقہ کون سا ہے؟",
+      "options": [
+        "Using simple memorable passwords",
+        "Same password everywhere",
+        "Password manager with unique strong passwords",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In networking, 'VPN' stands for?",
+      "urdu": "نیٹ ورکنگ میں وی پی این کا مکمل نام کیا ہے؟",
+      "options": [
+        "Virtual Private Network",
+        "Visual Private Network",
+        "Virtual Protocol Network",
+        "Virtual Protocol Networking"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Agile' methodology is used in?",
+      "urdu": "ایجائل طریقۂ کار کس شعبے میں استعمال ہوتا ہے؟",
+      "options": [
+        "Software development project management",
+        "Office filing",
+        "HR management",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which MS Office tool would you use to create a professional org chart?",
+      "urdu": "پیشہ ورانہ تنظیمی چارٹ بنانے کے لیے ایم ایس آفس کا کون سا ٹول استعمال کیا جاتا ہے؟",
+      "options": [
+        "MS Outlook",
+        "MS Word only",
+        "MS PowerPoint SmartArt or Visio",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In government file management, 'FR' written on a file stands for?",
+      "urdu": "سرکاری فائل مینجمنٹ میں فائل پر لکھا ہوا 'ایف آر' کس چیز کی علامت ہے؟",
+      "options": [
+        "File Register",
+        "Final Report",
+        "Further Reference",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does 'PDF/A' format specifically ensure?",
+      "urdu": "پی ڈی ایف/اے فارمیٹ خاص طور پر کس چیز کو یقینی بناتا ہے؟",
+      "options": [
+        "Long-term archival preservation of documents",
+        "Smaller file size",
+        "Editable content",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel, 'HLOOKUP' searches for a value in?",
+      "urdu": "ایم ایس ایکسل میں 'ایچ لک اپ' کس جگہ ویلیو تلاش کرتا ہے؟",
+      "options": [
+        "A pivot table",
+        "A vertical column",
+        "A horizontal row",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The term 'SOP' in office administration stands for?",
+      "urdu": "دفتری انتظامیہ میں ایس او پی کا مطلب کیا ہے؟",
+      "options": [
+        "Standard Operating Procedure",
+        "Standard Official Procedure",
+        "System of Operations",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, 'Cross-reference' is used to?",
+      "urdu": "ایم ایس ورڈ میں 'کراس-رفرنس' کس مقصد کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Compare fonts",
+        "Link to another part of the same document",
+        "Compare two documents",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In official correspondence, 'Demi-Official' letters are written in?",
+      "urdu": "سرکاری خط و کتابت میں ڈیمی آفیشل خطوط کس انداز میں لکھے جاتے ہیں؟",
+      "options": [
+        "Passive voice only",
+        "First person with a personal tone",
+        "Third person formal style",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is phishing?",
+      "urdu": "فِشنگ کیا ہے؟",
+      "options": [
+        "A method of encrypting data for security",
+        "Cybercrime involving fraudulent emails or messages to obtain sensitive information / Duplicitous efforts to steal delicate information by imitating trusted entity",
+        "A technique to speed up network connections",
+        "A way to block access to websites"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel, which function counts only non-empty cells in a range?",
+      "urdu": "ایم ایس ایکسل میں کون سا فنکشن کسی رینج میں صرف خالی نہ ہونے والے سیلز کو شمار کرتا ہے؟",
+      "options": [
+        "COUNTA()",
+        "COUNT()",
+        "COUNTIF()",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which ocean lies between Africa and Australia?",
+      "urdu": "افریقہ اور آسٹریلیا کے درمیان کون سا سمندر واقع ہے؟",
+      "options": [
+        "Atlantic Ocean",
+        "Arctic Ocean",
+        "Indian Ocean",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Paris Agreement' (2015) is an international treaty on?",
+      "urdu": "پیرس معاہدہ 2015 کس موضوع پر ایک بین الاقوامی معاہدہ ہے؟",
+      "options": [
+        "Climate change",
+        "Trade and tariffs",
+        "Nuclear disarmament",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Nuremberg Trials after WWII were held to prosecute?",
+      "urdu": "دوسری جنگِ عظیم کے بعد نیورمبرگ ٹرائلز کس کے خلاف مقدمات چلانے کے لیے منعقد کیے گئے تھے؟",
+      "options": [
+        "Soviet officers",
+        "Japanese war criminals",
+        "Nazi German war criminals",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Demographic Dividend' refers to?",
+      "urdu": "ڈیموگرافک ڈویڈنڈ سے کیا مراد ہے؟",
+      "options": [
+        "Immigration benefits",
+        "Economic benefits from an aging population",
+        "Growth potential from a large working-age population",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sputnik-1 was the first manmade spacecraft, which was launched on October 4, 1957 by the ____?",
+      "urdu": "اسپتنک-1، دنیا کا پہلا مصنوعی خلائی سیارہ، 4 اکتوبر 1957 کو کس ملک نے لانچ کیا؟",
+      "options": [
+        "USSR (Soviet Union)",
+        "United States of America",
+        "China",
+        "Great Britain"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "AI stands for ______?",
+      "urdu": "اے آئی کا مطلب کیا ہے؟",
+      "options": [
+        "Artificial Information",
+        "Artificial Intelligence",
+        "Actual Information",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the purpose of the Marshall Plan in 1948?",
+      "urdu": "سن 1948 میں مارشل پلان کا مقصد کیا تھا؟",
+      "options": [
+        "Foreign aid to Western Europe / Rebuild war-torn European economies",
+        "Economic assistance to Africa",
+        "Recovery from WW1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The human genome project was completed in?",
+      "urdu": "ہیومن جینوم پروجیکٹ کب مکمل ہوا؟",
+      "options": [
+        "2000",
+        "2003",
+        "2010",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was ASEAN (Association of Southeast Asian Nations) founded?",
+      "urdu": "آسیان (جنوب مشرقی ایشیائی ممالک کی تنظیم) کب قائم ہوئی؟",
+      "options": [
+        "8th August 1968",
+        "8th August 1967",
+        "8th August 1969",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Green revolution refers to the development of ________?",
+      "urdu": "گرین ریولوشن سے کیا مراد ہے؟",
+      "options": [
+        "Organic farming",
+        "Introduction of high-yield crop varieties & techniques / Dwarf high fertilizer responsive varieties",
+        "Forest restoration",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who discover Penicillin?",
+      "urdu": "پینسلن کس نے دریافت کی؟",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Edward Jenner",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 01-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Bosphorus Strait is located in?",
+      "urdu": "آبنائے باسفورس کہاں واقع ہے؟",
+      "options": [
+        "Turkey",
+        "Greece",
+        "Egypt",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has received maximum Nobel Prizes after its institution?",
+      "urdu": "نوبیل انعام کے اجراء کے بعد سب سے زیادہ نوبیل انعام کس ملک نے حاصل کیے ہیں؟",
+      "options": [
+        "Germany",
+        "France",
+        "USA",
+        "U.K"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Top 5 Countries by Nobel Laureates</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Pandemic' COVID-19 was declared a global health emergency in?",
+      "urdu": "کووڈ-19 کو عالمی صحت کی ہنگامی صورتحال کب قرار دیا گیا؟",
+      "options": [
+        "2021",
+        "2019",
+        "2020",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nuclear Non-Proliferation Treaty (NPT) was formed in 1968 for what purpose?",
+      "urdu": "این پی ٹی کس مقصد کے لئے 1968 میں تشکیل دی گئی تھی؟",
+      "options": [
+        "To promote space exploration",
+        "To develop nuclear energy",
+        "To stop the spread of nuclear weapons",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is called the Father of Internet?",
+      "urdu": "انٹرنیٹ کا باپ کسے کہا جاتا ہے؟",
+      "options": [
+        "Vint Cerf",
+        "Charles Babbage",
+        "Tim Berners Lee",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The term 'Geopolitics' refers to?",
+      "urdu": "جیو پولیٹکس سے کیا مراد ہے؟",
+      "options": [
+        "Environmental policy",
+        "Geological surveys",
+        "Influence of geography on politics and IR",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which international body issues the Human Development Index (HDI)?",
+      "urdu": "ہیومن ڈیولپمنٹ انڈیکس کس بین الاقوامی ادارے کی طرف سے جاری کیا جاتا ہے؟",
+      "options": [
+        "UNDP",
+        "World Bank",
+        "IMF",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Main Indicators: </font><font color=\"#ff0000\">3</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When Magna Carta signed by King John of England?",
+      "urdu": "بادشاہ جان آف انگلینڈ نے میگنا کارٹا کب دستخط کیا؟",
+      "options": [
+        "1212",
+        "1215",
+        "1216",
+        "1218"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 14.6667px; white-space-collapse: preserve; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan's Electronic Voting Machine (EVM) debate primarily concerns?",
+      "urdu": "پاکستان میں الیکٹرانک ووٹنگ مشین پر بحث بنیادی طور پر کس معاملے سے متعلق ہے؟",
+      "options": [
+        "Cost of elections",
+        "Voter registration",
+        "Accuracy, transparency, and cybersecurity",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 18th Constitutional Amendment Act was passed on _____?",
+      "urdu": "اٹھارویں آئینی ترمیمی ایکٹ _____ پر منظور کیا گیا؟",
+      "options": [
+        "19th April 2010",
+        "8th April 2010",
+        "10th April 2010",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Makran Coastal Highway connects Karachi to?",
+      "urdu": "مکران کوسٹل ہائی وے کراچی کو کس شہر سے ملاتی ہے؟",
+      "options": [
+        "Quetta",
+        "Gwadar",
+        "Turbat",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Civil aviation regulations in Pakistan come under which authority?",
+      "urdu": "پاکستان میں سول ایوی ایشن کے قوانین اور ضوابط کس ادارے کے تحت آتے ہیں؟",
+      "options": [
+        "Pakistan Civil Aviation Authority (CAA)",
+        "Airport Security Force (ASF)",
+        "Pakistan International Airlines (PIA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mangla Dam was constructed/situated on the which river?",
+      "urdu": "منگلا ڈیم کس دریا پر تعمیر کیا گیا ہے؟",
+      "options": [
+        "Indus",
+        "Sutlej",
+        "Jhelum",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"text-align: justify;\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-06-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first Commander-in-Chief of Pakistan Army?",
+      "urdu": "پاکستان آرمی کا پہلا کمانڈر انچیف کون تھا؟",
+      "options": [
+        "Gen. George Murphy",
+        "G.M. Ayub Khan",
+        "Gen. Frank Meservy",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Kirthar national park is in which province of Pakistan?",
+      "urdu": "کیرتھر نیشنل پارک پاکستان کے کس صوبے میں واقع ہے؟",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "KPK",
+        "None"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 07-07-2026</font></b></span></p>",
+      "category": "all"
     }
   ]
 }
