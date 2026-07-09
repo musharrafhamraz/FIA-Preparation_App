@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-09T15:54:38.251573",
+    "fetched_at": "2026-07-09T20:41:26.364750",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What was the name of the shopkeeper from whom Quaid-e-Azam Muhammad Ali Jinnah used to buy clothes?",
+      "urdu": "اس دکاندار کا کیا نام تھا جس سے قائدِ اعظم محمد علی جناح کپڑے خریدا کرتے تھے؟",
+      "options": [
+        "Abdul Karim",
+        "Hamid Ali",
+        "Haji Abdullah",
+        "Ghulam Hussain"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Ismail (A.S.) married a woman from which tribe?",
+      "urdu": "حضرت اسماعیلؑ نے کس قبیلے کی خاتون سے شادی کی تھی؟",
+      "options": [
+        "Quraysh",
+        "Banu Hashim",
+        "Jurhum",
+        "Aws"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is celebrated in the United States on July 4?",
+      "urdu": "امریکہ میں 4 جولائی کو کیا منایا جاتا ہے؟",
+      "options": [
+        "Memorial Day",
+        "Veterans Day",
+        "Independence Day",
+        "Labor Day"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#00ff00\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "SAARC was founded in which city?",
+      "urdu": "سارک کس شہر میں قائم ہوا؟",
+      "options": [
+        "Beijing",
+        "Karachi",
+        "Khatmandu",
+        "Dhaka"
+      ],
+      "correct": 3,
+      "explanation": "<p \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; padding: 0px; font-family: \"><font color=\"#ff0000\" style=\"font-weight: bolder; font-size: 13px;\">Additional information</font></p>",
+      "category": "all"
+    },
     {
       "q": "Name the mother of Hazrat Yousaf (AS)?",
       "urdu": "حضرت یوسف علیہ السلام کی والدہ کا نام بتائیں؟",
@@ -21,7 +73,7 @@
       "category": "all"
     },
     {
-      "q": "Bird : Fly : : Snake : ?",
+      "q": "Bird : Fly :: Snake : ?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
         "Clatter",
@@ -603,58 +655,6 @@
       ],
       "correct": 3,
       "explanation": "<p><ol></ol></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, which shortcut is used for print preview?",
-      "urdu": "ایم ایس ورڈ میں پرنٹ پریویو کے لیے کون سا شارٹ کٹ استعمال ہوتا ہے؟",
-      "options": [
-        "Alt + O",
-        "Ctrl + F2",
-        "Shift + P",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "MS Word is a software developed by which company?",
-      "urdu": "ایم ایس ورڈ کس کمپنی کا تیار کردہ سافٹ ویئر ہے؟",
-      "options": [
-        "Microsoft",
-        "Apple",
-        "Google",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"font-family: Overpass, sans-serif; font-size: 14px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Sahabi remained in the fire for several days?",
-      "urdu": "کون سے صحابی کئی دن تک آگ میں رہے؟",
-      "options": [
-        "Hazrat Bilal (RA)",
-        "Hazrat Abu Hurairah (RA)",
-        "Hazrat Abu Muslim Khaulani (RA)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the length of Manchhar Lake?",
-      "urdu": "منچھر جھیل کی لمبائی کتنی ہے؟",
-      "options": [
-        "18.5 km (11.5 miles)",
-        "23.5 km (14.6 miles)",
-        "30.5 km (19.0 miles)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
       "category": "all"
     }
   ]
