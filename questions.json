@@ -3,10 +3,335 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-08T20:15:45.056974",
+    "fetched_at": "2026-07-09T04:51:24.750122",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The atmospheric pressure (air pressure) at any place is measured by _____?",
+      "urdu": "کسی بھی جگہ پر فضائی دباؤ (ہوا کا دباؤ) کس آلے سے ناپا جاتا ہے؟",
+      "options": [
+        "Altimeter",
+        "Pressure Meter",
+        "Barometer",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which singer made the “Moonwalk” dance famous?",
+      "urdu": "مون واک ڈانس کو کس گلوکار نے مشہور بنایا؟",
+      "options": [
+        "Michael Jackson",
+        "James Brown",
+        "Elvis Presley",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "“Eskimos” are the primitive people living in?",
+      "urdu": "ایسکیمو لوگ کہاں رہتے ہیں؟",
+      "options": [
+        "North America",
+        "Western Europe",
+        "Central Asia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the smallest country/state in world by land and population?",
+      "urdu": "رقبے اور آبادی کے لحاظ سے دنیا کا سب سے چھوٹا ملک/ریاست کون سا ہے؟",
+      "options": [
+        "UK",
+        "Nepal",
+        "Vatican city",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who wrote the play Romeo and Juliet?",
+      "urdu": "ڈرامہ رومیو اینڈ جولیٹ کس نے لکھا؟",
+      "options": [
+        "William Shakespeare",
+        "Charles Dickens",
+        "Mark Twain",
+        "Jane Austen"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "East Pakistan was separated from West Pakistan on _______?",
+      "urdu": "مشرقی پاکستان مغربی پاکستان سے کب الگ ہوا تھا؟",
+      "options": [
+        "27 December 1971",
+        "16 December 1971",
+        "14 December 1971",
+        "25 December 1971"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-06-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Currency of United Kingdom (UK)?",
+      "urdu": "برطانیہ اور انگلینڈ کی کرنسی کیا ہے؟",
+      "options": [
+        "Syrian Pound",
+        "Dobra",
+        "Pound Sterling",
+        "Lilangeni"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "At room temperature, the pH value of pure water is?",
+      "urdu": "عام کمرے کے درجہ حرارت پر خالص پانی کی پی ایچ کتنی ہوتی ہے؟",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Who was the artist of famous painting \"Mona Lisa\"?",
+      "urdu": "مشہور پینٹنگ \"مونا لیزا\" کا مصور کون تھا؟",
+      "options": [
+        "Michael-Angelo",
+        "Leonardo da Vinci",
+        "Picasso",
+        "Van Gogh"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-01-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is used in fire ‘extinguishers’?",
+      "urdu": "مندرجہ ذیل میں سے آگ بجھانے والے آلات میں کون سی گیس استعمال ہوتی ہے؟",
+      "options": [
+        "Carbon sulphite",
+        "Carbon monoxide",
+        "Carbon dioxide",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who invented Telephone?",
+      "urdu": "ٹیلی فون کو کس نے ایجاد کیا؟",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 31-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The symbol \"√\" is called _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cubic root",
+        "Index",
+        "Radical",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the temperature is 300 K and pressure is measured in atm while volume is in liters, what is the value of the universal gas constant (R)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "62.36 L·mmHg·mol⁻¹·K⁻¹",
+        "8.314 L·kPa·mol⁻¹·K⁻¹",
+        "0.0821 L·atm·mol⁻¹·K⁻¹",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">When pressure is in atm and volume is in liters, use R = </font><font color=\"#ff0000\">0.0821 L·atm·mol⁻¹·K⁻¹</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If pressure is in kPa and volume is in liters, what is the value of the universal gas constant (R)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "0.0821 L·atm·mol⁻¹·K⁻¹",
+        "8.314 L·kPa·mol⁻¹·K⁻¹",
+        "62.36 L·mmHg·mol⁻¹·K⁻¹",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">When pressure = kPa and volume = L, use R = </font><font color=\"#ff0000\">8.314 L·kPa·mol⁻¹·K⁻¹.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the percentage of 0.34?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3.4%",
+        "34%",
+        "340%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which is the currency of Canada?",
+      "urdu": "کینیڈا کی کرنسی کون سی ہے؟",
+      "options": [
+        "Yen",
+        "Rupee",
+        "Dinar",
+        "Dollar"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 112, 192); font-size: 12pt;\">Tricks for Remember</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The headquarters of International Court of Justice (ICJ) is located in _____?",
+      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
+      "options": [
+        "New York",
+        "Washington",
+        "Geneva",
+        "Hague"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Badshahi mosque at Lahore in 1673 was made by?",
+      "urdu": "لاہور میں 1673ء میں بادشاہی مسجد کس نے تعمیر کروائی",
+      "options": [
+        "Shah Jahan",
+        "Aurangzeb",
+        "Akbar",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "NATO stands for ______?",
+      "urdu": "نیٹو کا مطلب کیا ہے؟",
+      "options": [
+        "North Atlantic Treaty Organization",
+        "No Action Till Order",
+        "North Africa Treaty Organization",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following mountain peaks is called Killer Mountain?",
+      "urdu": "مندرجہ ذیل میں سے کس پہاڑی چوٹی کو قاتل پہاڑ کہا جاتا ہے؟",
+      "options": [
+        "Nanga Parbat",
+        "Godwin Austin",
+        "Broad Peak",
+        "Raka Poshi"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last verified by on 16-05-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The rate of doing work of a body is called?",
+      "urdu": "کسی جسم کے کام کرنے کی رفتار کو کیا کہتے ہیں؟",
+      "options": [
+        "Force",
+        "Area",
+        "Power",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest/biggest ocean of the world is ______?",
+      "urdu": "دنیا کا سب سے بڑا سمندر کونسا ہے؟",
+      "options": [
+        "Atlantic",
+        "Pacific",
+        "Indian",
+        "Arctic"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the first/old Capital of Pakistan?",
+      "urdu": "پاکستان کا پہلا دارالحکومت کون سا ہے؟",
+      "options": [
+        "Karachi",
+        "Rawalpindi",
+        "Lahore",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 02-03-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "“My brother” book was written by?",
+      "urdu": "کتاب \"ماءِ برادر\" کس نے لکھی؟",
+      "options": [
+        "Gulbadam Bagum",
+        "Fatima Jinnah",
+        "Hajra Masroor",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A black hole has a very strong ______?",
+      "urdu": "بلیک ہول میں بہت زیادہ طاقتور کیا ہوتا ہے؟",
+      "options": [
+        "Electric field",
+        "Magnetic field",
+        "Gravitational field",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which death anniversary of Abdul Sattar Edhi was observed on 8 July 2026?",
       "urdu": "آٹھ جولائی 2026 کو عبدالستار ایدھی کی کون سی برسی منائی گئی؟",
@@ -330,331 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 'Paris Agreement' (2015) is an international treaty on?",
-      "urdu": "پیرس معاہدہ 2015 کس موضوع پر ایک بین الاقوامی معاہدہ ہے؟",
-      "options": [
-        "Climate change",
-        "Trade and tariffs",
-        "Nuclear disarmament",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Nuremberg Trials after WWII were held to prosecute?",
-      "urdu": "دوسری جنگِ عظیم کے بعد نیورمبرگ ٹرائلز کس کے خلاف مقدمات چلانے کے لیے منعقد کیے گئے تھے؟",
-      "options": [
-        "Soviet officers",
-        "Japanese war criminals",
-        "Nazi German war criminals",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 'Demographic Dividend' refers to?",
-      "urdu": "ڈیموگرافک ڈویڈنڈ سے کیا مراد ہے؟",
-      "options": [
-        "Immigration benefits",
-        "Economic benefits from an aging population",
-        "Growth potential from a large working-age population",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sputnik-1 was the first manmade spacecraft, which was launched on October 4, 1957 by the ____?",
-      "urdu": "اسپتنک-1، دنیا کا پہلا مصنوعی خلائی سیارہ، 4 اکتوبر 1957 کو کس ملک نے لانچ کیا؟",
-      "options": [
-        "USSR (Soviet Union)",
-        "United States of America",
-        "China",
-        "Great Britain"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "AI stands for ______?",
-      "urdu": "اے آئی کا مطلب کیا ہے؟",
-      "options": [
-        "Artificial Information",
-        "Artificial Intelligence",
-        "Actual Information",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the purpose of the Marshall Plan in 1948?",
-      "urdu": "سن 1948 میں مارشل پلان کا مقصد کیا تھا؟",
-      "options": [
-        "Foreign aid to Western Europe / Rebuild war-torn European economies",
-        "Economic assistance to Africa",
-        "Recovery from WW1",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The human genome project was completed in?",
-      "urdu": "ہیومن جینوم پروجیکٹ کب مکمل ہوا؟",
-      "options": [
-        "2000",
-        "2003",
-        "2010",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was ASEAN (Association of Southeast Asian Nations) founded?",
-      "urdu": "آسیان (جنوب مشرقی ایشیائی ممالک کی تنظیم) کب قائم ہوئی؟",
-      "options": [
-        "8th August 1968",
-        "8th August 1967",
-        "8th August 1969",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Green revolution refers to the development of ________?",
-      "urdu": "گرین ریولوشن سے کیا مراد ہے؟",
-      "options": [
-        "Organic farming",
-        "Introduction of high-yield crop varieties & techniques / Dwarf high fertilizer responsive varieties",
-        "Forest restoration",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who discover Penicillin?",
-      "urdu": "پینسلن کس نے دریافت کی؟",
-      "options": [
-        "Alexander Fleming",
-        "Louis Pasteur",
-        "Edward Jenner",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 01-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Bosphorus Strait is located in?",
-      "urdu": "آبنائے باسفورس کہاں واقع ہے؟",
-      "options": [
-        "Turkey",
-        "Greece",
-        "Egypt",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country has received maximum Nobel Prizes after its institution?",
-      "urdu": "نوبیل انعام کے اجراء کے بعد سب سے زیادہ نوبیل انعام کس ملک نے حاصل کیے ہیں؟",
-      "options": [
-        "Germany",
-        "France",
-        "USA",
-        "U.K"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Top 5 Countries by Nobel Laureates</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 'Pandemic' COVID-19 was declared a global health emergency in?",
-      "urdu": "کووڈ-19 کو عالمی صحت کی ہنگامی صورتحال کب قرار دیا گیا؟",
-      "options": [
-        "2021",
-        "2019",
-        "2020",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Nuclear Non-Proliferation Treaty (NPT) was formed in 1968 for what purpose?",
-      "urdu": "این پی ٹی کس مقصد کے لئے 1968 میں تشکیل دی گئی تھی؟",
-      "options": [
-        "To promote space exploration",
-        "To develop nuclear energy",
-        "To stop the spread of nuclear weapons",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is called the Father of Internet?",
-      "urdu": "انٹرنیٹ کا باپ کسے کہا جاتا ہے؟",
-      "options": [
-        "Vint Cerf",
-        "Charles Babbage",
-        "Tim Berners Lee",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Geopolitics' refers to?",
-      "urdu": "جیو پولیٹکس سے کیا مراد ہے؟",
-      "options": [
-        "Environmental policy",
-        "Geological surveys",
-        "Influence of geography on politics and IR",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which international body issues the Human Development Index (HDI)?",
-      "urdu": "ہیومن ڈیولپمنٹ انڈیکس کس بین الاقوامی ادارے کی طرف سے جاری کیا جاتا ہے؟",
-      "options": [
-        "UNDP",
-        "World Bank",
-        "IMF",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Main Indicators: </font><font color=\"#ff0000\">3</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Magna Carta signed by King John of England?",
-      "urdu": "بادشاہ جان آف انگلینڈ نے میگنا کارٹا کب دستخط کیا؟",
-      "options": [
-        "1212",
-        "1215",
-        "1216",
-        "1218"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 14.6667px; white-space-collapse: preserve; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan's Electronic Voting Machine (EVM) debate primarily concerns?",
-      "urdu": "پاکستان میں الیکٹرانک ووٹنگ مشین پر بحث بنیادی طور پر کس معاملے سے متعلق ہے؟",
-      "options": [
-        "Cost of elections",
-        "Voter registration",
-        "Accuracy, transparency, and cybersecurity",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 18th Constitutional Amendment Act was passed on _____?",
-      "urdu": "اٹھارویں آئینی ترمیمی ایکٹ _____ پر منظور کیا گیا؟",
-      "options": [
-        "19th April 2010",
-        "8th April 2010",
-        "10th April 2010",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 10-05-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Makran Coastal Highway connects Karachi to?",
-      "urdu": "مکران کوسٹل ہائی وے کراچی کو کس شہر سے ملاتی ہے؟",
-      "options": [
-        "Quetta",
-        "Gwadar",
-        "Turbat",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Civil aviation regulations in Pakistan come under which authority?",
-      "urdu": "پاکستان میں سول ایوی ایشن کے قوانین اور ضوابط کس ادارے کے تحت آتے ہیں؟",
-      "options": [
-        "Pakistan Civil Aviation Authority (CAA)",
-        "Airport Security Force (ASF)",
-        "Pakistan International Airlines (PIA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mangla Dam was constructed/situated on the which river?",
-      "urdu": "منگلا ڈیم کس دریا پر تعمیر کیا گیا ہے؟",
-      "options": [
-        "Indus",
-        "Sutlej",
-        "Jhelum",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: justify;\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-06-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first Commander-in-Chief of Pakistan Army?",
-      "urdu": "پاکستان آرمی کا پہلا کمانڈر انچیف کون تھا؟",
-      "options": [
-        "Gen. George Murphy",
-        "G.M. Ayub Khan",
-        "Gen. Frank Meservy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Kirthar national park is in which province of Pakistan?",
-      "urdu": "کیرتھر نیشنل پارک پاکستان کے کس صوبے میں واقع ہے؟",
-      "options": [
-        "Punjab",
-        "Sindh",
-        "KPK",
-        "None"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 07-07-2026</font></b></span></p>",
       "category": "all"
     }
   ]
