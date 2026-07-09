@@ -3,10 +3,413 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-09T04:51:24.750122",
+    "fetched_at": "2026-07-09T10:19:55.577914",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "When was Meesaq-e-Madina (Constitution of Madinah) signed?",
+      "urdu": "میثاق مدینہ پر دستخط کب ہوئے؟",
+      "options": [
+        "618 AD",
+        "622 AD",
+        "616 AD",
+        "626 AD"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which American Ambassador died with Presidnet Zia Ul Haque in plance crash?",
+      "urdu": "صدر ضیاء الحق کے ساتھ طیارہ حادثے میں کون سے امریکی سفیر جاں بحق ہوئے؟",
+      "options": [
+        "Tom Simon",
+        "Robert Milam",
+        "Arnold Raphael",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When NADRA was established?",
+      "urdu": "نادرا کب قائم ہوا؟",
+      "options": [
+        "March 10, 2001",
+        "March 10, 2003",
+        "March 10, 2000",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of a device that converts digital signals to analog signals?",
+      "urdu": "ڈیجیٹل سگنلز کو اینالاگ سگنلز میں تبدیل کرنے والی ڈیوائس کا کیا نام ہے؟",
+      "options": [
+        "Router",
+        "Switch",
+        "Modem",
+        "None of above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the shortcut key for grammar and spelling to check in document?",
+      "urdu": "دستاویز میں گرامر اور اسپیلنگ چیک کرنے کی شارٹ کٹ کی کون سی ہے؟",
+      "options": [
+        "F1",
+        "F2",
+        "F5",
+        "F7"
+      ],
+      "correct": 3,
+      "explanation": "<p><ol></ol></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, which shortcut is used for print preview?",
+      "urdu": "ایم ایس ورڈ میں پرنٹ پریویو کے لیے کون سا شارٹ کٹ استعمال ہوتا ہے؟",
+      "options": [
+        "Alt + O",
+        "Ctrl + F2",
+        "Shift + P",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "MS Word is a software developed by which company?",
+      "urdu": "ایم ایس ورڈ کس کمپنی کا تیار کردہ سافٹ ویئر ہے؟",
+      "options": [
+        "Microsoft",
+        "Apple",
+        "Google",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"font-family: Overpass, sans-serif; font-size: 14px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Sahabi remained in the fire for several days?",
+      "urdu": "کون سے صحابی کئی دن تک آگ میں رہے؟",
+      "options": [
+        "Hazrat Bilal (RA)",
+        "Hazrat Abu Hurairah (RA)",
+        "Hazrat Abu Muslim Khaulani (RA)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the length of Manchhar Lake?",
+      "urdu": "منچھر جھیل کی لمبائی کتنی ہے؟",
+      "options": [
+        "18.5 km (11.5 miles)",
+        "23.5 km (14.6 miles)",
+        "30.5 km (19.0 miles)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which was the second prayer made obligatory in Islam?",
+      "urdu": "اسلام میں دوسری فرض ہونے والی نماز کون سی ہے؟",
+      "options": [
+        "Asr Prayer",
+        "Fajr Prayer",
+        "Zuhr Prayer",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Order of the </font><font color=\"#ff0000\">five obligatory</font><font color=\"#0000ff\"> prayers:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The number of Ashab-e-Kahf was?",
+      "urdu": "اصحابِ کہف کی تعداد کتنی تھی؟",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan is having its longest border with ______?",
+      "urdu": "پاکستان کی سب سے بڑی سرحد _____ کے ساتھ ہے؟",
+      "options": [
+        "India",
+        "Afghanistan",
+        "Iran",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "A container contains a mixture of milk and water in a ratio of 4:1. When 10 liters of the mixture are taken out and 10 liters of water are poured into the container and ratio becomes 2: 3. How many liters of milk were contained originally in the container?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "16 litres",
+        "14 litres",
+        "12 litres",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem;\"><b><font color=\"#0000ff\">Initial ratio milk : water = 4 : 1  </font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "On which date was General Asim Munir awarded the rank of Field Marshal?",
+      "urdu": "جنرل عاصم منیر کو فیلڈ مارشل کا عہدہ کس تاریخ کو دیا گیا؟",
+      "options": [
+        "14 August 2024",
+        "20 May 2025",
+        "22 May 2025",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which lake in Sindh overflew because of floods in 2022?",
+      "urdu": "سن 2022 کے سیلاب کے باعث سندھ کی کون سی جھیل اوور فلو ہوگئی تھی؟",
+      "options": [
+        "Keenhar Lake",
+        "Attabad Lake",
+        "Manchar Lake",
+        "Malir Lake"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which was the first barrage constructed / commissioned to work in Pakistan (1932)?",
+      "urdu": "پاکستان میں 1932 میں تعمیر/فعال ہونے والا پہلا بیراج کون سا تھا؟",
+      "options": [
+        "Sukkur Barrage",
+        "Kotri Barrage",
+        "Chashma Barrage",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ratio of milk to water is 5:1. After adding 12 liters of water, the ratio becomes 5:3. How much milk is there?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "30 liters",
+        "20 liters",
+        "25 liters",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let milk = 5x  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A machine converts 2 into 6. If the same pattern is followed, what will it convert 5 into?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern: 2 → 6 means multiply by 3.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is called a Mudrik?",
+      "urdu": "مدرک کسے کہتے ہیں؟",
+      "options": [
+        "A person who joins after one or more Rak'ahs have passed",
+        "A person who misses the entire prayer",
+        "A person who joins the congregational prayer from the beginning with the Imam",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The original name of the host of Holy Prophet Abu Ayub Ansari is _____?",
+      "urdu": "رسول اللہ ﷺ کے میزبان حضرت ابو ایوب انصاریؓ کا اصل نام کیا تھا؟",
+      "options": [
+        "Zaid bin Sabit (R.A)",
+        "Qais bin Saad (R.A)",
+        "Hanzla bin Aamir (R.A)",
+        "Khalid bin Zaid (R.A)"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "NATO stands for ______?",
+      "urdu": "نیٹو کا مطلب کیا ہے؟",
+      "options": [
+        "North Atlantic Treaty Organization",
+        "No Action Till Order",
+        "North Africa Treaty Organization",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Capital of Djibouti?",
+      "urdu": "جبوتی کا دارالحکومت کیا ہے؟",
+      "options": [
+        "Djibouti City",
+        "Cairo",
+        "Banjul",
+        "Accra"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><span style=\"font-size: 12pt; line-height: 107%; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 09-07-2026</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Ghazwa was Hazrat Ayesha’s (RA) scarf used as a flag?",
+      "urdu": "حضرت عائشہؓ کا دوپٹہ کس غزوہ میں بطور جھنڈا استعمال ہوا؟",
+      "options": [
+        "Ghazwa-e-Uhud",
+        "Ghazwa-e-Khandaq",
+        "Ghazwa-e-Badr",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Urea is made from which components?",
+      "urdu": "یوریا کن اجزاء سے بنتی ہے؟",
+      "options": [
+        "Nitrogen and Hydrogen",
+        "Carbon and Oxygen",
+        "Ammonia and Carbon Dioxide",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "760 torr is equal to ____ Pascal.",
+      "urdu": "سات سو ساٹھ ٹور کتنے پاسکل کے برابر ہوتے ہیں؟",
+      "options": [
+        "1",
+        "76",
+        "760",
+        "101325"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "1st May is observed internationally as?",
+      "urdu": "یکم مئی کو بین الاقوامی طور پر کس دن کے طور پر منایا جاتا ہے؟",
+      "options": [
+        "Press Freedom Day",
+        "Environment Day",
+        "Earth Day",
+        "Labour Day"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many elements are in the set S = {x, y, z}?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">set</font><font color=\"#0000ff\"> S =</font><font color=\"#ff0000\"> {x, y, z}</font><font color=\"#0000ff\"> has </font><font color=\"#ff0000\">3</font><font color=\"#0000ff\"> elements.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The least common multiple (LCM) of 6 and 8 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "24",
+        "18",
+        "16",
+        "12"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">To find the least common multiple (LCM) of 6 and 8, we need to list the multiples of each number:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the square root of 625?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5",
+        "25",
+        "55",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">25*25 = </font><font color=\"#ff0000\">625</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A train travels 160 km in 3 hours. What is its speed?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50 km/h",
+        "53.33 km/h",
+        "60 km/h",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Speed = Distance ÷ Time</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Guddu Barrage was constructed on the river _______?",
+      "urdu": "گڈو بیراج کس دریا پر تعمیر کیا گیا ہے؟",
+      "options": [
+        "River Ravi",
+        "River Indus",
+        "River Jhelum",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The atmospheric pressure (air pressure) at any place is measured by _____?",
       "urdu": "کسی بھی جگہ پر فضائی دباؤ (ہوا کا دباؤ) کس آلے سے ناپا جاتا ہے؟",
@@ -242,19 +645,6 @@
       "category": "all"
     },
     {
-      "q": "NATO stands for ______?",
-      "urdu": "نیٹو کا مطلب کیا ہے؟",
-      "options": [
-        "North Atlantic Treaty Organization",
-        "No Action Till Order",
-        "North Africa Treaty Organization",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
-      "category": "all"
-    },
-    {
       "q": "Which of the following mountain peaks is called Killer Mountain?",
       "urdu": "مندرجہ ذیل میں سے کس پہاڑی چوٹی کو قاتل پہاڑ کہا جاتا ہے؟",
       "options": [
@@ -265,396 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last verified by on 16-05-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The rate of doing work of a body is called?",
-      "urdu": "کسی جسم کے کام کرنے کی رفتار کو کیا کہتے ہیں؟",
-      "options": [
-        "Force",
-        "Area",
-        "Power",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest/biggest ocean of the world is ______?",
-      "urdu": "دنیا کا سب سے بڑا سمندر کونسا ہے؟",
-      "options": [
-        "Atlantic",
-        "Pacific",
-        "Indian",
-        "Arctic"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the first/old Capital of Pakistan?",
-      "urdu": "پاکستان کا پہلا دارالحکومت کون سا ہے؟",
-      "options": [
-        "Karachi",
-        "Rawalpindi",
-        "Lahore",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 02-03-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "“My brother” book was written by?",
-      "urdu": "کتاب \"ماءِ برادر\" کس نے لکھی؟",
-      "options": [
-        "Gulbadam Bagum",
-        "Fatima Jinnah",
-        "Hajra Masroor",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A black hole has a very strong ______?",
-      "urdu": "بلیک ہول میں بہت زیادہ طاقتور کیا ہوتا ہے؟",
-      "options": [
-        "Electric field",
-        "Magnetic field",
-        "Gravitational field",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which death anniversary of Abdul Sattar Edhi was observed on 8 July 2026?",
-      "urdu": "آٹھ جولائی 2026 کو عبدالستار ایدھی کی کون سی برسی منائی گئی؟",
-      "options": [
-        "9th",
-        "10th",
-        "11th",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150);\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-family: Helvetica; color: rgb(0, 0, 255);\">10th death anniversary of Abdul Sattar Edhi was observed on 8 July 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In government offices, 'Classified' documents are those that?",
-      "urdu": "سرکاری دفاتر میں 'کلاسیفائیڈ' دستاویزات سے کیا مراد ہے؟",
-      "options": [
-        "Are filed in alphabetical order",
-        "Are publicly available personnel only",
-        "Delicate data restricted to authorize personnel",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sentence correctly uses the 'absolute phrase'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "We continued the storm passed",
-        "The storm having passed, we continued our journey",
-        "The storm passed, we continued",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Blockchain technology is primarily associated with which of the following?",
-      "urdu": "بلاک چین ٹیکنالوجی زیادہ تر کس چیز سے وابستہ ہے؟",
-      "options": [
-        "Artificial Intelligence",
-        "Cloud Computing",
-        "Cryptocurrency and secure digital transaction",
-        "Virtual Reality"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: Small people attended than expected, Less people attended than expected, Little people attended than expected, Fewer people attended than expected",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Small people attended than expected",
-        "Less people attended than expected",
-        "Little people attended than expected",
-        "Fewer people attended than expected"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'Digital Signature' in official documents is used for?",
-      "urdu": "سرکاری دستاویزات میں 'ڈجیجل سگنیچر' کس مقصد کے لیے استعمال ہوتی ہے؟",
-      "options": [
-        "Email formatting",
-        "Handwritten signatures scanned",
-        "Cryptographic authentication of identify",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a 'lossy' image compression format?",
-      "urdu": "مندرجہ ذیل میں سے کون سا امیج کمپریشن فارمیٹ 'لاسی' ہے؟",
-      "options": [
-        "JPEG",
-        "PNG",
-        "BMP",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In official file tracking, 'Current Number' (C/No.) refers to?",
-      "urdu": "سرکاری فائل ٹریکنگ میں 'کرنٹ نمبر' سے کیا مراد ہے؟",
-      "options": [
-        "Year of record",
-        "Phone number of officer",
-        "Serial number of current file or correspondence",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, the 'IF' function is used to?",
-      "urdu": "ایم ایس ایکسل میں 'اف' فنکشن کس مقصد کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Sort data",
-        "Perform conditional logic",
-        "Calculate averages",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A 'Memorandum of Understanding (MoU)' differs from a contract in that it?",
-      "urdu": "مفاہمتی یادداشت معاہدے سے کس طرح مختلف ہوتی ہے؟",
-      "options": [
-        "Is only between private parties",
-        "Is legally binding",
-        "Is usually not legally binding but expresses intent",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Two-Factor Authentication  2FA requires?",
-      "urdu": "ٹو-فیکٹر آتھنٹیکیشن کے لیے کیا ضروری ہوتا ہے؟",
-      "options": [
-        "Only password",
-        "Only OTP",
-        "Password + second verification / A second layer of security requiring additional verification beyond a password",
-        "Username only"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, 'Table of Authorities' is used in?",
-      "urdu": "ایم ایس ورڈ میں 'ٹیبل آف اتھارٹیز' کس مقصد کے لیے استعمال ہوتی ہے؟",
-      "options": [
-        "Financial reports",
-        "Scientific reports",
-        "Legal documents to cite cases and statutes",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most secure method of password management is?",
-      "urdu": "پاس ورڈ کے محفوظ انتظام کا بہترین طریقہ کون سا ہے؟",
-      "options": [
-        "Using simple memorable passwords",
-        "Same password everywhere",
-        "Password manager with unique strong passwords",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In networking, 'VPN' stands for?",
-      "urdu": "نیٹ ورکنگ میں وی پی این کا مکمل نام کیا ہے؟",
-      "options": [
-        "Virtual Private Network",
-        "Visual Private Network",
-        "Virtual Protocol Network",
-        "Virtual Protocol Networking"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 'Agile' methodology is used in?",
-      "urdu": "ایجائل طریقۂ کار کس شعبے میں استعمال ہوتا ہے؟",
-      "options": [
-        "Software development project management",
-        "Office filing",
-        "HR management",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which MS Office tool would you use to create a professional org chart?",
-      "urdu": "پیشہ ورانہ تنظیمی چارٹ بنانے کے لیے ایم ایس آفس کا کون سا ٹول استعمال کیا جاتا ہے؟",
-      "options": [
-        "MS Outlook",
-        "MS Word only",
-        "MS PowerPoint SmartArt or Visio",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In government file management, 'FR' written on a file stands for?",
-      "urdu": "سرکاری فائل مینجمنٹ میں فائل پر لکھا ہوا 'ایف آر' کس چیز کی علامت ہے؟",
-      "options": [
-        "File Register",
-        "Final Report",
-        "Further Reference",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does 'PDF/A' format specifically ensure?",
-      "urdu": "پی ڈی ایف/اے فارمیٹ خاص طور پر کس چیز کو یقینی بناتا ہے؟",
-      "options": [
-        "Long-term archival preservation of documents",
-        "Smaller file size",
-        "Editable content",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, 'HLOOKUP' searches for a value in?",
-      "urdu": "ایم ایس ایکسل میں 'ایچ لک اپ' کس جگہ ویلیو تلاش کرتا ہے؟",
-      "options": [
-        "A pivot table",
-        "A vertical column",
-        "A horizontal row",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term 'SOP' in office administration stands for?",
-      "urdu": "دفتری انتظامیہ میں ایس او پی کا مطلب کیا ہے؟",
-      "options": [
-        "Standard Operating Procedure",
-        "Standard Official Procedure",
-        "System of Operations",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, 'Cross-reference' is used to?",
-      "urdu": "ایم ایس ورڈ میں 'کراس-رفرنس' کس مقصد کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Compare fonts",
-        "Link to another part of the same document",
-        "Compare two documents",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In official correspondence, 'Demi-Official' letters are written in?",
-      "urdu": "سرکاری خط و کتابت میں ڈیمی آفیشل خطوط کس انداز میں لکھے جاتے ہیں؟",
-      "options": [
-        "Passive voice only",
-        "First person with a personal tone",
-        "Third person formal style",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is phishing?",
-      "urdu": "فِشنگ کیا ہے؟",
-      "options": [
-        "A method of encrypting data for security",
-        "Cybercrime involving fraudulent emails or messages to obtain sensitive information / Duplicitous efforts to steal delicate information by imitating trusted entity",
-        "A technique to speed up network connections",
-        "A way to block access to websites"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, which function counts only non-empty cells in a range?",
-      "urdu": "ایم ایس ایکسل میں کون سا فنکشن کسی رینج میں صرف خالی نہ ہونے والے سیلز کو شمار کرتا ہے؟",
-      "options": [
-        "COUNTA()",
-        "COUNT()",
-        "COUNTIF()",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which ocean lies between Africa and Australia?",
-      "urdu": "افریقہ اور آسٹریلیا کے درمیان کون سا سمندر واقع ہے؟",
-      "options": [
-        "Atlantic Ocean",
-        "Arctic Ocean",
-        "Indian Ocean",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></b></p>",
       "category": "all"
     }
   ]
