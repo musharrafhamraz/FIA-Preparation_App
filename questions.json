@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-10T04:50:42.737277",
+    "fetched_at": "2026-07-10T10:18:24.300140",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Extrusion is a manufacturing process that?",
-      "urdu": "ایکسٹروژن ایک ایسا مینوفیکچرنگ عمل ہے جس میں کیا کیا جاتا ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Is used for reducing the diameter of round bars and tubes by rotating dies",
-        "Is used to improve fatigue resistance by creating compressive surface stresses",
-        "Consists of pressing metal through a shaped die under high pressure to produce the desired shape",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Highest Common Factor (HCF) of 56, 70, and 84?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "7",
-        "14",
-        "21",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Factors of </font><font color=\"#ff0000\">56</font><font color=\"#0000ff\">: 1, 2, 4, 7, 8, </font><font color=\"#ff0000\">14</font><font color=\"#0000ff\">, 28, 56</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Asteroids travel in which type of orbit around the Sun?",
-      "urdu": "سیارچے سورج کے گرد کس قسم کے مدار میں گردش کرتے ہیں؟",
-      "options": [
-        "Elliptical orbit",
-        "Circular orbit",
-        "Parabolic orbit",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Navigation satellites are used for _____?",
-      "urdu": "نیویگیشن سیٹلائٹس کس مقصد کے لیے استعمال ہوتے ہیں؟",
-      "options": [
-        "Space exploration",
-        "Mapping",
-        "Provide weather forecasting",
-        "Identify location of objects on Earth"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "In plant reproduction, the collective term for all the petals of a flower is called?",
-      "urdu": "پودوں کی تولید میں پھول کی تمام پنکھڑیوں کے مجموعے کو کیا کہتے ہیں؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Calyx",
-        "Corolla",
-        "Androecium",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "In forging, a slow squeezing process is called?",
-      "urdu": "فورجنگ میں دھیرے دھیرے دباؤ ڈالنے کے عمل کو کیا کہتے ہیں؟",
-      "options": [
-        "Press",
-        "Impact",
-        "Hammering",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The National Anthem of Pakistan is written by?",
-      "urdu": "پاکستان کا قومی ترانہ کس نے لکھا ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
         "Allama Iqbal",
-        "Quaid-e-Azam",
-        "Chaudry Rehmat Ali",
-        "Hafiz Jalandhri"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\" style=\"line-height:150%\"><b><span \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Additive inverse of 1/7 is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "-1/7",
-        "1/7",
-        "1",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">additive inverse</font><font color=\"#0000ff\"> of a number is the value that, when added to the original number, </font><font color=\"#ff0000\">results in zero</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ratio between lateral strain and longitudinal strain is called?",
-      "urdu": "عرضی تناؤ اور طولی تناؤ کے تناسب کو کیا کہتے ہیں؟",
-      "options": [
-        "Poisson's Ratio",
-        "Young's Modulus",
-        "Bulk Modulus",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to Fleming's right-hand rule for finding the direction of induced e.m.f., when middle finger points in the direction of induced e.m.f., forefinger will point in the direction of?",
-      "urdu": "فلیمنگ کے دائیں ہاتھ کے اصول کے مطابق، اگر درمیانی انگلی پیدا ہونے والی ای ایم ایف کی سمت دکھائے، تو شہادت کی انگلی کس سمت کی طرف اشارہ کرے گی؟",
-      "options": [
-        "Lines of force",
-        "Motion of conductor",
-        "Both A and B",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "B = {4, 5}, A = {1, 2, 3, 4}. B is which set of A?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Not a subset of A",
-        "Subset of A",
-        "Proper subset of A",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">A subset must have all its elements in set A.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A ∩ A' = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A",
-        "A'",
-        "∅",
-        "None of these"
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What is the value of (1/2)°?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "3",
-        "2",
-        "1",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Any </font><font color=\"#ff0000\">non-zero</font><font color=\"#0000ff\"> number raised to the power </font><font color=\"#ff0000\">0</font><font color=\"#0000ff\"> is always 1.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Simplify: (5a + 6b - 2c) - (4a + 3b - c)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "a + 3b - c",
-        "9a + 9b - 3c",
-        "a + 9b - c",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">(5a + 6b - 2c) - (4a + 3b - c)  </font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "What is the value of 2³ + 3³ - 5³?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "-90",
-        "-80",
-        "-100",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">2³ = 2 × 2 × 2 = 8  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the binary representation of 17²?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "100010001",
-        "100100001",
-        "101000001",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">17² = 17 × 17 = 289  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The chemical name/main compound of synthetic vinegar is?",
-      "urdu": "مصنوعی سرکے کا کیمیائی نام/بنیادی جزو کیا ہے؟",
-      "options": [
-        "Acetic acid",
-        "Sodium acid",
-        "Sodium chloride",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sound waves travel in solvents in the form of _____?",
-      "urdu": "آواز کی لہریں مائعات میں کس شکل میں سفر کرتی ہیں؟",
-      "options": [
-        "Transverse Waves",
-        "Longitudinal Waves",
-        "Electromagnetic Waves",
-        "Mechanical Waves"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is the smallest continent by size (area) of the world?",
-      "urdu": "رقبے کے لحاظ سے دنیا کا سب سے چھوٹا براعظم کون سا ہے؟",
-      "options": [
-        "Australia",
-        "Europe",
-        "North America",
-        "Africa"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"margin-top:0in\"><b style=\"color: rgb(0, 0, 255);\"><span arial\",sans-serif;=\"\" color:#555555\"=\"\" lang=\"EN-GB\" style=\"font-family:\"></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Although Australia and Indonesia differ in geography and population, ____, making them important regional partners.",
-      "urdu": "اگرچہ آسٹریلیا اور انڈونیشیا جغرافیہ اور آبادی کے لحاظ سے مختلف ہیں، ____، جس کی وجہ سے وہ خطے کے اہم شراکت دار بن گئے ہیں۔",
-      "options": [
-        "They cooperate closely on trade, security, and disaster management",
-        "They share the same capital city",
-        "Both countries are located entirely in Europe",
-        "Neither country has a coastline"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Germany and India continue to deepen economic cooperation, ____, leading to greater investment opportunities.",
-      "urdu": "جرمنی اور بھارت اقتصادی تعاون کو مزید گہرا کر رہے ہیں، ____، جس کے نتیجے میں سرمایہ کاری کے زیادہ مواقع پیدا ہو رہے ہیں۔",
-      "options": [
-        "Particularly in manufacturing, engineering, and digital innovation",
-        "Because mountains produce electricity naturally",
-        "Since every nation has identical tax laws",
-        "After replacing railways with rivers"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Trade relations between Brazil and China have continued to grow because ____.",
-      "urdu": "برازیل اور چین کے درمیان تجارتی تعلقات میں مسلسل اضافہ ہوتا رہا ہے کیونکہ ____۔",
-      "options": [
-        "Both countries have increased agricultural and industrial exports",
-        "Airplanes cannot fly without rivers",
-        "The Moon is larger than the Earth",
-        "Every country uses the same language"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Although both Norway and Japan have advanced economies, ____, which has encouraged stronger cooperation in renewable energy.",
-      "urdu": "اگرچہ ناروے اور جاپان دونوں ترقی یافتہ معیشتیں ہیں، ____، جس کی وجہ سے قابلِ تجدید توانائی کے شعبے میں زیادہ مضبوط تعاون کو فروغ ملا ہے۔",
-      "options": [
-        "They have expanded collaboration in green technology and innovation",
-        "Oceans always flow toward mountains",
-        "All currencies have the same value worldwide",
-        "Deserts receive heavy snowfall every day"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The book Hayat-i-Afghani was primarily written about?",
-      "urdu": "کتاب \"حیاتِ افغانی\" بنیادی طور پر کس کے بارے میں لکھی گئی تھی؟",
-      "options": [
-        "The Mughal Empire",
-        "The Pashtun tribes and Afghanistan",
-        "The Delhi Sultanate",
-        "The Ottoman Empire"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A government is experiencing a large budget deficit and decides to increase revenue without discouraging investment or reducing household savings. Economists recommend imposing a tax on goods whose demand is relatively inelastic because consumers are less likely to reduce their purchases despite higher prices. According to this principle, which policy would most effectively increase government revenue?",
-      "urdu": "ایک حکومت کو بجٹ کے بڑے خسارے کا سامنا ہے اور وہ سرمایہ کاری کی حوصلہ شکنی کیے بغیر یا گھریلو بچت کو کم کیے بغیر آمدنی میں اضافہ کرنا چاہتی ہے۔ ماہرینِ معاشیات ایسی اشیاء پر ٹیکس لگانے کا مشورہ دیتے ہیں جن کی طلب نسبتاً غیر لچکدارہو، کیونکہ قیمتوں میں اضافے کے باوجود صارفین ان کی خریداری کم نہیں کرتے۔ اس اصول کے مطابق، کون سی پالیسی حکومت کی آمدنی میں سب سے مؤثر اضافہ کرے گی؟",
-      "options": [
-        "Reducing income tax rates for high-income earners",
-        "Increasing indirect taxes on essential goods with inelastic demand",
-        "Eliminating customs duties on imported luxury goods.",
-        "Providing tax exemptions to all businesses regardless of profitabili"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Brazil and China continue to expand their economic and agricultural cooperation. ____. This has increased trade between the two nations.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Both countries signed agreements to improve exports and investment.",
-        "Mountains float on rivers during summer.",
-        "The Earth has two suns.",
-        "Every bird lives underwater."
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A government wants to increase its revenue without directly taxing people's salaries. Instead, it imposes a tax on goods and services that consumers pay when making purchases. This type of tax is known as",
-      "urdu": "ایک حکومت لوگوں کی تنخواہوں پر براہِ راست ٹیکس لگائے بغیر اپنی آمدنی میں اضافہ کرنا چاہتی ہے۔ اس کے بجائے، وہ اشیاء اور خدمات پر ایسا ٹیکس عائد کرتی ہے جو صارفین خریداری کرتے وقت ادا کرتے ہیں۔ اس قسم کے ٹیکس کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Income Tax",
-        "Corporate Tax",
-        "Indirect Tax (Sales Tax/VAT/GST)",
-        "Wealth Tax"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#9c00ff\"></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "France and South Korea are working together to improve innovation in the technology sector. ____. Experts believe this partnership will benefit both economies",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Several companies agreed to share research and technical expertise.",
-        "Trees travel faster than airplanes.",
-        "Clouds are made of iron.",
-        "A triangle has five equal sides."
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Egypt and Italy have strengthened cooperation in archaeology and cultural heritage. ____. The partnership has helped preserve many historical sites",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Experts from both countries are conducting joint excavation projects.",
-        "Deserts receive snowfall every afternoon.",
-        "All oceans are made of fresh water.",
-        "Stars can be picked by hand."
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "India and Australia have expanded their cooperation in education and scientific research. ____. As a result, student exchange programs have increased significantly.",
-      "urdu": "بھارت اور آسٹریلیا نے تعلیم اور سائنسی تحقیق کے شعبوں میں اپنا تعاون بڑھایا ہے۔ ____۔ نتیجتاً، طلبہ کے تبادلے کے پروگراموں میں نمایاں اضافہ ہوا ہے۔",
-      "options": [
-        "Universities from both countries signed multiple academic partnerships.",
-        "The moon rises only once every ten years.",
-        "Cars can breathe underwater.",
-        "Glass is softer than water."
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The trade agreement between Canada and Germany has encouraged investment in renewable energy. ____. This has created new opportunities for businesses in both countries.",
-      "urdu": "کینیڈا اور جرمنی کے درمیان تجارتی معاہدے نے قابلِ تجدید توانائی  میں سرمایہ کاری کی حوصلہ افزائی کی ہے۔ ____۔ اس سے دونوں ممالک کے کاروباروں کے لیے نئے مواقع پیدا ہوئے ہیں۔",
-      "options": [
-        "Several joint research projects were launched to support clean technology",
-        "Fish cannot survive without flying in the sky.",
-        "Winter is always hotter than summer.",
-        "Books usually grow on trees."
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Relations between Japan and Brazil have strengthened over the last decade through trade, technology, and cultural exchange. ____. As a result, cooperation between the two countries continues to expand in several sectors.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Both countries have increased investment and signed agreements in innovation and education.",
-        "Mountains are usually higher than rivers during winter.",
-        "Many people prefer coffee because it tastes better than tea.",
-        "Birds migrate only when oceans become smaller."
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Seven people A, B, C, D, E, F and G are sitting in a row, facing north. No one sits to the right of D. Only three people sit between D and F. Only two people sit between F and A. G sits third to the left of B. C sits to the immediate right of B. How many people sit to the right of E?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">There are 7 seats: 1 2 3 4 5 6 7</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Seven students — A, B, C, D, E, F, and G — are seated in a single row facing north. A sits third to the left of D. B sits immediately to the right of A. E is not at either end. F sits exactly between C and G. G is at the extreme right end. D is not adjacent to G. Who is seated immediately to the left of G?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "E",
-        "F",
-        "C",
-        "D"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"21\" data-start=\"15\"><font color=\"#0000ff\">Given:<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the missing number: 5, 11, 23, 47, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "95",
-        "96",
-        "97",
-        "98"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"15\" data-start=\"0\"><font color=\"#0000ff\">The pattern is:<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the missing number: 1, 3, 7, 15, 31, 63, ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "123",
-        "125",
-        "127",
-        "129"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"15\" data-start=\"0\"><font color=\"#0000ff\">The pattern is:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan and Russia signed defense cooperation agreement on_______ 2014.",
-      "urdu": "پاکستان اور روس نے _______ 2014 کو دفاعی تعاون کے معاہدے پر دستخط کیے تھے۔",
-      "options": [
-        "November 20",
-        "June 20",
-        "September 20",
-        "None"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which Sahabi (RA) lost both legs and walked with the help of a stick?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Abdullah ibn al-Zubayr",
-        "Abdullah ibn Umm Maktum",
-        "Talhah ibn Ubayd Allah",
-        "Sa'd ibn Abi Waqqas"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the motto of the Shanghai Cooperation Organization (SCO)?",
-      "urdu": "شنگھائی تعاون تنظیم کا نصب العین کیا ہے؟",
-      "options": [
-        "Peace Through Strength",
-        "The Shanghai Spirit",
-        "Unity in Diversity",
-        "One World"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which political party did not cooperate during the events of 1947?",
-      "urdu": "انیس سو سینتالیس کے واقعات کے دوران کس سیاسی جماعت نے تعاون نہیں کیا؟",
-      "options": [
-        "All-India Muslim League",
-        "Indian National Congress",
-        "Unionist Party",
-        "Khaksar Movement"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What food was served to the Holy Prophet (ﷺ) when he visited Umm Mabad?",
-      "urdu": "جب رسول اللہ ﷺ اُمِّ معبدؓ کے ہاں تشریف لے گئے تو آپ ﷺ کی خدمت میں کون سا کھانا پیش کیا گیا؟",
-      "options": [
-        "Dates and bread",
-        "Milk",
-        "Honey",
-        "Thareed (Sareed)"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Capital of Sudan?",
-      "urdu": "سوڈان کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Khartoum",
-        "Abu Dhabi",
-        "Vatican City",
-        "London"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"line-height: 107%; background-color: rgb(255, 255, 0);\"><font color=\"#9c00ff\">Additional information</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Quaid-e-Azam presented his historical fourteen (14) points?",
-      "urdu": "قائداعظم نے اپنے تاریخی چودہ نکات کب پیش کیے؟",
-      "options": [
-        "September 1921",
-        "March 1927",
-        "September 1928",
-        "March 1929"
-      ],
-      "correct": 3,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-family: Helvetica;\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\">         </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\"> List of Jinnah's fourteen</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> points </span></span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255); font-family: Helvetica;\">(presents in 1929 in response of )</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the name of the shopkeeper from whom Quaid-e-Azam Muhammad Ali Jinnah used to buy clothes?",
-      "urdu": "اس دکاندار کا کیا نام تھا جس سے قائدِ اعظم محمد علی جناح کپڑے خریدا کرتے تھے؟",
-      "options": [
-        "Abdul Karim",
-        "Hamid Ali",
-        "Haji Abdullah",
-        "Ghulam Hussain"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information </font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat Ismail (A.S.) married a woman from which tribe?",
-      "urdu": "حضرت اسماعیلؑ نے کس قبیلے کی خاتون سے شادی کی تھی؟",
-      "options": [
-        "Quraysh",
-        "Banu Hashim",
-        "Jurhum",
-        "Aws"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is celebrated in the United States on July 4?",
-      "urdu": "امریکہ میں 4 جولائی کو کیا منایا جاتا ہے؟",
-      "options": [
-        "Memorial Day",
-        "Veterans Day",
-        "Independence Day",
-        "Labor Day"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#00ff00\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "SAARC was founded in which city?",
-      "urdu": "سارک کس شہر میں قائم ہوا؟",
-      "options": [
-        "Beijing",
         "Karachi",
-        "Khatmandu",
-        "Dhaka"
-      ],
-      "correct": 3,
-      "explanation": "<p \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; padding: 0px; font-family: \"><font color=\"#ff0000\" style=\"font-weight: bolder; font-size: 13px;\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the mother of Hazrat Yousaf (AS)?",
-      "urdu": "حضرت یوسف علیہ السلام کی والدہ کا نام بتائیں؟",
-      "options": [
-        "Nafeesa",
-        "Raheel",
-        "Sara",
-        "Zainab"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 25-04-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bird : Fly :: Snake : ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Clatter",
-        "Crawl",
-        "Hole",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sow is to seed as Reap is to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rain",
-        "Grain",
-        "Crop",
-        "None of these"
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     }
   ]
 }
