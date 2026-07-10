@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-10T10:18:24.300140",
+    "fetched_at": "2026-07-10T15:28:43.793424",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "According to which amendment of the constitution of Pakistan that President will have no authority to dissolve the national assembly and impose emergency rule on his own?",
+      "urdu": "آئینِ پاکستان کی کس ترمیم کے مطابق صدرِ پاکستان کو قومی اسمبلی توڑنے اور اپنی مرضی سے ایمرجنسی نافذ کرنے کا اختیار ختم کر دیا گیا؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "8th Amendment",
+        "17th Amendment",
+        "18th Amendment",
+        "16th Amendment"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "By which Article was the Objectives Resolution made a substantive part of the Constitution of Pakistan?",
+      "urdu": "قراردادِ مقاصد کو آئینِ پاکستان کا باقاعدہ حصہ کس آرٹیکل کے ذریعے بنایا گیا؟",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Article 2A",
+        "Article 2",
+        "Article 160",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Article 19 of constitution of Pakistan 1973 is about _______?",
+      "urdu": "آئینِ پاکستان 1973 کا آرٹیکل 19 کس سے متعلق ہے؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Fundamental Rights",
+        "Freedom of Speech and Expression",
+        "Right of Education",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Article 160 of the Constitution of Pakistan (1973) deals with?",
+      "urdu": "آئینِ پاکستان 1973 کا آرٹیکل 160 کس سے متعلق ہے؟",
+      "options": [
+        "Council of Common Interests (CCI)",
+        "National Finance Commission (NFC)",
+        "National Law and Order Committee",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which article of the Constitution of Pakistan 1973 deals with the National Economic Council?",
+      "urdu": "پاکستان 1973 کے آئین کا کون سا آرٹیکل قومی اقتصادی کونسل سے متعلق ہے؟",
+      "options": [
+        "Article 155",
+        "Article 157",
+        "Article 156",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is not an application software? WinWord XP, Page Maker, Windows NT, None of these",
+      "urdu": "مندرجہ ذیل میں سے کون سا ایپلیکیشن سافٹ ویئر نہیں ہے؟",
+      "options": [
+        "WinWord XP",
+        "Page Maker",
+        "Windows NT",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which term is used for the longest Ayah (Verse) of the Holy Quran?",
+      "urdu": "قرآنِ مجید کی سب سے طویل آیت کو کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "Ayat-e-Mubahala",
+        "Ayat-e-Mudayana",
+        "Ayat-e-Madina",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who gave Hazrat Abu Bakar the idea to collect the Quran in the form of a book?",
+      "urdu": "حضرت ابو بکرؓ کو قرآن مجید کو کتابی شکل میں جمع کرنے کا مشورہ کس نے دیا؟",
+      "options": [
+        "Hazrat Salman Farsi",
+        "Hazrat Umar",
+        "Hazrat Khalid Bin Waleed",
+        "Hazrat Usman"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 10-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Abu Bakr (R.A) entrusted the work / responsibility of compilation of the Holy Quran to whom?",
+      "urdu": "حضرت ابو بکر صدیقؓ نے قرآن مجید کی جمع و تدوین کی ذمہ داری کس کو سونپی؟",
+      "options": [
+        "Hazrat Amir (R.A)",
+        "Hazrat Zaid bin Sabit (R.A)",
+        "Hazrat Usama bin Zaid (R.A)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 25-06-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Legal Framework Order 1970 was issued by?",
+      "urdu": "لیگل فریم ورک آرڈر 1970 کس نے جاری کیا تھا؟",
+      "options": [
+        "Yahya Khan",
+        "Zulifqar Ali Bhutto",
+        "Zia ul Haq",
+        "Pervez Musharraf"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#ff00ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of the International Atomic Energy Agency (IAEA) located?",
+      "urdu": "انٹرنیشنل اٹامک انرجی ایجنسی کا ہیڈ کوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Vienna, Austria",
+        "Kathmandu, Nepal",
+        "Islamabad, Pakistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "World Trade Organization (WTO) was established in ______?",
+      "urdu": "ورلڈ ٹریڈ آرگنائزیشن (ڈبلیو ٹی او) ______ میں قائم کی گئی تھی؟",
+      "options": [
+        "1992",
+        "1993",
+        "1994",
+        "1995"
+      ],
+      "correct": 3,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of the Organization of the Islamic Conference (OIC) located?",
+      "urdu": "اسلامی کانفرنس (او آئی سی) کی تنظیم کا صدر دفتر کہاں واقع ہے؟",
+      "options": [
+        "Jeddah",
+        "Khatmando",
+        "Geneva",
+        "Makkah"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 10-05-2026</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Strait of Hormuz is located between?",
+      "urdu": "آبنائے ہرمز کن دو ممالک کے درمیان واقع ہے؟",
+      "options": [
+        "Black Sea and the Sea of Marmara",
+        "Atlantic Ocean and the Mediterranean Sea",
+        "Persian Gulf and Gulf of Oman",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\"></font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first male martyr (Shaheed) of Islam?",
+      "urdu": "اسلام کے پہلے مرد شہید کون تھے؟",
+      "options": [
+        "Hazart Zaid Bin Haris (RA)",
+        "Hazrat Shoaib Roomi (RA)",
+        "Hazrat Yasir ibn Amir (RA)",
+        "Hazrat Haris bin Halla (RA)"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The binary number 11111111 is equal to which decimal number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "127",
+        "128",
+        "255",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Linux is an _____?",
+      "urdu": "لینکس کیا ہے؟",
+      "options": [
+        "Operating System",
+        "Hardware",
+        "Software",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of CPEC located?",
+      "urdu": "سی پیک کا ہیڈکوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Beijing, China",
+        "Karachi, Pakistan",
+        "Islamabad, Pakistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The world’s Largest fresh water Lake is?",
+      "urdu": "دنیا کی سب سے بڑی تازہ پانی کی جھیل  کونسی ہے؟",
+      "options": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Great Bear Lake",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which treaty was signed by European Union member states in 2007?",
+      "urdu": "یورپی یونین کے رکن ممالک نے 2007 میں کون سا معاہدہ دستخط کیا؟",
+      "options": [
+        "Treaty of Maastricht",
+        "Treaty of Rome",
+        "Treaty of Lisbon",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is written on the tablet held by the Statue of Liberty?",
+      "urdu": "مجسمۂ آزادی کے ہاتھ میں موجود تختی پر کیا لکھا ہے؟",
+      "options": [
+        "In God We Trust",
+        "JULY IV MDCCLXXVI (July 4, 1776)",
+        "Liberty and Justice for All",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Adam’s Peak is located in ___?",
+      "urdu": "آدم کی چوٹی ____ میں واقع ہے؟",
+      "options": [
+        "Sri Lanka",
+        "Saudi Arabia",
+        "Egypt",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p data-end=\"708\" data-start=\"679\"><b style=\"\"><font color=\"#0000ff\">Adam's Peak is a sacred mountain </font><font color=\"#ff0000\">in Sri Lanka.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Capital of Mexico?",
+      "urdu": "میکسیکو کا دارالحکومت کیا ہے؟",
+      "options": [
+        "Mexico City",
+        "Ulaanbaatar",
+        "Melekeok",
+        "Asuncion"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Mexico</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height: 107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%; color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%; color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Mexico City</span><!--[if supportFields]><span style='font-size: 12.0pt;line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Strait of Malacca separates which two land masses?",
+      "urdu": "آبنائے ملاکا کن دو زمینی حصوں کو الگ کرتی ہے؟",
+      "options": [
+        "Malay Peninsula and the Indonesian island of Sumatra",
+        "Africa and Europe",
+        "North America and South America",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Despite geographical distance, Canada and South Korea have strengthened their partnership by ____?",
+      "urdu": "جغرافیائی فاصلے کے باوجود، کینیڈا اور جنوبی کوریا نے ______ کے ذریعے اپنی شراکت داری کو مضبوط کیا ہے۔",
+      "options": [
+        "Signing agreements in technology, education, and clean energy",
+        "Replacing oceans with highways",
+        "Making winter longer than a year",
+        "Removing all international borders"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Ural Mountains are situated in _____?",
+      "urdu": "یورال پہاڑ کہاں واقع ہیں؟",
+      "options": [
+        "Russia",
+        "Sweden",
+        "England",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country won the first-ever FIFA World Cup?",
+      "urdu": "پہلا فیفا ورلڈ کپ کس ملک نے جیتا؟",
+      "options": [
+        "Canada",
+        "Uruguay",
+        "France",
+        "Brazil"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"><br/></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "USA President who was assassinated during office in 1865?",
+      "urdu": "سن 1865 میں کس امریکی صدر ل کو اپنے عہدے کے دوران قتل کیا گیا؟",
+      "options": [
+        "Lee Harvey",
+        "Ronald Reagan",
+        "Abraham Lincoln",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where headquarters of United Nations Organization (UNO) located?",
+      "urdu": "اقوام متحدہ کا ہیڈ کوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Washington",
+        "Florida",
+        "New York",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" initial;=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Arial, sans-serif\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What major historical event took place in 1857?",
+      "urdu": "سن 1857 میں کون سا بڑا تاریخی واقعہ پیش آیا؟",
+      "options": [
+        "Partition of India",
+        "Creation of Pakistan",
+        "War of Independence",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Largest Desert of Pakistan is?",
+      "urdu": "پاکستان کا سب سے بڑا صحرا کونسا ہے؟",
+      "options": [
+        "Thall Desert",
+        "Thar Desert",
+        "Cholistan Desert",
+        "Kharan Desert"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pakistan hosts </font><font color=\"#ff0000\">five major deserts</font><font color=\"#0000ff\"> which were historic forests:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following mountain peaks is called Killer Mountain?",
+      "urdu": "مندرجہ ذیل میں سے کس پہاڑی چوٹی کو قاتل پہاڑ کہا جاتا ہے؟",
+      "options": [
+        "Nanga Parbat",
+        "Godwin Austin",
+        "Broad Peak",
+        "Raka Poshi"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last verified by on 16-05-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the height of Nanga Parbat?",
+      "urdu": "نانگا پربت کی بلندی کتنی ہے؟",
+      "options": [
+        "8226m",
+        "8126m",
+        "8326m",
+        "8026m"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last verified by on 16-05-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "K-2 is also known as?",
+      "urdu": "کے-ٹو کو اور کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "Broad Peak",
+        "Godwin Austin",
+        "Sia Kingri",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align:justify\"><b style=\"font-size: 0.875rem;\"><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\"><br/></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the height of K2 (Godwin Austin), second highest mountain of world?",
+      "urdu": "دنیا کے دوسرے بلند ترین پہاڑ گاڈون آسٹن (کے ٹو) کی اونچائی کتنی ہے؟",
+      "options": [
+        "8,511 meters (27,923 feet)",
+        "8,611 meters (28,251 feet)",
+        "8,848 meters (29,029 feet)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 12-03-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Indus River originates from _____?",
+      "urdu": "دریائے سندھ کہاں سے نکلتا ہے؟",
+      "options": [
+        "Ladakh",
+        "Tibet",
+        "Jammu",
+        "Kashmir"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Nunito, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the total length of Indus River?",
+      "urdu": "دریائے سندھ کی کل لمبائی کتنی ہے؟",
+      "options": [
+        "2514 km",
+        "3180 km",
+        "2900 km",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ff0000\"><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Additional information:</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The longest river in Pakistan is ____?",
+      "urdu": "پاکستان کا سب سے لمبا دریا کونسا ہے؟",
+      "options": [
+        "Ravi",
+        "Indus",
+        "Chenab",
+        "Jhelum"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ff0000\" style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Additional information:</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the largest export partner of Pakistan?",
+      "urdu": "پاکستان کا سب سے بڑا برآمدی شراکت دار کون سا ملک ہے؟",
+      "options": [
+        "Japan",
+        "Iran",
+        "America",
+        "Nepal"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "CPEC stands for _____?",
+      "urdu": "سیپیک کا مطلب کیا ہے؟",
+      "options": [
+        "China Pakistan Economic Council",
+        "China–Pakistan Economic Corridor",
+        "China Pakistan Energy Corridor",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who introduced Two Nations Theory in the subcontinent?",
+      "urdu": "برصغیر میں دو قومی نظریہ کس نے متعارف کرایا؟",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Sir Syed Ahmad Khan",
+        "Allama Muhammad Iqbal",
+        "Zafar Ali khan"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was All India Muslim League founded?",
+      "urdu": "آل انڈیا مسلم لیگ کب قائم ہوئی؟",
+      "options": [
+        "30 December 1906",
+        "30 November 1906",
+        "30 August 1947",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">When the </font><font color=\"#ff0000\">Muslim League ended</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">1947</font><font color=\"#0000ff\">, it split into </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> parties:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the literal meaning of the Urdu literary term \"Insha (انشا)\"?",
+      "urdu": "اردو ادبی اصطلاح \"انشا\" کا لغوی معنی کیا ہے؟",
+      "options": [
+        "Poetry recitation",
+        "To write, create ideas, or essay writing",
+        "Storytelling only",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "When Hazrat Ali (AS) shifted capital from Madina to Kufa?",
+      "urdu": "حضرت علی (ع) نے کب دارالحکومت مدینہ سے کوفہ منتقل کیا؟",
+      "options": [
+        "657 CE (36 AH)",
+        "658 CE (37 AH)",
+        "659 CE (38 AH)",
+        "669 AD"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which was the first mosque built in the history of Islam by the Holy Prophet (PBUH)?",
+      "urdu": "اسلام کی تاریخ میں حضور نبی کریم ﷺ نے سب سے پہلی کون سی مسجد تعمیر فرمائی؟",
+      "options": [
+        "Masjid-ul-Haram",
+        "Masjid-e-Quba",
+        "Masjid-e-Aqsa",
+        "Masjid-e-Nabavi"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional and Most Important information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How do you start numbering from a specific number in MS Excel?",
+      "urdu": "ایم ایس ایکسل میں مخصوص نمبر سے نمبرنگ کیسے شروع کی جاتی ہے؟",
+      "options": [
+        "By entering the starting number and using the Fill Handle",
+        "By changing the font size",
+        "By deleting the worksheet",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of a Hard Disk Drive (HDD)?",
+      "urdu": "ہارڈ ڈسک ڈرائیو کا کام کیا ہے؟",
+      "options": [
+        "To display images and videos on a screen",
+        "To process data and perform calculations",
+        "To store data and programs permanently",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is Utility Software?",
+      "urdu": "یوٹیلیٹی سافٹ ویئر کیا ہوتا ہے؟",
+      "options": [
+        "Software used only for creating documents",
+        "Software designed to maintain, manage, and protect a computer system",
+        "Software used for playing games only",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first Foreign Minister of Pakistan?",
+      "urdu": "پاکستان کے پہلے وزیرِ خارجہ کون تھے؟",
+      "options": [
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam",
+        "Muhammad Ali",
+        "Zafarullah Khan"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a macro?",
+      "urdu": "میکرو کیا ہے؟",
+      "options": [
+        "A style set",
+        "A large file",
+        "Automated sequence of commands",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
