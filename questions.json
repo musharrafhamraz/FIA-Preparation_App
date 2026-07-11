@@ -1,662 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-11T08:43:37.616610",
+    "fetched_at": "2026-07-11T14:20:30.799889",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "A man is working on a long document in MS Word. He wants to find a specific word quickly. Which shortcut key should he use?",
-      "urdu": "ایک شخص ایم ایس ورڈ میں ایک طویل دستاویز پر کام کر رہا ہے۔ وہ کسی مخصوص لفظ کو جلدی تلاش کرنا چاہتا ہے۔ اسے کون سی شارٹ کٹ کی استعمال کرنی چاہیے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Ctrl + H",
-        "Ctrl + F",
-        "Ctrl + G",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "A city government planted thousands of trees to improve air quality and reduce summer temperatures. After a few years, residents noticed cooler streets and cleaner parks. However, some trees began to die because they were overwatered. What does this paragraph imply?",
-      "urdu": "ایک شہر کی حکومت نے ہوا کو صاف کرنے اور گرمی کم کرنے کے لیے ہزاروں درخت لگائے۔ چند سال بعد سڑکیں ٹھنڈی اور پارک صاف نظر آنے لگے، لیکن کچھ درخت زیادہ پانی دینے کی وجہ سے مرنے لگے۔ اس پیراگراف سے کیا نتیجہ اخذ ہوتا ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Overwatering harmed tree species that required less water.",
-        "Planting trees always reduces rainfall.",
-        "Trees cannot survive in cities.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a student randomly guesses five multiple-choice questions, each with five possible choices, what is the probability of getting exactly two correct?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "128/625 (20.48%)",
-        "64/625 (10.24%)",
-        "256/625 (40.96%)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>n = 5 questions  </b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "SAARC was founded in the year?",
-      "urdu": "سارک کی بنیاد کس سال رکھی گئی؟",
-      "options": [
-        "1984",
-        "1986",
-        "1985",
-        "1987"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the Turkish President Recep Tayyip Erdogan visit Pakistan?",
-      "urdu": "ترکی کے صدر رجب طیب اردوان نے پاکستان کا دورہ کب کیا؟",
-      "options": [
-        "February 12–13, 2025",
-        "February 12–13, 2023",
-        "February 12–13, 2024",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the main agenda of the trilateral meetings between the USA, Russia, and Ukraine?",
-      "urdu": "امریکہ، روس اور یوکرین کے درمیان سہ فریقی مذاکرات کا بنیادی ایجنڈا کیا تھا؟",
-      "options": [
-        "Expansion of NATO membership",
-        "Increase in global trade agreements",
-        "Discussion of peace efforts and resolution of the Russia–Ukraine conflict",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Lucknow Pact of 1916 was made between?",
-      "urdu": "سن 1916 کا لکھنؤ معاہدہ کن کے درمیان کیا گیا تھا؟",
-      "options": [
-        "The british and india",
-        "The Congress and the Muslim League",
-        "The Hindus and the Muslims",
-        "The moderates and extremists"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"font-family: Helvetica; font-size: 16px; font-weight: bold;\">Purposes of Lucknow Pact:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Siam is the old name of which country?",
-      "urdu": "صیام کس ملک کا پرانا نام ہے؟",
-      "options": [
-        "Sialkot",
-        "Zambia",
-        "Thailand",
-        "Zimbabwe"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the Iran–America war start?",
-      "urdu": "ایران–امریکہ جنگ کب شروع ہوئی؟",
-      "options": [
-        "February 27, 2026",
-        "February 28, 2026",
-        "March 01, 2026",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The currency of Japan is?",
-      "urdu": "جاپان کی کرنسی کیا ہے؟",
-      "options": [
-        "Dollar",
-        "Lira",
-        "Yen",
-        "Dinar"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"\"><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\">The </b><b style=\"font-size: 16px; font-family: Helvetica;\"><font color=\"#9c00ff\">currency of Japan</font></b><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\"> is the </b><b style=\"font-size: 16px; font-family: Helvetica;\"><font color=\"#ff0000\">yen</font></b><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\">.</b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Capital of Ethiopia?",
-      "urdu": "ایتھوپیا کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Addis Ababa",
-        "Berlin",
-        "Libreville",
-        "Conakry"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Ethiopia</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height: 107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%; color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%; color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Addis Ababa</span><!--[if supportFields]><span style='font-size: 12.0pt;line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Macbeth is a drama written by ______?",
-      "urdu": "میکبت ڈرامہ کس نے لکھا؟",
-      "options": [
-        "William Shakespeare",
-        "Charles Dickens",
-        "Jane Austen",
-        "John Milton",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest Makki Surah of the Holy Quran?",
-      "urdu": "قرآن مجید کی سب سے بڑی مکی سورت کون سی ہے؟",
-      "options": [
-        "Surah Al-A'raf",
-        "Surah Al-An'am",
-        "Surah Yasin",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bolan Pass is located in the province of ____?",
-      "urdu": "بولان پاس پاکستان کے کس صوبے میں واقع ہے؟",
-      "options": [
-        "Sindh",
-        "Balochistan",
-        "Punjab",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A manager has configured automatic email deletion after 30 days. Three months later, he needs a specific deleted email. What is the best option to recover it?",
-      "urdu": "ایک مینیجر نے ای میلز کو 30 دن بعد خودکار طور پر حذف ہونے کے لیے سیٹ کیا۔ تین ماہ بعد اسے ایک مخصوص حذف شدہ ای میل کی ضرورت پڑتی ہے۔ اسے واپس حاصل کرنے کا بہترین طریقہ کیا ہے؟",
-      "options": [
-        "Spam Folder",
-        "Backup",
-        "Archive",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A school introduced an online learning portal. Based on the given analysis, what is the correct conclusion?",
-      "urdu": "ایک اسکول نے آن لائن لرننگ پورٹل متعارف کرایا۔ دی گئی تجزیاتی معلومات کی بنیاد پر درست نتیجہ کیا ہے؟",
-      "options": [
-        "All students improved without using the portal.",
-        "The portal reduced students' interest in studies.",
-        "Students who used the portal improved their results.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a vaccine is proven effective, but many people refuse to take it, what is the best way to increase its use?",
-      "urdu": "اگر کوئی ویکسین مؤثر ثابت ہو، لیکن بہت سے لوگ اسے لگوانے سے انکار کریں، تو اس کے استعمال کو بڑھانے کا بہترین طریقہ کیا ہے؟",
-      "options": [
-        "Increase public awareness campaigns, address vaccine hesitancy, and share transparent safety data",
-        "Make the vaccine unavailable",
-        "Ignore public concerns",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ahmed, Ali, Sana, and Hina are arranged in a sequence. Ahmed and Sana must be adjacent, and Hina should not be after Sana. Who is last?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ahmed",
-        "Ali",
-        "Sana",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">Ahmed</font><font color=\"#0000ff\"> and </font><font color=\"#ff0000\">Sana</font><font color=\"#0000ff\"> must sit together.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the total number of arrangements for 10 people around a circular table?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "40,320",
-        "181,440",
-        "362,880",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">For n people sitting around a circular table:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the next number in the sequence 3, 7, 11, ...?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15",
-        "16",
-        "13",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern adds 4 each time:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 2+2 = 8, 3+3 = 18, 4+4 = 28, what is the next number in the pattern?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "38",
-        "36",
-        "40",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The given results form a pattern:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number is increased by 20% and then decreased by 20%. Find the net increase or decrease percent?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Does not changes",
-        "Decreased by 4%",
-        "Increased by 4%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which view is used to sort and rearrange slides in Microsoft PowerPoint?",
-      "urdu": "مائیکروسافٹ پاورپوائنٹ میں سلائیڈز کو ترتیب دینے اور دوبارہ منظم کرنے کے لیے کون سا ویو استعمال ہوتا ہے؟",
-      "options": [
-        "Reading View",
-        "Slide Sorter View",
-        "Slide Show View",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If organic matter increases in a pond, what effect does it have on fish survival?",
-      "urdu": "اگر تالاب میں نامیاتی مادہ بڑھ جائے تو اس کا مچھلیوں کی بقا پر کیا اثر پڑتا ہے؟",
-      "options": [
-        "Fish survival decreases due to decomposition of organic matter",
-        "Fish survival increases",
-        "Water becomes cleaner",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "For an autoclave functioning test, which bacteria is used as a biological indicator?",
-      "urdu": "آٹوکلیو کے درست کام کرنے کی جانچ کے لیے حیاتیاتی اشاریہ کے طور پر کون سا بیکٹیریا استعمال ہوتا ہے؟",
-      "options": [
-        "Escherichia coli",
-        "Bacillus subtilis",
-        "Geobacillus stearothermophilus",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current President of Palestine?",
-      "urdu": "فلسطین کے موجودہ صدر کون ہیں؟",
-      "options": [
-        "Ebrahim Raisi",
-        "Najib Mikati",
-        "Mahmoud Abbas",
-        "Mirza Nasrullah Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Basic Democracies System introduced in Pakistan?",
-      "urdu": "پاکستان میں بیسک ڈیموکریسیز نظام کب متعارف کرایا گیا؟",
-      "options": [
-        "23 March 1956",
-        "7 October 1958",
-        "27 October 1959",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Holy Torat which name Prophet Muhammad (ﷺ) mentioned?",
-      "urdu": "توریت میں حضرت محمد ﷺ کا ذکر کس نام سے آیا ہے؟",
-      "options": [
-        "Tahir",
-        "Farooq",
-        "Ahmed",
-        "Tayyab"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "In a certain code, \"FIA\" = \"GJB\" and \"SI\" = \"TJ\". What is the code for \"EXAM\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "FYBN",
-        "FXBM",
-        "GXBN",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The code changes each letter to the next letter in the English alphabet:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next number in the series: 3, 8, 27, 112, 565, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3396",
-        "3386",
-        "3390",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Solve: 2^(x+3) = 32?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2",
-        "3",
-        "1",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">32 = 2⁵</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bag contains 5 red bags, 3 blue bags, what will be the probability of red bag?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3/4",
-        "4/5",
-        "6/7",
-        "5/8"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A father's age is three times his daughter's age. After 12 years, the father's age will be twice the daughter's age. What is the daughter's present age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10 years",
-        "11 years",
-        "12 years",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the daughter's present age = x.</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Complete the series: 30, 18, 15, 7, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "3",
-        "4",
-        "5",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is:</font></b></p>",
-      "category": "all"
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "In Artificial Intelligence (AI), which method is commonly used by an agent to achieve a goal from an initial state?",
-      "urdu": "مصنوعی ذہانت میں، ایک ایجنٹ ابتدائی حالت سے مطلوبہ ہدف تک پہنچنے کے لیے عام طور پر کون سا طریقہ استعمال کرتا ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "State-Space Search",
-        "Data Compression",
-        "Image Rendering",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Common </font><font color=\"#ff0000\">search algorithms</font><font color=\"#0000ff\"> include:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An arrow points North. It undergoes a sequence of 23 movements, alternating between a 90° turn and a 180° turn. What will be its final direction?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "North",
-        "East",
-        "West",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">The arrow starts facing North.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of the Islamic Educational, Scientific and Cultural Organization (ICESCO) located?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Islamabad, Pakistan",
-        "Jeddah, Saudi Arabia",
-        "Rabat, Morocco",
-        "Ankara, Türkiye"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"background-color: rgb(255, 255, 0);\"><b>Correct Answer: C) Rabat, Morocco</b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bus starts with 34 passengers. At the first stop, 8 passengers get off and 16 passengers get on. At the next stop, half of the passengers get off. How many passengers remain on the bus?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "21",
-        "22",
-        "23",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Start with 34 passengers.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a cat is called goat, a goat is called cow, a cow is called lion, and a lion is called tiger, then according to this code language, which animal will make the \"meow\" sound?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Goat",
-        "Cow",
-        "Lion",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">A </font><font color=\"#ff0000\">cat</font><font color=\"#0000ff\"> makes the \"</font><font color=\"#ff0000\">meow</font><font color=\"#0000ff\">\" sound.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key to duplicate a slide in Microsoft PowerPoint?",
-      "urdu": "مائیکروسافٹ پاورپوائنٹ میں سلائیڈ کی نقل بنانے کی شارٹ کٹ کی کیا ہے؟",
-      "options": [
-        "Ctrl + M",
-        "Ctrl + D",
-        "Ctrl + Shift + D",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which feature in Microsoft Word applies a pre-designed layout to an entire document?",
-      "urdu": "مائیکروسافٹ ورڈ میں کون سا فیچر پورے ڈاکیومنٹ پر پہلے سے تیار شدہ ڈیزائن اور لے آؤٹ لاگو کرتا ہے؟",
-      "options": [
-        "Template",
-        "Font Styles",
-        "Document Themes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "USA and Taliban signed a historic peace agreement on 29th February 2020 in ______?",
-      "urdu": "امریکہ اور طالبان نے 29 فروری 2020 کو تاریخی امن معاہدہ کہاں پر دستخط کیا؟",
-      "options": [
-        "Turkey",
-        "Saudi Arabia",
-        "Qatar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many countries are officially recognized as nuclear-weapon states under the Nuclear Non-Proliferation Treaty (NPT)?",
-      "urdu": "جوہری ہتھیاروں کے عدم پھیلاؤ کے معاہدے کے تحت کتنے ممالک کو باضابطہ طور پر جوہری ہتھیار رکھنے والے ممالک کے طور پر تسلیم کیا گیا ہے؟",
-      "options": [
-        "4",
-        "6",
-        "8",
-        "5"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\"> Apart from the</font><font color=\"#ff0000\"> <span style=\"background-color: rgb(255, 255, 0);\">5 officially recognized</span> </font><font color=\"#0000ff\">nuclear-weapon states under the NPT, some other countries are also known to </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">possess nuclear weapons:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following States in a “Dejure” Nuclear Weapon State?",
-      "urdu": "درج ذیل میں سے کون سا ملک قانونی طور پر تسلیم شدہ ڈیجور ایٹمی ہتھیار رکھنے والا ملک ہے؟",
-      "options": [
-        "Isreal",
-        "Pakistan",
-        "North Korea",
-        "China"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to which amendment of the constitution of Pakistan that President will have no authority to dissolve the national assembly and impose emergency rule on his own?",
-      "urdu": "آئینِ پاکستان کی کس ترمیم کے مطابق صدرِ پاکستان کو قومی اسمبلی توڑنے اور اپنی مرضی سے ایمرجنسی نافذ کرنے کا اختیار ختم کر دیا گیا؟",
-      "options": [
-        "8th Amendment",
-        "17th Amendment",
-        "18th Amendment",
-        "16th Amendment"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "By which Article was the Objectives Resolution made a substantive part of the Constitution of Pakistan?",
-      "urdu": "قراردادِ مقاصد کو آئینِ پاکستان کا باقاعدہ حصہ کس آرٹیکل کے ذریعے بنایا گیا؟",
-      "options": [
-        "Article 2A",
-        "Article 2",
-        "Article 160",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Article 19 of constitution of Pakistan 1973 is about _______?",
-      "urdu": "آئینِ پاکستان 1973 کا آرٹیکل 19 کس سے متعلق ہے؟",
-      "options": [
-        "Fundamental Rights",
-        "Freedom of Speech and Expression",
-        "Right of Education",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Article 160 of the Constitution of Pakistan (1973) deals with?",
-      "urdu": "آئینِ پاکستان 1973 کا آرٹیکل 160 کس سے متعلق ہے؟",
-      "options": [
-        "Council of Common Interests (CCI)",
-        "National Finance Commission (NFC)",
-        "National Law and Order Committee",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which article of the Constitution of Pakistan 1973 deals with the National Economic Council?",
-      "urdu": "پاکستان 1973 کے آئین کا کون سا آرٹیکل قومی اقتصادی کونسل سے متعلق ہے؟",
-      "options": [
-        "Article 155",
-        "Article 157",
-        "Article 156",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is not an application software? WinWord XP, Page Maker, Windows NT, None of these",
-      "urdu": "مندرجہ ذیل میں سے کون سا ایپلیکیشن سافٹ ویئر نہیں ہے؟",
-      "options": [
-        "WinWord XP",
-        "Page Maker",
-        "Windows NT",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
