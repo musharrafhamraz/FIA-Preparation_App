@@ -3,10 +3,101 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-12T14:24:43.933497",
+    "fetched_at": "2026-07-12T19:59:42.417797",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the next number in the series? 2, 10, 30, 68, 130, ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "160",
+        "222",
+        "200",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel formula and function start with ____?",
+      "urdu": "ایم ایس ایکسل میں فارمولا اور فنکشن کس علامت سے شروع ہوتے ہیں؟",
+      "options": [
+        "+",
+        "-",
+        "=",
+        "["
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one of the following is the capital of Brazil?",
+      "urdu": "مندرجہ ذیل میں سے کون سا برازیل کا دارالحکومت ہے؟",
+      "options": [
+        "Harare",
+        "Ottowa",
+        "Tokyo",
+        "Brasilia"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\">Brazil</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%;color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:red'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Brasilia</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A compound containing a triple bond belongs to which class of hydrocarbons?",
+      "urdu": "تینہرا بند رکھنے والا مرکب ہائیڈروکاربن کی کس قسم سے تعلق رکھتا ہے؟",
+      "options": [
+        "Alkanes",
+        "Alkenes",
+        "Alkynes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Arabic term for the sacrifice performed by pilgrims during Hajj?",
+      "urdu": "حج کے دوران حجاج کی طرف سے کی جانے والی قربانی کو عربی میں کیا کہتے ہیں؟",
+      "options": [
+        "Hady (Hadi)",
+        "Zakat",
+        "Sadaqah",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What will happen if the ozone layer disappears?",
+      "urdu": "اگر اوزون کی تہہ ختم ہو جائے تو کیا ہوگا؟",
+      "options": [
+        "UV Rays reach the earth",
+        "UV Rays do not reach the earth",
+        "X Rays breach the earth’s surface",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "First meeting of UN General Assembly meeting was held on?",
+      "urdu": "اقوام متحدہ کی جنرل اسمبلی کا پہلا اجلاس کب منعقد ہوا؟",
+      "options": [
+        "10 January, 1945",
+        "10 January, 1946",
+        "15 January, 1945",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
     {
       "q": "In which year did Muhammad Bashir receive the Tamgha-e-Imtiaz?",
       "urdu": "محمد بشیر نے تمغۂ امتیاز کس سال حاصل کیا؟",
@@ -564,97 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#0000ff\">Boys = 40% of 60 = 24</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan conducted its first nuclear test in _____?",
-      "urdu": "پاکستان نے اپنا پہلا ایٹمی تجربہ _____ میں کیا؟",
-      "options": [
-        "Turbat",
-        "Chaghi",
-        "Quetta",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Summer Olympics Games 2028 will be played in _____?",
-      "urdu": "سن 2028 کے سمر اولمپکس کہاں منعقد ہوں گے؟",
-      "options": [
-        "Paris",
-        "Rome",
-        "Los Angeles",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "T is the son of U. U is the son of W. V is the daughter of W. X is married to W. What is the relationship between T and W?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Son",
-        "Nephew",
-        "Grandson",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">U is the son of W → W is U's parent.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Tafseer al Quran al Azeem was written by ______?",
-      "urdu": "تفسیر القرآن العظیم کس نے لکھی؟",
-      "options": [
-        "Imam Ghazali",
-        "Imam Abu HAneefa",
-        "Ismail bin Kathir (Ibn Al Athir)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 12-07-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "If: 1 + 2 = 5, 2 + 3 = 13, 3 + 4 = 25 Then, 4 + 5 = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "35",
-        "38",
-        "41",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Look at the pattern:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which First Country to Grant Citizenship to a Robot?",
-      "urdu": "روبوٹ کو شہریت دینے والا دنیا کا پہلا ملک کون سا ہے؟",
-      "options": [
-        "Saudi Arabia",
-        "China",
-        "Sri Lanka",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who served as the Finance Minister during the era of President Ayub Khan?",
-      "urdu": "صدر ایوب خان کے دور میں وزیرِ خزانہ کون تھے؟",
-      "options": [
-        "Ghulam Ishaq Khan",
-        "Sartaj Aziz",
-        "Muhammad Shoaib",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     }
   ]
