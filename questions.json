@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-11T19:57:38.873359",
+    "fetched_at": "2026-07-12T04:24:10.647438",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the official abbreviation (full form) of NFA?",
-      "urdu": "این ایف اے کا مکمل نام کیا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "National Futures Association",
-        "National Food Authority",
-        "No Further Action",
-        "National Firearms Act"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is celebrated in the United States on July 4?",
-      "urdu": "امریکہ میں 4 جولائی کو کیا منایا جاتا ہے؟",
-      "options": [
-        "Memorial Day",
-        "Veterans Day",
-        "Independence Day",
-        "Labor Day"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "She agrees _______ my proposal.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "With",
-        "To",
-        "For",
-        "About"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Find the missing number: 1, 3, 7, 15, 31, 63, ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "123",
-        "125",
-        "127",
-        "129"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"15\" data-start=\"0\"><font color=\"#0000ff\"><b>Pattern: Multiply by 2 and add 1</b></font></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What is the remainder when 2945 is divided by 29?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "16",
-        "20",
-        "25",
-        "10"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "How many countries have a republic government in the world?",
-      "urdu": "دنیا میں کتنے ممالک میں جمہوریہ (ریپبلک) نظامِ حکومت ہے؟",
-      "options": [
-        "159",
-        "160",
-        "161",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Energy is a nuclear reaction is produced due to _____?",
-      "urdu": "جوہری ردِ عمل میں توانائی کس وجہ سے پیدا ہوتی ہے؟",
-      "options": [
-        "Controlled chain of reaction",
-        "Uncontrolled chain of reaction",
-        "Chain of reaction",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When US President Jimmy Carter administration cut off the military and economic aid to Pakistan?",
-      "urdu": "امریکی صدر جمی کارٹر کی حکومت نے پاکستان کی فوجی اور اقتصادی امداد کب بند کی؟",
-      "options": [
-        "April 1979",
-        "November 1979",
-        "August 1979",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A factory has 140 machines, of which 30 are out of order (defective). If one machine is selected at random, what is the probability that it is defective?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3/12",
-        "3/14",
-        "7/16",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Total number of machines = 140  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A mother's age is four times her daughter's age. After 5 years, the sum of their ages will be 60 years. What is the daughter's present age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10 years",
-        "12 years",
-        "12 years",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let daughter's present age = x  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a tank is half full, and after adding 30 liters of water it becomes three-fourths full, what is the full capacity of the tank?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "90 liters",
-        "120 liters",
-        "150 liters",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The increase from 1/2 to 3/4 is 1/4 of the tank.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If yesterday's tomorrow was the day before the day that is two days after the day that comes immediately before the day that is tomorrow's yesterday, and we are evaluating this statement precisely three days after the winter solstice of a leap year in the Southern Hemisphere, what hemisphere-specific astronomical season commences exactly six months from the day that is the sibling of the day described?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Autumn",
-        "Winter",
-        "Summer",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">1. Simplify the date riddle:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Asia, where palm trees are non-native, the trees' flowers have traditionally been pollinated by hand, which has kept palm fruit productivity unnaturally low. When weevils known to be efficient pollinators of palm flowers were introduced into Asia in 1980, palm fruit productivity increased — by up to 50 percent in some areas — but then decreased sharply in 1984. Which of the following statements, if true, would best explain the 1984 decrease in productivity?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Prices for palm fruit fell between 1980 and 1984 following the rise in production and a concurrent fall in demand.",
-        "Imported trees are often more productive than native trees because the imported ones have left behind their pests and diseases in their native lands.",
-        "Rapid increases in productivity tend to deplete trees of nutrients needed for the development of the fruit-producing female flowers.",
-        "The weevil population in Asia remained at approximately the same level between 1980 and 1984."
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Rapid increases in productivity tend to deplete trees of nutrients needed for the development of the fruit-producing female flowers.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Male bowerbirds construct elaborately decorated nests, or bowers. Basing their judgment on the fact that different local populations of bowerbirds of the same species build bowers that exhibit different building and decorative styles, researchers have concluded that the bowerbirds' building styles are a culturally acquired, rather than a genetically transmitted, trait. Which of the following, if true, would most strengthen the conclusion drawn by the researchers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "There are more common characteristics than there are differences among the bowerbuilding styles of the local bowerbird population that has been studied most extensively.",
-        "Young male bowerbirds are inept at bowerbuilding and apparently spend years watching their elders before becoming accomplished in the local bower style.",
-        "The bowers of one species of bowerbird lack the towers and ornamentation characteristic of the bowers of most other species of bowerbird.",
-        "It is well known that the song dialects of some songbirds are learned rather than transmitted genetically."
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">Answer: Young male bowerbirds are inept at bowerbuilding and apparently spend years watching their elders before becoming accomplished in the local bower style.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When hypnotized subjects are told that they are deaf and are then asked whether they can hear the hypnotist, they reply, \"No.\" Some theorists try to explain this result by arguing that the selves of hypnotized subjects are dissociated into separate parts, and that the part that is deaf is dissociated from the part that replies.  Which of the following challenges indicates the most serious weakness in the attempted explanation described above?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Why does the part that replies not answer, \"Yes\"?",
-        "Why are the observed facts in need of any special explanation?",
-        "Why do the subjects appear to accept the hypnotist's suggestion that they are deaf?",
-        "Why do hypnotized subjects all respond the same way in the situation described?"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Answer: (A) Why does the part that replies not answer, \"Yes\"?</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bag contains 4 blue balls and 3 red balls. If one ball is selected at random, what is the probability of selecting a red ball?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3/7",
-        "3/5",
-        "3/6",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total balls = 4 blue + 3 red = 7  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A group has 15 boys and 6 girls. If 3 girls are to be selected without replacement, in how many ways can they be selected?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "22",
-        "21",
-        "20",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Formula: nCr = n! / r!(n-r)!</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the chemical formula of ethyne?",
-      "urdu": "ایتھائن کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "CH₄",
-        "C₂H₄",
-        "C₂H₂",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary purpose of microorganisms such as bacteria in nature?",
-      "urdu": "قدرت میں بیکٹیریا جیسے خرد جانداروں کا بنیادی کام کیا ہے؟",
-      "options": [
-        "To produce only harmful diseases",
-        "To destroy all living organisms",
-        "To decompose dead organic matter and recycle nutrients",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The cause of malaria is _____?",
-      "urdu": "ملیریا کس کی وجہ سے ہوتا ہے؟",
-      "options": [
-        "Bacteria",
-        "Virus",
-        "Plasmodium",
-        "Fungus"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Secretary General of OIC?",
-      "urdu": "او آئی سی کے موجودہ سیکریٹری جنرل کون ہیں؟",
-      "options": [
-        "Dr Yousaf",
-        "Yousef bin Ahmad Al-Othaimeen",
-        "Hussein Ibrahim Taha",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b>Last verified on 18-03-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Surah of the Quran ends with a name of a prayer?",
-      "urdu": "قرآن پاک کی کون سی سورت دعا کے نام پر ختم ہوتی ہے؟",
-      "options": [
-        "Surah Al-Fatiha",
-        "Surah Al-Baqarah",
-        "Surah Al-Qadar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The author of Seerat-e-Sarwar-e-Alam is?",
-      "urdu": "سیرتِ سرورِ عالم کے مصنف کون ہیں؟",
-      "options": [
-        "Maulana Abul Ala Maududi",
-        "Muhammad Bin Ismail",
-        "Sir Syed Ahmad Khan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Stearic acid is a?",
-      "urdu": "اسٹیرک ایسڈ کیا ہے؟",
-      "options": [
-        "Unsaturated fatty acid",
-        "Saturated fatty acid",
-        "Trans fatty acid",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "COVID-19 was declared pandemic by WHO on _____?",
-      "urdu": "کووڈ-19 کو عالمی ادارہ صحت نے وبا کب قرار دیا؟",
-      "options": [
-        "March 10, 2021",
-        "March 11, 2020",
-        "March 12, 2021",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which article of the constitution of 1973 is related to the affairs of Zakat?",
-      "urdu": "آئینِ پاکستان 1973 کا کون سا آرٹیکل زکوٰۃ کے معاملات سے متعلق ہے؟",
-      "options": [
-        "46",
-        "44",
-        "31",
-        "20"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Nine people A, B, C, D, E, F, G, H, and I are standing in a single line, waiting for their turn. A stands somewhere before D, but after B. C is immediately before F. There are exactly two people between A and C. G is the last person in the line. H stands immediately after D. E stands somewhere between F and I. I is before G. There are exactly three people between B and D. Who is standing last in the line?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "H",
-        "I",
-        "G",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Let's arrange 9 people: A, B, C, D, E, F, G, H, I</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A man walks 10 m north, then 15 m east, and then 10 m south. In which direction is he from the starting point?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "East",
-        "North",
-        "South",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Start at point O.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "P is the son of Q. Q is the sister of R. R is the father of the man. How is the man related to P?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Brother",
-        "Cousin",
-        "Father",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">P is the son of Q.  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Mosques are mentioned in the Holy Quran?",
-      "urdu": "قرآن پاک میں کتنی مساجد کا ذکر ہے؟",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Names of the </font><font color=\"#ff0000\">Five</font><font color=\"#0000ff\"> Mosques:</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "How many army commander(s) were martyred in the Battle of Mu'tah?",
-      "urdu": "غزوۂ مؤتہ میں کتنے فوجی کمانڈر شہید ہوئے تھے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "3",
-        "2",
-        "1",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Three army </font><font color=\"#0000ff\">commanders were </font><font color=\"#ff0000\">martyred</font><font color=\"#0000ff\"> in the </font><font color=\"#ff0000\">Battle of Mu'tah </font><font color=\"#0000ff\">in </font><font color=\"#ff0000\">629</font><font color=\"#0000ff\"> AD (</font><font color=\"#ff0000\">8</font><font color=\"#0000ff\"> AH).</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the meaning of \"Sab'a Ahruf\" in Islamic Studies?",
-      "urdu": "اسلامیات میں \"سبعہ احرف\" کا کیا مطلب ہے؟",
-      "options": [
-        "Seven Modes (or Dialects) of Recitation",
-        "Seven Chapters",
-        "Seven Recitations",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Lira is the currency of ______?",
-      "urdu": "لیرا کس ملک کی کرنسی ہے؟",
-      "options": [
-        "Turkey",
-        "China",
-        "Azerbaijan",
-        "Tajikistan"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Turkey</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Turkish Lira</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "9, 11, 20, 31, ______ 82. What is the next number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "41",
-        "51",
-        "71",
-        "60"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following Surah of the Holy Quran carries the injunction for utilization of Zakat?",
-      "urdu": "قرآن پاک کی درج ذیل سورتوں میں سے کون سی سورت زکوٰۃ کے استعمال کا حکم دتیی ہے؟",
-      "options": [
-        "Surah-e-Tauba",
-        "Surah-e-Baqra",
-        "Surah-e-Nisa",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"padding-top: 8px;\"><span style=\"font-size: 18.6667px;\"><b style=\"\"><font color=\"#0000ff\">The injunction for </font><font color=\"#ff0000\">utilization of Zakat</font><font color=\"#0000ff\"> is given in </font><font color=\"#ff0000\">Surah At-Tawbah</font><font color=\"#0000ff\"> (9:60).</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year did Pakistan host the Kabaddi World Cup for the first time?",
-      "urdu": "پاکستان نے پہلی بار کبڈی ورلڈ کپ کی میزبانی کس سال کی؟",
-      "options": [
-        "2012",
-        "2016",
-        "2020",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "If PAKISTAN is written by replacing each letter with the next letter of the English alphabet (+1), what is the code?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "QBLJTTBO",
-        "QBLJTUBO",
-        "QBKJTUBO",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Replace each letter with the next letter:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If every letter of the word FIA is replaced by the next letter of the English alphabet (+1), what will be the code?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "GJB",
-        "GIB",
-        "HJB",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Replace each letter with the next letter in the English alphabet:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the main objective of the Lucknow Pact?",
-      "urdu": "لکھنؤ معاہدے کا بنیادی مقصد کیا تھا؟",
-      "options": [
-        "To promote Hindu-Muslim unity and constitutional reforms",
-        "To establish Pakistan",
-        "To abolish the British Parliament in India",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Before accepting Islam, Hazrat Salman Al-Farsi (RA) belonged to which religion?",
-      "urdu": "حضرت سلمان فارسیؓ اسلام قبول کرنے سے پہلے کس مذہب سے تعلق رکھتے تھے؟",
-      "options": [
-        "Zoroastrianism (Fire Worship)",
-        "Christianity",
-        "Judaism",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In grammar, which part of speech is the word \"Pleasant\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Noun",
-        "Verb",
-        "Adjective",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If you send an email without entering a subject, what will happen?",
-      "urdu": "ایم ایس پاورپوائنٹ میں ایکسٹینشن کا نام کیا ہے؟",
-      "options": [
-        "The email will still be sent successfully.",
-        "The email cannot be sent.",
-        "The email will be deleted automatically.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does \"CC\" stand for in an email?",
-      "urdu": "ای میل میں \"سی سی\" کا مطلب کیا ہے؟",
-      "options": [
-        "Cut Copy",
-        "Common Copy",
-        "Combined Copy",
-        "Carbon Copy"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "BCC stands for _____?",
-      "urdu": "بی سی سی کا مطلب کیا ہے؟",
-      "options": [
-        "Basic Carbon Copy",
-        "Blind Carbon Copy",
-        "Business Carbon Copy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Arab League established?",
-      "urdu": "عرب لیگ کب قائم ہوئی؟",
-      "options": [
-        "21 December 1945",
-        "22 March 1945",
-        "23July 1945",
-        "29 April 1946"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Indian National Congress was formed in ____?",
-      "urdu": "انڈین نیشنل کانگریس کب قائم ہوئی؟",
-      "options": [
-        "December 28, 1888",
-        "December 28, 1885",
-        "December 28, 1886",
-        "December 28, 1880"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is extension of MS PowerPoint presentation of file in 2007 and later?",
-      "urdu": "سن 2007 اور بعد میں فائل کی ایم ایس پاورپوائنٹ پریزنٹیشن کی توسیع کیا ہے؟",
-      "options": [
-        ".pp",
-        ".xls",
-        ".pptx",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key used to find text in a document or webpage?",
-      "urdu": "کسی دستاویز یا ویب صفحے میں متن تلاش کرنے کے لیے کون سی شارٹ کٹ کلید استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl + F",
-        "Ctrl + H",
-        "Ctrl + G",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the mean value is 50 and the frequency (number of observations) is 10, what is the sum of the observations?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "400",
-        "450",
-        "500",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Formula:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does COVID stand for?",
-      "urdu": "کووڈ کا مکمل مطلب کیا ہے؟",
-      "options": [
-        "Corona Virus Infection Disease",
-        "Contagious Viral Disease",
-        "Coronavirus Disease",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
