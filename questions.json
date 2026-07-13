@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-13T15:44:09.549006",
+    "fetched_at": "2026-07-13T20:06:35.381692",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Kaleemullah (One who spoke to Allah) was the title of which Prophet?",
+      "urdu": "کلیم اللہ کس نبی کا لقب تھا؟",
+      "options": [
+        "Hazrat Ibrahim A.S",
+        "Hazrat Musa A.S",
+        "Hazrat Dawood A.S",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\" style=\"\">Last verified on 17-05-2026</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ghazwa-e-Badr occurred in which hijrah?",
+      "urdu": "غزوہ بدر کس ہجری میں ہوا؟",
+      "options": [
+        "2 A.H",
+        "3 A.H",
+        "4 A.H",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the immediate impact of the 1857 War of Independence?",
+      "urdu": "سن 1857 کی جنگِ آزادی کا فوری اثر کیا تھا؟",
+      "options": [
+        "India became independent",
+        "The Mughal Empire was restored",
+        "The rule of the British East India Company was abolished, and direct control was transferred to the British Crown",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "What is the combined population of Brazil, Mexico, the United Kingdom (UK), and the United States (USA)?",
       "urdu": "برازیل، میکسیکو، برطانیہ اور امریکہ کی مجموعی آبادی کتنی ہے؟",
@@ -616,45 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The world’s oldest former Olympic champion, ex-track cyclist <span style=\"background-color: rgb(255, 255, 0);\">Charles Coste has died</span><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ratio of three numbers is 3 : 2 : 1 and their sum is 54. What is the largest number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "27",
-        "29",
-        "31",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total ratio = 3 + 2 + 1 = 6</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Second Session of the United Nations (UN) General Assembly opened?",
-      "urdu": "اقوامِ متحدہ کی جنرل اسمبلی کا دوسرا اجلاس کب شروع ہوا؟",
-      "options": [
-        "10 January 1946",
-        "16 September 1947",
-        "24 October 1946",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The area of ex-Federally Administratered Tribal Areas (FATA) is _______ square kilo meters.",
-      "urdu": "سابق وفاق کے زیرِ انتظام قبائلی علاقوں (فاٹا) کا رقبہ کتنے مربع کلومیٹر تھا؟",
-      "options": [
-        "18925 km",
-        "22123 km",
-        "24532 km",
-        "27220 km"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
       "category": "all"
     }
   ]
