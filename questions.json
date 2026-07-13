@@ -3,10 +3,322 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-13T04:29:20.902164",
+    "fetched_at": "2026-07-13T10:18:57.585497",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "A father is 24 years older than his son. After 2 years, the father's age will be twice the son's age. What are their present ages?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Father = 44 years, Son = 20 years",
+        "Father = 46 years, Son = 22 years",
+        "Father = 42 years, Son = 24 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Let son's present age = x years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which strait separates Asia and Europe?",
+      "urdu": "ایشیا اور یورپ کو کون سی آبنائے الگ کرتی ہے؟",
+      "options": [
+        "Bosphorus Strait",
+        "Strait of Malacca",
+        "Sunda Strait",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a School Code follows a specific pattern, how can you find the College Code?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Reverse the letters",
+        "Change the pattern completely",
+        "Apply the same alphabetical or numerical pattern to the new word",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If China produces low-cost goods and America produces high-cost goods, which country's economy is likely to grow faster?",
+      "urdu": "اگر چین کم لاگت پر اشیاء تیار کرے اور امریکہ زیادہ لاگت پر، تو کس ملک کی معیشت کے تیزی سے ترقی کرنے کا امکان زیادہ ہے؟",
+      "options": [
+        "America",
+        "China",
+        "Both equally",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which strait separates Sumatra and Malaysia?",
+      "urdu": "سماترا اور ملائیشیا کے درمیان کون سی آبنائے واقع ہے؟",
+      "options": [
+        "Sunda Strait",
+        "Strait of Malacca",
+        "Lombok Strait",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which strait is located near Sumatra?",
+      "urdu": "سماترا کے قریب کون سی آبنائے واقع ہے؟",
+      "options": [
+        "Sunda Strait",
+        "Strait of Malacca",
+        "Lombok Strait",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who has won Booker Prize 2025?",
+      "urdu": "بکر پرائز 2025 کس نے جیتا؟",
+      "options": [
+        "Ian McEwan",
+        "David Szalay",
+        "John Grisham",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the next number in the series? 2, 6, 12, 20, 30, ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "42",
+        "44",
+        "46",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern: n × (n + 1)</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Zia Masjid Pul (Bridge/Flyover) is located in which city?",
+      "urdu": "ضیاء مسجد پل (بریج/فلائی اوور) کس شہر میں واقع ہے؟",
+      "options": [
+        "Islamabad",
+        "Rawalpindi",
+        "Lahore",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Cadet College Wana attacked?",
+      "urdu": "کیڈٹ کالج وانا پر حملہ کب ہوا؟",
+      "options": [
+        "10 October 2025",
+        "10 November 2025",
+        "20 November 2025",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In 2026, after the U.S. Supreme Court struck down Donald Trump’s emergency tariffs, which tax did he impose?",
+      "urdu": "سن 2026 میں امریکی سپریم کورٹ کی جانب سے ہنگامی ٹیرف منسوخ کرنے کے بعد ڈونلڈ ٹرمپ نے کون سا ٹیکس عائد کیا؟",
+      "options": [
+        "10% temporary property surcharge",
+        "10% temporary import surcharge",
+        "10% temporary income surcharge",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the number of permanent members of UN Security Council are holding the right to exercise veto power?",
+      "urdu": "اقوام متحدہ کی سلامتی کونسل کے مستقل ممبروں کی تعداد کتنی ہے کہ وہ ویٹو پاور استعمال کرنے کا حق رکھتے ہیں؟",
+      "options": [
+        "10",
+        "5",
+        "2",
+        "20"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the battle of Motah was fought?",
+      "urdu": "موتہ کی جنگ کب لڑی گئی؟",
+      "options": [
+        "8 AH (629 AD)",
+        "9 AH (630 AD)",
+        "10 AH (631 AD)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A land tax imposed on the non-Muslims cultivators and landlords is known as ______?",
+      "urdu": "غیر مسلم کاشتکاروں اور زمینداروں پر عائد زمینی ٹیکس کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Jizya",
+        "Kharaj",
+        "Khums",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Verdana\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "During which era did the industrial and agricultural revolution take place in Pakistan?",
+      "urdu": "پاکستان میں صنعتی اور زرعی انقلاب کس دور میں آیا؟",
+      "options": [
+        "Zulfikar Ali Bhutto",
+        "Pervez Musharraf",
+        "Benazir Bhutto",
+        "Ayub Khan"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which food was provided by Hazrat Umm-e-Ma'bad (RA) to the Holy Prophet (ﷺ) during the migration (Hijrah) to Madinah?",
+      "urdu": "ہجرتِ مدینہ کے دوران حضرت اُمِّ معبدؓ نے رسول اللہ ﷺ کو کیا پیش کیا؟",
+      "options": [
+        "Goat's Milk",
+        "Dates",
+        "Honey",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country announced gun buyback scheme following the Bondi Beach attack in 2025?",
+      "urdu": "سن 2025 کے بونڈی بیچ حملے کے بعد کس ملک نے گن بائی بیک اسکیم کا اعلان کیا؟",
+      "options": [
+        "New Zealand",
+        "United Kingdom",
+        "Australia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first polio case in Gilgit-Baltistan (GB) was detected in?",
+      "urdu": "گلگت بلتستان میں پولیو کا پہلا کیس کس ضلع میں رپورٹ ہوا؟",
+      "options": [
+        "Diamer district",
+        "Skardu district",
+        "Hunza district",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A man walks 10 km north, then 6 km south, and finally 3 km east. How far is he from his starting point?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5 km",
+        "3 km",
+        "4 km",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Net north = 10 − 6 = 4 km</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did Israel conduct its first-ever airstrike in Doha, Qatar, targeting Hamas leaders?",
+      "urdu": "اسرائیل نے دوحہ، قطر میں حماس رہنماؤں کو نشانہ بناتے ہوئے اپنی پہلی فضائی کارروائی کب کی؟",
+      "options": [
+        "9 August 2025",
+        "9 September 2025",
+        "9 October 2025",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the practice called in which men walk briskly during the first three rounds of Tawaf around the Kaaba?",
+      "urdu": "طوافِ کعبہ کے پہلے تین چکروں میں مردوں کے تیز چلنے کی سنت کو کیا کہتے ہیں؟",
+      "options": [
+        "Sa'i",
+        "Idtiba'",
+        "Ramal",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Ghazwat occurred in the 4th year of Hijrah?",
+      "urdu": "چار ہجری میں کتنے غزوات ہوئے؟",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A man is 5 years older than his brother. After 4 years, the sum of their ages will be 45. What is the man's present age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20 years",
+        "21 years",
+        "22 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Let brother's present age = x years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is increased by 20% to become 180. What is the original number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "120",
+        "140",
+        "150",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">After a 20% increase, the new value = 120% of the original.</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The Doctrine of Lapse was introduced by _____?",
       "urdu": "نظریۂ ضبطِ ریاست کس نے متعارف کروایا؟",
@@ -343,318 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is considered one of the most strategically important straits in the world?",
-      "urdu": "دنیا کی سب سے زیادہ تزویراتی اہمیت رکھنے والی آبی گزرگاہوں میں سے ایک کون سی ہے؟",
-      "options": [
-        "Strait of Hormuz",
-        "Strait of Malacca",
-        "Bosporus Strait",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If WHITE is coded as YJKVG, how will BLACK be coded?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "DNCEM",
-        "CMBDL",
-        "CMCEL",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The code is formed by replacing each letter with the letter 2 positions ahead in the English alphabet:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The green box is above the blue box. The white box is below the green box. The red box is between the green box and the white box. Which box is at the bottom?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "White box",
-        "Blue box",
-        "Red box",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Green is above Blue.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person travels 40 km north, then turns left and travels 40 km. He then turns right and travels another 30 km. How far is he from his starting point?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "50.6 km",
-        "80.6 km",
-        "70.6 km",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Step 1: Go 40 km North</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During Hajj, pilgrims shave their heads as a symbol of humility and submission. What is this act called?",
-      "urdu": "حج کے دوران عاجزی اور اللہ کے سامنے مکمل فرمانبرداری کے اظہار کے طور پر سر منڈوانے کے عمل کو کیا کہتے ہیں؟",
-      "options": [
-        "Sa'i",
-        "Tawaf",
-        "Halq",
-        "Ihram"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Five friends are sitting in a circle. How many different circular arrangements are possible?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24",
-        "60",
-        "120",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">For circular arrangement we use formula = (n - 1)!</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the next number in the series? 5, 16, 49, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "148",
-        "100",
-        "150",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Series: 5, 16, 49, ?</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A company uses 5 GB of data on Day 1, 10 GB on Day 2, 15 GB on Day 3, and 20 GB on Day 4. If the pattern continues, how much data will it use in 15 days?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "600 GB",
-        "550 GB",
-        "625 GB",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Day 1 = 5 GB</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the next number in the series? 7, 17, 37, 77, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "117",
-        "157",
-        "147",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern: Multiply by 2 and add 3.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where will the 2026 G20 Summit be held?",
-      "urdu": "سن 2026 کا جی-20 سربراہی اجلاس کہاں منعقد ہوگا؟",
-      "options": [
-        "New York, USA",
-        "Washington, D.C., USA",
-        "Miami, USA",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">:<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the chemical formula of acetic acid?",
-      "urdu": "ایسٹک ایسڈ کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "HCl",
-        "H₂SO₄",
-        "CH₃COOH",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A village has a population of 20,000. If the population increases by 10% every year, what will be the population after 2 years?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24,200",
-        "22,000",
-        "23,000",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Population after 1 year = 20,000 × 1.10 = 22,000</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the sequence 8, 12, 16, 21, which number is considered incorrect?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "8",
-        "12",
-        "16",
-        "21"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern increases by 4 each time:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the default file extension for Microsoft Excel 2007–2026?",
-      "urdu": "مائیکروسافٹ ایکسل 2007–2026 کے لیے ڈیفالٹ فائل ایکسٹینشن کیا ہے؟",
-      "options": [
-        ".xls",
-        ".xlsx",
-        ".pptx",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current CEO of Pakistan International Airlines (PIA)?",
-      "urdu": "پاکستان انٹرنیشنل ایئر لائنز (پی آئی اے) کا موجودہ سی ای او کون ہے؟",
-      "options": [
-        "Khurram Mushtaq",
-        "Tewolde Gebremariam",
-        "Sikandar Raja Sultan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Tewolde\r\nGebremariam</font><font color=\"#0000ff\"> is the current chief executive officer (</font>CEO<font color=\"#0000ff\">) of Pakistan\r\nInternational Airlines (</font><font color=\"#ff0000\">PIA</font><font color=\"#0000ff\">) since July 2026. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many districts are there in Sindh?",
-      "urdu": "سندھ میں کتنے اضلاع ہیں؟",
-      "options": [
-        "24",
-        "26",
-        "28",
-        "30"
-      ],
-      "correct": 3,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span mso-bidi-theme-font:minor-latin;color:#0070c0\"=\"\" new=\"\" roman\";mso-bidi-font-family:calibri;=\"\" times=\"\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many non-permanent members are there in the UN Security Council?",
-      "urdu": "اقوام متحدہ کی سلامتی کونسل میں کتنے غیر مستقل ارکان ہیں؟",
-      "options": [
-        "5",
-        "15",
-        "10",
-        "4"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Islamabad was officially made the capital of Pakistan in _____?",
-      "urdu": "اسلام آباد کو سرکاری طور پر _____ میں پاکستان کا دارالحکومت بنایا گیا تھا؟",
-      "options": [
-        "July 14, 1967",
-        "August 14, 1967",
-        "June 14, 1967",
-        "September 14, 1967"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest dam in the world by electricity generation capacity?",
-      "urdu": "بجلی پیدا کرنے کی صلاحیت کے لحاظ سے دنیا کا سب سے بڑا ڈیم کون سا ہے؟",
-      "options": [
-        "Itaipu Dam",
-        "Tarbela Dam",
-        "Three Gorges Dam",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest earth filled dam of the world is _____?",
-      "urdu": "دنیا کا سب سے بڑا زمین سے بھرا ڈیم کونسا ہے؟",
-      "options": [
-        "Mangla  dam",
-        "Basha dam",
-        "Tarbela dam",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The capital of Egypt is _______?",
-      "urdu": "مصر کا دارالحکومت کونسا ,ہے؟",
-      "options": [
-        "Sana",
-        "Beirut",
-        "Damascus",
-        "Cairo"
-      ],
-      "correct": 3,
-      "explanation": "<p> </p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the official language of Japan?",
-      "urdu": "جاپان کی سرکاری زبان کیا ہے؟",
-      "options": [
-        "Korean",
-        "English",
-        "Japanese",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0070c0\" style=\"font-family: Helvetica; font-size: 16px; font-weight: 700;\">The </font><font color=\"#0000ff\" style=\"font-family: Helvetica; font-size: 16px; font-weight: 700;\">official language of </font><font color=\"#ff0000\" style=\"font-family: Helvetica; font-size: 16px; font-weight: 700;\">Japan</font><font color=\"#0070c0\" style=\"font-family: Helvetica; font-size: 16px; font-weight: 700;\"> is </font><font color=\"#ff00ff\" style=\"font-family: Helvetica; font-size: 16px; font-weight: 700;\">Japanese</font><font color=\"#0070c0\" style=\"font-family: Helvetica; font-size: 16px; font-weight: 700;\">.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is famous for shipbuilding?",
-      "urdu": "جہاز سازی کے لیے کون سا ملک مشہور ہے؟",
-      "options": [
-        "Japan",
-        "South Korea",
-        "China",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A is the mother of B. C is the father of D. B is married to C. What is the relationship between A and D?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Mother",
-        "Aunt",
-        "Grandmother",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">A is the mother of B.</font></b></p>",
       "category": "all"
     }
   ]
