@@ -3,30 +3,17 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-13T10:18:57.585497",
+    "fetched_at": "2026-07-13T15:44:09.549006",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "A father is 24 years older than his son. After 2 years, the father's age will be twice the son's age. What are their present ages?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the combined population of Brazil, Mexico, the United Kingdom (UK), and the United States (USA)?",
+      "urdu": "برازیل، میکسیکو، برطانیہ اور امریکہ کی مجموعی آبادی کتنی ہے؟",
       "options": [
-        "Father = 44 years, Son = 20 years",
-        "Father = 46 years, Son = 22 years",
-        "Father = 42 years, Son = 24 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let son's present age = x years</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which strait separates Asia and Europe?",
-      "urdu": "ایشیا اور یورپ کو کون سی آبنائے الگ کرتی ہے؟",
-      "options": [
-        "Bosphorus Strait",
-        "Strait of Malacca",
-        "Sunda Strait",
+        "765.6 million",
+        "485 million",
+        "525 million",
         "None of these"
       ],
       "correct": 0,
@@ -34,12 +21,25 @@
       "category": "all"
     },
     {
-      "q": "If a School Code follows a specific pattern, how can you find the College Code?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which country among Brazil, Mexico, and the UK does not compete in the FIFA World Cup as a single unified nation?",
+      "urdu": "برازیل، میکسیکو اور برطانیہ میں سے کون سا ملک فیفا ورلڈ کپ میں ایک متحدہ قومی ٹیم کے طور پر حصہ نہیں لیتا؟",
       "options": [
-        "Reverse the letters",
-        "Change the pattern completely",
-        "Apply the same alphabetical or numerical pattern to the new word",
+        "United Kingdom (UK)",
+        "Brazil",
+        "Mexico",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "LLM (Large Language Model) belongs to which field?",
+      "urdu": "ایل ایل ایم کس شعبے سے تعلق رکھتا ہے؟)",
+      "options": [
+        "Cyber Security",
+        "Database Management",
+        "Artificial Intelligence (AI)",
         "None of these"
       ],
       "correct": 2,
@@ -47,454 +47,337 @@
       "category": "all"
     },
     {
-      "q": "If China produces low-cost goods and America produces high-cost goods, which country's economy is likely to grow faster?",
-      "urdu": "اگر چین کم لاگت پر اشیاء تیار کرے اور امریکہ زیادہ لاگت پر، تو کس ملک کی معیشت کے تیزی سے ترقی کرنے کا امکان زیادہ ہے؟",
+      "q": "LLM stands for?",
+      "urdu": "ایل ایل ایم کا مکمل نام کیا ہے؟",
       "options": [
-        "America",
-        "China",
-        "Both equally",
-        "None of these"
+        "Learning Language Module",
+        "Legal Law Management",
+        "Large Language Model",
+        "License of Law Management"
       ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which strait separates Sumatra and Malaysia?",
-      "urdu": "سماترا اور ملائیشیا کے درمیان کون سی آبنائے واقع ہے؟",
-      "options": [
-        "Sunda Strait",
-        "Strait of Malacca",
-        "Lombok Strait",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which strait is located near Sumatra?",
-      "urdu": "سماترا کے قریب کون سی آبنائے واقع ہے؟",
-      "options": [
-        "Sunda Strait",
-        "Strait of Malacca",
-        "Lombok Strait",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who has won Booker Prize 2025?",
-      "urdu": "بکر پرائز 2025 کس نے جیتا؟",
-      "options": [
-        "Ian McEwan",
-        "David Szalay",
-        "John Grisham",
-        "None of these"
-      ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the next number in the series? 2, 6, 12, 20, 30, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who accepted Islam first in Women?",
+      "urdu": "عورتوں میں سب سے پہلے اسلام کس نے قبول کیا؟",
       "options": [
-        "42",
-        "44",
-        "46",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern: n × (n + 1)</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zia Masjid Pul (Bridge/Flyover) is located in which city?",
-      "urdu": "ضیاء مسجد پل (بریج/فلائی اوور) کس شہر میں واقع ہے؟",
-      "options": [
-        "Islamabad",
-        "Rawalpindi",
-        "Lahore",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was Cadet College Wana attacked?",
-      "urdu": "کیڈٹ کالج وانا پر حملہ کب ہوا؟",
-      "options": [
-        "10 October 2025",
-        "10 November 2025",
-        "20 November 2025",
+        "Hazrat Amina (RA)",
+        "Hazrat Khadija (RA)",
+        "Hazrat Hafsa (RA)",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"></p>",
       "category": "all"
     },
     {
-      "q": "In 2026, after the U.S. Supreme Court struck down Donald Trump’s emergency tariffs, which tax did he impose?",
-      "urdu": "سن 2026 میں امریکی سپریم کورٹ کی جانب سے ہنگامی ٹیرف منسوخ کرنے کے بعد ڈونلڈ ٹرمپ نے کون سا ٹیکس عائد کیا؟",
+      "q": "Pakistan won the ICC Champions Trophy in which year?",
+      "urdu": "پاکستان نے آئی سی سی چیمپئنز ٹرافی کس سال جیتی؟",
       "options": [
-        "10% temporary property surcharge",
-        "10% temporary import surcharge",
-        "10% temporary income surcharge",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the number of permanent members of UN Security Council are holding the right to exercise veto power?",
-      "urdu": "اقوام متحدہ کی سلامتی کونسل کے مستقل ممبروں کی تعداد کتنی ہے کہ وہ ویٹو پاور استعمال کرنے کا حق رکھتے ہیں؟",
-      "options": [
-        "10",
-        "5",
-        "2",
-        "20"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When the battle of Motah was fought?",
-      "urdu": "موتہ کی جنگ کب لڑی گئی؟",
-      "options": [
-        "8 AH (629 AD)",
-        "9 AH (630 AD)",
-        "10 AH (631 AD)",
+        "2017",
+        "2009",
+        "2011",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-04-2026</font></span></p>",
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "A land tax imposed on the non-Muslims cultivators and landlords is known as ______?",
-      "urdu": "غیر مسلم کاشتکاروں اور زمینداروں پر عائد زمینی ٹیکس کو کیا کہا جاتا ہے؟",
+      "q": "Which country is called Land of Kangaroo?",
+      "urdu": "کس ملک کو \"کینگروؤں کی سرزمین\" کہا جاتا ہے؟",
       "options": [
-        "Jizya",
-        "Kharaj",
-        "Khums",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Verdana\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "During which era did the industrial and agricultural revolution take place in Pakistan?",
-      "urdu": "پاکستان میں صنعتی اور زرعی انقلاب کس دور میں آیا؟",
-      "options": [
-        "Zulfikar Ali Bhutto",
-        "Pervez Musharraf",
-        "Benazir Bhutto",
-        "Ayub Khan"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which food was provided by Hazrat Umm-e-Ma'bad (RA) to the Holy Prophet (ﷺ) during the migration (Hijrah) to Madinah?",
-      "urdu": "ہجرتِ مدینہ کے دوران حضرت اُمِّ معبدؓ نے رسول اللہ ﷺ کو کیا پیش کیا؟",
-      "options": [
-        "Goat's Milk",
-        "Dates",
-        "Honey",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country announced gun buyback scheme following the Bondi Beach attack in 2025?",
-      "urdu": "سن 2025 کے بونڈی بیچ حملے کے بعد کس ملک نے گن بائی بیک اسکیم کا اعلان کیا؟",
-      "options": [
+        "England",
         "New Zealand",
-        "United Kingdom",
         "Australia",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The first polio case in Gilgit-Baltistan (GB) was detected in?",
-      "urdu": "گلگت بلتستان میں پولیو کا پہلا کیس کس ضلع میں رپورٹ ہوا؟",
+      "q": "Which is the currency of Thailand?",
+      "urdu": "تھائی لینڈ کی کرنسی کون سی ہے؟",
       "options": [
-        "Diamer district",
-        "Skardu district",
-        "Hunza district",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A man walks 10 km north, then 6 km south, and finally 3 km east. How far is he from his starting point?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5 km",
-        "3 km",
-        "4 km",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Net north = 10 − 6 = 4 km</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did Israel conduct its first-ever airstrike in Doha, Qatar, targeting Hamas leaders?",
-      "urdu": "اسرائیل نے دوحہ، قطر میں حماس رہنماؤں کو نشانہ بناتے ہوئے اپنی پہلی فضائی کارروائی کب کی؟",
-      "options": [
-        "9 August 2025",
-        "9 September 2025",
-        "9 October 2025",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the practice called in which men walk briskly during the first three rounds of Tawaf around the Kaaba?",
-      "urdu": "طوافِ کعبہ کے پہلے تین چکروں میں مردوں کے تیز چلنے کی سنت کو کیا کہتے ہیں؟",
-      "options": [
-        "Sa'i",
-        "Idtiba'",
-        "Ramal",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Ghazwat occurred in the 4th year of Hijrah?",
-      "urdu": "چار ہجری میں کتنے غزوات ہوئے؟",
-      "options": [
-        "2",
-        "1",
-        "3",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A man is 5 years older than his brother. After 4 years, the sum of their ages will be 45. What is the man's present age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "20 years",
-        "21 years",
-        "22 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let brother's present age = x years</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number is increased by 20% to become 180. What is the original number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "120",
-        "140",
-        "150",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">After a 20% increase, the new value = 120% of the original.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Doctrine of Lapse was introduced by _____?",
-      "urdu": "نظریۂ ضبطِ ریاست کس نے متعارف کروایا؟",
-      "options": [
-        "Hastings",
-        "Lord Dalhousie",
-        "Canning",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which key is used to rename a file or folder?",
-      "urdu": "فائل یا فولڈر کا نام تبدیل کرنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
-      "options": [
-        "F1",
-        "F2",
-        "F3",
-        "F4"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which program runs first after a computer boots and before the graphical user interface (GUI) loads?",
-      "urdu": "کمپیوٹر کے بوٹ ہونے کے بعد اور جی یو آئی لوڈ ہونے سے پہلے کون سا پروگرام سب سے پہلے چلتا ہے؟",
-      "options": [
-        "Authentication (Login Program)",
-        "File Manager",
-        "Web Browser",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the name of Hazrat Ibrahim's (AS) father?",
-      "urdu": "حضرت ابراہیمؑ کے والد کا نام کیا تھا؟",
-      "options": [
-        "Āzar",
-        "Harun",
-        "Imran",
-        "Qasim"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which member of the British Royal Family has been most prominently linked to Jeffrey Epstein in the released Epstein files and related investigations?",
-      "urdu": "برطانوی شاہی خاندان کے کس رکن کا نام جاری شدہ ایپسٹین فائلز اور متعلقہ تحقیقات میں سب سے زیادہ نمایاں طور پر سامنے آیا؟",
-      "options": [
-        "Prince Andrew (Duke of York)",
-        "King Charles III",
-        "Prince William",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current de facto ruler of Sudan?",
-      "urdu": "سوڈان کا موجودہ عملی (ڈی فیکٹو) حکمران کون ہے؟",
-      "options": [
-        "Mohamed Hamdan Dagalo",
-        "Abdel Fattah AL-Burhan",
-        "Omar Al-Bashir",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the last Peshwa of the Maratha Empire?",
-      "urdu": "مرہٹہ سلطنت کا آخری پیشوا کون تھا؟",
-      "options": [
-        "Baji Rao II",
-        "Baji Rao I",
-        "Balaji Baji Rao",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "RAM stands for ____?",
-      "urdu": "ریم سے کیا مراد ہے؟",
-      "options": [
-        "Random Access Memory",
-        "Random Access Money",
-        "Random Accurate Memory",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"arial, sans-serif\"><b style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\"></span></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the approximate distance between Makkah and Taif?",
-      "urdu": "مکہ اور طائف کے درمیان تقریباً کتنا فاصلہ ہے؟",
-      "options": [
-        "85–95 kilometers",
-        "45–55 kilometers",
-        "65–75 kilometers",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which number of verses of surah Baqarah is the longest?",
-      "urdu": "سورۃ البقرہ کی کون سی آیت سب سے لمبی ہے؟",
-      "options": [
-        "282",
-        "298",
-        "286",
-        "290"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the next number in the series? 2, 10, 30, 68, 130, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "160",
-        "222",
-        "200",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel formula and function start with ____?",
-      "urdu": "ایم ایس ایکسل میں فارمولا اور فنکشن کس علامت سے شروع ہوتے ہیں؟",
-      "options": [
-        "+",
-        "-",
-        "=",
-        "["
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is the capital of Brazil?",
-      "urdu": "مندرجہ ذیل میں سے کون سا برازیل کا دارالحکومت ہے؟",
-      "options": [
-        "Harare",
-        "Ottowa",
-        "Tokyo",
-        "Brasilia"
+        "Yen",
+        "Pound",
+        "Dollar",
+        "Thai Baht"
       ],
       "correct": 3,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\">Brazil</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%;color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:red'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Brasilia</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
       "category": "all"
     },
     {
-      "q": "A compound containing a triple bond belongs to which class of hydrocarbons?",
-      "urdu": "تینہرا بند رکھنے والا مرکب ہائیڈروکاربن کی کس قسم سے تعلق رکھتا ہے؟",
+      "q": "Which team won the Cricket World Cup 2011?",
+      "urdu": "سن 2011 کا کرکٹ ورلڈ کپ کس ٹیم نے جیتا؟",
       "options": [
-        "Alkanes",
-        "Alkenes",
-        "Alkynes",
+        "Australia",
+        "India",
+        "Sri Lanka",
+        "Pakistan"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a volatile memory? RAM, ROM, Cache, Both A and C",
+      "urdu": "مندرجہ ذیل میں سے کون سی غیر مستحکم میموری ہے؟",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Raw data processed by a computer becomes?",
+      "urdu": "کمپیوٹر کے ذریعے پراسیس ہونے کے بعد خام ڈیٹا کیا بن جاتا ہے؟",
+      "options": [
+        "Information",
+        "Output",
+        "Memory",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mesopotamia was the old name of?",
+      "urdu": "میسوپوٹیمیا کس کا پرانا نام ہے؟",
+      "options": [
+        "Turkey",
+        "Azerbaijan",
+        "Iraq",
+        "Afganistan"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the phrasal meaning of “Call it a day”?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To stop because one does not want to do any more / End work",
+        "To stop doing something that is annoying",
+        "To get rid of something that is harmful",
+        "To stop and finish the whole matter"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Printing Press invented by ___?",
+      "urdu": "پرنٹنگ پریس کس نے ایجاد کیا؟",
+      "options": [
+        "John Harrison",
+        "Johan Gutenberg",
+        "Chines",
+        "Lizlo Biro"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first Foreign Minister of Pakistan?",
+      "urdu": "پاکستان کے پہلے وزیرِ خارجہ کون تھے؟",
+      "options": [
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam",
+        "Muhammad Ali",
+        "Zafarullah Khan"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "To insert a hyperlink which shortkey is used?",
+      "urdu": "ہائپر لنک داخل کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+M",
+        "Ctrl+K",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Eloquence is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Silence",
+        "Fluency",
+        "Hesitation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "After the creation of Pakistan, which was the first newspaper?",
+      "urdu": "آزادی کے بعد پاکستان کا پہلا اخبار کونسا تھا؟",
+      "options": [
+        "Imroze",
+        "Mashriq",
+        "Watan",
+        "Dawn"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many districts are there in Punjab?",
+      "urdu": "پنجاب میں کتنے اضلاع ہیں؟",
+      "options": [
+        "40",
+        "45",
+        "42",
+        "41"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who helped the Quaid-e-Azam in preparation of fourteen (14) points?",
+      "urdu": "قائدِ اعظم محمد علی جناح کی چودہ نکات کی تیاری میں کس نے مدد کی؟",
+      "options": [
+        "Maulana Muhammad Ali Johar",
+        "Sir Syed Ahmed Khan",
+        "Allama Iqbal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the name of the nation of Hazrat Hud (A.S.)?",
+      "urdu": "حضرت ہودؑ کی قوم کا کیا نام تھا؟",
+      "options": [
+        "Thamud",
+        "'Ad (Aad)",
+        "Madyan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many verses in Surah Al-Baqrah?",
+      "urdu": "سورہ بقرہ میں کتنی آیات ہیں؟",
+      "options": [
+        "176 Ayat",
+        "200 Ayat",
+        "286 Ayat",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 13-07-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first female martyr (Shaheed) of Islam?",
+      "urdu": "اسلام کی پہلی خاتون شہید کون تھی؟",
+      "options": [
+        "Hazrat Nafeesa (RA)",
+        "Hazrat Sumaiyyah (RA)",
+        "Hazrat Umm-e-Aimen (RA)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which was the first mosque built in the history of Islam by the Holy Prophet (PBUH)?",
+      "urdu": "اسلام کی تاریخ میں حضور نبی کریم ﷺ نے سب سے پہلی کون سی مسجد تعمیر فرمائی؟",
+      "options": [
+        "Masjid-ul-Haram",
+        "Masjid-e-Quba",
+        "Masjid-e-Aqsa",
+        "Masjid-e-Nabavi"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional and Most Important information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Injeel was revealed on which Prophet by Allah?",
+      "urdu": "انجیل اللہ کی طرف سے کس نبی پر نازل ہوئی؟",
+      "options": [
+        "Hazrat Moosa",
+        "Hazrat Ibrahim",
+        "Hazrat Isa",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was Holy Prophet Muhammad (PBUH) born?",
+      "urdu": "حضور اکرم صلی اللہ علیہ وسلم کہاں پیدا ہوئے؟",
+      "options": [
+        "Ridyah",
+        "Jerusalem",
+        "Mecca",
+        "Madina"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 13-03-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Indus Water Treaty signed?",
+      "urdu": "سندھ طاس معاہدے پر کب دستخط ہوئے؟",
+      "options": [
+        "September 19, 1950",
+        "September 19, 1960",
+        "September 19, 1965",
+        "September 19, 1973"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"248\" data-start=\"0\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bicameral Legislature system was introduced for the first time in Pakistan in which Constitution?",
+      "urdu": "پاکستان میں دو ایوانی مقننہ کا نظام پہلی بار کس آئین میں متعارف کرایا گیا؟",
+      "options": [
+        "Constitution of 1973",
+        "Constitution of 1956",
+        "Constitution of 1962",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the host of the 2002 FIFA World Cup?",
+      "urdu": "سن 2002 کا فیفا ورلڈ کپ کس نے میزبانی کی؟",
+      "options": [
+        "Japan only",
+        "South Korea only",
+        "Japan and South Korea",
         "None of these"
       ],
       "correct": 2,
@@ -502,116 +385,51 @@
       "category": "all"
     },
     {
-      "q": "What is the Arabic term for the sacrifice performed by pilgrims during Hajj?",
-      "urdu": "حج کے دوران حجاج کی طرف سے کی جانے والی قربانی کو عربی میں کیا کہتے ہیں؟",
+      "q": "For how long did the Prophet Muhammad and his companion remain in the siege in Shi’ab-e-Abi-Talib?",
+      "urdu": "نبی کریم ﷺ اور آپ کے ساتھی شعبِ ابی طالب کے محاصرے میں کتنے عرصے تک رہے؟",
       "options": [
-        "Hady (Hadi)",
-        "Zakat",
-        "Sadaqah",
+        "1 year",
+        "2 years",
+        "3 years",
+        "4 years"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "United States of America (USA) celebrated its which  independence day in 2026?",
+      "urdu": "ریاستہائے متحدہ امریکہ (یو ایس اے) نے 2026 میں اپنا کون سا یومِ آزادی منایا؟",
+      "options": [
+        "250th",
+        "260th",
+        "270th",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">United States of America (<span style=\"background-color: rgb(255, 255, 0);\">USA</span>) celebrates its independence day annually on </font><font color=\"#ff0000\">4 July.  </font></span></p>",
       "category": "all"
     },
     {
-      "q": "What will happen if the ozone layer disappears?",
-      "urdu": "اگر اوزون کی تہہ ختم ہو جائے تو کیا ہوگا؟",
+      "q": "Which of the following celebrates independence day 4 July?",
+      "urdu": "مندرجہ ذیل میں سے کون 4 جولائی کو یوم آزادی مناتا ہے؟",
       "options": [
-        "UV Rays reach the earth",
-        "UV Rays do not reach the earth",
-        "X Rays breach the earth’s surface",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "First meeting of UN General Assembly meeting was held on?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی کا پہلا اجلاس کب منعقد ہوا؟",
-      "options": [
-        "10 January, 1945",
-        "10 January, 1946",
-        "15 January, 1945",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year did Muhammad Bashir receive the Tamgha-e-Imtiaz?",
-      "urdu": "محمد بشیر نے تمغۂ امتیاز کس سال حاصل کیا؟",
-      "options": [
-        "1962",
-        "1958",
-        "1968",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which layer of the atmosphere contains about 75% of the atmosphere's mass?",
-      "urdu": "فضا کی کون سی تہہ ماحول کی تقریباً 75 فیصد کمیت پر مشتمل ہے؟",
-      "options": [
-        "Stratosphere",
-        "Mesosphere",
-        "Troposphere",
+        "France",
+        "Britian",
+        "USA",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">United States of America (<span style=\"background-color: rgb(255, 255, 0);\">USA</span>) celebrates its independence day annually on </font><font color=\"#ff0000\">4 July.  </font></b></p>",
       "category": "all"
     },
     {
-      "q": "The numbers are 1, 5, 7, 9, and 11. If the number 13 is added to the series, what will be the median?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which multi-angle imaging test provides cross-sectional views of both bones and soft tissues, often used in complex trauma or internal injury scenarios?",
+      "urdu": "کون سا امیجنگ ٹیسٹ ہڈیوں اور نرم بافتوں کی کراس سیکشنل تصاویر فراہم کرتا ہے، جو پیچیدہ چوٹوں یا اندرونی زخموں میں استعمال ہوتا ہے؟",
       "options": [
-        "6",
-        "7",
-        "8",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Given numbers = 1, 5, 7, 9, 11</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "On which date Finland became 31st NATO member?",
-      "urdu": "فن لینڈ نیٹو کا 31واں رکن کس تاریخ کو بنا؟",
-      "options": [
-        "2 April 2023",
-        "4 April 2023",
-        "8 April 2023",
-        "6 April 2023"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Muslims/Sahaba (RA) Martyred in Battle of Badr?",
-      "urdu": "جنگ بدر میں کتنے مسلمان/ صحابہ کرام رضی اللہ عنہم شہید ہوئے؟",
-      "options": [
-        "7",
-        "10",
-        "14",
-        "22"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why did India introduce e-Visa reforms for foreign visitors?",
-      "urdu": "بھارت نے غیر ملکی سیاحوں کے لیے ای ویزا اصلاحات کیوں متعارف کروائیں؟",
-      "options": [
-        "To promote tourism and simplify travel",
-        "To increase import taxes",
-        "To reduce international flights",
+        "CT Scan",
+        "X-ray",
+        "MRI",
         "None of these"
       ],
       "correct": 0,
@@ -619,42 +437,224 @@
       "category": "all"
     },
     {
-      "q": "The balls are arranged repeatedly in the sequence: Yellow, Green, Blue, White. Which colour will be at the 38th position?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the ranking of Pakistan in Global Gender Gap Report 2025?",
+      "urdu": "گلوبل جینڈر گیپ رپورٹ 2025 میں پاکستان کی رینکنگ کیا ہے؟",
       "options": [
-        "Green",
-        "Yellow",
-        "Blue",
-        "None of these"
+        "148 out of 148",
+        "146 out of 148",
+        "147 out of 148",
+        "None of These"
       ],
       "correct": 0,
-      "explanation": "<p><span style=\"font-size: 0.875rem;\"><b><font color=\"#0000ff\">Sequence = Yellow, Green, Blue, White</font></b></span></p>",
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Global Gender Gap Report 2025</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "Complete the repeating sequence: Green, Yellow, Blue, White, _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "When is International Plastic Bag Free Day celebrated?",
+      "urdu": "پلاسٹک بیگ سے پاک بین الاقوامی دن کب منایا جاتا ہے؟",
       "options": [
-        "Blue",
-        "White",
-        "Green",
+        "July 6",
+        "July 1",
+        "July 3",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">The colors repeat in the same order:</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">International Plastic Bag Free Day </b><b style=\"color: rgb(0, 0, 255);\">is celebrated every year on </b><b style=\"color: rgb(255, 0, 0);\">July 3 </b><b style=\"color: rgb(0, 0, 255);\">to create awareness of the adverse effects of the use of a single plastic bag on the environment.</b></p>",
       "category": "all"
     },
     {
-      "q": "Gwadar Port is operated by?",
-      "urdu": "گوادر پورٹ کس ادارے کے زیرِ انتظام چلائی جاتی ہے؟",
+      "q": "Which diagnostic imaging test is most commonly used as the first step to quickly identify a bone fracture?",
+      "urdu": "ہڈی کے فریکچر کی فوری تشخیص کے لیے سب سے پہلے کون سا امیجنگ ٹیسٹ کیا جاتا ہے؟",
       "options": [
-        "China Overseas Port Holding Company",
-        "Gwadar Port Authority",
-        "Port of Singapore Authority",
+        "MRI",
+        "CT Scan",
+        "X-ray",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which city hosted the 2026 National Conference on Prison Reforms?",
+      "urdu": "جیل اصلاحات پر 2026 کی قومی کانفرنس کی میزبانی کس شہر نے کی؟",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The<span style=\"background-color: rgb(255, 255, 0);\"> National Conference on Prison Reforms</span> took place on </font>July 2, 2026<font color=\"#0000ff\">, in </font><font color=\"#ff0000\">Islamabad</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which among the following hosted the 2026 National Conference on Prison Reforms?",
+      "urdu": "درج ذیل میں سے کس نے جیل اصلاحات پر 2026 کی قومی کانفرنس کی میزبانی کی؟",
+      "options": [
+        "Ministry of Law",
+        "Ministry of Interior",
+        "Supreme Court of Pakistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The<span style=\"background-color: rgb(255, 255, 0);\"> National Conference on Prison Reforms</span> took place on </font>July 2, 2026<font color=\"#0000ff\">, in </font><font color=\"#ff0000\">Islamabad</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which among the following presided over the 2026 National Conference on Prison Reforms?",
+      "urdu": "درج ذیل میں سے کس نے جیل اصلاحات پر 2026 کی قومی کانفرنس کی صدارت کی؟",
+      "options": [
+        "Qazi Faez Isa",
+        "Umar Ata Bandial",
+        "Yahya Afridi",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The<span style=\"background-color: rgb(255, 255, 0);\"> National Conference on Prison Reforms</span> took place on </font>July 2, 2026<font color=\"#0000ff\">, in </font><font color=\"#ff0000\">Islamabad</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "All chief ministers of Sindh, Balochistan and KP singed which of the following in July 2026?",
+      "urdu": "سندھ، بلوچستان اور خیبر پختونخوا کے تمام وزرائے اعلیٰ نے جولائی 2026 میں درج ذیل میں سے کس چیز پر دستخط کیے؟",
+      "options": [
+        "Islamabad Declaration on Prison Reforms",
+        "Islamabad Declaration on Judicial Reforms",
+        "Islamabad Declaration on Political Reforms",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The<span style=\"background-color: rgb(255, 255, 0);\"> National\r\nConference on Prison Reforms</span> took place on </font>July 2, 2026<font color=\"#0000ff\">, in </font><font color=\"#ff0000\">Islamabad</font><font color=\"#0000ff\">. <o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the place that creates the main difference between Hajj and Umrah?",
+      "urdu": "وہ کون سی جگہ ہے جو حج اور عمرہ کے درمیان بنیادی فرق پیدا کرتی ہے؟",
+      "options": [
+        "Mina",
+        "Muzdalifah",
+        "Arafat",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Cave Hira is in the _______ mountain.",
+      "urdu": "غار حرا _____ پہاڑ میں ہے۔",
+      "options": [
+        "As-Safa",
+        "Uhud",
+        "Al-Noor",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the ranking of Pakistan in Women Peace and Security Index 2025/26?",
+      "urdu": "ویمن پیس اینڈ سیکیورٹی انڈیکس 2025 اور 2026 میں پاکستان کی درجہ بندی کیا ہے؟",
+      "options": [
+        "166 out of 181",
+        "162 out of 181",
+        "169 out of 181",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About <span style=\"background-color: rgb(255, 255, 0);\">Women Peace and Security Index 2025/26</span><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the code for SCHOOL is TDIPPM, then what will be the code for BOOK using the same pattern?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "CPNL",
+        "CPNK",
+        "DQOM",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given: SCHOOL = TDIPPM</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was the world's largest naval exercise named 'RIMPAC 2026' started?",
+      "urdu": "دنیا کی سب سے بڑی بحری مشق ریمپیک کہاں شروع ہوئی؟",
+      "options": [
+        "China",
+        "Russia",
+        "USA",
+        "All of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">World's largest naval exercise named '</font><font color=\"#ff0000\">RIMPAC 2026</font><font color=\"#0000ff\">' started in the United States of America (</font><font color=\"#ff0000\">USA</font><font color=\"#0000ff\">)</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A batsman scores 100 runs in his 10th inning, which increases his average score for the previous 9 innings by 8 runs. What was his average score after the 9th inning?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20",
+        "22",
+        "24",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>Let average of 9 innings = x</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "World’s oldest living Olympic gold medalist named  Charles Coste belonged to which country who has passed away at the age of 101?",
+      "urdu": "دنیا کے معمر ترین زندہ اولمپک گولڈ میڈلسٹ چارلس کوسٹ کا تعلق کس ملک سے تھا جو 101 سال کی عمر میں انتقال کر گئے؟",
+      "options": [
+        "France",
+        "Brazil",
+        "Argentina",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The world’s oldest former Olympic champion, ex-track cyclist <span style=\"background-color: rgb(255, 255, 0);\">Charles Coste has died</span><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ratio of three numbers is 3 : 2 : 1 and their sum is 54. What is the largest number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "27",
+        "29",
+        "31",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total ratio = 3 + 2 + 1 = 6</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the Second Session of the United Nations (UN) General Assembly opened?",
+      "urdu": "اقوامِ متحدہ کی جنرل اسمبلی کا دوسرا اجلاس کب شروع ہوا؟",
+      "options": [
+        "10 January 1946",
+        "16 September 1947",
+        "24 October 1946",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The area of ex-Federally Administratered Tribal Areas (FATA) is _______ square kilo meters.",
+      "urdu": "سابق وفاق کے زیرِ انتظام قبائلی علاقوں (فاٹا) کا رقبہ کتنے مربع کلومیٹر تھا؟",
+      "options": [
+        "18925 km",
+        "22123 km",
+        "24532 km",
+        "27220 km"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
       "category": "all"
     }
   ]
