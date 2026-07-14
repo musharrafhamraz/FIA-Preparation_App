@@ -3,10 +3,608 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-14T09:01:37.062575",
+    "fetched_at": "2026-07-14T14:45:12.174684",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Holy Prophet PBUH was born in?",
+      "urdu": "نبی کریم صلی اللہ علیہ وسلم کی ولادت باسعادت کب ہوئی؟",
+      "options": [
+        "571 AD",
+        "577 AD",
+        "632 AD",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the responsible for protection of the Holy Quran?",
+      "urdu": "قرآن پاک کی حفاظت کس کی ذمہ داری ہے؟",
+      "options": [
+        "Muslims",
+        "Allah",
+        "Angels",
+        "The holy prophet (PBUH)"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">As stated in </font><font color=\"#ff0000\">Surah Al-Hijr</font><font color=\"#0000ff\"> (15:9):</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Diligent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hardworking",
+        "Witty",
+        "Deliberate",
+        "Lazy"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Microsoft Window is the great invention of ______?",
+      "urdu": "مائیکروسافٹ ونڈوز کس کی اہم ایجاد ہے؟",
+      "options": [
+        "Charles Ranlett Flint",
+        "Paul Allen",
+        "Bill Gates",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the smallest country/state in world by land and population?",
+      "urdu": "رقبے اور آبادی کے لحاظ سے دنیا کا سب سے چھوٹا ملک/ریاست کون سا ہے؟",
+      "options": [
+        "UK",
+        "Nepal",
+        "Vatican city",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many districts are there in Balochistan?",
+      "urdu": "بلوچستان میں کتنے اضلاع ہیں؟",
+      "options": [
+        "39",
+        "40",
+        "41",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Arial\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Prophet of Allah is dignified with the special title Khalil Ullah (Friend of God)?",
+      "urdu": "اللہ کے خاص لقب خلیل اللہ سے کون سے نبی سرفراز ہیں؟",
+      "options": [
+        "Hazrat Adam (AS)",
+        "Hazrat Nuh (AS)",
+        "Hazrat Ibrahim (AS)",
+        "Hazrat Essa (AS)"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What will happen if you press ESC key during PowerPoint slideshow?",
+      "urdu": "پاورپوائنٹ سلائیڈ شو کے دوران اسکیپ بٹن دبانے سے کیا ہوتا ہے؟)",
+      "options": [
+        "Returns to the first slide",
+        "Pauses the presentation",
+        "End of Slide Show",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Currency of Japan is?",
+      "urdu": "جاپان کی کرنسی کیا ہے؟",
+      "options": [
+        "Dollar",
+        "Lira",
+        "Yen",
+        "Dinar"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"\"><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\">The </b><b style=\"font-size: 16px; font-family: Helvetica;\"><font color=\"#9c00ff\">currency of Japan</font></b><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\"> is the </b><b style=\"font-size: 16px; font-family: Helvetica;\"><font color=\"#ff0000\">yen</font></b><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\">.</b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Capital of Australia is _____?",
+      "urdu": "آسٹریلیا کا دارالحکومت کونسا شہر ہے؟",
+      "options": [
+        "Sydeny",
+        "Canberra",
+        "Perth",
+        "Melbron"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "Tarbela Dam is located in which district?",
+      "urdu": "تربیلا ڈیم کس ضلع میں واقع ہے؟",
+      "options": [
+        "Hafizadad",
+        "Jhelum",
+        "Mirpur",
+        "Swabi"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Tarbela Dam is build on which river?",
+      "urdu": "تربیلا ڈیم کس دریا پر بنایا گیا ہے؟",
+      "options": [
+        "Indus",
+        "Ravi",
+        "Satluj",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><span style=\"font-family: Helvetica;\"><font style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></font></span></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Durand line is between which countries?",
+      "urdu": "ڈیورنڈ لائن کن ممالک کے درمیان ہے؟",
+      "options": [
+        "Pak-Afganistan",
+        "Pak-China",
+        "Pak-India",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-06-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Companion was sent by Prophet Muhammad (ﷺ) to Madinah to teach Islam and the Qur'an before Hijrah?",
+      "urdu": "ہجرت سے پہلے رسول اللہ ﷺ نے اسلام اور قرآن کی تعلیم دینے کے لیے مدینہ کس صحابی کو بھیجا؟",
+      "options": [
+        "Abu Bakr",
+        "Ali ibn Abi Talib",
+        "Mus'ab ibn Umayr",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Harb al-Fijar was fought between which two tribes?",
+      "urdu": "حربِ فِجار کن دو قبائل کے درمیان لڑی گئی تھی؟",
+      "options": [
+        "Quraysh and Qays (Hawazin)",
+        "Banu Hashim and Banu Umayyah",
+        "Aws and Khazraj",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Jannat-ul-Baqi is situated in _____?",
+      "urdu": "جنت البقیع کہاں واقع ہے؟",
+      "options": [
+        "Madina",
+        "Makkah",
+        "Taif",
+        "Jeddah"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did the Holy Prophet (SAW) performed Hajjatul-Wada (Farewell (Last) Sermon)?",
+      "urdu": "نبی پاک صلی اللہ علیہ وسلم نے حجۃ الوداع کب ادا کیا؟",
+      "options": [
+        "10 AH (632 AD)",
+        "9 AH (631 AD)",
+        "8 AH (630 AD)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Battle of Uhud was fought in which Hijri?",
+      "urdu": "جنگ احد کس ہجری میں لڑی گئی؟",
+      "options": [
+        "4 Hijri",
+        "2 Hijri",
+        "3 Hijri",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which type of Hadith are the sayings of the Prophet Muhammad (SAW) as revealed to him by the Almighty Allah?",
+      "urdu": "وہ کون سی حدیث ہے جس کے الفاظ رسول اللہ ﷺ بیان کرتے ہیں لیکن معنی اللہ تعالیٰ کی طرف سے ہوتے ہیں؟",
+      "options": [
+        "Hadith Qudsi",
+        "Hadith Quali",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Indus Water Treaty signed?",
+      "urdu": "سندھ طاس معاہدے پر کب دستخط ہوئے؟",
+      "options": [
+        "September 19, 1950",
+        "September 19, 1960",
+        "September 19, 1965",
+        "September 19, 1973"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"248\" data-start=\"0\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">It became effective on </font><span data-end=\"245\" data-start=\"228\"><font color=\"#ff0000\">April 1, 1960</font></span><font color=\"#0000ff\">.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following pass connects Peshawar with Afghanistan?",
+      "urdu": "کون سا درہ پشاور کو افغانستان سے ملاتا ہے؟",
+      "options": [
+        "Khyber Pass",
+        "Gomal Pass",
+        "Lawari Pass",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Surgical instruments are made in?",
+      "urdu": "سرجیکل آلات کہاں تیار کیے جاتے ہیں؟",
+      "options": [
+        "Sialkot",
+        "Lahore",
+        "Gujranwala",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the Qibla changed from Al-Aqsa mosque to Masjid-e-Haram?",
+      "urdu": "قبلہ کو مسجد اقصیٰ سے مسجد حرام میں کب تبدیل کیا گیا؟",
+      "options": [
+        "Shaban 1 AH",
+        "Ramadan 1 AH",
+        "Shaban 2 AH",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Surah is called Zeenat-e-Quran (Beauty of the Quran)?)",
+      "urdu": "قرآن مجید کی کون سی سورت \"زینتِ قرآن\" کہلاتی ہے؟",
+      "options": [
+        "Surah Rehman",
+        "Surah Kousar",
+        "Surah Fateha",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country won the first-ever FIFA World Cup?",
+      "urdu": "فیفا ورلڈ کپ پہلی بار کس ملک نے جیتا تھا؟",
+      "options": [
+        "Canada",
+        "Uruguay",
+        "France",
+        "Brazil"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where headquarters of the United Nations High Commissioner of Refugees (UNHCR) is located?",
+      "urdu": "اقوام متحدہ کے ہائی کمشنر آف پناہ گزینوں کا صدر دفتر (یو این ایچ سی آر) کہاں واقع ہے؟",
+      "options": [
+        "Geneva",
+        "New York",
+        "Vienna",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 19-01-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A universal donor has the blood group?",
+      "urdu": "یونیورسل ڈونر کا بلڈ گروپ کون سا ہوتا ہے؟",
+      "options": [
+        "B",
+        "O-",
+        "AB",
+        "A"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following lies in the South of Pakistan?",
+      "urdu": "مندرجہ ذیل میں سے کون سا پاکستان کے جنوب میں واقع ہے؟",
+      "options": [
+        "Indian Ocean",
+        "China",
+        "Arabian Sea",
+        "Strait of Humoz"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Addtional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many districts are there in Khyber Pakhtunkhwa (KPK)?",
+      "urdu": "خیبر پختونخوا میں کتنے اضلاع ہیں؟",
+      "options": [
+        "38",
+        "40",
+        "42",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many times the word Muhammad (PBUH) as a name has been mentioned in the Holy Quran?",
+      "urdu": "قرآن پاک میں لفظ محمد (صلی اللہ علیہ وسلم) کا نام کتنی بار آیا ہے؟",
+      "options": [
+        "Three times",
+        "Four times",
+        "Five times",
+        "Six times"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The name \"</font><font color=\"#ff0000\">Muhammad</font><font color=\"#0000ff\">\" appears </font><font color=\"#ff0000\" style=\"\">four times</font><font color=\"#0000ff\"> in the Quran.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the first Pakistani Postal Stamp issued?",
+      "urdu": "پاکستان کا پہلا ڈاک ٹکٹ کب جاری کیا گیا؟",
+      "options": [
+        "12th July, 1948",
+        "9th July, 1947",
+        "12th July, 1947",
+        "9th July, 1948"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"text-align: justify;\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Verified &amp; Updated</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who Presented Lahore Resolution (Pakistan Resolution) on 23rd March, 1940 at Minto Park?",
+      "urdu": "مارچ 1940 کو قرارداد لاہور (قرارداد پاکستان) کس نے پیش کی؟",
+      "options": [
+        "Allama Iqbal",
+        "A.K Fazlul-Haq",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Liaquat Ali Khan"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which animal is the national animal of Pakistan?",
+      "urdu": "پاکستان کا قومی جانور کون سا ہے؟",
+      "options": [
+        "Tiger",
+        "Lion",
+        "Arabian horse",
+        "Markhor"
+      ],
+      "correct": 3,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first man to set foot on the moon?",
+      "urdu": "چاند پر قدم رکھنے والا پہلا انسان کون تھا؟",
+      "options": [
+        "N. Armstrong",
+        "Persie. J",
+        "A. Gilder",
+        "J. Black"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Currency of Germany?",
+      "urdu": "جرمنی کی کرنسی کیا ہے؟",
+      "options": [
+        "Quetzal",
+        "Gourde",
+        "Euro",
+        "Shekel"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Germany</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Euro</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the animal sacrifice offered after the birth of a child called in Islam?",
+      "urdu": "اسلام میں بچے کی پیدائش کے بعد کی جانے والی جانور کی قربانی کو کیا کہتے ہیں؟",
+      "options": [
+        "Aqiqah",
+        "Qurbani",
+        "Fidya",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When does the treaty of Hudaibiya take place?",
+      "urdu": "معاہدہ حدیبیہ کب ہوا؟",
+      "options": [
+        "6th Hijri",
+        "7th Hijri",
+        "8th Hijri",
+        "9th Hijri"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Cave Hira is in the _______ mountain.",
+      "urdu": "غار حرا _____ پہاڑ میں ہے۔",
+      "options": [
+        "As-Safa",
+        "Uhud",
+        "Al-Noor",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Battle Abu Jahl was killed?",
+      "urdu": "ابو جہل کس جنگ میں مارا گیا تھا؟",
+      "options": [
+        "Trench",
+        "Uhad",
+        "Badr",
+        "Tabook"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Microsoft PowerPoint, which tab is used to display all slides during a presentation?",
+      "urdu": "مائیکروسافٹ پاورپوائنٹ میں پریزنٹیشن کے دوران تمام سلائیڈز دکھانے کے لیے کون سا ٹیب استعمال ہوتا ہے؟",
+      "options": [
+        "Slide Show",
+        "Insert",
+        "Design",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><ul></ul><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b style=\"\"><font color=\"#ff0000\">F5</font><font color=\"#0000ff\"> starts the slideshow from the </font><font color=\"#ff0000\">first slide</font><font color=\"#0000ff\">.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Shift + F5</font><font color=\"#0000ff\"> starts the slideshow from the </font><font color=\"#ff0000\">current slide</font><font color=\"#0000ff\">.</font></b></li></ul><p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary purpose of the CPEC road?",
+      "urdu": "سیپیک سڑک کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "To facilitate trade and connectivity",
+        "To promote tourism",
+        "To enhance military logistics",
+        "To provide energy resources"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has the longest coastline in the world?",
+      "urdu": "دنیا میں سب سے طویل ساحلی پٹی والا ملک کونسا ہے؟",
+      "options": [
+        "Newzeland",
+        "Canada",
+        "Indonesia",
+        "Russia"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">:</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Strait of Malacca connects which two major water bodies?",
+      "urdu": "آبنائے ملاکا کن دو بڑے آبی ذخائر کو ملاتی ہے؟",
+      "options": [
+        "Andaman Sea and South China Sea",
+        "Arabian Sea and Red Sea",
+        "Bay of Bengal and Arabian Sea",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "UN Secretary-General, Antonio Guterres took the office on?",
+      "urdu": "اقوامِ متحدہ کے سیکرٹری جنرل انتونیو گوتریس نے اپنے عہدے کا چارج کب سنبھالا؟",
+      "options": [
+        "1 January 2017",
+        "2 January 2017",
+        "3 January 2017",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Consider the sequence: A, B, C, R, S, T, V, P. If A is removed before R and C is placed after P, then what will be the positions of V and S in the new sequence?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "V = 6th, S = 4th",
+        "V = 6th, S = 5th",
+        "V = 5th, S = 3rd",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Original sequence:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A cat is called a cow, a cow is called a goat, a goat is called a camel, a camel is called an elephant, and an elephant is called a dog. If Ahmad has an elephant, then according to the given naming series, which animal does Ahmad actually have?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Goat",
+        "Camel",
+        "Dog",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The names are shifted. Each animal is called by the name of the next one.</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which layer of the OSI model is responsible for routing?",
       "urdu": "او ایس آئی ماڈل کی کون سی لیئر روٹنگ کی ذمہ دار ہوتی ہے؟",
@@ -57,604 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#0000ff\">All editors are officers, but only some officers are investigators.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If TODAY = 68, then BOOK = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "43",
-        "44",
-        "45",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Check with TODAY</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The dimensions of a cuboid are in the ratio 3:2:1 and its volume is 54. Find x?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1.73",
-        "∛9 ≈ 2.08",
-        "3.00",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">54 = 3x × 2x × 1x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 15 men can do a piece of work in 20 days. In how many days can 25 men finish the same work?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "14",
-        "12",
-        "18",
-        "13"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\"><b>15 men × 20 days = 300 man-days (total work)</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A box contains 6 red, 4 blue, and 5 green balls. What is the probability of selecting a blue ball?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "4/15",
-        "6/15",
-        "5/15",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total balls = 6 red + 4 blue + 5 green = 15  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the missing number: 2, 6, 12, 20, 30, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "42",
-        "43",
-        "44",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">6-2=4, 12-6=6, 20-12=8, 30-20=10  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city is known as the Silicon Valley of India?",
-      "urdu": "بھارت کے کس شہر کو \"سلیکون ویلی آف انڈیا\" کہا جاتا ہے؟",
-      "options": [
-        "Mumbai",
-        "Bengaluru (Bangalore)",
-        "Chennai",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Amino acids are building blocks of ______?",
-      "urdu": "امینو ایسڈز کس چیز کے بنیادی اجزاء ہیں؟",
-      "options": [
-        "Nucleic acids",
-        "Protein",
-        "Vitamins",
-        "Lipid"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The scientific study of hormones and the endocrine system is called?",
-      "urdu": "ہارمونز اور اینڈوکرائن نظام کے سائنسی مطالعہ کو کیا کہتے ہیں؟",
-      "options": [
-        "Neurology",
-        "Endocrinology",
-        "Cardiology",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a 2 kg ball and a 4 kg ball are dropped together in a vacuum, which reaches the ground first?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2 kg ball",
-        "4 kg ball",
-        "Both reach the ground at the same time",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which scan is best suited for detailed images of soft tissues, ligaments, and the brain?",
-      "urdu": "نرم بافتوں، لیگامنٹس اور دماغ کی تفصیلی تصاویر کے لیے کون سا اسکین بہترین ہے؟",
-      "options": [
-        "MRI",
-        "X-ray",
-        "CT Scan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the Headquarters of ASEAN located?",
-      "urdu": "آسیان کا صدر دفتر کس شہر میں واقع ہے؟",
-      "options": [
-        "Jakarta, Indonesia",
-        "Kuala Lumpur, Malaysia",
-        "Bangkok, Thailand",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the Capital of Colombia?",
-      "urdu": "کولمبیا کا دارالحکومت کون سا ہے؟",
-      "options": [
-        "Cape Town",
-        "Toronto",
-        "Bogota",
-        "Sydney"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\">Colombia</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%;color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:red'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Bogota</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Light year is a unit of _____?",
-      "urdu": "نوری سال _____ کی اکائی ہے؟",
-      "options": [
-        "Light",
-        "Distance",
-        "Time",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country in the world has the most neighbours?",
-      "urdu": "دنیا میں سب سے زیادہ پڑوسی کون سا ملک ہے؟",
-      "options": [
-        "Russia",
-        "China",
-        "India",
-        "none"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">China</font><font color=\"#0000ff\"> shares </font><font color=\"#ff0000\">international</font><font color=\"#0000ff\"> land </font><font color=\"#ff0000\">borders</font><font color=\"#0000ff\"> with </font><font color=\"#ff0000\">14 sovereign </font><font color=\"#0000ff\">states, the </font><font color=\"#ff0000\">highest number</font><font color=\"#0000ff\"> in the world.</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most abundant component in Earth's atmosphere (Air) is?",
-      "urdu": "زمین کے ماحول (ہوا) میں سب سے زیادہ پرچر جز ہے؟",
-      "options": [
-        "Hydrogen",
-        "Oxygen",
-        "Nitrogen",
-        "Carbon dioxide"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of following country hosted the first football World Cup in 1930?",
-      "urdu": "سن 1930 کا پہلا فیفا فٹبال ورلڈ کپ کس ملک نے میزبانی کی؟",
-      "options": [
-        "Brazil",
-        "Uruguay",
-        "America",
-        "Argentina"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where was the Third Session of the United Nations General Assembly held?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی کا تیسرا اجلاس کہاں منعقد ہوا؟",
-      "options": [
-        "Paris, France",
-        "London, United Kingdom",
-        "New York, United States",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which countries are members of the QUAD (Quadrilateral Security Dialogue)?",
-      "urdu": "کواڈ کے رکن ممالک کون سے ہیں؟",
-      "options": [
-        "China, Russia, India, Japan",
-        "United States, China, Australia, Japan",
-        "United States, India, Japan, and Australia",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Badshahi mosque at Lahore in 1673 was made by?",
-      "urdu": "لاہور میں 1673ء میں بادشاہی مسجد کس نے تعمیر کروائی؟",
-      "options": [
-        "Shah Jahan",
-        "Aurangzeb",
-        "Akbar",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The type of Hajj in which Umrah and Hajj are performed separately is called?",
-      "urdu": "حج کی وہ قسم جس میں عمرہ اور حج الگ الگ ادا کیے جاتے ہیں، کیا کہلاتی ہے؟",
-      "options": [
-        "Hajj al-Tamattu",
-        "Hajj Qiran",
-        "Hajj Ifrad",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The kissing or touching of Hajr-e-Aswad is known as?",
-      "urdu": "حجرِ اسود کو بوسہ دینے کو کیا کہتے ہیں؟",
-      "options": [
-        "Istelam",
-        "Tawaf",
-        "Saee",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "To which Prophet did Jews call the 'Son of Allah'?",
-      "urdu": "یہودیوں نے کس نبی کو اللہ کا بیٹا کہا تھا؟",
-      "options": [
-        "Hazrat Idress A.S",
-        "Hazrat Uzair A.S",
-        "Hazrat Essa A.S",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country defeated England to win the Women’s T20 World Cup 2026?",
-      "urdu": "کس ملک نے انگلینڈ کو شکست دے کر ویمنز ٹی ٹوئنٹی ورلڈ کپ 2026 جیتا؟",
-      "options": [
-        "New Zealand",
-        "South Africa",
-        "Australia",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; padding: 0px;\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Additional Information about Women’s T20 World Cup 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the champion of the Women’s T20 World Cup 2026?",
-      "urdu": "خواتین کے ٹی ٹوئنٹی ورلڈ کپ 2026 کے فاتح کا نام بتائیں۔",
-      "options": [
-        "England",
-        "Australia",
-        "New Zealand",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; padding: 0px;\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Additional Information about Women’s T20 World Cup 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "By which other name is Prophet Muhammad (ﷺ) mentioned in the Qur'an?",
-      "urdu": "قرآنِ مجید میں حضرت محمد ﷺ کا دوسرا نام کس نام سے ذکر ہوا ہے؟",
-      "options": [
-        "Ahmed",
-        "Aadil",
-        "Aameen",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The portion of the wall of Kaba which is between its door and Hajr-e-Aswad is called ____?",
-      "urdu": "خانہ کعبہ کی دیوار کا وہ حصہ جو دروازے اور حجرِ اسود کے درمیان ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Haram",
-        "Hateem",
-        "Al-Multazim",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p> </p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the eldest son of Abd al-Muttalib?",
-      "urdu": "حضرت عبدالمطلب کے سب سے بڑے بیٹے کون تھے؟",
-      "options": [
-        "Abdullah",
-        "Abu Talib",
-        "Al-Harith",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The famous \"Dome of the Rock\" at Jerusalem was built by?",
-      "urdu": "یروشلم میں مشہور \"قبۃ الصخرہ\" کس نے تعمیر کروایا؟",
-      "options": [
-        "Abdul Malik",
-        "Hisham",
-        "Marwan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Last verified on 15-01-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "During photosynthesis, plants absorb which gas from the atmosphere?",
-      "urdu": "فوٹوسنتھیسز کے دوران پودے فضا سے کون سی گیس جذب کرتے ہیں؟",
-      "options": [
-        "Carbon dioxide (CO₂)",
-        "Oxygen (O₂)",
-        "Nitrogen (N₂)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will happen if ribosomes do not function properly?",
-      "urdu": "اگر رائبوسوم صحیح طریقے سے کام نہ کریں تو کیا ہوگا؟",
-      "options": [
-        "DNA replication will stop.",
-        "The cell wall will disappear.",
-        "Protein synthesis will stop.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Algae cell wall chiefly composed of following?",
-      "urdu": "الجی کی سیل وال بنیادی طور پر کس چیز سے بنی ہوتی ہے؟",
-      "options": [
-        "Glucose",
-        "Chitin",
-        "Cellulose",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main objective of the High Seas Treaty?",
-      "urdu": "ہائی سیز ٹریٹی کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "To conserve and sustainably use marine biodiversity beyond national jurisdiction",
-        "To expand national maritime boundaries",
-        "To regulate international shipping taxes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why did Pakistan mediate between the United States and Iran?",
-      "urdu": "پاکستان نے امریکہ اور ایران کے درمیان ثالثی کیوں کی؟",
-      "options": [
-        "To expand its territory",
-        "To prevent a wider regional conflict and promote peace",
-        "To impose sanctions on Iran",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main importance of dry ports?",
-      "urdu": "ڈرائی پورٹس کی بنیادی اہمیت کیا ہے؟",
-      "options": [
-        "They facilitate inland customs clearance and promote trade by reducing congestion at seaports",
-        "They produce electricity",
-        "They provide sea transport only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city of Pakistan is located nearest to the Tropic of Cancer?",
-      "urdu": "پاکستان کا کون سا شہر مدارِ سرطان کے سب سے قریب واقع ہے؟",
-      "options": [
-        "Umerkot",
-        "Khairpur",
-        "Karachi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Objective Resolution was passed on ______?",
-      "urdu": "قرار داد مقاصد کب منظور ہوئی؟",
-      "options": [
-        "12 March 1947",
-        "12 March 1948",
-        "12 March 1949",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"222\" data-start=\"190\"><b style=\"\"><span data-end=\"202\" data-start=\"190\" style=\"color: rgb(0, 0, 255);\">Adopted:</span> <span data-end=\"220\" data-start=\"203\" style=\"\"><font color=\"#ff0000\">12 March 1949</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main basis of the Two-Nation Theory?",
-      "urdu": "دو قومی نظریہ کی بنیادی بنیاد کیا تھی؟",
-      "options": [
-        "Cultural, religious, and social differences between Hindus and Muslims",
-        "Economic differences",
-        "Geographical differences",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The main objective for the formation of Muslim League?",
-      "urdu": "مسلم لیگ کی تشکیل کا اصل مقصد کیاہے؟",
-      "options": [
-        "To degrade Hindus",
-        "To degrade Sikhs",
-        "To safeguard the interests and rights of the Muslim of India",
-        "To represent Muslim"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">When the </font><font color=\"#ff0000\">Muslim League ended</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">1947</font><font color=\"#0000ff\">, it split into </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> parties:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Subsidiary Alliance was introduced by?",
-      "urdu": "سبسڈیری الائنس کا نظام کس نے متعارف کرایا؟",
-      "options": [
-        "Robert Clive",
-        "Lord Wellesley",
-        "Sir John Shore",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The religion which considers Hazrat Mikael (AS) superior/preferred to/on Hazrat Jibrael (AS)?",
-      "urdu": "کون سا مذہبی گروہ حضرت میکائیلؑ کو حضرت جبرائیلؑ پر برتر سمجھتا تھا؟",
-      "options": [
-        "Christianity",
-        "Jewism",
-        "Islam",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many tribes of jews were there in Medina?",
-      "urdu": "مدینہ منورہ میں یہودیوں کے کتنے قبائل تھے؟",
-      "options": [
-        "3",
-        "2",
-        "5",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">There were </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> major </font><font color=\"#ff0000\">Jewish tribes</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Madinah</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Holy Prophet (ﷺ) migrated to Madinah after how many months from the beginning of migration?",
-      "urdu": "ہجرت کے آغاز کے کتنے ماہ بعد رسول اللہ ﷺ مدینہ منورہ تشریف لے گئے؟",
-      "options": [
-        "2 months",
-        "3 months",
-        "4 months",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many types of Muqtadi are there?",
-      "urdu": "مقتدی کی کتنی اقسام ہیں؟",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> types of </font><font color=\"#ff0000\">Muqtadi</font><font color=\"#0000ff\"> (</font><font color=\"#ff0000\">followers in congregational prayer</font><font color=\"#0000ff\">).</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first woman Speaker of the U.S. Congress (House of Representatives)",
-      "urdu": "امریکی کانگریس (ایوانِ نمائندگان) کی پہلی خاتون اسپیکر کون تھیں؟",
-      "options": [
-        "Conda Lizza Rice",
-        "Nancy Pawell",
-        "Nancy Pelosi",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The boundary between Pakistan and India is known as ____?",
-      "urdu": "پاکستان اور بھارت کے درمیان سرحد کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Durand Line",
-        "Redcliff Line",
-        "Mac Mohan Line",
-        "Separate Line"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Kaleemullah (One who spoke to Allah) was the title of which Prophet?",
-      "urdu": "کلیم اللہ کس نبی کا لقب تھا؟",
-      "options": [
-        "Hazrat Ibrahim A.S",
-        "Hazrat Musa A.S",
-        "Hazrat Dawood A.S",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\" style=\"\">Last verified on 17-05-2026</font></b></span></font></p>",
       "category": "all"
     }
   ]
