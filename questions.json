@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-15T09:06:34.967797",
+    "fetched_at": "2026-07-15T14:44:36.972446",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "A structural engineer constructs two perfectly straight, infinitely long, non-parallel railroad tracks on a flat plain. A locomotive travels on Track 1 at a constant speed of 100 km/h, and an identical locomotive travels on Track 2 at a constant speed of 50 km/h. At 12:00 PM, the distance between them is exactly 10 km. At 1:00 PM, the distance between them is still exactly 10 km. At 2:00 PM, the distance between them remains exactly 10 km.  If both trains travel continuously without stopping, reversing, or changing speeds, what is the precise geometric angle formed by the intersection of the two tracks?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "0° (The premise contains a topographic falsehood; tracks must be parallel)",
-        "90° (They are perfectly perpendicular)",
-        "60°",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">If two trains move on two straight lines with constant speeds, the distance between them changes over time unless the lines are parallel. </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Four logicians (A, B, C, and D) are explicitly assigned a constant identity: two always tell the truth, and two always lie. You ask A: \"Is B a liar?\" A whispers an answer to you so softly that only you can hear it. You then ask B: \"What did A just say?\" B replies: \"A said that C is a liar.\" At this exact moment, D points at B and shouts: \"Do not believe him, B is lying!\"  Based strictly on this verbal matrix, which of the following statements can be deduced with absolute mathematical certainty?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "B is a truth-teller.",
-        "C is a truth-teller.",
-        "D is a truth-teller.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Consider this absolute mechanical reality: \"That that that that that speaker utilized is grammatically distinct from that that that that that writer parsed is a truth that that that that that teacher demonstrated.\" If each distinct iteration of the word \"that\" in the second sequence (\"that that that that that writer parsed\") is assigned an ordinal structural value based on its part of speech—where Relative Pronoun = 1, Demonstrative Pronoun = 2, Conjunction = 3, and Noun/Adjective modifier = 4—what is the precise mathematical sum of the values of the 2nd, 3rd, and 5th \"that\" in that specific 5-word sequence?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let's break down the second sequence:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A legal scholar accurately declares: \"The only biological sibling of my maternal grandfather's son-in-law's youngest child's paternal grandmother is the maternal aunt of my own father's only niece's male first cousin.\" Assuming no non-traditional marriages, divorces, or adoptions exist within this closed lineage, what is the precise biological relationship of this scholar to the male first cousin mentioned?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The relationship is structurally impossible under bilateral pedigree constraints.",
-        "They are the exact same individual.",
-        "The scholar is the maternal uncle of the cousin.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Anacoluthon : Syntactic Disruption :: ________ : ________. Determine the highly complex verbal analogy that precisely mirrors the relationship between a specific rhetorical/grammatical deviation and its core underlying mechanical impact on a sentence or thought structure.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Zeugma : Morphosyntactic Asymmetry",
-        "Tautology : Semantic Progression",
-        "Solecism : Orthographic Correction",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Imagine three distinct geopolitical territories:  Territory Alpha is a territory under the sovereignty of a European nation but located physically in Cyprus.  Territory Beta is the only quadripoint in the world where four African nations almost meet at a single water vertex.  Territory Gamma is a piece of land completely surrounded by a single foreign country, which itself is completely surrounded by another single foreign country (a counter-enclave).  If you draw a straight trajectory on a standard map from Alpha to Beta, and another from Beta to Gamma, which microstate or distinct administrative geopolitical zone lies closest to the intersection of these two paths?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "San Marino",
-        "Vatican City",
-        "Campione d'Italia",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Two line segments that share an endpoint do not have another intersection.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the sentence that contains no grammatical, punctuation, or structural errors according to strict prescriptive English syntax governing hyperbaton (inverted word order), negative constraints, and gerundive adjuncts?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Scarcely had the resolution been passed by the committee when, despite his objections, the chairman, having or thought to have veto power, nullified it.",
-        "Scarcely had the resolution been passed by the committee when, despite his objections, the chairman, having or being thought to have veto power, nullified it.",
-        "Scarcely had the resolution been passed by the committee than, despite his objections, the chairman, having or thought to have had veto power, nullified it.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the capital city of the nation containing the world's northernmost structural volcanic desert maps to the value 144, and the capital of the nation containing the absolute lowest elevation point on land maps to 225, then according to the underlying mathematical-geographical transformation vector, the capital city of the nation containing the world's deepest lake must map to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "36",
-        "100",
-        "96",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Step 1: Find the capitals</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Examine the structural and semantic dependencies: The ambassador’s speech was marked by an egregious display of ________ her logic was so entirely ________ that even the seasoned plenipotentiaries could not decipher whether her remarks were a calculated stratagem or merely the byproduct of a disorganized mind. Choose the pair that satisfies both the semantic constraint of the context and the strict lexical requirement for an absolute non-redundant gradation of obscure vocabulary.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Battology / tenebrous",
-        "Perissology / anfractuous",
-        "Tautology / pellucid",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An intelligence courier commences transit within a sovereign enclave comprehensively landlocked by a solitary extraneous nation-state. They navigate due South for 4,000 km, subsequently due West for 4,000 km, thereafter due North for 4,000 km, and ultimately due East for 4,000 km. Accounting strictly for the oblate spheroidal geometry of the Earth and real-world national boundaries, which statement accurately reflects their final location?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "They terminate their journey East of their starting point, ending up in a completely different sovereign country's landmass.",
-        "They terminate their journey West of their starting point, ending up in a neighboring country.",
-        "They terminate their journey East of their starting point, ending up in the Indian Ocean.",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b><span style=\"background-color: rgb(255, 255, 0);\">Key clues</span><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Consider the subsequent pronouncement evaluating historical geopolitical covenants: The prime minister insisted that the territory be ceded, as it were, unencumbered, but no sooner had the delegation signed than did the opposition claim that had the previous administration not obfuscated the boundary clauses, the current crisis ________? Which option structurally completes this complex subjunctive, correlative inversion, and split-conditional syntax perfectly while preserving formal grammatical mood?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Would not have been transpired",
-        "Would not have transpired",
-        "Will not have transpired",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "To insert a hyperlink which shortkey is used?",
-      "urdu": "ہائپر لنک داخل کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl+S",
-        "Ctrl+M",
-        "Ctrl+K",
-        "None of the above"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What is the shortcut key to open a new MS Word document?",
-      "urdu": "نئی ایم ایس ورڈ دستاویز کھولنے کے لیے شارٹ کٹ کی کونسی ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Ctrl + O",
-        "Ctrl + N",
-        "Ctrl + W",
-        "Ctrl + M"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p style=\"user-select: initial !important;\"><b><span style=\"user-select: initial !important;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Mail Merge is a feature of which software?",
-      "urdu": "میل مرج کس سافٹ ویئر کی خصوصیت ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Microsoft Word",
-        "Microsoft Excel",
-        "Microsoft PowerPoint",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "Which PowerPoint feature helps reduce cognitive load when used appropriately?",
-      "urdu": "پاورپوائنٹ کی کون سی خصوصیت مناسب طریقے سے استعمال کرنے پر ذہنی بوجھ کم کرنے میں مدد دیتی ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Spell Check",
-        "Print Preview",
-        "Animations",
-        "None of these"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If yesterday was Sunday, what day will it be after 25 days?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Thursday",
-        "Friday",
-        "Saturday",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>If yesterday was Sunday, then today is Monday.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many grams of CaCl₂ are required to prepare 100 mL of 0.5 M solution?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2.78 g",
-        "5.55 g",
-        "11.10 g",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Moles needed = 0.5 × 0.1 = 0.05 mol</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which statement is incorrect? All birds have wings., Some birds can fly., Ostrich can fly., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "All birds have wings.",
-        "Some birds can fly.",
-        "Ostrich can fly.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Ostriches are flightless birds and cannot fly.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sara sells 45 items at Rs. 5,000 each and Ali sells 30 items at Rs. 8,000 each. Who has higher sales?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sara",
-        "Ali",
-        "Both have equal sales",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An elevator starts on the 10th floor and moves −1, +2, −3, +4, −5, +6 floors. Which floor does it reach?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "11th Floor",
-        "12th Floor",
-        "13th Floor",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Floor changes: 10 → 9 → 11 → 8 → 12 → 7 → 13</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the missing number: 285, 230, __, 150, 125.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "185",
-        "175",
-        "180",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The sequence decreases by values that drop by 10 each step: −55, −45, −35, −25.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which number will come next? 3, 5, 7, 10, 12, 14, 24, 26, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "52",
-        "30",
-        "28",
-        "48"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a 70-meter race, A beats B by 24 meters and B beats C by 30 meters. By how many meters does A beat C?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "43.71 m",
-        "40 m",
-        "42 m",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">A : B = 70 : 46, and B : C = 70 : 40.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 5 children sit in a circle, how many arrangements are possible?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24",
-        "26",
-        "28",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The number of circular arrangements of n distinct people is (n − 1)!</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An office has 8 seats. How many offices are required for 34 people?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "4",
-        "3",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Each office has 8 seats.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "P is the mother of R. R is the sister of Q. U is the sister of R, and T is the son of U. What is T's relation to P?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Son",
-        "Grandson",
-        "Nephew",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>P is the mother of R and U.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bag contains 1 white, 2 yellow, and 3 red balls. What is the probability of selecting a red ball?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1/2",
-        "2/3",
-        "3/4",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total balls = 1 + 2 + 3 = 6</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A product costs Rs. 4000 and is sold for Rs. 5200. Find the profit percentage.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "20%",
-        "25%",
-        "30%",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Profit = 5200 − 4000 = Rs. 1200</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who among the following brokered Islamabad Memorandum of Understanding (MOU) between the US and Iran in June 2026?",
-      "urdu": "مندرجہ ذیل میں سے کس نے جون 2026 میں امریکہ اور ایران کے درمیان اسلام آباد میں مفاہمت کی یادداشت (ایم او یو) کی ثالثی کی؟",
-      "options": [
-        "Afghanistan",
-        "Israel",
-        "Pakistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country launched upgraded “Paya, Zafar-2, and Pars Satellites” on 2nd February 2025?",
-      "urdu": "دو فروری 2025 کو اپ گریڈ شدہ \"پایا، ظفر-2 اور پارس\" سیٹلائٹس کس ملک نے لانچ کیے؟",
-      "options": [
-        "Pakistan",
-        "Iran",
-        "Turkey",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which colur of light has the shortest wavelength?",
-      "urdu": "روشنی کے کس رنگ کی طولِ موج سب سے کم ہوتی ہے؟",
-      "options": [
-        "Red",
-        "Green",
-        "Blue",
-        "White"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Robert Mugabe belonged to which country?",
-      "urdu": "رابرٹ موگابے کا تعلق کس ملک سے تھا؟",
-      "options": [
-        "Zimbabwe",
-        "Zambia",
-        "South Africa",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of SAARC located?",
-      "urdu": "سارک کا ہیڈ کوارٹر کس کہاں واقع ہے؟",
-      "options": [
-        "Katmandu, Nepal",
-        "Islamabad, Pakistan",
-        "Delhi, India",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who among the following was the first Maharaja of Jammu and Kashmir?",
-      "urdu": "جموں و کشمیر کا پہلا مہاراجہ کون تھا؟",
-      "options": [
-        "Maharaja Hari Singh",
-        "Maharaja Gulab Singh",
-        "Maharaj Ranbir Singh",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the Simla Deputation took place?",
-      "urdu": "سملا ڈیپوٹیشن کب ہوا؟",
-      "options": [
-        "1st October 1906",
-        "14th August 1905",
-        "30th December 1907",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Salat-e-Kasoof is offered at the time of ____?",
-      "urdu": "نمازِ کسوف کب ادا کی جاتی ہے؟",
-      "options": [
-        "Earthquake",
-        "Lunar eclipse",
-        "Solar (Sun) eclipse",
-        "Heavy rain"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which day is called Yawm-e-Tarwiyah?",
-      "urdu": "یومِ ترویہ کس دن کو کہا جاتا ہے؟",
-      "options": [
-        "8th Dul Hijjah",
-        "9th Dul Hijjah",
-        "10th Dul Hijjah",
-        "11th Dul Hijjah"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The place chosen to sacrifice Hazrat Ismail (AS) was ____?",
-      "urdu": "حضرت اسماعیلؑ کی قربانی کے لیے کون سی جگہ منتخب کی گئی تھی؟",
-      "options": [
-        "Muzdalfa",
-        "Safa",
-        "Mina",
-        "Meeqat"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Muslims were martyred in the Battle of Mu'tah?",
-      "urdu": "غزوۂ مؤتہ میں کتنے مسلمان شہید ہوئے؟",
-      "options": [
-        "12",
-        "10",
-        "8",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of the shortcut key Ctrl + Shift + C?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Create a new document",
-        "Copy formatting",
-        "Change text color",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Obsolete is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Outdated",
-        "New",
-        "Modern",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the correct English translation of \"کیا میں آپ کی مدد کر سکتا ہوں؟\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Can you help me?",
-        "May I help you?",
-        "Will you help me?",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani player becomes first Pakistani to score 10000 runs in Test Cricket?",
-      "urdu": "ٹیسٹ کرکٹ میں 10,000 رنز بنانے والے پہلے پاکستانی کھلاڑی کون ہیں؟",
-      "options": [
-        "Muhammad Yousaf",
-        "Younis Khan",
-        "Inzamam Ul Haq",
-        "Azhar Ali"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current President of Ukraine?",
-      "urdu": "یوکرین کا چھٹا اور موجودہ صدر کون ہے؟",
-      "options": [
-        "Leonid Kravchuk",
-        "Petro Poroshenko",
-        "Volodymyr Zelensky",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"text-align:justify\"><b style=\"\"><span style=\"line-height: 107%;\"><font color=\"#ff0000\">Volodymyr Zelensky</font></span><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); line-height: 107%;\"> is the </span><span style=\"line-height: 107%;\"><font color=\"#ff0000\">6th</font></span><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); line-height: 107%;\"> and </span><span style=\"line-height: 107%;\"><font color=\"#ff0000\">current</font></span><span style=\"line-height: 107%;\"><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\"> President of </span><font color=\"#ff0000\">Ukraine</font><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\"> since </span></span><span style=\"line-height: 107%;\"><font color=\"#ff0000\">20 May 2019</font><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\">.</span></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many times Pakistan won the hockey World Cup?",
-      "urdu": "پاکستان نے کتنی بار ہاکی ورلڈ کپ جیتا؟",
-      "options": [
-        "2",
-        "4",
-        "6",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\">Pakistan</font><font color=\"#0000ff\"> has won the </font><font color=\"#ff0000\">Hockey World</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Cup</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">4</font><font color=\"#0000ff\"> times.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the adverb form of \"familiar\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Familiarity",
-        "Familiarization",
-        "Familiarly",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, to insert a sum formula in a cell?",
-      "urdu": "ایم ایس ایکسل میں، سیل میں سم فارمولہ داخل کرنا ہے؟",
-      "options": [
-        "=Sum(A1:A2)",
-        "=Add(a1:a2)",
-        "=Sum(1A:2A)",
-        "=Add(1A:2A)"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"user-select: text !important;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "With which neighbouring country does India share the Sunderbans forest?",
-      "urdu": "بھارت سندربن کا جنگل اپنے کس ہمسایہ ملک کے ساتھ مشترک رکھتا ہے؟",
-      "options": [
-        "Bangladesh",
-        "China",
-        "Pakistan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Holy Prophet PBUH was born in?",
-      "urdu": "نبی کریم صلی اللہ علیہ وسلم کی ولادت باسعادت کب ہوئی؟",
-      "options": [
-        "571 AD",
-        "577 AD",
-        "632 AD",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the responsible for protection of the Holy Quran?",
-      "urdu": "قرآن پاک کی حفاظت کس کی ذمہ داری ہے؟",
-      "options": [
-        "Muslims",
-        "Allah",
-        "Angels",
-        "The holy prophet (PBUH)"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">As stated in </font><font color=\"#ff0000\">Surah Al-Hijr</font><font color=\"#0000ff\"> (15:9):</font></b></p>",
-      "category": "all"
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
