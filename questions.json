@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-16T04:07:34.223010",
+    "fetched_at": "2026-07-16T09:09:56.787823",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "World Trade Organization (WTO) was established in ______?",
-      "urdu": "ورلڈ ٹریڈ آرگنائزیشن کب قائم ہوئی؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "1992",
-        "1993",
-        "1994",
-        "1995"
-      ],
-      "correct": 3,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "SCO stands for _____?",
-      "urdu": "ایس سی او کا مطلب کیا ہے؟",
-      "options": [
-        "Shanghai Cooperation Organisation",
-        "Shanghai Cooperation Organize",
-        "Shanghai Corporate  Organisation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where headquarters of World Bank located?",
-      "urdu": "ورلڈ بینک کا ہیڈ کوارٹر کہاں واقع ہے؟",
-      "options": [
-        "New York",
-        "London",
-        "Washington",
-        "Paris"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Partner Institutions</font><font color=\"#0000ff\"> (5):</font></span></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Who was the first woman to be appointed as permanent representative of Pakistan to the United Nations?",
-      "urdu": "اقوام متحدہ میں پاکستان کی پہلی خاتون مستقل مندوب کون مقرر ہوئیں؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Hinna Rabani Khar",
-        "Maleeha Lodhi",
-        "Tehmina Janjua",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which District of Punjab Kallar Kahar Lake is situated?",
-      "urdu": "پنجاب کے کس ضلع میں کلر کہار جھیل واقع ہے؟",
-      "options": [
-        "Mianwali",
-        "Sargodha",
-        "Chakwal",
-        "Jhelum"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "The Capital of Canada is _____?",
-      "urdu": "کینیڈا کا دارالحکومت کونسا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Ottawa",
-        "Tokyo",
-        "New Delhi",
-        "London"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt; line-height: 107%;\"><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first woman to win the Nobel Prize?",
-      "urdu": "نوبل انعام جیتنے والی پہلی خاتون کون تھی؟",
-      "options": [
-        "Mother Teresa",
-        "Mrs. Aung San Suu Kyi",
-        "Madam Marie Curie",
-        "None of the these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did Iran launch missile strikes inside Pakistan?",
-      "urdu": "ایران نے پاکستان کے اندر میزائل حملے کب کیے؟",
-      "options": [
-        "18 January 2024",
-        "16 December 2023",
-        "16 January 2024",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the main reason behind the Israel–Hamas conflict?",
-      "urdu": "اسرائیل اور حماس کے درمیان تنازع کی بنیادی وجہ کیا ہے؟",
-      "options": [
-        "Territorial and political conflict over Palestinian land and governance",
-        "Trade disputes",
-        "Water shortage",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mangroves forest are found in ______?",
-      "urdu": "مینگروو کے جنگلات کہاں پائے جاتے ہیں؟",
-      "options": [
-        "KPK",
-        "Indus delta Sindh",
-        "Mianwali",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which cousin of the Holy Prophet (PBUH) closely resembled him in appearance?",
-      "urdu": "رسول اللہ ﷺ کے کس چچا زاد بھائی کی شکل و صورت آپ ﷺ سے بہت زیادہ ملتی تھی؟",
-      "options": [
-        "Ja'far ibn Abi Talib (RA)",
-        "Abdullah ibn Abbas (RA)",
-        "Ali ibn Abi Talib (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the name of Hazrat Aminah's (RA) father?",
-      "urdu": "حضرت آمنہؓ کے والد کا نام کیا تھا؟",
-      "options": [
-        "Wahb ibn Abd Manaf",
-        "Hashim",
-        "Abdul Muttalib",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Miqat is used by pilgrims coming from Madinah?",
-      "urdu": "مدینہ سے آنے والے حجاج کرام کون سا میقات استعمال کرتے ہیں؟",
-      "options": [
-        "Yalamlam",
-        "Dhul Hulayfah (Abyar Ali)",
-        "Qarn al-Manazil",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Battle of Tabook is also known as ______?",
-      "urdu": "غزوۂ تبوک کو اور کس نام سے جانا جاتا ہے؟",
-      "options": [
-        "The Expedition of Urwa",
-        "Expedition of Usra",
-        "The Expedition of Makkah",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first Poet of Islam (Poet of the Prophet (PBUH)?",
-      "urdu": "اسلام کے پہلے شاعر (شاعرِ رسول ﷺ) کون تھے؟",
-      "options": [
-        "Hassan Bin Sabit",
-        "Hazrat Abu Bakar",
-        "Hazrat Ali",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Verified &amp; Updated</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Persian companion accepted Islam during the lifetime of the Holy Prophet (PBUH)?",
-      "urdu": "حضرت محمد ﷺ کی حیاتِ مبارکہ میں اسلام قبول کرنے والے فارسی صحابی کون تھے؟",
-      "options": [
-        "Suhayb ar-Rumi (RA)",
-        "Salman al-Farsi (RA)",
-        "Bilal ibn Rabah (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was appointed as the first Ameer-e-Hajj in 9 AH (the first Hajj under Islamic rule)?",
-      "urdu": "نو ہجری میں اسلامی حکومت کے پہلے حج کے لیے پہلے امیرِ حج کس کو مقرر کیا گیا؟",
-      "options": [
-        "Umar ibn Al-Khattab (RA)",
-        "Abu Bakr As-Siddiq (RA)",
-        "Ali ibn Abi Talib (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which team won Pakistan Super League (PSL) 2017?",
-      "urdu": "پاکستان سپر لیگ 2017 کس ٹیم نے جیتی؟",
-      "options": [
-        "Karachi Kings",
-        "Quetta Gladiators",
-        "Lahore Qalandars",
-        "Peshawar Zalmi"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The headquarters of International Court of Justice (ICJ) is located in _____?",
-      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
-      "options": [
-        "New York",
-        "Washington",
-        "Geneva",
-        "Hague"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Chief Minister of Sindh?",
-      "urdu": "سندھ کا موجودہ وزیر اعلیٰ کون ہے؟",
-      "options": [
-        "Qaim Ali Shah",
-        "Jam Mir Kamal Khan",
-        "Syed Murad Ali Shah",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><img alt=\"newly elected Sindh CM Syed Murad Ali Shah\" src=\"data:image/jpeg;base64,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\" style=\"font-size: 0.875rem; width: 49.6667px; height: 49.6667px;\"/><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which flower is the National flower of Pakistan?",
-      "urdu": "پاکستان کا قومی پھول کون سا ہے؟",
-      "options": [
-        "Rose",
-        "Sunflower",
-        "Lilly",
-        "Jasmine"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the World War II (Second World War) end?",
-      "urdu": "دوسری عالمی جنگ کب ختم ہوئی؟",
-      "options": [
-        "1940",
-        "1942",
-        "1945",
-        "1947"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prophet Yousuf (AS) was a ruler in which country?",
-      "urdu": "حضرت یوسفؑ کس ملک کے حکمران/اعلیٰ عہدیدار تھے؟",
-      "options": [
-        "Egypt",
-        "Palestine",
-        "Syria",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which surah is known as the Heart of Holy Quran?",
-      "urdu": "وہ کون سی سورت ہے جسے قرآن پاک کا دل کہا جاتا ہے؟",
-      "options": [
-        "Surah Yaseen",
-        "Surah Rehman",
-        "Surah Al-Baqara",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Battle of Safeen (Saffin) fought?",
-      "urdu": "جنگِ صفین کب لڑی گئی؟",
-      "options": [
-        "35 AH (656 CE)",
-        "37 AH (657 CE)",
-        "40 AH (661 CE)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first wife of Prophet Muhammad (ﷺ) died in which year of Prophethood (during Ramadan)?",
-      "urdu": "رسول اللہ ﷺ کی پہلی زوجہ حضرت خدیجہؓ کا انتقال رمضان میں نبوت کے کس سال میں ہوا؟",
-      "options": [
-        "3",
-        "8",
-        "24",
-        "10"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zakat was made compulsory in which Hijri?",
-      "urdu": "زکوٰۃ کس ہجری میں فرض کی گئی؟",
-      "options": [
-        "2 Hijri",
-        "3 Hijri",
-        "4 Hijri",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prophet Shoaib(AS) forbade his people from which practice?",
-      "urdu": "حضرت شعیبؑ نے اپنی قوم کو کس عمل سے منع کیا تھا؟",
-      "options": [
-        "Cheating in weights and measures",
-        "Drinking alcohol",
-        "Hunting on the Sabbath",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the real name of the Queen of Sheba?",
-      "urdu": "ملکہ سبا کا اصل نام کیا تھا؟",
-      "options": [
-        "Zulaikha",
-        "Asiya",
-        "Bilqis",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "After Sir Aga Khan, Who was appointed President of Muslim League?",
-      "urdu": "سر آغا خان کے بعد آل انڈیا مسلم لیگ کا صدر کس کو مقرر کیا گیا؟",
-      "options": [
-        "Nawab Saleemullah of Dacca",
-        "Nawab Muzzamil",
-        "Raja Sahib of Mahmoodabad",
-        "Nawab Mohsin-ul-Mulk"
-      ],
-      "correct": 2,
-      "explanation": "<p><ol></ol></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which command is used to close the window of Excel?",
-      "urdu": "ایکسل کی ونڈو بند کرنے کے لیے کون سی شارٹ کٹ استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl + W",
-        "Alt + F4",
-        "Ctrl + F5",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Shortcut key to insert a new worksheet in Excel is _______?",
-      "urdu": "ایکسل میں نئی ورک شیٹ شامل کرنے کی شارٹ کٹ کی کیا ہے؟",
-      "options": [
-        "Alt + Shift + F1",
-        "Shift + F11",
-        "Shift + F10",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "The nearest planet to the Earth is ______?",
-      "urdu": "زمین سے قریب ترین سیارہ کونسا ہے؟",
-      "options": [
-        "Moon",
         "Venus",
-        "Mercury",
-        "Mars"
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p data-end=\"505\" data-start=\"433\"><font color=\"#ff0000\">Venus</font><font color=\"#0000ff\" style=\"\"> comes closest to </font><font color=\"#ff0000\">Earth</font><font color=\"#0000ff\"> when it is </font><span data-end=\"502\" data-start=\"473\" style=\"\"><font color=\"#0000ff\">between </font><font color=\"#ff0000\">Earth and the Sun</font></span><font color=\"#0000ff\">.</font></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Which of these is part of computer security?",
-      "urdu": "کمپیوٹر سیکیورٹی کا حصہ کون سا ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Installing reliable",
-        "Reputable security",
-        "Anti-virus software",
-        "All of these"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Which mountain range separate Afghanistan from Pakistan?",
-      "urdu": "کون سا پہاڑی سلسلہ افغانستان کو پاکستان سے الگ کرتا ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Pamir Range",
-        "Karakorum Range",
-        "The Hindu Kush Range",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Confess is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Refuse",
-        "Contest",
-        "Contend",
-        "Deny"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Admire is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hate",
-        "Respect",
-        "Ignore",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is known as the father of computer?",
-      "urdu": "کمپیوٹر کا بانی کس کو کہا جاتا ہے؟",
-      "options": [
-        "Barbara Liskov",
-        "Tim Berners-Lee",
-        "Charles Babbage",
-        "John von Neumann"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is called “The Land of White Elephants”?",
-      "urdu": "کس ملک کو \"سفید ہاتھیوں کی سرزمین\" کہا جاتا ہے؟",
-      "options": [
-        "Norway",
-        "Japan",
-        "Italy",
-        "Thailand"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Balochistan Became Province in _______?",
-      "urdu": "بلوچستان کو صوبے کا درجہ کب دیا گیا؟",
-      "options": [
-        "14th August 1973",
-        "14th August 1947",
-        "1st July 1970",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 06-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A group of wolves is called?",
-      "urdu": "بھیڑیوں کے گروہ کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Herd",
-        "Flock",
-        "Pack",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the name of Hazrat Aminah bint Wahb's mother?",
-      "urdu": "حضرت آمنہ بنت وہبؓ کی والدہ کا نام کیا تھا؟",
-      "options": [
-        "Fatimah bint Asad",
-        "Atikah bint Murrah",
-        "Barrah bint Abdul Uzza",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key to copy the text?",
-      "urdu": "کاپی کرنے کے لیے شارٹ کٹ کی کیا ہے؟",
-      "options": [
-        "Ctrl + C",
-        "Ctrl + B",
-        "Ctrl + I",
-        "All of the above"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the arrangement ABCD is rotated one position to the right, what will be the new arrangement?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "BCDA",
-        "DABC",
-        "CDAB",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">A right rotation moves the last letter to the front.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 1st March is Wednesday, what day will fall on 1st May of the same year?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sunday",
-        "Monday",
-        "Tuesday",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">From 1st March to 1st May = 61 days (31 + 30).</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 12 February 2025 was Wednesday, what day was 12 February 2026?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Friday",
-        "Tuesday",
-        "Thursday",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">2025</font><font color=\"#0000ff\"> is </font><font color=\"#ff0000\">not</font><font color=\"#0000ff\"> a leap year (365 days = 52 weeks + 1 day).</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A mother introduced a man as \"the son of the brother of my mother.\" What is his relation to her?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cousin",
-        "Nephew",
-        "Brother",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">\"The brother of my mother\" = my maternal uncle.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the Teacher is older than the Doctor, and the Doctor is younger than the Artist, who is the second youngest?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Teacher",
-        "Doctor",
-        "Artist",
-        "Cannot be determined"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">Doctor is younger than both the Teacher and the Artist.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A clock loses 5 minutes every hour. If it shows 12:00 PM correctly, what time will it show after 2 actual hours?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1:45 PM",
-        "1:50 PM",
-        "1:55 PM",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The clock loses 5 minutes every hour.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the odd one out: 1, 8, 27, 65",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1",
-        "8",
-        "27",
-        "65"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">1 = 1³, 8 = 2³, 27 = </font><font color=\"#ff0000\">3³</font><font color=\"#0000ff\"> are </font><font color=\"#ff0000\">perfect</font><font color=\"#0000ff\"> cubes.</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
