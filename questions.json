@@ -3,21 +3,86 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-15T20:00:23.636612",
+    "fetched_at": "2026-07-16T04:07:34.223010",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which team won Pakistan Super League (PSL) 2017?",
-      "urdu": "پاکستان سپر لیگ 2017 کس ٹیم نے جیتی؟",
+      "q": "World Trade Organization (WTO) was established in ______?",
+      "urdu": "ورلڈ ٹریڈ آرگنائزیشن کب قائم ہوئی؟",
       "options": [
-        "Karachi Kings",
-        "Quetta Gladiators",
-        "Lahore Qalandars",
-        "Peshawar Zalmi"
+        "1992",
+        "1993",
+        "1994",
+        "1995"
       ],
       "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "SCO stands for _____?",
+      "urdu": "ایس سی او کا مطلب کیا ہے؟",
+      "options": [
+        "Shanghai Cooperation Organisation",
+        "Shanghai Cooperation Organize",
+        "Shanghai Corporate  Organisation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where headquarters of World Bank located?",
+      "urdu": "ورلڈ بینک کا ہیڈ کوارٹر کہاں واقع ہے؟",
+      "options": [
+        "New York",
+        "London",
+        "Washington",
+        "Paris"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Partner Institutions</font><font color=\"#0000ff\"> (5):</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first woman to be appointed as permanent representative of Pakistan to the United Nations?",
+      "urdu": "اقوام متحدہ میں پاکستان کی پہلی خاتون مستقل مندوب کون مقرر ہوئیں؟",
+      "options": [
+        "Hinna Rabani Khar",
+        "Maleeha Lodhi",
+        "Tehmina Janjua",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which District of Punjab Kallar Kahar Lake is situated?",
+      "urdu": "پنجاب کے کس ضلع میں کلر کہار جھیل واقع ہے؟",
+      "options": [
+        "Mianwali",
+        "Sargodha",
+        "Chakwal",
+        "Jhelum"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Capital of Canada is _____?",
+      "urdu": "کینیڈا کا دارالحکومت کونسا ہے؟",
+      "options": [
+        "Ottawa",
+        "Tokyo",
+        "New Delhi",
+        "London"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt; line-height: 107%;\"><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></span></p>",
       "category": "all"
     },
     {
@@ -31,6 +96,149 @@
       ],
       "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did Iran launch missile strikes inside Pakistan?",
+      "urdu": "ایران نے پاکستان کے اندر میزائل حملے کب کیے؟",
+      "options": [
+        "18 January 2024",
+        "16 December 2023",
+        "16 January 2024",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the main reason behind the Israel–Hamas conflict?",
+      "urdu": "اسرائیل اور حماس کے درمیان تنازع کی بنیادی وجہ کیا ہے؟",
+      "options": [
+        "Territorial and political conflict over Palestinian land and governance",
+        "Trade disputes",
+        "Water shortage",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mangroves forest are found in ______?",
+      "urdu": "مینگروو کے جنگلات کہاں پائے جاتے ہیں؟",
+      "options": [
+        "KPK",
+        "Indus delta Sindh",
+        "Mianwali",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which cousin of the Holy Prophet (PBUH) closely resembled him in appearance?",
+      "urdu": "رسول اللہ ﷺ کے کس چچا زاد بھائی کی شکل و صورت آپ ﷺ سے بہت زیادہ ملتی تھی؟",
+      "options": [
+        "Ja'far ibn Abi Talib (RA)",
+        "Abdullah ibn Abbas (RA)",
+        "Ali ibn Abi Talib (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the name of Hazrat Aminah's (RA) father?",
+      "urdu": "حضرت آمنہؓ کے والد کا نام کیا تھا؟",
+      "options": [
+        "Wahb ibn Abd Manaf",
+        "Hashim",
+        "Abdul Muttalib",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Miqat is used by pilgrims coming from Madinah?",
+      "urdu": "مدینہ سے آنے والے حجاج کرام کون سا میقات استعمال کرتے ہیں؟",
+      "options": [
+        "Yalamlam",
+        "Dhul Hulayfah (Abyar Ali)",
+        "Qarn al-Manazil",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Battle of Tabook is also known as ______?",
+      "urdu": "غزوۂ تبوک کو اور کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "The Expedition of Urwa",
+        "Expedition of Usra",
+        "The Expedition of Makkah",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first Poet of Islam (Poet of the Prophet (PBUH)?",
+      "urdu": "اسلام کے پہلے شاعر (شاعرِ رسول ﷺ) کون تھے؟",
+      "options": [
+        "Hassan Bin Sabit",
+        "Hazrat Abu Bakar",
+        "Hazrat Ali",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Verified &amp; Updated</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Persian companion accepted Islam during the lifetime of the Holy Prophet (PBUH)?",
+      "urdu": "حضرت محمد ﷺ کی حیاتِ مبارکہ میں اسلام قبول کرنے والے فارسی صحابی کون تھے؟",
+      "options": [
+        "Suhayb ar-Rumi (RA)",
+        "Salman al-Farsi (RA)",
+        "Bilal ibn Rabah (RA)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was appointed as the first Ameer-e-Hajj in 9 AH (the first Hajj under Islamic rule)?",
+      "urdu": "نو ہجری میں اسلامی حکومت کے پہلے حج کے لیے پہلے امیرِ حج کس کو مقرر کیا گیا؟",
+      "options": [
+        "Umar ibn Al-Khattab (RA)",
+        "Abu Bakr As-Siddiq (RA)",
+        "Ali ibn Abi Talib (RA)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which team won Pakistan Super League (PSL) 2017?",
+      "urdu": "پاکستان سپر لیگ 2017 کس ٹیم نے جیتی؟",
+      "options": [
+        "Karachi Kings",
+        "Quetta Gladiators",
+        "Lahore Qalandars",
+        "Peshawar Zalmi"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
@@ -83,19 +291,6 @@
       ],
       "correct": 2,
       "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Capital of Canada is _____?",
-      "urdu": "کینیڈا کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Ottawa",
-        "Tokyo",
-        "New Delhi",
-        "London"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt; line-height: 107%;\"><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></span></p>",
       "category": "all"
     },
     {
@@ -294,19 +489,6 @@
       "category": "all"
     },
     {
-      "q": "Who was the first Poet of Islam (Poet of the Prophet (PBUH)?",
-      "urdu": "(اسلام کے پہلے شاعر (شاعرِ رسول ﷺ) کون تھے؟",
-      "options": [
-        "Hassan Bin Sabit",
-        "Hazrat Abu Bakar",
-        "Hazrat Ali",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 25-04-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
       "q": "Who is known as the father of computer?",
       "urdu": "کمپیوٹر کا بانی کس کو کہا جاتا ہے؟",
       "options": [
@@ -473,188 +655,6 @@
       ],
       "correct": 3,
       "explanation": "<p><b><font color=\"#0000ff\">1 = 1³, 8 = 2³, 27 = </font><font color=\"#ff0000\">3³</font><font color=\"#0000ff\"> are </font><font color=\"#ff0000\">perfect</font><font color=\"#0000ff\"> cubes.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An unknown compound has the molecular formula C₄H₆O. It most likely belongs to which class of organic compounds?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Aldehyde or Ketone",
-        "Alkane",
-        "Alcohol",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the sequence: 2, 9, 28, 65, ___?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "124",
-        "126",
-        "128",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">2 = 1³ + 1 = 1 + 1  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A boy sings while taking a shower and the glass breaks. What is the scientific reason?",
-      "urdu": "ایک لڑکا نہاتے ہوئے گانا گاتا ہے اور شیشہ ٹوٹ جاتا ہے۔ اس کی سائنسی وجہ کیا ہے؟",
-      "options": [
-        "Echo effect",
-        "Resonance",
-        "Reflection of sound",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If A can complete a piece of work in 6 hours and B can complete the same work in 4 hours, and both work together for 2 hours, how much more time will A alone require to finish the remaining work?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1 hour",
-        "30 minutes",
-        "45 minutes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">A's rate = 1/6, B's rate = 1/4; together = 5/12 of the work per hour.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In how many ways can 3 men and 3 women be seated around a round table if each women is to be between 2 men?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24",
-        "12",
-        "36",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">For a round table we use (n-1)! to arrange people.  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If you are facing North, turn 90° towards East, then turn 180°, and finally turn 90° to the left, which direction will you be facing?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "South",
-        "North",
-        "East",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Start facing North.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which UN organization issued ethical guidelines on Artificial Intelligence (AI)?",
-      "urdu": "مصنوعی ذہانت کے لیے اخلاقی رہنما اصول اقوامِ متحدہ کے کس ادارے نے جاری کیے؟",
-      "options": [
-        "UNESCO",
-        "UNICEF",
-        "WHO",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which French museum experienced a major artwork theft in 2025?",
-      "urdu": "سن 2025 میں فرانس کے کس عجائب گھر میں بڑی فن پاروں/قیمتی نوادرات کی چوری ہوئی؟",
-      "options": [
-        "Musée d'Orsay",
-        "Louvre Museum",
-        "Centre Pompidou",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Bab el-Mandeb Strait connects which two water bodies?",
-      "urdu": "باب المندب آبنائے کن دو آبی ذخائر کو ملاتی ہے؟",
-      "options": [
-        "Mediterranean Sea and Atlantic Ocean",
-        "Black Sea and Aegean Sea",
-        "Red Sea and Gulf of Aden",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where was the famous Kabaddi World Cup/Series held in Pakistan?",
-      "urdu": "پاکستان میں مشہور کبڈی ورلڈ کپ/سیریز کہاں منعقد ہوئی؟",
-      "options": [
-        "Punjab",
-        "Sindh",
-        "KPK",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Countries are members of OIC?",
-      "urdu": "او آئی سی کے کتنے رکن ممالک ہیں؟",
-      "options": [
-        "55",
-        "56",
-        "57",
-        "69"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"segoe=\"\" arial,=\"\" color=\"\" emoji\",=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\";\"=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Approximately what percentage of Khyber Pakhtunkhwa is covered by forests?",
-      "urdu": "خیبر پختونخوا کا تقریباً کتنا فیصد رقبہ جنگلات پر مشتمل ہے؟",
-      "options": [
-        "15.3%",
-        "20.3%",
-        "25.3%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "On what date did the All-India Muslim League observe the “Day of Deliverance” after the resignation of Congress ministries?",
-      "urdu": "مسلم لیگ نے کانگریس وزارتوں کے استعفے کے بعد \"یومِ نجات\" کس تاریخ کو منایا؟",
-      "options": [
-        "22 October 1938",
-        "22 October 1939",
-        "22 December 1939",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "From which city in Balochistan does the Bolan Pass begin?",
-      "urdu": "بلوچستان میں بولان پاس کس شہر سے شروع ہوتا ہے؟",
-      "options": [
-        "Quetta",
-        "Sibi",
-        "Zhob",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
       "category": "all"
     }
   ]
