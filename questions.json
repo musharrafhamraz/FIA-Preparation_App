@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-16T09:09:56.787823",
+    "fetched_at": "2026-07-16T14:56:30.077373",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Who presented Poor Man's Budget in 1946?",
+      "urdu": "غریب آدمی کا بجٹ کس نے پیش کیا؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
+        "Ch. Muhammad Ali",
         "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Sir Agha Khan",
+        "Ch. Rehmat Ali."
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Which of the following is not part of the G7?",
+      "urdu": "مندرجہ ذیل میں سے کون سا جی۔سیون کا حصہ نہیں ہے؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
+        "Canada",
+        "France",
+        "United Kingdom",
+        "Spain"
       ],
       "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Additional information</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "Chabahar Port, often discussed alongside Pakistan’s Gwadar, is located in which country?",
+      "urdu": "چابہار بندرگاہ، جس کا اکثر پاکستان کی گوادر بندرگاہ کے ساتھ ذکر ہوتا ہے، کس ملک میں واقع ہے؟",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Iran",
+        "UAE",
+        "India",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why was Port Qasim constructed near Karachi?",
+      "urdu": "پورٹ قاسم کراچی کے قریب کیوں تعمیر کیا گیا؟",
+      "options": [
+        "To support fishing activities",
+        "To reduce the traffic burden on Karachi Port and increase trade capacity",
+        "To promote tourism",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which medal did Arshad Nadeem win in the Men's Javelin Throw at the Paris Olympics 2024?",
+      "urdu": "پیرس اولمپکس 2024 میں مردوں کے جیولن تھرو میں ارشد ندیم نے کون سا تمغہ جیتا؟",
+      "options": [
+        "Bronze",
+        "Silver",
+        "Gold",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has the Largest Muslim country by population in the world?",
+      "urdu": "آبادی کے لحاظ سے دنیا کا سب سے بڑا مسلم ملک کون سا ملک ہے؟",
+      "options": [
+        "Malysia",
+        "Pakistan",
+        "Turkey",
+        "Indonesia"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#9c00ff\">Additional information:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "If in a code language, FEDERAL is written as GFEFSBM, how will AGENCY be written in that same pattern?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "BHGPDZ",
+        "BHFODZ",
+        "BHFOBZ",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Let's check the pattern for FEDERAL → GFEFSBM</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "121, 144, 169, 196, what comes next?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "211",
+        "225",
+        "256",
+        "289"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Check the pattern:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the letter pattern: AB, DE, GH, JK, .....?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "OP",
+        "LM",
+        "MN",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Check the letters:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the next number in the series: 4, 9, 19, 39, 79, .....?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "158",
+        "159",
+        "160",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern = Previous × 2 + 1</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next term in the sequence: B2, D4, F8, H16, ...?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "K32",
+        "J32",
+        "J24",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Letters:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the missing number in the following series: 7, 14, 30, 62, 126, ....?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "254",
+        "255",
+        "256",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Check the pattern between the numbers:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Time Magazine was started in the year_?",
+      "urdu": "ٹائم میگزین کا آغاز کس سال ہوا؟",
+      "options": [
+        "1921",
+        "1923",
+        "1924",
+        "1925"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#9c00ff\"></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the author of the book Politics Among Nations?",
+      "urdu": "کتاب پولیٹکس امونگ نیشنز کے مصنف کون ہیں؟",
+      "options": [
+        "Samuel Huntington",
+        "Henry Kissinger",
+        "Hans J. Morgenthau",
+        "Kenneth Waltz"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 15 workers can complete a job in 12 days, how many days will it take 10 workers to complete the same job?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15 days",
+        "18 days",
+        "21 days",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Work (in worker-days) = 15 × 12 = 180</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A pipeline project between Russia and Turkey is known as",
+      "urdu": "روس اور ترکی کے درمیان پائپ لائن منصوبہ کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "North-South",
+        "Black Sea Pipeline",
+        "Turkstream",
+        "Turko-Russia"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a class of 45 students, Ali is ranked 12th from the top. What is his rank from the bottom?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "32nd",
+        "33rd",
+        "34th",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Total number of students = 45  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A train travels 360 km in 4 hours. If its speed is increased by 20 km/h, how much time will it take to cover the same distance?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3.27 hours",
+        "3.5 hours",
+        "4 hours",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Speed = 360 ÷ 4 = 90 km/h</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A repeating sequence of colored balls is placed in the order: Red, Blue, Green, White. If this pattern continues, what color will the 38th ball be?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Red",
+        "Blue",
+        "Green",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The pattern is Red, Blue, Green, White.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sara is twice as old as her sister. If the sum of their ages is 36 years, what is Sara’s current age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "12 years",
+        "24 years",
+        "36 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Let sister’s age = x, Sara’s age = 2x</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A father is 36 years older than his son. In 6 years, the father’s age will be 3 times the age of his son. What is the father’s present age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "48 years",
+        "44 years",
+        "46 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Father is 36 years older than son. </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Charles de Gaulle Airport is situated in which country?",
+      "urdu": "شارل ڈی گال ہوائی اڈہ کس ملک میں واقع ہے؟",
+      "options": [
+        "London",
+        "Berlin",
+        "Paris",
+        "Rome"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#9c00ff\"><b>Additional information:</b></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A map uses a scale of 1:50,000. If the distance between two points on the map is 6 cm, what is the actual distance in kilometers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3 km",
+        "6 km",
+        "9 km",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Scale 1:50,000 means 1 cm = 50,000 cm.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country hosted the Conference on Dialogue of Asian Civilizations in May 2019?",
+      "urdu": "مئی دو ہزار انیس میں ایشیائی تہذیبوں کے مکالمے کی میزبانی کس ملک نے کی تھی؟",
+      "options": [
+        "India",
+        "China",
+        "Japan",
+        "South Korea"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Eight persons A, B, C, D, E, F, G and H are sitting around a circular table facing the centre. The following conditions are given: A is opposite E. C is opposite F. B sits immediately to the left of A. D sits second to the right of F. G is not an immediate neighbour of H. G sits immediately to the left of F. Who is immediately to the right of F?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "H",
+        "B",
+        "D",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Facing centre → Left = clockwise, Right = anti-clockwise</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A group of workers can complete a job in 6 days. After working together for 3 days, some workers leave. The remaining workers finish the job in 4.5 days. Assuming all workers have equal efficiency, for how many days’ work of the original workforce was lost due to the workers leaving?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1.5 days",
+        "2.5 days",
+        "3.5 days",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The original group of workers completes the job in 6 days, so together they do 1/6 of the job each day.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A toxic chemical damages the outer plasma membrane of a living cell, causing it to lose its selective permeability. Which of the following would be the most immediate consequence?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Disruption of osmosis and selective transport across the cell membrane",
+        "Complete cessation of protein synthesis",
+        "Permanent destruction of genetic material",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 15 workers can complete a job in 20 days, how many workers are required to complete the same work in 10 days, assuming all workers have equal efficiency?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "30",
+        "32",
+        "34",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the 39th Chief of Staff of the U.S. Army?",
+      "urdu": "امریکی فوج  کے 39ویں چیف آف اسٹاف کون تھے؟",
+      "options": [
+        "Raymond Odierno",
+        "James McConville",
+        "Mark Esper",
+        "Mark Alexander Milley"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A solution initially contains 92% acid. Water is added until the concentration decreases to 84%. If the final weight of the solution is 40 kg, what was the original weight of the solution?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "36.52 kg",
+        "37 kg",
+        "38 kg",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the original weight of the solution = x kg</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A committee of two persons is to be selected from fourteen persons, including four engineers. What is the probability that both selected persons are engineers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "6/91",
+        "5/91",
+        "4/91",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total persons = 14  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country was the host of FIFA 2018 World Cup?",
+      "urdu": "فیفا ورلڈ کپ 2018 کی میزبانی کس ملک نے کی تھی؟",
+      "options": [
+        "Brazil",
+        "Russia",
+        "Germany",
+        "France"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#00ff00\"></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A library has 46 shelves. Each shelf contains 28 books. On inventory day, 17 shelves were found to have books missing. From each of those shelves, exactly 9 books were missing. How many books are present in the library?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1135",
+        "1140",
+        "1145",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total books if nothing was missing:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a row are ten persons: A, B, C, D, E, F, G, H, I and J, not necessarily in the same order. The following information is known: B is somewhere to the left of F. Only two persons sit between B and F. D sits immediately to the left of H. E is not an immediate neighbour of B or F. J sits at one of the extreme ends of the row. Who sits exactly in the middle of the row?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "B",
+        "D",
+        "C",
+        "Cannot be determined"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">With 10 people, the middle positions are 5th and 6th.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Angkor Wat is the ancient city of which country?",
+      "urdu": "انگکور واٹ قدیم شہر کس ملک میں واقع ہے؟",
+      "options": [
+        "Cambodia",
+        "Congo",
+        "Zimbabwe",
+        "Zambia"
+      ],
+      "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a certain code language, “FUTURE = GVUVTG”. Following the same coding rule, how will “HONEST” be written?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "IPOFUV",
+        "IPPGTUU",
+        "IPQHUVV",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The consistent rule that gives both is: +1, +1, +1, +1, +2, +2 </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is next in the series: 2, 8, 18, 32, 50, 72?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "98",
+        "88",
+        "94",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Look at the differences or the formula:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did Keir Starmer resign as Prime Minister of the United Kingdom (UK)?",
+      "urdu": "کیئر اسٹارمر نے برطانیہ کے وزیرِ اعظم کے عہدے سے کب استعفیٰ دیا؟",
+      "options": [
+        "5 July 2024",
+        "15 July 2026",
+        "22 June 2026",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Chaudhry Rehmat Ali first used the word 'Pakistan' in his pamphlet 'now or never' in which year?",
+      "urdu": "چوہدری رحمت علی نے سب سے پہلے لفظ 'پاکستان' اپنے پمفلٹ 'اب یا کبھی نہیں' میں کس سال استعمال کیا؟",
+      "options": [
+        "1930",
+        "1928",
+        "1933",
+        "1931"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first Surah of the Holy Quran is ____?",
+      "urdu": "قرآن پاک کی پہلی سورت کون سی ہے؟",
+      "options": [
+        "Surah-e-Baqarah",
+        "Surah-e-Nisa",
+        "Surah-e-Nas",
+        "Surah-e-Fatiha"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why we use Alt + F shortcut keys on keyboard?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "File menu",
+        "Bold option",
+        "Edit option",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Capital of Russia is?",
+      "urdu": "روس کا دارالحکومت کونسا ہے؟",
+      "options": [
+        "Andorra la Vella",
+        "Vienna",
+        "Moscow",
+        "Sofia"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192);\">Russia</span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192);\"> </span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 176, 80);\">Capital</span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192);\"> is </span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: red;\">Moscow</span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: red;\">.</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ctrl + O shortcut key is used in MS Word to ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Save Document",
+        "Print Document",
+        "Close Document",
+        "Open Document"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did the People's Republic of China join the United Nations (UN)?",
+      "urdu": "عوامی جمہوریہ چین اقوام متحدہ میں کب شامل ہوئی؟",
+      "options": [
+        "10 August 1945",
+        "25 October 1971",
+        "1 January 1972",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Cabinet Mission announced their plan on which date?",
+      "urdu": "کیبنٹ مشن نے کس تاریخ کو اپنے منصوبے کا اعلان کیا؟",
+      "options": [
+        "8th April 1947",
+        "5th December 1947",
+        "15th January 1947",
+        "16th May 1946"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 13.3333px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-05-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "NATO stands for ______?",
+      "urdu": "نیٹو کا مطلب کیا ہے؟",
+      "options": [
+        "North Atlantic Treaty Organization",
+        "No Action Till Order",
+        "North Africa Treaty Organization",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Identify the plural word: Child, Section, Book, Cattle",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Child",
+        "Section",
+        "Book",
+        "Cattle"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Basit ____ in the morning.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sleeping",
+        "Wakes up",
+        "Slept",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "We have start ___ 10 ___ morning.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "At, in",
+        "On, at",
+        "In, on",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sits ______ me, read your book.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Between",
+        "Beside",
+        "Among",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-07-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
