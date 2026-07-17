@@ -3,10 +3,387 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-16T19:54:36.203446",
+    "fetched_at": "2026-07-17T03:58:36.107119",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "How is the period from 1947 to 1958 described in Pakistan's history?",
+      "urdu": "پاکستان کی تاریخ میں 1947 سے 1958 کے دور کو کس طرح بیان کیا جاتا ہے؟",
+      "options": [
+        "Political instability and constitutional crisis",
+        "Military rule",
+        "Economic boom",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of insulin and glucagon?",
+      "urdu": "انسولین اور گلوکاگون کا کیا کام ہے؟",
+      "options": [
+        "Help in blood clotting",
+        "Increase blood pressure",
+        "Regulate blood glucose (sugar) levels",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which battle did the Holy Prophet (ﷺ) participate before Prophethood?",
+      "urdu": "نبوت سے پہلے رسول اللہ ﷺ نے کس جنگ میں شرکت کی؟",
+      "options": [
+        "Fijar War (Harb al-Fijar)",
+        "Battle of Badr",
+        "Battle of Uhud",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many time the word ‘Quran’ is repeated in the Quran?",
+      "urdu": "قرآن مجید میں لفظ 'قرآن' کتنی بار دہرایا گیا ہے؟",
+      "options": [
+        "55",
+        "75",
+        "70",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 16-05-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which military operation did the United States launch in Afghanistan in 2001?",
+      "urdu": "امریکہ نے 2001 میں افغانستان میں کون سا فوجی آپریشن شروع کیا؟",
+      "options": [
+        "Operation Iraqi Freedom",
+        "Operation Desert Storm",
+        "Operation Enduring Freedom",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Capital of Australia is _____?",
+      "urdu": "آسٹریلیا کا دارالحکومت کونسا شہر ہے؟",
+      "options": [
+        "Sydeny",
+        "Canberra",
+        "Perth",
+        "Melbron"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "There are 9 blue balls, 7 yellow balls and 4 red balls. What is the probability of picking a red ball?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/5",
+        "1/6",
+        "1/7",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total number of balls = Blue + Yellow + Red  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the shape sequence: Triangle, Square, Pentagon, _______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Heptagon",
+        "Hexagon",
+        "Octagon",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Who has been awarded the Nobel Prize 2025 in literature?",
+      "urdu": "ادب کا نوبل انعام 2025 کس کو دیا گیا؟",
+      "options": [
+        "Laszlo Krasznahorkai",
+        "Han Kang",
+        "Jon Fosse",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What will be the next term in the pattern? 2, 4, 8, 16, ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "18",
+        "24",
+        "32",
+        "64"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which enzyme breaks down proteins into amino acids?",
+      "urdu": "کون سا خامرہ پروٹین کو امینو ایسڈز میں توڑتا ہے؟",
+      "options": [
+        "Protease",
+        "Amylase",
+        "Lipase",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A mixture contains Nitrogen, Sulphur and Phosphorus in the ratio of 5:3:2 with a total weight of 200 kg. If 100 kg of Nitrogen is added, what will be the new weight of Nitrogen?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "100 kg",
+        "200 kg",
+        "300 kg",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Given ratio = Nitrogen : Sulphur : Phosphorus = 5 : 3 : 2  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 20 labourers complete a piece of work in 8 days and after 4 days, 8 labourers leave the job, how much work has already been completed?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total work = Number of labourers x Total days  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "There are 5 red balls and 3 blue balls. What is the probability of picking one red ball?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5/6",
+        "5/7",
+        "5/8",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Total number of balls = Red balls + Blue balls  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the number series: 5, 9, 17, ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "23",
+        "33",
+        "35",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Check the difference between terms:  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Shortcut key to \"Save As\" file is?",
+      "urdu": "فائل کو \"سیو ایز\" کرنے کی شارٹ کٹ کی کیا ہے؟",
+      "options": [
+        "F4",
+        "F12",
+        "F1",
+        "F2"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Currency of Turkey?",
+      "urdu": "ترکی کی کرنسی کونسی ہے؟",
+      "options": [
+        "Lira",
+        "Dollar",
+        "Takka",
+        "Rupees"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is an endemic disease?",
+      "urdu": "مقامی بیماری  کیا ہوتی ہے؟",
+      "options": [
+        "A disease found worldwide",
+        "A disease generally prevalent in a particular area",
+        "A disease spread by insects",
+        "A genetic disease"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Meteorology is the science of?",
+      "urdu": "میٹرولوجی کس علم کا مطالعہ ہے؟",
+      "options": [
+        "Earthquakes",
+        "Weather",
+        "Oceans",
+        "Astronomy"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many carats is the best gold?",
+      "urdu": "بہترین سونا کتنے قیراط کا ہے؟",
+      "options": [
+        "18 Carat",
+        "20 Carat",
+        "24 Carat",
+        "28 Carat"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"><b>Additional information</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which gas is used in decoration lighting (advertising lights)?",
+      "urdu": "سجاوٹ کی روشنی میں کون سی گیس استعمال ہوتی ہے؟",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Neon"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The \"Eighth Amendment\" to the Constitution of Pakistan was passed in which year?",
+      "urdu": "پاکستان کے آئین میں آٹھویں ترمیم کس سال منظور ہوئی؟",
+      "options": [
+        "1984",
+        "1985",
+        "1986",
+        "1989"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Lady Finger Peak is located in which country?",
+      "urdu": "لیڈی فنگر پیک کس ملک میں واقع ہے؟",
+      "options": [
+        "China",
+        "Nepal",
+        "India",
+        "Pakistan"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><font color=\"#9c00ff\"><br/></font><br/><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The best source of vitamin C is _____? Butter, Potatoes, Orange, Meat",
+      "urdu": "وٹامن سی کا بہترین ذریعہ _____ ہے؟  مکھن ، آلو ، اورینج ، گوشت",
+      "options": [
+        "Meat",
+        "Potatoes",
+        "Oranges",
+        "Butter"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#ff0000\">Additional information </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which river does not flow on Pakistan land?",
+      "urdu": "پاکستان سرزمین پر کون سا ندی نہیں بہتی ہے؟",
+      "options": [
+        "Beas",
+        "Ravi",
+        "Sutlaj",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Volga is the main river of _____?",
+      "urdu": "وولگا _____ کا مرکزی دریا ہے؟",
+      "options": [
+        "Brazil",
+        "Russia",
+        "Spain",
+        "UK"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Satyagraha was started by?",
+      "urdu": "ستیہ گرہ  کا آغاز کس نے کیا تھا؟",
+      "options": [
+        "Jawaharlal Nehru",
+        "Muhammad Ali Jinnah",
+        "Subhas Chandra Bose",
+        "Mohandas Karamchand Gandhi"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which book out of the following has been written by Mr. Zulifqar Ali Bhutto?",
+      "urdu": "مندرجہ ذیل میں سے کون سی کتاب جناب ذوالفقار علی بھٹو نے لکھی ہے؟",
+      "options": [
+        "What was once East Pakistan",
+        "The Great Tragedy",
+        "Betrayal of East Pakistan",
+        "Witness to Surrender"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><b style=\"font-size: 13.3333px; white-space-collapse: preserve; font-family: Arial, sans-serif;\"><font color=\"#00ff00\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Silver Tanka, the basis of the modern rupee, was introduced by?",
+      "urdu": "چاندی کا ٹنکہ  جو جدید روپیہ کی بنیاد بنا، کس نے متعارف کروایا تھا؟",
+      "options": [
+        "Alauddin Khalji",
+        "Sher Shah Suri",
+        "Iltutmish (Altutmish)",
+        "Muhammad bin Tughlaq"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><font color=\"#ff9c00\"></font></span></p>",
+      "category": "all"
+    },
     {
       "q": "The Simon Commission included how many Indian members?",
       "urdu": "سائمن کمیشن میں کتنے بھارتی اراکین شامل تھے؟",
@@ -279,383 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a class of 45 students, Ali is ranked 12th from the top. What is his rank from the bottom?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "32nd",
-        "33rd",
-        "34th",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Total number of students = 45  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A train travels 360 km in 4 hours. If its speed is increased by 20 km/h, how much time will it take to cover the same distance?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3.27 hours",
-        "3.5 hours",
-        "4 hours",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Speed = 360 ÷ 4 = 90 km/h</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A repeating sequence of colored balls is placed in the order: Red, Blue, Green, White. If this pattern continues, what color will the 38th ball be?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Red",
-        "Blue",
-        "Green",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is Red, Blue, Green, White.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sara is twice as old as her sister. If the sum of their ages is 36 years, what is Sara’s current age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "12 years",
-        "24 years",
-        "36 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let sister’s age = x, Sara’s age = 2x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A father is 36 years older than his son. In 6 years, the father’s age will be 3 times the age of his son. What is the father’s present age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "48 years",
-        "44 years",
-        "46 years",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Father is 36 years older than son. </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Charles de Gaulle Airport is situated in which country?",
-      "urdu": "شارل ڈی گال ہوائی اڈہ کس ملک میں واقع ہے؟",
-      "options": [
-        "London",
-        "Berlin",
-        "Paris",
-        "Rome"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#9c00ff\"><b>Additional information:</b></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A map uses a scale of 1:50,000. If the distance between two points on the map is 6 cm, what is the actual distance in kilometers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3 km",
-        "6 km",
-        "9 km",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Scale 1:50,000 means 1 cm = 50,000 cm.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country hosted the Conference on Dialogue of Asian Civilizations in May 2019?",
-      "urdu": "مئی دو ہزار انیس میں ایشیائی تہذیبوں کے مکالمے کی میزبانی کس ملک نے کی تھی؟",
-      "options": [
-        "India",
-        "China",
-        "Japan",
-        "South Korea"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Eight persons A, B, C, D, E, F, G and H are sitting around a circular table facing the centre. The following conditions are given: A is opposite E. C is opposite F. B sits immediately to the left of A. D sits second to the right of F. G is not an immediate neighbour of H. G sits immediately to the left of F. Who is immediately to the right of F?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "H",
-        "B",
-        "D",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Facing centre → Left = clockwise, Right = anti-clockwise</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A group of workers can complete a job in 6 days. After working together for 3 days, some workers leave. The remaining workers finish the job in 4.5 days. Assuming all workers have equal efficiency, for how many days’ work of the original workforce was lost due to the workers leaving?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1.5 days",
-        "2.5 days",
-        "3.5 days",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The original group of workers completes the job in 6 days, so together they do 1/6 of the job each day.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A toxic chemical damages the outer plasma membrane of a living cell, causing it to lose its selective permeability. Which of the following would be the most immediate consequence?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Disruption of osmosis and selective transport across the cell membrane",
-        "Complete cessation of protein synthesis",
-        "Permanent destruction of genetic material",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 15 workers can complete a job in 20 days, how many workers are required to complete the same work in 10 days, assuming all workers have equal efficiency?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "30",
-        "32",
-        "34",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Given:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the 39th Chief of Staff of the U.S. Army?",
-      "urdu": "امریکی فوج  کے 39ویں چیف آف اسٹاف کون تھے؟",
-      "options": [
-        "Raymond Odierno",
-        "James McConville",
-        "Mark Esper",
-        "Mark Alexander Milley"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information </font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A solution initially contains 92% acid. Water is added until the concentration decreases to 84%. If the final weight of the solution is 40 kg, what was the original weight of the solution?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "36.52 kg",
-        "37 kg",
-        "38 kg",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the original weight of the solution = x kg</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A committee of two persons is to be selected from fourteen persons, including four engineers. What is the probability that both selected persons are engineers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "6/91",
-        "5/91",
-        "4/91",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total persons = 14  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country was the host of FIFA 2018 World Cup?",
-      "urdu": "فیفا ورلڈ کپ 2018 کی میزبانی کس ملک نے کی تھی؟",
-      "options": [
-        "Brazil",
-        "Russia",
-        "Germany",
-        "France"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA on 16-07-2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#00ff00\"></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A library has 46 shelves. Each shelf contains 28 books. On inventory day, 17 shelves were found to have books missing. From each of those shelves, exactly 9 books were missing. How many books are present in the library?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1135",
-        "1140",
-        "1145",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total books if nothing was missing:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a row are ten persons: A, B, C, D, E, F, G, H, I and J, not necessarily in the same order. The following information is known: B is somewhere to the left of F. Only two persons sit between B and F. D sits immediately to the left of H. E is not an immediate neighbour of B or F. J sits at one of the extreme ends of the row. Who sits exactly in the middle of the row?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "B",
-        "D",
-        "C",
-        "Cannot be determined"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">With 10 people, the middle positions are 5th and 6th.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Angkor Wat is the ancient city of which country?",
-      "urdu": "انگکور واٹ قدیم شہر کس ملک میں واقع ہے؟",
-      "options": [
-        "Cambodia",
-        "Congo",
-        "Zimbabwe",
-        "Zambia"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a certain code language, “FUTURE = GVUVTG”. Following the same coding rule, how will “HONEST” be written?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "IPOFUV",
-        "IPPGTUU",
-        "IPQHUVV",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The consistent rule that gives both is: +1, +1, +1, +1, +2, +2 </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is next in the series: 2, 8, 18, 32, 50, 72?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "98",
-        "88",
-        "94",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Look at the differences or the formula:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did Keir Starmer resign as Prime Minister of the United Kingdom (UK)?",
-      "urdu": "کیئر اسٹارمر نے برطانیہ کے وزیرِ اعظم کے عہدے سے کب استعفیٰ دیا؟",
-      "options": [
-        "5 July 2024",
-        "15 July 2026",
-        "22 June 2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Chaudhry Rehmat Ali first used the word 'Pakistan' in his pamphlet 'now or never' in which year?",
-      "urdu": "چوہدری رحمت علی نے سب سے پہلے لفظ 'پاکستان' اپنے پمفلٹ 'اب یا کبھی نہیں' میں کس سال استعمال کیا؟",
-      "options": [
-        "1930",
-        "1928",
-        "1933",
-        "1931"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first Surah of the Holy Quran is ____?",
-      "urdu": "قرآن پاک کی پہلی سورت کون سی ہے؟",
-      "options": [
-        "Surah-e-Baqarah",
-        "Surah-e-Nisa",
-        "Surah-e-Nas",
-        "Surah-e-Fatiha"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why we use Alt + F shortcut keys on keyboard?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "File menu",
-        "Bold option",
-        "Edit option",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Capital of Russia is?",
-      "urdu": "روس کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Andorra la Vella",
-        "Vienna",
-        "Moscow",
-        "Sofia"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192);\">Russia</span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192);\"> </span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 176, 80);\">Capital</span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: rgb(0, 112, 192);\"> is </span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: red;\">Moscow</span><span style=\"font-weight: bold; font-size: 12pt; line-height: 107%; color: red;\">.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ctrl + O shortcut key is used in MS Word to ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Save Document",
-        "Print Document",
-        "Close Document",
-        "Open Document"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the People's Republic of China join the United Nations (UN)?",
-      "urdu": "عوامی جمہوریہ چین اقوام متحدہ میں کب شامل ہوئی؟",
-      "options": [
-        "10 August 1945",
-        "25 October 1971",
-        "1 January 1972",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Cabinet Mission announced their plan on which date?",
-      "urdu": "کیبنٹ مشن نے کس تاریخ کو اپنے منصوبے کا اعلان کیا؟",
-      "options": [
-        "8th April 1947",
-        "5th December 1947",
-        "15th January 1947",
-        "16th May 1946"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 13.3333px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-05-2026</font></b></span></p>",
       "category": "all"
     }
   ]
