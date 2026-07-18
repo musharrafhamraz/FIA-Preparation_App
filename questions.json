@@ -3,303 +3,342 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-18T08:45:40.104687",
+    "fetched_at": "2026-07-18T14:18:29.862849",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Baglihar Dam is constructed by India on over which river?",
-      "urdu": "بگلیہار ڈیم بھارت نے کس دریا پر بنایا ہے؟",
+      "q": "Which protocol assigns IP address to the client connected in the internet?",
+      "urdu": "انٹرنیٹ میں منسلک کلائنٹ کو کون سا پروٹوکول آئی پی ایڈریس تفویض کرتا ہے؟",
       "options": [
-        "Sutlej",
-        "Ravi",
-        "Jhelum",
-        "Chenab"
+        "DHPP",
+        "DHHP",
+        "DHCP",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-01-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sorting algorithm has the best worst-case time complexity?",
+      "urdu": "بدترین حالت میں وقت کی پیچیدگی کے لحاظ سے سب سے بہتر ترتیب دینے کا طریقہ کون سا ہے؟",
+      "options": [
+        "Merge Sort",
+        "Bubble Sort",
+        "Selection Sort",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of Association of Southeast Asian Nations (ASEAN) located?",
+      "urdu": "آسیان کا صدر دفتر کس شہر میں واقع ہے؟",
+      "options": [
+        "Jakarta, Indonesia",
+        "Kuala Lumpur, Malaysia",
+        "Bangkok, Thailand",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of International Court of Justice (ICJ) located?",
+      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
+      "options": [
+        "New York",
+        "Washington",
+        "Geneva",
+        "Hague"
       ],
       "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\">Commissioning</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "Head/Barrage Trimmu is located on which rivers?",
-      "urdu": "ہیڈ ٹریمّو کس دریا کے سنگم پر واقع ہے؟",
+      "q": "The longest (largest) river in Pakistan is ____?",
+      "urdu": "پاکستان کا سب سے لمبا دریا کونسا ہے؟",
       "options": [
-        "Chenab & Jhelum",
-        "Indus & Kabul",
-        "Ravi & Chenab",
+        "Ravi",
+        "Indus",
+        "Chenab",
+        "Jhelum"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ff0000\" style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Additional information:</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which number of verses of surah Baqarah is the longest?",
+      "urdu": "سورۃ البقرہ کی کون سی آیت سب سے لمبی ہے؟",
+      "options": [
+        "282",
+        "298",
+        "286",
+        "290"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to the authentic Hadith, the deeds of a person are judged by?",
+      "urdu": "مستند حدیث کے مطابق انسان کے اعمال کا دار و مدار کس چیز پر ہے؟",
+      "options": [
+        "Wealth",
+        "Intentions (Niyyah)",
+        "Appearance",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which companion of the Holy Prophet is known as Tarjuman-ul-Quran (Interpreter/Translator of Qur’an)?",
+      "urdu": "حضور ﷺ کے کس صحابی کو ترجمان القرآن کہا جاتا ہے؟",
+      "options": [
+        "Hazrat Abdullah bin Abbas",
+        "Hazrat Abu Huraira",
+        "Hazrat Hanzala",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-06-2026</b></font></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-04-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the Capital of Ethiopia?",
-      "urdu": "ایتھوپیا کا دارالحکومت کیا ہے؟",
+      "q": "Idiom: \"A Pyrrhic victory\" means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Addis Ababa",
-        "Berlin",
-        "Libreville",
-        "Conakry"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Ethiopia</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height: 107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%; color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%; color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Addis Ababa</span><!--[if supportFields]><span style='font-size: 12.0pt;line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is called the 'Land of Golden Fiber'?",
-      "urdu": "کس ملک کو \"سنہری ریشے کی سرزمین\" کہا جاتا ہے؟",
-      "options": [
-        "Bangladesh",
-        "India",
-        "China",
+        "Victory at great cost",
+        "A complete defeat",
+        "A surprise victory",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which country is called Land of Thousand Lakes?",
-      "urdu": "کس ملک کو ہزار جھیلوں کی سرزمین کہا جاتا ہے؟",
+      "q": "Choose the correct spelling: Exhelarate, Exhilerate, Exhilarate, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Indonesia",
-        "Maldives",
-        "Finland",
-        "Iceland"
+        "Exhelarate",
+        "Exhilerate",
+        "Exhilarate",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of CPEC located?",
+      "urdu": "سی پیک کا ہیڈکوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Beijing, China",
+        "Karachi, Pakistan",
+        "Islamabad, Pakistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which function calculates the largest value in a set of numbers in Excel?",
+      "urdu": "ایم ایس ایکسل میں نمبروں کے مجموعے میں سب سے بڑی قدر معلوم کرنے کے لیے کون سا فنکشن استعمال ہوتا ہے؟",
+      "options": [
+        "Average",
+        "Count",
+        "Minimum",
+        "Maximum"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sign is used to create an absolute cell reference in MS Excel?",
+      "urdu": "ایم ایس ایکسل میں ایک مطلق سیل ریفرنس بنانے کے لیے کون سا نشان استعمال کیا جاتا ہے؟",
+      "options": [
+        "@",
+        "=",
+        "$",
+        "%"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the length of hockey ground side board?",
+      "urdu": "ہاکی کے میدان کی سائیڈ بورڈ کی لمبائی کتنی ہوتی ہے؟",
+      "options": [
+        "1.20 meter",
+        "1.50 cm",
+        "2.50 cm",
+        "3.5 cm"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last updated 18-07-2026 by NA</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How long is an IPv4?",
+      "urdu": "آئی پی ایڈریس ورژن 4 کی لمبائی کتنی ہوتی ہے؟",
+      "options": [
+        "64 bits",
+        "48 bits",
+        "32 bits",
+        "None of these"
       ],
       "correct": 2,
       "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which of the following is NOT a binary number? 101, 1011, 0, 101.10111",
-      "urdu": "مندرجہ ذیل میں سے کون سا بائنری نمبر نہیں ہے؟",
-      "options": [
-        "101",
-        "1011",
-        "0",
-        "101.10111"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Lungs are located / situated in the which cavity?",
-      "urdu": "پھیپھڑے جسم کی کس گہا میں واقع ہوتے ہیں؟",
-      "options": [
-        "Abdominal cavity",
-        "Pericardial cavity",
-        "Thoracic cavity",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Shah Waliullah was born in ______?",
-      "urdu": "شاہ ولی اللہ کب پیدا ہوئے؟",
-      "options": [
-        "1703",
-        "1704",
-        "1705",
-        "1706"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Injeel was revealed on which Prophet by Allah?",
-      "urdu": "انجیل اللہ کی طرف سے کس نبی پر نازل ہوئی؟",
-      "options": [
-        "Hazrat Moosa",
-        "Hazrat Ibrahim",
-        "Hazrat Isa",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bani Israel was the nation of which Prophet (AS), who is also known by the title Israel?",
-      "urdu": "بنی اسرائیل کس نبیؑ کی قوم تھی، جنہیں \"اسرائیل\" کے لقب سے بھی جانا جاتا ہے؟",
-      "options": [
-        "Hazrat Musa (AS)",
-        "Hazrat Yaqoob (AS)",
-        "Hazrat Yousuf (AS)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zam Zam is the spring of water that emerged from beneath the feet of Hazrat Ismaeel (A.S). What is the meaning of Zam Zam?",
-      "urdu": "حضرت اسماعیلؑ کے قدموں کے نیچے سے نکلنے والے چشمۂ زم زم کا مطلب کیا ہے؟",
-      "options": [
-        "To burst",
-        "To continue",
-        "To stop",
-        "To flow"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A white elephant means something ___?",
+      "q": "45 is equivalent _______ in binary system.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Very beautiful",
-        "Useless and costly",
-        "Looks ugly",
+        "(101101)2",
+        "(100101)2",
+        "(101111)2",
         "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">To convert 45 to binary:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Right to information is provided in Article ____ of the Constitution.",
+      "urdu": "آئین کے کس آرٹیکل میں معلومات تک رسائی کا حق دیا گیا ہے؟",
+      "options": [
+        "15",
+        "19A",
+        "12B",
+        "11"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Words are there in First Kalimah?",
-      "urdu": "پہلے کلمہ میں کتنے الفاظ ہیں؟",
-      "options": [
-        "7",
-        "6",
-        "8",
-        "9"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">breakdown</font><font color=\"#0000ff\"> of the </font><font color=\"#ff0000\">words</font><font color=\"#0000ff\"> is:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following Surah of the Holy Quran carries the injunction for utilization of Zakat?",
-      "urdu": "قرآن پاک کی درج ذیل سورتوں میں سے کون سی سورت زکوٰۃ کے استعمال کا حکم دتیی ہے؟",
-      "options": [
-        "Surah-e-Tauba",
-        "Surah-e-Baqra",
-        "Surah-e-Nisa",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"padding-top: 8px;\"><span style=\"font-size: 18.6667px;\"><b style=\"\"><font color=\"#0000ff\">The injunction for </font><font color=\"#ff0000\">utilization of Zakat</font><font color=\"#0000ff\"> is given in </font><font color=\"#ff0000\">Surah At-Tawbah</font><font color=\"#0000ff\"> (9:60).</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Team, Crew and Family are ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Proper nouns",
-        "Common nouns",
-        "Collective nouns",
-        "Material nouns"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "MS Word is which type of software?",
-      "urdu": "ایم ایس ورڈ کس قسم کا سافٹ ویئر ہے؟",
-      "options": [
-        "Spreadsheet software",
-        "Database software",
-        "Word processor",
-        "Presentation software"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which corner of the Word window has the zoom control?",
-      "urdu": "ایم ایس ورڈ ونڈو میں زوم کنٹرول کس کونے میں ہوتا ہے؟",
-      "options": [
-        "Lower-right",
-        "Upper-left",
-        "Lower-left",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which alignment choice spreads the data across the width of the cell?",
-      "urdu": "کون سا الائنمنٹ آپشن ڈیٹا کو سیل کی پوری چوڑائی میں پھیلا دیتا ہے؟",
-      "options": [
-        "Distributed",
-        "Center",
-        "Justify",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which of the following can be renamed?",
-      "urdu": "درج ذیل میں سے کس کا نام تبدیل کیا جا سکتا ہے؟",
+      "q": "When does the treaty of Hudaibiya take place?",
+      "urdu": "معاہدہ حدیبیہ کب ہوا؟",
       "options": [
-        "Worksheet",
-        "Workbook",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The SQL command used to retrieve data from a database table is?",
-      "urdu": "ڈیٹا بیس ٹیبل سے ڈیٹا حاصل کرنے کے لیے ایس کیو ایل کمانڈ کا استعمال کیا جاتا ہے؟",
-      "options": [
-        "SELECT",
-        "FETCH",
-        "RETRIEVE",
-        "None of these"
+        "6th Hijri",
+        "7th Hijri",
+        "8th Hijri",
+        "9th Hijri"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></span></p>",
       "category": "all"
     },
     {
-      "q": "What is the name of a device that converts digital signals to analog signals?",
-      "urdu": "ڈیجیٹل سگنلز کو اینالاگ سگنلز میں تبدیل کرنے والی ڈیوائس کا کیا نام ہے؟",
+      "q": "When was the Qibla changed from Masjid al-Aqsa to Masjid al-Haram?",
+      "urdu": "قبلہ کو مسجد اقصیٰ سے مسجد حرام میں کب تبدیل کیا گیا؟",
       "options": [
-        "Router",
-        "Switch",
-        "Modem",
-        "None of above"
+        "Shaban 1 AH",
+        "Ramadan 1 AH",
+        "Shaban 2 AH",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-05-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "Google Docs is an example of?",
-      "urdu": "گوگل ڈاکس کس کی مثال ہے؟",
+      "q": "Neither the principal nor the teachers ______ present.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Operating System",
-        "Web Browser",
-        "Cloud-based application",
-        "Antivirus Software"
+        "At",
+        "Was",
+        "Were",
+        "None of these"
       ],
       "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence: Each of the employees have submitted their file., Each of employees has submitted his file., Each of the employees has submitted his file., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Each of the employees have submitted their file.",
+        "Each of employees has submitted his file.",
+        "Each of the employees has submitted his file.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the Voice: People say that honesty is the best policy.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "It was said that honesty is the best policy",
+        "It is said that honesty is the best policy",
+        "It should be said that honesty is the best policy",
+        "It will be said that honesty is the best policy"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Arial Black\"><span style=\"font-size: 14.6667px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 18-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Prudent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Improper",
+        "Imprudent",
+        "Indefinite",
+        "None of these"
+      ],
+      "correct": 1,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Identify the word with a diphthong: Toil, Cut, Lip, Hat",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Where is the headquarters of International Monetary Fund (IMF) located?",
+      "urdu": "آئی ایم ایف کا ہیڈ کوارٹر کہاں واقع ہے؟",
       "options": [
-        "Toil",
-        "Cut",
-        "Lip",
+        "Paris",
+        "London",
+        "Geneva",
+        "Washington"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of INTERPOL located?",
+      "urdu": "انٹرپول کا ہیڈکوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Vienna, Austria",
+        "Lyon, France",
+        "London, UK",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which layer of the OSI model is responsible for end-to-end communication and error recovery?",
+      "urdu": "او ایس آئی ماڈل کی کون سی پرت اینڈ ٹو اینڈ کمیونیکیشن اور غلطیوں کی بحالی کی ذمہ دار ہے؟",
+      "options": [
+        "Transport Layer",
+        "Datalink Layer",
+        "Network Layer",
         "None of these"
       ],
       "correct": 0,
@@ -307,116 +346,103 @@
       "category": "all"
     },
     {
-      "q": "Thesaurus tool in MS Word is used for ______?",
-      "urdu": "ایم ایس ورڈ میں تھیسورس ٹول کس لیے استعمال کیا جاتا ہے؟",
+      "q": "When the well-known Rann of Kutch arbitration took place?",
+      "urdu": "رن آف کچھ کی مشہور ثالثی کب ہوئی؟",
       "options": [
-        "Grammar options",
-        "Spelling suggestions",
-        "Synonyms and Antonyms words",
+        "1958",
+        "1960",
+        "1965",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Before going soldiers blew _____ the bridge.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Redcliff award was given in which date and time?",
+      "urdu": "ریڈ کلف ایوارڈ کس تاریخ اور وقت میں دیا گیا تھا؟",
       "options": [
-        "Onto",
-        "Away",
-        "Up",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The “greeting” which begins the letter is known as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Conclusion",
-        "Signature",
-        "Heading",
-        "Salutation"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Illusory is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Dejected",
-        "Imaginary",
-        "Real",
-        "Chaotic"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Cosset is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Neglect",
-        "Like",
-        "Pamper",
-        "Pinch"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Verbosity is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Wordiness",
-        "Brevity",
-        "Silence",
+        "17th August 1947 5:00 PM",
+        "14th August 1947 5:00 PM",
+        "18th August 1947 5:00 PM",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-06-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The Synonym of Confer is?",
+      "q": "The Legal Framework Order (LFO) 2002 was issued by _____?",
+      "urdu": "لیگل فریم ورک آرڈر 2002 کس نے جاری کیا تھا؟",
+      "options": [
+        "Pervaiz Musharraf",
+        "Rafique Tarar",
+        "Khalid Mirage",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "CCI stands for _____?",
+      "urdu": "سی سی آئی کا مطلب کیا ہے؟",
+      "options": [
+        "Counsel of common inference",
+        "Council of Common Interests",
+        "Chronic Coronary Insufficiency",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: \"To throw in towel\" means?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Give",
-        "Discuss",
-        "Take",
+        "To correct a mistake",
+        "To accept defeat",
+        "To put in effort",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-06-2026</font></b></p>",
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "Where is the Headquarters of Amnesty International (AI) is located?",
-      "urdu": "ایمنسٹی انٹرنیشنل کا صدر دفتر کہاں واقع ہے؟",
+      "q": "The Synonym of Ideal is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Paris",
-        "London",
-        "Islamabad",
+        "Perfect",
+        "Bad",
+        "Weak",
         "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</b></font></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "White goods are?",
-      "urdu": "وائٹ گڈز کیا ہوتے ہیں؟",
+      "q": "The Antonym of Counsel is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Cosmetic Good",
-        "Durable Consumption Goods",
-        "Basic Raw Materials",
+        "Advise",
+        "Correct",
+        "Publish",
+        "Oppose"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which formula is used to find the number of numerical cells in a range of cells in Excel?",
+      "urdu": "ایکسل میں کسی رینج میں موجود عددی () سیلز کی تعداد معلوم کرنے کے لیے کون سا فارمولا استعمال ہوتا ہے؟",
+      "options": [
+        "COUNTIF",
+        "COUNT",
+        "COUNTA",
         "None of these"
       ],
       "correct": 1,
@@ -424,237 +450,211 @@
       "category": "all"
     },
     {
-      "q": "What is length of Suez Canal?",
-      "urdu": "نہر سویز کی لمبائی کتنی ہے؟",
+      "q": "Which of the following operating system is based on open-source software?",
+      "urdu": "مندرجہ ذیل میں سے کون سا آپریٹنگ سسٹم اوپن سورس سافٹ ویئر پر مبنی ہے؟",
       "options": [
-        "163.3 km",
-        "123.3 km",
-        "193.3 km",
-        "180.3 km"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 18.6667px; background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Last verified on 08-02-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was Operation Zarb-e-Azb launched/started?",
-      "urdu": "آپریشن ضربِ عضب کب شروع کیا گیا؟",
-      "options": [
-        "June 15, 2014",
-        "July 15, 2014",
-        "December 15, 2014",
-        "December 15, 2015"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which is the National Tree of Pakistan?",
-      "urdu": "پاکستان کا قومی درخت کون سا ہے؟",
-      "options": [
-        "Deodar",
-        "Neem",
-        "Peepul",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Rohri canal takes off/starts from _____?",
-      "urdu": "روہڑی کینال کہاں سے نکلتی / شروع ہوتی ہے؟",
-      "options": [
-        "Sukkur Barrage",
-        "Guddu Barrage",
-        "Kotri Barrage",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Main</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Canals</font><font color=\"#0000ff\"> of </font><font color=\"#ff0000\">Sukkur</font><font color=\"#0000ff\"> Barrage: </font><font color=\"#ff0000\">7</font><font color=\"#0000ff\"> canals</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "At the time of creation Pakistan, how many Radio Stations were there?",
-      "urdu": "پاکستان کے قیام کے وقت کتنے ریڈیو اسٹیشن تھے؟",
-      "options": [
-        "Five",
-        "Three",
-        "Two",
-        "Four"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"helvetica, arial, sans-serif\"><b style=\"\"><font color=\"#ff0000\">Total Radio Stations</font><font color=\"#0000ff\"> (1947): </font><font color=\"#ff0000\">3</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan has released Rs. 100 coin to celebrate 10 years of which project?",
-      "urdu": "پاکستان نے 100 روپے کا یادگاری سکہ کس منصوبے کے 10 سال مکمل ہونے پر جاری کیا؟",
-      "options": [
-        "Main Line 1 Project",
-        "Orange Line Metro Train",
-        "Karachi Circular Railwaym",
-        "China-Pakistan Economic Corridor (CPEC)"
+        "UNIX",
+        "Windows 2000",
+        "Windows NT",
+        "Linux"
       ],
       "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is extension of MS PowerPoint presentation of file in 2007 and later?",
+      "urdu": "سن 2007 اور بعد میں فائل کی ایم ایس پاورپوائنٹ پریزنٹیشن کی توسیع کیا ہے؟",
+      "options": [
+        ".pp",
+        ".xls",
+        ".pptx",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which data structure uses LIFO (Last In, First Out) principle?",
+      "urdu": "کون سا ڈیٹا اسٹرکچر لیفو اصول پر عمل کرتا ہے؟",
+      "options": [
+        "Stack",
+        "Queue",
+        "Linked List",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is an example of database designing software?",
+      "urdu": "درج ذیل میں سے کون سا ڈیٹا بیس ڈیزائننگ سافٹ ویئر کی مثال ہے؟",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "MS Access",
+        "None of these"
+      ],
+      "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which tanks are being produced in Pakistan?",
-      "urdu": "پاکستان میں کون سے ٹینک تیار کیے جا رہے ہیں؟",
+      "q": "Which of the following is a feature of a relational database?",
+      "urdu": "ریلیشنل ڈیٹا بیس کی کون سی خصوصیت ہے؟",
       "options": [
-        "Baktar",
-        "Humza",
-        "Al-Khalid",
-        "None of these"
+        "Stores data in tables with rows and columns",
+        "Only allows sequential storage of data",
+        "Does not support queries",
+        "Uses key-value pairs exclusively"
       ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</b></font></p>",
+      "correct": 0,
+      "explanation": "<p>\n</p>",
       "category": "all"
     },
     {
-      "q": "The Liberation Tigers of Tamil Eelam (LTTE) of Sri Lanka surrendered in ___ to end the prolonged Civil War.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "When Quaid-e-Azam presented his historical fourteen (14) points?",
+      "urdu": "قائداعظم نے اپنے تاریخی چودہ نکات کب پیش کیے؟",
       "options": [
-        "2008",
-        "2009",
-        "2010",
-        "2011"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sardar Abdur Rub Nishtar was the Governor of?",
-      "urdu": "سردار عبدالرب نشتر کس کے گورنر تھے؟",
-      "options": [
-        "KPK",
-        "Gilgit Baltistan",
-        "Sindh",
-        "Punjab"
+        "September 1921",
+        "March 1927",
+        "September 1928",
+        "March 1929"
       ],
       "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(132, 99, 0);\">Last updated 17 july 2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#295218\"></font></span></p>",
+      "explanation": "<p><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">          </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "The keys used to lock the keyboard ________________.",
-      "urdu": "کی بورڈ کو لاک کرنے کے لیے استعمال ہونے والی چابیاں",
+      "q": "The Nehru Report was published in _____?",
+      "urdu": "نہرو رپورٹ کب شائع ہوئی تھی؟",
       "options": [
-        "CTRL + Tab",
-        "CTRL + Alt",
-        "Windows logo + L",
-        "Ctrl+Alt+L"
+        "August 1928",
+        "September 1928",
+        "October 1928",
+        "November 1928"
       ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(132, 99, 0);\">Last updated 17 july 2026 by NA</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#9c00ff\"></font></b></span></p>",
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "Mark the coprimer number ?2, 4 3, 6 4, 110 2, 9",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which of the following is not a permanent member of UN Security Council?",
+      "urdu": "مندرجہ ذیل میں سے کون اقوام متحدہ کی سلامتی کونسل کا مستقل رکن نہیں ہے؟",
       "options": [
-        "2, 4",
-        "3, 6",
-        "4, 110",
-        "2,9"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Co-prime numbers have no common factor except 1.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Heiko Maas is Federal Minister  of which country?",
-      "urdu": "ہائیکو ماس کس ملک کے وفاقی وزیر تھے؟",
-      "options": [
-        "France",
+        "Russia",
+        "USA",
         "Germany",
-        "Italy",
-        "Romania"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Akram thought of a number, added 7, multiplied by 3, took away 5,divided by 4 to give an answer of 7. what was the starting number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
+        "China"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">(x+7) x 3-5/ 4 = 7 </font></p>",
+      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "Who is the heighest goal scoring player in the world in hocky match ?",
-      "urdu": "ہاکی کے مقابلوں میں دنیا کا سب سے زیادہ گول کرنے والا کھلاڑی کون ہے؟",
+      "q": "When Pakistan became a full member of the Shanghai Cooperation Organisation (SCO)?",
+      "urdu": "پاکستان شنگھائی تعاون تنظیم کا مکمل رکن کب بنا؟",
       "options": [
-        "Dhyan Chand",
-        "Munir Dar",
-        "Sami Ullah",
-        "Asad Malik"
+        "1st June 2017",
+        "5th June 2017",
+        "7th June 2017",
+        "9th June 2017"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did the Holy Prophet (SAW) performed Hajjatul-Wada (Farewell (Last) Sermon)?",
+      "urdu": "نبی پاک صلی اللہ علیہ وسلم نے حجۃ الوداع کب ادا کیا؟",
+      "options": [
+        "10 AH (632 AD)",
+        "9 AH (631 AD)",
+        "8 AH (630 AD)",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(132, 99, 0);\">Last updated 17 july 2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#7b3900\"></font></span></p>",
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</font></span></p>",
       "category": "all"
     },
     {
-      "q": "You should refrain ____ hurting her feelings.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "The Battle of Motah was fought against which empire?",
+      "urdu": "غزوۂ مؤتہ کس سلطنت کے خلاف لڑا گیا تھا؟",
       "options": [
-        "From",
-        "To",
-        "Over",
-        "Of"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">You should refrain </font><font color=\"#00ff00\">from </font><font color=\"#0000ff\">hurting her feelings.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the number series: 4, 6, 12, 14, 28, 30, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "62",
-        "60",
-        "64",
+        "Sasanian Empire",
+        "Byzantine (Roman) Empire",
+        "Persian Empire",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p data-end=\"204\" data-start=\"155\"><font color=\"#0000ff\">The pattern alternates between +2 and ×2:</font></p>",
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-04-2026</font></span></p>",
       "category": "all"
     },
     {
-      "q": "Correct the following sentence: My father work in a bank in Frankfurt.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the other name of Ghazwa-e-Khandaq (Trench)?",
+      "urdu": "غزوہ خندق کا دوسرا نام کیا ہے؟",
       "options": [
-        "My Father work hard in a Frankfurt bank",
-        "Does my Father work in a bank in Frankfurt",
-        "My father works in a bank in Fankfurt",
-        "Where does my father worked in a bank in Frankfurt?"
+        "Akhraj",
+        "Qanaqa",
+        "Kuraza",
+        "Ahzab"
       ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Rule:</font></span></p>",
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
       "category": "all"
     },
     {
-      "q": "Who gave Hajr e Aswad to Hazrat Ismaeel (A.S) during the rebuilding of the house of Allah?",
-      "urdu": "اللہ کے گھر (خانۂ کعبہ) کی تعمیرِ نو کے دوران حضرت اسماعیلؑ کو حجرِ اسود کس نے دیا تھا؟",
+      "q": "Which surah of the Holy Quran starts without Bismillah (Tasmia)?",
+      "urdu": "بسم اللہ کے بغیر کون سی سورت شروع ہوتی ہے؟",
       "options": [
-        "Hazrat Adam (A.S)",
-        "Hazrat Jibrael  (A.S)",
-        "Hazrat Ibrahim  (A.S)",
+        "Younas",
+        "Fatiha",
+        "Naml",
+        "Tauba"
+      ],
+      "correct": 3,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Abu Bakr (R.A) entrusted the work / responsibility of compilation of the Holy Quran to whom?",
+      "urdu": "حضرت ابو بکر صدیقؓ نے قرآن مجید کی جمع و تدوین کی ذمہ داری کس کو سونپی؟",
+      "options": [
+        "Hazrat Amir (R.A)",
+        "Hazrat Zaid bin Sabit (R.A)",
+        "Hazrat Usama bin Zaid (R.A)",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff9c00\">Additional information</font></span></p>",
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 25-06-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who among the following is not in Ashara-e-Mubashara?",
+      "urdu": "درج ذیل میں سے کون عشرہ مبشرہ میں شامل نہیں ہے؟",
+      "options": [
+        "Hazrat Umar (RA)",
+        "Hazrat Abu Obaida (RA)",
+        "Hazrat Abu Huraira (RA)",
+        "Hazrat Saeed bin Zaid (RA)"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">Ashara-e-Mubashara</font><font color=\"#0000ff\"> are the </font><font color=\"#ff0000\">ten Companions</font><font color=\"#0000ff\"> whom Prophet </font><font color=\"#ff0000\">Muhammad</font><font color=\"#0000ff\"> (ﷺ) gave the glad </font><font color=\"#ff0000\">tidings of Paradise</font><font color=\"#0000ff\">.</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Al-Sab'a Al-Masani means?",
+      "urdu": "السبع المثانی سے کیا مراد ہے؟",
+      "options": [
+        "Surah Fatiha",
+        "Surah yaseen",
+        "Surah Rahman",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</b></font></p>",
       "category": "all"
     }
   ]
