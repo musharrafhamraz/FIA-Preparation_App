@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-17T19:57:07.843511",
+    "fetched_at": "2026-07-18T03:53:34.713623",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which tanks are being produced in Pakistan?",
+      "urdu": "پاکستان میں کون سے ٹینک تیار کیے جا رہے ہیں؟",
+      "options": [
+        "Baktar",
+        "Humza",
+        "Al-Khalid",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "The Liberation Tigers of Tamil Eelam (LTTE) of Sri Lanka surrendered in ___ to end the prolonged Civil War.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -367,7 +380,7 @@
         "Balochistan",
         "None of these"
       ],
-      "correct": 2,
+      "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-07-2026</font></b></p>",
       "category": "all"
     },
@@ -642,19 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\">Additional information: </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "22 April is celebrated as",
-      "urdu": "بائیس اپریل کو منایا جاتا ہے۔",
-      "options": [
-        "World Scout Day",
-        "World water Day",
-        "World Earth Day",
-        "World Environment"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff9c00\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
       "category": "all"
     }
   ]
