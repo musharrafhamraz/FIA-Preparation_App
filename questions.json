@@ -3,43 +3,30 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-19T09:02:47.533009",
+    "fetched_at": "2026-07-19T14:21:56.317506",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which break is used to create different headers on different pages in MS Word?",
-      "urdu": "ایم ایس ورڈ میں مختلف صفحات پر مختلف ہیڈر بنانے کے لیے کون سا بریک استعمال کیا جاتا ہے؟",
+      "q": "The Universe is continuously ____?",
+      "urdu": "کائنات مسلسل کیا ہو رہی ہے؟",
       "options": [
-        "Page Break",
-        "Column Break",
-        "Section Break",
+        "Contracting",
+        "Expanding",
+        "Static",
         "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How can you insert a page break in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں پیج بریک کیسے ڈالا جاتا ہے؟",
-      "options": [
-        "Ctrl + Tab",
-        "Ctrl + Enter",
-        "Ctrl + Alt",
-        "Ctrl + Shift"
-      ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Ctrl + Shift + F6 = ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "The name of first Christian scholar, who testified to the Prophethood of Prophet Muhammad (PBUH) was?",
+      "urdu": "نبی کریم ﷺ کی نبوت کی گواہی دینے والے پہلے عیسائی عالم کا نام کیا تھا؟",
       "options": [
-        "Go to the previous open document window",
-        "Go to the internal storage",
-        "Go to the previous open Excel sheet",
+        "Warqa bin Naufil",
+        "Bahira",
+        "Najashi",
         "None of these"
       ],
       "correct": 0,
@@ -47,614 +34,627 @@
       "category": "all"
     },
     {
-      "q": "What is the function of Alt + Shift + F2 in MS Word?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is called the Father of Internet?",
+      "urdu": "انٹرنیٹ کا باپ کسے کہا جاتا ہے؟",
       "options": [
-        "Open Save As dialog box",
-        "Print the document",
-        "Open Find and Replace",
+        "Vint Cerf",
+        "Charles Babbage",
+        "Tim Berners Lee",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></b></span></p>",
       "category": "all"
     },
     {
-      "q": "Crimes committed using computers and the internet are called?",
-      "urdu": "کمپیوٹر اور انٹرنیٹ کے استعمال سے کیے جانے والے جرائم کو کیا کہتے ہیں؟",
+      "q": "Who is remembered as first Muslim (Islam) socialist?",
+      "urdu": "پہلا مسلم سوشلسٹ کس صحابی کو کہا جاتا ہے؟",
       "options": [
-        "Cybercrime",
-        "Crime against person",
-        "Violent crime",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Avenge is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Revenge",
-        "Forgive",
-        "Ignore",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Clarity is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Confusion",
-        "Brightness",
-        "Simplicity",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The WTO is famous for?",
-      "urdu": "ڈبلیو ٹی او کس چیز کے لیے مشہور ہے؟",
-      "options": [
-        "Military cooperation",
-        "International trade",
-        "Space research",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The G20 countries are best known for their?",
-      "urdu": "جی-20 ممالک کس چیز کے لیے سب سے زیادہ مشہور ہیں؟",
-      "options": [
-        "Democratic parties",
-        "Money power",
-        "Industrial, trade, and economic strength",
+        "Hazrat Miqsad (RA)",
+        "Hazrat Talha bin Usaid (RA)",
+        "Hazrat Abuzar Ghaffari (RA)",
         "None of these"
       ],
       "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Before accepting Islam, Hazrat Salman Al-Farsi (RA) belonged to which religion?",
+      "urdu": "حضرت سلمان فارسیؓ اسلام قبول کرنے سے پہلے کس مذہب سے تعلق رکھتے تھے؟",
+      "options": [
+        "Zoroastrianism (Fire Worship)",
+        "Christianity",
+        "Judaism",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The grant of salaries/allowances to Muslim soldiers were introduced by?",
+      "urdu": "مسلمان فوجیوں کے لیے تنخواہوں اور الاؤنسز کا نظام کس خلیفہ نے متعارف کرایا؟",
+      "options": [
+        "Caliph Umar (RA)",
+        "Caliph Usman (RA)",
+        "Caliph Abu Bakr (RA)",
+        "None of these"
+      ],
+      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the primary purpose of the UNO?",
-      "urdu": "اقوامِ متحدہ کا بنیادی مقصد کیا ہے؟",
+      "q": "Imam Ghazali was a famous _____?",
+      "urdu": "امام غزالی کس شعبے میں مشہور تھے؟",
       "options": [
-        "Promote world peace",
-        "Conduct global trade",
-        "Build military alliances",
+        "Muslim Philosopher and Mystic",
+        "Historian",
+        "Grammarian",
+        "Mathematician"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The earliest Biographer of Prophet Muhammad (PBUH) was?",
+      "urdu": "نبی کریم ﷺ کی سیرت لکھنے والے اولین سیرت نگار کون تھے؟",
+      "options": [
+        "Ibne Ishaq",
+        "Ibn Hisham",
+        "Al-Tabari",
         "None of these"
       ],
       "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Muqam-e-Mehmppd means?",
+      "urdu": "مقامِ محمود کا کیا مطلب ہے؟",
+      "options": [
+        "House of Peace",
+        "Station of Praise",
+        "Place of Worship",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align:justify\"><b style=\"font-size: 0.875rem;\"><span style=\"font-size: 12pt; line-height: 107%; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-06-2026</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The name of Prophet, whose age is mentioned in Quran is?",
+      "urdu": "قرآنِ مجید میں کس نبی کی عمر کا ذکر آیا ہے؟",
+      "options": [
+        "Prophet Ibrahim (a.s)",
+        "Prophet Nuh (a.s)",
+        "Prophet Isa (a.s)",
+        "Prophet Dawood (a.s)"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What do you understand by \"Bait ul Ateeq\"?",
+      "urdu": "بیت العتیق سے کیا مراد ہے؟",
+      "options": [
+        "The Holy Kaaba",
+        "Masjid-e-Nabvi",
+        "Bait-Ul-Muqadas",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The decisive battle of Qadsiya was fought by Muslims with?",
+      "urdu": "فیصلہ کن جنگِ قادسیہ مسلمانوں نے کس کے خلاف لڑی؟",
+      "options": [
+        "Persian Empire",
+        "Roman Empire",
+        "Russians",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Frailty is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Energy",
+        "Intensify",
+        "Strength",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "I do my work _____ carefully to make mistakes.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "So",
+        "Very",
+        "Too",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 19-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is very good _______ making stories.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "On",
+        "At",
+        "In",
+        "Towards"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is blind ______ one eye.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "Of",
+        "To",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sara shows great ability ________ Physics.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "At",
+        "On",
+        "About"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "You _____ very clear on the topic.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Consider",
+        "Sound",
+        "Express",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The man, _____ is standing next to Ali, is working in a Government department.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Who",
+        "Which",
+        "That",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Most of the guests arrived ______ car.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "With",
+        "By",
+        "From",
+        "In"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Gratitude is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Happiness",
+        "Blissfulness",
+        "Thankfulness",
+        "None of thesee"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Extremism is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Moderation",
+        "Terrorism",
+        "Irrationality",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of the Shift + F10 shortcut key in Microsoft Office (Excel/Access)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Close the active window",
+        "Display the Control menu",
+        "Display the shortcut menu",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the shortcut Key for justifying the text in MS Word?",
+      "urdu": "ایم ایس ورڈ میں متن کو جسٹیفائی کرنے کی شارٹ کٹ کی کیا ہے؟)",
+      "options": [
+        "Crtl + J",
+        "Crtl + I",
+        "Crtl + M",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "River Kabul joins Indus at?",
+      "urdu": "دریائے کابل کس مقام پر دریائے سندھ سے ملتا ہے؟",
+      "options": [
+        "Jhelum",
+        "Mianwali",
+        "Attock",
+        "Sahiwal"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "A universal donor has the blood group?",
+      "urdu": "یونیورسل ڈونر کا بلڈ گروپ کون سا ہوتا ہے؟",
+      "options": [
+        "B",
+        "O-",
+        "AB",
+        "A"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Currency of Bahrain?",
+      "urdu": "بحرین کی کرنسی کیا ہے؟",
+      "options": [
+        "Croatian",
+        "Czech Koruna",
+        "Bahraini Dinar",
+        "Danish Krone"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left: 0.5in;\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Bahrain</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Bahraini Dinar</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mesopotamia was the old name of?",
+      "urdu": "میسوپوٹیمیا کس کا پرانا نام ہے؟",
+      "options": [
+        "Turkey",
+        "Azerbaijan",
+        "Iraq",
+        "Afganistan"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who has been awarded the Nobel Prize in Peace for 2023?",
+      "urdu": "سن 2023 کا امن کا نوبل انعام کس کو دیا گیا؟",
+      "options": [
+        "Jon Fosse",
+        "Narges Mohammadi",
+        "Malala Yousafzai",
+        "Jane Addams"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the total area of the Islamabad Capital Territory (ICT)?",
+      "urdu": "اسلام آباد کیپیٹل ٹیریٹری کا کل رقبہ کتنا ہے؟",
+      "options": [
+        "796 km²",
+        "806 km²",
+        "906 km²",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "SCO stands for _____?",
+      "urdu": "ایس سی او کا مطلب کیا ہے؟",
+      "options": [
+        "Shanghai Cooperation Organisation",
+        "Shanghai Cooperation Organize",
+        "Shanghai Corporate  Organisation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The partition of Bengal was made in 1905, it was annulled in?",
+      "urdu": "بنگال کی تقسیم 1905 میں ہوئی تھی، اسے منسوخ  کب کیا گیا؟",
+      "options": [
+        "1909",
+        "1911",
+        "1908",
+        "1910"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the main basis of the Two-Nation Theory?",
+      "urdu": "دو قومی نظریہ کی بنیادی بنیاد کیا تھی؟",
+      "options": [
+        "Cultural, religious, and social differences between Hindus and Muslims",
+        "Economic differences",
+        "Geographical differences",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Gaddani Beach is famous for ____?",
+      "urdu": "گڈانی بیچ کس چیز کے لیے مشہور ہے؟",
+      "options": [
+        "Ship Making",
+        "Ship Breaking",
+        "Ship Building",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "K-2 is also known as?",
+      "urdu": "کے-ٹو کو اور کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "Godwin Austin",
+        "broad peak",
+        "Roshan peak",
+        "Sia Kingri"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-weight: bolder; font-size: 0.875rem;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-06-2026</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Prophet(s) gave the glad tidings (Basharat) of the coming of Prophet Muhammad (ﷺ)?",
+      "urdu": "حضرت محمد ﷺ کی آمد کی بشارت کس نبی نے دی؟",
+      "options": [
+        "Hazrat Musa (AS)",
+        "Hazrat Isa (AS)",
+        "Hazrat Sulaiman (AS)",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first female martyr (Shaheed) of Islam?",
+      "urdu": "اسلام کی پہلی خاتون شہید کون تھی؟",
+      "options": [
+        "Hazrat Nafeesa (RA)",
+        "Hazrat Sumaiyyah (RA)",
+        "Hazrat Umm-e-Aimen (RA)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Siha-e-Sitta are ______ books of Hadith.",
+      "urdu": "صحاحِ ستہ کتنی حدیث کی کتابوں پر مشتمل ہیں؟",
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Six"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\">Siha-e-Sitta</font><font color=\"#0000ff\"> (Sihah al-Sittah) are the </font><font color=\"#ff0000\">six authentic </font><font color=\"#0000ff\">books of </font><font color=\"#ff0000\">Hadith</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Sunni</font><font color=\"#0000ff\"> Islam.</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the Voice: \"The match was won by Pakistan.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pakistan won the match.",
+        "Pakistan wins the match.",
+        "Pakistan had won the match.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who gave the suggestion of digging the trench around the city of Madinah at the time of Battle of Khandaq?",
+      "urdu": "غزوۂ خندق کے موقع پر مدینہ کے گرد خندق کھودنے کا مشورہ کس نے دیا؟",
+      "options": [
+        "Hazrat Abu Bakr Siddique (R.A)",
+        "Hazrat  Umar (R.A)",
+        "Hazrat Salman Al-Farsi (R.A)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the tense of the sentence: \"She had completed the work when she arrived.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Past Simple Tense",
+        "Past Continuous Tense",
+        "Past Perfect Tense",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The girl bought a \"beautiful\" doll from the shop. The word beautiful is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Adverb",
+        "Pronoun",
+        "Adjective",
+        "Preposition"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Capricious is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Impetuous",
+        "Unpredictable",
+        "Awkward",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 19-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The capital of Egypt is _______?",
+      "urdu": "مصر کا دارالحکومت کونسا ہے؟",
+      "options": [
+        "Sana",
+        "Beirut",
+        "Damascus",
+        "Cairo"
+      ],
+      "correct": 3,
+      "explanation": "<p> </p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of United Nations Organization (UNO) located?",
+      "urdu": "اقوام متحدہ کا ہیڈ کوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Washington",
+        "Florida",
+        "New York",
+        "None of these"
+      ],
+      "correct": 2,
       "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" initial;=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Arial, sans-serif\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
       "category": "all"
     },
     {
-      "q": "In which year M.A.O College became University?",
-      "urdu": "ایم اے او کالج کس سال یونیورسٹی بنا؟",
+      "q": "The original/real name of the host of Holy Prophet Abu Ayub Ansari is _____?",
+      "urdu": "رسول اللہ ﷺ کے میزبان حضرت ابو ایوب انصاریؓ کا اصل نام کیا تھا؟",
       "options": [
-        "1918",
-        "1922",
-        "1924",
-        "1920"
+        "Zaid bin Sabit (R.A)",
+        "Qais bin Saad (R.A)",
+        "Hanzla bin Aamir (R.A)",
+        "Khalid bin Zaid (R.A)"
       ],
       "correct": 3,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the language of Prophet Isma'il (AS)?",
-      "urdu": "حضرت اسماعیلؑ کی زبان کون سی تھی؟",
-      "options": [
-        "Hebrew",
-        "Syriac",
-        "Arabic",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During the caliphate of which Caliph did Hazrat Khalid bin Walid (RA) march to Damascus?",
-      "urdu": "حضرت خالد بن ولیدؓ نے کس خلیفہ کے دورِ خلافت میں دمشق کی طرف پیش قدمی کی؟",
-      "options": [
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Umar (RA)",
-        "Hazrat Uthman (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Companion of the Holy Prophet SAW is known \"Bāb-ul-Ilm\" (The Gate / Gateway of Knowledge)?",
-      "urdu": "رسول اللہ ﷺ کے کس صحابی کو \"بابُ العلم\" کہا جاتا ہے؟",
-      "options": [
-        "Hazrat Usman R.A",
-        "Hazrat Umar R.A",
-        "Hazrat Ali R.A",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why was Hazrat Umar (RA) given the title \"Al-Farooq\"?",
-      "urdu": "حضرت عمرؓ کو \"الفاروق\" کا لقب کیوں دیا گیا؟",
-      "options": [
-        "Because he compiled the Holy Quran",
-        "Because he migrated first to Madinah",
-        "Because he distinguished between truth and falsehood",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was Meesaq-e-Madina (Constitution of Madinah) signed?",
-      "urdu": "میثاق مدینہ پر دستخط کب ہوئے؟",
-      "options": [
-        "622 AD (1 AH)",
-        "623 AD (2 AH)",
-        "624 AD (3 AH)",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "C in Roman Language stands for",
-      "urdu": "رومن زبان میں سی کا مطلب ہے۔",
+      "q": "What is the Capital of Azerbaijan?",
+      "urdu": "آذربائیجان کا دارالحکومت کیا ہے؟",
       "options": [
-        "50",
-        "100",
-        "150",
-        "200"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ffffff\" style=\"\"><span style=\"font-family: Helvetica; background-color: rgb(255, 0, 0);\"><b>Roman Number 51-100</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the tree whose wood is used for making cricket bats?",
-      "urdu": "اس درخت کا نام بتائیں جس کی لکڑی کرکٹ کے بلے بنانے میں استعمال ہوتی ہے؟",
-      "options": [
-        "Willow",
-        "Yellow",
-        "Teak",
-        "Sandal"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 16px;\"><font color=\"#9c00ff\" style=\"\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Cyprus is disputed between ______?",
-      "urdu": "قبرص ______ کے درمیان متنازعہ ہے؟",
-      "options": [
-        "Italy and Turkey",
-        "Greece and Italy",
-        "Greece and Turkey",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><font color=\"#ff0000\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who got independence in 1951 under the leadership of King Idris?",
-      "urdu": "شاہ ادریس  کی قیادت میں 1951ء میں کس ملک نے آزادی حاصل کی؟",
-      "options": [
-        "Saudi Arabia",
-        "Iraq",
-        "Libya",
-        "Yemen"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which game Clay court is used?",
-      "urdu": "کِلے کورٹ کس کھیل میں استعمال ہوتا ہے؟",
-      "options": [
-        "Volleyball",
-        "Table Tennis",
-        "Tennis",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff0000\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the British Prime Minister during the Round Table Conferences?",
-      "urdu": "گول میز کانفرنسوں کے دوران برطانوی وزیراعظم کون تھا؟",
-      "options": [
-        "Winston Churchill",
-        "Ramsay MacDonald",
-        "Stanley Baldwin",
-        "Neville Chamberlain"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><span style=\"font-size: 14px;\">Additional information</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Simplify (60)² = ? × 72",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3600",
-        "3528",
-        "0.02",
-        "50"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is the latest country to abolish monarchy?",
-      "urdu": "مندرجہ ذیل میں سے کون سا تازہ ترین ملک ہے جس نے بادشاہت کو ختم کیا؟",
-      "options": [
-        "Nepal",
-        "Laos",
-        "Afghanistan",
-        "Barbados"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Pakistan, Military Courts were established after a terrorist attack on Army Public School in Peshawar, in the year?",
-      "urdu": "پاکستان میں پشاور کے آرمی پبلک اسکول پر دہشت گرد حملے کے بعد فوجی عدالتیں  کس سال قائم کی گئیں؟",
-      "options": [
-        "2012",
-        "2013",
-        "2014",
-        "2015"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The book \"On the Origin of Species\" was written by?",
-      "urdu": "کتاب آن دی اوریجن آف اسپیشیز کس نے لکھی تھی؟",
-      "options": [
-        "Newton",
-        "Einstein",
-        "Darwin",
-        "Dickens"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Money paid by a government to reduce the costs of producing goods so that their prices can be kept low termed as?",
-      "urdu": "حکومت کی جانب سے اشیاء کی پیداوار کی لاگت کم کرنے کے لیے دی جانے والی مالی امداد، تاکہ ان کی قیمتیں کم رکھی جا سکیں، کیا کہلاتی ہے؟",
-      "options": [
-        "Value added services",
-        "Grant",
-        "Subsidy",
-        "Tax"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who from the following discovered America (Father of USA) in 1492?",
-      "urdu": "سن 1492 میں مندرجہ ذیل میں سے کس نے امریکہ کو دریافت کیا؟",
-      "options": [
-        "Captain Cook",
-        "Christopher Columbus",
-        "George Washington",
-        "Gulliver"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is considered the most heavily glaciated part of world outside the polar region?",
-      "urdu": "قطبی علاقوں کے علاوہ دنیا کا سب سے زیادہ برفانی علاقہ کون سا سمجھا جاتا ہے؟",
-      "options": [
-        "Himalayan Mountains",
-        "Alay Mountains",
-        "Karakoram Mountains",
-        "Hindukus Mountains"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first nuclear power plant in Pakistan was established at ____?",
-      "urdu": "پاکستان میں پہلا ایٹمی بجلی گھر ____ میں قائم کیا گیا؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Fasilabad"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-size: 1rem; font-weight: bolder; color: rgb(255, 0, 0);\">Additional information</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first female Governor of the Sindh province?",
-      "urdu": "صوبہ سندھ کی پہلی خاتون گورنر کون تھیں؟",
-      "options": [
-        "Begum Afiffa",
-        "Begum Hidayatullah",
-        "Begum Hameeda Haroon",
-        "Begum Ra'ana Liaquat Ali"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\"><b style=\"font-size: 14px;\">Additional information </b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "39 men complete a task in 29 days. How long you will take 29 men to do the task?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "29 days",
-        "39 days",
-        "39 days",
-        "59 days"
-      ],
-      "correct": 2,
-      "explanation": "<p><p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"42\" data-start=\"0\"><span style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">This is an</font><font color=\"#ff00ff\"> </font></span><strong data-end=\"33\" data-start=\"11\" style=\"font-size: 0.875rem;\"><font color=\"#ff00ff\">inverse proportion</font></strong><span style=\"color: rgb(0, 0, 255); font-size: 0.875rem;\"> problem.</span></p>\n<p data-end=\"56\" data-start=\"44\"><strong data-end=\"56\" data-start=\"44\"><font color=\"#0000ff\">Formula:</font></strong></p><font color=\"#00ff00\"><span class=\"katex-display\" style=\"\"><span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\" style=\"\"><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\" style=\"\"><span class=\"mord text\" style=\"\"><span class=\"mord\" style=\"\">Men</span></span><span class=\"msupsub\" style=\"\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\" style=\"\">×</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord text\"><span class=\"mord\">Days</span></span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">1</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord text\"><span class=\"mord\">Men</span></span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord text\"><span class=\"mord\">Days</span></span><span class=\"msupsub\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span></span></span></span></span></span>\n</font><p data-end=\"140\" data-start=\"134\"><font color=\"#0000ff\">Given:</font></p>\n<ul data-end=\"205\" data-start=\"141\">\n<li data-end=\"156\" data-section-id=\"1r06mvs\" data-start=\"141\"><font color=\"#9c00ff\">\r\nMen₁ = <strong data-end=\"156\" data-start=\"150\" style=\"\">39</strong>\n</font></li>\n<li data-end=\"173\" data-section-id=\"1k6ej2o\" data-start=\"157\"><font color=\"#9c00ff\">\r\nDays₁ = <strong data-end=\"173\" data-start=\"167\">29</strong>\n</font></li>\n<li data-end=\"189\" data-section-id=\"157sdy2\" data-start=\"174\"><font color=\"#9c00ff\">\r\nMen₂ = <strong data-end=\"189\" data-start=\"183\">29</strong>\n</font></li>\n<li data-end=\"205\" data-section-id=\"1i1cy6f\" data-start=\"190\"><font color=\"#9c00ff\">\r\nDays₂ = <strong data-end=\"205\" data-start=\"200\" style=\"\">?</strong></font></li></ul><span class=\"katex-display\" style=\"\"><span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\" style=\"\"><span class=\"base\" style=\"color: rgb(0, 0, 255);\"><span class=\"strut\"></span><span class=\"mord\">39</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"color: rgb(0, 0, 255);\"><span class=\"strut\"></span><span class=\"mord\">29</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><font color=\"#00ff00\"><span class=\"strut\"></span><span class=\"mord\" style=\"\">29</span><span class=\"mspace\"></span><span class=\"mbin\" style=\"\">×</span><span class=\"mspace\"></span></font></span><span class=\"base\" style=\"\"><font color=\"#00ff00\"><span class=\"strut\"></span></font><span class=\"mord mathnormal\" style=\"\"><font color=\"#00ff00\">x</font><br/></span></span></span></span></span><span class=\"katex-display\" style=\"\"><span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\" style=\"\"><span class=\"base\" style=\"color: rgb(0, 0, 255);\"><span class=\"strut\"></span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mrel\">=</span></span><span class=\"base\" style=\"\"><span class=\"mord\" style=\"color: rgb(0, 0, 255);\"><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"mord\"><span class=\"mord\">39</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span><span class=\"mord\">29/29</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\"></span><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><span class=\"mrel\" style=\"\">=</span><span class=\"mspace\"></span></font></span><span class=\"base\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\"><span class=\"strut\"></span><span class=\"mord\" style=\"\">39</span></font></span></span></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The reciprocal of bulk modulus is called?",
-      "urdu": "بلک موڈیولس  کے معکوس کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Shear Modulus",
-        "Young's Modulus",
-        "Hook's Modulus",
-        "Compressibility"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The capital of Nepal is _____?",
-      "urdu": "نیپال کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Thimphu",
-        "Kathmandu",
+        "Brussels",
         "Dhaka",
-        "Tokyo"
+        "Sofia",
+        "Baku"
       ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Additional information</font></b></span></p>",
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left: 0.5in;\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Azerbaijan</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Capital</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Baku</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"><o:p></o:p></span></b></p>",
       "category": "all"
     },
     {
-      "q": "One of the following is not a function of bones in the human body?",
-      "urdu": "مندرجہ ذیل میں سے ایک انسانی جسم میں ہڈیوں کا کام نہیں ہے؟",
+      "q": "Which Companion (RA) delivered the Holy Prophet's (ﷺ) letter to the ruler of Busra?",
+      "urdu": "رسول اللہ ﷺ کا خط حاکمِ بُصریٰ کے پاس کون سے صحابیؓ لے کر گئے؟",
       "options": [
-        "Protection of vital organs",
-        "Secretion of hormones",
-        "Place for muscle attachment",
+        "Hazrat Amr bin Omaiyah Ad-Damari (RA)",
+        "Hazrat Dihyah bin Khalifah Al-Kalbi (RA)",
+        "Hazrat Abd Allah ibn Huzafa (RA)",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Addition information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The student said, \"sir, I am not guilty \".",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The student said with respect that he was not guilty",
-        "The student pleaded that he was not guilty",
-        "The student pleaded with respect that he was not guilty",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Correct: </font></b><font color=\"#ff0000\"><span style=\"font-size: 14px;\"><b>The student pleaded that he was not guilty.</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which session of the Indian National Congress was held in Lahore?",
-      "urdu": "انڈین نیشنل کانگریس کا کون سا اجلاس لاہور میں منعقد ہوا؟",
-      "options": [
-        "1920",
-        "1929",
-        "1940",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mount Kinabalu is located in _____?",
-      "urdu": "ماؤنٹ کنابالو _____ میں واقع ہے؟",
-      "options": [
-        "Malaysia",
-        "Kenya",
-        "Botswana",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 14px;\"><b><font color=\"#0000ff\"></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The congress declared complete independence for india as its goal at its session held in?",
-      "urdu": "کانگریس نے مکمل آزادی  کو اپنا مقصد اپنے کس اجلاس میں قرار دیا تھا؟",
-      "options": [
-        "Calcutta in 1928",
-        "Allahabad in 1930",
-        "Lahore in 1929",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 18-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of FATF located?",
-      "urdu": "ایف اے ٹی ایف کا ہیڈکوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Geneva",
-        "Hague",
-        "Paris",
-        "Washington"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Currency of Japan is?",
-      "urdu": "جاپان کی کرنسی کیا ہے؟",
-      "options": [
-        "Dollar",
-        "Lira",
-        "Yen",
-        "Dinar"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"\"><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\">The </b><b style=\"font-size: 16px; font-family: Helvetica;\"><font color=\"#9c00ff\">currency of Japan</font></b><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\"> is the </b><b style=\"font-size: 16px; font-family: Helvetica;\"><font color=\"#ff0000\">yen</font></b><b style=\"font-size: 16px; color: rgb(0, 112, 192); font-family: Helvetica;\">.</b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is not landlocked country? Nepal, Myanmar, Bhutan, Switzerland",
-      "urdu": "مندرجہ ذیل میں سے کون سا ملک خشکی میں گھرا ہوا نہیں ہے؟",
-      "options": [
-        "Nepal",
-        "Myanmar",
-        "Bhutan",
-        "Switzerland"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In cybersecurity, which type of malware blocks a user's files and demands money to recover them?",
-      "urdu": "سائبر سیکیورٹی میں کون سا مالویئر صارف کی فائلوں کو لاک کرکے انہیں واپس حاصل کرنے کے لیے رقم کا مطالبہ کرتا ہے؟",
-      "options": [
-        "Ransomware",
-        "Virus",
-        "Worm",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the purpose of DNS (Domain Name System) in computer networks?",
-      "urdu": "کمپیوٹر نیٹ ورکس میں ڈی این ایس کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "Manage network hardware",
-        "Translate domain names to IP addresses",
-        "Establish secure connections",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which protocol assigns IP address to the client connected in the internet?",
-      "urdu": "انٹرنیٹ میں منسلک کلائنٹ کو کون سا پروٹوکول آئی پی ایڈریس تفویض کرتا ہے؟",
-      "options": [
-        "DHPP",
-        "DHHP",
-        "DHCP",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-01-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sorting algorithm has the best worst-case time complexity?",
-      "urdu": "بدترین حالت میں وقت کی پیچیدگی کے لحاظ سے سب سے بہتر ترتیب دینے کا طریقہ کون سا ہے؟",
-      "options": [
-        "Merge Sort",
-        "Bubble Sort",
-        "Selection Sort",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Where is the headquarters of Association of Southeast Asian Nations (ASEAN) located?",
-      "urdu": "آسیان کا صدر دفتر کس شہر میں واقع ہے؟",
+      "q": "For how many days did Prophet Muhammad (ﷺ) stay in Makkah after its conquest?",
+      "urdu": "فتح مکہ کے بعد رسول اللہ ﷺ مکہ میں کتنے دن قیام پذیر رہے؟",
       "options": [
-        "Jakarta, Indonesia",
-        "Kuala Lumpur, Malaysia",
-        "Bangkok, Thailand",
+        "10 days",
+        "15 days",
+        "5 days",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the Conquest of Makkah (Fatah Makkah), who commanded the Muslim army?",
+      "urdu": "فتح مکہ کے موقع پر مسلم فوج کی قیادت کس نے کی؟",
+      "options": [
+        "Prophet Muhammad (ﷺ)",
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Khalid bin Walid (RA)",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of International Court of Justice (ICJ) located?",
-      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
-      "options": [
-        "New York",
-        "Washington",
-        "Geneva",
-        "Hague"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The longest (largest) river in Pakistan is ____?",
-      "urdu": "پاکستان کا سب سے لمبا دریا کونسا ہے؟",
-      "options": [
-        "Ravi",
-        "Indus",
-        "Chenab",
-        "Jhelum"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ff0000\" style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Additional information:</span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which number of verses of surah Baqarah is the longest?",
-      "urdu": "سورۃ البقرہ کی کون سی آیت سب سے لمبی ہے؟",
-      "options": [
-        "282",
-        "298",
-        "286",
-        "290"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
       "category": "all"
     }
   ]
