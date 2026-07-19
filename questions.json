@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-19T14:21:56.317506",
+    "fetched_at": "2026-07-19T20:00:46.186778",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The household electric supply in Pakistan is 220V and _____ AC.",
+      "urdu": "پاکستان میں گھریلو بجلی کی سپلائی 220 وولٹ اور _____ اے سی ہوتی ہے۔",
+      "options": [
+        "50Hz",
+        "60Hz",
+        "70Hz",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Laws of genetics was firstly discovered by?",
+      "urdu": "وراثت کے قوانین سب سے پہلے کس نے دریافت کیے؟",
+      "options": [
+        "Einstein",
+        "Mendel",
+        "Newton",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Gases, which do not react with other elements, are collectively known as?",
+      "urdu": "وہ گیسیں جو دوسرے عناصر کے ساتھ ردِعمل نہیں کرتیں، انہیں اجتماعی طور پر کیا کہا جاتا ہے؟",
+      "options": [
+        "Noble Gases",
+        "Chlorides",
+        "Fluorides",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The matter can behave like particle and wave. This was first propounded by?",
+      "urdu": "مادہ ذرّے اور موج دونوں کی طرح برتاؤ کر سکتا ہے۔ یہ نظریہ سب سے پہلے کس نے پیش کیا؟",
+      "options": [
+        "Albert Einstein",
+        "Max Planck",
+        "De Broglie Hypothesis",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The Universe is continuously ____?",
       "urdu": "کائنات مسلسل کیا ہو رہی ہے؟",
@@ -603,58 +655,6 @@
       ],
       "correct": 3,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Capital of Azerbaijan?",
-      "urdu": "آذربائیجان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Brussels",
-        "Dhaka",
-        "Sofia",
-        "Baku"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left: 0.5in;\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Azerbaijan</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Capital</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Baku</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Companion (RA) delivered the Holy Prophet's (ﷺ) letter to the ruler of Busra?",
-      "urdu": "رسول اللہ ﷺ کا خط حاکمِ بُصریٰ کے پاس کون سے صحابیؓ لے کر گئے؟",
-      "options": [
-        "Hazrat Amr bin Omaiyah Ad-Damari (RA)",
-        "Hazrat Dihyah bin Khalifah Al-Kalbi (RA)",
-        "Hazrat Abd Allah ibn Huzafa (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "For how many days did Prophet Muhammad (ﷺ) stay in Makkah after its conquest?",
-      "urdu": "فتح مکہ کے بعد رسول اللہ ﷺ مکہ میں کتنے دن قیام پذیر رہے؟",
-      "options": [
-        "10 days",
-        "15 days",
-        "5 days",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During the Conquest of Makkah (Fatah Makkah), who commanded the Muslim army?",
-      "urdu": "فتح مکہ کے موقع پر مسلم فوج کی قیادت کس نے کی؟",
-      "options": [
-        "Prophet Muhammad (ﷺ)",
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Khalid bin Walid (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
       "category": "all"
     }
   ]
