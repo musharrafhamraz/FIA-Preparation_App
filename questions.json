@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-18T19:57:31.887079",
+    "fetched_at": "2026-07-19T04:22:12.020810",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Why was Hazrat Umar (RA) given the title \"Al-Farooq\"?",
+      "urdu": "حضرت عمرؓ کو \"الفاروق\" کا لقب کیوں دیا گیا؟",
+      "options": [
+        "Because he compiled the Holy Quran",
+        "Because he migrated first to Madinah",
+        "Because he distinguished between truth and falsehood",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Meesaq-e-Madina (Constitution of Madinah) signed?",
+      "urdu": "میثاق مدینہ پر دستخط کب ہوئے؟",
+      "options": [
+        "622 AD (1 AH)",
+        "623 AD (2 AH)",
+        "624 AD (3 AH)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "C in Roman Language stands for",
+      "urdu": "رومن زبان میں سی کا مطلب ہے۔",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ffffff\" style=\"\"><span style=\"font-family: Helvetica; background-color: rgb(255, 0, 0);\"><b>Roman Number 51-100</b></span></font></p>",
+      "category": "all"
+    },
     {
       "q": "Name the tree whose wood is used for making cricket bats?",
       "urdu": "اس درخت کا نام بتائیں جس کی لکڑی کرکٹ کے بلے بنانے میں استعمال ہوتی ہے؟",
@@ -616,45 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: Each of the employees have submitted their file., Each of employees has submitted his file., Each of the employees has submitted his file., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Each of the employees have submitted their file.",
-        "Each of employees has submitted his file.",
-        "Each of the employees has submitted his file.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the Voice: People say that honesty is the best policy.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "It was said that honesty is the best policy",
-        "It is said that honesty is the best policy",
-        "It should be said that honesty is the best policy",
-        "It will be said that honesty is the best policy"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Arial Black\"><span style=\"font-size: 14.6667px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 18-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Prudent is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Improper",
-        "Imprudent",
-        "Indefinite",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
       "category": "all"
     }
   ]
