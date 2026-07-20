@@ -3,10 +3,36 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-20T15:07:03.657942",
+    "fetched_at": "2026-07-20T20:15:27.940144",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who was the first woman to be appointed as permanent representative of Pakistan to the United Nations?",
+      "urdu": "اقوام متحدہ میں پاکستان کی پہلی خاتون مستقل مندوب کون مقرر ہوئیں؟",
+      "options": [
+        "Hinna Rabani Khar",
+        "Maleeha Lodhi",
+        "Tehmina Janjua",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of following is the smallest ocean of the world?",
+      "urdu": "مندرجہ ذیل میں سے دنیا کا سب سے چھوٹا سمندر کون سا ہے؟",
+      "options": [
+        "Pacific",
+        "Indian",
+        "Atlantic",
+        "Arctic"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Caspian Sea, Red Sea and Aral Sea are actually?",
       "urdu": "کیسپین سی، ریڈ سی اور ارال سی اصل میں کیا ہیں؟",
@@ -630,32 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Tashkent declaration between Pakistan and India was signed on?",
-      "urdu": "پاکستان اور بھارت کے درمیان معاہدہ تاشقند پر دستخط کب ہوئے؟",
-      "options": [
-        "10 January 1966",
-        "1 January 1965",
-        "15 January 1964",
-        "1 February 1966"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Signatories</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Council of Common Interests (CCI) must meet at least once every?",
-      "urdu": "کونسل آف کامن انٹرسٹس کا اجلاس کم از کم کتنے دن بعد لازماً ہونا چاہیے؟",
-      "options": [
-        "30 days",
-        "60 days",
-        "90 days",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 20-07-2026</b></span></font></p>",
       "category": "all"
     }
   ]
