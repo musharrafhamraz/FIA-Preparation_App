@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-19T20:00:46.186778",
+    "fetched_at": "2026-07-20T04:34:25.091105",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The household electric supply in Pakistan is 220V and _____ AC.",
-      "urdu": "پاکستان میں گھریلو بجلی کی سپلائی 220 وولٹ اور _____ اے سی ہوتی ہے۔",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "50Hz",
-        "60Hz",
-        "70Hz",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Laws of genetics was firstly discovered by?",
-      "urdu": "وراثت کے قوانین سب سے پہلے کس نے دریافت کیے؟",
-      "options": [
-        "Einstein",
-        "Mendel",
-        "Newton",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Gases, which do not react with other elements, are collectively known as?",
-      "urdu": "وہ گیسیں جو دوسرے عناصر کے ساتھ ردِعمل نہیں کرتیں، انہیں اجتماعی طور پر کیا کہا جاتا ہے؟",
-      "options": [
-        "Noble Gases",
-        "Chlorides",
-        "Fluorides",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The matter can behave like particle and wave. This was first propounded by?",
-      "urdu": "مادہ ذرّے اور موج دونوں کی طرح برتاؤ کر سکتا ہے۔ یہ نظریہ سب سے پہلے کس نے پیش کیا؟",
-      "options": [
-        "Albert Einstein",
-        "Max Planck",
-        "De Broglie Hypothesis",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "The Universe is continuously ____?",
-      "urdu": "کائنات مسلسل کیا ہو رہی ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Contracting",
-        "Expanding",
-        "Static",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The name of first Christian scholar, who testified to the Prophethood of Prophet Muhammad (PBUH) was?",
-      "urdu": "نبی کریم ﷺ کی نبوت کی گواہی دینے والے پہلے عیسائی عالم کا نام کیا تھا؟",
-      "options": [
-        "Warqa bin Naufil",
-        "Bahira",
-        "Najashi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is called the Father of Internet?",
-      "urdu": "انٹرنیٹ کا باپ کسے کہا جاتا ہے؟",
-      "options": [
-        "Vint Cerf",
-        "Charles Babbage",
-        "Tim Berners Lee",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is remembered as first Muslim (Islam) socialist?",
-      "urdu": "پہلا مسلم سوشلسٹ کس صحابی کو کہا جاتا ہے؟",
-      "options": [
-        "Hazrat Miqsad (RA)",
-        "Hazrat Talha bin Usaid (RA)",
-        "Hazrat Abuzar Ghaffari (RA)",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</b></font></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Before accepting Islam, Hazrat Salman Al-Farsi (RA) belonged to which religion?",
-      "urdu": "حضرت سلمان فارسیؓ اسلام قبول کرنے سے پہلے کس مذہب سے تعلق رکھتے تھے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Zoroastrianism (Fire Worship)",
-        "Christianity",
-        "Judaism",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The grant of salaries/allowances to Muslim soldiers were introduced by?",
-      "urdu": "مسلمان فوجیوں کے لیے تنخواہوں اور الاؤنسز کا نظام کس خلیفہ نے متعارف کرایا؟",
-      "options": [
-        "Caliph Umar (RA)",
-        "Caliph Usman (RA)",
-        "Caliph Abu Bakr (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Imam Ghazali was a famous _____?",
-      "urdu": "امام غزالی کس شعبے میں مشہور تھے؟",
-      "options": [
-        "Muslim Philosopher and Mystic",
-        "Historian",
-        "Grammarian",
-        "Mathematician"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The earliest Biographer of Prophet Muhammad (PBUH) was?",
-      "urdu": "نبی کریم ﷺ کی سیرت لکھنے والے اولین سیرت نگار کون تھے؟",
-      "options": [
-        "Ibne Ishaq",
-        "Ibn Hisham",
-        "Al-Tabari",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Muqam-e-Mehmppd means?",
-      "urdu": "مقامِ محمود کا کیا مطلب ہے؟",
-      "options": [
-        "House of Peace",
-        "Station of Praise",
-        "Place of Worship",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"text-align:justify\"><b style=\"font-size: 0.875rem;\"><span style=\"font-size: 12pt; line-height: 107%; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-06-2026</font></span></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "The name of Prophet, whose age is mentioned in Quran is?",
-      "urdu": "قرآنِ مجید میں کس نبی کی عمر کا ذکر آیا ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Prophet Ibrahim (a.s)",
-        "Prophet Nuh (a.s)",
-        "Prophet Isa (a.s)",
-        "Prophet Dawood (a.s)"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What do you understand by \"Bait ul Ateeq\"?",
-      "urdu": "بیت العتیق سے کیا مراد ہے؟",
-      "options": [
-        "The Holy Kaaba",
-        "Masjid-e-Nabvi",
-        "Bait-Ul-Muqadas",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The decisive battle of Qadsiya was fought by Muslims with?",
-      "urdu": "فیصلہ کن جنگِ قادسیہ مسلمانوں نے کس کے خلاف لڑی؟",
-      "options": [
-        "Persian Empire",
-        "Roman Empire",
-        "Russians",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Frailty is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Energy",
-        "Intensify",
-        "Strength",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "I do my work _____ carefully to make mistakes.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "So",
-        "Very",
-        "Too",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 19-07-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is very good _______ making stories.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "On",
-        "At",
-        "In",
-        "Towards"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is blind ______ one eye.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In",
-        "Of",
-        "To",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sara shows great ability ________ Physics.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In",
-        "At",
-        "On",
-        "About"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "You _____ very clear on the topic.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Consider",
-        "Sound",
-        "Express",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The man, _____ is standing next to Ali, is working in a Government department.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Who",
-        "Which",
-        "That",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Most of the guests arrived ______ car.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "With",
-        "By",
-        "From",
-        "In"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Gratitude is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Happiness",
-        "Blissfulness",
-        "Thankfulness",
-        "None of thesee"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Extremism is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Moderation",
-        "Terrorism",
-        "Irrationality",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of the Shift + F10 shortcut key in Microsoft Office (Excel/Access)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Close the active window",
-        "Display the Control menu",
-        "Display the shortcut menu",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut Key for justifying the text in MS Word?",
-      "urdu": "ایم ایس ورڈ میں متن کو جسٹیفائی کرنے کی شارٹ کٹ کی کیا ہے؟)",
-      "options": [
-        "Crtl + J",
-        "Crtl + I",
-        "Crtl + M",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "River Kabul joins Indus at?",
-      "urdu": "دریائے کابل کس مقام پر دریائے سندھ سے ملتا ہے؟",
-      "options": [
-        "Jhelum",
-        "Mianwali",
-        "Attock",
-        "Sahiwal"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "A universal donor has the blood group?",
-      "urdu": "یونیورسل ڈونر کا بلڈ گروپ کون سا ہوتا ہے؟",
-      "options": [
-        "B",
-        "O-",
-        "AB",
-        "A"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Currency of Bahrain?",
-      "urdu": "بحرین کی کرنسی کیا ہے؟",
-      "options": [
-        "Croatian",
-        "Czech Koruna",
-        "Bahraini Dinar",
-        "Danish Krone"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left: 0.5in;\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Bahrain</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Bahraini Dinar</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mesopotamia was the old name of?",
-      "urdu": "میسوپوٹیمیا کس کا پرانا نام ہے؟",
-      "options": [
-        "Turkey",
-        "Azerbaijan",
-        "Iraq",
-        "Afganistan"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who has been awarded the Nobel Prize in Peace for 2023?",
-      "urdu": "سن 2023 کا امن کا نوبل انعام کس کو دیا گیا؟",
-      "options": [
-        "Jon Fosse",
-        "Narges Mohammadi",
-        "Malala Yousafzai",
-        "Jane Addams"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the total area of the Islamabad Capital Territory (ICT)?",
-      "urdu": "اسلام آباد کیپیٹل ٹیریٹری کا کل رقبہ کتنا ہے؟",
-      "options": [
-        "796 km²",
-        "806 km²",
-        "906 km²",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "SCO stands for _____?",
-      "urdu": "ایس سی او کا مطلب کیا ہے؟",
-      "options": [
-        "Shanghai Cooperation Organisation",
-        "Shanghai Cooperation Organize",
-        "Shanghai Corporate  Organisation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The partition of Bengal was made in 1905, it was annulled in?",
-      "urdu": "بنگال کی تقسیم 1905 میں ہوئی تھی، اسے منسوخ  کب کیا گیا؟",
-      "options": [
-        "1909",
-        "1911",
-        "1908",
-        "1910"
-      ],
-      "correct": 1,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main basis of the Two-Nation Theory?",
-      "urdu": "دو قومی نظریہ کی بنیادی بنیاد کیا تھی؟",
-      "options": [
-        "Cultural, religious, and social differences between Hindus and Muslims",
-        "Economic differences",
-        "Geographical differences",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Gaddani Beach is famous for ____?",
-      "urdu": "گڈانی بیچ کس چیز کے لیے مشہور ہے؟",
-      "options": [
-        "Ship Making",
-        "Ship Breaking",
-        "Ship Building",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "K-2 is also known as?",
-      "urdu": "کے-ٹو کو اور کس نام سے جانا جاتا ہے؟",
-      "options": [
-        "Godwin Austin",
-        "broad peak",
-        "Roshan peak",
-        "Sia Kingri"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-weight: bolder; font-size: 0.875rem;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-06-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Prophet(s) gave the glad tidings (Basharat) of the coming of Prophet Muhammad (ﷺ)?",
-      "urdu": "حضرت محمد ﷺ کی آمد کی بشارت کس نبی نے دی؟",
-      "options": [
-        "Hazrat Musa (AS)",
-        "Hazrat Isa (AS)",
-        "Hazrat Sulaiman (AS)",
-        "Both A and B"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Who was the first female martyr (Shaheed) of Islam?",
-      "urdu": "اسلام کی پہلی خاتون شہید کون تھی؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Hazrat Nafeesa (RA)",
-        "Hazrat Sumaiyyah (RA)",
-        "Hazrat Umm-e-Aimen (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Siha-e-Sitta are ______ books of Hadith.",
-      "urdu": "صحاحِ ستہ کتنی حدیث کی کتابوں پر مشتمل ہیں؟",
-      "options": [
-        "Two",
-        "Three",
-        "Five",
-        "Six"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\">Siha-e-Sitta</font><font color=\"#0000ff\"> (Sihah al-Sittah) are the </font><font color=\"#ff0000\">six authentic </font><font color=\"#0000ff\">books of </font><font color=\"#ff0000\">Hadith</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Sunni</font><font color=\"#0000ff\"> Islam.</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the Voice: \"The match was won by Pakistan.\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Pakistan won the match.",
-        "Pakistan wins the match.",
-        "Pakistan had won the match.",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who gave the suggestion of digging the trench around the city of Madinah at the time of Battle of Khandaq?",
-      "urdu": "غزوۂ خندق کے موقع پر مدینہ کے گرد خندق کھودنے کا مشورہ کس نے دیا؟",
-      "options": [
-        "Hazrat Abu Bakr Siddique (R.A)",
-        "Hazrat  Umar (R.A)",
-        "Hazrat Salman Al-Farsi (R.A)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the tense of the sentence: \"She had completed the work when she arrived.\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Past Simple Tense",
-        "Past Continuous Tense",
-        "Past Perfect Tense",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The girl bought a \"beautiful\" doll from the shop. The word beautiful is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Adverb",
-        "Pronoun",
-        "Adjective",
-        "Preposition"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Capricious is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Impetuous",
-        "Unpredictable",
-        "Awkward",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 19-07-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The capital of Egypt is _______?",
-      "urdu": "مصر کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Sana",
-        "Beirut",
-        "Damascus",
-        "Cairo"
-      ],
-      "correct": 3,
-      "explanation": "<p> </p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of United Nations Organization (UNO) located?",
-      "urdu": "اقوام متحدہ کا ہیڈ کوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Washington",
-        "Florida",
-        "New York",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" initial;=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Arial, sans-serif\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The original/real name of the host of Holy Prophet Abu Ayub Ansari is _____?",
-      "urdu": "رسول اللہ ﷺ کے میزبان حضرت ابو ایوب انصاریؓ کا اصل نام کیا تھا؟",
-      "options": [
-        "Zaid bin Sabit (R.A)",
-        "Qais bin Saad (R.A)",
-        "Hanzla bin Aamir (R.A)",
-        "Khalid bin Zaid (R.A)"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
