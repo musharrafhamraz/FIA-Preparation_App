@@ -3,10 +3,440 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-21T04:14:04.444583",
+    "fetched_at": "2026-07-21T09:24:12.715220",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The moral judgment has tended to deal with the inner causes of action rather than the outward?",
+      "urdu": "اخلاقی فیصلہ ظاہری ______ کے بجائے عمل کے اندرونی اسباب (نیت) سے زیادہ تعلق رکھتا ہے؟",
+      "options": [
+        "Actions",
+        "Conducts",
+        "Duties",
+        "Righter"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most popular (populous) city in the world is?",
+      "urdu": "دنیا کا سب سے زیادہ آبادی والا شہر کون سا ہے؟",
+      "options": [
+        "Beijing",
+        "Jakarta",
+        "Shanghai",
+        "Tokyo"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The level at which an individual judges 'what is right and what is wrong' has been called the level of?",
+      "urdu": "وہ سطح جس پر ایک فرد صحیح اور غلط کا فیصلہ کرتا ہے، اسے کیا کہا جاتا ہے؟",
+      "options": [
+        "Consciousness",
+        "Morality",
+        "Conduct",
+        "Ethics"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A normative ethics deal with 'what is right and wrong', also known as?",
+      "urdu": "معیاری اخلاقیات جو \"صحیح اور غلط\" سے متعلق ہے، اسے اور کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "Sociology",
+        "Psychological Morality",
+        "Moral theory",
+        "Philosophical morality"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which year MAO College became University?",
+      "urdu": "ایم اے او کالج کس سال یونیورسٹی بنا؟",
+      "options": [
+        "1918",
+        "1922",
+        "1924",
+        "1920"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is defined as the normative science of conduct, and conduct is a collective name for voluntary action?",
+      "urdu": "کون سا علم انسانی رویّے (رضاکارانہ اعمال) کے اصولوں کا مطالعہ کرتا ہے؟",
+      "options": [
+        "Religion",
+        "Ethics",
+        "Sociology",
+        "Literature"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the age of the Holy Prophet Muhammad (ﷺ) when he received the first Wahi (Revelation)?",
+      "urdu": "رسول اللہ ﷺ کی عمر پہلی وحی نازل ہونے کے وقت کتنی تھی؟",
+      "options": [
+        "35 years 6 months",
+        "40 years 6 months",
+        "42 years 6 months",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; color: rgb(33, 37, 41); margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "After Hijrat (migration) from Mecca to Madina, the Holy Prophet Muhammad’s (PBUH) camel kneeled at the door of?",
+      "urdu": "ہجرت کے بعد مکہ سے مدینہ پہنچنے پر رسول اللہ ﷺ کی اونٹنی کس صحابی کے دروازے پر بیٹھی؟",
+      "options": [
+        "Hazrat Amaar Yasir",
+        "Hazrat Jaffar",
+        "Hazrat Ayub Ansari",
+        "Hazrat Jabbar Ansari"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Process of costing is relevant to _______?",
+      "urdu": "پروسیس کاسٹنگ کس صنعت سے متعلق ہے؟",
+      "options": [
+        "Job order cost-oriented projects",
+        "Cement Industry",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The nation of which Prophet was exterminated through the scourge of floods?",
+      "urdu": "کس نبی کی قوم کو سیلاب کے عذاب کے ذریعے ہلاک کیا گیا؟",
+      "options": [
+        "Hazrat Nooh (A.S)",
+        "Hazrat Yaqoob (A.S)",
+        "Hazrat Dawood (A.S)",
+        "Hazrat Uzair (A.S)"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The approximate value of the speed of sound in air at 0°C temperature ______?",
+      "urdu": "صفر سینٹی گریڈ درجہ حرارت پر ہوا میں آواز کی رفتار کی تقریباً قیمت کتنی ہے؟",
+      "options": [
+        "332 m/s",
+        "34 m/s",
+        "17 m/s",
+        "680 m/s"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "FATF stands for?",
+      "urdu": "ایف اے ٹی ایف کا مطلب کیا ہے؟",
+      "options": [
+        "Financial Action Task Force",
+        "Financial Action Tast Force",
+        "Financial Action Task Free",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Audit of a bank is generally conducted through?",
+      "urdu": "بینک کا آڈٹ عام طور پر کس طریقے سے کیا جاتا ہے؟",
+      "options": [
+        "Routine checking",
+        "Couching",
+        "Balance sheet audit",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-97-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Stratified audit sample means ______?",
+      "urdu": "اسٹریٹائڈ آڈٹ نمونے کا مطلب کیا ہے؟",
+      "options": [
+        "Items carefully selected from each group",
+        "Randomly selected items from audit",
+        "Purposively selected items for audit",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is in the north west of Pakistan?",
+      "urdu": "پاکستان کے شمال مغرب میں کون سا ملک واقع ہ",
+      "options": [
+        "China",
+        "India",
+        "Iran",
+        "Afghanistan"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Proper is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Improper",
+        "Correct",
+        "Suitable",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Throw is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Toss",
+        "Catch",
+        "Jump",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Convertible is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Changeable",
+        "Permanent",
+        "Fixed",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Cash budget excludes which of the following?",
+      "urdu": "کیش بجٹ میں درج ذیل میں سے کس چیز کو شامل نہیں کیا جاتا؟",
+      "options": [
+        "Cash sales",
+        "Non-cash items",
+        "Cash payments",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How is the Quick Ratio (Acid-Test Ratio) calculated?",
+      "urdu": "کوئیک ریشو کا فارمولا کیا ہے؟",
+      "options": [
+        "Quick Assets ÷ Current Liabilities",
+        "Total Assets ÷ Total Liabilities",
+        "Current Assets ÷ Current Liabilities",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is known as the Father of Double-Entry Bookkeeping?",
+      "urdu": "ڈبل انٹری بک کیپنگ کا بانی کسے کہا جاتا ہے؟",
+      "options": [
+        "John Maynard Keynes",
+        "Adam Smith",
+        "Luca Pacioli",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Forge is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Quiet",
+        "Continue",
+        "Fake",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bullfighting is a famous sport of?",
+      "urdu": "بیلوں کی لڑائی کس ملک کا مشہور کھیل ہے؟",
+      "options": [
+        "Brazil",
+        "Italy",
+        "Spain",
+        "Germany"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Syed-ul-Shuhada (Leader of the Martyrs) title was given to which Sahabi?",
+      "urdu": "سید الشہداء کا لقب کس صحابی کو دیا گیا؟",
+      "options": [
+        "Hamza (R.A)",
+        "Umar (R.A)",
+        "Usman (R.A)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the middle layer of the Earth called?",
+      "urdu": "زمین کی درمیانی تہہ کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Crust",
+        "Mantle",
+        "Core",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the smallest unit of memory/data in computer?",
+      "urdu": "کمپیوٹر میں یادداشت / ڈیٹا کی سب سے چھوٹی اکائی کون سی ہے؟",
+      "options": [
+        "Bit",
+        "Byte",
+        "Mega bite",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 'Statue of Liberty' was a gift to the United States on the occasion of its independence. Which country gifted it?",
+      "urdu": "اسٹیچو آف لبرٹی امریکہ کو اس کی آزادی کے موقع پر تحفہ تھا۔ کس ملک نے تحفہ دیا؟",
+      "options": [
+        "Germany",
+        "UK",
+        "France",
+        "Japan"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last Updated on 13-01-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many vertebrae / bones are present in the human vertebral column (spine)?",
+      "urdu": "انسانی ریڑھ کی ہڈی میں کتنی مہریں ہوتی ہیں؟",
+      "options": [
+        "25",
+        "33",
+        "44",
+        "39"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which planet is known as Morning and Evening Star?",
+      "urdu": "کون سا سیارہ صبح اور شام کا ستارہ کہلاتا ہے؟",
+      "options": [
+        "Mercury",
+        "Venus",
+        "Jupiter",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A unit of length equal to the average distance between the earth and sun is called?",
+      "urdu": "زمین اور سورج کے درمیان اوسط فاصلے کے برابر لمبائی کی اکائی کو کیا کہتے ہیں؟",
+      "options": [
+        "Light year",
+        "Parallax",
+        "Parsec",
+        "Astronomical unit",
+        "None of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 21-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest Artery in human body is called?",
+      "urdu": "انسانی جسم کی سب سے بڑی شریان کون سی ہے؟",
+      "options": [
+        "Pulmonary artery",
+        "Aorta",
+        "Carotid artery",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first Punjabi poet?",
+      "urdu": "پنجابی کا پہلا شاعر کون تھا؟",
+      "options": [
+        "Shah Hussain",
+        "Waris Shah",
+        "Bulle Shah",
+        "Baba Fareed"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Abu Bakr (RA), the first Khalifa (Caliph) ruled for approximately how many years (duration)?",
+      "urdu": "خلیفہ اول حضرت ابوبکر رضی اللہ عنہ نے تقریباً کتنے سال (مدت) حکومت کی؟",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which of the following was the first slave to accept Islam?",
       "urdu": "مندرجہ ذیل میں سے سب سے پہلا غلام کون تھا جس نے اسلام قبول کیا؟",
@@ -226,436 +656,6 @@
       ],
       "correct": 1,
       "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is not a high-level programming language?",
-      "urdu": "مندرجہ ذیل میں سے کون سی ہائی لیول پروگرامنگ لینگویج نہیں ہے؟",
-      "options": [
-        "C / C++",
-        "Java",
-        "Fortran / Python",
-        "Machine Language / Assembly"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the national emblem of Malaysia?",
-      "urdu": "ملائیشیا کا قومی نشان کیا ہے؟",
-      "options": [
-        "Crescent and Star",
-        "Tiger and Shield",
-        "Star and Sun",
-        "Eagle and Sword"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which was the first public airline of Pakistan?",
-      "urdu": "پاکستان کی پہلی عوامی (پبلک) ایئرلائن کون سی تھی؟",
-      "options": [
-        "Pakistan International airline",
-        "Orinental airline",
-        "Orient airline",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 21-07-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many countries are declared nuclear powers?",
-      "urdu": "دنیا میں کتنے ممالک کو نیوکلیئر (ایٹمی) طاقتیں قرار دیا گیا ہے؟",
-      "options": [
-        "8",
-        "6",
-        "7",
-        "9"
-      ],
-      "correct": 3,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 135,=\"\" 150);\"=\"\" 700;=\"\" arial,=\"\" color=\"\" color:=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 1rem;\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is not a correct method of editing the contents of a cell in MS Excel?",
-      "urdu": "ایم ایس ایکسل میں سیل کے مواد کو ایڈٹ کرنے کا کون سا طریقہ درست نہیں ہے؟",
-      "options": [
-        "Double clicking the cell",
-        "Press the Alt key",
-        "Pressing the F2 key",
-        "Clicking the formula bar"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which keys is/are used to lock the keyboard?",
-      "urdu": "کی بورڈ پر لاک کے طور پر استعمال ہونے والی کیز کون سی ہیں؟",
-      "options": [
-        "CTRL + Tab",
-        "CTRL + Alt",
-        "Windows logo + L",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first woman to be appointed as permanent representative of Pakistan to the United Nations?",
-      "urdu": "اقوام متحدہ میں پاکستان کی پہلی خاتون مستقل مندوب کون مقرر ہوئیں؟",
-      "options": [
-        "Hinna Rabani Khar",
-        "Maleeha Lodhi",
-        "Tehmina Janjua",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Caspian Sea, Red Sea and Aral Sea are actually?",
-      "urdu": "کیسپین سی، ریڈ سی اور ارال سی اصل میں کیا ہیں؟",
-      "options": [
-        "Rivers",
-        "Lakes",
-        "Canals",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Tawaf-e-Rukn is which component of Hajj?",
-      "urdu": "طواف رکن حج کا کون سا حصہ ہے؟",
-      "options": [
-        "Nafl",
-        "Wajib",
-        "Obligatory (Farz)",
-        "Sunnat"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the polio vaccine first introduced?",
-      "urdu": "پولیو کی ویکسین پہلی بار کب متعارف کرائی گئی؟",
-      "options": [
-        "1948",
-        "1955",
-        "1960",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prophet Ibrahim (AS) lived during the rule of which king?",
-      "urdu": "حضرت ابراہیمؑ کس بادشاہ کے دور میں رہے؟",
-      "options": [
-        "Pharaoh (Fir'aun)",
-        "Nimrod (Namrud)",
-        "Nebuchadnezzar",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of the Shift + End shortcut key?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Select text from the cursor to the end of the current line",
-        "Move the cursor to the end of the document",
-        "Delete text to the end of the line",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "M5 motorway connects which cities?",
-      "urdu": "ایم-5 موٹروے کن شہروں کو ملاتی ہے؟",
-      "options": [
-        "Multan - Sukkur",
-        "Lahore - Karachi",
-        "Lahore - Peshawar",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Verdana\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who wrote Tafheem-ul-Quran?",
-      "urdu": "تفہیم القرآن کس نے لکھا؟",
-      "options": [
-        "Syed Abul Ala Maududi",
-        "Abdul Rahman",
-        "Israr Ahmed",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many total members are there in Shanghai Cooperation Organisation (SCO)?",
-      "urdu": "شنگھائی تعاون تنظیم میں کل کتنے ارکان ہیں؟",
-      "options": [
-        "10",
-        "11",
-        "12",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Current</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">SCO</font><font color=\"#0000ff\"> Member States (</font><font color=\"#ff0000\">10</font><font color=\"#0000ff\">):</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who tried to poison the Holy Prophet Muhammad (ﷺ)?",
-      "urdu": "حضور نبی کریم ﷺ کو زہر دینے کی کوشش کس نے کی تھی؟",
-      "options": [
-        "Hind bint Utba",
-        "Zaynab bint Al-Harith",
-        "Umm Jamil",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Takbeers are in Namaz-e-Janaza?",
-      "urdu": "نماز جنازہ میں کتنی تکبیریں ہیں؟",
-      "options": [
-        "Two",
-        "Four",
-        "Six",
-        "One"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 18-05-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which surah is called Ummul Kitab (Mother of the Book)?",
-      "urdu": "کون سی سورت کو اُمُّ الکتاب (کتاب کی ماں) کہا جاتا ہے؟",
-      "options": [
-        "Surah Fatih",
-        "Surah Bakra",
-        "Surah Muhammad",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first preacher of Islam appointed/sent by/to Hazrat Muhammad ﷺ for the people of Madina (before his migration)?",
-      "urdu": "ہجرت سے پہلے مدینہ کے لوگوں کے لیے حضرت محمد ﷺ نے پہلا مبلغ کس کو بنایا تھا؟",
-      "options": [
-        "Hazrat Musab ibn Umair (RA)",
-        "Hazrat Jafar Tayyar (RA)",
-        "Hazrat Ayub Ansari (RA)",
-        "Hazrat Usman (RA)"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who bears the title of Ameen-ul-Ummat (Trustee/Trustworthy of the Ummah)?",
-      "urdu": "امت کا امین (امین الامت) کا لقب کس صحابی کو دیا گیا؟",
-      "options": [
-        "Hazrat Umar",
-        "Hazrat Abu Akbar",
-        "Hazrat Abu Ubaidah Bin Jarah",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Last verified on 28-04-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following countries first introduced (invented) paper currency (banknotes) in the world?",
-      "urdu": "مندرجہ ذیل میں سے کس ملک نے دنیا میں سب سے پہلے کاغذی کرنسی (بینک نوٹ) متعارف کروائی؟",
-      "options": [
-        "China",
-        "USA",
-        "Greece",
-        "France"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the largest Coral Reef located?",
-      "urdu": "دنیا کی سب سے بڑی مرجانی چٹان کہاں واقع ہے؟",
-      "options": [
-        "Australia",
-        "Austria",
-        "Uk",
-        "Usa"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Belt and Road Initiative (BRI) is a Chinese grand strategy was first launched in 2013 during the speech of Chinese President _____?",
-      "urdu": "بیلٹ اینڈ روڈ انیشی ایٹو کو 2013 میں چینی صدر کس نے شروع کیا تھا؟",
-      "options": [
-        "Xi Jin Ping",
-        "Hu Jin Tao",
-        "Jiang Zemin",
-        "Wen Jia Bao"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "\"Asbāb al-Nuzūl\" refers to?",
-      "urdu": "اسبابِ نزول سے کیا مراد ہے؟",
-      "options": [
-        "Compilation of the Qur'an",
-        "Reasons for the revelation of the Qur'an",
-        "Rules of Tajweed",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-03-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Court : Judge :: ___?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hospital : Surgeon",
-        "School : Doctor",
-        "Market : Teacher",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the idiom \"hit the nail right on the head\" mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To be exactly correct",
-        "Speaking directly to the point",
-        "Perform as a task with exactness",
-        "To say something that is exactly right",
-        "All of these"
-      ],
-      "correct": 4,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-01-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why was Hazrat Umar (RA) given the title \"Al-Farooq\"?",
-      "urdu": "حضرت عمرؓ کو \"الفاروق\" کا لقب کیوں دیا گیا؟",
-      "options": [
-        "Because he compiled the Holy Quran",
-        "Because he migrated first to Madinah",
-        "Because he distinguished between truth and falsehood",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Constitution of 1973 enforced?",
-      "urdu": "سن 1973 کا آئین کب نافذ ہوا؟",
-      "options": [
-        "14th August 1973",
-        "14th September 1973",
-        "14th October 1973",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who headed the Cabinet Mission in 1946?",
-      "urdu": "سن 1946 میں کیبنٹ مشن کی سربراہی کس نے کی؟",
-      "options": [
-        "A.V.Alexander",
-        "Sir Stafford Cripps",
-        "Lord Pethick Lawrence",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-size: 13.3333px; background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Last verified on 01-05-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did Lord Mountbatten announced the partition plan?",
-      "urdu": "لارڈ ماؤنٹ بیٹن نے تقسیم کے منصوبے کا اعلان کب کیا؟",
-      "options": [
-        "3 June 1944",
-        "3 June 1949",
-        "3 June 1947",
-        "3 June 1948"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 16-05-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Basic Democracies System introduced in Pakistan?",
-      "urdu": "پاکستان میں بیسک ڈیموکریسیز نظام کب متعارف کرایا گیا؟",
-      "options": [
-        "23 March 1956",
-        "7 October 1958",
-        "27 October 1959",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Silk route Karakoram Highway connects Pakistan with?",
-      "urdu": "شاہراہ قراقرم (سلک روٹ) پاکستان کو کس ملک سے ملاتی ہے؟",
-      "options": [
-        "India",
-        "Iran",
-        "China",
-        "Afghanistan"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani province has the \"largest proven natural gas reserves?",
-      "urdu": "پاکستان کے کس صوبے میں قدرتی گیس کے سب سے زیادہ ثابت شدہ ذخائر ہیں؟",
-      "options": [
-        "Balochistan",
-        "Punjab",
-        "Sindh",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-04-2026</font></b></p>",
       "category": "all"
     }
   ]
