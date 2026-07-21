@@ -3,21 +3,164 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-20T20:15:27.940144",
+    "fetched_at": "2026-07-21T04:14:04.444583",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Who was the first woman to be appointed as permanent representative of Pakistan to the United Nations?",
-      "urdu": "اقوام متحدہ میں پاکستان کی پہلی خاتون مستقل مندوب کون مقرر ہوئیں؟",
+      "q": "Which of the following was the first slave to accept Islam?",
+      "urdu": "مندرجہ ذیل میں سے سب سے پہلا غلام کون تھا جس نے اسلام قبول کیا؟",
       "options": [
-        "Hinna Rabani Khar",
-        "Maleeha Lodhi",
-        "Tehmina Janjua",
+        "Hazrat Bilal",
+        "Hazrat Osama",
+        "Hazrat Suleman",
+        "Hazrat Zaid bin Haris"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"></p>",
+      "category": "all"
+    },
+    {
+      "q": "Iskander Mirza abrogated the 1956 Constitution and dissolved assemblies on?",
+      "urdu": "اسکندر مرزا نے 1956 کے آئین کو کب منسوخ کیا اور اسمبلیاں کب تحلیل کیں؟",
+      "options": [
+        "7th October 1958",
+        "7th October 1959",
+        "7th October 1960",
+        "7th October 1961"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Legal Framework Order (LFO) 1970 was issued by ______?",
+      "urdu": "لیگل فریم ورک آرڈر 1970 کس نے جاری کیا تھا؟",
+      "options": [
+        "Yahya Khan",
+        "Zulifqar Ali Bhutto",
+        "Zia ul Haq",
+        "Pervez Musharraf"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#ff00ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Surah are in the Holy Quran?",
+      "urdu": "قرآن پاک میں کتنی سورتیں ہیں؟",
+      "options": [
+        "112",
+        "113",
+        "114",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "On the flag of which country is there an image of Maple Leaf?",
+      "urdu": "کس ملک کے قومی پرچم پر میپل کا پتا بنا ہوا ہے؟",
+      "options": [
+        "New Zealand",
+        "Brazil",
+        "Thailand",
+        "Canada"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Torah is the holy book of which Religion?",
+      "urdu": "تورات کس مذہب کی مقدس کتاب ہے؟",
+      "options": [
+        "Jews",
+        "Judaism",
+        "Zoroastrians",
+        "Both A & B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Battle Abu Jahl was killed?",
+      "urdu": "ابو جہل کس جنگ میں مارا گیا تھا؟",
+      "options": [
+        "Trench",
+        "Uhad",
+        "Badr",
+        "Tabook"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first session of constituent Assembly of Pakistan held at ______ on 10th August 1947.",
+      "urdu": "پاکستان کی دستور ساز اسمبلی کا پہلا اجلاس 10 اگست 1947 کو کہاں منعقد ہوا؟",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the world's largest city by area?",
+      "urdu": "رقبے کے لحاظ سے دنیا کا سب سے بڑا شہر کون سا ہے؟",
+      "options": [
+        "Chongqing, China",
+        "Tokyo, Japan",
+        "New York, USA",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><b style=\"font-size: 16px;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When conquest of Makkah took place?",
+      "urdu": "فتح مکہ کب ہوا؟",
+      "options": [
+        "12 hijri",
+        "8 hijri",
+        "10 hijri",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mohammed Bin Qasim conquered Sindh in the year?",
+      "urdu": "محمد بن قاسم نے سندھ کو کس سال میں فتح کیا؟",
+      "options": [
+        "812 AD",
+        "712 AD",
+        "912 AD",
+        "1012 AD"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Major </font><font color=\"#ff0000\" style=\"\">cities</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> captured:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Democracy works better in countries with?",
+      "urdu": "جمہوریت کن ممالک میں بہتر طریقے سے کام کرتی ہے؟",
+      "options": [
+        "High literacy rate",
+        "Low literacy rate",
+        "No education system",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
       "category": "all"
     },
     {
@@ -31,6 +174,149 @@
       ],
       "correct": 3,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who divided Bengal into East and West Bengal (partitioned) in July 1905?",
+      "urdu": "جولائی 1905 میں کس نے بنگال کو مشرقی اور مغربی بنگال (تقسیم شدہ) میں تقسیم کیا؟",
+      "options": [
+        "Lord Canning",
+        "Lord Linlithgow",
+        "Lord Wavell",
+        "Lord Curzon"
+      ],
+      "correct": 3,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The world second longest river is?",
+      "urdu": "دنیا کا دوسرا طویل ترین دریا کونسا  ہے؟",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Indus",
+        "Yangtze"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: left; margin: 0in 0in 0.0001pt 0.25in; line-height: normal;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of the father of \"Shah Waliullah\"?",
+      "urdu": "شاہ ولی اللہ کے والد کا نام کیا تھا؟",
+      "options": [
+        "Shah Abdur Rahim",
+        "Allama Hijazai",
+        "Shah Ahmed",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Qantas is an airline of which country?",
+      "urdu": "قنطاس کس ملک کی ایئر لائن ہے؟",
+      "options": [
+        "Saudi Arabia",
+        "Australia",
+        "UAE",
+        "Malaysia"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is not a high-level programming language?",
+      "urdu": "مندرجہ ذیل میں سے کون سی ہائی لیول پروگرامنگ لینگویج نہیں ہے؟",
+      "options": [
+        "C / C++",
+        "Java",
+        "Fortran / Python",
+        "Machine Language / Assembly"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the national emblem of Malaysia?",
+      "urdu": "ملائیشیا کا قومی نشان کیا ہے؟",
+      "options": [
+        "Crescent and Star",
+        "Tiger and Shield",
+        "Star and Sun",
+        "Eagle and Sword"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which was the first public airline of Pakistan?",
+      "urdu": "پاکستان کی پہلی عوامی (پبلک) ایئرلائن کون سی تھی؟",
+      "options": [
+        "Pakistan International airline",
+        "Orinental airline",
+        "Orient airline",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 21-07-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many countries are declared nuclear powers?",
+      "urdu": "دنیا میں کتنے ممالک کو نیوکلیئر (ایٹمی) طاقتیں قرار دیا گیا ہے؟",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "correct": 3,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 135,=\"\" 150);\"=\"\" 700;=\"\" arial,=\"\" color=\"\" color:=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 1rem;\"></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is not a correct method of editing the contents of a cell in MS Excel?",
+      "urdu": "ایم ایس ایکسل میں سیل کے مواد کو ایڈٹ کرنے کا کون سا طریقہ درست نہیں ہے؟",
+      "options": [
+        "Double clicking the cell",
+        "Press the Alt key",
+        "Pressing the F2 key",
+        "Clicking the formula bar"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which keys is/are used to lock the keyboard?",
+      "urdu": "کی بورڈ پر لاک کے طور پر استعمال ہونے والی کیز کون سی ہیں؟",
+      "options": [
+        "CTRL + Tab",
+        "CTRL + Alt",
+        "Windows logo + L",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first woman to be appointed as permanent representative of Pakistan to the United Nations?",
+      "urdu": "اقوام متحدہ میں پاکستان کی پہلی خاتون مستقل مندوب کون مقرر ہوئیں؟",
+      "options": [
+        "Hinna Rabani Khar",
+        "Maleeha Lodhi",
+        "Tehmina Janjua",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
       "category": "all"
     },
     {
@@ -370,292 +656,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Reko Diq reserves of copper and gold are situated in ______ district of Baluchistan.",
-      "urdu": "ریکوڈک کے تانبے اور سونے کے ذخائر بلوچستان کے کس ضلع میں واقع ہیں؟",
-      "options": [
-        "Lasbela",
-        "Chagai",
-        "Quetta",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-07-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Obstinate?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Agree",
-        "Scorn",
-        "Stubborn",
-        "Soft"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A political system governed by wealthy people is known as ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Oligarchy",
-        "Plutocracy",
-        "Aristocracy",
-        "Pantisocracy"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of INTERPOL located?",
-      "urdu": "انٹرپول کا ہیڈکوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Vienna, Austria",
-        "Lyon, France",
-        "London, UK",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of International Monetary Fund (IMF) located?",
-      "urdu": "آئی ایم ایف کا ہیڈ کوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Paris",
-        "London",
-        "Geneva",
-        "Washington"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which strait separates Asia from North America?",
-      "urdu": "وہ کون سا آبنائے ہے جو ایشیا کو شمالی امریکہ سے جدا کرتا ہے؟",
-      "options": [
-        "Bering Strait",
-        "Strait of Hormuz",
-        "Bosporus Strait",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is not landlocked country? Nepal, Myanmar, Bhutan, Switzerland",
-      "urdu": "مندرجہ ذیل میں سے کون سا ملک خشکی میں گھرا ہوا نہیں ہے؟",
-      "options": [
-        "Nepal",
-        "Myanmar",
-        "Bhutan",
-        "Switzerland"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is known as “Land of Rising Sun”?",
-      "urdu": "کس ملک کو \"طلوعِ آفتاب کی سرزمین\" کہا جاتا ہے؟",
-      "options": [
-        "Russia",
-        "Canada",
-        "Korea",
-        "Japan"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "River Nile originates (primary source) from ______?",
-      "urdu": "دریائے نیل کہاں سے نکلتا ہے؟",
-      "options": [
-        "Lake Victoria",
-        "Cherangani Hills",
-        "Lake Nyasa",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the cold desert known as the Katpana Desert located?",
-      "urdu": "کَٹپانا ریگستان کہاں واقع ہے؟",
-      "options": [
-        "Chitral, Khyber Pakhtunkhwa, Pakistan",
-        "Skardu, Gilgit-Baltistan, Pakistan",
-        "Hunza, Gilgit-Baltistan, Pakistan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Ubiquitous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Affluent",
-        "Everywhere",
-        "Omni-present",
-        "Both B and C"
-      ],
-      "correct": 3,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "By which Article was the Objectives Resolution made a substantive part of the Constitution of Pakistan?",
-      "urdu": "قراردادِ مقاصد کو آئینِ پاکستان کا باقاعدہ حصہ کس آرٹیکل کے ذریعے بنایا گیا؟",
-      "options": [
-        "Article 2A",
-        "Article 2",
-        "Article 160",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Siachen Glacier is situated in which mountain range?",
-      "urdu": "سیاچن گلیشیر کس پہاڑی سلسلے میں واقع ہے؟",
-      "options": [
-        "Himalaya",
-        "Karakorum",
-        "Hindu Kush",
-        "Kirthar"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 01-04-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest coal deposits (coal reservoir) in Pakistan are found in?",
-      "urdu": "پاکستان میں کوئلے کے سب سے بڑے ذخائر کہاں پائے جاتے ہیں؟",
-      "options": [
-        "Thal, Sindh",
-        "Thar, Sindh",
-        "Thatta, Sindh",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city is known as city of Saints?",
-      "urdu": "کون سا شہر سنتوں کا شہر کہلاتا ہے؟",
-      "options": [
-        "Lahore",
-        "Multan",
-        "Rawalpindi",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hingol National Park is located in?",
-      "urdu": "ہنگول نیشنل پارک کہاں واقع ہے؟",
-      "options": [
-        "Balochistan",
-        "KPK",
-        "Sindh",
-        "Punjab"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 20-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The longest river in Europe is?",
-      "urdu": "یورپ کا سب سے لمبا دریا کونسا ہے؟",
-      "options": [
-        "Amazon River",
-        "Danube River",
-        "Volga River",
-        "Ural River"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which protocol assigns IP address to the client connected in the internet?",
-      "urdu": "انٹرنیٹ میں منسلک کلائنٹ کو کون سا پروٹوکول آئی پی ایڈریس تفویض کرتا ہے؟",
-      "options": [
-        "DHPP",
-        "DHHP",
-        "DHCP",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-01-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "AI stands for ______?",
-      "urdu": "اے آئی کا مطلب کیا ہے؟",
-      "options": [
-        "Artificial Information",
-        "Artificial Intelligence",
-        "Actual Information",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the International Civil Aviation Organization (ICAO) founded?",
-      "urdu": "انٹرنیشنل سول ایوی ایشن آرگنائزیشن کب قائم ہوئی؟",
-      "options": [
-        "7 December 1944",
-        "7 December 1947",
-        "7 December 1949",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of Food and Agriculture Organization (FAO) located?",
-      "urdu": "فوڈ اینڈ ایگریکلچر آرگنائزیشن کا ہیڈکوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Kathmandu – Nepal",
-        "Rome – Italy",
-        "Berlin – Germany",
-        "Jeddah – Saudi Arabia"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span arial=\"\" black\";mso-ascii-font-family:\"arial=\"\" black\";mso-fareast-font-family:+mn-ea;=\"\" minor-bidi;color:red;mso-font-kerning:12.0pt;language:en-us;mso-style-textfill-type:=\"\" mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:=\"\" solid;mso-style-textfill-fill-color:red;mso-style-textfill-fill-alpha:100.0%\"=\"\" style=\"background-color: rgb(255, 255, 0);\"><b><font color=\"#ff0000\">Last verified on 25-01-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following releases the “World Happiness Report” annually?",
-      "urdu": "ورلڈ ہیپی نیس رپورٹ ہر سال کون جاری کرتا ہے؟",
-      "options": [
-        "UNEP",
-        "World Economic forum",
-        "Sustainable Development Solution Network",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></span></p>",
       "category": "all"
     }
   ]
