@@ -3,10 +3,232 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-21T15:00:40.665024",
+    "fetched_at": "2026-07-21T20:11:43.685569",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "رات دن ایک کرنا سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سخت محنت کرنا",
+        "رات کو گھر میں زیادہ روشنی رکھنا",
+        "دن کو سوتے رہنا",
+        "رات کو جاگتے رہنا"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">یہ ایک</font><font color=\"#ff0000\"> اردو محاورہ</font><font color=\"#0000ff\"> ہے۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "To carry coal to Newcastle کے درست مطلب کا انتخاب کیجیے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بڑے کو اس کے گھر تک پہنچانا",
+        "مشکل ترین کام کرنا",
+        "بلی کا گھر واپس آنا",
+        "الٹے بانس بریلی کو"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">اردو میں اس کا قریب ترین محاورہ </font><font color=\"#ff0000\">\"الٹے بانس بریلی کو\" </font><font color=\"#0000ff\">ہے۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "\"اردو شاعری پر ایک نظر\" کے مصنف ہیں",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "کلیم الدین احمد",
+        "ڈاکٹر عبادت بریلوی",
+        "مسعود حسن رضوی ادیب",
+        "ڈاکٹر رؤف پاریکھ"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">کتاب </font><font color=\"#ff0000\">\"اردو شاعری پر ایک نظر\" ک</font><font color=\"#0000ff\">ے مصنف کلیم الدین احمد ہیں۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "ٹی وی کے مشہور ڈرامہ سیریل \"سونا چاندی\" کے مصنف کا نام بتائیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "منو بھائی",
+        "امجد اسلام امجد",
+        "ڈاکٹر انور سجاد",
+        "حسینہ معین"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\"> </font><span style=\"font-size: 14px;\"><font color=\"#0000ff\">ڈرامہ \"سونا چاندی\" کے مصنف</font><font color=\"#ff0000\"> مُنو بھائی</font><font color=\"#0000ff\"> ہیں۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "درج ذیل شخصیات میں سے کون سرسید کے رفقا میں تھے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "الطاف حسین حالی",
+        "مومن خان مومن",
+        "ساحر لدھیانوی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">مولانا خواجہ الطاف </font><font color=\"#00ff00\">حسین حالی سرسید احمد خان کے قریبی رفقا اور تحریک علیگڑھ</font><font color=\"#0000ff\"> کے</font><font color=\"#ff0000\"> نمایاں ترین رہنماؤں میں شامل تھے</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "It was kind _____ you to help.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Of",
+        "To",
+        "About",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">It was kind </font><font color=\"#ff0000\">of</font><font color=\"#0000ff\"> you to help.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice of the following sentence: Does she writes a letter?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Is a letter written by her?",
+        "Has the letter been written by her?",
+        "Is she writing a letter?",
+        "A letter is written by her?"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">The passive voice of</font><font color=\"#0000ff\"> \"</font><font color=\"#ff00ff\">Does she write a letter</font><font color=\"#0000ff\">?\" is \"Is a letter written by her?\"</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Amicus Curiae means ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "American citizen",
+        "Friend of the court",
+        "An amusing person",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><b style=\"\"><font color=\"#ff0000\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does To be in two minds mean?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To be unable to decide about some thing",
+        "To be able to decide about some things",
+        "Both of them",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">Idiom: To be in two minds</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the synonym of Laudable from the following:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Exorbitant",
+        "Meticulous",
+        "Unwavering",
+        "Exemplary"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\"><span style=\"font-size: 1rem;\">laudable </span></b><b style=\"font-size: 1rem;\"><font color=\"#ff0000\">قابل تعریف</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is called Umar-e-Sani?",
+      "urdu": "عمر ثانی کس کو کہتے ہیں؟",
+      "options": [
+        "Hazrat Umar bin Abdullah R.A",
+        "Hazrat Umar bin Khataab R.A",
+        "Hazrat Umar bin Abdul Azeez R.A",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who accepted Islam first in Children?",
+      "urdu": "بچوں میں سب سے پہلے اسلام کس نے قبول کیا؟",
+      "options": [
+        "Hazrat Usman (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Ali (RA)",
+        "Hazrat Bilal (RA)"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "When ﬁve prayers became Farz?",
+      "urdu": "پانچ نمازیں کب فرض ہوئیں؟",
+      "options": [
+        "12th Nabvi",
+        "10th Nabvi",
+        "13th Nabvi",
+        "11th Nabvi"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When Abraha launched an attack on Ka’aba?",
+      "urdu": "ابرہہ نے کب کعبہ پر حملہ کیا؟",
+      "options": [
+        "570 BC",
+        "571 BC",
+        "577 BC",
+        "573 BC"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><span style=\"font-size: 14px; background-color: rgb(255, 255, 255);\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was last Commander in chief of Ghzwa-e-mautah?",
+      "urdu": "غزوہ موتہ کا آخری کمانڈر ان چیف کون تھا؟",
+      "options": [
+        "Abdullah Bin Rawaha(رضہ)",
+        "Abdur Rehman Bin Auf (رضہ)",
+        "Hazrat khalid bin waleed (رضہ)",
+        "Hazrat Ali (رضہ)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"margin: 0px 0px 10px; padding: 0px;\"><span arial=\"\" black\";\"=\"\" style=\"color: rgb(0, 0, 255);\"><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span></span><span style=\"font-size: 14px;\"></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 11 in binary?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10000",
+        "10110",
+        "1011",
+        "10101"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">The decimal number is 11.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 15: 7 :: x: 560 then x =  ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "100",
+        "1000",
+        "1100",
+        "1200"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\"> 15: 7 :: x: 560</font></span></p>",
+      "category": "all"
+    },
     {
       "q": "The main purpose of an independent audit is to?",
       "urdu": "آزاد آڈٹ کا بنیادی مقصد کیا ہے؟",
@@ -434,227 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Process of costing is relevant to _______?",
-      "urdu": "پروسیس کاسٹنگ کس صنعت سے متعلق ہے؟",
-      "options": [
-        "Job order cost-oriented projects",
-        "Cement Industry",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The nation of which Prophet was exterminated through the scourge of floods?",
-      "urdu": "کس نبی کی قوم کو سیلاب کے عذاب کے ذریعے ہلاک کیا گیا؟",
-      "options": [
-        "Hazrat Nooh (A.S)",
-        "Hazrat Yaqoob (A.S)",
-        "Hazrat Dawood (A.S)",
-        "Hazrat Uzair (A.S)"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The approximate value of the speed of sound in air at 0°C temperature ______?",
-      "urdu": "صفر سینٹی گریڈ درجہ حرارت پر ہوا میں آواز کی رفتار کی تقریباً قیمت کتنی ہے؟",
-      "options": [
-        "332 m/s",
-        "34 m/s",
-        "17 m/s",
-        "680 m/s"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "FATF stands for?",
-      "urdu": "ایف اے ٹی ایف کا مطلب کیا ہے؟",
-      "options": [
-        "Financial Action Task Force",
-        "Financial Action Tast Force",
-        "Financial Action Task Free",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-weight: bold;\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Audit of a bank is generally conducted through?",
-      "urdu": "بینک کا آڈٹ عام طور پر کس طریقے سے کیا جاتا ہے؟",
-      "options": [
-        "Routine checking",
-        "Couching",
-        "Balance sheet audit",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-97-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Stratified audit sample means ______?",
-      "urdu": "اسٹریٹائڈ آڈٹ نمونے کا مطلب کیا ہے؟",
-      "options": [
-        "Items carefully selected from each group",
-        "Randomly selected items from audit",
-        "Purposively selected items for audit",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is in the north west of Pakistan?",
-      "urdu": "پاکستان کے شمال مغرب میں کون سا ملک واقع ہ",
-      "options": [
-        "China",
-        "India",
-        "Iran",
-        "Afghanistan"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Proper is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Improper",
-        "Correct",
-        "Suitable",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Throw is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Toss",
-        "Catch",
-        "Jump",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Convertible is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Changeable",
-        "Permanent",
-        "Fixed",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Cash budget excludes which of the following?",
-      "urdu": "کیش بجٹ میں درج ذیل میں سے کس چیز کو شامل نہیں کیا جاتا؟",
-      "options": [
-        "Cash sales",
-        "Non-cash items",
-        "Cash payments",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How is the Quick Ratio (Acid-Test Ratio) calculated?",
-      "urdu": "کوئیک ریشو کا فارمولا کیا ہے؟",
-      "options": [
-        "Quick Assets ÷ Current Liabilities",
-        "Total Assets ÷ Total Liabilities",
-        "Current Assets ÷ Current Liabilities",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is known as the Father of Double-Entry Bookkeeping?",
-      "urdu": "ڈبل انٹری بک کیپنگ کا بانی کسے کہا جاتا ہے؟",
-      "options": [
-        "John Maynard Keynes",
-        "Adam Smith",
-        "Luca Pacioli",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Forge is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Quiet",
-        "Continue",
-        "Fake",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bullfighting is a famous sport of?",
-      "urdu": "بیلوں کی لڑائی کس ملک کا مشہور کھیل ہے؟",
-      "options": [
-        "Brazil",
-        "Italy",
-        "Spain",
-        "Germany"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which companion of the Holy Prophet Muhammad ﷺ is entitled as Syed-ul-Shuhada (Leader of the Martyrs)?",
-      "urdu": "حضور نبی اکرم صلی اللہ علیہ وآلہ وسلم کے کس صحابی کو سید الشہداء (شہداء کا رہبر) کہا جاتا ہے؟",
-      "options": [
-        "Hamza (R.A)",
-        "Umar (R.A)",
-        "Usman (R.A)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the middle layer of the Earth called?",
-      "urdu": "زمین کی درمیانی تہہ کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Crust",
-        "Mantle",
-        "Core",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
       "category": "all"
     }
   ]
