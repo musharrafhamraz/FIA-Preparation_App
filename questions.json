@@ -1,76 +1,662 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-22T04:15:19.131013",
+    "fetched_at": "2026-07-22T09:23:17.860021",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "When did Pakistan officially join / become a member of the United Nations (UNO)?",
+      "urdu": "پاکستان نےکب باضابطہ طور پر اقوام متحدہ کے اداروں میں شمولیت اختیار کی؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "30 September 1947",
+        "3 September 1947",
+        "10 September 1947",
+        "20 September 1947"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Pakistan hosted the second Islamic Summit of OIC in _____?",
+      "urdu": "پاکستان نے _____ میں او آئی سی کے دوسرے اسلامی سربراہی اجلاس کی میزبانی کی؟",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "1963",
+        "1969",
+        "1971",
+        "1974"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was SAARC founded?",
+      "urdu": "سارک کب قائم ہوا؟",
+      "options": [
+        "8 December 1985",
+        "10 December 1985",
+        "12 December 1985",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to Rutherford’s gold foil experiment, the mass of an atom is concentrated in its _____?",
+      "urdu": "رادرفورڈ کے گولڈ فائل تجربے کے مطابق، ایٹم کا زیادہ تر ماس کہاں مرکوز ہوتا ہے؟",
+      "options": [
+        "Nucleus",
+        "Neutrons",
+        "Protons",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is the basic unit of a PowerPoint presentation?",
+      "urdu": "پاورپوائنٹ پریزنٹیشن کی بنیادی اکائی کیا ہوتی ہے؟",
+      "options": [
+        "Slide",
+        "Window",
+        "Document",
+        "Picture"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Dr. Abdul Salam won the Nobel Prize for physics in the year _____?",
+      "urdu": "ڈاکٹر عبدالسلام نے کس سال میں فزکس کا نوبل انعام جیتا؟",
+      "options": [
+        "1996",
+        "1979",
+        "1964",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first male martyr (Shaheed) of Islam?",
+      "urdu": "اسلام کے پہلے مرد شہید کون تھے؟",
+      "options": [
+        "Hazart Zaid Bin Haris (RA)",
+        "Hazrat Shoaib Roomi (RA)",
+        "Hazrat Yasir ibn Amir (RA)",
+        "Hazrat Haris bin Halla (RA)"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who started the practice of Tarawih prayers in congregation?",
+      "urdu": "نمازِ تراویح باجماعت ادا کرنے کی روایت کس نے شروع کی؟",
+      "options": [
+        "Hazrat Abu Bakr",
+        "Hazrat Ali",
+        "Hazrat Umar",
+        "Hazrat Usman"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the Holy Prophet (PBUH) offered his first Eid prayer?",
+      "urdu": "رسول اللہ ﷺ نے پہلی عید کی نماز کب ادا کی؟",
+      "options": [
+        "1 A.H",
+        "2 A.H",
+        "3 A.H",
+        "4 A.H"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "CPEC has how many Special Economic Zones?",
+      "urdu": "سی پیک کے تحت کتنے خصوصی اقتصادی زونز ہیں؟",
+      "options": [
+        "9",
+        "8",
+        "10",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">9</font><font color=\"#0000ff\"> Prioritized </font><font color=\"#ff0000\">CPEC Special Economic Zones </font><font color=\"#0000ff\">(SEZs):</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If you want to connect two nearby situated buildings then which of the following type of network you will use?",
+      "urdu": "اگر آپ قریب کی دو عمارتوں کو جوڑنا چاہتے ہیں تو آپ مندرجہ ذیل میں سے کون سا نیٹ ورک استعمال کریں گے؟",
+      "options": [
+        "Metropolitan Area Network (MAN)",
+        "Local Area Network (LAN)",
+        "Wide Area Network (WAN)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "First Islamic Summit of OIC was held in which country?",
+      "urdu": "او آئی سی کا پہلا سربراہی اجلاس کس ملک میں منعقد ہوا؟",
+      "options": [
+        "Rabat",
+        "Lahore",
+        "Islamabad",
+        "All of these"
+      ],
+      "correct": 0,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "27°C is equal to how many Kelvin (K)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "273 K",
+        "290 K",
+        "300 K",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Kelvin = °C + 273</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "GUI stands for _______?",
+      "urdu": "جی آئ یو کا مطلب کیا ہے؟",
+      "options": [
+        "Graphical Use Interface",
+        "Graphical User Interface",
+        "Graphic User Interface",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a computer lags while using different programs, which component should be upgraded first?",
+      "urdu": "اگر کمپیوٹر مختلف پروگرام استعمال کرتے وقت سست ہو جائے تو سب سے پہلے کس حصے کو اپ گریڈ کرنا چاہیے؟",
+      "options": [
+        "RAM",
+        "Keyboard",
+        "Monitor",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A computer cannot ‘boot’ if it does not have the ______?",
+      "urdu": "اگر کمپیوٹر میں ______ نہ ہو تو وہ صحیح طریقے سے بوٹ نہیں ہو سکتا؟",
+      "options": [
+        "Loader",
+        "Operating System",
+        "Compiler",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "An operating system is a/an _____?",
+      "urdu": "آپریٹنگ سسٹم کیا ہوتا ہے؟",
+      "options": [
+        "Personal software",
+        "System software",
+        "Application software",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff00ff\">Functions of an Operating System</font><font color=\"#ff0000\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which programming language is commonly used for mobile app development?",
+      "urdu": "موبائل ایپ بنانے کے لیے عام طور پر کون سی پروگرامنگ زبان استعمال ہوتی ہے؟",
+      "options": [
+        "Java",
+        "HTML",
+        "SQL",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Huffaz (Hafiz-e-Quran) were martyred in the Battle of Yamama (Jang-e-Yamama)?",
+      "urdu": "جنگ یمامہ میں کتنے حفاظ (حافظ قرآن) شہید ہوئے؟",
+      "options": [
+        "70",
+        "60",
+        "90",
+        "80"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which mountain known as Chahgori or Savage Mountain?",
+      "urdu": "کون سا پہاڑ \"چہگوری یا سیویج ماؤنٹین\" کے نام سے مشہور ہے؟",
+      "options": [
+        "Mount Everest",
+        "Lhotse",
+        "K2",
+        "Kilimanjaro"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest/biggest ocean of the world is ______?",
+      "urdu": "دنیا کا سب سے بڑا سمندر کونسا ہے؟",
+      "options": [
+        "Atlantic",
+        "Pacific",
+        "Indian",
+        "Arctic"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Largest Continent (by Area and Population) of the World is _______?",
+      "urdu": "دنیا کا سب سے بڑا براعظم (رقبہ اور آبادی کے لحاظ سے) کونسا ہے؟",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Dr. Abdul Salam received Nobel Prize on combining what two forces?",
+      "urdu": "ڈاکٹر عبدالسلام کو کن دو قوتوں کو ملانے پر نوبل انعام ملا؟",
+      "options": [
+        "Weak and strong forces",
+        "Nuclear and weak forces",
+        "Electromagnetic and weak nuclear forces",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who discovered electromagnetic induction?",
+      "urdu": "برقی مقناطیسی القا کس نے دریافت کی؟",
+      "options": [
+        "Isaac Newton",
+        "Michael Faraday",
+        "James Clerk Maxwell",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "رات دن ایک کرنا سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سخت محنت کرنا",
+        "رات کو گھر میں زیادہ روشنی رکھنا",
+        "دن کو سوتے رہنا",
+        "رات کو جاگتے رہنا"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">یہ ایک</font><font color=\"#ff0000\"> اردو محاورہ</font><font color=\"#0000ff\"> ہے۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "To carry coal to Newcastle کے درست مطلب کا انتخاب کیجیے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بڑے کو اس کے گھر تک پہنچانا",
+        "مشکل ترین کام کرنا",
+        "بلی کا گھر واپس آنا",
+        "الٹے بانس بریلی کو"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">اردو میں اس کا قریب ترین محاورہ </font><font color=\"#ff0000\">\"الٹے بانس بریلی کو\" </font><font color=\"#0000ff\">ہے۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "\"اردو شاعری پر ایک نظر\" کے مصنف ہیں",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "کلیم الدین احمد",
+        "ڈاکٹر عبادت بریلوی",
+        "مسعود حسن رضوی ادیب",
+        "ڈاکٹر رؤف پاریکھ"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">کتاب </font><font color=\"#ff0000\">\"اردو شاعری پر ایک نظر\" ک</font><font color=\"#0000ff\">ے مصنف کلیم الدین احمد ہیں۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "ٹی وی کے مشہور ڈرامہ سیریل \"سونا چاندی\" کے مصنف کا نام بتائیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "منو بھائی",
+        "امجد اسلام امجد",
+        "ڈاکٹر انور سجاد",
+        "حسینہ معین"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\"> </font><span style=\"font-size: 14px;\"><font color=\"#0000ff\">ڈرامہ \"سونا چاندی\" کے مصنف</font><font color=\"#ff0000\"> مُنو بھائی</font><font color=\"#0000ff\"> ہیں۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "درج ذیل شخصیات میں سے کون سرسید کے رفقا میں تھے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "الطاف حسین حالی",
+        "مومن خان مومن",
+        "ساحر لدھیانوی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">مولانا خواجہ الطاف </font><font color=\"#00ff00\">حسین حالی سرسید احمد خان کے قریبی رفقا اور تحریک علیگڑھ</font><font color=\"#0000ff\"> کے</font><font color=\"#ff0000\"> نمایاں ترین رہنماؤں میں شامل تھے</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "It was kind _____ you to help.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Of",
+        "To",
+        "About",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">It was kind </font><font color=\"#ff0000\">of</font><font color=\"#0000ff\"> you to help.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice of the following sentence: Does she writes a letter?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Is a letter written by her?",
+        "Has the letter been written by her?",
+        "Is she writing a letter?",
+        "A letter is written by her?"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">The passive voice of</font><font color=\"#0000ff\"> \"</font><font color=\"#ff00ff\">Does she write a letter</font><font color=\"#0000ff\">?\" is \"Is a letter written by her?\"</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Amicus Curiae means ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "American citizen",
+        "Friend of the court",
+        "An amusing person",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><b style=\"\"><font color=\"#ff0000\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does To be in two minds mean?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To be unable to decide about some thing",
+        "To be able to decide about some things",
+        "Both of them",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">Idiom: To be in two minds</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the synonym of Laudable from the following:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Exorbitant",
+        "Meticulous",
+        "Unwavering",
+        "Exemplary"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\"><span style=\"font-size: 1rem;\">laudable </span></b><b style=\"font-size: 1rem;\"><font color=\"#ff0000\">قابل تعریف</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is called Umar-e-Sani?",
+      "urdu": "عمر ثانی کس کو کہتے ہیں؟",
+      "options": [
+        "Hazrat Umar bin Abdullah R.A",
+        "Hazrat Umar bin Khataab R.A",
+        "Hazrat Umar bin Abdul Azeez R.A",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who accepted Islam first in Children?",
+      "urdu": "بچوں میں سب سے پہلے اسلام کس نے قبول کیا؟",
+      "options": [
+        "Hazrat Usman (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Ali (RA)",
+        "Hazrat Bilal (RA)"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "When ﬁve prayers became Farz?",
+      "urdu": "پانچ نمازیں کب فرض ہوئیں؟",
+      "options": [
+        "12th Nabvi",
+        "10th Nabvi",
+        "13th Nabvi",
+        "11th Nabvi"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When Abraha launched an attack on Ka’aba?",
+      "urdu": "ابرہہ نے کب کعبہ پر حملہ کیا؟",
+      "options": [
+        "570 BC",
+        "571 BC",
+        "577 BC",
+        "573 BC"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><span style=\"font-size: 14px; background-color: rgb(255, 255, 255);\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was last Commander in chief of Ghzwa-e-mautah?",
+      "urdu": "غزوہ موتہ کا آخری کمانڈر ان چیف کون تھا؟",
+      "options": [
+        "Abdullah Bin Rawaha(رضہ)",
+        "Abdur Rehman Bin Auf (رضہ)",
+        "Hazrat khalid bin waleed (رضہ)",
+        "Hazrat Ali (رضہ)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"margin: 0px 0px 10px; padding: 0px;\"><span arial=\"\" black\";\"=\"\" style=\"color: rgb(0, 0, 255);\"><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span></span><span style=\"font-size: 14px;\"></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 11 in binary?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10000",
+        "10110",
+        "1011",
+        "10101"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">The decimal number is 11.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 15: 7 :: x: 560 then x =  ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "100",
+        "1000",
+        "1100",
+        "1200"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\"> 15: 7 :: x: 560</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The main purpose of an independent audit is to?",
+      "urdu": "آزاد آڈٹ کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Help in detecting frauds and errors",
+        "Check and correct frauds and errors",
+        "Prepare financial statements",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The assets that can be converted into cash within a short period (i.e., 1 year or less) are known as ______?",
+      "urdu": "وہ اثاثے جو ایک مختصر مدت کے اندر نقد رقم میں تبدیل ہوسکتے ہیں (یعنی 1 سال یا اس سے کم) ______ کے نام سے جانا جاتا ہے؟",
+      "options": [
+        "Investments",
+        "Current assets",
+        "Fixed assets",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "WACC stands for?",
+      "urdu": "وی اے ڈبل سی کا مکمل نام کیا ہے؟",
+      "options": [
+        "Weighted Average Cost of Capital",
+        "Weighted Annual Cost of Capital",
+        "Working Average Cost of Capital",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "PPRA is an abbreviation for?",
+      "urdu": "پی پی آر اے کا مکمل نام کیا ہے؟",
+      "options": [
+        "Public Procurement Regulatory Authority",
+        "Pakistan Pilgrimage and Religious Authority",
+        "Public Policy and Research Association",
+        "Provincial Procurement and Regulatory Authority"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An astronomical year with an extra day is called a?",
+      "urdu": "اضافی ایک دن والا فلکیاتی سال کیا کہلاتا ہے؟",
+      "options": [
+        "Solar Year",
+        "Leap Year",
+        "Lunar Year",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In 20th century, normative ethics became more complex as they are not only concerned rightness and wrongness but also interested in different kinds of moral?",
+      "urdu": "بیسویں صدی میں معیاری اخلاقیات صرف صحیح اور غلط تک محدود نہ رہی بلکہ مختلف قسم کی اخلاقی ______ میں بھی دلچسپی لینے لگی۔",
+      "options": [
+        "Values",
+        "Status",
+        "Conducts",
+        "Thinkings"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A conventional morality deals with the level of custom at different levels which is also a branch of?",
+      "urdu": "روایتی اخلاقیات جو معاشرتی رسم و رواج کی سطح سے متعلق ہے، کس علم کی ایک شاخ ہے؟",
+      "options": [
+        "Ethics",
+        "Science",
+        "Religion",
+        "Philosophy"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "It is special business of ethics to _____ our intuitions, both their own consistency among themselves and by critical comparison of our own intuitions with those of others.",
+      "urdu": "اخلاقیات کا خاص کام ہماری وجدان کو ______ کرنا ہے تاکہ ان کی درستگی اور باہمی مطابقت کو پرکھا جا سکے۔",
+      "options": [
+        "Test",
+        "Ignore",
+        "Condemn",
+        "Compare"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Direct or intuitive judgment plays a far larger in normative sciences, and especially in ______ than it does in the physical description.",
+      "urdu": "براہِ راست یا وجدانی فیصلہ  معیاری علوم میں، خصوصاً ______ میں، طبعی علوم کی نسبت زیادہ اہم کردار ادا کرتا ہے۔",
+      "options": [
+        "Psychology",
+        "Sociology",
+        "Ethics",
+        "Religion"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
