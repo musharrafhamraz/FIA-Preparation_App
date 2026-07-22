@@ -1,662 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-21T20:11:43.685569",
+    "fetched_at": "2026-07-22T04:15:19.131013",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "رات دن ایک کرنا سے کیا مراد ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "سخت محنت کرنا",
-        "رات کو گھر میں زیادہ روشنی رکھنا",
-        "دن کو سوتے رہنا",
-        "رات کو جاگتے رہنا"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">یہ ایک</font><font color=\"#ff0000\"> اردو محاورہ</font><font color=\"#0000ff\"> ہے۔</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "To carry coal to Newcastle کے درست مطلب کا انتخاب کیجیے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "بڑے کو اس کے گھر تک پہنچانا",
-        "مشکل ترین کام کرنا",
-        "بلی کا گھر واپس آنا",
-        "الٹے بانس بریلی کو"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">اردو میں اس کا قریب ترین محاورہ </font><font color=\"#ff0000\">\"الٹے بانس بریلی کو\" </font><font color=\"#0000ff\">ہے۔</font></span></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "\"اردو شاعری پر ایک نظر\" کے مصنف ہیں",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "کلیم الدین احمد",
-        "ڈاکٹر عبادت بریلوی",
-        "مسعود حسن رضوی ادیب",
-        "ڈاکٹر رؤف پاریکھ"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">کتاب </font><font color=\"#ff0000\">\"اردو شاعری پر ایک نظر\" ک</font><font color=\"#0000ff\">ے مصنف کلیم الدین احمد ہیں۔</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "ٹی وی کے مشہور ڈرامہ سیریل \"سونا چاندی\" کے مصنف کا نام بتائیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "منو بھائی",
-        "امجد اسلام امجد",
-        "ڈاکٹر انور سجاد",
-        "حسینہ معین"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\"> </font><span style=\"font-size: 14px;\"><font color=\"#0000ff\">ڈرامہ \"سونا چاندی\" کے مصنف</font><font color=\"#ff0000\"> مُنو بھائی</font><font color=\"#0000ff\"> ہیں۔</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "درج ذیل شخصیات میں سے کون سرسید کے رفقا میں تھے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "الطاف حسین حالی",
-        "مومن خان مومن",
-        "ساحر لدھیانوی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">مولانا خواجہ الطاف </font><font color=\"#00ff00\">حسین حالی سرسید احمد خان کے قریبی رفقا اور تحریک علیگڑھ</font><font color=\"#0000ff\"> کے</font><font color=\"#ff0000\"> نمایاں ترین رہنماؤں میں شامل تھے</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "It was kind _____ you to help.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Of",
-        "To",
-        "About",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">It was kind </font><font color=\"#ff0000\">of</font><font color=\"#0000ff\"> you to help.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the voice of the following sentence: Does she writes a letter?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Is a letter written by her?",
-        "Has the letter been written by her?",
-        "Is she writing a letter?",
-        "A letter is written by her?"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">The passive voice of</font><font color=\"#0000ff\"> \"</font><font color=\"#ff00ff\">Does she write a letter</font><font color=\"#0000ff\">?\" is \"Is a letter written by her?\"</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Amicus Curiae means ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "American citizen",
-        "Friend of the court",
-        "An amusing person",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><b style=\"\"><font color=\"#ff0000\"></font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "What does To be in two minds mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "To be unable to decide about some thing",
-        "To be able to decide about some things",
-        "Both of them",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">Idiom: To be in two minds</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the synonym of Laudable from the following:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Exorbitant",
-        "Meticulous",
-        "Unwavering",
-        "Exemplary"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\"><span style=\"font-size: 1rem;\">laudable </span></b><b style=\"font-size: 1rem;\"><font color=\"#ff0000\">قابل تعریف</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is called Umar-e-Sani?",
-      "urdu": "عمر ثانی کس کو کہتے ہیں؟",
-      "options": [
-        "Hazrat Umar bin Abdullah R.A",
-        "Hazrat Umar bin Khataab R.A",
-        "Hazrat Umar bin Abdul Azeez R.A",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Who accepted Islam first in Children?",
-      "urdu": "بچوں میں سب سے پہلے اسلام کس نے قبول کیا؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Hazrat Usman (RA)",
-        "Hazrat Umar (RA)",
-        "Hazrat Ali (RA)",
-        "Hazrat Bilal (RA)"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
+      ],
+      "correct": 0,
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
+    },
+    {
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "options": [
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "When ﬁve prayers became Farz?",
-      "urdu": "پانچ نمازیں کب فرض ہوئیں؟",
-      "options": [
-        "12th Nabvi",
-        "10th Nabvi",
-        "13th Nabvi",
-        "11th Nabvi"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Abraha launched an attack on Ka’aba?",
-      "urdu": "ابرہہ نے کب کعبہ پر حملہ کیا؟",
-      "options": [
-        "570 BC",
-        "571 BC",
-        "577 BC",
-        "573 BC"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span><span style=\"font-size: 14px; background-color: rgb(255, 255, 255);\"><b style=\"\"><font color=\"#ff00ff\"></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was last Commander in chief of Ghzwa-e-mautah?",
-      "urdu": "غزوہ موتہ کا آخری کمانڈر ان چیف کون تھا؟",
-      "options": [
-        "Abdullah Bin Rawaha(رضہ)",
-        "Abdur Rehman Bin Auf (رضہ)",
-        "Hazrat khalid bin waleed (رضہ)",
-        "Hazrat Ali (رضہ)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"margin: 0px 0px 10px; padding: 0px;\"><span arial=\"\" black\";\"=\"\" style=\"color: rgb(0, 0, 255);\"><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last update 0n 21-07-2026 by NA</span></span><span style=\"font-size: 14px;\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 11 in binary?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10000",
-        "10110",
-        "1011",
-        "10101"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">The decimal number is 11.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 15: 7 :: x: 560 then x =  ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "100",
-        "1000",
-        "1100",
-        "1200"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\"> 15: 7 :: x: 560</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The main purpose of an independent audit is to?",
-      "urdu": "آزاد آڈٹ کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "Help in detecting frauds and errors",
-        "Check and correct frauds and errors",
-        "Prepare financial statements",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The assets that can be converted into cash within a short period (i.e., 1 year or less) are known as ______?",
-      "urdu": "وہ اثاثے جو ایک مختصر مدت کے اندر نقد رقم میں تبدیل ہوسکتے ہیں (یعنی 1 سال یا اس سے کم) ______ کے نام سے جانا جاتا ہے؟",
-      "options": [
-        "Investments",
-        "Current assets",
-        "Fixed assets",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "WACC stands for?",
-      "urdu": "وی اے ڈبل سی کا مکمل نام کیا ہے؟",
-      "options": [
-        "Weighted Average Cost of Capital",
-        "Weighted Annual Cost of Capital",
-        "Working Average Cost of Capital",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "PPRA is an abbreviation for?",
-      "urdu": "پی پی آر اے کا مکمل نام کیا ہے؟",
-      "options": [
-        "Public Procurement Regulatory Authority",
-        "Pakistan Pilgrimage and Religious Authority",
-        "Public Policy and Research Association",
-        "Provincial Procurement and Regulatory Authority"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An astronomical year with an extra day is called a?",
-      "urdu": "اضافی ایک دن والا فلکیاتی سال کیا کہلاتا ہے؟",
-      "options": [
-        "Solar Year",
-        "Leap Year",
-        "Lunar Year",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In 20th century, normative ethics became more complex as they are not only concerned rightness and wrongness but also interested in different kinds of moral?",
-      "urdu": "بیسویں صدی میں معیاری اخلاقیات صرف صحیح اور غلط تک محدود نہ رہی بلکہ مختلف قسم کی اخلاقی ______ میں بھی دلچسپی لینے لگی۔",
-      "options": [
-        "Values",
-        "Status",
-        "Conducts",
-        "Thinkings"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A conventional morality deals with the level of custom at different levels which is also a branch of?",
-      "urdu": "روایتی اخلاقیات جو معاشرتی رسم و رواج کی سطح سے متعلق ہے، کس علم کی ایک شاخ ہے؟",
-      "options": [
-        "Ethics",
-        "Science",
-        "Religion",
-        "Philosophy"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "It is special business of ethics to _____ our intuitions, both their own consistency among themselves and by critical comparison of our own intuitions with those of others.",
-      "urdu": "اخلاقیات کا خاص کام ہماری وجدان کو ______ کرنا ہے تاکہ ان کی درستگی اور باہمی مطابقت کو پرکھا جا سکے۔",
-      "options": [
-        "Test",
-        "Ignore",
-        "Condemn",
-        "Compare"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Direct or intuitive judgment plays a far larger in normative sciences, and especially in ______ than it does in the physical description.",
-      "urdu": "براہِ راست یا وجدانی فیصلہ  معیاری علوم میں، خصوصاً ______ میں، طبعی علوم کی نسبت زیادہ اہم کردار ادا کرتا ہے۔",
-      "options": [
-        "Psychology",
-        "Sociology",
-        "Ethics",
-        "Religion"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ethics deals with the standards by which we judge human action to be ________ or wrong.",
-      "urdu": "اخلاقیات اُن معیارات سے متعلق ہے جن کے ذریعے ہم انسانی اعمال کو ______ یا غلط قرار دیتے ہیں۔",
-      "options": [
-        "Right",
-        "Illegal",
-        "Bad",
-        "Evil"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Islam spread in Sindh during the caliphate of which dynasty?",
-      "urdu": "سندھ میں اسلام کس خلافت کے دور میں پھیلا؟",
-      "options": [
-        "Abbasid Caliphate",
-        "Rashidun Caliphate",
-        "Umayyad Caliphate",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Picture on the back of 10 Rupee Pakistani Note?",
-      "urdu": "پاکستانی 10 روپے کے نوٹ کے پچھلے حصے پر کس مقام کی تصویر ہے؟",
-      "options": [
-        "Khyber Pass",
-        "Attock Pass",
-        "Bolan Pass",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the study of human life and culture?",
-      "urdu": "انسانی زندگی اور ثقافت کے مطالعہ کو کیا کہتے ہیں؟",
-      "options": [
-        "Anthropology",
-        "Sociology",
-        "Psychology",
-        "Biology"
-      ],
-      "correct": 0,
-      "explanation": "<p data-pm-slice=\"1 1 []\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which type of energy is generated by ocean waves?",
-      "urdu": "سمندر کی لہروں سے کون سی قسم کی توانائی پیدا ہوتی ہے؟",
-      "options": [
-        "Hydrokinetic Energy",
-        "Geothermal Energy",
-        "Solar Energy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Wheat is a good source of which type of vitamin?",
-      "urdu": "گندم کس قسم کے وٹامن کا اچھا ذریعہ ہے؟",
-      "options": [
-        "Vitamin A",
-        "Vitamin B Complex",
-        "Vitamin C",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-03-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Khanpur Dam is located on which river in KPK?",
-      "urdu": "خان پور ڈیم کے پی کے میں کس دریا پر واقع ہے؟",
-      "options": [
-        "Indus River",
-        "Haro River",
-        "Gomal River",
-        "Mangol River"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">Main Purposes</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the Conquest of Makkah (Fatah Makkah) by the Holy Prophet Muhammad (ﷺ) take place?",
-      "urdu": "رسول اللہ ﷺ نے مکہ فتح کب کیا؟",
-      "options": [
-        "8 AH (630 AD)",
-        "9 AH (631 AD)",
-        "10 AH (632 AD)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan produces a huge amount of its electricity from?",
-      "urdu": "پاکستان اپنی بجلی کا بڑا حصہ کس ذریعے سے پیدا کرتا ہے؟",
-      "options": [
-        "Coal",
-        "Hydropower",
-        "Solar Energy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Quaid-e-Azam joined All India Muslim League in _____?",
-      "urdu": "قائدِاعظم محمد علی جناح آل انڈیا مسلم لیگ میں کس سال شامل ہوئے؟",
-      "options": [
-        "1908",
-        "1909",
-        "1907",
-        "1913"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\" style=\"\"><b style=\"background-color: rgb(255, 255, 0);\">Additional information:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Gautam Budha was born in?",
-      "urdu": "گوتم بدھ کب پیدا ہوئے؟",
-      "options": [
-        "620 BC",
-        "623 BC",
-        "618 BC",
-        "626 BC"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-03-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Interior Minister of Pakistan?",
-      "urdu": "پاکستان کا موجودہ وزیر داخلہ کون ہے؟",
-      "options": [
-        "Sheikh Rasheed Ahmed",
-        "Mohsin Naqvi",
-        "Dr Gohar Ejaz",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"\" msolistparagraphcxspfirst\"\"=\"\"><b><span ;\"=\"\" style=\"\"><font color=\"#ff0000\">Syed Mohsin Naqvi</font><font color=\"#0000ff\"> became </font></span><font color=\"#ff0000\">interim</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\"><font style=\"\">interior </font>minister</font><font color=\"#0000ff\"> of Pakistan in </font><font color=\"#ff0000\">March 2024</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following three countries signed a MoU to maintain safe zone in Syria?",
-      "urdu": "شام میں محفوظ زون برقرار رکھنے کے لیے مفاہمتی یادداشت کن تین ممالک نے دستخط کی؟",
-      "options": [
-        "Russia, USA, Turkey",
-        "Russia, Iran, Turkey",
-        "Iran, Turkey, Iraq",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan primarily imports Liquefied Natural Gas (LNG) from which country?",
-      "urdu": "پاکستان بنیادی طور پر مائع قدرتی گیس کس ملک سے درآمد کرتا ہے؟",
-      "options": [
-        "Qatar",
-        "Saudi Arabia",
-        "Iran",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the founder of Sikhism (Sikh religion)?",
-      "urdu": "سکھ مذہب کا بانی کون تھا؟",
-      "options": [
-        "Veshnu",
-        "Shiva",
-        "Guru Nanak",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p align=\"center\" class=\"MsoNormal\" dir=\"RTL\" style=\"text-align: center; direction: rtl; unicode-bidi: embed;\"><span arial=\"\" black\",sans-serif;mso-bidi-font-family:\"jameel=\"\" dir=\"LTR\" mso-bidi-language:er\"=\"\" nastaleeq\";=\"\" noori=\"\" style=\"font-size: 18pt;\"><b>Guru Nanak Dev<o:p></o:p></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most national holistically minded today would admit that we have some _____ to all humanity.",
-      "urdu": "آج کے دور میں سب سے زیادہ قومی سوچ رکھنے والے لوگ بھی یہ تسلیم کرتے ہیں کہ ہماری پوری انسانیت کے لیے کچھ ______ ہیں۔",
-      "options": [
-        "Obligations",
-        "Duties",
-        "Rights",
-        "Values"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The moral judgment has tended to deal with the inner causes of action rather than the outward?",
-      "urdu": "اخلاقی فیصلہ ظاہری ______ کے بجائے عمل کے اندرونی اسباب (نیت) سے زیادہ تعلق رکھتا ہے؟",
-      "options": [
-        "Actions",
-        "Conducts",
-        "Duties",
-        "Righter"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most popular (populous) city in the world is?",
-      "urdu": "دنیا کا سب سے زیادہ آبادی والا شہر کون سا ہے؟",
-      "options": [
-        "Beijing",
-        "Jakarta",
-        "Shanghai",
-        "Tokyo"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The level at which an individual judges 'what is right and what is wrong' has been called the level of?",
-      "urdu": "وہ سطح جس پر ایک فرد صحیح اور غلط کا فیصلہ کرتا ہے، اسے کیا کہا جاتا ہے؟",
-      "options": [
-        "Consciousness",
-        "Morality",
-        "Conduct",
-        "Ethics"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A normative ethics deal with 'what is right and wrong', also known as?",
-      "urdu": "معیاری اخلاقیات جو \"صحیح اور غلط\" سے متعلق ہے، اسے اور کس نام سے جانا جاتا ہے؟",
-      "options": [
-        "Sociology",
-        "Psychological Morality",
-        "Moral theory",
-        "Philosophical morality"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year MAO College became University?",
-      "urdu": "ایم اے او کالج کس سال یونیورسٹی بنا؟",
-      "options": [
-        "1918",
-        "1922",
-        "1924",
-        "1920"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following has been defined as the normative science of conduct, and conduct is a collective name for voluntary action?",
-      "urdu": "کون سا علم انسانی رویّے (رضاکارانہ اعمال) کے اصولوں کا مطالعہ کرتا ہے؟",
-      "options": [
-        "Religion",
-        "Ethics",
-        "Sociology",
-        "Literature"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the age of the Holy Prophet Muhammad (ﷺ) bestowed with Prophethood / when he received the first Wahi (Revelation)?",
-      "urdu": "رسول اللہ ﷺ کی عمر پہلی وحی نازل ہونے کے وقت کتنی تھی؟",
-      "options": [
-        "35 years 6 months",
-        "40 years 6 months",
-        "42 years 6 months",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; color: rgb(33, 37, 41); margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "After Hijrat (migration) from Mecca to Madina, the Holy Prophet Muhammad’s (PBUH) camel kneeled at the door of?",
-      "urdu": "ہجرت کے بعد مکہ سے مدینہ پہنچنے پر رسول اللہ ﷺ کی اونٹنی کس صحابی کے دروازے پر بیٹھی؟",
-      "options": [
-        "Hazrat Amaar Yasir",
-        "Hazrat Jaffar",
-        "Hazrat Ayub Ansari",
-        "Hazrat Jabbar Ansari"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     }
   ]
 }
