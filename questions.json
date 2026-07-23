@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-23T15:04:37.286987",
+    "fetched_at": "2026-07-23T20:05:57.532846",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the ranking of Pakistan in Global Gender Gap Report 2025?",
-      "urdu": "گلوبل جینڈر گیپ رپورٹ 2025 میں پاکستان کی رینکنگ کیا ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "148 out of 148",
-        "146 out of 148",
-        "147 out of 148",
-        "None of These"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Global Gender Gap Report 2025</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "What is the official anthem of FIFA World Cup 2026?",
-      "urdu": "فیفا ورلڈ کپ 2026 کا آفیشل ترانہ کیا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Bring it Home",
-        "Dai Dai",
-        "Victory Is Ours",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><br/></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Neymar of Brazil is associated with which sport?",
-      "urdu": "برازیل کے نیمار کا تعلق کس کھیل سے ہے؟",
-      "options": [
-        "Football",
-        "Cricket",
-        "Tennis",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Neymar </font><font color=\"#0000ff\">is a\r\n</font>Brazilian <font color=\"#0000ff\">professional </font><font color=\"#ff0000\">footballer</font><font color=\"#0000ff\">. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following combination of keys is used to maximize or restore a selected window?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ctrl + F5",
-        "Ctrl + F10",
-        "Ctrl + F12",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many times did Muhammad PBUH perform hajj?",
-      "urdu": "محمد صلی اللہ علیہ وسلم نے کتنی بار حج کیا؟",
-      "options": [
-        "1",
-        "2",
-        "9",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"font-family: Helvetica; font-size: 16px;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b>:</p>",
-      "category": "all"
-    },
-    {
-      "q": "Which cricket team has won the most ICC Men's ODI Cricket World Cups?",
-      "urdu": "کس کرکٹ ٹیم نے سب سے زیادہ آئی سی سی مینز او ڈی آئی کرکٹ ورلڈ کپ جیتا ہے؟",
-      "options": [
-        "Australia",
-        "England",
-        "India",
-        "West Indies"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Additional information:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Associasion, Association, Asociation, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Associasion",
-        "Association",
-        "Asociation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Microsoft Excel, what is the function of the F11 key?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Opens the Save As dialog box",
-        "Creates a chart on a new chart sheet",
-        "Inserts a new worksheet",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is the host of Exercise Pitch Black 2026?",
-      "urdu": "مشق پچ بلیک 2026 کی میزبانی کون سا ملک کر رہا ہے؟",
-      "options": [
-        "France",
-        "USA",
-        "Australia",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The</font><font color=\"#ff0000\"> Exercise\r\nPitch Black 2026</font><font color=\"#0000ff\"> is being held in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Australia</font><font color=\"#0000ff\">.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is Malala Day celebrated?",
-      "urdu": "ملالہ ڈے کب منایا جاتا ہے؟",
-      "options": [
-        "12 May every year",
-        "12 December every year",
-        "12 July every year",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255); font-family: Helvetica;\">International Malala Day </span><span style=\"color: rgb(0, 0, 255); font-family: Helvetica;\">is observed every year on </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255); font-family: Helvetica;\">July 12</span><span style=\"color: rgb(0, 0, 255); font-family: Helvetica;\"> </span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "International Nelson Mandela Day is celebrated on which date?",
-      "urdu": "بین الاقوامی نیلسن منڈیلا ڈے کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "17 July",
-        "18 July",
-        "16 July",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;\"><b style=\"color: rgb(0, 0, 255);\">Nelson Mandela International Day is an annual international day in honour of</b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\"> Nelson Mandela</b><b style=\"color: rgb(0, 0, 255);\">, celebrated each year on </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">18 July, Mandela's birthday</b><b style=\"color: rgb(0, 0, 255);\">. </b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 Australian Open Men’s Singles title?",
-      "urdu": "دو ہزار چھبیس آسٹریلین اوپن مینز سنگلز ٹائٹل کس نے جیتا؟",
-      "options": [
-        "Novak Djokovic",
-        "Jannik Sinner",
-        "Carlos Alcaraz",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><span style=\"background-color: rgb(255, 255, 0);\">Carlos Alcaraz</span><font color=\"#ff0000\"> </font><font color=\"#0000ff\">of Spain won the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2026 Australian\r\nOpen men's singles title </font><font color=\"#0000ff\">, defeating </font><font color=\"#ff0000\">Novak Djokovic</font><font color=\"#0000ff\"> of\r\nSerbia in the final. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Alyssa Healy, who announced her retirement in 2026 from all forms of international cricket, belongs to which country?",
-      "urdu": "ایلیسا ہیلی، جنہوں نے 2026 میں بین الاقوامی کرکٹ کی تمام اقسام سے ریٹائرمنٹ کا اعلان کیا، کا تعلق کس ملک سے ہے؟",
-      "options": [
-        "England",
-        "Australia",
-        "South Africa",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Australia </font><font color=\"#0000ff\">women’s cricket captain </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Alyssa Healy </font><font color=\"#0000ff\">announced\r\nher retirement from all forms of international cricket ahead of the T20 World\r\nCup </font><font color=\"#ff00ff\">2026</font><font color=\"#0000ff\">. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who scored the most runs in the 2026 ICC Men's T20 World Cup?",
-      "urdu": "دو ہزار چھبیس آئی سی سی مینز ٹی ٹوئنٹی ورلڈ کپ میں سب سے زیادہ رنز کس نے بنائے؟",
-      "options": [
-        "Babar Azam",
-        "Sahibzada Farhan",
-        "Jasprit Bumrah",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the </font><font color=\"#ff0000\">2026 ICC Men's T20 World Cup</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which two countries served as mediators in the Islamabad MOU process between the US and Iran in 2026?",
-      "urdu": "دو ہزار چھبیس میں امریکہ اور ایران کے درمیان اسلام آباد مفاہمت نامے (ایم او یو) کے عمل میں کن دو ممالک نے ثالث کا کردار ادا کیا؟",
-      "options": [
-        "Pakistan and Qatar",
-        "Pakistan and Egypt",
-        "Pakistan and Saudi Arabia",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Iranian official held de-escalation-related meetings with Pakistan’s senior leadership in July 2026?",
-      "urdu": "جولائی 2026 میں کس ایرانی عہدیدار نے پاکستان کی اعلیٰ قیادت کے ساتھ کشیدگی میں کمی سے متعلق ملاقاتیں کیں؟",
-      "options": [
-        "Eskandar Momeni",
-        "Seyed Abbas Araghchi",
-        "Masoud Pezeshkian",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Iranian Interior Minister</font><font color=\"#0000ff\"> who made an official visit to Pakistan is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Eskandar Momeni</font><font color=\"#0000ff\">.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who among the following mediated the June 2026 Islamabad Memorandum of Understanding (MoU) between the US and Iran?",
-      "urdu": "درج ذیل میں سے کس نے امریکہ اور ایران کے درمیان جون 2026 کے اسلام آباد مفاہمت نامے (ایم او یو) میں ثالثی کی؟",
-      "options": [
-        "Pakistan and Iraq",
-        "Pakistan and Qatar",
-        "Pakistan and Turkey",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Eskandar Momeni is the interior minister of which country who is on official visit to Pakistan in 2026?",
-      "urdu": "اسکندر مومنی کس ملک کے وزیرِ داخلہ ہیں جو 2026 میں پاکستان کے سرکاری دورے پر ہیں؟",
-      "options": [
-        "Turkey",
-        "Afghanistan",
-        "Iran",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Iranian Interior Minister</font><font color=\"#0000ff\"> who made an official visit to Pakistan is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Eskandar Momeni</font><font color=\"#0000ff\">.</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the Iranian Interior Minister who made an official visit to Pakistan in July 2026?",
-      "urdu": "اس ایرانی وزیرِ داخلہ کا نام بتائیں جنہوں نے جولائی 2026 میں پاکستان کا سرکاری دورہ کیا؟",
-      "options": [
-        "Seyed Abbas Araghchi",
-        "Eskandar Momeni",
-        "Masoud Pezeshkian",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Iranian Interior Minister</font><font color=\"#0000ff\"> who made an official\r\nvisit to Pakistan is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Eskandar Momeni</font><font color=\"#0000ff\">.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Islamabad Memorandum of Understanding (MOU) signed between the US and Iran on which date?",
-      "urdu": "امریکہ اور ایران کے درمیان اسلام آباد مفاہمت کی یادداشت (ایم او یو) کس تاریخ کو دستخط کی گئی؟",
-      "options": [
-        "June 27, 2026",
-        "June 17, 2026",
-        "June 7, 2026",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Islamabad Memorandum of Understanding (MOU) </font><font color=\"#0000ff\">signed between the </font><span style=\"background-color: rgb(255, 255, 0);\">US and Iran</span><font color=\"#0000ff\"> on </font>June 17, 2026<font color=\"#0000ff\">, established a </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">60-day </font><font color=\"#0000ff\">timeframe.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organization publishes the annual Global Terrorism Index (GTI) 2026 report?",
-      "urdu": "کون سی تنظیم سالانہ 'گلوبل ٹیررازم انڈیکس' (جی ٹی آئی) 2026 کی رپورٹ شائع کرتی ہے؟",
-      "options": [
-        "World Economic Forum (WEF)",
-        "Institute for Economics and Peace (IEP)",
-        "Amnesty International",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country topped the Global Terrorism Index 2026 as the nation most impacted by terrorism for the first time?",
-      "urdu": "کون سا ملک پہلی بار 'گلوبل ٹیررازم انڈیکس 2026' میں دہشت گردی سے سب سے زیادہ متاثرہ ملک کے طور پر سرفہرست رہا؟",
-      "options": [
-        "Syria",
-        "Pakistan",
-        "Afghanistan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Global Terrorism Index 2026<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Neymar is a football player from which country?",
-      "urdu": "نیمار کس ملک کا فٹ بال کھلاڑی ہے؟",
-      "options": [
-        "Argentina",
-        "Argentina",
-        "Brazil",
-        "None of These"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Neymar </font><font color=\"#0000ff\">is a </font>Brazilian <font color=\"#0000ff\">professional </font><font color=\"#ff0000\">footballer</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "I am badly in need ___ money.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Of",
-        "With",
-        "To",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Deplete is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Replenish",
-        "Renew",
-        "Fulfill",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Adhere is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Give up",
-        "Stick",
-        "Criticize",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is meant by Rami al-Jamarat?",
-      "urdu": "رامی الجامارت سے کیا مراد ہے؟",
-      "options": [
-        "Sacrificing an animal during Hajj",
-        "Stoning the pillars representing Satan",
-        "Drinking Zamzam water",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 26 April 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bolan Pass is located in the province of ____?",
-      "urdu": "بولان پاس پاکستان کے کس صوبے میں واقع ہے؟",
-      "options": [
-        "Sindh",
-        "Balochistan",
-        "Punjab",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the President of Pakistan during the Indo­ Pak war 1965?",
-      "urdu": "سن 1965 کی پاک بھارت جنگ کے دوران پاکستان کے صدر کون تھے؟",
-      "options": [
-        "Yahya Khan",
-        "Pervez Musharraf",
-        "Ayub Khan",
-        "Zulfikar Ali Bhutto"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the Excel formula =AVERAGE(B1:B5) calculate?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sum of values",
-        "Maximum value",
-        "Arithmetic Mean",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In PowerPoint 2016 ‘Rehearse Timings’ option is available in the ______?",
-      "urdu": "پاورپوائنٹ 2016 میں 'ریہرس ٹائمنگز' کا آپشن کہاں دستیاب ہے؟",
-      "options": [
-        "Slide Show Tab",
-        "Home Tab",
-        "Design Tab",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Common </font><font color=\"#ff0000\">PowerPoint</font><font color=\"#0000ff\"> Tabs:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the default page orientation in MS-Word?",
-      "urdu": "ورڈ میں پہلے سے طے شدہ صفحہ واقفیت کیا ہے؟",
-      "options": [
-        "Long sides",
-        "Portrait",
-        "Landscape",
-        "Double Long side"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of Shift + Arrow keys?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Copy the selected text",
-        "Delete the selected text",
-        "Select text or cells in the direction of the arrow",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word “Kindness” is an example of?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Countable Noun",
-        "Uncountable Noun",
-        "Abstract Noun",
-        "Material Noun"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#0000ff\">Examples of </font><font color=\"#ff0000\">Adjective → Abstract </font><font color=\"#0000ff\">Noun:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did First Women Bank Limited (FWBL) commence its business?",
-      "urdu": "فرسٹ ویمن بینک لمیٹڈ نے اپنے کاروبار کا آغاز کب کیا؟",
-      "options": [
-        "2 December 1989",
-        "21 November 1989",
-        "1 January 1990",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Stationnary, Stationary, Stationery, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Stationnary",
-        "Stationary",
-        "Stationery",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Delta is the Airline of ______?",
-      "urdu": "ڈیلٹا کس ملک کی ایئرلائن ہے؟",
-      "options": [
-        "United States",
-        "Australia",
-        "Switzerland",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the masculine gender of the given noun \"Nun\".",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Priest",
-        "Monk",
-        "King",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to use the find and replace feature?",
-      "urdu": "فائنڈ اینڈ ریپلیس فیچر استعمال کرنے کے لیے کون سا شارٹ کٹ کی استعمال ہوتا ہے؟",
-      "options": [
-        "CTRL + H",
-        "CTRL + F",
-        "CTRL + G",
-        "CTRL + R"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of UNESCO located?",
-      "urdu": "یونیسکو کا ہیڈکوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Geneva, Switzerland",
-        "Paris, France",
-        "New York, USA",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Transparency International is primarily known for monitoring?",
-      "urdu": "ٹرانسپیرنسی انٹرنیشنل بنیادی طور پر کس چیز کی نگرانی کرتی ہے؟",
-      "options": [
-        "Corruption",
-        "Poverty",
-        "Education",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ  ربا کے لفظی معنی کیا ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "کمی",
-        "زیادتی یا اضافہ",
-        "برابری",
-        "تجارت"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">عربی زبان میں ربا کے لفظی</font><font color=\"#ff0000\"> معنی اضافہ، زیادتی یا ب</font><font color=\"#0000ff\">ڑھوتری کے ہیں۔</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "رسول اللہ ﷺ نے مدینہ منورہ میں کون سا سماجی اور معاشی معاہدہ کیا؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "معاہدۂ حدیبیہ",
-        "میثاقِ مدینہ",
-        "معاہدۂ نجران",
-        "صلحِ طائف"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"315\" data-is-last-node=\"\" data-is-only-node=\"\" data-start=\"149\" style=\"text-align: right; \"><font color=\"#0000ff\" style=\"font-size: 0.875rem;\">میثاقِ مدینہ رسول اللہ ﷺ نے مدینہ کے مختلف قبائل اور گروہوں کے </font><font color=\"#ff0000\" style=\"font-size: 0.875rem;\">درمیان امن، باہمی تعاون اور حقوق </font><font color=\"#0000ff\" style=\"font-size: 0.875rem;\">کے تحفظ کے لیے کیا تھا۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "She has ____.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Take",
-        "Takes",
-        "Taken",
-        "Taked"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"61\" data-start=\"29\"><font color=\"#0000ff\">She has </font><font color=\"#00ff00\">taken</font><font color=\"#0000ff\">.<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ اُمت  کے معنی کیا ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "قوم یا جماعت",
-        "حکومت",
-        "شہر",
-        "ملک"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">اُمت سے مراد قوم، جماعت یا لوگوں کا گروہ ہے جو کسی </font><font color=\"#ff0000\">مشترک عقیدے یا مقصد پر متح</font><font color=\"#0000ff\">د ہو۔</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Minto park is now called as _______?",
-      "urdu": "منٹو پارک کو اب کیا کہا جاتا ہے؟",
-      "options": [
-        "Jinnah Park",
-        "Iqbal Park",
-        "Lawrence Park",
-        "Patriot Park"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 22-07-2026 by NA</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which CE year did the Prophet Muhammad (PBUH) migrate (Hijrah) from Makkah to Madinah?",
-      "urdu": "نبی کریم صلی اللہ علیہ وسلم نے مکہ مکرمہ سے مدینہ منورہ کی طرف ہجرت (ہجرت) کس عیسوی میں کی؟",
-      "options": [
-        "610 CE",
-        "620 CE",
-        "622 CE",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ganga Plane was burnt by a Kashmiri Mujahid at the Airport of?",
-      "urdu": "گانگا طیارہ کو ایک کشمیری مجاہد نے _____ کے ہوائی اڈے پر جلا دیا تھا۔",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
         "Karachi",
-        "Rawalpindi",
         "Lahore",
-        "None of these"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 22-07-2026 by NA</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mantakka Pass is located on the boundary line of?",
-      "urdu": "منٹکا پاس کس کی سرحدی لائن پر واقع ہے؟",
-      "options": [
-        "Pakistan and India",
-        "China and India",
-        "India and Myanmar",
-        "Pakistan and China"
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 22-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Chilam Joshi is the festival of?",
-      "urdu": "چلام جوشی کس کا تہوار ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Dir",
-        "Kalash",
-        "Skardu",
-        "Hunza"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
-      "correct": 1,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
+      ],
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
