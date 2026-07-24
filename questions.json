@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-23T20:05:57.532846",
+    "fetched_at": "2026-07-24T04:12:41.660751",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "The hunter aimed at the ______.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Bear",
+        "Bird",
+        "Deer",
+        "Lion"
       ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "correct": 2,
+      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 23-07-2026 by NA</span><font color=\"#00ff00\"></font></p>",
+      "category": "all"
     },
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "Chef : Restaurant :: Teacher : ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Hospital",
+        "School",
+        "Court",
+        "Bank"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p style='--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px; font-family: D-DINExp, \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";'><span style=\"color: rgb(156, 0, 255); font-family: Overpass, sans-serif; background-color: rgb(255, 255, 0);\">Last updated on 23-07-2026 by NA</span><font color=\"#00ff00\"></font></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Synonym of Maons is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Happiness",
+        "Anger",
+        "Groans",
+        "Excitement"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 23-07-2026 by NA</span><font color=\"#ff0000\"></font></p>",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Choose the correct spelling:  A) Judgement B) Judgment C) Judgmant D) Judjment",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "Judgement",
+        "Judgment",
+        "Judgmant",
+        "Judjment"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Judgment means </font><font color=\"#ff0000\">فیصلہ </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Borrow : Lend :: Buy : ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sell",
+        "Take",
+        "Give",
+        "Keep"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 23-07-2026 by NA</span><font color=\"#9c00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Money gets ______.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Spent",
+        "Sleep",
+        "Walk",
+        "Fly"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 23-07-2026 by NA</span><font color=\"#0000ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "1/x3 +1 =(A/x+1 ) + (Bx + C/ x2-x+c) find the value of A is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1",
+        "1/3",
+        "-1/3",
+        "0"
+      ],
+      "correct": 1,
+      "explanation": "<p><p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"20\" data-start=\"14\"><font color=\"#ce0000\" style=\"background-color: rgb(255, 255, 255);\">Given:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"mord\"><span class=\"mord\"><span class=\"mord mathnormal\">1/x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span><span class=\"mord\">1 </span></span></span></span></span></span></span><span class=\"mrel\">= A/ </span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span><span class=\"mord\">1 </span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mspace\"></span><span class=\"mbin\">+ </span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mopen nulldelimiter\"></span><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"mord\"><span class=\"mord\"><span class=\"mord mathnormal\"><span class=\"mord mathnormal\">B</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span><span class=\"mord mathnormal\">C/ </span>x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span><span class=\"mord\">1</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span></span></span></span></span>\n</font><p data-end=\"86\" data-start=\"80\"><font color=\"#ce0000\" style=\"background-color: rgb(255, 255, 255);\">Since:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span></span></span></span></span>\n</font><p data-end=\"161\" data-start=\"116\"><font color=\"#ce0000\" style=\"background-color: rgb(255, 255, 255);\">Multiplying both sides by</font><font color=\"#0000ff\">: <span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span></span></span></span>:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">B</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">C</span><span class=\"mclose\">)</span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mclose\">)</span></span></span></span></span>\n</font><p data-end=\"205\" data-start=\"195\"><font color=\"#ce0000\" style=\"background-color: rgb(255, 255, 255);\">Expanding:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">B</span><span class=\"mclose\">)</span><span class=\"mord\"><span class=\"mord mathnormal\">x</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mopen\">(</span><span class=\"mord\">−</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">B</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">C</span><span class=\"mclose\">)</span><span class=\"mord mathnormal\">x</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">C</span><span class=\"mclose\">)</span></span></span></span></span>\n</font><p data-end=\"264\" data-start=\"241\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">Comparing coefficients:</font><font color=\"#ce0000\" style=\"background-color: rgb(255, 255, 255);\"></font></p><font color=\"#21104a\"><span class=\"katex-display\" style=\"\"><span class=\"katex\" style=\"\"><span class=\"katex-mathml\" style=\"background-color: rgb(255, 255, 255);\"><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><annotation encoding=\"application/x-tex\"></annotation></semantics></math>A+B=0</span><span aria-hidden=\"true\" class=\"katex-html\" style=\"\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">B</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0<br/></span></span></span></span></span><span class=\"katex-display\" style=\"\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">−</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">B</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">C</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0<br/></span></span></span></span></span><span class=\"katex-display\" style=\"\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">C</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span></span></span></span></span><span class=\"katex\" style=\"\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi><br/></mi></mrow><annotation encoding=\"application/x-tex\">A+B=0</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">B</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0</span></span></span></span><span class=\"katex-display\" style=\"\"><span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\" style=\"\"><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord mathnormal\">B</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\" style=\"\">−</span><span class=\"mord mathnormal\" style=\"\">A</span></span></span></span></span></font>\n<p data-end=\"352\" data-start=\"337\"><font color=\"#0000ff\">From <span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">C</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span></span></span></span>:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">C</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span></span></span></span></span>\n</font><p data-end=\"403\" data-start=\"367\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">Substitute into the second equation:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">−</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mopen\">(</span><span class=\"mord\">1</span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span><span class=\"mclose\">)</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0<br/></span></span></span></span></span><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mspace\"></span><span class=\"mbin\">−</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">3</span><span class=\"mord mathnormal\">A</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0<br/></span></span></span></span></span></font><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"boxpad\"><span class=\"mord\"><span class=\"mord\"><font color=\"#630000\" style=\"background-color: rgb(255, 255, 0);\"><span class=\"mord mathnormal\" style=\"\">A</span><span class=\"mspace\"></span><span class=\"mrel\" style=\"\">=1/</span><span class=\"mspace\"></span></font><span class=\"mord\"><font color=\"#630000\"><span class=\"mopen nulldelimiter\" style=\"background-color: rgb(255, 255, 0);\"></span></font><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#630000\"><span class=\"pstrut\"></span><span class=\"mord\" style=\"\"><span class=\"mord\" style=\"\">3</span></span></font></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A and B started business in partnership investing Rs. 20,000 and Rs. 15,000 respectively. After six months, C joined them with Rs. 20,000. What will be B’s share in the total profit of Rs. 25,000 earned at the end of 2 years from the starting of the business?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "75000",
+        "9000",
+        "95000",
+        "55000"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"455\" data-start=\"405\"><font color=\"#0000ff\">Profit is divided according to Capital × Time.<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The synonym of Condemned is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Praised",
+        "Approved",
+        "Criticized",
+        "Admired"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><span data-end=\"210\" data-start=\"197\" style=\"font-weight: bolder;\"><span style=\"color: rgb(156, 0, 255); font-weight: 400; background-color: rgb(255, 255, 0);\">Last updated on 23-07-2026 by NA</span></span></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Flowers ___ in the spring season",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
+        "Bloom",
+        "Blooms",
+        "Bloomed",
+        "Blooming"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Flowers </font><font color=\"#ff0000\">bloom </font><font color=\"#0000ff\">in the spring season.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two values are in the smallest ratio 4:5 and their LCM is 180. What is the smaller value?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "24",
+        "36",
+        "45",
+        "54"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"249\" data-start=\"213\"><font color=\"#0000ff\">Let the two values be <strong data-end=\"248\" data-start=\"235\">4x and 5x</strong>.<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Evaluate (1/3)+(1/4)=?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5/12",
+        "7/12",
+        "4/7",
+        "1/ 12"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"266\" data-start=\"243\"><font color=\"#0000ff\">LCM of 3 and 4 = <strong data-end=\"266\" data-start=\"260\">12</strong></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "بغلیں جھانکنا کا کیا معنی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "شرمندہ ہونا",
+        "ناراض ہونا",
+        "تباہ و برباد ہونا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" style=\"font-weight: bold;\">بغلیں</font><font color=\"#0000ff\" style=\"font-weight: bold;\"> </font><font color=\"#ff0000\" style=\"font-weight: bold;\">جھانکتا</font><font color=\"#0000ff\" style=\"font-weight: bold;\"> کا </font><b style=\"\"><font color=\"#0000ff\">مطلب </font><font color=\"#ff0000\">شرمندہ ہونا یا لاجواب ہو جانا</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Antonym of Excited is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Happy",
+        "Calm",
+        "Joyful",
+        "Energetic"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Excited  </font><font color=\"#ff0000\">پرجوش </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "He and I ____ football.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Is playing",
+        "Are playing",
+        "Am playing",
+        "Was playing"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">He and I </font><font color=\"#ff0000\">are playing </font><font color=\"#0000ff\">football.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the ranking of Pakistan in Global Gender Gap Report 2025?",
+      "urdu": "گلوبل جینڈر گیپ رپورٹ 2025 میں پاکستان کی رینکنگ کیا ہے؟",
+      "options": [
+        "148 out of 148",
+        "146 out of 148",
+        "147 out of 148",
+        "None of These"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Global Gender Gap Report 2025</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the official anthem of FIFA World Cup 2026?",
+      "urdu": "فیفا ورلڈ کپ 2026 کا آفیشل ترانہ کیا ہے؟",
+      "options": [
+        "Bring it Home",
+        "Dai Dai",
+        "Victory Is Ours",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Neymar of Brazil is associated with which sport?",
+      "urdu": "برازیل کے نیمار کا تعلق کس کھیل سے ہے؟",
+      "options": [
+        "Football",
+        "Cricket",
+        "Tennis",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Neymar </font><font color=\"#0000ff\">is a\r\n</font>Brazilian <font color=\"#0000ff\">professional </font><font color=\"#ff0000\">footballer</font><font color=\"#0000ff\">. <o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following combination of keys is used to maximize or restore a selected window?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ctrl + F5",
+        "Ctrl + F10",
+        "Ctrl + F12",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many times did Muhammad PBUH perform hajj?",
+      "urdu": "محمد صلی اللہ علیہ وسلم نے کتنی بار حج کیا؟",
+      "options": [
+        "1",
+        "2",
+        "9",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"font-family: Helvetica; font-size: 16px;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b>:</p>",
+      "category": "all"
+    },
+    {
+      "q": "Which cricket team has won the most ICC Men's ODI Cricket World Cups?",
+      "urdu": "کس کرکٹ ٹیم نے سب سے زیادہ آئی سی سی مینز او ڈی آئی کرکٹ ورلڈ کپ جیتا ہے؟",
+      "options": [
+        "Australia",
+        "England",
+        "India",
+        "West Indies"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Additional information:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling: Associasion, Association, Asociation, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Associasion",
+        "Association",
+        "Asociation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Microsoft Excel, what is the function of the F11 key?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Opens the Save As dialog box",
+        "Creates a chart on a new chart sheet",
+        "Inserts a new worksheet",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is the host of Exercise Pitch Black 2026?",
+      "urdu": "مشق پچ بلیک 2026 کی میزبانی کون سا ملک کر رہا ہے؟",
+      "options": [
+        "France",
+        "USA",
+        "Australia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The</font><font color=\"#ff0000\"> Exercise\r\nPitch Black 2026</font><font color=\"#0000ff\"> is being held in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Australia</font><font color=\"#0000ff\">.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When is Malala Day celebrated?",
+      "urdu": "ملالہ ڈے کب منایا جاتا ہے؟",
+      "options": [
+        "12 May every year",
+        "12 December every year",
+        "12 July every year",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255); font-family: Helvetica;\">International Malala Day </span><span style=\"color: rgb(0, 0, 255); font-family: Helvetica;\">is observed every year on </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255); font-family: Helvetica;\">July 12</span><span style=\"color: rgb(0, 0, 255); font-family: Helvetica;\"> </span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "International Nelson Mandela Day is celebrated on which date?",
+      "urdu": "بین الاقوامی نیلسن منڈیلا ڈے کس تاریخ کو منایا جاتا ہے؟",
+      "options": [
+        "17 July",
+        "18 July",
+        "16 July",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: middle; word-break: normal;\"><b style=\"color: rgb(0, 0, 255);\">Nelson Mandela International Day is an annual international day in honour of</b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\"> Nelson Mandela</b><b style=\"color: rgb(0, 0, 255);\">, celebrated each year on </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">18 July, Mandela's birthday</b><b style=\"color: rgb(0, 0, 255);\">. </b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who won the 2026 Australian Open Men’s Singles title?",
+      "urdu": "دو ہزار چھبیس آسٹریلین اوپن مینز سنگلز ٹائٹل کس نے جیتا؟",
+      "options": [
+        "Novak Djokovic",
+        "Jannik Sinner",
+        "Carlos Alcaraz",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><span style=\"background-color: rgb(255, 255, 0);\">Carlos Alcaraz</span><font color=\"#ff0000\"> </font><font color=\"#0000ff\">of Spain won the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2026 Australian\r\nOpen men's singles title </font><font color=\"#0000ff\">, defeating </font><font color=\"#ff0000\">Novak Djokovic</font><font color=\"#0000ff\"> of\r\nSerbia in the final. <o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Alyssa Healy, who announced her retirement in 2026 from all forms of international cricket, belongs to which country?",
+      "urdu": "ایلیسا ہیلی، جنہوں نے 2026 میں بین الاقوامی کرکٹ کی تمام اقسام سے ریٹائرمنٹ کا اعلان کیا، کا تعلق کس ملک سے ہے؟",
+      "options": [
+        "England",
+        "Australia",
+        "South Africa",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Australia </font><font color=\"#0000ff\">women’s cricket captain </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Alyssa Healy </font><font color=\"#0000ff\">announced\r\nher retirement from all forms of international cricket ahead of the T20 World\r\nCup </font><font color=\"#ff00ff\">2026</font><font color=\"#0000ff\">. <o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who scored the most runs in the 2026 ICC Men's T20 World Cup?",
+      "urdu": "دو ہزار چھبیس آئی سی سی مینز ٹی ٹوئنٹی ورلڈ کپ میں سب سے زیادہ رنز کس نے بنائے؟",
+      "options": [
+        "Babar Azam",
+        "Sahibzada Farhan",
+        "Jasprit Bumrah",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the </font><font color=\"#ff0000\">2026 ICC Men's T20 World Cup</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which two countries served as mediators in the Islamabad MOU process between the US and Iran in 2026?",
+      "urdu": "دو ہزار چھبیس میں امریکہ اور ایران کے درمیان اسلام آباد مفاہمت نامے (ایم او یو) کے عمل میں کن دو ممالک نے ثالث کا کردار ادا کیا؟",
+      "options": [
+        "Pakistan and Qatar",
+        "Pakistan and Egypt",
+        "Pakistan and Saudi Arabia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Iranian official held de-escalation-related meetings with Pakistan’s senior leadership in July 2026?",
+      "urdu": "جولائی 2026 میں کس ایرانی عہدیدار نے پاکستان کی اعلیٰ قیادت کے ساتھ کشیدگی میں کمی سے متعلق ملاقاتیں کیں؟",
+      "options": [
+        "Eskandar Momeni",
+        "Seyed Abbas Araghchi",
+        "Masoud Pezeshkian",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Iranian Interior Minister</font><font color=\"#0000ff\"> who made an official visit to Pakistan is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Eskandar Momeni</font><font color=\"#0000ff\">.</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who among the following mediated the June 2026 Islamabad Memorandum of Understanding (MoU) between the US and Iran?",
+      "urdu": "درج ذیل میں سے کس نے امریکہ اور ایران کے درمیان جون 2026 کے اسلام آباد مفاہمت نامے (ایم او یو) میں ثالثی کی؟",
+      "options": [
+        "Pakistan and Iraq",
+        "Pakistan and Qatar",
+        "Pakistan and Turkey",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Eskandar Momeni is the interior minister of which country who is on official visit to Pakistan in 2026?",
+      "urdu": "اسکندر مومنی کس ملک کے وزیرِ داخلہ ہیں جو 2026 میں پاکستان کے سرکاری دورے پر ہیں؟",
+      "options": [
+        "Turkey",
+        "Afghanistan",
+        "Iran",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Iranian Interior Minister</font><font color=\"#0000ff\"> who made an official visit to Pakistan is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Eskandar Momeni</font><font color=\"#0000ff\">.</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name the Iranian Interior Minister who made an official visit to Pakistan in July 2026?",
+      "urdu": "اس ایرانی وزیرِ داخلہ کا نام بتائیں جنہوں نے جولائی 2026 میں پاکستان کا سرکاری دورہ کیا؟",
+      "options": [
+        "Seyed Abbas Araghchi",
+        "Eskandar Momeni",
+        "Masoud Pezeshkian",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Iranian Interior Minister</font><font color=\"#0000ff\"> who made an official\r\nvisit to Pakistan is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Eskandar Momeni</font><font color=\"#0000ff\">.</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Islamabad Memorandum of Understanding (MOU) signed between the US and Iran on which date?",
+      "urdu": "امریکہ اور ایران کے درمیان اسلام آباد مفاہمت کی یادداشت (ایم او یو) کس تاریخ کو دستخط کی گئی؟",
+      "options": [
+        "June 27, 2026",
+        "June 17, 2026",
+        "June 7, 2026",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Islamabad Memorandum of Understanding (MOU) </font><font color=\"#0000ff\">signed between the </font><span style=\"background-color: rgb(255, 255, 0);\">US and Iran</span><font color=\"#0000ff\"> on </font>June 17, 2026<font color=\"#0000ff\">, established a </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">60-day </font><font color=\"#0000ff\">timeframe.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which organization publishes the annual Global Terrorism Index (GTI) 2026 report?",
+      "urdu": "کون سی تنظیم سالانہ 'گلوبل ٹیررازم انڈیکس' (جی ٹی آئی) 2026 کی رپورٹ شائع کرتی ہے؟",
+      "options": [
+        "World Economic Forum (WEF)",
+        "Institute for Economics and Peace (IEP)",
+        "Amnesty International",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country topped the Global Terrorism Index 2026 as the nation most impacted by terrorism for the first time?",
+      "urdu": "کون سا ملک پہلی بار 'گلوبل ٹیررازم انڈیکس 2026' میں دہشت گردی سے سب سے زیادہ متاثرہ ملک کے طور پر سرفہرست رہا؟",
+      "options": [
+        "Syria",
+        "Pakistan",
+        "Afghanistan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Global Terrorism Index 2026<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Neymar is a football player from which country?",
+      "urdu": "نیمار کس ملک کا فٹ بال کھلاڑی ہے؟",
+      "options": [
+        "Argentina",
+        "Argentina",
+        "Brazil",
+        "None of These"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Neymar </font><font color=\"#0000ff\">is a </font>Brazilian <font color=\"#0000ff\">professional </font><font color=\"#ff0000\">footballer</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "I am badly in need ___ money.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Of",
+        "With",
+        "To",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Deplete is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Replenish",
+        "Renew",
+        "Fulfill",
+        "Both A and B"
       ],
       "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Adhere is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Give up",
+        "Stick",
+        "Criticize",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Rami al-Jamarat?",
+      "urdu": "رامی الجامارت سے کیا مراد ہے؟",
+      "options": [
+        "Sacrificing an animal during Hajj",
+        "Stoning the pillars representing Satan",
+        "Drinking Zamzam water",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 26 April 2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bolan Pass is located in the province of ____?",
+      "urdu": "بولان پاس پاکستان کے کس صوبے میں واقع ہے؟",
+      "options": [
+        "Sindh",
+        "Balochistan",
+        "Punjab",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the President of Pakistan during the Indo­ Pak war 1965?",
+      "urdu": "سن 1965 کی پاک بھارت جنگ کے دوران پاکستان کے صدر کون تھے؟",
+      "options": [
+        "Yahya Khan",
+        "Pervez Musharraf",
+        "Ayub Khan",
+        "Zulfikar Ali Bhutto"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the Excel formula =AVERAGE(B1:B5) calculate?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sum of values",
+        "Maximum value",
+        "Arithmetic Mean",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In PowerPoint 2016 ‘Rehearse Timings’ option is available in the ______?",
+      "urdu": "پاورپوائنٹ 2016 میں 'ریہرس ٹائمنگز' کا آپشن کہاں دستیاب ہے؟",
+      "options": [
+        "Slide Show Tab",
+        "Home Tab",
+        "Design Tab",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Common </font><font color=\"#ff0000\">PowerPoint</font><font color=\"#0000ff\"> Tabs:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the default page orientation in MS-Word?",
+      "urdu": "ورڈ میں پہلے سے طے شدہ صفحہ واقفیت کیا ہے؟",
+      "options": [
+        "Long sides",
+        "Portrait",
+        "Landscape",
+        "Double Long side"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of Shift + Arrow keys?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Copy the selected text",
+        "Delete the selected text",
+        "Select text or cells in the direction of the arrow",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The word “Kindness” is an example of?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Countable Noun",
+        "Uncountable Noun",
+        "Abstract Noun",
+        "Material Noun"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#0000ff\">Examples of </font><font color=\"#ff0000\">Adjective → Abstract </font><font color=\"#0000ff\">Noun:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did First Women Bank Limited (FWBL) commence its business?",
+      "urdu": "فرسٹ ویمن بینک لمیٹڈ نے اپنے کاروبار کا آغاز کب کیا؟",
+      "options": [
+        "2 December 1989",
+        "21 November 1989",
+        "1 January 1990",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-07-2026</b></font></p>",
+      "category": "all"
     }
   ]
 }
