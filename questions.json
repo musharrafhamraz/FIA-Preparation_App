@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-25T14:28:07.332092",
+    "fetched_at": "2026-07-25T20:03:34.695252",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The average of five numbers 2, 7, 9, 10, x is 5. Find the value of x.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "-5",
-        "-3",
-        "2",
-        "5"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"63\" data-start=\"15\"><font color=\"#0000ff\">Average = </font><strong data-end=\"63\" data-start=\"25\" style=\"\"><font color=\"#ff9c00\">Sum of numbers ÷ Number of numbers</font></strong></p>",
-      "category": "all"
-    },
-    {
-      "q": "If  √4x-3=4, find the value of x.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3",
-        "4",
-        "19/4",
-        "5"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">√4x-3=4</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "0.003 × 0.02 = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "0.06",
-        "0.006",
-        "0.0006",
-        "0.00006"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\"><span class=\"base\"><span class=\"mord\">0.003</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0.02</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span></font><span class=\"base\"><font color=\"#ff0000\"><span class=\"strut\"></span></font><span class=\"mord\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><font color=\"#ff0000\"><span class=\"pstrut\"></span><span class=\"boxpad\" style=\"\"><span class=\"mord\" style=\"\"><span class=\"mord\" style=\"\"><span class=\"mord\" style=\"\">0.00006</span></span></span></span></font></span></span></span></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The distance between two trains is 300 km. One train travels at 60 km/h and the other at 90 km/h toward each other. After how much time will they meet?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1 hour",
-        "2 hours",
-        "3 hours",
-        "4 hours"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"10\" data-start=\"0\"><font color=\"#0000ff\"><strong data-end=\"10\" data-start=\"0\">Given:</strong><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 25% of 120,000?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "20,000",
-        "25,000",
-        "30,000",
-        "35,000"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"><span class=\"base\"><span class=\"mord\">25%</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">120</span><span class=\"mpunct\">,</span><span class=\"mspace\"></span><span class=\"mord\">000</span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which battle did Hazrat Umar (RA) present half of his wealth?",
-      "urdu": "حضرت عمر (رضی اللہ عنہ) نے کس جنگ میں اپنا آدھا مال پیش کیا؟",
-      "options": [
-        "Battle of Badr",
-        "Battle of Uhud",
-        "Battle of Tabuk",
-        "Battle of Khandaq"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><em style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><span style=\"color: rgb(255, 156, 0); font-style: normal; background-color: rgb(255, 255, 0);\">Last updated 25-07-2026 by NA</span><font color=\"#ff00ff\"></font></em></p>",
-      "category": "all"
-    },
-    {
-      "q": "شعر کے آخر میں آنے والا ایک لفظ یا کئی الفاظ جو وزن اور آواز میں یکساں، مگر معنی کے اعتبار سے جدا ہوں، کیا کہلاتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ردیف",
-        "قافیہ",
-        "مقطع",
-        "ان  میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"text-align: right; \"><font color=\"#0000ff\">شعر کے آخر میں آنے والے ایسے ہم آواز اور ہم وزن الفاظ جو معنی کے اعتبار سے مختلف ہوں،</font><font color=\"#ff0000\"> قافیہ کہلاتے ہ</font><font color=\"#0000ff\">یں۔ </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "آب آب ہونا محاورہ ہے۔ اس کا کیا مطلب ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "دل جیت لینا",
-        "زار و قطار رونا",
-        "شرمندہ ہونا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: right; \"><b><font color=\"#ff0000\">آب</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">آب</font><font color=\"#0000ff\"> ہونا محاورہ ہے۔ اس کا مطلب </font><font color=\"#ff0000\">شرمندہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ہونا</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The EAX register consists of how many bytes?",
-      "urdu": "EAX رجسٹر کتنے بائٹس پر مشتمل ہوتا ہے؟",
-      "options": [
-        "2 bytes",
-        "4 bytes",
-        "8 bytes",
-        "16 bytes"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"></p>",
-      "category": "all"
-    },
-    {
-      "q": "A commercial Polaroid is called?",
-      "urdu": "ایک کمرشل پولرائیڈ کو کہتے ہیں",
-      "options": [
-        "Polarizer",
-        "Polaroid filter",
-        "Polarizing filter",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p style='--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px; font-family: D-DINExp, \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";'><font color=\"#0000ff\">A commercial Polaroid — referring to the </font><font color=\"#ff0000\">polarizing material/filter</font><font color=\"#0000ff\"> used in various commercial applications —</font><font color=\"#00ff00\"> can be called by any of these names:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The point (6,9) lies with respect to the circle x 2 +y 2 =100 at:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Inside the circle",
-        "On the circle",
-        "Outside the circle",
-        "At the center of the circle"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 24-07-2026 by NA</span><font color=\"#ff0000\" style=\"font-size: 0.875rem;\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following represents the Law of Cosines?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "a 2 +b 2 =c 2",
-        "c 2 =a 2 +b 2 −2abcosC",
-        "c=a+b",
-        "c 2 =a 2 +b 2 +2abcosC"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 24-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "If AX=0, then it has only the trivial solution when?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "∣A∣  =0",
-        "∣A∣=0",
-        "A=0",
-        "X  =0"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">If the </font><font color=\"#ff0000\">determinant <span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mord\">∣</span><span class=\"mord mathnormal\">A</span><span class=\"mord\">∣</span><span class=\"mspace\"></span><span class=\"mrel\"><span class=\"mrel\"><span class=\"mord vbox\"><span class=\"thinbox\"><span class=\"rlap\"><span class=\"strut\"></span><span class=\"inner\"><span class=\"mord\"><span class=\"mrel\"></span></span></span><span class=\"fix\"></span></span></span></span></span><span class=\"mrel\">=</span></span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0</span></span></span></span>, </font><font color=\"#0000ff\">then </font><span class=\"katex\" style=\"color: rgb(0, 0, 255);\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><annotation encoding=\"application/x-tex\">A</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord mathnormal\">A</span></span></span></span><font color=\"#0000ff\"> is non-singular (invertible), so the homogeneous system </font><span class=\"katex\" style=\"\"><span class=\"katex-mathml\" style=\"color: rgb(0, 0, 255);\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi><br/></mi></mrow><annotation encoding=\"application/x-tex\">AX=0</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\" style=\"\"><font color=\"#ff0000\"><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord mathnormal\" style=\"\">A</span><span class=\"mord mathnormal\" style=\"\">X</span><span class=\"mspace\"></span><span class=\"mrel\" style=\"\">=</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\">0</span></span></font></span></span><font color=\"#ff0000\"> has only the trivial solution <span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mord mathnormal\">X</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">0</span></span></span></span>.</font></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "When is the UN World Drowning Prevention Day observed?",
-      "urdu": "اقوام متحدہ کا 'ڈوبنے سے بچاؤ کا عالمی دن' کب منایا جاتا ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "25 July",
-        "30 July",
-        "20 July",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The United Nations (UN’s) </font><font color=\"#ff0000\">World Drowning Prevention\r\nDay</font><font color=\"#0000ff\"> is observed annually across the world on</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> 25 July</font><font color=\"#0000ff\"> to highlight the global\r\nimpact of drowning, promote life-saving prevention measures and encourage\r\ncoordinated action for water safety.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country launched Gravity-1 Y4 carrier rocket from a sea?",
-      "urdu": "کس ملک نے سمندر سے 'گریویٹی-1 وائی 4'  کیریئر راکٹ لانچ کیا؟",
-      "options": [
-        "South Korea",
-        "China",
-        "Japan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">China </font><font color=\"#0000ff\">launched\r\nthe </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Gravity-1 Y4 carrier</font><font color=\"#0000ff\"> rocket from the sea. </font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is World Brain Day observed?",
-      "urdu": "دماغ کا عالمی دن کب منایا جاتا ہے ؟",
-      "options": [
-        "July 21",
-        "July 23",
-        "July 22",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\">World Brain Day</b><b style=\"color: rgb(0, 0, 255);\"> is observed on </b><b style=\"background-color: rgb(255, 255, 0);\">22 July</b><b style=\"color: rgb(0, 0, 255);\"> annually.</b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Which country officially withdrew from World Health Organization (WHO) in 2026?",
-      "urdu": "دو ہزار چھبیس میں کون سا ملک باضابطہ طور پر عالمی ادارہ صحت (ڈبلیو ایچ او) سے الگ ہو گیا؟",
-      "options": [
-        "United Kingdom (UK)",
-        "United Arab Emirates (UAE)",
-        "United States of America (USA)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">In 2026, the</font><font color=\"#ff0000\"> Unites States</font><font color=\"#0000ff\"> officially\r\ncomplete its withdrawal from the World Health Organization (</font><font color=\"#ff00ff\">WHO</font><font color=\"#0000ff\">).<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Shahabuddin was the 16th president of which country who rendered his resignation due to his health concerns in 2026?",
-      "urdu": "شہاب الدین کس ملک کے 16ویں صدر تھے جنہوں نے 2026 میں صحت کے مسائل کی وجہ سے استعفیٰ دیا؟",
-      "options": [
-        "Nepal",
-        "Bangladesh",
-        "Libya",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Shahabuddin </span>served as the </font><font color=\"#ff0000\">16th </font>president <font color=\"#0000ff\">of </font><font color=\"#ff00ff\">Bangladesh </font><font color=\"#0000ff\">from 2023 to 2026.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who has become the first commander of National Strategic Command of Pakistan?",
-      "urdu": "پاکستان کی نیشنل اسٹریٹجک کمانڈ کے پہلے کمانڈر کون بنے ہیں؟",
-      "options": [
-        "General Shahid Shah",
-        "General Aamer Raza",
-        "General Zaman Khan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; font-size: 0.875rem;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">General Aamer Raza</font><font color=\"#0000ff\"> appointed as </font>first <font color=\"#0000ff\">commander of Pakistan's NSC on July 24, 2026.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the current SBP interest rate in Pakistan?",
-      "urdu": "پاکستان میں موجودہ شرح سود کتنا ہے؟",
-      "options": [
-        "11.5 percent",
-        "12.5 percent",
-        "13.5 percent",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><o:p></o:p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current president of Bangladesh?",
-      "urdu": "بنگلادیش کے موجودہ صدر کون ہیں؟",
-      "options": [
-        "Tarique Rahman",
-        "Hafiz Uddin Ahmad",
-        "Shahabuddin Chuppu",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Hafiz Uddin Ahmad</font><font color=\"#0000ff\">\r\nis the current acting </font>president <font color=\"#0000ff\">of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Bangladesh </font><font color=\"#0000ff\">since 24 July 2026. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mohammed Shahabuddin of Bangladesh resigned from which  post in July 2026 due to health concerns?",
-      "urdu": "بنگلہ دیش کے محمد شہاب الدین نے جولائی 2026 میں صحت کے مسائل کی وجہ سے کس عہدے سے استعفیٰ دیا؟",
-      "options": [
-        "Prime Minister",
-        "President",
-        "Army Chief",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Shahabuddin </span>served as the </font><font color=\"#ff0000\">17th </font>president <font color=\"#0000ff\">of </font><font color=\"#ff00ff\">Bangladesh </font><font color=\"#0000ff\">from 2023 to 2026.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which president of Bangladesh resigned from his post in July 2026 due to health concerns?",
-      "urdu": "بنگلہ دیش کے کس صدر نے جولائی 2026 میں صحت کے مسائل کی وجہ سے اپنے عہدے سے استعفیٰ دیا؟",
-      "options": [
-        "Hafiz Uddin Ahmad",
-        "Mohammed Shahabuddin",
-        "Mohammad Abdul Hamid",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Shahabuddin </span>served as the </font><font color=\"#ff0000\">17th </font>president <font color=\"#0000ff\">of </font><font color=\"#ff00ff\">Bangladesh </font><font color=\"#0000ff\">from 2023 to 2026.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In 2026, the French National Assembly voted to ban social media for children below what age?",
-      "urdu": "دو ہزار چھبیس میں، فرانسیسی قومی اسمبلی نے کس عمر سے کم عمر بچوں کے لیے سوشل میڈیا پر پابندی کے لیے ووٹ دیا؟",
-      "options": [
-        "18",
-        "20",
-        "15",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In 2026, </font><font color=\"#ff0000\">France</font><font color=\"#0000ff\">'s National Assembly made global headlines by approving a landmark bill to ban </font><font color=\"#ff00ff\">social media</font><font color=\"#0000ff\"> for children under </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">15</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who scored Spain's winning goal in the 2026 FIFA World Cup Final?",
-      "urdu": "دو ہزار چھبیس فیفا ورلڈ کپ کے فائنل میں اسپین کے لیے فاتحانہ گول کس نے کیا؟",
-      "options": [
-        "Lamine Yamal",
-        "Ferran Torre",
-        "Nico Williams",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; color: rgb(255, 0, 0); padding: 0px;\"><span style=\"font-weight: bolder;\"><font color=\"#000000\">Winner: </font>Spain </span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hamad bin Khalifa Al Thani was the former Emir of  which country who passed away in July 2026?",
-      "urdu": "حمد بن خلیفہ آل ثانی کس ملک کے سابق امیر تھے جن کا انتقال جولائی 2026 میں ہوا؟",
-      "options": [
-        "Kuwait",
-        "Jordan",
-        "Qatar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Hamad bin Khalifa\r\nAl Thani </font><font color=\"#0000ff\">was Emir of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Qatar </font><font color=\"#0000ff\">from 1995 until his abdication in 2013. </font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the rank of Pakistan in the Press Freedom Index 2026?",
-      "urdu": "پریس فریڈم انڈیکس 2026 میں پاکستان کا درجہ کیا ہے؟",
-      "options": [
-        "153rd",
-        "154th",
-        "152nd",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About <span style=\"background-color: rgb(255, 255, 0);\">World Press Freedom Index 2026</span><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country ranked first in the Press Freedom Index 2026?",
-      "urdu": "پریس فریڈم انڈیکس 2026 میں کونسا ملک پہلے نمبر پر ہے؟",
-      "options": [
-        "Netherlands",
-        "Norway",
-        "Denmark",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">About <span style=\"background-color: rgb(255, 255, 0);\">World Press Freedom Index 2026</span><o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following won the title of 31st Uber Cup 2026, held in Denmark by defeating China?",
-      "urdu": "درج ذیل میں سے کس نے چین کو شکست دے کر ڈنمارک میں منعقدہ 31 ویں اوبر کپ 2026 کا ٹائٹل جیتا؟",
-      "options": [
-        "South Korea",
-        "Japan",
-        "Indonesia",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the </font><font color=\"#ff0000\">2026 Uber Cup</font><font color=\"#0000ff\"> badminton tournament<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current Emir of Qatar?",
-      "urdu": "قطر کا موجودہ امیر کون ہے؟",
-      "options": [
-        "Tamim bin Hamad Al Thani",
-        "Sheikh Jabir bin Hayyan",
-        "Sheikh Ahmed Noman",
-        "Muhammad bin Salman"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Tamim bin Hamad\r\nbin Khalifa Al Thani</font><font color=\"#0000ff\"> is the current Emir of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Qatar</font><font color=\"#0000ff\">, reigning since 2013.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the former Emir of  Qatar who passed away in July 2026 at the age of 74?",
-      "urdu": "قطر کے اس سابق امیر کا نام بتائیں جن کا انتقال جولائی 2026 میں 74 برس کی عمر میں ہوا؟",
-      "options": [
-        "Sheikh Jabir bin Hayyan",
-        "Hamad bin Khalifa Al Thani",
-        "Sheikh Ahmed Noman",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Hamad bin Khalifa Al Thani </font><font color=\"#0000ff\">was Emir of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Qatar </font><font color=\"#0000ff\">from 1995 until his abdication in 2013.</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current president of Argentina___________?",
-      "urdu": "ارجنٹائن کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Mauricio Macri",
-        "Alberto Fernandez",
-        "Javier Milei",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">Javier Milei</font><font color=\"#0000ff\"> is the current president of Argentina</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country won the 2026 FIFA World Cup by defeating Argentina in the final?",
-      "urdu": "کس ملک نے فائنل میں ارجنٹائن کو شکست دے کر 2026 کا فیفا ورلڈ کپ جیتا؟",
-      "options": [
-        "France",
-        "Brazil",
-        "Spain",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; color: rgb(255, 0, 0); font-weight: 400; padding: 0px;\"><span style=\"font-weight: bolder;\"><font color=\"#000000\">Winner: </font>Spain</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the official mascot of Glasgow 2026 Commonwealth games 2026?",
-      "urdu": "گلاسگو 2026 کامن ویلتھ گیمز کا سرکاری میسکوٹ (علامتی کردار) کیا ہے؟",
-      "options": [
-        "Clyde",
-        "Borobi",
-        "Finnie",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Commonwealth Games 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country will host Commonwealth games 2026?",
-      "urdu": "کون سا ملک 2026 کے کامن ویلتھ گیمز کی میزبانی کرے گا؟",
-      "options": [
-        "Australia",
-        "Scotland",
-        "England",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Commonwealth\r\nGames 2026</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following has become the first European Union (EU) country to ban social media access for children under 15 years?",
-      "urdu": "درج ذیل میں سے کون سا ملک 15 سال سے کم عمر بچوں کے لیے سوشل میڈیا تک رسائی پر پابندی عائد کرنے والا یورپی یونین (ای یو) کا پہلا ملک بن گیا ہے؟",
-      "options": [
-        "Finland",
-        "Iceland",
-        "France",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In 2026, </font><font color=\"#ff0000\">France</font><font color=\"#0000ff\">'s National Assembly made global headlines by approving a landmark bill to ban </font><font color=\"#ff00ff\">social media</font><font color=\"#0000ff\"> for children under </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">15</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "If only germs were excluded from wounds, ___ was averted.",
-      "urdu": "اگر زخموں سے جراثیم کو خارج کر دیا جاتا تو ___ ٹل جاتا۔",
-      "options": [
-        "Infection",
-        "Celebration",
-        "Education",
-        "Pollution"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 24-07-2026 by NA</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is up ___ them?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "At",
-        "With",
-        "On",
-        "By"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 24-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the formula: R = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "abc / 4Δ",
-        "4Δ / abc",
-        "4abc / Δ",
-        "Δ / 4abc"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 24-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Calculate 0.2 × 0.25 = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "0.05",
-        "0.5",
-        "0.005",
-        "5"
-      ],
-      "correct": 0,
-      "explanation": "<p><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn><br/></mn></mrow><annotation encoding=\"application/x-tex\">0.2 times 0.25 = 0.05</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\" style=\"color: rgb(0, 0, 255);\"><span class=\"strut\"></span><span class=\"mord\">0.2</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"color: rgb(0, 0, 255);\"><span class=\"strut\"></span><span class=\"mord\">0.25</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\"><span class=\"strut\"></span><span class=\"mord\" style=\"\">0.05</span></font></span></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, which formula is used to calculate the average of values from B1 to B5?",
-      "urdu": "ایم ایس ایکسل میں، B1 سے B5 تک کی قدروں کی اوسط نکالنے کے لیے کون سا فارمولا استعمال ہوتا ہے؟",
-      "options": [
-        "=SUM(B1:B5)",
-        "=AVERAGE(B1:B5)",
-        "=COUNT(B1:B5)",
-        "=MAX(B1:B5)"
-      ],
-      "correct": 1,
-      "explanation": "<p style='--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px; font-family: D-DINExp, \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";'><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 600;\"><font color=\"#0000ff\">=AVERAGE(B1:B5)</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The critical temperature of mercury is approximately?",
-      "urdu": "مرکری کا کریٹیکل درجہ حرارت تقریباً کتنا ہے؟",
-      "options": [
-        "4.2 K",
-        "5.15 K",
-        "6.15 K D",
-        "7.15 K"
-      ],
-      "correct": 0,
-      "explanation": "<p><ul style='--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; margin-top: 0px; margin-bottom: 0px !important; padding-inline-start: 1.15em; color: rgba(0, 0, 0, 0.96); font-family: D-DINExp, \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the minimum number of computers required to make a computer network?",
-      "urdu": "کمپیوٹر نیٹ ورک بنانے کے لیے کم از کم کتنے کمپیوٹرز کی ضرورت ہوتی ہے؟",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correct": 1,
-      "explanation": "<p style='--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px; font-family: D-DINExp, \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";'><font color=\"#0000ff\">The minimum number of computers required to make </font><font color=\"#ff0000\">a computer network is <span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 600;\">2</span>.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A shopkeeper sells a shirt for Rs. 120 at a profit of 20%. What is the actual cost price of the shirt?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 90",
-        "Rs. 100",
-        "Rs. 110",
-        "Rs. 115"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"267\" data-start=\"213\"><font color=\"#0000ff\">Selling Price = Rs. 120<br data-end=\"255\" data-start=\"252\"/>\r\nProfit = 20%</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ganga Plane was burnt by a Kashmiri Mujahid at the Airport of?",
-      "urdu": "انڈین ایئرلائنز کے گنگا طیارے کو کشمیری مجاہد نے کس ہوائی اڈے پر جلایا؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
         "Karachi",
-        "Rawalpindi",
         "Lahore",
-        "None of these"
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What is the theme of World Youth Skills Day 2025?",
-      "urdu": "ورلڈ یوتھ سکلز ڈے 2025 کا تھیم کیا ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Skills for a resilient youth",
-        "Transforming youth skills for the future",
-        "Local Youth Actions for the SDGs and Beyond",
-        "None of these"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">World Youth Skills Day is celebrated on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">15 July.</font></span></p>",
-      "category": "all"
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "What is the theme of World Youth Skills Day 2026?",
-      "urdu": "عالمی یومِ مہارتِ نوجوانان 2026 کا موضوع کیا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Skills for a resilient youth",
-        "Skills for a Shared Future",
-        "Transforming youth skills for the future",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">World Youth Skills Day is celebrated on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">15 July.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "On what date is World Youth Skills Day celebrated?",
-      "urdu": "نوجوانوں کی مہارت کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "July 5",
-        "July 10",
-        "July 15",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">World Youth Skills Day is celebrated on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">15 July.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country will host South Asian Games 2027?",
-      "urdu": "دو ہزار ستائیس کے جنوبی ایشیائی کھیلوں کی میزبانی کون سا ملک کرے گا؟",
-      "options": [
-        "India",
-        "China",
-        "Pakistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">About <span style=\"background-color: rgb(255, 255, 0);\">South Asian\r\nGames 2027<o:p></o:p></span></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "As per Global Terrorism Index 2026, which country is ranked the most terrorism-affected?",
-      "urdu": "گلوبل ٹیررازم انڈیکس 2026 کے مطابق، کس ملک کو دہشت گردی سے سب سے زیادہ متاثرہ ملک قرار دیا گیا ہے؟",
-      "options": [
-        "Pakistan",
-        "Afghanistan",
-        "Russia",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Global Terrorism Index 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
