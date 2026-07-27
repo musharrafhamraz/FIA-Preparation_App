@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-27T10:35:49.467482",
+    "fetched_at": "2026-07-27T15:39:13.062947",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Which company recently developed the F-47 fighter jet prototype?",
+      "urdu": "حال ہی میں ایف-47 فائٹر جیٹ کا پروٹوٹائپ تیار کرنے والی کمپنی کون سی ہے؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Lockheed Martin",
+        "Boeing",
+        "Northrop Grumman",
+        "None of these"
       ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "Which one of the following is herbivore? Cow, Deer, Lion, Both A and B",
+      "urdu": "مندرجہ ذیل میں سے کون سے جانور سبزی خور ہیں؟",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Cow",
+        "Deer",
+        "Lion",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which contain two nuclei? Paramecium, Plasmodium, Monocytes, None of these",
+      "urdu": "کس جاندار میں دو نیوکلیئس ہوتے ہیں؟",
+      "options": [
+        "Paramecium",
+        "Plasmodium",
+        "Monocytes",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Which mountain range forms the watershed between the Indus and Ganges river systems?",
+      "urdu": "دریائے سندھ اور دریائے گنگا کے آبی نظام کے درمیان واٹرشیڈ (آبی تقسیم) کون سا پہاڑی سلسلہ بناتا ہے؟",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "Karakoram",
+        "Hindu Kush",
+        "Himalayas",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Which feature in the Home tab is used to add bullets and numbering?",
+      "urdu": "ہوم ٹیب میں بلٹس اور نمبرنگ شامل کرنے کے لیے کون سا فیچر استعمال ہوتا ہے؟",
+      "options": [
+        "Clipboard",
+        "Font",
+        "Paragraph",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is total area of the Pakistan?",
+      "urdu": "پاکستان کا کل رقبہ کتنا ہے؟",
+      "options": [
+        "899,913 km²",
+        "881,913 km²",
+        "899,92222 km²",
+        "799,92222 km²"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 5x/4 = 8y/3, then x : y =?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "32 : 15",
+        "15 : 32",
+        "20 : 12",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mohammed Bin Qasim conquered Sindh in the year?",
+      "urdu": "محمد بن قاسم نے سندھ کو کس سال میں فتح کیا؟",
+      "options": [
+        "812 AD",
+        "712 AD",
+        "912 AD",
+        "1012 AD"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Major </font><font color=\"#ff0000\" style=\"\">cities</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> captured:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is not a rational number? √9, √2, 8, 9",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "√9",
+        "√2",
+        "8",
+        "9"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">√2 </font><font color=\"#0000ff\">is an </font><font color=\"#ff0000\">irrational</font><font color=\"#0000ff\"> number because it </font><font color=\"#ff0000\">cannot be written</font><font color=\"#0000ff\"> as a fraction.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was Hazrat Ali (RA) doing before he was martyred?",
+      "urdu": "حضرت علیؓ شہادت سے پہلے کیا کر رہے تھے؟",
+      "options": [
+        "Going to lead the Fajr prayer",
+        "Going to lead the Zuhr prayer",
+        "Going to lead the Asur prayer",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel, we can add a chart from which tab?",
+      "urdu": "ایم ایس ایکسل میں چارٹ کس ٹیب سے شامل کیا جاتا ہے؟",
+      "options": [
+        "File",
+        "Chart",
+        "Insert",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who gave the definition of terrorism in 1937?",
+      "urdu": "سن 1937 ء میں دہشت گردی کی تعریف کس ادارے نے پیش کی؟",
+      "options": [
+        "League of Nations",
+        "United Nations",
+        "European Union",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan purchased Gwadar from Muscat (Oman) in which year?",
+      "urdu": "پاکستان نے کس سال مسقط (اومان) سے گوادر خریدا؟",
+      "options": [
+        "1956",
+        "1957",
+        "1958",
+        "1959"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA on 23-April-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Fjord refers to?",
+      "urdu": "فیارڈ کسے کہتے ہیں؟",
+      "options": [
+        "A volcanic mountain",
+        "A deep, narrow sea inlet with steep cliffs",
+        "A large desert",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A lean _____ is better than a fat lawsuit.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Agreement",
+        "Contract",
+        "Promise",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Congress leader was called “Show Boy of Congress” by Quaid-e-Azam?",
+      "urdu": "قائدِ اعظم محمد علی جناح نے کس کو \"کانگریس شو بوائے\" کہا تھا؟",
+      "options": [
+        "Mahatma Gandhi",
+        "Abul Kalam Azad",
+        "Raja Gopal Acharya",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The main reason for smog in Lahore is?",
+      "urdu": "لاہور میں اسموگ کی بنیادی وجہ کیا ہے؟",
+      "options": [
+        "Earthquakes",
+        "Volcanic eruptions",
+        "Photochemical reactions from vehicle emissions",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Commodious is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Numerous",
+        "Limited",
+        "Expension",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Imam Ja'far al-Sadiq (RA) was an expert in?",
+      "urdu": "امام جعفر صادقؓ کس علم کے ماہر تھے؟",
+      "options": [
+        "Chemistry",
+        "Mathematics",
+        "Astronomy",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One word substitution: One who speaks less?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Obsolete",
+        "Hypocrite",
+        "Misogynist",
+        "Reticent"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the CPEC project officially launched after the agreement between China and Pakistan was signed?",
+      "urdu": "چین اور پاکستان کے درمیان معاہدہ ہونے کے بعد سی پیک منصوبے کا باضابطہ آغاز کب ہوا؟",
+      "options": [
+        "20 June 2015",
+        "20 June 2014",
+        "20 April 2014",
+        "20 April 2015"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country’s lawmakers have approved a bill to ban children under the age of 15 from using social media platforms?",
+      "urdu": "کس ملک کے قانون سازوں نے 15 سال سے کم عمر بچوں کے سوشل میڈیا پلیٹ فارم استعمال کرنے پر پابندی کے بل کی منظوری دی ہے؟",
+      "options": [
+        "Canada",
+        "France",
+        "Germany",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In 2026, </font><font color=\"#ff0000\">France</font><font color=\"#0000ff\">'s National Assembly made global headlines by approving a landmark bill to ban </font><font color=\"#ff00ff\">social media</font><font color=\"#0000ff\"> for children under </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">15</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Lucknow Pact of 1916 was made between?",
+      "urdu": "سن 1916 کا لکھنؤ معاہدہ کن کے درمیان کیا گیا تھا؟",
+      "options": [
+        "The british and india",
+        "The Congress and the Muslim League",
+        "The Hindus and the Muslims",
+        "The moderates and extremists"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"font-family: Helvetica; font-size: 16px; font-weight: bold;\">Purposes of Lucknow Pact:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first network that initiated internet was _____?",
+      "urdu": "انٹرنیٹ کی ابتدا کرنے والا پہلا نیٹ ورک کون سا تھا؟",
+      "options": [
+        "Inet",
+        "Vnet",
+        "ARPANET",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Begin to weave and God will give the _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cloth",
+        "Needle",
+        "Thread",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2027</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "آفتاب لبِ بام ہونا محاورہ ہے۔ اس کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرنے کے قریب ہونا",
+        "سورج کا طلوع ہونا",
+        "سورج کا غروب ہونا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">آفتاب لبِ بام ہونا</font><font color=\"#0000ff\"> کا مطلب ہے </font><font color=\"#ff0000\">زندگی کے آخری مرحلے میں ہونا یا موت کے قریب</font><font color=\"#0000ff\"> ہونا۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اداتِ تشبیہ کس کو کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حروفِ تشبیہ",
+        "فعل",
+        "اسم",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">اداتِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تشبیہ</font><font color=\"#0000ff\"> وہ الفاظ ہوتے ہیں جو </font><font color=\"#ff0000\">تشبیہ</font><font color=\"#0000ff\"> دینے کے لیے استعمال ہوتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "They gave him enough time to cool his _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Heels",
+        "Heals",
+        "Head",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "گیہوں میں گھن بھی پس جاتا ہے کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "محنت کا فائدہ ملنا",
+        "بے گناہ کا بھی نقصان اٹھانا",
+        "زیادہ فائدہ حاصل کرنا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">گیہوں میں گھن بھی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">پس جاتا</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ہے</font><font color=\"#0000ff\"> کا مطلب ہے کہ </font><font color=\"#ff00ff\">قصوروار کے ساتھ بے قصور بھی نقصان کا شکار ہو</font><font color=\"#0000ff\"> </font><font color=\"#ff00ff\">جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "کلام یا شعر میں ایسے الفاظ لانا جن کے معنوں میں خاص مناسبت ہو لیکن یہ مناسبت تضاد یا تقابل کی نہ ہو اسے کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "صنعت حسن تعلیل",
+        "صنعت لف و نشر",
+        "صنعت مراعات النظیر",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">مراعات</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">النظیر</font><font color=\"#0000ff\"> سے مراد شعر یا کلام میں ایسے الفاظ لانا ہے جن کے </font><font color=\"#ff0000\">درمیان معنوی</font><font color=\"#0000ff\"> مناسبت ہو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ان میں کونسا لفظ درست ہے؟ اسلام و علیکم، ولسلام علیکم، السلام علیکم، ان میں سے کوئی نہیں",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اسلام و علیکم",
+        "ولسلام علیکم",
+        "السلام علیکم",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">درست سلام \"</font><font color=\"#ff0000\">السلام علیکم</font><font color=\"#0000ff\">\" ہے، جس کا مطلب ہے </font><font color=\"#ff0000\">آپ پر سلامتی ہو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "After the Verse of Mubahala, whom did Prophet Muhammad (PBUH) appoint as his successor?",
+      "urdu": "آیتِ مباہلہ کے بعد نبی کریم ﷺ نے اپنا جانشین کسے مقرر کیا؟",
+      "options": [
+        "Hazrat Ali (RA)",
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umar (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Main </font><font color=\"#ff0000\">Participants</font><font color=\"#0000ff\"> from </font><font color=\"#ff0000\">Ahl al-Bayt</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one naturally does not have crystals? Diamond, Plastic, Sucrose, None of these",
+      "urdu": "مندرجہ ذیل میں سے کس میں قدرتی طور پر کرسٹل نہیں ہوتے؟",
+      "options": [
+        "Diamond",
+        "Plastic",
+        "Sucrose",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The volume of a cube is 275. The length of one side of the cube is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "∛275",
+        "275²",
+        "275 ÷ 3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Volume of cube = side³</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is the Internet service? Keyboard, DSL, Broadband, None of these",
+      "urdu": "مندرجہ ذیل میں سے کون سی انٹرنیٹ سروس ہے؟",
+      "options": [
+        "Keyboard",
+        "DSL",
+        "Broadband",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary function of Firewall in computer networks?",
+      "urdu": "کمپیوٹر نیٹ ورکس میں فائر وال کا بنیادی کام کیا ہے؟",
+      "options": [
+        "To prevent/block unauthorized access",
+        "To block viruses",
+        "To speed up network traffic",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the first slide called in Microsoft PowerPoint?",
+      "urdu": "مائیکروسافٹ پاورپوائنٹ میں پہلی سلائیڈ کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Blank slide",
+        "Title slide",
+        "Title and Content slide",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "2x + 15 = 3 − 4x. The value of x is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "−2",
+        "2",
+        "3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">2x + 4x = 3 − 15</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The degree of the polynomial 2kx² − x + 1 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The degree of a polynomial = the highest power of x.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did the National Assembly pass the Pakistan Army (Amendment) Act, 1952?",
+      "urdu": "قومی اسمبلی نے پاکستان آرمی (ترمیمی) ایکٹ، 1952 کب منظور کیا؟",
+      "options": [
+        "January 4, 2020",
+        "January 5, 2020",
+        "January 3, 2020",
+        "January 7, 2020"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who won the Pulitzer Prize for Poetry in 2026?",
+      "urdu": "سن 2026 کا پلٹزر انعام برائے شاعری کس نے جیتا؟",
+      "options": [
+        "Juliana Spahr",
+        "Douglas Kearney",
+        "Patricia Smith",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: To get cold feet means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To be afraid / feel afraid",
+        "To run for life",
+        "To fall sick",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Company is concerned ______ the well-being of its employees.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "About",
+        "With",
+        "On",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which of the following cities All India Muslim League was found?",
+      "urdu": "آل انڈیا مسلم لیگ مندرجہ ذیل میں سے کس شہر میں بنی؟",
+      "options": [
+        "Delhi",
+        "Lahore",
+        "Dhaka",
+        "Allahabad"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which medicine is called the collective treatment of all diseases?",
+      "urdu": "وہ دوا جو تمام بیماریوں کے علاج کے طور پر جانی جاتی ہے، کیا کہلاتی ہے؟",
+      "options": [
+        "Panacea",
+        "Vaccine",
+        "Antibiotic",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ginger is a _____?",
+      "urdu": "ادرک پودے کا کون سا حصہ ہے؟",
+      "options": [
+        "Leaf",
+        "Stem (Rhizome)",
+        "Root",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The longest day in New Zealand occurs on?",
+      "urdu": "نیوزی لینڈ میں سال کا سب سے طویل دن کب ہوتا ہے؟",
+      "options": [
+        "21 June",
+        "22 September",
+        "21 December",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "نظم گوئی سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ایک ہی مرکزی خیال یا موضوع کو تسلسل کے ساتھ اشعار میں بیان کرنا",
+        "ہر شعر کا الگ مفہوم ہونا",
+        "صرف قافیہ اور ردیف کا استعمال",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">نظم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">گوئی</font><font color=\"#0000ff\"> میں تمام اشعار </font><font color=\"#ff0000\">ایک ہی موضوع یا خیال سے متعلق</font><font color=\"#0000ff\"> ہوتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "دل بڑھانا کا کیا مطلب ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "غصہ دلانا",
+        "حوصلہ دینا",
+        "دل توڑنا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">دل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بڑھانا</font><font color=\"#0000ff\"> کا مطلب </font><font color=\"#ff0000\">حوصلہ دینا یا ہمت بڑھانا</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Gulf Stream current is present in which ocean?",
+      "urdu": "گلف اسٹریم سمندری رو کس سمندر میں پائی جاتی ہے؟",
       "options": [
         "Atlantic Ocean",
         "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
+        "Pacific Ocean",
+        "None of these"
       ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
     }
   ]
 }
