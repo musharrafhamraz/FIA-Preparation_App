@@ -1,663 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-27T04:35:35.999866",
+    "fetched_at": "2026-07-27T10:35:49.467482",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Ginger is a _____?",
-      "urdu": "ادرک پودے کا کون سا حصہ ہے؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Leaf",
-        "Stem (Rhizome)",
-        "Root",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The longest day in New Zealand occurs on?",
-      "urdu": "نیوزی لینڈ میں سال کا سب سے طویل دن کب ہوتا ہے؟",
-      "options": [
-        "21 June",
-        "22 September",
-        "21 December",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "تاریخ گوئی کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "کسی واقعے یا شخصیت کی تاریخ شعر، فقرے یا الفاظ سے نکالنا",
-        "تاریخ لکھنے کا عمل",
-        "مستقبل کی پیش گوئی کرنا",
-        "ان میں سے کوئی نہیں"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">تاریخ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">گوئی</font><font color=\"#0000ff\"> سے مراد </font><font color=\"#ff0000\">شعر، فقرے یا الفاظ</font><font color=\"#0000ff\"> کے </font><font color=\"#ff0000\">حروفِ ابجد </font><font color=\"#0000ff\">سے کسی </font><font color=\"#ff0000\">واقعے</font><font color=\"#0000ff\"> کی </font><font color=\"#ff0000\">تاریخ</font><font color=\"#0000ff\"> نکالنا ہے۔</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "دل بڑھانا کا کیا مطلب ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "غصہ دلانا",
-        "حوصلہ دینا",
-        "دل توڑنا",
-        "ان میں سے کوئی نہیں"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">دل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بڑھانا</font><font color=\"#0000ff\"> کا مطلب </font><font color=\"#ff0000\">حوصلہ دینا یا ہمت بڑھانا</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
-      "category": "all"
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "The Gulf Stream current is present in which ocean?",
-      "urdu": "گلف اسٹریم سمندری رو کس سمندر میں پائی جاتی ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
         "Atlantic Ocean",
         "Indian Ocean",
-        "Pacific Ocean",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Material deposited by flowing water is called?",
-      "urdu": "بہتے ہوئے پانی کے ذریعے جمع ہونے والے مواد کو کیا کہتے ہیں؟",
-      "options": [
-        "Albedo",
-        "Alluvium",
-        "Alluvial fans",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zakat was made compulsory in which Hijri?",
-      "urdu": "زکوٰۃ کس ہجری میں فرض کی گئی؟",
-      "options": [
-        "2 Hijri",
-        "3 Hijri",
-        "4 Hijri",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Travesty is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Reality",
-        "Parody",
-        "Victory",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following does not make its own food?",
-      "urdu": "درج ذیل میں سے کون اپنی خوراک خود نہیں بناتا؟",
-      "options": [
-        "Mushroom (Fungi)",
-        "Grass",
-        "Mango Tree",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The biggest/largest Islamic country by area is _____?",
-      "urdu": "رقبے کے لحاظ سے سب سے بڑا اسلامی ملک کونسا ہے؟",
-      "options": [
-        "Sudan",
-        "Libya",
-        "Kazakhstan",
-        "Egypt"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Viruses are ______?",
-      "urdu": "وائرس کیا ہوتے ہیں؟",
-      "options": [
-        "Cellular",
-        "Non-Cellular",
-        "Parasites",
-        "Both B and C"
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Which is the major crop of Pakistan? Rice, Sugarcane, Cotton, Wheat",
-      "urdu": "پاکستان کی اہم فصل کون سی ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Rice",
-        "Sugarcane",
-        "Cotton",
-        "Wheat"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The second longest urban beach in the world is?",
-      "urdu": "دنیا کا دوسرا سب سے طویل شہری ساحل کون سا ہے؟",
-      "options": [
-        "Marina Beach",
-        "Bondi Beach",
-        "Juhu Beach",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city in Pakistan is most affected by the urban heat island effect?",
-      "urdu": "پاکستان کا کون سا شہر شہری حرارتی جزیرے کے اثر سے سب سے زیادہ متاثر ہے؟",
-      "options": [
-        "Lahore",
-        "Islamabad",
-        "Karachi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Surahs of the Holy Quran start with the word “Qul”?",
-      "urdu": "قرآن پاک کی کون سی سورتیں لفظ \"قل\" سے شروع ہوتی ہیں؟",
-      "options": [
-        "One",
-        "Two",
-        "Five",
-        "Seven"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255);\"><span style=\"font-size: 12pt; line-height: 107%;\">There are </span></b><b style=\"\"><span style=\"font-size: 12pt; line-height: 107%;\"><font color=\"#ff0000\">5 Surah</font><font color=\"#0000ff\"> in Holy Quran </font></span></b><b style=\"\"><span style=\"font-size: 12pt; line-height: 107%;\"><font color=\"#0000ff\">which </font><font color=\"#ff0000\">start with</font><font color=\"#0000ff\"> the word </font><font color=\"#ff0000\">Qul</font><font color=\"#0000ff\">:</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Liberation Tigers of Tamil Eelam (LTTE) was a ______?",
-      "urdu": "لبریشن ٹائیگرز آف تامل ایلام کیا تھی؟",
-      "options": [
-        "Political party",
-        "Militant separatist movement in Sri Lanka",
-        "Human rights organization",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which hijri year Qibla was change?",
-      "urdu": "قبلہ کی تبدیلی کس ہجری میں ہوئی؟",
-      "options": [
-        "4",
-        "3",
-        "5",
-        "2"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "سابقہ کی تعریف کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "جو لفظ کے آخر میں لگے",
-        "جو لفظ کے درمیان میں لگے",
-        "جو بامعنی حروف شروع میں لگ کر نیا بامعنی لفظ بنا دیں",
-        "جو لفظ کو جمع بنائے"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ایسی حدیث جس میں زیادہ ضعیف راوی، کم ضعیف راوی کی مخالفت کرے، کیا کہلاتی ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "صحیح",
-        "حسن",
-        "معروف",
-        "منکر"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">علمِ حدیث میں جب کوئی ضعیف راوی اپنے سے کم ضعیف یا ثقہ راوی کی مخالفت کرے، تو اس روایت کو</font><font color=\"#ff0000\"> منکر کہا جاتا </font><font color=\"#0000ff\">ہے۔</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "اکیلا بامعنی لفظ کسے کہتے ہیں",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "جملہ",
-        "فقرہ",
-        "کلمہ",
-        "محاورہ"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">اکیلا بامعنی لفظ کلمہ (یا موضوع) کہلاتا ہے۔</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "آب آ جانا محاورے کا مطلب کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "پانی آنا",
-        "عزت ہونا",
-        "چمک آنا",
-        "غصہ آنا"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">آب آ جانا  محاورے کا مطلب</font><font color=\"#00ff00\"> چمک، رونق یا جلا آ جانا </font><font color=\"#0000ff\">اور کسی کاٹنے</font><font color=\"#ff0000\"> والی چیز (جیسے تلوار یا چھری) کی دھار تیز</font><font color=\"#0000ff\"> ہو جانا ہے۔ </font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "”مینائے لاجوردِ آسمان“ گرامر کی رو سے کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "تشبیہ",
-        "استعارہ",
-        "کنایہ",
-        "تضاد"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">مینائے لاجوردِ آسمان گرائمر کی رو سے </font><font color=\"#ff0000\">تشبیہ </font><font color=\"#0000ff\">ہے۔ </font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "شعر میں ایک جیسے الفاظ جن کے معنی مختلف ہوں، اسے کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "صنعتِ تضاد",
-        "صنعتِ تجنیس",
-        "صنعتِ تشبیہ",
-        "صنعتِ مبالغہ"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\"><span style=\"font-size: 14px;\"><br/></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "درست جملہ کون سا ہے؟ ,مسافر کو بے نیل و مرام لوٹنا پڑا۔ ,مسافر کو بے نیلِ مرام لوٹنا پڑا۔ , مسافر بے نیل مرام کو لوٹنا پڑا۔ ,مسافر کو بے مرام نیل لوٹنا پڑا",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مسافر کو بے نیل و مرام لوٹنا پڑا۔",
-        "مسافر کو بے نیلِ مرام لوٹنا پڑا۔",
-        "مسافر بے نیل مرام کو لوٹنا پڑا۔",
-        "مسافر کو بے مرام نیل لوٹنا پڑا"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">درست جملہ آپشن  (</font><font color=\"#ff0000\">مسافر کو بے نیل و مرام لوٹنا پڑا۔</font><font color=\"#0000ff\">) ہے۔ </font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The initial release of Epstein files in February 2025 contained approximately?",
-      "urdu": "ایپسٹین فائلز کا فروری 2025ء میں ابتدائی اجرا تقریباً کتنی فائلوں پر مشتمل تھا؟",
-      "options": [
-        "125 pages",
-        "200 pages",
-        "1000 pages",
-        "3.5 million pages"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Palestine-36 is a?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Novel",
-        "Short Story",
-        "Film",
-        "Poem"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many players are on the court in a netball team during play?",
-      "urdu": "کھیل کے دوران نیٹ بال کی ایک ٹیم کے کتنے کھلاڑی کورٹ میں ہوتے ہیں؟",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "11"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><strong data-end=\"147\" data-start=\"133\">Positions:</strong> </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Al-Shaikh Al-Rais is the title of?",
-      "urdu": "الشیخ الرئیس کا لقب کس کا ہے؟",
-      "options": [
-        "Ibn Sina",
-        "Al-Biruni",
-        "Al-Khwarizmi D",
-        "Ibn Khaldun"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Volleyball was included in the Olympic Games in?",
-      "urdu": "والی بال کو اولمپک کھیلوں میں کب شامل کیا گیا؟",
-      "options": [
-        "1956",
-        "1960",
-        "1964",
-        "1968"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#9c00ff\"></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Saint Mark's Basilica is located in?",
-      "urdu": "سینٹ مارک باسیلیکا کہاں واقع ہے؟",
-      "options": [
-        "Rome",
-        "Venice",
-        "Milan",
-        "Florence"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Nursultan Nazarbayev was the President of which country?",
-      "urdu": "نور سلطان نظربایف قازقستان کے صدر تھے۔",
-      "options": [
-        "Uzbekistan",
-        "Kazakhstan",
-        "Kyrgyzstan",
-        "Turkmenistan"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Geostationary satellites appear to be stationary when viewed from the Earth. Geostationary satellites are located directly above the ______?",
-      "urdu": "جب زمین سے دیکھا جاتا ہے تو جیوسٹیشنری سیٹلائٹ اسٹیشنری دکھائی دیتے ہیں۔  جیوسٹریٹری سیٹلائٹ براہ راست ______ کے اوپر واقع ہیں؟",
-      "options": [
-        "Tropic of Cancer",
-        "Prime Meridian",
-        "Equator",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "NHA is the abbreviation of _______.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Natural Highway Authority",
-        "National Highway Authority",
-        "New Highway Authority",
-        "National Highway Agency",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#00ff00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "One who never takes alcoholic drinks:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Teetotaler",
-        "King slayer",
-        "Insomnia",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#ff0000\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the new name of the organization that replaced RCD (Regional Cooperation for Development) in 1985?",
-      "urdu": "سن 1985 میں آر سی ڈی (علاقائی تعاون کے لئے علاقائی تعاون) کی جگہ لینے والی تنظیم کا نیا نام کیا ہے؟",
-      "options": [
-        "ILO",
-        "UNHCR",
-        "ECO",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat Umar Farooq was martyred on 1st Muharram__________?",
-      "urdu": "حضرت عمر فاروقؓ یکم محرم کوکس ہجری سال میں شہید ہوئے؟",
-      "options": [
-        "26 A.H.",
-        "25 A.H.",
-        "24 A.H.",
-        "27 A.H.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "X-rays have been discovered by ______?",
-      "urdu": "ایکس رے ____ کی طرف سے دریافت کیا گیا ہے؟",
-      "options": [
-        "Charles Babbage",
-        "Wilhelm Conrad Roentgen",
-        "Ernest Rutherford",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bold; color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);\"><span style=\"font-family: Helvetica;\">Additional questions</span><br class=\"Apple-interchange-newline\"/></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Atomic number of hydrogen is:",
-      "urdu": "ہائیڈروجن کا جوہری نمبر ہے",
-      "options": [
-        "4",
-        "3",
-        "2",
-        "1"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#0000ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person who does not like to eat animal products is called?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Vegetarian",
-        "Vegan",
-        "Carnivore",
-        "Omnivore"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word Terrorism originated during which country's revolution?",
-      "urdu": "لفظ \"دہشت گردی\" کس ملک کے انقلاب کے دوران وجود میں آیا؟",
-      "options": [
-        "French Revolution",
-        "Russian Revolution",
-        "American Revolution",
-        "Iranian Revolution"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "وہ حدیث جس کے آٹھ ابواب ہوں، اسے کیا کہا جاتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حدیثِ متواتر",
-        "حدیثِ قدسی",
-        "حدیثِ جامع",
-        "حدیثِ ضعیف"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">علم حدیث کی جس کتاب یا مجموعے میں آٹھ بنیادی موضوعات یا ابواب</font><font color=\"#ff0000\"> (ابواب ثمانیہ) شامل ہوں، اسے جامع</font><font color=\"#0000ff\"> کہا جاتا ہے۔ </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "You do not fatten a pig by _____.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Feeding it",
-        "Weighing it",
-        "Watching it",
-        "Selling it"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">You do not fatten a pig by</font><font color=\"#ff0000\"> weighing it</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym of Tether  is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Tie",
-        "Bind",
-        "Release",
-        "Fasten"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the 10th term of the series?  2×1^^^2 +4×2 2 +6×3 2 +⋯",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1000",
-        "1500",
-        "2000",
-        "2500"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"14\" data-start=\"0\"><font color=\"#0000ff\">The series is:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which pass connects Quetta with Kandahar?",
-      "urdu": "کوئٹہ کو قندھار سے کون سا درہ ملاتا ہے؟",
-      "options": [
-        "Khyber Pass",
-        "Bolan Pass",
-        "Khunjerab Pass",
-        "Lowari Pass"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#ff9c00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The highest civil award of Pakistan is _____?",
-      "urdu": "پاکستان کا سب سے بڑا سول ایوارڈ کونسا ہے؟",
-      "options": [
-        "Nishan-e-Imtiaz",
-        "Nishan-e-Sadarat",
-        "Nishan-e-Hyder",
-        "Nishan-e-Pakistan"
-      ],
-      "correct": 3,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The only government in India headed by the All-India Muslim League in 1946 was that of ______?",
-      "urdu": "سن 1946 میں آل انڈیا مسلم لیگ کی سربراہی میں ہندوستان میں واحد حکومت ______ کی تھی؟",
-      "options": [
-        "NWFP",
-        "Punjab",
-        "Bengal",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#7b3900\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Rake : Leaves :: ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Broom : Floor",
-        "Pen : Paper",
-        "Knife : Food",
-        "Hammer : Nail"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pycnocline means?",
-      "urdu": "پائیکنوکلائن سے کیا مراد ہے؟",
-      "options": [
-        "A layer of rapid change in water density",
-        "A layer of rapid change in temperature",
-        "A layer of rapid change in salinity",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan conducted its first nuclear (atomic) test at?",
-      "urdu": "پاکستان نے اپنا پہلا ایٹمی (جوہری) تجربہ کہاں کیا؟",
-      "options": [
-        "Chagai Hills",
-        "Ras Koh Hills",
-        "Kahuta",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
