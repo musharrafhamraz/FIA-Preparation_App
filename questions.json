@@ -3,10 +3,400 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-28T09:32:23.423370",
+    "fetched_at": "2026-07-28T15:16:03.013597",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "State of Kashmir was the biggest state in the sub-continent situated in the northern part of Indo Pak continent having boundaries with",
+      "urdu": "ریاست کشمیر برصغیر کی سب سے بڑی ریاست تھی جو ہند پاک براعظم کے شمالی حصے میں واقع ہے جس کی سرحدیں ۔۔۔۔۔۔کے پاس ہیں",
+      "options": [
+        "Tibit",
+        "Russia",
+        "Afghanistan",
+        "All of them"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The state of Kashmir has </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">boundaries</font><font color=\"#0000ff\"> with:</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the point is (a,−a), then it lies on which line?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "y=x",
+        "y=−x",
+        "y=a",
+        "x=a"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"154\" data-start=\"113\"><font color=\"#0000ff\">For the point <span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mopen\">(</span><span class=\"mord mathnormal\">a</span><span class=\"mpunct\">,</span><span class=\"mspace\"></span><span class=\"mord\">−</span><span class=\"mord mathnormal\">a</span><span class=\"mclose\">)</span></span></span></span>:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "There are 54 coins in total. Some are 20-cent coins and some are 50-cent coins. Their total value is $20.70. How many 20-cent coins are there",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "21",
+        "23",
+        "27",
+        "31"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"293\" data-start=\"210\"><font color=\"#0000ff\">Let the number of 20-cent coins = x<br data-end=\"264\" data-start=\"261\"/>\r\nThen 50-cent coins = 54 − x<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A wheel makes 500 revolutions and covers 22 km. Find the diameter of the wheel?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "7 m",
+        "10 m",
+        "14 m",
+        "22 m"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">22 km = 22,000 m<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the sum: 2×1^2 +4×2^2 +6×3^ +⋯+20×10^2",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "76,440",
+        "77,000",
+        "77,440",
+        "6050"
+      ],
+      "correct": 3,
+      "explanation": "<p><p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"28\" data-start=\"22\"><font color=\"#ff0000\">Given:</font></p><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><font color=\"#0000ff\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord\">1^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">4</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord\">2^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">6</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord\">3^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"minner\">⋯</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">20</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0^2</span></span></span></font></span></span></span><p data-end=\"109\" data-start=\"90\"><font color=\"#ff00ff\">Write the terms as:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">1^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mclose\">)</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">2^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mclose\">)</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">3^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mclose\">)</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"minner\">⋯</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mopen\">(</span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mclose\">)<br/></span></span></span></span></span><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mopen\">(</span><span class=\"mord\"><span class=\"mord\">1^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord\">2^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord\">3^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"minner\">⋯</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">1</span><span class=\"mord\"><span class=\"mord\">0^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mclose\">)</span></span></span></span></span>\n</font><p data-end=\"207\" data-start=\"189\"><font color=\"#9c00ff\">Using the formula:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span class=\"katex-mathml\"><math display=\"block\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><annotation encoding=\"application/x-tex\">1^3+2^3+cdots+n^3=left[frac{n(n+1)}{2}right]^2</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord\">1^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord\">2^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"minner\">⋯</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"mord mathnormal\">n^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">3</span></span></span></span></span></span></span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"minner\"><span class=\"minner\"><span class=\"mopen delimcenter\"><span class=\"delimsizing size3\">[</span></span><span class=\"mord\"><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"mord\"><span class=\"mord mathnormal\">n</span><span class=\"mopen\">(</span><span class=\"mord mathnormal\">n</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span><span class=\"mord\">1</span><span class=\"mclose\">)/2</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose delimcenter\"><span class=\"delimsizing size3\">]^</span></span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2</span></span></span></span></span></span></span></span></span></span></span>\n</font><p data-end=\"280\" data-start=\"267\"><font color=\"#ff9c00\">For <span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mord mathnormal\">n</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">10</span></span></span></span>:</font></p><font color=\"#0000ff\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mspace\"></span><span class=\"minner\"><span class=\"minner\"><span class=\"mopen delimcenter\"><span class=\"delimsizing size3\">[</span></span><span class=\"mord\"><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"mord\"><span class=\"mord\">10</span><span class=\"mopen\">(</span><span class=\"mord\">11</span><span class=\"mclose\">)/2</span></span></span><span class=\"vlist-s\">​</span></span><span class=\"vlist-r\"><span class=\"vlist\"></span></span></span></span><span class=\"mclose nulldelimiter\"></span></span><span class=\"mclose delimcenter\"><span class=\"delimsizing size3\">]^</span></span></span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2<br/></span></span></span></span></span></span></span></span></span></span></span><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mopen\">(</span><span class=\"mord\">55</span><span class=\"mclose\"><span class=\"mclose\">)^</span><span class=\"msupsub\"><span class=\"vlist-t\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\"><span class=\"mord mtight\">2<br/></span></span></span></span></span></span></span></span></span></span></span><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">3025<br/></span></span></span></span></span></font><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><font color=\"#ff0000\"><span class=\"pstrut\"></span><span class=\"boxpad\" style=\"\"><span class=\"mord\" style=\"\"><span class=\"mord\" style=\"\"><span class=\"mord\" style=\"\">6050</span></span></span></span></font></span></span></span></span></span></span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a class of 20 students, the average height is 150 cm. One student with a height of 155 cm joins the class. What is the new average height?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "150 cm",
+        "150.24 cm",
+        "150.50 cm",
+        "151 cm"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If x+y=16 and x−y=3, then x^2 −^ 2 =?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "19",
+        "48",
+        "256",
+        "13"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"6\" data-start=\"0\"><font color=\"#9c00ff\">Given:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The value of the sum of the first 4 multiples of 5 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "25",
+        "30",
+        "50",
+        "60"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">First 4 multiples of 5 = 5, 10, 15, 20<br data-end=\"179\" data-start=\"176\"/>\r\nSum = 5 + 10 + 15 + 20</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "قواعد کے کتنے حصے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ایک",
+        "دو",
+        "تین",
+        "چار"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#9c00ff\">قواعد کے بنیادی اور اہم دو حصے علم الصرف اور علم نحو ہیں۔ </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "مذوب، واجب، حرام کس علم میں آتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "علمُ النحو",
+        "علمُ الاحکام",
+        "علمُ الصرف",
+        "علمُ البلاغت"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"color: rgb(0, 0, 255);\">مذوب، واجب اور حرام کا تعلق</span><font color=\"#ff0000\"> علم الاحکام </font><span style=\"color: rgb(0, 0, 255);\">سے ہے۔</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "نی اسرائیل نے کس نبی پر جادو کا الزام لگایا؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حضرت موسیٰؑ",
+        "حضرت عیسیٰؑ",
+        "حضرت سلیمانؑ",
+        "حضرت یوسفؑ"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">بنی اسرائیل نے </font><font color=\"#ff0000\">حضرت سلیمان علیہ السلام</font><font color=\"#0000ff\"> پر جادو کا الزام لگایا تھا۔ </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "علاقہ رکھنا سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دشمنی کرنا",
+        "تعلق ہونا",
+        "غصہ کرنا",
+        "مدد کرنا"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">اردو زبان میں علاقہ رکھنا سے </font><font color=\"#ff0000\">مراد تعلق رکھنا، نسبت ہونا، یا واسطہ ہونا ہے</font><font color=\"#0000ff\">۔ </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "مٹھی گرم کرنا سے کیا مراد؟ا",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "غصہ کرنا",
+        "رشوت دینا",
+        "محنت کرنا",
+        "خوش ہونا"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">مٹھی گرم کرنامطلب: </font></span><span style=\"color: rgb(255, 0, 0);\">رشوت دینا یا مالی فائدہ پہنچا کر اپنا کام نکلوانا</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "فاتحہ نہ درود، کھا گئے مردود کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بہت زیادہ فائدہ ہونا",
+        "کسی شے کا ضائع ہو جانا",
+        "خوشی منانا",
+        "کسی کی مدد کرنا"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">فاتحہ نہ درود، کھا گئے مردود کا مطلب ہے</font><font color=\"#ff0000\"> کسی شے کا ضائع ہو</font><font color=\"#0000ff\"> جانا ۔</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "بھائیوں کی لڑائی سے رشتہ نہیں ٹوٹتا ،مطلب لاٹھی مارنے سے.... جدا نہیں ہوتے ؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ہاتھ",
+        "پاؤں",
+        "پانی",
+        "خون"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"color: rgb(0, 0, 255);\">محاورہ مکمل ہے: بھائیوں کی لڑائی سے رشتہ نہیں ٹوٹتا، لاٹھی مارنے سے </span><font color=\"#ff0000\">پانی </font><span style=\"color: rgb(0, 0, 255);\">جدا نہیں ہوتے</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "درج ذیل میں سے درست جملہ کون سا ہے؟  A) سدا عیش دوران دکھاتا نہیں ہے۔ B) سدا عیشِ دوراں دکھاتا نہیں ہے۔ C) سدا عیش دوراں دکھاتی نہیں ہے۔ D) سدا عیشِ دوران دکھاتی نہیں ہے۔",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سدا عیش دوران دکھاتا نہیں ہے۔",
+        "سدا عیشِ دوراں دکھاتا نہیں ہے۔",
+        "سدا عیش دوراں دکھاتی نہیں ہے۔",
+        "سدا عیشِ دوران دکھاتی نہیں ہے۔"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">درست جملہ آپشن </font><font color=\"#ff0000\"> (سدا عیشِ دوراں دکھاتا نہیں ہے۔)</font><font color=\"#0000ff\"> ہے</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "HCF of 48 and 80 = 48P − 80  First, find HCF of 48 and 80:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"70\" data-start=\"41\"><font color=\"#0000ff\">First, find HCF of 48 and 80:<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "غیر معین شخص کے لیے بولے جانے والے الفاظ کیا کہلاتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اسم صغیر",
+        "اسم ضمیر",
+        "اسم تنکیر",
+        "اسم اسفہام"
+      ],
+      "correct": 2,
+      "explanation": "<p align=\"right\" class=\"MsoNormal\" style=\"text-align:right\"><b style=\"\"><font color=\"#ff0000\">اسمِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تنکیر</font><font color=\"#0000ff\"> ایسے اسم کو کہتے ہیں جو </font><font color=\"#ff0000\">غیر معین شخص، چیز یا مقام</font><font color=\"#0000ff\"> کے لیے استعمال ہو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اس شعر میں کون سی صنعت استعمال ہوئی ہے؟ ہنستا ہوں تو قدغن کوئی رونے پہ نہیں ہے زندہ ہوں کہ مرنے کی اجازت ہے ابھی تک",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "صنعتِ تطبیق",
+        "صنعتِ مراعات النظیر",
+        "صنعتِ حسنِ تعلیل",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">صنعتِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تطبیق</font><font color=\"#0000ff\"> میں ایک ہی کلام میں </font><font color=\"#ff0000\">متقابل یا متضاد الفاظ کو بامعنی انداز </font><font color=\"#0000ff\">میں جمع کیا جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "سکتہ سے زیادہ ٹھہراؤ کے لیے کون سی علامت استعمال کی جاتی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سکتہ",
+        "وقفِ لازم",
+        "وقفہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">وقفہ</font><font color=\"#0000ff\"> کی علامت </font><font color=\"#ff0000\">سکتہ سے زیادہ ٹھہراؤ</font><font color=\"#0000ff\"> کے لیے استعمال ہوتی ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following can be the sides of a right triangle? 15 cm, 20 cm, 25 cm 15 cm, 20 cm, 24 cm 12 cm, 15 cm, 20 cm None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15 cm, 20 cm, 25 cm",
+        "15 cm, 20 cm, 24 cm",
+        "12 cm, 15 cm, 20 cm",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">15 cm, 20 cm, 25 cm </font><font color=\"#0000ff\"> </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How can you show hidden files and folders in Windows?",
+      "urdu": "کمپیوٹر میں چھپی ہوئی فائلیں اور فولڈرز کیسے ظاہر کیے جا سکتے ہیں؟",
+      "options": [
+        "View tab → Show",
+        "Control Panel",
+        "Restart the computer",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How was Hazrat Khadija (R.A.) different from the customs of today's society?",
+      "urdu": "حضرت خدیجہؓ آج کے معاشرتی رواج سے کس طرح مختلف تھیں؟",
+      "options": [
+        "She refused to marry.",
+        "She initiated the marriage proposal.",
+        "She never engaged in trade.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Email is used for?",
+      "urdu": "ای میل کس مقصد کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Sending electronic messages",
+        "Browsing websites",
+        "Editing images",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is required to pay Sadaqat-ul-Fitr (Sadq Fitr)?",
+      "urdu": "صدقۂ فطر کس پر واجب ہے؟",
+      "options": [
+        "Every Muslim",
+        "Sahib-e-Nisab",
+        "Only the Imam",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the definition of terrorism?",
+      "urdu": "دہشت گردی کی تعریف کیا ہے؟",
+      "options": [
+        "The calculated use of violence and fear to achieve political goals",
+        "The calculated use of violence and fear to achieve ideological goals",
+        "The calculated use of violence and fear to achieve religious goals",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: My friend said, \"Had I known, I would certainly have helped you.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "My friend said that if he had known, he would certainly have helped me.",
+        "My friend said that if he knew, he would help me.",
+        "My friend said that had he known, he will help me.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Hadith that describes the virtues and attributes of the Companions of the Prophet (PBUH) is called?",
+      "urdu": "وہ احادیث جن میں صحابۂ کرامؓ کے فضائل اور اوصاف بیان کیے گئے ہوں، انہیں کیا کہا جاتا ہے؟",
+      "options": [
+        "Maghazi",
+        "Manaqib",
+        "Musnad",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the analogy: Hamstring : _____ :: Stole : Bet.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cripple",
+        "Walk",
+        "Escape",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "His application for a visa was turned ______ by the consulate.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Down",
+        "In",
+        "Beyond",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Choose the correct sentence: The person to who I sold the house was a fraud., The person to whom I sold the house was a fraud., The person which I sold the house was a fraud., None of these",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -265,396 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#0000ff\">If y is directly proportional to x, then:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A ______ is an uplifted block of the Earth's crust that forms between two parallel normal faults.",
-      "urdu": "زمین کی پرت کا وہ بلند حصہ جو دو متوازی نارمل فالٹس کے درمیان بنتا ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Rift Valley",
-        "Horst",
-        "Graben",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which view is used to sort and rearrange slides in Microsoft PowerPoint?",
-      "urdu": "مائیکروسافٹ پاورپوائنٹ میں سلائیڈز کو ترتیب دینے اور دوبارہ منظم کرنے کے لیے کون سا ویو استعمال ہوتا ہے؟",
-      "options": [
-        "Reading View",
-        "Slide Sorter View",
-        "Slide Show View",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which committee was formed in 1949 to provide the basic framework of the Constitution of Pakistan?",
-      "urdu": "سن1949 ء میں پاکستان کے آئین کا بنیادی خاکہ تیار کرنے کے لیے کون سی کمیٹی بنائی گئی تھی؟",
-      "options": [
-        "Basic Principles Committee (BPC)",
-        "Boundary Commission",
-        "Constituent Assembly Committee",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The equation E = mc² indicates that energy _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Is fundamentally different than mass",
-        "And mass are closely related",
-        "Equals mass moving at the speed of the light square",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the Indian National Congress resign from the Congress Ministries?",
-      "urdu": "انڈین نیشنل کانگریس نے کانگریس وزارتوں سے استعفیٰ کب دیا؟",
-      "options": [
-        "September 1939",
-        "October 1939",
-        "November 1939",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which institution is responsible for agricultural research in Pakistan?",
-      "urdu": "پاکستان میں زرعی تحقیق کا ذمہ دار ادارہ کون سا ہے؟",
-      "options": [
-        "Pakistan Agricultural Research Council (PARC)",
-        "Higher Education Commission (HEC)",
-        "Pakistan Meteorological Department (PMD)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Christian Stocker holds which position in Austria?",
-      "urdu": "کرسچین اسٹاکر آسٹریا میں کس عہدے پر فائز ہیں؟",
-      "options": [
-        "Chancellor",
-        "President",
-        "Prime Minister",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Email stands for?",
-      "urdu": "ای میل کا مطلب کیا ہے؟",
-      "options": [
-        "Easy mail",
-        "Electronic mail",
-        "Electric mail",
-        "Eye mail"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A standard polo match consists of how many periods (chukkas)?",
-      "urdu": "ایک معیاری پولو میچ کتنے ادوار (چکرز) پر مشتمل ہوتا ہے؟",
-      "options": [
-        "6",
-        "5",
-        "4",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "0.002 × 0.03 = _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "0.0006",
-        "0.00006",
-        "0.006",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Multiply 2 × 3 = 6.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did women's participation in the Olympic Games first start?",
-      "urdu": "اولمپک کھیلوں میں خواتین کی پہلی بار شرکت کب شروع ہوئی؟",
-      "options": [
-        "1900",
-        "1908",
-        "1896",
-        "1904"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Athletics is also known as?",
-      "urdu": "ایتھلیٹکس کو اور کس نام سے جانا جاتا ہے؟",
-      "options": [
-        "Gymnastics",
-        "Track and Field",
-        "Swimming",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: At one's beck and call means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To be under one's subjugation",
-        "To be always at one's service",
-        "Enjoying oneself without caring for others",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</span></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Had he been in need, I ______ helped him.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Would have",
-        "Should have",
-        "Would has",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If he works hard, he _______ the examination.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Will pass",
-        "Can pass",
-        "Would have passed",
-        "Would pass"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "How can you change the order of slides in Microsoft PowerPoint?",
-      "urdu": "مائیکروسافٹ پاورپوائنٹ میں سلائیڈز کی ترتیب کیسے تبدیل کی جا سکتی ہے؟",
-      "options": [
-        "Press Ctrl + P",
-        "Drag and drop the slides into your preferred order",
-        "Restart PowerPoint",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is information about data called? Database, Metadata, Spreadsheet, None of these",
-      "urdu": "ڈیٹا کے بارے میں معلومات کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Database",
-        "Metadata",
-        "Spreadsheet",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which company recently developed the F-47 fighter jet prototype?",
-      "urdu": "حال ہی میں ایف-47 فائٹر جیٹ کا پروٹوٹائپ تیار کرنے والی کمپنی کون سی ہے؟",
-      "options": [
-        "Lockheed Martin",
-        "Boeing",
-        "Northrop Grumman",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is herbivore? Cow, Deer, Lion, Both A and B",
-      "urdu": "مندرجہ ذیل میں سے کون سے جانور سبزی خور ہیں؟",
-      "options": [
-        "Cow",
-        "Deer",
-        "Lion",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which contain two nuclei? Paramecium, Plasmodium, Monocytes, None of these",
-      "urdu": "کس جاندار میں دو نیوکلیئس ہوتے ہیں؟",
-      "options": [
-        "Paramecium",
-        "Plasmodium",
-        "Monocytes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which mountain range forms the watershed between the Indus and Ganges river systems?",
-      "urdu": "دریائے سندھ اور دریائے گنگا کے آبی نظام کے درمیان واٹرشیڈ (آبی تقسیم) کون سا پہاڑی سلسلہ بناتا ہے؟",
-      "options": [
-        "Karakoram",
-        "Hindu Kush",
-        "Himalayas",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which feature in the Home tab is used to add bullets and numbering?",
-      "urdu": "ہوم ٹیب میں بلٹس اور نمبرنگ شامل کرنے کے لیے کون سا فیچر استعمال ہوتا ہے؟",
-      "options": [
-        "Clipboard",
-        "Font",
-        "Paragraph",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is total area of the Pakistan?",
-      "urdu": "پاکستان کا کل رقبہ کتنا ہے؟",
-      "options": [
-        "899,913 km²",
-        "881,913 km²",
-        "899,92222 km²",
-        "799,92222 km²"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 5x/4 = 8y/3, then x : y =?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "32 : 15",
-        "15 : 32",
-        "20 : 12",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Given:  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mohammed Bin Qasim conquered Sindh in the year?",
-      "urdu": "محمد بن قاسم نے سندھ کو کس سال میں فتح کیا؟",
-      "options": [
-        "812 AD",
-        "712 AD",
-        "912 AD",
-        "1012 AD"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Major </font><font color=\"#ff0000\" style=\"\">cities</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> captured:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is not a rational number? √9, √2, 8, 9",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "√9",
-        "√2",
-        "8",
-        "9"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">√2 </font><font color=\"#0000ff\">is an </font><font color=\"#ff0000\">irrational</font><font color=\"#0000ff\"> number because it </font><font color=\"#ff0000\">cannot be written</font><font color=\"#0000ff\"> as a fraction.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was Hazrat Ali (RA) doing before he was martyred?",
-      "urdu": "حضرت علیؓ شہادت سے پہلے کیا کر رہے تھے؟",
-      "options": [
-        "Going to lead the Fajr prayer",
-        "Going to lead the Zuhr prayer",
-        "Going to lead the Asur prayer",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, we can add a chart from which tab?",
-      "urdu": "ایم ایس ایکسل میں چارٹ کس ٹیب سے شامل کیا جاتا ہے؟",
-      "options": [
-        "File",
-        "Chart",
-        "Insert",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who gave the definition of terrorism in 1937?",
-      "urdu": "سن 1937 ء میں دہشت گردی کی تعریف کس ادارے نے پیش کی؟",
-      "options": [
-        "League of Nations",
-        "United Nations",
-        "European Union",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan purchased Gwadar from Muscat (Oman) in which year?",
-      "urdu": "پاکستان نے کس سال مسقط (اومان) سے گوادر خریدا؟",
-      "options": [
-        "1956",
-        "1957",
-        "1958",
-        "1959"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA on 23-April-2026</span></p>",
       "category": "all"
     }
   ]
