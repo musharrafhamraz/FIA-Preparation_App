@@ -3,10 +3,296 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-28T04:07:06.739531",
+    "fetched_at": "2026-07-28T09:32:23.423370",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Choose the correct sentence: The person to who I sold the house was a fraud., The person to whom I sold the house was a fraud., The person which I sold the house was a fraud., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The person to who I sold the house was a fraud.",
+        "The person to whom I sold the house was a fraud.",
+        "The person which I sold the house was a fraud.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When two parallel tectonic plates meet and slide past each other, they form?",
+      "urdu": "جب دو متوازی ٹیکٹونک پلیٹیں ملتی ہیں اور ایک دوسرے کے ساتھ سرک جاتی ہیں تو کیا بنتا ہے؟",
+      "options": [
+        "Fault lines",
+        "Volcanoes",
+        "Mountains",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-97-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The population of trees in a forest has been decreased by 6% every year. The population at the beginning of 2015 was estimated to be 1400. If P represents the population of trees t years after 2015, which equation gives the population of trees over time?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "P = 1400(1.06)ᵗ",
+        "P = 1400(0.94)ᵗ",
+        "P = 1400 − 6t",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Initial population in 2015 = 1400  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "بادام دکھانا سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "لالچ دینا",
+        "مذاق کرنا",
+        "ناراض ہونا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">بادام</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">دکھانا</font><font color=\"#0000ff\"> محاورہ ہے جس کا مطلب کسی کو کسی چیز کا </font><font color=\"#ff0000\">لالچ دینا یا ترغیب دینا</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ایسا مجموعہ جس میں بات میں زور پیدا کرنے کے لیے ایک بامعنی لفظ کے ساتھ دوسرا بامعنی لفظ بھی استعمال کیا جاتا ہے، اسے کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرکبِ توصیفی",
+        "مرکبِ اضافی",
+        "مرکبِ موضوع",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">مرکبِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">موضوع</font><font color=\"#0000ff\"> میں </font><font color=\"#ff0000\">تاکید یا زور پیدا</font><font color=\"#0000ff\"> کرنے کے لیے ایک </font><font color=\"#ff0000\">بامعنی</font><font color=\"#0000ff\"> لفظ کے ساتھ دوسرا </font><font color=\"#ff0000\">بامعنی</font><font color=\"#0000ff\"> لفظ استعمال کیا جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "شعر میں صنعت کون سی ہے؟ تیرے آزاد بندوں کی نہ یہ دنیا، نہ وہ دنیا یہاں مرنے کی پابندی، وہاں جینے کی پابندی",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "صنعتِ تشبیہ",
+        "صنعتِ تضاد",
+        "صنعتِ حسنِ تعلیل",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">صنعتِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تضاد</font><font color=\"#0000ff\"> میں ایسے الفاظ لائے جاتے ہیں </font><font color=\"#ff0000\">جن کے معنی ایک دوسرے</font><font color=\"#0000ff\"> کے مخالف ہوں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "یک نہ شد دو شد کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ایک خوشی کے بعد دوسری خوشی ملی",
+        "ایک مصیبت سے جان چھوٹی تھی کہ ایک اور مصیبت آ گئی",
+        "ایک شخص کامیاب ہو گیا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">یک</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">نہ شد دو شد</font><font color=\"#0000ff\"> فارسی </font><font color=\"#ff0000\">محاورہ</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "علمِ عروض میں 'سبب' کسے کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دونوں متحرک حروف",
+        "دونوں ساکن حروف",
+        "متحرک اور ساکن حروف کا مجموعہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">علمِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عروض</font><font color=\"#0000ff\"> میں </font><font color=\"#ff0000\">سبب دو حروف</font><font color=\"#0000ff\"> پر مشتمل ہوتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ان میں سے غلط لفظ کی نشاندہی کریں ہیں: حیرانگی، زندگی، شگفتگی، شستگی",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حیرانگی",
+        "زندگی",
+        "شگفتگی",
+        "شستگی"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><b style=\"\"><font color=\"#ff0000\">حیرانگی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">غلط</font><font color=\"#0000ff\"> لفظ ہے، </font><font color=\"#ff0000\">درست</font><font color=\"#0000ff\"> لفظ </font><font color=\"#ff0000\">حیرانی</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اگرچہ کون سا حرف ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حرفِ عطف",
+        "حرفِ ربط",
+        "حرفِ نفی",
+        "حرفِ شرط"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"text-align: right; \"><b style=\"\"><font color=\"#ff0000\">اگرچہ</font><font color=\"#0000ff\"> ایک </font><font color=\"#ff0000\">حرفِ شرط</font><font color=\"#0000ff\"> ہے، جو </font><font color=\"#ff0000\">شرط</font><font color=\"#0000ff\"> یا </font><font color=\"#ff0000\">رعایت</font><font color=\"#0000ff\"> کا مفہوم دیتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "عداوت کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دعوت دینا",
+        "دعوت اڑانا",
+        "دوستی",
+        "دشمنی"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which Prophet has been mentioned the most in Holy Quran?",
+      "urdu": "قرآن پاک میں سب سے زیادہ کس نبی کا ذکر آیا ہے؟",
+      "options": [
+        "Prophet Ibrahim (AS)",
+        "Prophet Musa (AS)",
+        "Prophet Nuh (AS)",
+        "Prophet Essa (AS)"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who established Dar al-Nadwa?",
+      "urdu": "دار الندوہ کی بنیاد کس نے رکھی؟",
+      "options": [
+        "Abd al-Muttalib",
+        "Qusayy ibn Kilab",
+        "Hashim ibn Abd Manaf",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who instructed that the veterans of the Battle of Badr should receive 400 dinars each?",
+      "urdu": "غزوۂ بدر کے مجاہدین کو 400 دینار فی کس دینے کا حکم کس نے دیا؟",
+      "options": [
+        "Hazrat Abdur Rahman ibn Awf (R.A.)",
+        "Hazrat Abu Bakr (R.A.)",
+        "Hazrat Umar (R.A.)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اگر ثقہ راوی اپنے سے زیادہ ثقہ راوی کی مخالفت کرے تو وہ حدیث کیا کہلاتی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حدیث صحیح",
+        "حدیث شاذ",
+        "حدیث متواتر",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">حدیث</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شاذ</font><font color=\"#0000ff\"> وہ ہے جس میں ثقہ راوی، اپنے سے </font><font color=\"#ff0000\">زیادہ ثقہ راوی کی</font><font color=\"#0000ff\"> مخالفت کرے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "طشت از بام ہونے کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "شہرت ہوجانا",
+        "پریشان ہونا",
+        "پریشان ہونا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">طشت از بام</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ہونا</font><font color=\"#0000ff\"> کا مطلب ہے کسی بات کا </font><font color=\"#ff0000\">سب پر ظاہر ہو جانا یا مشہور ہو جانا</font><font color=\"#0000ff\">۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a class has 14 boys and 18 girls, what is the ratio of girls to boys?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "7 : 9",
+        "9 : 7",
+        "14 : 18",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Boys = 14  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A ladder is placed 3 m away from a wall, and the wall is 4 m high. What is the length of the ladder?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5 m",
+        "6 m",
+        "7 m",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The wall = 4 m high  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hollywood industry is famous for?",
+      "urdu": "ہالی ووڈ کس صنعت کے لیے مشہور ہے؟",
+      "options": [
+        "Film making",
+        "Agriculture",
+        "Shipbuilding",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If y is directly proportional to x and x = 2, y = 5, then find y when x = 7?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15",
+        "35/2",
+        "25/2",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">If y is directly proportional to x, then:  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A ______ is an uplifted block of the Earth's crust that forms between two parallel normal faults.",
+      "urdu": "زمین کی پرت کا وہ بلند حصہ جو دو متوازی نارمل فالٹس کے درمیان بنتا ہے، کیا کہلاتا ہے؟",
+      "options": [
+        "Rift Valley",
+        "Horst",
+        "Graben",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which view is used to sort and rearrange slides in Microsoft PowerPoint?",
+      "urdu": "مائیکروسافٹ پاورپوائنٹ میں سلائیڈز کو ترتیب دینے اور دوبارہ منظم کرنے کے لیے کون سا ویو استعمال ہوتا ہے؟",
+      "options": [
+        "Reading View",
+        "Slide Sorter View",
+        "Slide Show View",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which committee was formed in 1949 to provide the basic framework of the Constitution of Pakistan?",
       "urdu": "سن1949 ء میں پاکستان کے آئین کا بنیادی خاکہ تیار کرنے کے لیے کون سی کمیٹی بنائی گئی تھی؟",
@@ -154,12 +440,12 @@
       "q": "Had he been in need, I ______ helped him.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Will help",
         "Would have",
-        "Should help",
+        "Should have",
+        "Would has",
         "None of these"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-07-2026</font></b></p>",
       "category": "all"
     },
@@ -369,292 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA on 23-April-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fjord refers to?",
-      "urdu": "فیارڈ کسے کہتے ہیں؟",
-      "options": [
-        "A volcanic mountain",
-        "A deep, narrow sea inlet with steep cliffs",
-        "A large desert",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A lean _____ is better than a fat lawsuit.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Agreement",
-        "Contract",
-        "Promise",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Congress leader was called “Show Boy of Congress” by Quaid-e-Azam?",
-      "urdu": "قائدِ اعظم محمد علی جناح نے کس کو \"کانگریس شو بوائے\" کہا تھا؟",
-      "options": [
-        "Mahatma Gandhi",
-        "Abul Kalam Azad",
-        "Raja Gopal Acharya",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The main reason for smog in Lahore is?",
-      "urdu": "لاہور میں اسموگ کی بنیادی وجہ کیا ہے؟",
-      "options": [
-        "Earthquakes",
-        "Volcanic eruptions",
-        "Photochemical reactions from vehicle emissions",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Commodious is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Numerous",
-        "Limited",
-        "Expension",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Imam Ja'far al-Sadiq (RA) was an expert in?",
-      "urdu": "امام جعفر صادقؓ کس علم کے ماہر تھے؟",
-      "options": [
-        "Chemistry",
-        "Mathematics",
-        "Astronomy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "One word substitution: One who speaks less?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Obsolete",
-        "Hypocrite",
-        "Misogynist",
-        "Reticent"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the CPEC project officially launched after the agreement between China and Pakistan was signed?",
-      "urdu": "چین اور پاکستان کے درمیان معاہدہ ہونے کے بعد سی پیک منصوبے کا باضابطہ آغاز کب ہوا؟",
-      "options": [
-        "20 June 2015",
-        "20 June 2014",
-        "20 April 2014",
-        "20 April 2015"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country’s lawmakers have approved a bill to ban children under the age of 15 from using social media platforms?",
-      "urdu": "کس ملک کے قانون سازوں نے 15 سال سے کم عمر بچوں کے سوشل میڈیا پلیٹ فارم استعمال کرنے پر پابندی کے بل کی منظوری دی ہے؟",
-      "options": [
-        "Canada",
-        "France",
-        "Germany",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In 2026, </font><font color=\"#ff0000\">France</font><font color=\"#0000ff\">'s National Assembly made global headlines by approving a landmark bill to ban </font><font color=\"#ff00ff\">social media</font><font color=\"#0000ff\"> for children under </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">15</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Lucknow Pact of 1916 was made between?",
-      "urdu": "سن 1916 کا لکھنؤ معاہدہ کن کے درمیان کیا گیا تھا؟",
-      "options": [
-        "The british and india",
-        "The Congress and the Muslim League",
-        "The Hindus and the Muslims",
-        "The moderates and extremists"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"font-family: Helvetica; font-size: 16px; font-weight: bold;\">Purposes of Lucknow Pact:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first network that initiated internet was _____?",
-      "urdu": "انٹرنیٹ کی ابتدا کرنے والا پہلا نیٹ ورک کون سا تھا؟",
-      "options": [
-        "Inet",
-        "Vnet",
-        "ARPANET",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Begin to weave and God will give the _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cloth",
-        "Needle",
-        "Thread",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2027</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "آفتاب لبِ بام ہونا محاورہ ہے۔ اس کا مطلب کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مرنے کے قریب ہونا",
-        "سورج کا طلوع ہونا",
-        "سورج کا غروب ہونا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">آفتاب لبِ بام ہونا</font><font color=\"#0000ff\"> کا مطلب ہے </font><font color=\"#ff0000\">زندگی کے آخری مرحلے میں ہونا یا موت کے قریب</font><font color=\"#0000ff\"> ہونا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "اداتِ تشبیہ کس کو کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حروفِ تشبیہ",
-        "فعل",
-        "اسم",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">اداتِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تشبیہ</font><font color=\"#0000ff\"> وہ الفاظ ہوتے ہیں جو </font><font color=\"#ff0000\">تشبیہ</font><font color=\"#0000ff\"> دینے کے لیے استعمال ہوتے ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "They gave him enough time to cool his _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Heels",
-        "Heals",
-        "Head",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "گیہوں میں گھن بھی پس جاتا ہے کا مطلب کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "محنت کا فائدہ ملنا",
-        "بے گناہ کا بھی نقصان اٹھانا",
-        "زیادہ فائدہ حاصل کرنا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">گیہوں میں گھن بھی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">پس جاتا</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ہے</font><font color=\"#0000ff\"> کا مطلب ہے کہ </font><font color=\"#ff00ff\">قصوروار کے ساتھ بے قصور بھی نقصان کا شکار ہو</font><font color=\"#0000ff\"> </font><font color=\"#ff00ff\">جاتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "کلام یا شعر میں ایسے الفاظ لانا جن کے معنوں میں خاص مناسبت ہو لیکن یہ مناسبت تضاد یا تقابل کی نہ ہو اسے کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "صنعت حسن تعلیل",
-        "صنعت لف و نشر",
-        "صنعت مراعات النظیر",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">مراعات</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">النظیر</font><font color=\"#0000ff\"> سے مراد شعر یا کلام میں ایسے الفاظ لانا ہے جن کے </font><font color=\"#ff0000\">درمیان معنوی</font><font color=\"#0000ff\"> مناسبت ہو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ان میں کونسا لفظ درست ہے؟ اسلام و علیکم، ولسلام علیکم، السلام علیکم، ان میں سے کوئی نہیں",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "اسلام و علیکم",
-        "ولسلام علیکم",
-        "السلام علیکم",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">درست سلام \"</font><font color=\"#ff0000\">السلام علیکم</font><font color=\"#0000ff\">\" ہے، جس کا مطلب ہے </font><font color=\"#ff0000\">آپ پر سلامتی ہو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "After the Verse of Mubahala, whom did Prophet Muhammad (PBUH) appoint as his successor?",
-      "urdu": "آیتِ مباہلہ کے بعد نبی کریم ﷺ نے اپنا جانشین کسے مقرر کیا؟",
-      "options": [
-        "Hazrat Ali (RA)",
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Umar (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Main </font><font color=\"#ff0000\">Participants</font><font color=\"#0000ff\"> from </font><font color=\"#ff0000\">Ahl al-Bayt</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one naturally does not have crystals? Diamond, Plastic, Sucrose, None of these",
-      "urdu": "مندرجہ ذیل میں سے کس میں قدرتی طور پر کرسٹل نہیں ہوتے؟",
-      "options": [
-        "Diamond",
-        "Plastic",
-        "Sucrose",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The volume of a cube is 275. The length of one side of the cube is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "∛275",
-        "275²",
-        "275 ÷ 3",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Volume of cube = side³</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is the Internet service? Keyboard, DSL, Broadband, None of these",
-      "urdu": "مندرجہ ذیل میں سے کون سی انٹرنیٹ سروس ہے؟",
-      "options": [
-        "Keyboard",
-        "DSL",
-        "Broadband",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-07-2026</font></b></p>",
       "category": "all"
     }
   ]
