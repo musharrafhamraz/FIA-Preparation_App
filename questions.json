@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-07-29T04:10:42.191942",
+    "fetched_at": "2026-07-29T09:33:56.867923",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Where was the District and Session Judge Abdul Hakeem Kakar killed in July 2026?",
+      "urdu": "ڈسٹرکٹ اینڈ سیشن جج عبدالحکیم کاکڑ کو جولائی 2026 میں کہاں قتل کیا گیا تھا؟",
+      "options": [
+        "Quetta",
+        "Lahore",
+        "Karachi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">District and Sessions </font><font color=\"#ff0000\">Judge Abdul Hakeem Kakar and</font><font color=\"#0000ff\"> his guard were gunned while another judge was among two injured when they came under attack while heading to</font> Mastung, Balochistan.<font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following topped the ranking of Henley Passport Index released in July 2026?",
+      "urdu": "جولائی 2026 میں جاری ہونے والی ہینلے پاسپورٹ انڈیکس کی درجہ بندی میں درج ذیل میں سے کون سرفہرست رہا؟",
+      "options": [
+        "UAE",
+        "Singapore",
+        "Japan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley Passport Index</font><font color=\"#0000ff\"> released in July 2026<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the the current Attorney General of Pakistan?",
+      "urdu": "پاکستان کے موجودہ اٹارنی جنرل کون ہیں؟",
+      "options": [
+        "Khalid Jawad Khan",
+        "Mansoor Usman Awan",
+        "Shehzad Ata Elahi",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\"><b><span style=\"background-color: rgb(255, 255, 0);\">Mansoor Usman Awan</span> appointed is the current Attorney General for Pakistan.</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "The Holy Prophet (PBUH) affectionately called \"the one with two ears\" (ذو الأذنين) to whom?",
       "urdu": "رسول اللہ ﷺ نے محبت سے \"ذوالاُذنین\" (دو کانوں والے) کس صحابی کو فرمایا؟",
@@ -278,19 +317,6 @@
       ],
       "correct": 1,
       "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; padding: 0px; font-family: \"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley Passport Index</font><font color=\"#0000ff\"> released in July 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following topped the ranking of Henley Passport Index released in July 2026?",
-      "urdu": "جولائی 2026 میں جاری ہونے والی ہینلے پاسپورٹ انڈیکس کی درجہ بندی میں درج ذیل میں سے کون سرفہرست رہا؟",
-      "options": [
-        "UAE",
-        "Singapore",
-        "Japan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley Passport Index</font><font color=\"#0000ff\"> released in July 2026<o:p></o:p></font></span></span></p>",
       "category": "all"
     },
     {
@@ -629,32 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 27-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence:  A) He has died a year ago. B) He died a year ago. C) He had died a year ago. D) He is died a year ago.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He has died a year ago.",
-        "He died a year ago.",
-        "He had died a year ago.",
-        "He is died a year ago."
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 27-07-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "State of Kashmir was the biggest state in the sub-continent situated in the northern part of Indo Pak continent having boundaries with",
-      "urdu": "ریاست کشمیر برصغیر کی سب سے بڑی ریاست تھی جو ہند پاک براعظم کے شمالی حصے میں واقع ہے جس کی سرحدیں ۔۔۔۔۔۔کے پاس ہیں",
-      "options": [
-        "Tibit",
-        "Russia",
-        "Afghanistan",
-        "All of them"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The state of Kashmir has </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">boundaries</font><font color=\"#0000ff\"> with:</font></b><br/></p>",
       "category": "all"
     }
   ]
