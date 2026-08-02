@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-01T20:03:36.037613",
+    "fetched_at": "2026-08-02T04:21:59.978445",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which Chinese satellite company was recently granted permission by Pakistan to provide satellite internet services?",
+      "urdu": "حال ہی میں پاکستان نے سیٹلائٹ انٹرنیٹ سروس فراہم کرنے کے لیے کس چینی سیٹلائٹ کمپنی کو اجازت دی؟",
+      "options": [
+        "Shanghai Spacecom Satellite Technology (SSST)",
+        "Huawei Satellite Communications",
+        "China SatNet",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If all auditors are officers and some officers are investigators, which statement must be true?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "All investigators are auditors.",
+        "Some auditors are investigators.",
+        "All auditors are officers.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the last Commander-in-Chief of the Battle of Mu'tah?",
+      "urdu": "غزوۂ مُوتہ کے آخری سپہ سالار کون تھے؟",
+      "options": [
+        "Hazrat Khalid ibn al-Walid (R.A.)",
+        "Hazrat Zaid bin Harithah (R.A.)",
+        "Hazrat Ja'far bin Abi Talib (R.A.)",
+        "Hazrat Abdullah bin Rawahah (R.A.)"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The 2026 NATO Summit was held in which city?",
       "urdu": "نیٹو کا 2026 کا سربراہی اجلاس کس شہر میں منعقد ہوا؟",
@@ -616,45 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Balikatan 2026 </span>is a joint military exercise between the </font><font color=\"#ff0000\">Philippines </font><font color=\"#0000ff\">and the </font>United States<font color=\"#0000ff\"> held in </font><span style=\"background-color: rgb(255, 255, 0);\"> 2026.</span><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A man is facing North. He walks 25 meters forward, turns right and walks 15 meters, then turns right again and walks 25 meters. After that, he turns left and walks 10 meters. In which direction is he from his starting point?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "North",
-        "East",
-        "West",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let's track his movement step by step. Assume he starts at point O facing North.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who among the following is the host of G20 summit of 2026?",
-      "urdu": "مندرجہ ذیل میں سے 2026 کے جی ٹوئنٹی سربراہی اجلاس کا میزبان کون ہے؟",
-      "options": [
-        "Donald Trump",
-        "Joe Biden",
-        "Barack Obama",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">G20 summit 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Secretary of State of the United States?",
-      "urdu": "امریکہ کا موجودہ وزیر خارجہ کون ہے؟",
-      "options": [
-        "Daniel Bennett Smith",
-        "Marco Rubio",
-        "Mike Pompeo",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
       "category": "all"
     }
   ]
