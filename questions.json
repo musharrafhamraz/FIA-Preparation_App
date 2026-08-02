@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-02T04:21:59.978445",
+    "fetched_at": "2026-08-02T09:05:55.257049",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which Chinese satellite company was recently granted permission by Pakistan to provide satellite internet services?",
-      "urdu": "حال ہی میں پاکستان نے سیٹلائٹ انٹرنیٹ سروس فراہم کرنے کے لیے کس چینی سیٹلائٹ کمپنی کو اجازت دی؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Shanghai Spacecom Satellite Technology (SSST)",
-        "Huawei Satellite Communications",
-        "China SatNet",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If all auditors are officers and some officers are investigators, which statement must be true?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "All investigators are auditors.",
-        "Some auditors are investigators.",
-        "All auditors are officers.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the last Commander-in-Chief of the Battle of Mu'tah?",
-      "urdu": "غزوۂ مُوتہ کے آخری سپہ سالار کون تھے؟",
-      "options": [
-        "Hazrat Khalid ibn al-Walid (R.A.)",
-        "Hazrat Zaid bin Harithah (R.A.)",
-        "Hazrat Ja'far bin Abi Talib (R.A.)",
-        "Hazrat Abdullah bin Rawahah (R.A.)"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 2026 NATO Summit was held in which city?",
-      "urdu": "نیٹو کا 2026 کا سربراہی اجلاس کس شہر میں منعقد ہوا؟",
-      "options": [
-        "Brussels",
-        "Warsaw",
-        "Ankara",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">NATO\r\nsummit 2026<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where did the 36th NATO summit conclude in 2026?",
-      "urdu": "دو ہزار چھبیس میں نیٹو کا 36 واں سربراہی اجلاس کہاں اختتام پذیر ہوا؟",
-      "options": [
-        "Hague, Netherlands",
-        "Brussels, Belgium",
-        "Ankara, Turkey",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">NATO summit 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Hepatitis Day is observed on what date?",
-      "urdu": "ہیپاٹائٹس کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "July 22",
-        "Just 18",
-        "July 28",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255);\">World Hepatitis Day is observed on </b><b style=\"\"><span style=\"color: rgb(0, 0, 255);\"><span style=\"background-color: rgb(255, 255, 0);\">July 28.</span><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which president of Bangladesh resigned from his post in July 2026 due to health concerns?",
-      "urdu": "بنگلہ دیش کے کس صدر نے جولائی 2026 میں صحت کے مسائل کی وجہ سے اپنے عہدے سے استعفیٰ دیا؟",
-      "options": [
-        "Hafiz Uddin Ahmad",
-        "Mohammed Shahabuddin",
-        "Mohammad Abdul Hamid",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Shahabuddin </span>served as the </font><font color=\"#ff0000\">17th </font>president <font color=\"#0000ff\">of </font><font color=\"#ff00ff\">Bangladesh </font><font color=\"#0000ff\">from 2023 to 2026.<o:p></o:p></font></span></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Which topology uses token passing for communication?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Star Topology",
-        "Bus Topology",
-        "Ring Topology",
-        "Mesh Topology"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Ring Topology → Token Passing</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Component testing is also known as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Integration Testing",
-        "Unit Testing",
-        "System Testing",
-        "Acceptance Testing"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Component Testing → </font><font color=\"#ff0000\">Unit Testing</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following has least  ranking in the Henley Passport Index released in July 2026?",
-      "urdu": "جولائی 2026 میں جاری ہونے والے ہینلے پاسپورٹ انڈیکس میں درج ذیل میں سے کس کا درجہ (رینکنگ) سب سے کم ہے؟",
-      "options": [
-        "Syria",
-        "Afghanistan",
-        "Libya",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; padding: 0px; font-family: \"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley Passport Index</font><font color=\"#0000ff\"> released in July 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What type of communication is used between a computer and a printer?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Half-Duplex",
-        "Full-Duplex",
-        "Simplex",
-        "Multiplex"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is the designated host of the 18th BRICS Summit in 2026?",
-      "urdu": "دو ہزار چھبیس میں 18ویں برکس  سربراہی اجلاس کی میزبانی کے لیے کون سا ملک نامزد ہے؟",
-      "options": [
-        "Brazil",
-        "China",
-        "India",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">BRICS Summit 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which edition of the BRICS Summit is being hosted by India in 2026?",
-      "urdu": "دو ہزار چھبیس میں بھارت کی میزبانی میں برکس (برکس) سربراہی اجلاس کا کون سا ایڈیشن منعقد ہو رہا ہے؟",
-      "options": [
-        "16th",
-        "17th",
-        "18th",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">BRICS Summit 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is the largest shareholder of Asian Development Bank (ADB)?",
-      "urdu": "ایشیائی ترقیاتی بینک کا سب سے بڑا حصہ دار کون سا ملک ہے؟",
-      "options": [
-        "China",
-        "Japan",
-        "Saudi Arabia",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><span style=\"background-color: rgb(255, 255, 0); font-family: Helvetica; color: rgb(255, 0, 0);\">As of August 2026, Japan is the largest shareholder of ADB.  </span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Venezuela formally withdrew from which organization in 2026?",
-      "urdu": "وینزویلا نے 2026 میں باضابطہ طور پر کس تنظیم سے علیحدگی اختیار کی؟",
-      "options": [
-        "World Trade Organization (WTO)",
-        "International Criminal Court (ICC)",
-        "Organization of American States (OAS)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b><font color=\"#0000ff\">In July 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Venezuela </font><font color=\"#0000ff\">formally notified the United Nations of its withdrawal from the </font><font color=\"#ff0000\">International Criminal Court (ICC)</font><font color=\"#0000ff\">, calling the Court politically biased against Global South countries.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An entity is anything about which we store data. This statement is",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "True",
-        "False",
-        "Partially True",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#9c00ff\"><br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country withdrew from the Rome Statue in 2026, exiting the International Criminal Court (ICC)?",
-      "urdu": "کس ملک نے 2026 میں روم اسٹیچیوٹ  سے دستبرداری اختیار کرتے ہوئے بین الاقوامی فوجداری عدالت (آئی سی سی) کو چھوڑ دیا؟",
-      "options": [
-        "Israel",
-        "Venezuela",
-        "Brazil",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(33, 37, 41);\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In July 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Venezuela </font><font color=\"#0000ff\">formally notified the United Nations of its withdrawal from the </font><font color=\"#ff0000\">International Criminal Court (ICC)</font><font color=\"#0000ff\">, calling the Court politically biased against Global South countries.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where will the 2026 G20 Summit be held?",
-      "urdu": "سن 2026 کا جی-20 سربراہی اجلاس کہاں منعقد ہوگا؟",
-      "options": [
-        "New York, USA",
-        "Washington, D.C., USA",
-        "Miami, USA",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">:<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Balikatan 2026 is a joint military exercise between the Philippines and which country?",
-      "urdu": "بالیکتان 2026 فلپائن اور کس ملک کے درمیان مشترکہ فوجی مشق ہے؟",
-      "options": [
-        "Japan",
-        "US",
-        "Vietnam",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Balikatan 2026 </span>is a joint military exercise between the </font><font color=\"#ff0000\">Philippines </font><font color=\"#0000ff\">and the </font>United States<font color=\"#0000ff\"> held in </font><span style=\"background-color: rgb(255, 255, 0);\">2026.</span><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which death anniversary of Abdul Sattar Edhi was observed on 8 July 2026?",
-      "urdu": "آٹھ جولائی 2026 کو عبدالستار ایدھی کی کون سی برسی منائی گئی؟",
-      "options": [
-        "9th",
-        "10th",
-        "11th",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150);\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-family: Helvetica; color: rgb(0, 0, 255);\">10th death anniversary of Abdul Sattar Edhi was observed on 8 July 2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "As per IMF's World Economic Outlook report, global growth rate is projected to slow to what rate in 2026?",
-      "urdu": "آئی ایم ایف کی ورلڈ اکنامک آؤٹ لک رپورٹ کے مطابق، عالمی شرح نمو 2026 میں کس شرح تک سست رہنے کا امکان ہے؟",
-      "options": [
-        "5.1%.",
-        "4.1%.",
-        "3.1%.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p \"helvetica=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; padding: 0px; font-family: \"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">According to the <span style=\"background-color: rgb(255, 255, 0);\">IMF</span>'s 2026 World Economic Outlook report, the global growth rate forecast for </font><span style=\"background-color: rgb(255, 255, 0);\">2026 </span><font color=\"#0000ff\">has been lowered to </font><font color=\"#ff0000\">3.1%.</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Balikatan 2026 is a joint military exercise between which two countries?",
-      "urdu": "بالیکتن 2026 کن دو ممالک کی مشترکہ فوجی مشق ہے؟",
-      "options": [
-        "The Philippines and the United States",
-        "The Netherlands and the United States",
-        "The United Kingdom and the United States",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Balikatan 2026 </span>is a joint military exercise between the </font><font color=\"#ff0000\">Philippines </font><font color=\"#0000ff\">and the </font>United States<font color=\"#0000ff\"> held in </font><span style=\"background-color: rgb(255, 255, 0);\">2026.</span><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the Madrid Open 2026 men's singles title?",
-      "urdu": "میڈرڈ اوپن 2026 مینز سنگلز ٹائٹل کس نے جیتا؟",
-      "options": [
-        "Alexander Zverev",
-        "Jannik Sinner",
-        "Carlos Alcaraz",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"background-color: rgb(255, 255, 0);\"><b><font color=\"#0000ff\"> </font></b></span><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Jannik Sinner</span> of </font><font color=\"#ff0000\">Italy </font><font color=\"#0000ff\">defeated </font>Alexander Zverev<font color=\"#0000ff\"> of\r\n</font><span style=\"background-color: rgb(255, 255, 0);\">Germany</span><font color=\"#0000ff\"> in the final to win the 2</font>026 Madrid Open <font color=\"#0000ff\">men’s singles title.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Six people are standing in a line. Ahmed is ahead of Bilal but behind Usman. Hamza is behind Bilal. Who is definitely first among them?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ahmed",
-        "Bilal",
-        "Usman",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person says, \"The woman in the photograph is the daughter of my grandfather's only son.\" Who is the woman?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "His mother",
-        "His sister",
-        "His aunt",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If all laptops are computers and no computer is a mobile phone, then which conclusion is definitely true?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "All mobile phones are computers.",
-        "Some laptops are mobile phones.",
-        "No laptop is a mobile phone.",
-        "All computers are laptops."
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following represents the correct sequence of data processing? Input → Processing → Output → Storage, Processing → Input → Storage → Output, Storage → Input → Processing → Output, None of these",
-      "urdu": "مندرجہ ذیل میں سے ڈیٹا پروسیسنگ کی درست ترتیب کون سی ہے؟",
-      "options": [
-        "Input → Processing → Output → Storage",
-        "Processing → Input → Storage → Output",
-        "Storage → Input → Processing → Output",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The correct data processing sequence is </font><font color=\"#ff0000\">Input → Processing → Output → Storage</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which operator is used as the increment operator in C/C++?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "--",
-        "++",
-        "+=",
-        "**"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px;\"><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; padding: 0.2em 0.4em; margin: 0px; border-radius: 6px;\">++</span></span> adds 1</font><font color=\"#0000ff\"> to a variable.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The statement A += B is equivalent to",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A = B + B",
-        "A = A + B",
-        "A = A - B",
-        "A = B - A"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px;\"><font color=\"#0000ff\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">Other compound operators</span> follow the same pattern:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which function is used to close a file in C?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "open()",
-        "close()",
-        "fclose()",
-        "endfile()"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the output of a function that calculates the cube of 5?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15",
-        "25",
-        "100",
-        "125"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"76\" data-start=\"0\"><font color=\"#0000ff\">The cube of a number is the result of multiplying the number by itself <strong data-end=\"75\" data-start=\"60\">three times</strong>.<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "A void function in C generally",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Returns an integer",
-        "Returns a string",
-        "Returns no value",
-        "Returns a Boolean value"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px;\"><font color=\"#0000ff\">A </font><font color=\"#ff0000\">void function in C is used </font><font color=\"#0000ff\">for its side effects rather than returning a value.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a function adds x + y, what will be the output when x = 2 and y = 3?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "4",
-        "5",
-        "6",
-        "8"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">The output will be</font><font color=\"#ff0000\"> 5 (2 + 3 = 5).</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which security technique converts readable data into an unreadable format to protect information?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Authentication",
-        "Compression",
-        "Encryption",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a type of computer network that covers a large geographic area, such as a country?",
-      "urdu": "مندرجہ ذیل میں سے کون سا کمپیوٹر نیٹ ورک ایک بڑے جغرافیائی علاقے، جیسے ایک ملک، پر محیط ہوتا ہے؟",
-      "options": [
-        "Metropolitan Area Network (MAN)",
-        "Local Area Network (LAN)",
-        "Wide Area Network (WAN)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is NOT an Input device? Microphone and Mouse, Keyboard, Monitor and Speaker, Scanner and Joystick",
-      "urdu": "مندرجہ ذیل میں سے کون سا اِن پٹ ڈیوائس نہیں ہے؟",
-      "options": [
-        "Microphone and Mouse",
-        "Keyboard",
-        "Monitor and Speaker",
-        "Scanner and Joystick"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary function of an Operating System kernel?",
-      "urdu": "آپریٹنگ سسٹم کے کرنل کا بنیادی کام کیا ہے؟",
-      "options": [
-        "Manage hardware and system resources",
-        "Run user applications",
-        "Provide internet connectivity",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-06-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "A password containing letters, numbers, and special characters is considered stronger because?",
-      "urdu": "حروف، اعداد اور خاص علامات پر مشتمل پاس ورڈ زیادہ مضبوط کیوں سمجھا جاتا ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "It reduces password length",
-        "It increases possible combinations",
-        "It is easier to remember",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If all officers are employees and some employees are graduates, which conclusion is definitely true?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Officers are employees",
-        "All graduates are officers",
-        "Some officers are graduates",
-        "No employee is graduate"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The statement \"</font><font color=\"#ff0000\">All officers are employees</font><font color=\"#0000ff\">\" directly proves that </font><font color=\"#ff0000\">every officer is an employee</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which new sport has been included in Olympics Games 2028",
-      "urdu": "اولمپکس گیمز 2028 میں کون سا نیا کھیل شامل کیا گیا ہے؟",
-      "options": [
-        "Ice Hockey",
-        "Boxing",
-        "Cricket",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Five new sports including </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">cricket</b><b style=\"color: rgb(0, 0, 255);\">, squash, baseball-softball, lacrosse and flag football – have been added to the </b><b style=\"color: rgb(255, 0, 0);\">2028</b><span style=\"color: rgb(255, 0, 255);\"><b style=\"\"> </b><b style=\"\">Los Angeles Olympics.</b></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "IOC accepted proposal to include which game in Los Angeles 2028 Olympics?",
-      "urdu": "I O C نے لاس اینجلس اولمپکس 2028 میں کس گیم کو شامل کرنے کی تجویز قبول کر لی؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Ice Hockey",
-        "Cricket",
-        "Boxing",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Five new sports including </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">cricket</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">, squash, baseball-softball, lacrosse and flag football – have been added to the </span><span style=\"font-weight: bolder; color: rgb(255, 0, 0);\">2028</span><span style=\"color: rgb(255, 0, 255);\"><span style=\"font-weight: bolder;\"> </span><span style=\"font-weight: bolder;\">Los Angeles Olympics.</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Summer Olympics Games 2028 will be played in _____?",
-      "urdu": "سن 2028 کے سمر اولمپکس کہاں منعقد ہوں گے؟",
-      "options": [
-        "Paris",
-        "Rome",
-        "Los Angeles",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country has hosted the World Artificial Intelligence Conference 2026?",
-      "urdu": "ورلڈ آرٹیفیشل انٹیلی جنس کانفرنس 2026 کی میزبانی کس ملک نے کی ہے؟",
-      "options": [
-        "America",
-        "China",
-        "France",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">World Artificial Intelligence Conference 2026</font><font color=\"#0000ff\"> was held in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Shanghai, China.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where was the 2026 Uber Cup badminton tournament held?",
-      "urdu": "دو ہزار چھبیس اوبر کپ بیڈمنٹن ٹورنامنٹ کہاں منعقد ہوا؟",
-      "options": [
-        "Tokyo",
-        "Beijing",
-        "Horsens",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About the </font><font color=\"#ff0000\">2026 Uber Cup</font><font color=\"#0000ff\"> badminton tournament<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the Madrid Open 2026 women's singles title?",
-      "urdu": "میڈرڈ اوپن 2026 ویمنز سنگلز ٹائٹل کس نے جیتا؟",
-      "options": [
-        "Marta Kostyuk",
-        "Mirra Andreeva",
-        "Aryna Sabalenka",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The <span style=\"background-color: rgb(255, 255, 0);\">2026 Madrid Open</span> women’s singles title was won\r\nby </font><font color=\"#ff0000\">Marta Kostyuk </font><font color=\"#0000ff\">of </font>Ukraine<font color=\"#0000ff\">. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Jannik Sinner is the tennis player of which country who has won the Madrid Open 2026 men's singles title?",
-      "urdu": "جنیک سنر کس ملک کے ٹینس کھلاڑی ہیں جنہوں نے میڈرڈ اوپن 2026 مینز سنگلز ٹائٹل جیتا ہے؟",
-      "options": [
-        "Germany",
-        "Spain",
-        "Italy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"> </font></span></span><span style=\"font-weight: bolder; font-size: 0.875rem;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Jannik Sinner</span> of </font><font color=\"#ff0000\">Italy </font><font color=\"#0000ff\">defeated </font>Alexander Zverev<font color=\"#0000ff\"> of </font><span style=\"background-color: rgb(255, 255, 0);\">Germany</span><font color=\"#0000ff\"> in the final to win the 2</font>026 Madrid Open <font color=\"#0000ff\">men’s singles title.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Chief Minister (CM) of Gilgit-Baltistan (GB)?",
-      "urdu": "گلگت بلتستان (جی بی) کے موجودہ وزیر اعلیٰ کون ہیں؟",
-      "options": [
-        "Khalid Khurshid Khan",
-        "Yar Muhammad",
-        "Amjad Hussain Azar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><a href=\"https://en.wikipedia.org/wiki/Amjad_Hussain_Azar\" style=\"\" target=\"_blank\"><b><font color=\"#ff00ff\">Click here for reference</font></b></a></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following has the world's most powerful passport according to the Henley Passport Index released in July 2026?",
-      "urdu": "جولائی 2026 میں جاری ہونے والے ہینلے پاسپورٹ انڈیکس کے مطابق، درج ذیل میں سے کس کا پاسپورٹ دنیا کا طاقتور ترین پاسپورٹ ہے؟",
-      "options": [
-        "Singapore",
-        "UAE",
-        "Japan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Henley Passport Index</font><font color=\"#0000ff\"> released in July 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Between the United States and which other country is the Balikatan 2026 military exercise being conducted?",
-      "urdu": "امریکہ اور کس دوسرے ملک کے درمیان بالیکاتن 2026 فوجی مشق کا انعقاد کیا جا رہا ہے؟",
-      "options": [
-        "Israel",
-        "Philippines",
-        "Canada",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Balikatan 2026 </span>is a joint military exercise between the </font><font color=\"#ff0000\">Philippines </font><font color=\"#0000ff\">and the </font>United States<font color=\"#0000ff\"> held in </font><span style=\"background-color: rgb(255, 255, 0);\">2026.</span><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "With which country did the USA launch the joint exercise Balikatan 2026?",
-      "urdu": "امریکہ نے کس ملک کے ساتھ مشترکہ مشق بالیکاتن 2026 شروع کی؟",
-      "options": [
-        "Philippines",
-        "Canada",
-        "New Zealand",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Balikatan 2026 </span>is a joint military exercise between the </font><font color=\"#ff0000\">Philippines </font><font color=\"#0000ff\">and the </font>United States<font color=\"#0000ff\"> held in </font><span style=\"background-color: rgb(255, 255, 0);\"> 2026.</span><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     }
   ]
 }
