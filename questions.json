@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-04T20:16:30.547861",
+    "fetched_at": "2026-08-05T03:58:57.314522",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The time period of a charged particle moving in a uniform magnetic field is independent of?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Mass of the particle",
-        "Magnetic field strength",
-        "Charge of the particle",
-        "Speed of the particle"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
+      "options": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "If a charged particle enters a region where the electric field and magnetic field are parallel to each other, the particle's path will generally be",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "helix",
-        "Straight",
-        "Elliptical",
-        "Parabolic"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p style='margin-bottom: 10px; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-family: D-DINExp, \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";'><font color=\"#0000ff\">The particle's path is a </font><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 600;\"><font color=\"#ff0000\">helix</font></span><font color=\"#0000ff\">.</font></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "We are taking exams, we ______ disturb them.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Need",
-        "Need not",
-        "Does need",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "The Antonym of Irascible is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Determined",
-        "Placid",
-        "Reasonable",
-        "Pliant"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 04-08-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the voice: Bring the chair in the room.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Let the chair be in the room.",
-        "Let the chair be brought in the room.",
-        "Let the chair brought in the room.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Analogy: Moccasin : Snake :: ______ : Shoe.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Shirts",
-        "Loafer",
-        "Gucci",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Meld is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Closed",
-        "Blend",
-        "Covered",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "We received them ________ airport.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "At",
-        "In",
-        "On",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistani boxer Fatima Zahra won which medal in  Commonwealth Games 2026?",
-      "urdu": "پاکستانی باکسر فاطمہ زہرا نے کامن ویلتھ گیمز 2026 میں کون سا میڈل جیتا؟",
-      "options": [
-        "Gold",
-        "Silver",
-        "Bronze",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\">Pakistani <font color=\"#0000ff\">boxer </font><span style=\"background-color: rgb(255, 255, 0);\">Fatima Zahra </span><font color=\"#0000ff\">won a historic </font><font color=\"#ff0000\">bronze </font><font color=\"#0000ff\">medal in the women's</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> 60kg</font><font color=\"#0000ff\"> event at the </font><font color=\"#ff00ff\">2026 Commonwealth Games</font><font color=\"#0000ff\">, becoming the </font>first-ever female <font color=\"#0000ff\">boxer to win a medal for Pakistan at the event.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who made history by becoming the first woman boxer from Pakistan to win  Commonwealth Games medal in 2026?",
-      "urdu": "پاکستان کی کون سی خاتون باکسر 2026 میں کامن ویلتھ گیمز کا میڈل جیتنے والی پہلی خاتون باکسر بن کر تاریخ رقم کرنے والی ہیں؟",
-      "options": [
-        "Shabana Akhtar",
-        "Naseem Hameed",
-        "Fatima Zahra",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\">Pakistani <font color=\"#0000ff\">boxer </font><span style=\"background-color: rgb(255, 255, 0);\">Fatima Zahra </span><font color=\"#0000ff\">won a historic </font><font color=\"#ff0000\">bronze </font><font color=\"#0000ff\">medal in the women's</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> 60kg</font><font color=\"#0000ff\"> event at the </font><font color=\"#ff00ff\">2026 Commonwealth Games</font><font color=\"#0000ff\">, becoming the </font>first-ever female <font color=\"#0000ff\">boxer to win a medal for Pakistan at the event.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: Have Ahsan play football?, Does Ahsan play football?, Do Ahsan play football?, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Have Ahsan play football?",
-        "Does Ahsan play football?",
-        "Do Ahsan play football?",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a question does not provide enough information to determine the answer, which option should be selected?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cannot be determined",
-        "Data inadequate",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">If a question lacks sufficient information to reach a definitive conclusion is </font><font color=\"#ff0000\">\"Data inadequate\" or \"Cannot be determined\". </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "وہ اسم جو مصدر سے بنے لیکن اس سے پھر کوئی لفظ نہ بنے، اسے کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "اسم مشتق",
-        "اسم جامد",
-        "اسم معرفہ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">اسمِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مشتق</font><font color=\"#0000ff\">: وہ اسم جو کسی مصدر سے بنا ہو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Breastfeeding Week is observed annually on which date in August?",
-      "urdu": "عالمی ہفتہ برائے ماں کا دودھ پلانا اگست میں کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "8 to 15",
-        "1 to 7",
-        "10 to 17",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">World Breastfeeding Week</font><font color=\"#0000ff\"> first observed in 1992.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the theme of World breastfeeding week 2026?",
-      "urdu": "عالمی ہفتہ برائے ماں کا دودھ پلانا 2026 کا مرکزی خیال کیا ہے؟",
-      "options": [
-        "Breastfeeding for a Sustainable Start in Life",
-        "Let´s make breastfeeding and work",
-        "Breastfeeding support for all",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">World Breastfeeding Week</font><font color=\"#0000ff\"> first observed in 1992.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "آپے سے باہر ہونا۔ اس محاورے کا مطلب کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شرمندہ ہونا",
-        "بہت غصے میں ہونا",
-        "آب آب ہونا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">آپے</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سے باہر ہونا</font><font color=\"#0000ff\"> کا مطلب </font><font color=\"#ff0000\">شدید غصے میں آ جانا</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Solve for x:  2x+5=15",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3",
-        "5",
-        "7",
-        "10"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"\" data-end=\"6\" data-start=\"0\"><font color=\"#9c00ff\">Solve:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which has become the first non-European country to join the European Political Community?",
-      "urdu": "یورپی سیاسی برادری میں شامل ہونے والا پہلا غیر یورپی ملک کون سا بن گیا ہے؟",
-      "options": [
-        "Japan",
-        "Australia",
-        "Canada",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">In 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Canada </font><font color=\"#0000ff\">became\r\nthe </font><font color=\"#ff0000\">first non-European</font><font color=\"#0000ff\"> country to attend the European Political Community (</font>EPC<font color=\"#0000ff\">)\r\nsummit in </font><font color=\"#ff00ff\">Yerevan, Armenia.</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "مختصر وقفے کے لیے کون سی علامت استعمال ہوتی ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "وقفہ",
-        "ختمہ",
-        "سوالیہ نشان",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">وقفہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">(،)</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مختصر وقفے</font><font color=\"#0000ff\"> کے لیے استعمال ہوتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani boxer won bronze medal in 2026 Commonwealth Games?",
-      "urdu": "کس پاکستانی باکسر نے 2026 کے کامن ویلتھ گیمز میں کانسی کا تمغہ جیتا؟",
-      "options": [
-        "Kashmala Talat",
-        "Fatima Zahra",
-        "Hiba Khalid",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "وہ آیا تھا قواعد کی رو سے کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ماضی مطلق",
-        "ماضی بعید",
-        "ماضی قریب",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">ماضی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بعید</font><font color=\"#0000ff\"> ایسے کام کو ظاہر کرتی ہے جو </font><font color=\"#ff0000\">ماضی میں کسی دوسرے ماضی کے وقت سے پہلے مکمل</font><font color=\"#0000ff\"> ہو چکا ہو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the major of Pakistan army who got martyrdom in August 2026 in North Waziristan?",
-      "urdu": "پاکستان آرمی کے اس میجر کا نام بتائیں جو اگست 2026 میں شمالی وزیرستان میں شہید ہوئے؟",
-      "options": [
-        "Abdul Raheem Khattak",
-        "Hafiz Ihsan Elahi",
-        "Abdul Jabbar Shah",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">An <span style=\"background-color: rgb(255, 255, 0);\">army </span>officer\r\nwas martyred during an intelligence-based operation (IBO) in the</font><font color=\"#ff0000\"> Razmak area of\r\nNorth Waziristan </font><font color=\"#0000ff\">district on 1 August 2026.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A and B invest Rs. 15,000 and Rs. 20,000, respectively, in a business. After 6 months, C invests Rs. 20,000. If the total profit after 2 years is Rs. 25,000, what is B's share of the profit?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 8,000",
-        "Rs. 9,000",
-        "Rs. 10,000",
-        "Rs. 12,000"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"52\" data-start=\"0\"><font color=\"#ff00ff\">Let's calculate using the <strong data-end=\"44\" data-start=\"26\" style=\"\">capital × time</strong> method:<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "مطلع کے لغوی معنیٰ کیا ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "انتہا",
-        "ابتدا",
-        "طلوع ہونے کی جگہ",
-        "غروب ہونے کی جگہ"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">مطلع عربی لفظ \"</font><font color=\"#ff0000\">طلوع</font><font color=\"#0000ff\">\" سے نکلا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A clock strikes at intervals of 5, 7, 10, and 12 seconds. If the same intervals continue, how many strikes occur in one hour, excluding the first strike?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "6",
-        "8",
-        "9"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"68\" data-start=\"27\"><font color=\"#0000ff\">LCM of <span data-end=\"50\" data-start=\"34\" style=\"font-weight: bolder;\">5, 7, 10, 12</span> = <span data-end=\"68\" data-start=\"53\" style=\"font-weight: bolder;\">420 seconds</span><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If an article is sold at a profit of RS 120, which represents 20% of the selling price, then what is the cost price of the article?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "500",
-        "600",
-        "480",
-        "976"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"6\" data-start=\"0\"><font color=\"#ff9c00\">Given:<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Iranian minister visited Pakistan in July 2026?",
-      "urdu": "جولائی 2026 میں کس ایرانی وزیر نے پاکستان کا دورہ کیا؟",
-      "options": [
-        "Eskandar Momeni",
-        "Seyed Abbas Araghchi",
-        "Masoud Pezeshkian",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Iranian Interior Minister</font><font color=\"#0000ff\"> who made an official visit to Pakistan is </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Eskandar Momeni</font><font color=\"#0000ff\">.</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "قرآن پاک کے وہ الفاظ جن کے ظاہری معنی اور مفہوم عام انسان کی عقل و فہم سے بالاتر یا پوشیدہ ہوں، کیا کہلاتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حروفِ مقطعات",
-        "حروفِ ضروری",
-        "حروفِ استفہام",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">قرآنِ مجید کے </font><font color=\"#ff0000\">بعض سورتوں کے آغاز</font><font color=\"#0000ff\"> میں آنے والے جدا جدا حروف کو </font><font color=\"#ff0000\">حروفِ مقطعات</font><font color=\"#0000ff\"> کہتے ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan will celebrate which independence day on 14 August 2026?",
-      "urdu": "پاکستان 14 اگست 2026 کو کون سا یوم آزادی منائے گا؟",
-      "options": [
-        "77th",
-        "78th",
-        "79th",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Pakistan will celebrate its </span><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0); color: rgb(255, 0, 0);\">79th </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Independence Day with patriotic zeal and fervour on </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">14 August 2026.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Carbon monoxide attaches with?",
-      "urdu": "کاربن مونو آکسائیڈ کس کے ساتھ جڑتی ہے؟",
-      "options": [
-        "Magnalium",
-        "Hemoglobin",
-        "Iron",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Urine is produced in ____?",
-      "urdu": "پیشاب جسم میں کہاں بنتا ہے؟",
-      "options": [
-        "Kidney",
-        "Pancreas",
-        "Spleen",
-        "Gallbladder"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The outer most layer of earth is called ______?",
-      "urdu": "زمین کی سب سے بیرونی تہہ کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Core",
-        "Crust",
-        "Mental",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p data-pm-slice=\"1 1 []\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who discovered the circulation of blood?",
-      "urdu": "خون کی گردش کو کس نے دریافت کیا؟",
-      "options": [
-        "Parker",
-        "William Harvey",
-        "Mendel",
-        "Newton"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which isotope of hydrogen is radioactive?",
-      "urdu": "ہائیڈروجن کا کون سا آاسوٹوپ تابکار ہے؟",
-      "options": [
-        "Tritium",
-        "Protium",
-        "Deuterium",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Data transfer between computers is carried out through?",
-      "urdu": "کمپیوٹرز کے درمیان ڈیٹا کی منتقلی کس کے ذریعے کی جاتی ہے؟",
-      "options": [
-        "Protocol",
-        "Data Bus",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which program helps in understanding and managing the running of a computer?",
-      "urdu": "کون سا پروگرام کمپیوٹر کے کام کرنے کو سمجھنے اور منظم کرنے میں مدد کرتا ہے؟",
-      "options": [
-        "FIFO",
-        "OS",
-        "SS",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Caps Lock and Num Lock are?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Numeric Keys",
-        "Function Keys",
-        "Toggle Keys",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "To apply center alignment to a paragraph in MS-Word, we can press?",
-      "urdu": "پیراگراف کو سینٹر میں کرنے کے لیے کونسی کی استعمال کرتے ہیں؟",
-      "options": [
-        "Ctrl + E",
-        "Ctrl + S",
-        "Ctrl + C + A",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the gold medal for Pakistan in javelin throw?",
-      "urdu": "جیولین تھرو میں پاکستان کے لیے گولڈ میڈل کس نے جیتا؟",
-      "options": [
-        "Arshad Nadeem",
-        "Nadeem Raza",
-        "Ahsan Iqbal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-02-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which football club is the winner of 2024-25 UEFA Champions League?",
-      "urdu": "کون سا فٹ بال کلب 2024 اور 2025 یونین آف یورپین فٹ بال ایسوسی ایشن چیمپئنز لیگ کا فاتح ہے؟",
-      "options": [
-        "Real Madrid",
-        "Manchester United",
-        "Paris Saint-Germain",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">: </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Demand of water depends upon?",
-      "urdu": "پانی کی طلب کس چیز پر منحصر ہوتی ہے؟",
-      "options": [
-        "Cost of water",
-        "Quality of water",
-        "Weather",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">Factors Affecting Water Demand</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a septic tank, the third portion at the bottom side contains?",
-      "urdu": "سیپٹک ٹینک کے نچلے تیسرے حصے میں کیا موجود ہوتا ہے؟",
-      "options": [
-        "Sewage",
-        "Soil",
-        "Sludge",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most suitable ratio of width and length of a seismic resisting building is?",
-      "urdu": "زلزلہ مزاحم عمارت کے لیے چوڑائی اور لمبائی کا سب سے موزوں تناسب کیا ہے؟",
-      "options": [
-        "1:3",
-        "1:4",
-        "1:2",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "RPM stands for?",
-      "urdu": "آر پی ایم کا مطلب کیا ہے؟",
-      "options": [
-        "Rotation per milligram",
-        "Rotation per mile",
-        "Rotation per minute",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the most precise instrument designed for the measurement of horizontal and vertical angles?",
-      "urdu": "افقی اور عمودی زاویوں کی پیمائش کے لیے سب سے زیادہ درست آلہ کون سا ہے؟",
-      "options": [
-        "Theodolite",
-        "Survey Chain",
-        "Dumpy Level",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Repeated use of line, shape and texture is called?",
-      "urdu": "لائن، شکل اور بناوٹ کے بار بار استعمال کو کیا کہتے ہیں؟",
-      "options": [
-        "Transformation",
-        "Rhythm",
-        "Datum",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ventilation through doors and windows on opposite sides of a room is called?",
-      "urdu": "کمرے کے مخالف اطراف میں موجود دروازوں اور کھڑکیوں کے ذریعے ہوا کے گزرنے کو کیا کہتے ہیں؟",
-      "options": [
-        "Single-sided ventilation",
-        "Cross ventilation",
-        "Stack ventilation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Built environment refers to the ______ surroundings that provide the setting for human activity and living.",
-      "urdu": "تعمیر شدہ ماحول سے مراد ______ ماحول ہے جو انسانی سرگرمیوں اور رہائش کے لیے جگہ فراہم کرتا ہے۔",
-      "options": [
-        "Manmade",
-        "Natural",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which type of sewer is suitable for a combined sewerage system?",
-      "urdu": "مشترکہ سیوریج سسٹم کے لیے کون سی شکل کی سیور موزوں ہوتی ہے؟",
-      "options": [
-        "Egg Shaped",
-        "Circular",
-        "V-Shape",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An intake suitable for big projects is?",
-      "urdu": "بڑے منصوبوں کے لیے کون سا انٹیک موزوں ہے؟",
-      "options": [
-        "Submerged intake",
-        "Reservoir intake",
-        "Exposed intake",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     }
   ]
 }
