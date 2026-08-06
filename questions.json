@@ -1,76 +1,660 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-06T04:10:03.434484",
+    "fetched_at": "2026-08-06T09:36:00.117032",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Idiom: Out of the blue means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
+        "From nowhere",
+        "Unexpectedly/Suddenly",
+        "Clearly",
+        "Both A and B"
       ],
       "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "فتح کا مترادف ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "ظفر",
+        "اقبال",
+        "سرور",
+        "شکست"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">فتح</font><font color=\"#0000ff\"> کا مطلب </font><font color=\"#ff0000\">کامیابی یا جیت</font><font color=\"#0000ff\"> ہے۔</font></b></span></p>",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "عود ہندی مصنف کے اعتبار سے کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "خطوط",
+        "سوانح عمری",
+        "سفرنامہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff00ff\">عودِ</font><font color=\"#0000ff\"> </font><font color=\"#ff00ff\">ہندی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مرزا غالب</font><font color=\"#0000ff\"> کے </font><font color=\"#ff0000\">خطوط</font><font color=\"#0000ff\"> کا مجموعہ ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The OIC is a?",
+      "urdu": "او آئی سی کس قسم کی تنظیم ہے؟",
+      "options": [
+        "Political organization",
+        "Muslim organization",
+        "Economic organization",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the founder of the Unionist Party?",
+      "urdu": "یونینسٹ پارٹی کا بانی کون تھا؟",
+      "options": [
+        "Liaqat Ali Khan",
+        "Sir Fazal Hussain",
+        "Molana Fazal ul Haq",
+        "Syed Amir Hassan"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the current President of Financial Action Task Force (FATF)?",
+      "urdu": "فنانشل ایکشن ٹاسک فورس کے موجودہ صدر کون ہیں؟",
+      "options": [
+        "Giles Thomson",
+        "T. Raja Kumar",
+        "Elisa de Anda Madrazo",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اردو گرامر میں آنے والے الفاظ جیسے \"شناس\" اور \"اندیش\" کیا کہلاتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "لاحقے",
+        "سابقے",
+        "حروفِ جار",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "شاعری میں ابتذال سے کیا مراد ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "تضاد",
+        "لف و نشر",
+        "عامیانہ",
+        "ان میں سے کوئی نہیں"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b><font color=\"#0000ff\">شاعری میں ابتذال سے </font><font color=\"#ff0000\">عامیانہ</font><font color=\"#0000ff\"> مراد ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the opposite of fungal?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bacterial",
+        "Viral",
+        "Herbal",
+        "Sterile"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Fungal: </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">فنگس (کھمبی یا پھپھوندی) سے متعلق</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Dinosaurs belong to which group of animals?",
+      "urdu": "ڈائنوسار کا تعلق جانوروں کے کس گروہ سے ہے",
+      "options": [
+        "Mammals",
+        "Amphibians",
+        "Reptiles",
+        "Birds"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Dinosaurs are part of the reptile group, </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">specifically a diverse group </font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">of reptiles that </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">appeared during the Mesozoic Era. </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Eager is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Calm",
+        "intelligent",
+        "Ambitious",
+        "None"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\"><span style=\"font-size: 1rem;\">eager</span><br/></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "حافظ محمود شیرانی کے مطابق اردو کا پہلا شاعر کون ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مسعود سعد سلیمان",
+        "قلی قطب شاہ",
+        "امیر خسرو",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">حافظ محمود شیرانی کے مطابق اردو کا پہلا شاعر </font><font color=\"#ff0000\">مسعود</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سعد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سلیمان</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hayat e javeed is written by?",
+      "urdu": "حیات  جاوید  کس نے لکھی ۔",
+      "options": [
+        "Mirza ghalib",
+        "Sir syed",
+        "Altaf Hussain Hali",
+        "Iqbal"
+      ],
+      "correct": 2,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "1st Martial Law imposed by Iskandar Mirza?",
+      "urdu": "پہلا مارشل لاء اسکندر مرزا نے کب لگایا؟",
+      "options": [
+        "1956",
+        "1957",
+        "1958",
+        "1960"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(133, 135, 150); text-indent: 0px;\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">ist of Martial Laws Held in Pakistan from 1947 to 2022<o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the maximum Zoom Percentage in MS Word?",
+      "urdu": "ایم ایس ورڈ میں سائززیادہ سے زیادہ کتنے فیصد ہوتا ہے؟",
+      "options": [
+        "400%",
+        "500%",
+        "10%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span \"jameel=\"\" arial=\"\" black\",sans-serif;mso-bidi-font-family:=\"\" er\"=\"\" nastaleeq\";color:white;mso-themecolor:background1;mso-bidi-language:=\"\" noori=\"\" style=\"font-size: 20pt; color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\"><span style=\"font-family: Helvetica; font-weight: normal;\">Zoom size</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which book of Hafiz is the national anthem of Pakistan written?",
+      "urdu": "پاکستان کا قومی ترانہ حافظ کی کس کتاب میں لکھا ہے؟",
+      "options": [
+        "Diwan-e-Hafiz",
+        "Rubaiyat",
+        "Chiragh Sahar",
+        "Tazkira"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">The National Anthem of Pakistan is written in </font><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 255);\">Chiragh Sahar </font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">Book of Hafez Jalandhari.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "نجوم کا واحد  کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "نجم",
+        "نجوما",
+        "نجومہ",
+        "نجمی"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">\"نجوم\" کا واحد \"نجم\" ہے۔ \"نجوم\" عربی زبان کا لفظ ہے جس کا مطلب ستارے یا علم نجوم ہے،</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who abrogated 1956 constitution?",
+      "urdu": "کس نے 1956 کا آئین  منسوخ کیا؟",
+      "options": [
+        "Ayub Khan",
+        "Yahya khan",
+        "Iskander Mirza",
+        "Tikka khan"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><u style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><span arial=\"\" black\";\"=\"\" style=\"color: rgb(0, 0, 255);\">All important questions of  \"the </span></span><span 1rem;\"=\"\" arial=\"\" black\";=\"\" font-size:=\"\" style=\"color: rgb(0, 49, 99);\">1956 constitution\"</span></u></p>",
+      "category": "all"
+    },
+    {
+      "q": "The study of rock is called?",
+      "urdu": "چٹان کا مطالعہ کیا کہلاتا ہے؟",
+      "options": [
+        "Petrology",
+        "Edaphology",
+        "Petrogenesis",
+        "Pedology"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(0, 0, 255);\">Geologists are scientists who study a planet's solid features,</span><span style=\"color: rgb(255, 0, 0);\"> like soil, rocks, and minerals.</span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "He used to _____ us with anecdotes.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rebuke",
+        "Regale",
+        "Ignore",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom \"Too many irons in the fire\" means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To work very hard",
+        "To be involved in too many activities at the same time",
+        "To lose an opportunity",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the idiom tongue in cheek mean?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To speak very seriously",
+        "To be sarcastic or joking",
+        "To keep a secret",
+        "To be stubborn"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">\"Tongue in cheek\" </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">means</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> to say something jokingly or sarcastically, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">not to be taken literally or seriously.</font><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person who is womanish in his habits?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Feminist",
+        "Effeminate",
+        "Philanderer",
+        "Philatelist"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\">A </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">man</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> who is </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">womanish</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> in his </span><span style=\"background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);\">habits is known</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> as Effeminate.</span></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "_____ Man is mortal.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "No article required"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Man is mortal means انسان فانی ہے</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Neither of the two girls _____ late.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Were",
+        "Are",
+        "Is",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "After the United States, which country has successfully landed a robot on the surface of Mars on 15 May 2021?",
+      "urdu": "امریکہ کے بعد 15 مئی 2021 کو کس ملک نے کامیابی سے مریخ کی سطح پر روبوٹ اتارا ہے؟",
+      "options": [
+        "Russia",
+        "Germany",
+        "China",
+        "UK"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bold;\"><font face=\"arial, sans-serif\" style=\"\"><span style=\"color: rgb(0, 0, 255);\">China has </span><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">successfully</font><span style=\"color: rgb(0, 0, 255);\"> landed a robot on the surface of Mars on </span><span style=\"color: rgb(255, 0, 0);\">15 May 2021.</span></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The world's first fully integrated AI-powered \"Smart Satellite\" platform was launched into space by which country?",
+      "urdu": "دنیا کا پہلا مکمل طور پر مربوط اے آئی سے چلنے والا \"اسمارٹ سیٹلائٹ\" پلیٹ فارم کس ملک نے خلا میں بھیجا؟",
+      "options": [
+        "Russia",
+        "United States",
+        "China",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What were the prisoners held by Bangladesh in 1971 primarily referred to as?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Political Prisoners",
+        "Prisoners of War",
+        "Refugees",
+        "Civilian Detainees"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">After the Bangladesh </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">Liberation</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">War in 1971</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name of the first Chinese woman astronaut to walk in space?",
+      "urdu": "خلا میں چہل قدمی کرنے والی پہلی چینی خاتون خلاباز کا نام؟",
+      "options": [
+        "Xin Xiaomeng",
+        "Wang Yaping",
+        "Liu Yang",
+        "Xi Jinping"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.25in\"><b><span style=\"color:#0070C0\">Yaping was </span></b><span style=\"font-weight: bolder; font-size: 0.875rem; color: rgb(0, 112, 192);\">the </span><font color=\"#00ff00\" style=\"font-weight: bolder; font-size: 0.875rem;\">second</font><span style=\"font-weight: bolder; font-size: 0.875rem; color: rgb(0, 112, 192);\"> </span><font color=\"#ff0000\" style=\"font-weight: bolder; font-size: 0.875rem;\">C</font><font color=\"#ff0000\" style=\"font-weight: bolder; font-size: 0.875rem;\">hinese woman in space in </font><font color=\"#00ff00\" style=\"font-weight: bolder; font-size: 0.875rem; background-color: rgb(255, 255, 255);\">2013 on Shenzhou 10 </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Gravity was discovered by ______?",
+      "urdu": "کشش ثقل ______ کے ذریعہ دریافت ہوا؟",
+      "options": [
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein",
+        "Johannes Kepler"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Isaac Newton</font><font color=\"#0000ff\"> formulated the </font><font color=\"#ff0000\">law of universal gravitation</font><font color=\"#0000ff\">, explaining how gravity works.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is elect the first Sikh senator of Pakistan?",
+      "urdu": "پاکستان کا پہلا سکھ سینیٹر کون منتخب ہوا؟",
+      "options": [
+        "Ranjeet Singh",
+        "Gurdeep Singh",
+        "Maneet Singh",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Gurdeep Singh</span><font color=\"#ff0000\"> of Pakistan Tehreek-e-Insaf became the </font><font color=\"#0000ff\">first turban-clad Sikh</font><font color=\"#ff0000\"> </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Chief Minister of Sindh?",
+      "urdu": "سندھ کا موجودہ وزیر اعلیٰ کون ہے؟",
+      "options": [
+        "Qaim Ali Shah",
+        "Jam Mir Kamal Khan",
+        "Syed Murad Ali Shah",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><img alt=\"newly elected Sindh CM Syed Murad Ali Shah\" src=\"data:image/jpeg;base64,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\" style=\"font-size: 0.875rem; width: 49.6667px; height: 49.6667px;\"/><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "In 2017, which country declared total independence from the IMF and World Bank?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bolivia",
+        "Greece",
+        "Argentina",
+        "Iceland"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font style=\"\"><span style=\"font-family: Helvetica;\"><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Bolivia has recently </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">d</font><font color=\"#00ff00\" style=\"\"><span style=\"background-color: rgb(255, 255, 255);\">eclared its government's full</span></font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> independence from </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">the IMF and World Bank,</font></span></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the area of a circle is 275 m², what is its circumference?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "55.8 m",
+        "58.8 m",
+        "60.5 m",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Area of circle = πr²  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the missing number 6,?,21,33,48.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "12",
+        "14",
+        "8",
+        "20"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Series pattern is =6+9+12+15</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The sum of three consecutive numbers is 78. Find the greatest number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "27",
+        "28",
+        "29",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the three consecutive numbers be: </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person 1.6 m tall is 20 m away from a tower and observes the angle of elevation of the top of the tower to be 45°. What is the height of the tower?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "21.6 m",
+        "20.0 m",
+        "20.6 m",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">We can use tan to find the height.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "‘Grameen Bank’ a pioneer in the field of microfinance was the brainchild of ______?",
+      "urdu": "گرامین بینک مائیکرو فنانس کے شعبے میں ایک سرخیل ______ کے دماغ کی اپج تھا؟",
+      "options": [
+        "Prof. Muhammad Younus",
+        "Dr. Riaz Rahman",
+        "Fazle Hussain Abid",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Prof. Muhammad Yunus</font><font color=\"#0000ff\">, a Bangladeshi economist and founder of </font><font color=\"#ff0000\">Grameen Bank</font><font color=\"#0000ff\">, pioneered microfinance.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which type of recruitment are all eligible candidates allowed to compete for higher positions?",
+      "urdu": "بھرتی کی کس قسم میں تمام اہل امیدواروں کو اعلیٰ عہدوں کے لیے مقابلہ کرنے کی اجازت ہوتی ہے؟",
+      "options": [
+        "Transfer",
+        "Direct Recruitment",
+        "Promotion",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which type of audit is compulsory by law?",
+      "urdu": "قانون کے مطابق کون سی قسم کا آڈٹ لازمی ہوتا ہے؟",
+      "options": [
+        "Internal Audit",
+        "Statutory Audit",
+        "Cost Audit",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is known as father of Scientific Management?",
+      "urdu": "سائنسی انتظام کے بانی کے طور پر کون جانا جاتا ہے؟",
+      "options": [
+        "Henry Fayol",
+        "FW Taylor",
+        "Peter Drucker",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Frederick Winslow Taylor </b><b style=\"color: rgb(0, 0, 255);\">is the father of </b><b style=\"\"><span style=\"color: rgb(255, 0, 0);\">scientific management.</span><br/></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "General Elections are held in Pakistan after every ______ years.",
+      "urdu": "پاکستان میں عام انتخابات ہر ______ سال بعد ہوتے ہیں۔",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px;\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">General Elections are held after every </font><span style=\"background-color: rgb(255, 255, 0);\">5 years.</span></b></font><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "One who investigates complaints and disputes between individuals and public authorities and helps resolve them is called?",
+      "urdu": "وہ شخص یا ادارہ جو عوام کی سرکاری اداروں کے خلاف شکایات کی تحقیقات کرے اور ان کے حل میں مدد دے، اسے کیا کہا جاتا ہے؟",
+      "options": [
+        "Auditor",
+        "Ombudsman",
+        "Magistrate",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ideal model of bureaucracy is based on?",
+      "urdu": "بیوروکریسی کا مثالی ماڈل کس اختیار پر مبنی ہے؟",
+      "options": [
+        "Charismatic authority",
+        "Traditional authority",
+        "Legal-rational authority",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Elevate is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Uplift",
+        "Lift",
+        "Raise",
+        "Depress"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\">Depress<span style=\"background-color: rgb(255, 255, 0);\"> افسردہ کرنا</span> <span style=\"font-size: 0.875rem;\">is the opposite of elevate<span style=\"background-color: rgb(255, 255, 0);\"> بلند کرنا</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Nonchalant is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Indifferent",
+        "Dispassionate",
+        "Excited",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Nonchalant means بے حس</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A plant that cannot prepare its own food is called?",
+      "urdu": "وہ پودا جو اپنی خوراک خود تیار نہ کر سکے اسے کہتے ہیں؟",
+      "options": [
+        "Autotroph",
+        "Heterotroph",
+        "Saprophyte",
+        "Photosynthetic"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Heterotrophs are those organisms that cannot </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">prepare their food from nature </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person who believes that the primary purposes of life are to eat, drink, and marry is called ____?",
+      "urdu": "جو شخص اس بات پر یقین رکھتا ہو کہ زندگی کا بنیادی مقصد کھانا پینا اور شادی کرنا ہے اسے ____ کہا جاتا ہے؟",
+      "options": [
+        "Cynic",
+        "Epicurean",
+        "Materialistic",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">A </font></b><span style=\"background-color: rgb(255, 255, 0);\"><b>Epicurean</b></span><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> is someone who believes that the pursuit of pleasure and enjoyment, such </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">as eating, drinking, and marrying</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">, is the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">most important goal in life.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The United States completed its withdrawal from Afghanistan on which date?",
+      "urdu": "امریکہ کا افغانستان سے انخلا کس تاریخ کو مکمل ہوا؟",
+      "options": [
+        "28 August 2021",
+        "31 August 2021",
+        "2 September 2021",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">The United States Armed Forces completed their withdrawal from</font><font color=\"#ff0000\"> Afghanistan 2021</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "One who does not believe in the existence of God?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Athiest",
+        "globe trotter",
+        "teetotaler"
+      ],
+      "correct": 0,
+      "explanation": "<p>Athiest means وہ شخص جو خدا کی موجودگی کا انکار کرے</p>",
+      "category": "all"
     }
   ]
 }
