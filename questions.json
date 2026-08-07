@@ -3,10 +3,543 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-07T08:09:37.735742",
+    "fetched_at": "2026-08-07T14:08:43.069842",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which file is responsible to start MS PowerPoint?",
+      "urdu": "ایم ایس پاورپوائنٹ شروع کرنے کے لیے کون سی فائل ذمہ دار ہوتی ہے؟",
+      "options": [
+        "ppt.exe",
+        "Mspoint.exe",
+        "Powerpnt.exe",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If you want to attach a printer to a computer, what is necessary?",
+      "urdu": "اگر آپ کمپیوٹر کے ساتھ پرنٹر لگانا چاہتے ہیں تو کیا ضروری ہے؟",
+      "options": [
+        "Monitor",
+        "Cable",
+        "Keyboard",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which key is used to delete a character to the left side of the cursor in MS Word?",
+      "urdu": "ایم ایس ورڈ میں کرسر کے بائیں طرف موجود حرف کو حذف کرنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
+      "options": [
+        "Delete",
+        "Backspace",
+        "End",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which shortcut key is used to moves the cursor one page down?",
+      "urdu": "کرسر کو ایک صفحہ نیچے لے جانے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Alt + PageDown",
+        "Shift + PageDown",
+        "Ctrl + PageDown",
+        "PageDown"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the shortcut key for undo/reverse the last action?",
+      "urdu": "آخری عمل کو واپس کرنے کا شارٹ کٹ کیا ہے؟",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + C",
+        "Ctrl + V",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of following software is used to prepare/create multimedia presentation?",
+      "urdu": "درج ذیل میں سے کون سا سافٹ ویئر ملٹی میڈیا پریزنٹیشن بنانے کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "PowerPoint",
+        "MS Word",
+        "Spreadsheet",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is used for both read and write operations?",
+      "urdu": "کون سی میموری پڑھنے اور لکھنے دونوں کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "RAM",
+        "ROM",
+        "PROM",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is internet?",
+      "urdu": "انٹرنیٹ کیا ہے؟",
+      "options": [
+        "Interconnection of wide area networks",
+        "A single network",
+        "A collection of unrelated computers",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "RAM stands for ____?",
+      "urdu": "ریم سے کیا مراد ہے؟",
+      "options": [
+        "Random Access Memory",
+        "Random Access Money",
+        "Random Accurate Memory",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"arial, sans-serif\"><b style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\"></span></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a single-user system?  DOS, Windows, Linux, None of these",
+      "urdu": "مندرجہ ذیل میں سے کون سا سنگل یوزر آپریٹنگ سسٹم ہے؟",
+      "options": [
+        "DOS",
+        "Windows",
+        "Linux",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"sans-serif\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A computer application program that displays data arranged in rows and columns is called?",
+      "urdu": "وہ کمپیوٹر ایپلیکیشن پروگرام جو ڈیٹا کو قطاروں اور کالموں میں ظاہر کرتا ہے، کیا کہلاتا ہے؟",
+      "options": [
+        "Spreadsheet",
+        "Register",
+        "Form",
+        "Box"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A single page of PowerPoint presentation is called _____?",
+      "urdu": "پاورپوائنٹ پریزنٹیشن کے ایک صفحے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Sheet",
+        "Page",
+        "Slide",
+        "Document"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which key is used to align the text to center?",
+      "urdu": "متن کو مرکز میں سیدھ میں لانے کے لیے کون سی کلید استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl+ B",
+        "Ctrl + C",
+        "Ctrl + D",
+        "Ctrl + E"
+      ],
+      "correct": 3,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "BIOS stands for ______?",
+      "urdu": "بی آئی او ایس کا مطلب کیا ہے؟",
+      "options": [
+        "Board Input Output System",
+        "Back Input Output System",
+        "Basic Input Output System",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "The keyboard Shortcut key to decrease font size by one point is _____?",
+      "urdu": "فونٹ کے سائز کو ایک پوائنٹ تک کم کرنے کے لیے کی بورڈ شارٹ کٹ کی کونسی ہے؟",
+      "options": [
+        "Ctrl+Shift+<",
+        "Ctrl+Shift+v",
+        "Ctrl+Alt+>",
+        "CTRL+["
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which key is used to select the whole document?",
+      "urdu": "پوری دستاویز کو منتخب کرنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + C",
+        "Ctrl + P",
+        "Ctrl + A"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Additional information:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which shortcut key is used to open an existing file in MS Word?",
+      "urdu": "ایم ایس ورڈ میں موجود فائل کو کھولنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl+O",
+        "Ctrl+N",
+        "Ctrl+R",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font><font color=\"#0000ff\"> </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which shortcut key inserts a new slide in current presentation?",
+      "urdu": "کرنٹ پریزنٹیشن میں نیا سلائیڈ داخل کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl+N",
+        "Ctrl+M",
+        "Ctrl+S",
+        "None of above"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why do binary digits need more space?",
+      "urdu": "بائنری ہندسوں کو زیادہ جگہ کی ضرورت کیوں ہوتی ہے؟",
+      "options": [
+        "Binary digits are expensive",
+        "Binary digits are large",
+        "Binary codes are long and require many digits to represent information",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many two-digit numbers are divisible by 9?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "11",
+        "10",
+        "9",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Embedded computer software is?",
+      "urdu": "ایمبیڈڈ کمپیوٹر سافٹ ویئر کیا ہوتا ہے؟",
+      "options": [
+        "Software used for creating documents",
+        "Software designed to control a specific hardware device",
+        "Software used for internet browsing",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The default settings for Narrow margins in MS Word are?",
+      "urdu": "ایم ایس ورڈ میں نیرو مارجنس کی ڈیفالٹ سیٹنگ کیا ہوتی ہے؟",
+      "options": [
+        "0.5 inches on all four sides (Top, Bottom, Left, and Right)",
+        "1 inch on all four sides (Top, Bottom, Left, and Right)",
+        "0.75 inches on all four sides of (Top, Bottom, Left, and Right)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is most commonly used for making magnetic recording tape?",
+      "urdu": "مقناطیسی ریکارڈنگ ٹیپ بنانے کے لیے عام طور پر کون سا مادہ استعمال ہوتا ہے؟",
+      "options": [
+        "Ferric oxide",
+        "Silver nitrate",
+        "Small particles of iron",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number of letter that appears a little above the normal text is called?",
+      "urdu": "وہ حرف یا نمبر جو عام متن سے تھوڑا اوپر ظاہر ہو، کیا کہلاتا ہے؟",
+      "options": [
+        "Superscript",
+        "Subscript",
+        "Supertext",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Shortcut keys to switch to the next windows?",
+      "urdu": "اگلی ونڈو پر جانے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Shift + Tab",
+        "Alt + Ctrl",
+        "Ctrl + Tab",
+        "Alt + Tab"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of the Shift + End shortcut key?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Select text from the cursor to the end of the current line",
+        "Move the cursor to the end of the document",
+        "Delete text to the end of the line",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The standard arrangement of keys on a keyboard is called?",
+      "urdu": "کی بورڈ پر کلیدوں کی معیاری ترتیب کو کیا کہا جاتا ہے؟",
+      "options": [
+        "QWERTY arrangement",
+        "Home arrangement",
+        "Basic arrangement",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The output quality of a printer is measured by ____?",
+      "urdu": "پرنٹر کے آؤٹ پٹ کے معیار کو کس میں ناپا جاتا ہے؟",
+      "options": [
+        "Dot per sq inch",
+        "Dot per inch",
+        "Dots printed per unit time",
+        "All of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"color: rgb(255, 0, 0); font-size: 1rem;\"></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "An output device that uses words or messages recorded on a magnetic medium to produce audio response is?",
+      "urdu": "وہ آؤٹ پٹ ڈیوائس جو مقناطیسی ذریعے پر ریکارڈ شدہ الفاظ یا پیغامات سے آواز پیدا کرتی ہے، کیا کہلاتی ہے؟",
+      "options": [
+        "Voice recognition unit",
+        "Magnetic tape",
+        "Voice response unit",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is built directly on the hardware?",
+      "urdu": "کون سا سافٹ ویئر براہِ راست ہارڈویئر پر بنایا جاتا ہے؟",
+      "options": [
+        "Operating System",
+        "Computer Environment",
+        "Application Software",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Background color or effects applied on a document is not visible in?",
+      "urdu": "دستاویز پر لگایا گیا پسِ منظر کا رنگ یا ایفیکٹس کس میں نظر نہیں آتے؟",
+      "options": [
+        "Print Preview",
+        "Reading View",
+        "Print Layout view",
+        "Web layout view"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Coded entries are used to gain access to a computer system are called?",
+      "urdu": "کمپیوٹر سسٹم تک رسائی حاصل کرنے کے لیے استعمال ہونے والے کوڈ شدہ اندراجات کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Entry Codes",
+        "Passwords",
+        "Security Commands",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which software is used to detect issues?",
+      "urdu": "مسائل کا پتہ لگانے کے لیے کون سا سافٹ ویئر استعمال ہوتا ہے؟",
+      "options": [
+        "Application software",
+        "Utility software",
+        "Diagnostic software",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "1 (One) Gigabyte (GB) is equal to _____?",
+      "urdu": "ایک گیگابائٹ کس کے برابر ہے؟",
+      "options": [
+        "1024 bits",
+        "1032 megabytes",
+        "1024 kilobytes",
+        "1024 megabytes"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b><b style=\"color: rgb(0, 0, 255);\">:</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is an other name for Junk Email?",
+      "urdu": "جنک ای میل کا دوسرا نام کیا ہے؟",
+      "options": [
+        "Spoof",
+        "Spill",
+        "Spam",
+        "Spat"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the main difference between a mainframe and a super computer?",
+      "urdu": "مین فریم اور سپر کمپیوٹر کے درمیان بنیادی فرق کیا ہے؟",
+      "options": [
+        "Super computer is much larger than mainframe computers",
+        "Super computers are much smaller than mainframe computers",
+        "Supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the maximum number of columns that can be inserted in MS Word?",
+      "urdu": "ایم ایس ورڈ میں زیادہ سے زیادہ کتنے کالم داخل کیے جا سکتے ہیں؟",
+      "options": [
+        "35",
+        "15",
+        "63",
+        "65"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the maximum number of lines you can set for a drop cap?",
+      "urdu": "ڈراپ کیپ کے لیے زیادہ سے زیادہ کتنی لائنیں مقرر کی جا سکتی ہیں؟",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Dot matrix is a type of ____?",
+      "urdu": "ڈاٹ میٹرکس کس قسم کی چیز ہے؟",
+      "options": [
+        "Bus",
+        "Disk",
+        "Printer",
+        "Tape"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is permanently written at the time of manufacturing?",
+      "urdu": "مندرجہ ذیل میں سے کون سی میموری تیاری کے وقت مستقل طور پر لکھی جاتی ہے؟",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What happens if you press Ctrl + Shift + F8 in Microsoft Word?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "It selects the paragraph on which the insertion line is.",
+        "It activates extended selection",
+        "It activates the rectangular selection",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "In MS Word, Portrait and Landscape are _______?",
       "urdu": "ایم ایس ورڈ میں پورٹریٹ اور لینڈ اسکیپ کیا ہیں؟",
@@ -122,539 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p class=\"MsoNormal\"><font style=\"font-size: 1rem;\"><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\">Hiroshima Day is observed on </span><span style=\"color: rgb(255, 0, 0);\">August 6</span><span style=\"color: rgb(0, 0, 255);\"> to </span><span style=\"color: rgb(255, 0, 0);\">commemorate</span><span style=\"color: rgb(0, 0, 255);\"> the atomic bombing of </span><span style=\"color: rgb(255, 0, 0);\">Hiroshima, Japan, in 1945</span><span style=\"color: rgb(0, 0, 255);\">, at the end o</span><span style=\"color: rgb(0, 255, 0);\">f World War II.</span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is Hiroshima Day observed?",
-      "urdu": "ہیروشیما ڈے کب منایا جاتا ہے؟",
-      "options": [
-        "August 7",
-        "August 5",
-        "August 6",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><font style=\"font-size: 1rem;\"><b style=\"\"><span style=\"color: rgb(0, 0, 255);\">Hiroshima Day is observed on </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">August 6</span><span style=\"color: rgb(0, 0, 255);\"> to </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">commemorate</span><span style=\"color: rgb(0, 0, 255);\"> the atomic bombing of </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">Hiroshima, Japan, in 1945</span><span style=\"color: rgb(0, 0, 255);\">, at the end o</span><span style=\"color: rgb(0, 255, 0); background-color: rgb(255, 255, 255);\">f World War II. </span></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is Nagasaki Day observed?",
-      "urdu": "ناگاساکی ڈے کب منایا جاتا ہے؟",
-      "options": [
-        "August 6",
-        "August 9",
-        "August 1",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In which month is Nagasaki Day observed?",
-      "urdu": "ناگاساکی ڈے کس مہینے میں منایا جاتا ہے؟",
-      "options": [
-        "July",
-        "September",
-        "August",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Perpetual inventory system commonly uses which inventory valuation method?",
-      "urdu": "پرپیچول انوینٹری سسٹم میں عام طور پر کون سا انوینٹری ویلیوایشن طریقہ استعمال کیا جاتا ہے؟",
-      "options": [
-        "Average (Weighted Average)",
-        "FIFO",
-        "LIFO",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who deals in shares?",
-      "urdu": "شیئرز کی خرید و فروخت کا کام کون کرتا ہے؟",
-      "options": [
-        "Banker",
-        "Auditor",
-        "Broker",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to IAS 23, borrowing costs are capitalized when they relate to a?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Intangible asset only",
-        "Current asset",
-        "Qualifying asset",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Warehouse cost is a?",
-      "urdu": "ویئر ہاؤس کی لاگت کس قسم کی لاگت ہے؟",
-      "options": [
-        "Distribution cost",
-        "Production cost",
-        "Administrative cost",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "______ bravery of Hazrat Ali (R.A) is praised.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A",
-        "An",
-        "The",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a non-monetary reward? Job Enrichment, Bonus, Commission, None of these",
-      "urdu": "مندرجہ ذیل میں سے کون سا غیر مالی انعام ہے؟",
-      "options": [
-        "Job Enrichment",
-        "Bonus",
-        "Commission",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bank Reconciliation is the process of identifying _____ between the cash book and the bank statement.",
-      "urdu": "بینک مصالحت میں کیش بک اور بینک اسٹیٹمنٹ کے درمیان کس چیز کی نشاندہی کی جاتی ہے؟",
-      "options": [
-        "Differences",
-        "Profits",
-        "Assets",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a dishwasher cleans 1350 dishes in 1 hour, how many dishes will it wash in 16 minutes?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "360",
-        "3600",
-        "3600",
-        "540"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Rate = 1350 dishes per 1 hour = 60 minutes</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A feasibility report is?",
-      "urdu": "فزیبلٹی رپورٹ کس قسم کی رپورٹ ہوتی ہے؟",
-      "options": [
-        "Narrative",
-        "Descriptive",
-        "Analytical",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the production cost is Rs. 50,000 and the sales tax rate is 0%, what will be the sales tax amount?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 500",
-        "Rs. 5,000",
-        "Rs. 0",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Sales tax = 0% × Rs. 50,000 = </font><font color=\"#ff0000\">Rs. 0</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Disenfranchise is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Enfranchise",
-        "Surprise",
-        "Exclude",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A college has 200 girls and 160 boys. If 1/5 of the girls and 1/8 of the boys participate in games, how many students participated?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "50",
-        "60",
-        "70",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>Girls participating = 1/5 of 200 = 200 / 5 = 40</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "An Integrated Circuit (IC) chip is primarily made up of?",
-      "urdu": "انٹیگریٹڈ سرکٹ چِپ بنیادی طور پر کس مادے سے بنتی ہے؟",
-      "options": [
-        "Copper",
-        "Fiber Glass",
-        "Silicon",
-        "Steel"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "VGA stands for _____?",
-      "urdu": "وی جی اے کا مطلب کیا ہے؟",
-      "options": [
-        "Visual Graphics Adapter",
-        "Video Graphics Array",
-        "Video Graphic Adapter",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</span><span style=\"color: rgb(255, 0, 0); font-size: 1rem;\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In an MS Excel worksheet, the default alignment of a numeric value is?",
-      "urdu": "ایم ایس ایکسل ورک شیٹ میں عددی ویلیو کی ڈیفالٹ الائنمنٹ کیا ہوتی ہے؟",
-      "options": [
-        "Left alignment",
-        "Right alignment",
-        "Center alignment",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a single-user system?  DOS, Windows, Linux, None of these",
-      "urdu": "مندرجہ ذیل میں سے کون سا سنگل یوزر آپریٹنگ سسٹم ہے؟",
-      "options": [
-        "DOS",
-        "Windows",
-        "Linux",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"sans-serif\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Objectives Resolution passed?",
-      "urdu": "قرار داد مقاصد کب منظور ہوئی؟",
-      "options": [
-        "12 March 1947",
-        "12 March 1948",
-        "12 March 1949",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"222\" data-start=\"190\"><b style=\"\"><font color=\"#0000ff\">Adopted: </font><font color=\"#ff0000\">12 March 1949</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Sultan of Delhi who is reputed to have built the biggest network of canals in India was?",
-      "urdu": "دہلی کا وہ سلطان کون تھا جس نے ہندوستان میں نہروں کا سب سے بڑا جال تعمیر کیا؟",
-      "options": [
-        "IItutmish",
-        "Ghiyasuddin Tughlaq",
-        "Firoz Shah Tughlaq",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: Out of the blue means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "From nowhere",
-        "Unexpectedly/Suddenly",
-        "Clearly",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "فتح کا مترادف ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ظفر",
-        "اقبال",
-        "سرور",
-        "شکست"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">فتح</font><font color=\"#0000ff\"> کا مطلب </font><font color=\"#ff0000\">کامیابی یا جیت</font><font color=\"#0000ff\"> ہے۔</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "عود ہندی مصنف کے اعتبار سے کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "خطوط",
-        "سوانح عمری",
-        "سفرنامہ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff00ff\">عودِ</font><font color=\"#0000ff\"> </font><font color=\"#ff00ff\">ہندی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مرزا غالب</font><font color=\"#0000ff\"> کے </font><font color=\"#ff0000\">خطوط</font><font color=\"#0000ff\"> کا مجموعہ ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The OIC is a?",
-      "urdu": "او آئی سی کس قسم کی تنظیم ہے؟",
-      "options": [
-        "Political organization",
-        "Muslim organization",
-        "Economic organization",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the founder of the Unionist Party?",
-      "urdu": "یونینسٹ پارٹی کا بانی کون تھا؟",
-      "options": [
-        "Liaqat Ali Khan",
-        "Sir Fazal Hussain",
-        "Molana Fazal ul Haq",
-        "Syed Amir Hassan"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current President of Financial Action Task Force (FATF)?",
-      "urdu": "فنانشل ایکشن ٹاسک فورس کے موجودہ صدر کون ہیں؟",
-      "options": [
-        "Giles Thomson",
-        "T. Raja Kumar",
-        "Elisa de Anda Madrazo",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "اردو گرامر میں آنے والے الفاظ جیسے \"شناس\" اور \"اندیش\" کیا کہلاتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "لاحقے",
-        "سابقے",
-        "حروفِ جار",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "شاعری میں ابتذال سے کیا مراد ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "تضاد",
-        "لف و نشر",
-        "عامیانہ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">شاعری میں ابتذال سے </font><font color=\"#ff0000\">عامیانہ</font><font color=\"#0000ff\"> مراد ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the opposite of fungal?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Bacterial",
-        "Viral",
-        "Herbal",
-        "Sterile"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Fungal: </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">فنگس (کھمبی یا پھپھوندی) سے متعلق</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Dinosaurs belong to which group of animals?",
-      "urdu": "ڈائنوسار کا تعلق جانوروں کے کس گروہ سے ہے",
-      "options": [
-        "Mammals",
-        "Amphibians",
-        "Reptiles",
-        "Birds"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Dinosaurs are part of the reptile group, </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">specifically a diverse group </font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">of reptiles that </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">appeared during the Mesozoic Era. </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Eager is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Calm",
-        "intelligent",
-        "Ambitious",
-        "None"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\"><span style=\"font-size: 1rem;\">eager</span><br/></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "حافظ محمود شیرانی کے مطابق اردو کا پہلا شاعر کون ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مسعود سعد سلیمان",
-        "قلی قطب شاہ",
-        "امیر خسرو",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">حافظ محمود شیرانی کے مطابق اردو کا پہلا شاعر </font><font color=\"#ff0000\">مسعود</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سعد</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سلیمان</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hayat e javeed is written by?",
-      "urdu": "حیات  جاوید  کس نے لکھی ۔",
-      "options": [
-        "Mirza ghalib",
-        "Sir syed",
-        "Altaf Hussain Hali",
-        "Iqbal"
-      ],
-      "correct": 2,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "1st Martial Law imposed by Iskandar Mirza?",
-      "urdu": "پہلا مارشل لاء اسکندر مرزا نے کب لگایا؟",
-      "options": [
-        "1956",
-        "1957",
-        "1958",
-        "1960"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(133, 135, 150); text-indent: 0px;\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">ist of Martial Laws Held in Pakistan from 1947 to 2022<o:p></o:p></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the maximum Zoom Percentage in MS Word?",
-      "urdu": "ایم ایس ورڈ میں سائززیادہ سے زیادہ کتنے فیصد ہوتا ہے؟",
-      "options": [
-        "400%",
-        "500%",
-        "10%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span \"jameel=\"\" arial=\"\" black\",sans-serif;mso-bidi-font-family:=\"\" er\"=\"\" nastaleeq\";color:white;mso-themecolor:background1;mso-bidi-language:=\"\" noori=\"\" style=\"font-size: 20pt; color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\"><span style=\"font-family: Helvetica; font-weight: normal;\">Zoom size</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which book of Hafiz is the national anthem of Pakistan written?",
-      "urdu": "پاکستان کا قومی ترانہ حافظ کی کس کتاب میں لکھا ہے؟",
-      "options": [
-        "Diwan-e-Hafiz",
-        "Rubaiyat",
-        "Chiragh Sahar",
-        "Tazkira"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">The National Anthem of Pakistan is written in </font><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 255);\">Chiragh Sahar </font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">Book of Hafez Jalandhari.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "نجوم کا واحد  کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نجم",
-        "نجوما",
-        "نجومہ",
-        "نجمی"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"text-align: right; \"><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">\"نجوم\" کا واحد \"نجم\" ہے۔ \"نجوم\" عربی زبان کا لفظ ہے جس کا مطلب ستارے یا علم نجوم ہے،</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who abrogated 1956 constitution?",
-      "urdu": "کس نے 1956 کا آئین  منسوخ کیا؟",
-      "options": [
-        "Ayub Khan",
-        "Yahya khan",
-        "Iskander Mirza",
-        "Tikka khan"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><u style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><span arial=\"\" black\";\"=\"\" style=\"color: rgb(0, 0, 255);\">All important questions of  \"the </span></span><span 1rem;\"=\"\" arial=\"\" black\";=\"\" font-size:=\"\" style=\"color: rgb(0, 49, 99);\">1956 constitution\"</span></u></p>",
-      "category": "all"
-    },
-    {
-      "q": "The study of rock is called?",
-      "urdu": "چٹان کا مطالعہ کیا کہلاتا ہے؟",
-      "options": [
-        "Petrology",
-        "Edaphology",
-        "Petrogenesis",
-        "Pedology"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(0, 0, 255);\">Geologists are scientists who study a planet's solid features,</span><span style=\"color: rgb(255, 0, 0);\"> like soil, rocks, and minerals.</span></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "He used to _____ us with anecdotes.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rebuke",
-        "Regale",
-        "Ignore",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
       "category": "all"
     }
   ]
