@@ -3,10 +3,75 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-06T15:10:34.719123",
+    "fetched_at": "2026-08-07T00:35:21.470608",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which instrument measures pH?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Spectrophotometer",
+        "pH Meter",
+        "Thermometer",
+        "Barometer"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Gravimetric analysis is based on measuring?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Volume",
+        "Pressure",
+        "Mass",
+        "Temperature"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Filtration separates?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Solid from liquid",
+        "Liquid from liquid",
+        "Gas from gas",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Filtration separates </font><font color=\"#00ff00\">solid particles from a liquid or gas based</font><font color=\"#0000ff\"> on particle size.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Distillation separates liquids based on?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Color",
+        "Density",
+        "Boiling point",
+        "Mass"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan Army major Hafiz Ehsan Elahi martyred in which region in August 2026?",
+      "urdu": "پاک فوج کے میجر حافظ احسان الٰہی اگست 2026 میں کس علاقے میں شہید ہوئے؟",
+      "options": [
+        "Mastung",
+        "North Waziristan",
+        "Washuk",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">An <span style=\"background-color: rgb(255, 255, 0);\">army </span>officer was martyred during an intelligence-based operation (IBO) in the</font><font color=\"#ff0000\"> Razmak area of North Waziristan </font><font color=\"#0000ff\">district on 1 August 2026.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
     {
       "q": "In which month is Hiroshima Day observed?",
       "urdu": "ہیروشیما ڈے کس مہینے میں منایا جاتا ہے؟",
@@ -590,71 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\">A </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">man</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> who is </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">womanish</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> in his </span><span style=\"background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);\">habits is known</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> as Effeminate.</span></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "_____ Man is mortal.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A",
-        "An",
-        "The",
-        "No article required"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Man is mortal means انسان فانی ہے</b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Neither of the two girls _____ late.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Were",
-        "Are",
-        "Is",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "After the United States, which country has successfully landed a robot on the surface of Mars on 15 May 2021?",
-      "urdu": "امریکہ کے بعد 15 مئی 2021 کو کس ملک نے کامیابی سے مریخ کی سطح پر روبوٹ اتارا ہے؟",
-      "options": [
-        "Russia",
-        "Germany",
-        "China",
-        "UK"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bold;\"><font face=\"arial, sans-serif\" style=\"\"><span style=\"color: rgb(0, 0, 255);\">China has </span><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">successfully</font><span style=\"color: rgb(0, 0, 255);\"> landed a robot on the surface of Mars on </span><span style=\"color: rgb(255, 0, 0);\">15 May 2021.</span></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The world's first fully integrated AI-powered \"Smart Satellite\" platform was launched into space by which country?",
-      "urdu": "دنیا کا پہلا مکمل طور پر مربوط اے آئی سے چلنے والا \"اسمارٹ سیٹلائٹ\" پلیٹ فارم کس ملک نے خلا میں بھیجا؟",
-      "options": [
-        "Russia",
-        "United States",
-        "China",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What were the prisoners held by Bangladesh in 1971 primarily referred to as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Political Prisoners",
-        "Prisoners of War",
-        "Refugees",
-        "Civilian Detainees"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">After the Bangladesh </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">Liberation</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">War in 1971</font></p>",
       "category": "all"
     }
   ]
