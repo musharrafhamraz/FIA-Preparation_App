@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-07T03:48:28.712924",
+    "fetched_at": "2026-08-07T08:09:37.735742",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "In MS Word, Portrait and Landscape are _______?",
+      "urdu": "ایم ایس ورڈ میں پورٹریٹ اور لینڈ اسکیپ کیا ہیں؟",
+      "options": [
+        "Page layout",
+        "Page size",
+        "Page Orientation",
+        "All of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The minimum number of rows and columns in MS word document is ____?",
+      "urdu": "ایم ایس ورڈ دستاویز میں قطاروں اور کالموں کی کم از کم تعداد کیا ہے؟",
+      "options": [
+        "1 and 1",
+        "2 and 2",
+        "2 and 1",
+        "1 and 2"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Regarding a VDU, which statement is more correct?",
+      "urdu": "وی ڈی یو کے بارے میں کون سا بیان زیادہ درست ہے؟",
+      "options": [
+        "It is a storage device",
+        "It is a peripheral device",
+        "It is a processing device",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which instrument measures pH?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -616,45 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom \"Too many irons in the fire\" means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To work very hard",
-        "To be involved in too many activities at the same time",
-        "To lose an opportunity",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the idiom tongue in cheek mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To speak very seriously",
-        "To be sarcastic or joking",
-        "To keep a secret",
-        "To be stubborn"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">\"Tongue in cheek\" </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">means</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> to say something jokingly or sarcastically, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">not to be taken literally or seriously.</font><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person who is womanish in his habits?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Feminist",
-        "Effeminate",
-        "Philanderer",
-        "Philatelist"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica;\"><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\">A </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">man</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> who is </span><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">womanish</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> in his </span><span style=\"background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);\">habits is known</span><span style=\"background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\"> as Effeminate.</span></span></b></p>",
       "category": "all"
     }
   ]
