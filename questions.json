@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-07T14:08:43.069842",
+    "fetched_at": "2026-08-07T19:42:22.008326",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is DMA stand for?",
+      "urdu": "ڈی ایم اے کا مطلب کیا ہے؟",
+      "options": [
+        "Direct Memory Access",
+        "Direct Module Access",
+        "Direct Memory Allocation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which file is responsible to start MS PowerPoint?",
       "urdu": "ایم ایس پاورپوائنٹ شروع کرنے کے لیے کون سی فائل ذمہ دار ہوتی ہے؟",
@@ -642,19 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">An <span style=\"background-color: rgb(255, 255, 0);\">army </span>officer was martyred during an intelligence-based operation (IBO) in the</font><font color=\"#ff0000\"> Razmak area of North Waziristan </font><font color=\"#0000ff\">district on 1 August 2026.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which month is Hiroshima Day observed?",
-      "urdu": "ہیروشیما ڈے کس مہینے میں منایا جاتا ہے؟",
-      "options": [
-        "July",
-        "September",
-        "August",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><font style=\"font-size: 1rem;\"><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\">Hiroshima Day is observed on </span><span style=\"color: rgb(255, 0, 0);\">August 6</span><span style=\"color: rgb(0, 0, 255);\"> to </span><span style=\"color: rgb(255, 0, 0);\">commemorate</span><span style=\"color: rgb(0, 0, 255);\"> the atomic bombing of </span><span style=\"color: rgb(255, 0, 0);\">Hiroshima, Japan, in 1945</span><span style=\"color: rgb(0, 0, 255);\">, at the end o</span><span style=\"color: rgb(0, 255, 0);\">f World War II.</span></span></font></p>",
       "category": "all"
     }
   ]
