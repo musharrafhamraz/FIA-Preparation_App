@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-08T13:40:35.342877",
+    "fetched_at": "2026-08-08T19:19:57.344882",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the normal balance of a Revenue account in financial accounting?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Debit",
-        "Credit",
-        "Both Debit and Credit",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy through which a government adjusts its spending levels and tax rates to monitor and influence a nation's economy is?",
-      "urdu": "وہ پالیسی جس کے ذریعے حکومت ملکی معیشت کو متاثر کرنے کے لیے سرکاری اخراجات اور ٹیکس کی شرحوں میں تبدیلی کرتی ہے، کیا کہلاتی ہے؟",
-      "options": [
-        "Fiscal Policy",
-        "Monetary Policy",
-        "Trade Policy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy managed by the central bank to control money supply and interest rates is known as?",
-      "urdu": "مرکزی بینک کی جانب سے زرِ رسد اور شرحِ سود کو کنٹرول کرنے والی پالیسی کو کیا کہتے ہیں؟",
-      "options": [
-        "Fiscal Policy",
-        "Trade Policy",
-        "Monetary Policy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Policy issues that affect small sectors are minor, whereas issues that affect the entire nation or system are classified as?",
-      "urdu": "وہ پالیسی مسائل جو پورے ملک یا نظام کو متاثر کریں، انہیں کیا کہا جاتا ہے؟",
-      "options": [
-        "Minor Issues",
-        "Major Issues",
-        "Local Issues",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In public policy and performance evaluation, what is the key difference between Output and Outcome?",
-      "urdu": "عوامی پالیسی اور کارکردگی کی جانچ میں آؤٹ پٹ اور نتیجہ میں بنیادی فرق کیا ہے؟",
-      "options": [
-        "Output is the immediate product/service delivered, whereas Outcome is the long-term impact/result achieved.",
-        "Output is the long-term impact, whereas Outcome is the immediate service.",
-        "Both Output and Outcome mean the same thing",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How does mass media influence public policy?",
-      "urdu": "ماس میڈیا عوامی پالیسی پر کیسے اثر انداز ہوتا ہے؟",
-      "options": [
-        "By directly making laws",
-        "By shaping public opinion and setting the political agenda",
-        "By appointing government officials",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Issues in public policy that are routine, well-defined, and have clear procedural solutions are categorized as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Structured Problems",
-        "Unstructured Problems",
-        "Semi-structured Problems",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In public policy analysis, what is the term for replacing an existing policy with an entirely new policy or modifying it substantially?",
-      "urdu": "پبلک پالیسی کے تجزیے میں موجودہ پالیسی کو نئی پالیسی سے تبدیل کرنے یا اس میں نمایاں تبدیلی کرنے کو کیا کہتے ہیں؟",
-      "options": [
-        "Policy Evaluation",
-        "Policy Succession",
-        "Policy Termination",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the simple definition of a decision?",
-      "urdu": "فیصلے کی سادہ تعریف کیا ہے؟",
-      "options": [
-        "A choice made between two or more alternatives",
-        "A plan for achieving a goal",
-        "A method of organizing resources",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An individual who achieves organizational goals by allocating resources, directing activities, and overseeing others is defined as a?",
-      "urdu": "وہ فرد جو وسائل تقسیم کرکے، سرگرمیوں کی ہدایت دے کر اور دوسروں کی نگرانی کرکے تنظیمی اہداف حاصل کرتا ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Supervisor",
-        "Manager",
-        "Leader",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A statement outlining the minimal acceptable qualifications, skills, and knowledge required to perform a job is called?",
-      "urdu": "ملازمت انجام دینے کے لیے کم از کم مطلوبہ قابلیت، مہارت اور علم کو بیان کرنے والے بیان کو کیا کہتے ہیں؟",
-      "options": [
-        "Job Evaluation",
-        "Job Description",
-        "Job Specification",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The theory of motivation which suggests that individuals compare their job inputs and outcomes with those of others is?",
-      "urdu": "وہ کون سا نظریہ ہے جس کے مطابق افراد اپنی ملازمت کی کوششوں اور حاصل ہونے والے نتائج کا دوسروں سے موازنہ کرتے ہیں؟",
-      "options": [
-        "Expectancy Theory",
-        "Equity Theory",
-        "Goal-Setting Theory",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which school of management thought emerged directly after Frederick Winslow Taylor's Scientific Management approach?",
-      "urdu": "فریڈرک ونسلو ٹیلر کے سائنسی انتظامی طریقہ کار کے فوراً بعد مینجمنٹ کی کون سی سوچ سامنے آئی؟",
-      "options": [
-        "Administrative Management Approach",
-        "Bureaucratic Management Approach",
-        "Human Relations Approach",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Education and training in modern Public Administration are heavily influenced by the systems of which two countries?",
-      "urdu": "جدید پبلک ایڈمنسٹریشن میں تعلیم اور تربیت کن دو ممالک کے نظام سے زیادہ متاثر ہے؟",
-      "options": [
-        "US & British",
-        "France & Germany",
-        "China & Japan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The administrative setup of the civil service in South Asia inherited from British rule is known as a?",
-      "urdu": "جنوبی ایشیا میں برطانوی حکومت سے ورثے میں ملنے والے سول سروس کے انتظامی ڈھانچے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Generalist System",
-        "Colonial System",
-        "Democratic System",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In traditional administrative setups like Pakistan, the civil service structure is predominantly based on which model?",
-      "urdu": "پاکستان جیسے روایتی انتظامی نظام میں سول سروس کا ڈھانچہ زیادہ تر کس ماڈل پر مبنی ہے؟",
-      "options": [
-        "Generalist Model",
-        "Specialist Model",
-        "Entrepreneurial Model",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The movement that introduced private-sector management practices, efficiency, and market competition into the public sector is called?",
-      "urdu": "وہ تحریک کیا کہلاتی ہے جس نے سرکاری شعبے میں نجی شعبے کے انتظامی طریقوں، کارکردگی اور مارکیٹ مقابلے کو متعارف کرایا؟",
-      "options": [
-        "New Public Management (NPM)",
-        "Traditional Public Administration",
-        "New Public Service",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which administrative approach focuses on the interaction between an organization and its surrounding environment?",
-      "urdu": "کون سا انتظامی طریقہ کار کسی ادارے اور اس کے اردگرد کے ماحول کے درمیان باہمی تعلق پر توجہ دیتا ہے؟",
-      "options": [
-        "Classical Approach",
-        "Ecological Approach",
-        "Scientific Management Approach",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The classic debate that separates political decision-making from administrative execution is known as?",
-      "urdu": "سیاسی فیصلہ سازی اور انتظامی عمل درآمد کو الگ کرنے والی کلاسیکی بحث کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Politics-Administration Dichotomy",
-        "Scientific Management",
-        "Bureaucratic Theory",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does POSDCORB stand for?",
-      "urdu": "پی۔او۔ایس۔ڈی۔سی۔او۔آر۔بی کا مطلب کیا ہے؟",
-      "options": [
-        "Planning, Organizing, Supervising, Directing, Coordinating, Reporting, Budgeting",
-        "Planning, Organizing, Staffing, Directing, Controlling, Reporting, Budgeting",
-        "Planning, Organizing, Staffing, Directing, Coordinating, Reporting, Budgeting",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">POSDCORB</font><font color=\"#0000ff\"> is an acronym that stands for:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Public Administration is traditionally considered to be mainly a sub-domain of which discipline?",
-      "urdu": "پبلک ایڈمنسٹریشن کو روایتی طور پر کس مضمون کی ذیلی شاخ سمجھا جاتا ہے؟",
-      "options": [
-        "Sociology",
-        "Economics",
-        "Political Science",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The normal balance of liability account is?",
-      "urdu": "ذمہ داری کا اکاؤنٹ کا عام بیلنس کیا ہوتا ہے؟",
-      "options": [
-        "Credit balance",
-        "Debit balance",
-        "Cash balance",
-        "None of above"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In educational planning, what does the acronym of “SWOT” stand for?",
-      "urdu": "تعلیمی منصوبہ بندی میں، \"ایس۔ڈبلیو۔او۔ٹی\" کا مخفف کیا ہے؟",
-      "options": [
-        "Specialized Work Order Tools",
-        "Strengths Weaknesses Opportunities Threats",
-        "Student Writing and Oral Testing",
-        "Systematic Work Orientation Training"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "PERT stands for?",
-      "urdu": "پی ای آر ٹی سے کیا مراد ہے؟",
-      "options": [
-        "Program Evaluation and Review Technique",
-        "Project Evaluation and Review Technique",
-        "Program Execution and Review Technique",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who advocated bureaucratic theory?",
-      "urdu": "بیوروکریٹک تھیوری کی حمایت کس نے کی؟",
-      "options": [
-        "Campbell",
-        "Herzberg",
-        "Max Weber",
-        "Henry Fayol"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is described as the Father of Public Administration?",
-      "urdu": "پبلک ایڈمنسٹریشن کا بانی کس کو کہا جاتا ہے؟",
-      "options": [
-        "Max Weber",
-        "Woodrow Wilson",
-        "Frederick Taylor",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is known as he father of Civil Service in India?",
-      "urdu": "بھارت میں سول سروس کا بانی کس کو کہا جاتا ہے؟",
-      "options": [
-        "Muhammad Ali Jinnah",
-        "Jawaharlal Nehru",
-        "Charles Cornwallis",
-        "Louis Mountbatten"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A collection of related data is called ____?",
-      "urdu": "متعلقہ ڈیٹا کے مجموعے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Database",
-        "Software",
-        "Hardware",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How can you insert a page break in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں پیج بریک کیسے ڈالا جاتا ہے؟",
-      "options": [
-        "Ctrl + Tab",
-        "Ctrl + Enter",
-        "Ctrl + Alt",
-        "Ctrl + Shift"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following languages is used for webpage development?",
-      "urdu": "ویب پیج ڈیولپمنٹ کے لیے درج ذیل میں سے کون سی زبان استعمال ہوتی ہے؟",
-      "options": [
-        "HTML",
-        "FORTRAN",
-        "C or C++",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A software that can harm your computer is called?",
-      "urdu": "ایسا سافٹ ویئر جو کمپیوٹر کو نقصان پہنچا سکتا ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Virus",
-        "Server",
-        "Extension",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ROM stands for _____?",
-      "urdu": "روم کا مطلب کیا ہے؟",
-      "options": [
-        "Random Only Memory",
-        "Read Only Memory",
-        "Read Only Meaning",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ICT stands for _____?",
-      "urdu": "آئی سی ٹی کا مطلب کیا ہے؟",
-      "options": [
-        "Information and Communication Technology",
-        "International Computer Technology",
-        "Internal Communication Tool",
-        "International Communication Technology"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Header and Footer command are located on the _______ tab in MS Word.",
-      "urdu": "ہیڈر اور فوٹر کمانڈ ایم ایس ورڈ کے کس ٹیب پر واقع ہیں؟",
-      "options": [
-        "Home",
-        "Insert",
-        "View",
-        "Header"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current President of Cuba?",
-      "urdu": "کیوبا کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Raul Castro",
-        "Fidel Castro",
-        "Miguel Diaz",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><img data-filename=\"1000052857.jpg\" src=\"data:image/jpeg;base64,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\" style=\"font-size: 0.875rem; width: 196px;\"/></p>",
-      "category": "all"
-    },
-    {
-      "q": "MS Word is which type of software?",
-      "urdu": "ایم ایس ورڈ کس قسم کا سافٹ ویئر ہے؟",
-      "options": [
-        "Spreadsheet software",
-        "Database software",
-        "Word processor",
-        "Presentation software"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Data is permanently stored in _____?",
-      "urdu": "ڈیٹا مستقل طور پر کہاں محفوظ کیا جاتا ہے؟",
-      "options": [
-        "Cache Memory",
-        "Hard Disk",
-        "RAM",
-        "Buses"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "AND, OR, XOR, NOT, NAND, NOR are which type of gate?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Automatic gate",
-        "Logic gate",
-        "Program gate",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "وہ طویل نظم جس میں کوئی قصہ، کہانی، جھنگ کے حالات یا فلسفے کی کوئی لمبی چوڑی بات بیان کی گئی ہو۔ اس نظم کو کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مثنوی",
-        "داستان",
-        "مرثیہ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">مثنوی</font><font color=\"#0000ff\"> ایک طویل نظم ہوتی ہے جس میں کوئی </font><font color=\"#ff0000\">قصہ، عشق، تصوف یا فلسفہ نظم </font><font color=\"#0000ff\">کی صورت میں بیان کیا جاتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "غزل کا آخری شعر جس میں شاعر اپنا تخلص بیان کرتا ہے، اسے کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مطلع",
-        "مقطع",
-        "دونوں",
-        "ان میں سے کوئی بھی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Every worker _____ on duty.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Were",
-        "Are",
-        "Was",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fidel Castro was the President of which country?",
-      "urdu": "فیڈل کاسترو کس ملک کے صدر تھے؟",
-      "options": [
-        "Cuba",
-        "Spain",
-        "France",
-        "Canada"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pulitzer prize is awarded for outstanding work in the field of _____?",
-      "urdu": "پلٹزر انعام کس شعبے میں نمایاں کام کے لیے دیا جاتا ہے؟",
-      "options": [
-        "Scuba",
-        "Science & Tech",
-        "Journalism",
-        "Film Industry"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Alexandria is the seaport of ____?",
-      "urdu": "الیکسنڈریہ کونسے ملک کی بندرگاہ ہے؟",
-      "options": [
-        "UAE",
-        "UK",
-        "Egypt",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 08-08-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A unit of pressure is equal to 1 newton per square meter (N/m²) is known as?",
-      "urdu": "دباؤ کی وہ اکائی جو 1 نیوٹن فی مربع میٹر کے برابر ہو، کیا کہلاتی ہے؟",
-      "options": [
-        "Newton",
-        "Joule",
-        "Pascal",
-        "Kelvin"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" style=\"font-weight: bold; background-color: rgb(255, 255, 0);\">Last verified on 17-06-2026</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Email is used to send _____?",
-      "urdu": "ای میل کس چیز کو بھیجنے کے لیے استعمال ہوتی ہے؟",
-      "options": [
-        "Video",
-        "File",
-        "Audio",
-        "All of these"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Name the type of mouse which uses laser technology to detect the motion of the ball?",
-      "urdu": "ماؤس کی اس قسم کا نام بتائیں جو گیند کی حرکت کا پتہ لگانے کے لیے لیزر ٹیکنالوجی استعمال کرتا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Mechanical mouse",
-        "Opto Mechanical mouse",
-        "Optical mouse",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": 1,
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
+    },
+    {
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "options": [
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Which device is used to connect the nearest device?",
-      "urdu": "قریبی ڈیوائس کو جوڑنے کے لیے کون سا آلہ استعمال کیا جاتا ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "NFC",
-        "Wi-Fi",
-        "Bluetooth",
-        "All of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
-      "correct": 3,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
+      "correct": 0,
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "Ophthalmology is the study of ____?",
-      "urdu": "آپتھلمولوجی کس کے مطالعے سے متعلق ہے؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Nerves",
-        "Blood",
-        "Eyes",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Khushal Khan Khattak was a famous poet of which language?",
-      "urdu": "خوشحال خان خٹک کس زبان کے مشہور شاعر تھے؟",
-      "options": [
-        "Siraiki",
-        "Punjabi",
-        "Balochi",
-        "Pashto"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     }
   ]
 }
