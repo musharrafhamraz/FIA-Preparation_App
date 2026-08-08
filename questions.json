@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-07T19:42:22.008326",
+    "fetched_at": "2026-08-08T02:53:03.469628",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is DMA stand for?",
-      "urdu": "ڈی ایم اے کا مطلب کیا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Direct Memory Access",
-        "Direct Module Access",
-        "Direct Memory Allocation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which file is responsible to start MS PowerPoint?",
-      "urdu": "ایم ایس پاورپوائنٹ شروع کرنے کے لیے کون سی فائل ذمہ دار ہوتی ہے؟",
-      "options": [
-        "ppt.exe",
-        "Mspoint.exe",
-        "Powerpnt.exe",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If you want to attach a printer to a computer, what is necessary?",
-      "urdu": "اگر آپ کمپیوٹر کے ساتھ پرنٹر لگانا چاہتے ہیں تو کیا ضروری ہے؟",
-      "options": [
-        "Monitor",
-        "Cable",
-        "Keyboard",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Which key is used to delete a character to the left side of the cursor in MS Word?",
-      "urdu": "ایم ایس ورڈ میں کرسر کے بائیں طرف موجود حرف کو حذف کرنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Delete",
-        "Backspace",
-        "End",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to moves the cursor one page down?",
-      "urdu": "کرسر کو ایک صفحہ نیچے لے جانے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Alt + PageDown",
-        "Shift + PageDown",
-        "Ctrl + PageDown",
-        "PageDown"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the shortcut key for undo/reverse the last action?",
-      "urdu": "آخری عمل کو واپس کرنے کا شارٹ کٹ کیا ہے؟",
-      "options": [
-        "Ctrl + Z",
-        "Ctrl + C",
-        "Ctrl + V",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of following software is used to prepare/create multimedia presentation?",
-      "urdu": "درج ذیل میں سے کون سا سافٹ ویئر ملٹی میڈیا پریزنٹیشن بنانے کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "PowerPoint",
-        "MS Word",
-        "Spreadsheet",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is used for both read and write operations?",
-      "urdu": "کون سی میموری پڑھنے اور لکھنے دونوں کے لیے استعمال ہوتی ہے؟",
-      "options": [
-        "RAM",
-        "ROM",
-        "PROM",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is internet?",
-      "urdu": "انٹرنیٹ کیا ہے؟",
-      "options": [
-        "Interconnection of wide area networks",
-        "A single network",
-        "A collection of unrelated computers",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "RAM stands for ____?",
-      "urdu": "ریم سے کیا مراد ہے؟",
-      "options": [
-        "Random Access Memory",
-        "Random Access Money",
-        "Random Accurate Memory",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"arial, sans-serif\"><b style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\"></span></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a single-user system?  DOS, Windows, Linux, None of these",
-      "urdu": "مندرجہ ذیل میں سے کون سا سنگل یوزر آپریٹنگ سسٹم ہے؟",
-      "options": [
-        "DOS",
-        "Windows",
-        "Linux",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"sans-serif\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A computer application program that displays data arranged in rows and columns is called?",
-      "urdu": "وہ کمپیوٹر ایپلیکیشن پروگرام جو ڈیٹا کو قطاروں اور کالموں میں ظاہر کرتا ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Spreadsheet",
-        "Register",
-        "Form",
-        "Box"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A single page of PowerPoint presentation is called _____?",
-      "urdu": "پاورپوائنٹ پریزنٹیشن کے ایک صفحے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Sheet",
-        "Page",
-        "Slide",
-        "Document"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which key is used to align the text to center?",
-      "urdu": "متن کو مرکز میں سیدھ میں لانے کے لیے کون سی کلید استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl+ B",
-        "Ctrl + C",
-        "Ctrl + D",
-        "Ctrl + E"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "BIOS stands for ______?",
-      "urdu": "بی آئی او ایس کا مطلب کیا ہے؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Board Input Output System",
-        "Back Input Output System",
-        "Basic Input Output System",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "The keyboard Shortcut key to decrease font size by one point is _____?",
-      "urdu": "فونٹ کے سائز کو ایک پوائنٹ تک کم کرنے کے لیے کی بورڈ شارٹ کٹ کی کونسی ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Ctrl+Shift+<",
-        "Ctrl+Shift+v",
-        "Ctrl+Alt+>",
-        "CTRL+["
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
-      "correct": 3,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Which key is used to select the whole document?",
-      "urdu": "پوری دستاویز کو منتخب کرنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Ctrl + S",
-        "Ctrl + C",
-        "Ctrl + P",
-        "Ctrl + A"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Additional information:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to open an existing file in MS Word?",
-      "urdu": "ایم ایس ورڈ میں موجود فائل کو کھولنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl+O",
-        "Ctrl+N",
-        "Ctrl+R",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font><font color=\"#0000ff\"> </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key inserts a new slide in current presentation?",
-      "urdu": "کرنٹ پریزنٹیشن میں نیا سلائیڈ داخل کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl+N",
-        "Ctrl+M",
-        "Ctrl+S",
-        "None of above"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why do binary digits need more space?",
-      "urdu": "بائنری ہندسوں کو زیادہ جگہ کی ضرورت کیوں ہوتی ہے؟",
-      "options": [
-        "Binary digits are expensive",
-        "Binary digits are large",
-        "Binary codes are long and require many digits to represent information",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many two-digit numbers are divisible by 9?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "11",
-        "10",
-        "9",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Embedded computer software is?",
-      "urdu": "ایمبیڈڈ کمپیوٹر سافٹ ویئر کیا ہوتا ہے؟",
-      "options": [
-        "Software used for creating documents",
-        "Software designed to control a specific hardware device",
-        "Software used for internet browsing",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The default settings for Narrow margins in MS Word are?",
-      "urdu": "ایم ایس ورڈ میں نیرو مارجنس کی ڈیفالٹ سیٹنگ کیا ہوتی ہے؟",
-      "options": [
-        "0.5 inches on all four sides (Top, Bottom, Left, and Right)",
-        "1 inch on all four sides (Top, Bottom, Left, and Right)",
-        "0.75 inches on all four sides of (Top, Bottom, Left, and Right)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is most commonly used for making magnetic recording tape?",
-      "urdu": "مقناطیسی ریکارڈنگ ٹیپ بنانے کے لیے عام طور پر کون سا مادہ استعمال ہوتا ہے؟",
-      "options": [
-        "Ferric oxide",
-        "Silver nitrate",
-        "Small particles of iron",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number of letter that appears a little above the normal text is called?",
-      "urdu": "وہ حرف یا نمبر جو عام متن سے تھوڑا اوپر ظاہر ہو، کیا کہلاتا ہے؟",
-      "options": [
-        "Superscript",
-        "Subscript",
-        "Supertext",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Shortcut keys to switch to the next windows?",
-      "urdu": "اگلی ونڈو پر جانے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Shift + Tab",
-        "Alt + Ctrl",
-        "Ctrl + Tab",
-        "Alt + Tab"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of the Shift + End shortcut key?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Select text from the cursor to the end of the current line",
-        "Move the cursor to the end of the document",
-        "Delete text to the end of the line",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The standard arrangement of keys on a keyboard is called?",
-      "urdu": "کی بورڈ پر کلیدوں کی معیاری ترتیب کو کیا کہا جاتا ہے؟",
-      "options": [
-        "QWERTY arrangement",
-        "Home arrangement",
-        "Basic arrangement",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The output quality of a printer is measured by ____?",
-      "urdu": "پرنٹر کے آؤٹ پٹ کے معیار کو کس میں ناپا جاتا ہے؟",
-      "options": [
-        "Dot per sq inch",
-        "Dot per inch",
-        "Dots printed per unit time",
-        "All of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"color: rgb(255, 0, 0); font-size: 1rem;\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "An output device that uses words or messages recorded on a magnetic medium to produce audio response is?",
-      "urdu": "وہ آؤٹ پٹ ڈیوائس جو مقناطیسی ذریعے پر ریکارڈ شدہ الفاظ یا پیغامات سے آواز پیدا کرتی ہے، کیا کہلاتی ہے؟",
-      "options": [
-        "Voice recognition unit",
-        "Magnetic tape",
-        "Voice response unit",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is built directly on the hardware?",
-      "urdu": "کون سا سافٹ ویئر براہِ راست ہارڈویئر پر بنایا جاتا ہے؟",
-      "options": [
-        "Operating System",
-        "Computer Environment",
-        "Application Software",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Background color or effects applied on a document is not visible in?",
-      "urdu": "دستاویز پر لگایا گیا پسِ منظر کا رنگ یا ایفیکٹس کس میں نظر نہیں آتے؟",
-      "options": [
-        "Print Preview",
-        "Reading View",
-        "Print Layout view",
-        "Web layout view"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Coded entries are used to gain access to a computer system are called?",
-      "urdu": "کمپیوٹر سسٹم تک رسائی حاصل کرنے کے لیے استعمال ہونے والے کوڈ شدہ اندراجات کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Entry Codes",
-        "Passwords",
-        "Security Commands",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which software is used to detect issues?",
-      "urdu": "مسائل کا پتہ لگانے کے لیے کون سا سافٹ ویئر استعمال ہوتا ہے؟",
-      "options": [
-        "Application software",
-        "Utility software",
-        "Diagnostic software",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "1 (One) Gigabyte (GB) is equal to _____?",
-      "urdu": "ایک گیگابائٹ کس کے برابر ہے؟",
-      "options": [
-        "1024 bits",
-        "1032 megabytes",
-        "1024 kilobytes",
-        "1024 megabytes"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b><b style=\"color: rgb(0, 0, 255);\">:</b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is an other name for Junk Email?",
-      "urdu": "جنک ای میل کا دوسرا نام کیا ہے؟",
-      "options": [
-        "Spoof",
-        "Spill",
-        "Spam",
-        "Spat"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main difference between a mainframe and a super computer?",
-      "urdu": "مین فریم اور سپر کمپیوٹر کے درمیان بنیادی فرق کیا ہے؟",
-      "options": [
-        "Super computer is much larger than mainframe computers",
-        "Super computers are much smaller than mainframe computers",
-        "Supercomputers are focused to execute few programs as fast as possible while mainframe uses its power to execute as many programs concurrently",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the maximum number of columns that can be inserted in MS Word?",
-      "urdu": "ایم ایس ورڈ میں زیادہ سے زیادہ کتنے کالم داخل کیے جا سکتے ہیں؟",
-      "options": [
-        "35",
-        "15",
-        "63",
-        "65"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; vertical-align: baseline; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the maximum number of lines you can set for a drop cap?",
-      "urdu": "ڈراپ کیپ کے لیے زیادہ سے زیادہ کتنی لائنیں مقرر کی جا سکتی ہیں؟",
-      "options": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Dot matrix is a type of ____?",
-      "urdu": "ڈاٹ میٹرکس کس قسم کی چیز ہے؟",
-      "options": [
-        "Bus",
-        "Disk",
-        "Printer",
-        "Tape"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is permanently written at the time of manufacturing?",
-      "urdu": "مندرجہ ذیل میں سے کون سی میموری تیاری کے وقت مستقل طور پر لکھی جاتی ہے؟",
-      "options": [
-        "RAM",
-        "ROM",
-        "Cache",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What happens if you press Ctrl + Shift + F8 in Microsoft Word?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "It selects the paragraph on which the insertion line is.",
-        "It activates extended selection",
-        "It activates the rectangular selection",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, Portrait and Landscape are _______?",
-      "urdu": "ایم ایس ورڈ میں پورٹریٹ اور لینڈ اسکیپ کیا ہیں؟",
-      "options": [
-        "Page layout",
-        "Page size",
-        "Page Orientation",
-        "All of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The minimum number of rows and columns in MS word document is ____?",
-      "urdu": "ایم ایس ورڈ دستاویز میں قطاروں اور کالموں کی کم از کم تعداد کیا ہے؟",
-      "options": [
-        "1 and 1",
-        "2 and 2",
-        "2 and 1",
-        "1 and 2"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Regarding a VDU, which statement is more correct?",
-      "urdu": "وی ڈی یو کے بارے میں کون سا بیان زیادہ درست ہے؟",
-      "options": [
-        "It is a storage device",
-        "It is a peripheral device",
-        "It is a processing device",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which instrument measures pH?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Spectrophotometer",
-        "pH Meter",
-        "Thermometer",
-        "Barometer"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Gravimetric analysis is based on measuring?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Volume",
-        "Pressure",
-        "Mass",
-        "Temperature"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Filtration separates?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Solid from liquid",
-        "Liquid from liquid",
-        "Gas from gas",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Filtration separates </font><font color=\"#00ff00\">solid particles from a liquid or gas based</font><font color=\"#0000ff\"> on particle size.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Distillation separates liquids based on?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Color",
-        "Density",
-        "Boiling point",
-        "Mass"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan Army major Hafiz Ehsan Elahi martyred in which region in August 2026?",
-      "urdu": "پاک فوج کے میجر حافظ احسان الٰہی اگست 2026 میں کس علاقے میں شہید ہوئے؟",
-      "options": [
-        "Mastung",
-        "North Waziristan",
-        "Washuk",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">An <span style=\"background-color: rgb(255, 255, 0);\">army </span>officer was martyred during an intelligence-based operation (IBO) in the</font><font color=\"#ff0000\"> Razmak area of North Waziristan </font><font color=\"#0000ff\">district on 1 August 2026.<o:p></o:p></font></b></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
