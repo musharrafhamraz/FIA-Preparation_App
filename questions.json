@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-09T07:48:27.345906",
+    "fetched_at": "2026-08-09T13:44:07.730203",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which command will you use in PowerPoint if you need to change the color of different objects without changing content?",
-      "urdu": "اگر آپ کو مواد کو تبدیل کیے بغیر مختلف اشیاء کا رنگ تبدیل کرنے کی ضرورت ہو تو آپ پاور پوائنٹ میں کون سی کمانڈ استعمال کریں گے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Design template",
-        "Color scheme",
-        "Object color",
-        "Font color"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Microsoft PowerPoint, which tab is used to display all slides during a presentation?",
-      "urdu": "مائیکروسافٹ پاورپوائنٹ میں پریزنٹیشن کے دوران تمام سلائیڈز دکھانے کے لیے کون سا ٹیب استعمال ہوتا ہے؟",
-      "options": [
-        "Slide Show",
-        "Insert",
-        "Design",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Through which tab can an object be animated in MS PowerPoint?",
-      "urdu": "ایم ایس پاورپوائنٹ میں کسی آبجیکٹ کو متحرک (اینیمیٹ) کرنے کے لیے کون سا ٹیب استعمال کیا جاتا ہے؟",
-      "options": [
-        "Animations",
-        "Insert",
-        "Design",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "To start a slide show in PowerPoint we press _____?",
-      "urdu": "پاورپوائنٹ میں سلائیڈ شو شروع کرنے کے لیے ہم کونسی کی دبائیں؟",
-      "options": [
-        "F6",
-        "F4",
-        "F5",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "If you want to connect two nearby situated buildings then which of the following type of network you will use?",
-      "urdu": "اگر آپ قریب کی دو عمارتوں کو جوڑنا چاہتے ہیں تو آپ مندرجہ ذیل میں سے کون سا نیٹ ورک استعمال کریں گے؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Metropolitan Area Network (MAN)",
-        "Local Area Network (LAN)",
-        "Wide Area Network (WAN)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When we take a print, which option is important?",
-      "urdu": "پرنٹ لیتے وقت کون سا آپشن اہم ہوتا ہے؟",
-      "options": [
-        "Print Command",
-        "Print Preview",
-        "Page Setup",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The view that displays the slides of a presentation as miniature representations (thumbnails) of the slides is called _____?",
-      "urdu": "وہ ویو جس میں پریزنٹیشن کی سلائیڈز چھوٹی شکل میں نظر آتی ہیں، اسے کیا کہتے ہیں؟",
-      "options": [
-        "Slide show",
-        "Outline view",
-        "Slide sorter view",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What is the maximum Zoom Percentage in MS Word?",
-      "urdu": "ایم ایس ورڈ میں سائززیادہ سے زیادہ کتنے فیصد ہوتا ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "400%",
-        "500%",
-        "10%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span \"jameel=\"\" arial=\"\" black\",sans-serif;mso-bidi-font-family:=\"\" er\"=\"\" nastaleeq\";color:white;mso-themecolor:background1;mso-bidi-language:=\"\" noori=\"\" style=\"font-size: 20pt; color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\"><span style=\"font-family: Helvetica; font-weight: normal;\">Zoom size</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "TCP and IP were invented by ____?",
-      "urdu": "ٹی سی پی اور آئی پی کس نے ایجاد کیے؟",
-      "options": [
-        "Robert G. Kahn",
-        "Vint Cerf",
-        "Both Robert G. Kahn and Vint Cerf",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many ways you can save a document in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں ایک حقیقت کو کتنی حالت سے محفوظ کیا جا سکتا ہے؟",
-      "options": [
-        "3",
-        "2",
-        "1",
-        "5"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#0000ff\">A </font><font color=\"#ff0000\">document</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Microsoft Word</font><font color=\"#0000ff\"> can be </font><font color=\"#ff0000\">saved in three</font><font color=\"#0000ff\"> commonly taught ways.</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following data storage media generally has the highest cost per gigabyte (GB) of storage capacity?",
-      "urdu": "درج ذیل میں کس ڈیٹا میڈیا کی فی جی بی تبدیلی لاگت عام طور پر سب سے زیادہ ہوتی ہے؟",
-      "options": [
-        "CD",
-        "HDD",
-        "SSD",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A single page of PowerPoint presentation is called _____?",
-      "urdu": "پاورپوائنٹ پریزنٹیشن کے ایک صفحے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Sheet",
-        "Page",
-        "Slide",
-        "Document"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What the the first page of a website is called?",
-      "urdu": "ویب سائٹ کے پہلے صفحے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "First Page",
-        "New Page",
-        "Screen Page",
-        "Home Page"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Columns in MS Excel are called?",
-      "urdu": "ایم ایس ایکسل میں کالمز کو کس نام سے پکارا یا ظاہر کیا جاتا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Fields",
-        "Chart",
-        "Both",
-        "Letters"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
+      "correct": 1,
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "What is the purpose of the Slide Sorter view in PowerPoint?",
-      "urdu": "پاورپوائنٹ میں سلائیڈ سارٹر ویو کا مقصد کیا ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Rearrange slides in a presentation",
-        "To apply formatting to all slides in a presentation",
-        "Add animations to slides",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A word processor would most likely be used to do?",
-      "urdu": "ورڈ پروسیسر کا استعمال زیادہ تر کس کام کے لیے کیا جاتا ہے؟",
-      "options": [
-        "Maintain an inventory",
-        "Type a biography",
-        "Do a computer search in media center",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, Ctrl + Pageup is used to _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Move the cursor one lineup",
-        "Move the cursor one screen up",
-        "Move the cursor one paragraph up",
-        "Move the cursor one page up"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"\"><span 0,=\"\" 255);=\"\" 255);\"=\"\" 255,=\"\" background-color:=\"\" rgb(0,=\"\" rgb(255,=\"\" style=\"\"><b style=\"\"><span 1rem;=\"\" font-family:=\"\" helvetica;\"=\"\" style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was founder of first mechanical computer?",
-      "urdu": "پہلے مکینیکل کمپیوٹر کے بانی کون تھے؟",
-      "options": [
-        "Charles Babbage",
-        "Alan Turing",
-        "Michal Faraday",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The only difference between memory and storage is _____?",
-      "urdu": "میموری اور اسٹوریج کے درمیان واحد فرق کیا ہے؟",
-      "options": [
-        "Permanent, Temporary",
-        "Temporary, Permanent",
-        "Slow, Fast",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 17-01-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "4 bytes is equal to how many bits?",
-      "urdu": "چار بائٹس کتنے بِٹس کے برابر ہوتے ہیں؟",
-      "options": [
-        "16 bits",
-        "32 bits",
-        "64 bits",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "1 Terabyte (TB) is equal to  how many GB?",
-      "urdu": "ایک ٹیرا بائٹ (ٹی بی) کس کے برابر ہے؟",
-      "options": [
-        "100 GB",
-        "1000 GB",
-        "10000 GB",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why Drop Caps are used in documents in MS Word?",
-      "urdu": "ایم ایس ورڈ میں دستاویزات میں ڈراپ کیپس کیوں استعمال ہوتے ہیں؟",
-      "options": [
-        "To begin a paragraph with a large dropped initial capital letter",
-        "To drop all the capital letters",
-        "To automatically begin each paragraph with capital letter",
-        "None of above"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the correct sequence of data storage units from smallest to largest?",
-      "urdu": "ڈیٹا اسٹوریج یونٹس کو سب سے چھوٹے سے سب سے بڑے تک درست ترتیب میں کون سا آپشن ظاہر کرتا ہے؟",
-      "options": [
-        "B → KB → MB → GB",
-        "GB → MB → KB → B",
-        "KB → B → GB → MB",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the shortcut key for undo/reverse the last action?",
-      "urdu": "آخری عمل کو واپس کرنے کا شارٹ کٹ کیا ہے؟",
-      "options": [
-        "Ctrl + Z",
-        "Ctrl + C",
-        "Ctrl + V",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, Ctrl + Y is used for ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Redo",
-        "Paste",
-        "Cut",
-        "Undo"
-      ],
-      "correct": 0,
-      "explanation": "<p dir=\"ltr\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ctrl + B Shortcut key is used in MS Word to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Search the selected text",
-        "Paste the selected text",
-        "Bold the selected text",
-        "Open the specified file"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bold;\"><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"color: rgb(255, 0, 0);\">:</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, Ctrl + H Shortcut is used for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Open Help Window",
-        "Find and Replace",
-        "Highlight Text",
-        "Insert Hyperlink"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "CTRL + S is the shortcut key for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "New",
-        "Bold",
-        "Save",
-        "Copy"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "CMS in web development stands for?",
-      "urdu": "ویب ڈویلپمنٹ میں سی ایم ایس کا مطلب کیا ہے؟",
-      "options": [
-        "Computer Management System",
-        "Content Management System",
-        "Content Monitoring Service",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is not PowerPoint view(s)? Slide show view, Slide view, Presentation View, Outline view",
-      "urdu": "مندرجہ ذیل میں سے کون سا پاورپوائنٹ ویو(ز) نہیں ہے؟",
-      "options": [
-        "Slide show view",
-        "Slide view",
-        "Presentation View",
-        "Outline view"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">\"</font><font color=\"#ff0000\">Presentation View</font><font color=\"#0000ff\">\" is </font><font color=\"#ff0000\">not</font><font color=\"#0000ff\"> a PowerPoint view.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under the principle of Separation of Powers, which core function is strictly kept outside the domain of the Parliament?",
-      "urdu": "اختیارات کی علیحدگی کے اصول کے تحت پارلیمنٹ کے دائرۂ اختیار سے کون سا بنیادی کام باہر رکھا جاتا ہے؟",
-      "options": [
-        "Making Laws",
-        "Approving the Budget",
-        "Judicial Decisions / Passing Court Judgments",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which administrative model suggests that political decisions are made by a small, wealthy, and powerful ruling class?",
-      "urdu": "کون سا انتظامی نظریہ یہ بیان کرتا ہے کہ سیاسی فیصلے ایک چھوٹے، دولت مند اور طاقتور حکمران طبقے کی طرف سے کیے جاتے ہیں؟",
-      "options": [
-        "Systems Theory",
-        "Elite Theory",
-        "Pluralist Theory",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A political system with a strong central authority and shared power with states is a Federation, whereas a voluntary association of independent sovereign states is a?",
-      "urdu": "آزاد اور خودمختار ریاستوں کی رضاکارانہ انجمن کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Unitary System",
-        "Federation",
-        "Confederation",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which pay model links employee compensation directly to individual performance, productivity, or skill level?",
-      "urdu": "وہ کون سا تنخواہ کا نظام ہے جس میں ملازم کی اجرت کو براہِ راست انفرادی کارکردگی، پیداواریت یا مہارت کی سطح سے جوڑا جاتا ہے؟",
-      "options": [
-        "Seniority-Based Pay",
-        "Pay Theory",
-        "Performance-Related Pay (PRP)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In decision theory, which mathematical framework analyzes strategic interaction between rational decision-makers?",
-      "urdu": "فیصلہ سازی کے نظریے میں عقلی فیصلہ کرنے والوں کے درمیان حکمتِ عملی پر مبنی باہمی عمل کا تجزیہ کرنے والے ریاضیاتی فریم ورک کو کیا کہتے ہیں؟",
-      "options": [
-        "Cost-Benefit Analysis",
-        "Decision Tree Analysis",
-        "Game Theory",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What are the standard sequential stages of a Project Life Cycle?",
-      "urdu": "پروجیکٹ لائف سائیکل کے معیاری مسلسل مراحل کون سے ہیں؟",
-      "options": [
-        "Initiation, Planning, Execution, Monitoring & Control, and Closure",
-        "Planning, Initiation, Closure, Execution, and Evaluation",
-        "Initiation, Execution, Planning, and Closure",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The discount rate at which the Net Present Values (NPVs) of two mutually exclusive projects are equal is known as?",
-      "urdu": "وہ ڈسکاؤنٹ ریٹ جس پر دو کاروباری طور پر متبادل منصوبوں کی این پی وی کے ساتھ تعاون کیا جائے گا؟",
-      "options": [
-        "Accounting Rate of Return",
-        "Fisher Rate of Return / Fisher Intersection",
-        "Internal Rate of Return",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why are internal management accounting reports not presented to external shareholders?",
-      "urdu": "اندرونی مینجمنٹ اکاؤنٹنگ رپورٹس بیرونی شیئر ہولڈرز کو کیوں پیش نہیں کی جاتیں؟",
-      "options": [
-        "Because management accounts are confidential and used internally for managerial decision-making, while shareholders receive financial accounting reports",
-        "Because they contain only historical information",
-        "Because shareholders cannot understand accounting reports",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the normal balance of a Revenue account in financial accounting?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Debit",
-        "Credit",
-        "Both Debit and Credit",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy through which a government adjusts its spending levels and tax rates to monitor and influence a nation's economy is?",
-      "urdu": "وہ پالیسی جس کے ذریعے حکومت ملکی معیشت کو متاثر کرنے کے لیے سرکاری اخراجات اور ٹیکس کی شرحوں میں تبدیلی کرتی ہے، کیا کہلاتی ہے؟",
-      "options": [
-        "Fiscal Policy",
-        "Monetary Policy",
-        "Trade Policy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy managed by the central bank to control money supply and interest rates is known as?",
-      "urdu": "مرکزی بینک کی جانب سے زرِ رسد اور شرحِ سود کو کنٹرول کرنے والی پالیسی کو کیا کہتے ہیں؟",
-      "options": [
-        "Fiscal Policy",
-        "Trade Policy",
-        "Monetary Policy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Policy issues that affect small sectors are minor, whereas issues that affect the entire nation or system are classified as?",
-      "urdu": "وہ پالیسی مسائل جو پورے ملک یا نظام کو متاثر کریں، انہیں کیا کہا جاتا ہے؟",
-      "options": [
-        "Minor Issues",
-        "Major Issues",
-        "Local Issues",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In public policy and performance evaluation, what is the key difference between Output and Outcome?",
-      "urdu": "عوامی پالیسی اور کارکردگی کی جانچ میں آؤٹ پٹ اور نتیجہ میں بنیادی فرق کیا ہے؟",
-      "options": [
-        "Output is the immediate product/service delivered, whereas Outcome is the long-term impact/result achieved.",
-        "Output is the long-term impact, whereas Outcome is the immediate service.",
-        "Both Output and Outcome mean the same thing",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How does mass media influence public policy?",
-      "urdu": "ماس میڈیا عوامی پالیسی پر کیسے اثر انداز ہوتا ہے؟",
-      "options": [
-        "By directly making laws",
-        "By shaping public opinion and setting the political agenda",
-        "By appointing government officials",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Issues in public policy that are routine, well-defined, and have clear procedural solutions are categorized as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Structured Problems",
-        "Unstructured Problems",
-        "Semi-structured Problems",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In public policy analysis, what is the term for replacing an existing policy with an entirely new policy or modifying it substantially?",
-      "urdu": "پبلک پالیسی کے تجزیے میں موجودہ پالیسی کو نئی پالیسی سے تبدیل کرنے یا اس میں نمایاں تبدیلی کرنے کو کیا کہتے ہیں؟",
-      "options": [
-        "Policy Evaluation",
-        "Policy Succession",
-        "Policy Termination",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the simple definition of a decision?",
-      "urdu": "فیصلے کی سادہ تعریف کیا ہے؟",
-      "options": [
-        "A choice made between two or more alternatives",
-        "A plan for achieving a goal",
-        "A method of organizing resources",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An individual who achieves organizational goals by allocating resources, directing activities, and overseeing others is defined as a?",
-      "urdu": "وہ فرد جو وسائل تقسیم کرکے، سرگرمیوں کی ہدایت دے کر اور دوسروں کی نگرانی کرکے تنظیمی اہداف حاصل کرتا ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Supervisor",
-        "Manager",
-        "Leader",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A statement outlining the minimal acceptable qualifications, skills, and knowledge required to perform a job is called?",
-      "urdu": "ملازمت انجام دینے کے لیے کم از کم مطلوبہ قابلیت، مہارت اور علم کو بیان کرنے والے بیان کو کیا کہتے ہیں؟",
-      "options": [
-        "Job Evaluation",
-        "Job Description",
-        "Job Specification",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The theory of motivation which suggests that individuals compare their job inputs and outcomes with those of others is?",
-      "urdu": "وہ کون سا نظریہ ہے جس کے مطابق افراد اپنی ملازمت کی کوششوں اور حاصل ہونے والے نتائج کا دوسروں سے موازنہ کرتے ہیں؟",
-      "options": [
-        "Expectancy Theory",
-        "Equity Theory",
-        "Goal-Setting Theory",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
