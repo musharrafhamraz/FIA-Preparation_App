@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-09T13:44:07.730203",
+    "fetched_at": "2026-08-09T19:23:39.283592",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "کون سے الفاظ ہندوی/ ہندی زبان میں زیادہ استعمال ہوتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "بھ، ٹھ، پھ وغیرہ والے الفاظ",
+        "ظ، ض، ص وغیرہ والے الفاظ",
+        "ث، ذ، ح وغیرہ والے الفاظ",
+        "ان میں سے کوئی نہیں"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "مقطعات کس لیے استعمال ہوتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "نماز کے ارکان کے لیے",
+        "احادیث کی اقسام کے لیے",
+        "قرآنِ مجید کی بعض سورتوں کے آغاز میں بطور حروفِ مقطعات",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "حروفِ حقیقی اور حروفِ علت کیا ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حروفِ تہجی کی اقسام",
+        "حروفِ جار کی اقسام",
+        "حروفِ عطف کی اقسام",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "وہ فعل جس کا فاعل معلوم ہو۔ وہ کیا کہلاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "فعل مجهول",
+        "فعل  معروف",
+        "فعل متعدی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><b style=\"\"><font color=\"#0000ff\">ایسا فعل جس کا فاعل معلوم ہو</font><font color=\"#ff0000\"> اسے فعل معروف کہا جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Area wise second largest province of Pakistan is?",
+      "urdu": "رقبے کے لحاظ سے پاکستان کا دوسرا سب سے بڑا صوبہ کون سا ہے؟",
+      "options": [
+        "Baluchistan",
+        "Punjab",
+        "Sindh",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff00ff\">Largest Provinces of Pakistan by Area</font><font color=\"#0000ff\">:</font></b><ol><li><font color=\"#0000ff\"><b>Balochistan — 347,190 km²</b></font></li><li><b style=\"\"><font color=\"#ff0000\">Punjab — 205,345 km²</font></b></li><li><font color=\"#0000ff\"><b>Sindh — 140,914 km²</b></font></li><li><b style=\"\"><font color=\"#ff0000\">Khyber Pakhtunkhwa (KP) — 101,741 km²</font></b></li></ol><div><b style=\"\"><font color=\"#ff0000\">Largest</font><font color=\"#0000ff\"> Province by Area: </font><font color=\"#ff0000\">Balochistan</font></b></div><div><b style=\"\"><font color=\"#ff0000\">Smallest</font><font color=\"#0000ff\"> Province by Area: </font><font color=\"#ff0000\">Khyber Pakhtunkhwa (KP)</font></b></div><div><b style=\"\"><font color=\"#ff0000\"><br/></font></b></div><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></div></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the southern area of Pakistan, there is a mountain range called?",
+      "urdu": "پاکستان کے جنوب میں کون سا سلسلہ ہے؟",
+      "options": [
+        "Karakorum",
+        "Kirther",
+        "Himalayas",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the Palestine Liberation Organization (PLO) was established?",
+      "urdu": "فلسطین لبریشن آرگنائزیشن کی بنیاد رکھی گئی",
+      "options": [
+        "1970",
+        "1960",
+        "1964",
+        "1968"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many articles were there in the 1962 Constitution?",
+      "urdu": "سن 1962 کے آئین میں کتنے آرٹیکلز تھے؟",
+      "options": [
+        "250",
+        "234",
+        "280",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"line-height: 21px;\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel formula and function start with ____?",
+      "urdu": "ایم ایس ایکسل میں فارمولا اور فنکشن کس علامت سے شروع ہوتے ہیں؟",
+      "options": [
+        "+",
+        "-",
+        "=",
+        "["
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Al Jazeera TV channel belongs to which country?",
+      "urdu": "الجزیرہ ٹی وی چینل کس ملک سے تعلق رکھتا ہے؟",
+      "options": [
+        "Pakistan",
+        "Iran",
+        "Syria",
+        "Qatar"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why was the traditional Pakistan Day military parade, scheduled for March 23, 2026, officially cancelled by the government?",
+      "urdu": "تئیس مارچ 2026 کو روایتی یومِ پاکستان فوجی پریڈ کیوں منسوخ کی گئی؟",
+      "options": [
+        "Fuel crisis and austerity measures",
+        "Political instability",
+        "Severe weather conditions",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following countries hosted the 2026 Winter Olympics?",
+      "urdu": "سن 2026 کے سرمائی اولمپکس کی میزبانی کس ملک نے کی؟",
+      "options": [
+        "Japan",
+        "France",
+        "China",
+        "Italy"
+      ],
+      "correct": 3,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the auction, PIA was purchases by which group?",
+      "urdu": "نیلامی میں پی آئی اے کو کس گروپ نے خریدا؟",
+      "options": [
+        "Arif Habib Consortium",
+        "JS Group",
+        "Lucky Group",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the shortcut key for a manual line break in MS Word?",
+      "urdu": "ایم ایس ورڈ میں مینوئل لائن بریک کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Shift + Enter",
+        "Space + Enter",
+        "Ctrl + Enter",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does 'PDF' stand for?",
+      "urdu": "پی ڈی ایف کا کیا مطلب ہے؟",
+      "options": [
+        "Print Document Format",
+        "Portable Disc Format",
+        "Portable Document Format",
+        "Portable Document Firewall"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); font-size: 1.75rem;\">ان سولات کو ضرور پڑھیں</span><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "SMS stands for ____?",
+      "urdu": "ایس ایم ایس کا مطلب کیا ہے؟",
+      "options": [
+        "Send Message Send",
+        "Short Message Service",
+        "Small Message Send",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Suez Canal is connects / between / links ______?",
+      "urdu": "سوئز نہر کن کے درمیان میں واقع ہے؟",
+      "options": [
+        "Arabian Sea and Red Sea",
+        "Red Sea and North Sea",
+        "Mediterranean Sea and North Sea",
+        "Mediterranean Sea and Red Sea"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 18.6667px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 08-02-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The topology with highest reliability is?",
+      "urdu": "سب سے زیادہ قابلِ اعتماد نیٹ ورک ٹوپولوجی کون سی ہے؟",
+      "options": [
+        "Star topology",
+        "Ring topology",
+        "Mesh topology",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is married ____ my sister.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To",
+        "With",
+        "Of",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 14.6667px; background-color: rgb(255, 255, 0);\"><b><font color=\"#ff0000\">Last verified on 09-08-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: Let sleeping dogs lie means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To avoid disturbing someone",
+        "To avoid restarting a conflict",
+        "To kill the sleeping dogs",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Zaboor was revealed on which Prophet?",
+      "urdu": "زبور کس نبیؑ پر نازل ہوئی؟",
+      "options": [
+        "Hazrat Mossa (a.s)",
+        "Hazrat Issa (a.s)",
+        "Hazrat Dawood (a.s)",
+        "Hazrat Muhammad (a.s)"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The past form of Slay is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Slain",
+        "Slayed",
+        "Slew",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What the the first page of a website is called?",
+      "urdu": "ویب سائٹ کے پہلے صفحے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "First Page",
+        "New Page",
+        "Screen Page",
+        "Home Page"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of the Slide Sorter view in PowerPoint?",
+      "urdu": "پاورپوائنٹ میں سلائیڈ سارٹر ویو کا مقصد کیا ہے؟",
+      "options": [
+        "Rearrange slides in a presentation",
+        "To apply formatting to all slides in a presentation",
+        "Add animations to slides",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which city is known as the Silicon Valley of India?",
+      "urdu": "بھارت کے کس شہر کو \"سلیکون ویلی آف انڈیا\" کہا جاتا ہے؟",
+      "options": [
+        "Mumbai",
+        "Bengaluru (Bangalore)",
+        "Chennai",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The strait between Yemen and Arabia is?",
+      "urdu": "یمن اور عرب کے درمیان کون سی آبنائے واقع ہے؟",
+      "options": [
+        "Strait of Hormuz",
+        "Bab-el-Mandeb",
+        "Strait of Malacca",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A narrow piece of land separating two water bodies and connected land masses is called _____?",
+      "urdu": "دو آبی ذخائر کو الگ کرنے اور دو زمینی حصوں کو ملانے والی زمین کی تنگ پٹی کو کیا کہتے ہیں؟",
+      "options": [
+        "Isthmus",
+        "Bay",
+        "Strait",
+        "Weirs"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which river was Hazrat Musa (AS) placed as an infant?",
+      "urdu": "حضرت موسیٰؑ کو بچپن میں کس دریا میں رکھا گیا تھا؟",
+      "options": [
+        "River Nile",
+        "River Euphrates",
+        "River Tigris",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "و اور \"سے\" بالترتیب کیا ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حرفِ جار، حرفِ عطف",
+        "حرفِ عطف، حرفِ جار",
+        "حرفِ تہجی، حرفِ جار",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">و</font><font color=\"#0000ff\"> دو الفاظ یا جملوں کو ملانے کے لیے آتا ہے، اس لیے یہ </font><font color=\"#ff0000\">حرفِ عطف</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Sahabi (Companion) was renowned for having the simplest, most ascetic lifestyle and strictly avoiding worldly wealth?",
+      "urdu": "کون سے صحابیؓ سادہ اور زاہدانہ زندگی گزارنے اور دنیاوی مال و دولت سے اجتناب کرنے کے لیے مشہور تھے؟",
+      "options": [
+        "Hazrat Abdur Rahman bin Awf",
+        "Hazrat Abu Dharr al-Ghifari",
+        "Hazrat Uthman ibn Affan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Chromatography is used for _____?",
+      "urdu": "کرومیٹوگرافی کس مقصد کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Examining whether there is poison in the blood of a deceased person",
+        "Testing whether a person has a disease",
+        "Identifying poisons",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is an example of spreadsheet software?",
+      "urdu": "اسپریڈشیٹ سافٹ ویئر کی کون سی مثال ہے؟",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is malware software?",
+      "urdu": "میلویئر سافٹ ویئر کیا ہے؟",
+      "options": [
+        "A type of software designed to improve computer performance",
+        "Software that protects against viruses and threats",
+        "Malicious software designed to harm or exploit systems",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The title “Quaid-e-Millat” refers to which Pakistani politician?",
+      "urdu": "قائدِ ملت کس سیاستدان کا لقب ہے؟",
+      "options": [
+        "Liaquat Ali Khan",
+        "Muhammad Ali Jinnah",
+        "Zulfikar Ali Bhutto",
+        "Allama Iqbal"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the SEATO Treaty signed?",
+      "urdu": "سیٹو معاہدہ کب دستخط کیا گیا؟",
+      "options": [
+        "8th September 1954",
+        "10th September 1954",
+        "15th September 1954",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The intersection of columns and rows in called a?",
+      "urdu": "کالم اور قطار کے ملنے کی جگہ کو کیا کہتے ہیں؟",
+      "options": [
+        "Schema",
+        "Cell",
+        "Table",
+        "Data"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 09-08-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The driest and windiest continent in the world is?",
+      "urdu": "دنیا کا سب سے خشک اور ہوا والا براعظم کون سا ہے؟",
+      "options": [
+        "Antarctica",
+        "Australia",
+        "Africa",
+        "South America"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name the uncle of Prophet Muhammad (PBUH) who was also his foster brother?",
+      "urdu": "نبی کریم ﷺ کے چچا جنہوں نے رضاعی بھائی بھی تھے کون تھے؟",
+      "options": [
+        "Hazrat Hamza (RA)",
+        "Hazrat Ali (RA)",
+        "Hazrat Saad bin Muadh (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"arial, sans-serif\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, Ctrl + I shortcut key used for?",
+      "urdu": "کنڑول آئی کی شارٹ کی سے کیا ہوتا ہے؟",
+      "options": [
+        "Underline",
+        "Italic",
+        "Bold",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"segoe=\"\" 15px;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" font-size:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\";=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"color: rgb(0, 0, 255); font-weight: bolder;\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which memory type is fastest and is typically located inside the CPU?",
+      "urdu": "کون سی میموری سب سے تیز ہوتی ہے اور عام طور پر سی پی یو کے اندر موجود ہوتی ہے؟",
+      "options": [
+        "Main Memory",
+        "SRAM",
+        "Cache Memory",
+        "DRAM"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "1 billion bytes is equal to?",
+      "urdu": "ایک ارب بائٹس کتنے کے برابر ہوتے ہیں؟",
+      "options": [
+        "1 Megabyte",
+        "1 Gigabyte (GB)",
+        "1 Terabyte",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "GUI stands for ______?",
+      "urdu": "جی آئ یو کا مطلب کیا ہے؟",
+      "options": [
+        "Graphical Use Interface",
+        "Graphical User Interface",
+        "Graphic User Interface",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the shortcut key for searching a file in MS Word 2016?",
+      "urdu": "ایم ایس ورڈ 2016 میں کسی فائل/متن کو تلاش کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl + F",
+        "Ctrl + S",
+        "Ctrl + O",
+        "Ctrl + H"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Office a feature that saves the document automatically after certain intervals is called?",
+      "urdu": "ایم ایس آفس میں وہ خصوصیت جو مخصوص وقفوں کے بعد دستاویز کو خودکار طور پر محفوظ کرتی ہے، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Save",
+        "Save As",
+        "Auto Save",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the purpose of AutoCorrect originally?",
+      "urdu": "آٹو کریکٹ کا مقصد کیا تھا؟",
+      "options": [
+        "To replace repetitive words",
+        "To replace grammatically incorrect words",
+        "To replace missspellings",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mail merge is used to?",
+      "urdu": "میل مرج کس کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Combine multiple documents together",
+        "Send emails to multiple recipients",
+        "Merge data into a template document",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, \"Ctrl + PageDown\" is used to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Moves the cursor one Line Down",
+        "Moves the cursor one Paragraph Down",
+        "Moves the cursor one Page Down",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of the Format Painter?",
+      "urdu": "فارمیٹ پینٹر کا مقصد کیا ہے؟",
+      "options": [
+        "To change the background color of your slides",
+        "To paint pretty pictures on your slides",
+        "To copy formatting from one object or piece of text and then apply it elsewhere",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel, you can sort data in?",
+      "urdu": "ایم ایس ایکسل میں ڈیٹا کو کس ترتیب میں ترتیب دیا جا سکتا ہے؟",
+      "options": [
+        "Ascending order",
+        "Descending order",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The bar at the top of the window that contains the name of Application Software is called?",
+      "urdu": "ونڈو کے اوپر موجود وہ بار جس میں ایپلی کیشن سافٹ ویئر کا نام ہے، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Task bar",
+        "Title bar",
+        "Status bar",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
     }
   ]
 }
