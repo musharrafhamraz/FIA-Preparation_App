@@ -3,10 +3,400 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-09T03:01:06.733584",
+    "fetched_at": "2026-08-09T07:48:27.345906",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which command will you use in PowerPoint if you need to change the color of different objects without changing content?",
+      "urdu": "اگر آپ کو مواد کو تبدیل کیے بغیر مختلف اشیاء کا رنگ تبدیل کرنے کی ضرورت ہو تو آپ پاور پوائنٹ میں کون سی کمانڈ استعمال کریں گے؟",
+      "options": [
+        "Design template",
+        "Color scheme",
+        "Object color",
+        "Font color"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Microsoft PowerPoint, which tab is used to display all slides during a presentation?",
+      "urdu": "مائیکروسافٹ پاورپوائنٹ میں پریزنٹیشن کے دوران تمام سلائیڈز دکھانے کے لیے کون سا ٹیب استعمال ہوتا ہے؟",
+      "options": [
+        "Slide Show",
+        "Insert",
+        "Design",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Through which tab can an object be animated in MS PowerPoint?",
+      "urdu": "ایم ایس پاورپوائنٹ میں کسی آبجیکٹ کو متحرک (اینیمیٹ) کرنے کے لیے کون سا ٹیب استعمال کیا جاتا ہے؟",
+      "options": [
+        "Animations",
+        "Insert",
+        "Design",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "To start a slide show in PowerPoint we press _____?",
+      "urdu": "پاورپوائنٹ میں سلائیڈ شو شروع کرنے کے لیے ہم کونسی کی دبائیں؟",
+      "options": [
+        "F6",
+        "F4",
+        "F5",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If you want to connect two nearby situated buildings then which of the following type of network you will use?",
+      "urdu": "اگر آپ قریب کی دو عمارتوں کو جوڑنا چاہتے ہیں تو آپ مندرجہ ذیل میں سے کون سا نیٹ ورک استعمال کریں گے؟",
+      "options": [
+        "Metropolitan Area Network (MAN)",
+        "Local Area Network (LAN)",
+        "Wide Area Network (WAN)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When we take a print, which option is important?",
+      "urdu": "پرنٹ لیتے وقت کون سا آپشن اہم ہوتا ہے؟",
+      "options": [
+        "Print Command",
+        "Print Preview",
+        "Page Setup",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The view that displays the slides of a presentation as miniature representations (thumbnails) of the slides is called _____?",
+      "urdu": "وہ ویو جس میں پریزنٹیشن کی سلائیڈز چھوٹی شکل میں نظر آتی ہیں، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Slide show",
+        "Outline view",
+        "Slide sorter view",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the maximum Zoom Percentage in MS Word?",
+      "urdu": "ایم ایس ورڈ میں سائززیادہ سے زیادہ کتنے فیصد ہوتا ہے؟",
+      "options": [
+        "400%",
+        "500%",
+        "10%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p align=\"center\" class=\"MsoNormal\" style=\"text-align: center;\"><span \"jameel=\"\" arial=\"\" black\",sans-serif;mso-bidi-font-family:=\"\" er\"=\"\" nastaleeq\";color:white;mso-themecolor:background1;mso-bidi-language:=\"\" noori=\"\" style=\"font-size: 20pt; color: rgb(0, 0, 255); background-color: rgb(255, 255, 255);\"><span style=\"font-family: Helvetica; font-weight: normal;\">Zoom size</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "TCP and IP were invented by ____?",
+      "urdu": "ٹی سی پی اور آئی پی کس نے ایجاد کیے؟",
+      "options": [
+        "Robert G. Kahn",
+        "Vint Cerf",
+        "Both Robert G. Kahn and Vint Cerf",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many ways you can save a document in Microsoft Word?",
+      "urdu": "مائیکروسافٹ ورڈ میں ایک حقیقت کو کتنی حالت سے محفوظ کیا جا سکتا ہے؟",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#0000ff\">A </font><font color=\"#ff0000\">document</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Microsoft Word</font><font color=\"#0000ff\"> can be </font><font color=\"#ff0000\">saved in three</font><font color=\"#0000ff\"> commonly taught ways.</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following data storage media generally has the highest cost per gigabyte (GB) of storage capacity?",
+      "urdu": "درج ذیل میں کس ڈیٹا میڈیا کی فی جی بی تبدیلی لاگت عام طور پر سب سے زیادہ ہوتی ہے؟",
+      "options": [
+        "CD",
+        "HDD",
+        "SSD",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A single page of PowerPoint presentation is called _____?",
+      "urdu": "پاورپوائنٹ پریزنٹیشن کے ایک صفحے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Sheet",
+        "Page",
+        "Slide",
+        "Document"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What the the first page of a website is called?",
+      "urdu": "ویب سائٹ کے پہلے صفحے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "First Page",
+        "New Page",
+        "Screen Page",
+        "Home Page"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Columns in MS Excel are called?",
+      "urdu": "ایم ایس ایکسل میں کالمز کو کس نام سے پکارا یا ظاہر کیا جاتا ہے؟",
+      "options": [
+        "Fields",
+        "Chart",
+        "Both",
+        "Letters"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of the Slide Sorter view in PowerPoint?",
+      "urdu": "پاورپوائنٹ میں سلائیڈ سارٹر ویو کا مقصد کیا ہے؟",
+      "options": [
+        "Rearrange slides in a presentation",
+        "To apply formatting to all slides in a presentation",
+        "Add animations to slides",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A word processor would most likely be used to do?",
+      "urdu": "ورڈ پروسیسر کا استعمال زیادہ تر کس کام کے لیے کیا جاتا ہے؟",
+      "options": [
+        "Maintain an inventory",
+        "Type a biography",
+        "Do a computer search in media center",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, Ctrl + Pageup is used to _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Move the cursor one lineup",
+        "Move the cursor one screen up",
+        "Move the cursor one paragraph up",
+        "Move the cursor one page up"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"\"><span 0,=\"\" 255);=\"\" 255);\"=\"\" 255,=\"\" background-color:=\"\" rgb(0,=\"\" rgb(255,=\"\" style=\"\"><b style=\"\"><span 1rem;=\"\" font-family:=\"\" helvetica;\"=\"\" style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was founder of first mechanical computer?",
+      "urdu": "پہلے مکینیکل کمپیوٹر کے بانی کون تھے؟",
+      "options": [
+        "Charles Babbage",
+        "Alan Turing",
+        "Michal Faraday",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The only difference between memory and storage is _____?",
+      "urdu": "میموری اور اسٹوریج کے درمیان واحد فرق کیا ہے؟",
+      "options": [
+        "Permanent, Temporary",
+        "Temporary, Permanent",
+        "Slow, Fast",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 17-01-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "4 bytes is equal to how many bits?",
+      "urdu": "چار بائٹس کتنے بِٹس کے برابر ہوتے ہیں؟",
+      "options": [
+        "16 bits",
+        "32 bits",
+        "64 bits",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "1 Terabyte (TB) is equal to  how many GB?",
+      "urdu": "ایک ٹیرا بائٹ (ٹی بی) کس کے برابر ہے؟",
+      "options": [
+        "100 GB",
+        "1000 GB",
+        "10000 GB",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why Drop Caps are used in documents in MS Word?",
+      "urdu": "ایم ایس ورڈ میں دستاویزات میں ڈراپ کیپس کیوں استعمال ہوتے ہیں؟",
+      "options": [
+        "To begin a paragraph with a large dropped initial capital letter",
+        "To drop all the capital letters",
+        "To automatically begin each paragraph with capital letter",
+        "None of above"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the correct sequence of data storage units from smallest to largest?",
+      "urdu": "ڈیٹا اسٹوریج یونٹس کو سب سے چھوٹے سے سب سے بڑے تک درست ترتیب میں کون سا آپشن ظاہر کرتا ہے؟",
+      "options": [
+        "B → KB → MB → GB",
+        "GB → MB → KB → B",
+        "KB → B → GB → MB",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the shortcut key for undo/reverse the last action?",
+      "urdu": "آخری عمل کو واپس کرنے کا شارٹ کٹ کیا ہے؟",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + C",
+        "Ctrl + V",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, Ctrl + Y is used for ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Redo",
+        "Paste",
+        "Cut",
+        "Undo"
+      ],
+      "correct": 0,
+      "explanation": "<p dir=\"ltr\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ctrl + B Shortcut key is used in MS Word to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Search the selected text",
+        "Paste the selected text",
+        "Bold the selected text",
+        "Open the specified file"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bold;\"><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"color: rgb(255, 0, 0);\">:</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word, Ctrl + H Shortcut is used for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Open Help Window",
+        "Find and Replace",
+        "Highlight Text",
+        "Insert Hyperlink"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "CTRL + S is the shortcut key for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "New",
+        "Bold",
+        "Save",
+        "Copy"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "CMS in web development stands for?",
+      "urdu": "ویب ڈویلپمنٹ میں سی ایم ایس کا مطلب کیا ہے؟",
+      "options": [
+        "Computer Management System",
+        "Content Management System",
+        "Content Monitoring Service",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is not PowerPoint view(s)? Slide show view, Slide view, Presentation View, Outline view",
+      "urdu": "مندرجہ ذیل میں سے کون سا پاورپوائنٹ ویو(ز) نہیں ہے؟",
+      "options": [
+        "Slide show view",
+        "Slide view",
+        "Presentation View",
+        "Outline view"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">\"</font><font color=\"#ff0000\">Presentation View</font><font color=\"#0000ff\">\" is </font><font color=\"#ff0000\">not</font><font color=\"#0000ff\"> a PowerPoint view.</font></b></span></p>",
+      "category": "all"
+    },
     {
       "q": "Under the principle of Separation of Powers, which core function is strictly kept outside the domain of the Parliament?",
       "urdu": "اختیارات کی علیحدگی کے اصول کے تحت پارلیمنٹ کے دائرۂ اختیار سے کون سا بنیادی کام باہر رکھا جاتا ہے؟",
@@ -265,396 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which school of management thought emerged directly after Frederick Winslow Taylor's Scientific Management approach?",
-      "urdu": "فریڈرک ونسلو ٹیلر کے سائنسی انتظامی طریقہ کار کے فوراً بعد مینجمنٹ کی کون سی سوچ سامنے آئی؟",
-      "options": [
-        "Administrative Management Approach",
-        "Bureaucratic Management Approach",
-        "Human Relations Approach",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Education and training in modern Public Administration are heavily influenced by the systems of which two countries?",
-      "urdu": "جدید پبلک ایڈمنسٹریشن میں تعلیم اور تربیت کن دو ممالک کے نظام سے زیادہ متاثر ہے؟",
-      "options": [
-        "US & British",
-        "France & Germany",
-        "China & Japan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The administrative setup of the civil service in South Asia inherited from British rule is known as a?",
-      "urdu": "جنوبی ایشیا میں برطانوی حکومت سے ورثے میں ملنے والے سول سروس کے انتظامی ڈھانچے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Generalist System",
-        "Colonial System",
-        "Democratic System",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In traditional administrative setups like Pakistan, the civil service structure is predominantly based on which model?",
-      "urdu": "پاکستان جیسے روایتی انتظامی نظام میں سول سروس کا ڈھانچہ زیادہ تر کس ماڈل پر مبنی ہے؟",
-      "options": [
-        "Generalist Model",
-        "Specialist Model",
-        "Entrepreneurial Model",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The movement that introduced private-sector management practices, efficiency, and market competition into the public sector is called?",
-      "urdu": "وہ تحریک کیا کہلاتی ہے جس نے سرکاری شعبے میں نجی شعبے کے انتظامی طریقوں، کارکردگی اور مارکیٹ مقابلے کو متعارف کرایا؟",
-      "options": [
-        "New Public Management (NPM)",
-        "Traditional Public Administration",
-        "New Public Service",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which administrative approach focuses on the interaction between an organization and its surrounding environment?",
-      "urdu": "کون سا انتظامی طریقہ کار کسی ادارے اور اس کے اردگرد کے ماحول کے درمیان باہمی تعلق پر توجہ دیتا ہے؟",
-      "options": [
-        "Classical Approach",
-        "Ecological Approach",
-        "Scientific Management Approach",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The classic debate that separates political decision-making from administrative execution is known as?",
-      "urdu": "سیاسی فیصلہ سازی اور انتظامی عمل درآمد کو الگ کرنے والی کلاسیکی بحث کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Politics-Administration Dichotomy",
-        "Scientific Management",
-        "Bureaucratic Theory",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does POSDCORB stand for?",
-      "urdu": "پی۔او۔ایس۔ڈی۔سی۔او۔آر۔بی کا مطلب کیا ہے؟",
-      "options": [
-        "Planning, Organizing, Supervising, Directing, Coordinating, Reporting, Budgeting",
-        "Planning, Organizing, Staffing, Directing, Controlling, Reporting, Budgeting",
-        "Planning, Organizing, Staffing, Directing, Coordinating, Reporting, Budgeting",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">POSDCORB</font><font color=\"#0000ff\"> is an acronym that stands for:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Public Administration is traditionally considered to be mainly a sub-domain of which discipline?",
-      "urdu": "پبلک ایڈمنسٹریشن کو روایتی طور پر کس مضمون کی ذیلی شاخ سمجھا جاتا ہے؟",
-      "options": [
-        "Sociology",
-        "Economics",
-        "Political Science",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The normal balance of liability account is?",
-      "urdu": "ذمہ داری کا اکاؤنٹ کا عام بیلنس کیا ہوتا ہے؟",
-      "options": [
-        "Credit balance",
-        "Debit balance",
-        "Cash balance",
-        "None of above"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In educational planning, what does the acronym of “SWOT” stand for?",
-      "urdu": "تعلیمی منصوبہ بندی میں، \"ایس۔ڈبلیو۔او۔ٹی\" کا مخفف کیا ہے؟",
-      "options": [
-        "Specialized Work Order Tools",
-        "Strengths Weaknesses Opportunities Threats",
-        "Student Writing and Oral Testing",
-        "Systematic Work Orientation Training"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "PERT stands for?",
-      "urdu": "پی ای آر ٹی سے کیا مراد ہے؟",
-      "options": [
-        "Program Evaluation and Review Technique",
-        "Project Evaluation and Review Technique",
-        "Program Execution and Review Technique",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who advocated bureaucratic theory?",
-      "urdu": "بیوروکریٹک تھیوری کی حمایت کس نے کی؟",
-      "options": [
-        "Campbell",
-        "Herzberg",
-        "Max Weber",
-        "Henry Fayol"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is described as the Father of Public Administration?",
-      "urdu": "پبلک ایڈمنسٹریشن کا بانی کس کو کہا جاتا ہے؟",
-      "options": [
-        "Max Weber",
-        "Woodrow Wilson",
-        "Frederick Taylor",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is known as he father of Civil Service in India?",
-      "urdu": "بھارت میں سول سروس کا بانی کس کو کہا جاتا ہے؟",
-      "options": [
-        "Muhammad Ali Jinnah",
-        "Jawaharlal Nehru",
-        "Charles Cornwallis",
-        "Louis Mountbatten"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A collection of related data is called ____?",
-      "urdu": "متعلقہ ڈیٹا کے مجموعے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Database",
-        "Software",
-        "Hardware",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How can you insert a page break in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں پیج بریک کیسے ڈالا جاتا ہے؟",
-      "options": [
-        "Ctrl + Tab",
-        "Ctrl + Enter",
-        "Ctrl + Alt",
-        "Ctrl + Shift"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following languages is used for webpage development?",
-      "urdu": "ویب پیج ڈیولپمنٹ کے لیے درج ذیل میں سے کون سی زبان استعمال ہوتی ہے؟",
-      "options": [
-        "HTML",
-        "FORTRAN",
-        "C or C++",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A software that can harm your computer is called?",
-      "urdu": "ایسا سافٹ ویئر جو کمپیوٹر کو نقصان پہنچا سکتا ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Virus",
-        "Server",
-        "Extension",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ROM stands for _____?",
-      "urdu": "روم کا مطلب کیا ہے؟",
-      "options": [
-        "Random Only Memory",
-        "Read Only Memory",
-        "Read Only Meaning",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ICT stands for _____?",
-      "urdu": "آئی سی ٹی کا مطلب کیا ہے؟",
-      "options": [
-        "Information and Communication Technology",
-        "International Computer Technology",
-        "Internal Communication Tool",
-        "International Communication Technology"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Header and Footer command are located on the _______ tab in MS Word.",
-      "urdu": "ہیڈر اور فوٹر کمانڈ ایم ایس ورڈ کے کس ٹیب پر واقع ہیں؟",
-      "options": [
-        "Home",
-        "Insert",
-        "View",
-        "Header"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current President of Cuba?",
-      "urdu": "کیوبا کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Raul Castro",
-        "Fidel Castro",
-        "Miguel Diaz",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><img data-filename=\"1000052857.jpg\" src=\"data:image/jpeg;base64,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\" style=\"font-size: 0.875rem; width: 196px;\"/></p>",
-      "category": "all"
-    },
-    {
-      "q": "MS Word is which type of software?",
-      "urdu": "ایم ایس ورڈ کس قسم کا سافٹ ویئر ہے؟",
-      "options": [
-        "Spreadsheet software",
-        "Database software",
-        "Word processor",
-        "Presentation software"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Data is permanently stored in _____?",
-      "urdu": "ڈیٹا مستقل طور پر کہاں محفوظ کیا جاتا ہے؟",
-      "options": [
-        "Cache Memory",
-        "Hard Disk",
-        "RAM",
-        "Buses"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "AND, OR, XOR, NOT, NAND, NOR are which type of gate?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Automatic gate",
-        "Logic gate",
-        "Program gate",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "وہ طویل نظم جس میں کوئی قصہ، کہانی، جھنگ کے حالات یا فلسفے کی کوئی لمبی چوڑی بات بیان کی گئی ہو۔ اس نظم کو کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مثنوی",
-        "داستان",
-        "مرثیہ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">مثنوی</font><font color=\"#0000ff\"> ایک طویل نظم ہوتی ہے جس میں کوئی </font><font color=\"#ff0000\">قصہ، عشق، تصوف یا فلسفہ نظم </font><font color=\"#0000ff\">کی صورت میں بیان کیا جاتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "غزل کا آخری شعر جس میں شاعر اپنا تخلص بیان کرتا ہے، اسے کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مطلع",
-        "مقطع",
-        "دونوں",
-        "ان میں سے کوئی بھی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Every worker _____ on duty.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Were",
-        "Are",
-        "Was",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fidel Castro was the President of which country?",
-      "urdu": "فیڈل کاسترو کس ملک کے صدر تھے؟",
-      "options": [
-        "Cuba",
-        "Spain",
-        "France",
-        "Canada"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</b></font></p>",
       "category": "all"
     }
   ]
