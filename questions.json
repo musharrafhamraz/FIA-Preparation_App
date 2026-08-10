@@ -3,10 +3,140 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-09T19:23:39.283592",
+    "fetched_at": "2026-08-10T03:10:11.427516",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which sign is used to create an absolute cell reference in MS Excel?",
+      "urdu": "ایم ایس ایکسل میں ایک مطلق سیل ریفرنس بنانے کے لیے کون سا نشان استعمال کیا جاتا ہے؟",
+      "options": [
+        "@",
+        "=",
+        "$",
+        "%"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "We can remove / hide border of a shape by selecting?",
+      "urdu": "ہم منتخب کرکے کسی شکل کی سرحد کو ہٹا سکتے ہیں / چھپا سکتے ہیں؟",
+      "options": [
+        "No Outline",
+        "No Line",
+        "White Line",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A vacuum tube is also known as electronic valve because?",
+      "urdu": "ویکیوم ٹیوب کو الیکٹرانک والو کیوں کہا جاتا ہے؟",
+      "options": [
+        "It conducts only in one direction",
+        "It is number of electrodes",
+        "It carries electrons",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of a web browser?",
+      "urdu": "ویب براؤزر کا کام کیا ہے؟",
+      "options": [
+        "Manage operating system updates",
+        "View and interact with web content",
+        "Encrypt system files",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How do you change column width to fit the contents?",
+      "urdu": "مواد کو فٹ کرنے کے لیے آپ کالم کی چوڑائی کو کیسے تبدیل کرتے ہیں؟",
+      "options": [
+        "Double-click the boundary to the right of the column heading",
+        "Single-click to the boundary to the left of the column heading",
+        "Press ALT and single-click anywhere in the column",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which formula is used to calculate the sum of cells A1 through A10 in a spreadsheet?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "=SUM(A1:A10)",
+        "=ADD(A1:A10)",
+        "=TOTAL(A1:A10)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Charles Babbage computer was called?",
+      "urdu": "چارلس بیبیج کے کمپیوٹر کو کیا کہا جاتا تھا؟",
+      "options": [
+        "Abacus",
+        "Super Computer",
+        "Analytical Engine",
+        "Processing Machine"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A computer program that translates one program instructions at a time into machine language is called?",
+      "urdu": "وہ کمپیوٹر پروگرام جو پروگرام کی ہدایات کو ایک وقت میں ایک ہدایت مشینی زبان میں تبدیل کرتا ہے، کیا کہلاتا ہے؟",
+      "options": [
+        "Interpreter",
+        "Compiler",
+        "CPU",
+        "Interpreter"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The thin black cross-shaped pointer in MS Excel is used to _____?",
+      "urdu": "ایم ایس ایکسل میں پتلی کراس نما پوائنٹر کس کام کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Move a group of cells",
+        "Highlight duplicate cells",
+        "Complete lists and fill patterns",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is used for arranging data in ascending/descending order in MS Excel?",
+      "urdu": "ایم ایس ایکسل میں ڈیٹا کو صعودی یا نزولی ترتیب میں لگانے کے لیے کیا استعمال کیا جاتا ہے؟",
+      "options": [
+        "Data, order",
+        "Data, sort",
+        "Data, all",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 10-08-2026</font></span></b></p>",
+      "category": "all"
+    },
     {
       "q": "کون سے الفاظ ہندوی/ ہندی زبان میں زیادہ استعمال ہوتے ہیں؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -525,136 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "1 billion bytes is equal to?",
-      "urdu": "ایک ارب بائٹس کتنے کے برابر ہوتے ہیں؟",
-      "options": [
-        "1 Megabyte",
-        "1 Gigabyte (GB)",
-        "1 Terabyte",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "GUI stands for ______?",
-      "urdu": "جی آئ یو کا مطلب کیا ہے؟",
-      "options": [
-        "Graphical Use Interface",
-        "Graphical User Interface",
-        "Graphic User Interface",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key for searching a file in MS Word 2016?",
-      "urdu": "ایم ایس ورڈ 2016 میں کسی فائل/متن کو تلاش کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl + F",
-        "Ctrl + S",
-        "Ctrl + O",
-        "Ctrl + H"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Office a feature that saves the document automatically after certain intervals is called?",
-      "urdu": "ایم ایس آفس میں وہ خصوصیت جو مخصوص وقفوں کے بعد دستاویز کو خودکار طور پر محفوظ کرتی ہے، اسے کیا کہتے ہیں؟",
-      "options": [
-        "Save",
-        "Save As",
-        "Auto Save",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the purpose of AutoCorrect originally?",
-      "urdu": "آٹو کریکٹ کا مقصد کیا تھا؟",
-      "options": [
-        "To replace repetitive words",
-        "To replace grammatically incorrect words",
-        "To replace missspellings",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mail merge is used to?",
-      "urdu": "میل مرج کس کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Combine multiple documents together",
-        "Send emails to multiple recipients",
-        "Merge data into a template document",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, \"Ctrl + PageDown\" is used to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Moves the cursor one Line Down",
-        "Moves the cursor one Paragraph Down",
-        "Moves the cursor one Page Down",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the purpose of the Format Painter?",
-      "urdu": "فارمیٹ پینٹر کا مقصد کیا ہے؟",
-      "options": [
-        "To change the background color of your slides",
-        "To paint pretty pictures on your slides",
-        "To copy formatting from one object or piece of text and then apply it elsewhere",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, you can sort data in?",
-      "urdu": "ایم ایس ایکسل میں ڈیٹا کو کس ترتیب میں ترتیب دیا جا سکتا ہے؟",
-      "options": [
-        "Ascending order",
-        "Descending order",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The bar at the top of the window that contains the name of Application Software is called?",
-      "urdu": "ونڈو کے اوپر موجود وہ بار جس میں ایپلی کیشن سافٹ ویئر کا نام ہے، اسے کیا کہتے ہیں؟",
-      "options": [
-        "Task bar",
-        "Title bar",
-        "Status bar",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     }
   ]
