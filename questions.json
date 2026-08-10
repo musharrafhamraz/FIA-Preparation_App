@@ -3,10 +3,140 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-10T03:10:11.427516",
+    "fetched_at": "2026-08-10T08:23:03.250677",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Programs designed to perform specific task is known as?",
+      "urdu": "مخصوص کام انجام دینے کے لیے تیار کیے گئے پروگراموں کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Operating system",
+        "System software",
+        "Application software",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the best definition of topology in networking?",
+      "urdu": "نیٹ ورکنگ میں ٹاپولوجی کی بہترین تعریف کیا ہے؟",
+      "options": [
+        "The physical layout of connected devices",
+        "The speed of the network",
+        "The type of cables used",
+        "The software used for network management"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The language that the computer can understand and execute is called ____?",
+      "urdu": "وہ زبان جسے کمپیوٹر سمجھ اور چلا سکتا ہے ____ کہلاتی ہے؟",
+      "options": [
+        "Machine language",
+        "Application software",
+        "System program",
+        "All of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which programming languages are classified as low level languages?",
+      "urdu": "کون سی پروگرامنگ زبان کم درجے کی زبان شمار ہوتی ہے؟",
+      "options": [
+        "Assembly languages",
+        "BASIC, COBOL, Fortran",
+        "C, C++",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which shortcut key is used to restart the computer?",
+      "urdu": "کمپیوٹر کو دوبارہ شروع کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl + F4",
+        "Ctrl + Alt + Delete",
+        "Alt + F6",
+        "None of above"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is not software? Operating System, Keyboard, Drivers, Word Processor",
+      "urdu": "مندرجہ ذیل میں سے کون سا سافٹ ویئر نہیں ہے؟",
+      "options": [
+        "Operating System",
+        "Keyboard",
+        "Drivers",
+        "Word Processor"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How much data can a single layer, single sided DVD can store?",
+      "urdu": "ایک پرت، سنگل سائیڈ ڈی وی ڈی کتنا ڈیٹا اسٹور کر سکتی ہے؟",
+      "options": [
+        "34.7 GB",
+        "24.7 GB",
+        "4.7 GB",
+        "14.7 GB"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 10-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select an option of a user interface that is more user-friendly than the other provided options?",
+      "urdu": "درج ذیل میں سے کون سا یوزر انٹرفیس زیادہ صارف دوست ہے؟",
+      "options": [
+        "GUI",
+        "MS DOS",
+        "Apple DOS",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which provides process and memory management services that allow two or more tasks, jobs, or programs to run simultaneously?",
+      "urdu": "کون سی سہولت دو یا دو سے زیادہ ٹاسک، جابز یا پروگرامز کو بیک وقت اجازت کی اجازت ہے؟",
+      "options": [
+        "Multi-computing",
+        "Multi-processing",
+        "Multi-tasking",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The files deleted from the computer are stored in _____?",
+      "urdu": "کمپیوٹر سے حذف کی گئی فائلیں کہاں محفوظ ہوتی ہیں؟",
+      "options": [
+        "Recycle bin",
+        "Hard disk",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which sign is used to create an absolute cell reference in MS Excel?",
       "urdu": "ایم ایس ایکسل میں ایک مطلق سیل ریفرنس بنانے کے لیے کون سا نشان استعمال کیا جاتا ہے؟",
@@ -525,136 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Chromatography is used for _____?",
-      "urdu": "کرومیٹوگرافی کس مقصد کے لیے استعمال ہوتی ہے؟",
-      "options": [
-        "Examining whether there is poison in the blood of a deceased person",
-        "Testing whether a person has a disease",
-        "Identifying poisons",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is an example of spreadsheet software?",
-      "urdu": "اسپریڈشیٹ سافٹ ویئر کی کون سی مثال ہے؟",
-      "options": [
-        "MS Word",
-        "MS Excel",
-        "MS PowerPoint",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is malware software?",
-      "urdu": "میلویئر سافٹ ویئر کیا ہے؟",
-      "options": [
-        "A type of software designed to improve computer performance",
-        "Software that protects against viruses and threats",
-        "Malicious software designed to harm or exploit systems",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The title “Quaid-e-Millat” refers to which Pakistani politician?",
-      "urdu": "قائدِ ملت کس سیاستدان کا لقب ہے؟",
-      "options": [
-        "Liaquat Ali Khan",
-        "Muhammad Ali Jinnah",
-        "Zulfikar Ali Bhutto",
-        "Allama Iqbal"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the SEATO Treaty signed?",
-      "urdu": "سیٹو معاہدہ کب دستخط کیا گیا؟",
-      "options": [
-        "8th September 1954",
-        "10th September 1954",
-        "15th September 1954",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The intersection of columns and rows in called a?",
-      "urdu": "کالم اور قطار کے ملنے کی جگہ کو کیا کہتے ہیں؟",
-      "options": [
-        "Schema",
-        "Cell",
-        "Table",
-        "Data"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 09-08-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The driest and windiest continent in the world is?",
-      "urdu": "دنیا کا سب سے خشک اور ہوا والا براعظم کون سا ہے؟",
-      "options": [
-        "Antarctica",
-        "Australia",
-        "Africa",
-        "South America"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the uncle of Prophet Muhammad (PBUH) who was also his foster brother?",
-      "urdu": "نبی کریم ﷺ کے چچا جنہوں نے رضاعی بھائی بھی تھے کون تھے؟",
-      "options": [
-        "Hazrat Hamza (RA)",
-        "Hazrat Ali (RA)",
-        "Hazrat Saad bin Muadh (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"arial, sans-serif\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, Ctrl + I shortcut key used for?",
-      "urdu": "کنڑول آئی کی شارٹ کی سے کیا ہوتا ہے؟",
-      "options": [
-        "Underline",
-        "Italic",
-        "Bold",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"segoe=\"\" 15px;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" font-size:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\";=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"color: rgb(0, 0, 255); font-weight: bolder;\">:</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which memory type is fastest and is typically located inside the CPU?",
-      "urdu": "کون سی میموری سب سے تیز ہوتی ہے اور عام طور پر سی پی یو کے اندر موجود ہوتی ہے؟",
-      "options": [
-        "Main Memory",
-        "SRAM",
-        "Cache Memory",
-        "DRAM"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
       "category": "all"
     }
   ]
