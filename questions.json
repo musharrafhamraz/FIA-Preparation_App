@@ -3,10 +3,634 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-10T08:23:03.250677",
+    "fetched_at": "2026-08-10T14:17:41.340699",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Forests are only _____ of the total area of Pakistan.",
+      "urdu": "پاکستان کے کل رقبے کا صرف تقریباً کتنے فیصد حصہ جنگلات پر مشتمل ہے؟",
+      "options": [
+        "6.3%",
+        "8.4%",
+        "3.6%",
+        "4.8%"
+      ],
+      "correct": 3,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom “A watched pot never boils” means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Time seems to pass slowly when you are waiting",
+        "Food takes a long time to cook",
+        "Cooking requires patience",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the President of the Indian National Congress (INC) in 1942?",
+      "urdu": "سن 1942ء میں انڈین نیشنل کانگریس کے صدر کون تھے؟",
+      "options": [
+        "Maulana Abul Kalam Azad",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did Pakistan join SEATO?",
+      "urdu": "پاکستان سیٹو میں کب شامل ہوا؟",
+      "options": [
+        "1966",
+        "1955",
+        "1954",
+        "1999"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "MS PowerPoint is used for _______?",
+      "urdu": "ایم ایس پاورپوائنٹ کس کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Presentation",
+        "Drafting",
+        "Worksheet",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bold; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following holds data and processing instructions temporarily until the CPU needs it?",
+      "urdu": "مندرجہ ذیل میں سے کون ڈیٹا اور پروسیسنگ ہدایات کو عارضی طور پر رکھتا ہے جب تک کہ سی پی یو کو اس کی ضرورت نہ ہو؟",
+      "options": [
+        "Main memory",
+        "ROM",
+        "Control unit",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following computer language is written in binary codes only?",
+      "urdu": "مندرجہ ذیل میں سے کون سی کمپیوٹر زبان صرف بائنری کوڈز میں لکھی جاتی ہے؟",
+      "options": [
+        "FORTRAN",
+        "PASCAL",
+        "C Language",
+        "Machine Language"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "MS Excel's _____ function allows you to add the numbers in multiple cells.",
+      "urdu": "ایم ایس ایکسل کا کون سا فنکشن متعدد سیلز میں موجود نمبروں کو جمع کرنے کی اجازت ہے؟",
+      "options": [
+        "MAX",
+        "SUM",
+        "MIN",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Compiler is the ______?",
+      "urdu": "کمپائلر کیا ہے؟",
+      "options": [
+        "Name given to the computer operator",
+        "Translator of source program to object / Translator of high-level program to machine",
+        "Part of the digital machine to store the information",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an example of a cloud storage service? Skype, Dropbox, Internet Explorer, Mozilla Firefox",
+      "urdu": "مندرجہ ذیل میں سے کلاؤڈ اسٹوریج سروس کی مثال کون سی ہے؟",
+      "options": [
+        "Skype",
+        "Dropbox",
+        "Internet Explorer",
+        "Mozilla Firefox"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 06-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Microsoft Word shortcut key CTRL+P is used for ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Close the current window",
+        "Open the print dialog box",
+        "Update the current webpage",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">:</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ctrl + V shortcut is used in Microsoft Word to ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Copy text or an object",
+        "Cut text or an object",
+        "Paste text or an object from the clipboard",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The shortcut key Ctrl + C in MS Word is used for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Copy command",
+        "Cut command",
+        "Paste command",
+        "Bold command"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "By default we can save the file in ______?",
+      "urdu": "بطور ڈیفالٹ ہم فائل کو محفوظ کر سکتے ہیں؟",
+      "options": [
+        "Desktop",
+        "My document",
+        "My computer",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a graphical representation of data?",
+      "urdu": "مندرجہ ذیل میں سے کون سا ڈیٹا کی گرافیکل نمائندگی ہے؟",
+      "options": [
+        "Chart",
+        "Spreadsheet",
+        "Database",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is Labeling?",
+      "urdu": "لیبل لگانا کیا ہے؟",
+      "options": [
+        "Giving a name or description to something",
+        "Deleting information from a document",
+        "Formatting a computer",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A physical connection between the microprocessor memory and other parts of the microcomputer is known as?",
+      "urdu": "مائیکرو پروسیسر، میموری اور مائیکرو کمپیوٹر کے دوسرے حصے کے درمیان جسمانی تعلق کو کیا کہتے ہیں؟",
+      "options": [
+        "Path",
+        "Address bus",
+        "Route",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "____ includes the selected text in the index of document.",
+      "urdu": "کون سا اختیار منتخب شدہ متن کو دستاویز کے انڈیکس میں شامل کرتا ہے؟",
+      "options": [
+        "Table",
+        "Mark Entry",
+        "Table",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is RAM located?",
+      "urdu": "ریم کہاں واقع ہے؟",
+      "options": [
+        "External drive",
+        "Motherboard",
+        "Expansion board",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of the “Compare” feature in Microsoft Word?",
+      "urdu": "مائیکروسافٹ ورڈ میں \"موازنہ\" فیچر کا مقصد کیا ہے؟",
+      "options": [
+        "To create a new document",
+        "To compare two documents for differences",
+        "To format a document",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of following shortcut keys is used to change the case in MS Word?",
+      "urdu": "مندرجہ ذیل میں سے کون سی شارٹ کٹ کیز ایم ایس ورڈ میں کیس کو تبدیل کرنے کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl+ F3",
+        "Shift + F3",
+        "Ctrl + F1",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following functions is used to calculate the average of a range of cells in Excel?",
+      "urdu": "درج ذیل میں سے کون سا فنکشن ایکسل میں سیلز کی رینج کی اوسط کا حساب لگانے کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "AVERAGE",
+        "SUM",
+        "COUNT",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">To calculate the average in Excel, you can use the </font><font color=\"#ff0000\">AVERAGE</font><font color=\"#0000ff\"> function: </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The purpose of a device driver is ______?",
+      "urdu": "ڈیوائس ڈرائیور کا مقصد کیا ہے؟",
+      "options": [
+        "To increase the speed of a computer",
+        "To allow hardware components to communicate with the operating system",
+        "To store more data in RAM",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of Insert >> Picture >> Clip Art?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To insert text in a document",
+        "To insert a table in a document",
+        "To insert clip art in a document",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The third phase of the Azad Jammu & Kashmir elections 2026 is being held in which division?",
+      "urdu": "آزاد جموں و کشمیر انتخابات 2026 کا تیسرا مرحلہ کس ڈویژن میں منعقد ہو رہا ہے؟",
+      "options": [
+        "Muzaffarabad Division",
+        "Poonch Division",
+        "Mirpur Division",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Azad Jammu &amp; Kashmir</font><font color=\"#0000ff\"> elections will be held in in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">three </font><font color=\"#0000ff\">phases.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Ukrainian drone attack targeted industrial and energy infrastructure in which Russian region on 10 August 2026?",
+      "urdu": "دس اگست 2026 کو یوکرینی ڈرون حملے نے روس کے کس خطے میں صنعتی اور توانائی کے بنیادی ڈھانچے کو نشانہ بنایا؟",
+      "options": [
+        "Tatarstan",
+        "Dagestan",
+        "Chechnya",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span class=\"msoIns\" style=\"color: rgb(0, 0, 255);\"> </span><span lang=\"EN-US\"><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">Ukraine </span><font color=\"#0000ff\">launched a major long-range drone attack targeting industrial and energy facilities in </font><font color=\"#ff0000\">Russia</font><font color=\"#0000ff\">'s central Tatarstan region, specifically hitting the city of Nizhnekamsk.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which function in Excel tells how many numeric entries are there?",
+      "urdu": "ایکسل میں کون سا فنکشن یہ بتاتا ہے کہ عددی اندراجات موجود ہیں؟",
+      "options": [
+        "NUM",
+        "COUNT",
+        "SUM",
+        "CHKNUM"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoListParagraph\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country launched a major drone attack on Russia's Tatarstan region on 10 August 2026?",
+      "urdu": "کس ملک نے 10 اگست 2026 کو روس کے علاقے تاتارستان پر ڈرون کا بڑا حملہ کیا؟",
+      "options": [
+        "Poland",
+        "Ukraine",
+        "Belarus",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><span class=\"msoIns\" style=\"color: rgb(0, 0, 255);\"> </span><span lang=\"EN-US\" style=\"\"><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">Ukraine </span><font color=\"#0000ff\">launched a major long-range drone attack targeting\r\nindustrial and energy facilities in </font><font color=\"#ff0000\">Russia</font><font color=\"#0000ff\">'s central Tatarstan region,\r\nspecifically hitting the city of Nizhnekamsk. <o:p></o:p></font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel = Now () is used ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To show current date",
+        "To show current time",
+        "To show current date and time",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p dir=\"ltr\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></b>:<br/>\n</p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan became the founding member of which of the following agreements in 2026?",
+      "urdu": "پاکستان 2026 میں درج ذیل میں سے کس معاہدے کا بانی رکن بنا؟",
+      "options": [
+        "Treaty of Jeddah",
+        "Riyadh Design Law Treaty",
+        "Makkah Joint Defence Agreement",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Trial is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Test",
+        "Success",
+        "Reward",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was the Makkah Joint Defence Agreement signed between Turkiye, Saudi & Pakistan in 2026?",
+      "urdu": "دو ہزار چھبیس میں ترکی، سعودی عرب اور پاکستان کے درمیان مکہ مشترکہ دفاعی معاہدہ کہاں دستخط کیا گیا تھا؟",
+      "options": [
+        "Madina, Saudi Arabia",
+        "Makkah, Saudi Arabia",
+        "Ankara, Turkiye",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the Makkah Joint Defence Agreement signed between Turkiye, Saudi & Pakistan in 2026?",
+      "urdu": "ترکی، سعودی عرب اور پاکستان کے درمیان مکہ مشترکہ دفاعی معاہدہ 2026 میں کب طے پایا؟",
+      "options": [
+        "10 August 2026",
+        "7 August 2026",
+        "2 August 2026",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Diligence is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hard work",
+        "Carelessness",
+        "Negligence",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which three countries signed  Makkah Joint Defence Agreement 2026?",
+      "urdu": "کن تین ممالک نے مکہ مشترکہ دفاعی معاہدہ 2026 پر دستخط کیے؟",
+      "options": [
+        "Pakistan, Saudi Arabia and Türkiye",
+        "Pakistan, Saudi Arabia and Azerbaijan",
+        "Pakistan, Saudi Arabia and Egypt",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which three countries are signatories to the Makkah Joint Defence Agreement 2026?",
+      "urdu": "مکہ مشترکہ دفاعی معاہدہ 2026 پر کن تین ممالک نے دستخط کیے ہیں؟",
+      "options": [
+        "Iran, Saudi Arabia, and Pakistan",
+        "Pakistan, UAE, and Türkiye",
+        "Pakistan, Saudi Arabia, and Türkiye",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many countries became founding members of Makkah Joint Defence Agreement 2026?",
+      "urdu": "کتنے ممالک ’مکہ مشترکہ دفاعی معاہدہ 2026‘ کے بانی رکن بنے؟",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is primary purpose of Makkah Joint Defence Agreement 2026 bewteen Pakistan, Saudi & Turkiye?",
+      "urdu": "پاکستان، سعودی عرب اور ترکی کے درمیان 'مکہ مشترکہ دفاعی معاہدہ 2026' کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Trade agreement",
+        "Nuclear energy agreement",
+        "Security agreement",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the central principle Makkah Joint Defence Agreement 2026 bewteen Pakistan, Saudi & Turkiye?",
+      "urdu": "پاکستان، سعودی عرب اور ترکی کے درمیان 'مکہ مشترکہ دفاعی معاہدہ 2026' کا بنیادی اصول کیا ہے؟",
+      "options": [
+        "One currency for the three countries",
+        "Joint oil production for the three countries",
+        "An attack on one is regarded as an attack on all",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which month and year was Makkah Joint Defence Agreement bewteen Pakistan, Saudi & Turkiye?",
+      "urdu": "پاکستان، سعودی عرب اور ترکی کے درمیان ’مکہ مشترکہ دفاعی معاہدہ‘ کس مہینے اور سال میں ہوا؟",
+      "options": [
+        "June 2026",
+        "July 2026",
+        "August 2026",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is NOT a founding member of Makkah Joint Defence Agreement signed in August 2026?",
+      "urdu": "مندرجہ ذیل میں سے کون اگست 2026 میں طے پانے والے ’مکہ مشترکہ دفاعی معاہدے‘ کا بانی رکن نہیں ہے؟",
+      "options": [
+        "Saudi Arabia",
+        "Turkiye",
+        "Iran",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the “Pivot Table” tool primarily allow users to do?",
+      "urdu": "بنیادی طور پر صارفین کو \"پوٹ ٹیبل\" ٹول کیا کرنے دیتا ہے؟",
+      "options": [
+        "Generate new worksheets",
+        "Create graphs from data",
+        "Summarize and analyze data",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is Cloud Computing?",
+      "urdu": "کلاؤڈ کمپیوٹنگ کیا ہے؟",
+      "options": [
+        "Storing and accessing data and services over the Internet",
+        "Using only physical storage devices",
+        "A method of repairing computer hardware",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Facebook and Instagram are examples of ______?",
+      "urdu": "فیس بک اور انسٹاگرام کس کی مثالیں ہیں؟",
+      "options": [
+        "Search engines",
+        "Social media networks",
+        "E-commerce platforms",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which part of computer execution of instructions done?",
+      "urdu": "آپریشنز کے دوران آپ کو ہدایات پر عمل درآمد کیا گیا ہے؟",
+      "options": [
+        "Control Unit",
+        "Main Memory",
+        "ALU",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A collection of system programs that controls and co-ordinates the overall operations of a computer system is called _______ ?",
+      "urdu": "سسٹم پروگرامز کا وہ مجموعہ جو کمپیوٹر کے مجموعی کاموں کو کنٹرول اور مربوط کرتا ہے، کیا کہلاتا ہے؟",
+      "options": [
+        "System software",
+        "Operating system",
+        "Utility program",
+        "Device driver"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "کافور ہو جانا۔ گرائمر کی رو سے ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "محاورہ",
+        "ضرب المثل",
+        "روز مره",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "اپنے منہ میاں مٹھو بننا کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "کہاوت",
+        "محاورہ",
+        "ضرب المثل",
+        "اسم معرفہ"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">اپنے</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">منہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">میاں مٹھو بننا</font><font color=\"#0000ff\"> اردو زبان کا ایک مشہور </font><font color=\"#ff0000\">محاورہ</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Programs designed to perform specific task is known as?",
       "urdu": "مخصوص کام انجام دینے کے لیے تیار کیے گئے پروگراموں کو کیا کہا جاتا ہے؟",
@@ -31,630 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The language that the computer can understand and execute is called ____?",
-      "urdu": "وہ زبان جسے کمپیوٹر سمجھ اور چلا سکتا ہے ____ کہلاتی ہے؟",
-      "options": [
-        "Machine language",
-        "Application software",
-        "System program",
-        "All of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which programming languages are classified as low level languages?",
-      "urdu": "کون سی پروگرامنگ زبان کم درجے کی زبان شمار ہوتی ہے؟",
-      "options": [
-        "Assembly languages",
-        "BASIC, COBOL, Fortran",
-        "C, C++",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to restart the computer?",
-      "urdu": "کمپیوٹر کو دوبارہ شروع کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl + F4",
-        "Ctrl + Alt + Delete",
-        "Alt + F6",
-        "None of above"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is not software? Operating System, Keyboard, Drivers, Word Processor",
-      "urdu": "مندرجہ ذیل میں سے کون سا سافٹ ویئر نہیں ہے؟",
-      "options": [
-        "Operating System",
-        "Keyboard",
-        "Drivers",
-        "Word Processor"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How much data can a single layer, single sided DVD can store?",
-      "urdu": "ایک پرت، سنگل سائیڈ ڈی وی ڈی کتنا ڈیٹا اسٹور کر سکتی ہے؟",
-      "options": [
-        "34.7 GB",
-        "24.7 GB",
-        "4.7 GB",
-        "14.7 GB"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 10-08-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Select an option of a user interface that is more user-friendly than the other provided options?",
-      "urdu": "درج ذیل میں سے کون سا یوزر انٹرفیس زیادہ صارف دوست ہے؟",
-      "options": [
-        "GUI",
-        "MS DOS",
-        "Apple DOS",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which provides process and memory management services that allow two or more tasks, jobs, or programs to run simultaneously?",
-      "urdu": "کون سی سہولت دو یا دو سے زیادہ ٹاسک، جابز یا پروگرامز کو بیک وقت اجازت کی اجازت ہے؟",
-      "options": [
-        "Multi-computing",
-        "Multi-processing",
-        "Multi-tasking",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The files deleted from the computer are stored in _____?",
-      "urdu": "کمپیوٹر سے حذف کی گئی فائلیں کہاں محفوظ ہوتی ہیں؟",
-      "options": [
-        "Recycle bin",
-        "Hard disk",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sign is used to create an absolute cell reference in MS Excel?",
-      "urdu": "ایم ایس ایکسل میں ایک مطلق سیل ریفرنس بنانے کے لیے کون سا نشان استعمال کیا جاتا ہے؟",
-      "options": [
-        "@",
-        "=",
-        "$",
-        "%"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "We can remove / hide border of a shape by selecting?",
-      "urdu": "ہم منتخب کرکے کسی شکل کی سرحد کو ہٹا سکتے ہیں / چھپا سکتے ہیں؟",
-      "options": [
-        "No Outline",
-        "No Line",
-        "White Line",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A vacuum tube is also known as electronic valve because?",
-      "urdu": "ویکیوم ٹیوب کو الیکٹرانک والو کیوں کہا جاتا ہے؟",
-      "options": [
-        "It conducts only in one direction",
-        "It is number of electrodes",
-        "It carries electrons",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of a web browser?",
-      "urdu": "ویب براؤزر کا کام کیا ہے؟",
-      "options": [
-        "Manage operating system updates",
-        "View and interact with web content",
-        "Encrypt system files",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How do you change column width to fit the contents?",
-      "urdu": "مواد کو فٹ کرنے کے لیے آپ کالم کی چوڑائی کو کیسے تبدیل کرتے ہیں؟",
-      "options": [
-        "Double-click the boundary to the right of the column heading",
-        "Single-click to the boundary to the left of the column heading",
-        "Press ALT and single-click anywhere in the column",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which formula is used to calculate the sum of cells A1 through A10 in a spreadsheet?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "=SUM(A1:A10)",
-        "=ADD(A1:A10)",
-        "=TOTAL(A1:A10)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Charles Babbage computer was called?",
-      "urdu": "چارلس بیبیج کے کمپیوٹر کو کیا کہا جاتا تھا؟",
-      "options": [
-        "Abacus",
-        "Super Computer",
-        "Analytical Engine",
-        "Processing Machine"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A computer program that translates one program instructions at a time into machine language is called?",
-      "urdu": "وہ کمپیوٹر پروگرام جو پروگرام کی ہدایات کو ایک وقت میں ایک ہدایت مشینی زبان میں تبدیل کرتا ہے، کیا کہلاتا ہے؟",
-      "options": [
-        "Interpreter",
-        "Compiler",
-        "CPU",
-        "Interpreter"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The thin black cross-shaped pointer in MS Excel is used to _____?",
-      "urdu": "ایم ایس ایکسل میں پتلی کراس نما پوائنٹر کس کام کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Move a group of cells",
-        "Highlight duplicate cells",
-        "Complete lists and fill patterns",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is used for arranging data in ascending/descending order in MS Excel?",
-      "urdu": "ایم ایس ایکسل میں ڈیٹا کو صعودی یا نزولی ترتیب میں لگانے کے لیے کیا استعمال کیا جاتا ہے؟",
-      "options": [
-        "Data, order",
-        "Data, sort",
-        "Data, all",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 10-08-2026</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "کون سے الفاظ ہندوی/ ہندی زبان میں زیادہ استعمال ہوتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "بھ، ٹھ، پھ وغیرہ والے الفاظ",
-        "ظ، ض، ص وغیرہ والے الفاظ",
-        "ث، ذ، ح وغیرہ والے الفاظ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "مقطعات کس لیے استعمال ہوتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "نماز کے ارکان کے لیے",
-        "احادیث کی اقسام کے لیے",
-        "قرآنِ مجید کی بعض سورتوں کے آغاز میں بطور حروفِ مقطعات",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "حروفِ حقیقی اور حروفِ علت کیا ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حروفِ تہجی کی اقسام",
-        "حروفِ جار کی اقسام",
-        "حروفِ عطف کی اقسام",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "وہ فعل جس کا فاعل معلوم ہو۔ وہ کیا کہلاتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "فعل مجهول",
-        "فعل  معروف",
-        "فعل متعدی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"text-align: right; \"><b style=\"\"><font color=\"#0000ff\">ایسا فعل جس کا فاعل معلوم ہو</font><font color=\"#ff0000\"> اسے فعل معروف کہا جاتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Area wise second largest province of Pakistan is?",
-      "urdu": "رقبے کے لحاظ سے پاکستان کا دوسرا سب سے بڑا صوبہ کون سا ہے؟",
-      "options": [
-        "Baluchistan",
-        "Punjab",
-        "Sindh",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff00ff\">Largest Provinces of Pakistan by Area</font><font color=\"#0000ff\">:</font></b><ol><li><font color=\"#0000ff\"><b>Balochistan — 347,190 km²</b></font></li><li><b style=\"\"><font color=\"#ff0000\">Punjab — 205,345 km²</font></b></li><li><font color=\"#0000ff\"><b>Sindh — 140,914 km²</b></font></li><li><b style=\"\"><font color=\"#ff0000\">Khyber Pakhtunkhwa (KP) — 101,741 km²</font></b></li></ol><div><b style=\"\"><font color=\"#ff0000\">Largest</font><font color=\"#0000ff\"> Province by Area: </font><font color=\"#ff0000\">Balochistan</font></b></div><div><b style=\"\"><font color=\"#ff0000\">Smallest</font><font color=\"#0000ff\"> Province by Area: </font><font color=\"#ff0000\">Khyber Pakhtunkhwa (KP)</font></b></div><div><b style=\"\"><font color=\"#ff0000\"><br/></font></b></div><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></div></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the southern area of Pakistan, there is a mountain range called?",
-      "urdu": "پاکستان کے جنوب میں کون سا سلسلہ ہے؟",
-      "options": [
-        "Karakorum",
-        "Kirther",
-        "Himalayas",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When the Palestine Liberation Organization (PLO) was established?",
-      "urdu": "فلسطین لبریشن آرگنائزیشن کی بنیاد رکھی گئی",
-      "options": [
-        "1970",
-        "1960",
-        "1964",
-        "1968"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many articles were there in the 1962 Constitution?",
-      "urdu": "سن 1962 کے آئین میں کتنے آرٹیکلز تھے؟",
-      "options": [
-        "250",
-        "234",
-        "280",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"line-height: 21px;\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel formula and function start with ____?",
-      "urdu": "ایم ایس ایکسل میں فارمولا اور فنکشن کس علامت سے شروع ہوتے ہیں؟",
-      "options": [
-        "+",
-        "-",
-        "=",
-        "["
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Al Jazeera TV channel belongs to which country?",
-      "urdu": "الجزیرہ ٹی وی چینل کس ملک سے تعلق رکھتا ہے؟",
-      "options": [
-        "Pakistan",
-        "Iran",
-        "Syria",
-        "Qatar"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why was the traditional Pakistan Day military parade, scheduled for March 23, 2026, officially cancelled by the government?",
-      "urdu": "تئیس مارچ 2026 کو روایتی یومِ پاکستان فوجی پریڈ کیوں منسوخ کی گئی؟",
-      "options": [
-        "Fuel crisis and austerity measures",
-        "Political instability",
-        "Severe weather conditions",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following countries hosted the 2026 Winter Olympics?",
-      "urdu": "سن 2026 کے سرمائی اولمپکس کی میزبانی کس ملک نے کی؟",
-      "options": [
-        "Japan",
-        "France",
-        "China",
-        "Italy"
-      ],
-      "correct": 3,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the auction, PIA was purchases by which group?",
-      "urdu": "نیلامی میں پی آئی اے کو کس گروپ نے خریدا؟",
-      "options": [
-        "Arif Habib Consortium",
-        "JS Group",
-        "Lucky Group",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key for a manual line break in MS Word?",
-      "urdu": "ایم ایس ورڈ میں مینوئل لائن بریک کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Shift + Enter",
-        "Space + Enter",
-        "Ctrl + Enter",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does 'PDF' stand for?",
-      "urdu": "پی ڈی ایف کا کیا مطلب ہے؟",
-      "options": [
-        "Print Document Format",
-        "Portable Disc Format",
-        "Portable Document Format",
-        "Portable Document Firewall"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); font-size: 1.75rem;\">ان سولات کو ضرور پڑھیں</span><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "SMS stands for ____?",
-      "urdu": "ایس ایم ایس کا مطلب کیا ہے؟",
-      "options": [
-        "Send Message Send",
-        "Short Message Service",
-        "Small Message Send",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Suez Canal is connects / between / links ______?",
-      "urdu": "سوئز نہر کن کے درمیان میں واقع ہے؟",
-      "options": [
-        "Arabian Sea and Red Sea",
-        "Red Sea and North Sea",
-        "Mediterranean Sea and North Sea",
-        "Mediterranean Sea and Red Sea"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 18.6667px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 08-02-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The topology with highest reliability is?",
-      "urdu": "سب سے زیادہ قابلِ اعتماد نیٹ ورک ٹوپولوجی کون سی ہے؟",
-      "options": [
-        "Star topology",
-        "Ring topology",
-        "Mesh topology",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is married ____ my sister.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To",
-        "With",
-        "Of",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-size: 14.6667px; background-color: rgb(255, 255, 0);\"><b><font color=\"#ff0000\">Last verified on 09-08-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: Let sleeping dogs lie means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To avoid disturbing someone",
-        "To avoid restarting a conflict",
-        "To kill the sleeping dogs",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zaboor was revealed on which Prophet?",
-      "urdu": "زبور کس نبیؑ پر نازل ہوئی؟",
-      "options": [
-        "Hazrat Mossa (a.s)",
-        "Hazrat Issa (a.s)",
-        "Hazrat Dawood (a.s)",
-        "Hazrat Muhammad (a.s)"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The past form of Slay is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Slain",
-        "Slayed",
-        "Slew",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What the the first page of a website is called?",
-      "urdu": "ویب سائٹ کے پہلے صفحے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "First Page",
-        "New Page",
-        "Screen Page",
-        "Home Page"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the purpose of the Slide Sorter view in PowerPoint?",
-      "urdu": "پاورپوائنٹ میں سلائیڈ سارٹر ویو کا مقصد کیا ہے؟",
-      "options": [
-        "Rearrange slides in a presentation",
-        "To apply formatting to all slides in a presentation",
-        "Add animations to slides",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city is known as the Silicon Valley of India?",
-      "urdu": "بھارت کے کس شہر کو \"سلیکون ویلی آف انڈیا\" کہا جاتا ہے؟",
-      "options": [
-        "Mumbai",
-        "Bengaluru (Bangalore)",
-        "Chennai",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The strait between Yemen and Arabia is?",
-      "urdu": "یمن اور عرب کے درمیان کون سی آبنائے واقع ہے؟",
-      "options": [
-        "Strait of Hormuz",
-        "Bab-el-Mandeb",
-        "Strait of Malacca",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A narrow piece of land separating two water bodies and connected land masses is called _____?",
-      "urdu": "دو آبی ذخائر کو الگ کرنے اور دو زمینی حصوں کو ملانے والی زمین کی تنگ پٹی کو کیا کہتے ہیں؟",
-      "options": [
-        "Isthmus",
-        "Bay",
-        "Strait",
-        "Weirs"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which river was Hazrat Musa (AS) placed as an infant?",
-      "urdu": "حضرت موسیٰؑ کو بچپن میں کس دریا میں رکھا گیا تھا؟",
-      "options": [
-        "River Nile",
-        "River Euphrates",
-        "River Tigris",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "و اور \"سے\" بالترتیب کیا ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حرفِ جار، حرفِ عطف",
-        "حرفِ عطف، حرفِ جار",
-        "حرفِ تہجی، حرفِ جار",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">و</font><font color=\"#0000ff\"> دو الفاظ یا جملوں کو ملانے کے لیے آتا ہے، اس لیے یہ </font><font color=\"#ff0000\">حرفِ عطف</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Sahabi (Companion) was renowned for having the simplest, most ascetic lifestyle and strictly avoiding worldly wealth?",
-      "urdu": "کون سے صحابیؓ سادہ اور زاہدانہ زندگی گزارنے اور دنیاوی مال و دولت سے اجتناب کرنے کے لیے مشہور تھے؟",
-      "options": [
-        "Hazrat Abdur Rahman bin Awf",
-        "Hazrat Abu Dharr al-Ghifari",
-        "Hazrat Uthman ibn Affan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-08-2026</font></b></p>",
       "category": "all"
     }
   ]
