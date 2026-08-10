@@ -3,10 +3,36 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-10T14:17:41.340699",
+    "fetched_at": "2026-08-10T19:45:54.772974",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The first revelation on the holy prophet (PBUH) happened at which place?",
+      "urdu": "نبی کریم صلی اللہ علیہ وسلم پر پہلی وحی کس مقام پر ہوئی؟",
+      "options": [
+        "Cave Toor",
+        "Cave Hira",
+        "Madina Cave",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; color: rgb(33, 37, 41); margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Pakistan's 5G spectrum allocation auction held?",
+      "urdu": "پاکستان کی فائیو جی سپیکٹرم کی نیلامی کب ہوئی؟",
+      "options": [
+        "10 March 2026",
+        "24 March 2026",
+        "10 April 2026",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Forests are only _____ of the total area of Pakistan.",
       "urdu": "پاکستان کے کل رقبے کا صرف تقریباً کتنے فیصد حصہ جنگلات پر مشتمل ہے؟",
@@ -629,32 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\">اپنے</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">منہ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">میاں مٹھو بننا</font><font color=\"#0000ff\"> اردو زبان کا ایک مشہور </font><font color=\"#ff0000\">محاورہ</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Programs designed to perform specific task is known as?",
-      "urdu": "مخصوص کام انجام دینے کے لیے تیار کیے گئے پروگراموں کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Operating system",
-        "System software",
-        "Application software",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the best definition of topology in networking?",
-      "urdu": "نیٹ ورکنگ میں ٹاپولوجی کی بہترین تعریف کیا ہے؟",
-      "options": [
-        "The physical layout of connected devices",
-        "The speed of the network",
-        "The type of cables used",
-        "The software used for network management"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     }
   ]
