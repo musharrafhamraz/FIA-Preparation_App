@@ -3,10 +3,88 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-12T03:21:51.811469",
+    "fetched_at": "2026-08-12T08:11:00.082735",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Change the voice: “She will visit her doctor by 7:00 PM.”",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Her doctor will be visited by her by 7:00 PM.",
+        "Her doctor will visit her by 7:00 PM.",
+        "Her doctor is visited by her by 7:00 PM.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who invented Radio?",
+      "urdu": "ریڈیو کس نے ایجاد کیا؟",
+      "options": [
+        "Graham Bell",
+        "Thomas Edison",
+        "Marconi",
+        "Wright Brothers"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 12-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Oxygen reacts with most elements to produce binary compounds called?",
+      "urdu": "آکسیجن زیادہ تر عناصر کے ساتھ عمل کرکے دو عنصری مرکبات بناتی ہے جنہیں کیا کہتے ہیں؟",
+      "options": [
+        "Bases",
+        "Oxides",
+        "Acids",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Big Ben clock is located in which city?",
+      "urdu": "بگ بین کلاک کس شہر میں واقع ہے؟",
+      "options": [
+        "London",
+        "Paris",
+        "Ottawa",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 12-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Warsak dam is constructed on which river?",
+      "urdu": "وارسک ڈیم کس دریا پر بنایا گیا ہے؟",
+      "options": [
+        "Kabul",
+        "Jhlem",
+        "Chenab",
+        "Indus"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which punctuation mark is used to indicated the end of declarative sentence?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Question mark (?)",
+        "Exclamation mark (!)",
+        "Full stop (.)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which output device is used to display video images on a large screen?",
       "urdu": "بڑی اسکرین پر ویڈیو تصاویر دکھانے کے لیے کون سا آؤٹ پٹ ڈیوائس استعمال ہوتا ہے؟",
@@ -577,84 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\">شیش</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">محل کا کُتّا</font><font color=\"#0000ff\"> سے مراد </font><font color=\"#ff0000\">ایسا شخص ہے جو اپنے ہی عکس یا خیالات</font><font color=\"#0000ff\"> سے ڈر جائے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first revelation on the holy prophet (PBUH) happened at which place?",
-      "urdu": "نبی کریم صلی اللہ علیہ وسلم پر پہلی وحی کس مقام پر ہوئی؟",
-      "options": [
-        "Cave Toor",
-        "Cave Hira",
-        "Madina Cave",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; color: rgb(33, 37, 41); margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was Pakistan's 5G spectrum allocation auction held?",
-      "urdu": "پاکستان کی فائیو جی سپیکٹرم کی نیلامی کب ہوئی؟",
-      "options": [
-        "10 March 2026",
-        "24 March 2026",
-        "10 April 2026",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Forests are only _____ of the total area of Pakistan.",
-      "urdu": "پاکستان کے کل رقبے کا صرف تقریباً کتنے فیصد حصہ جنگلات پر مشتمل ہے؟",
-      "options": [
-        "6.3%",
-        "8.4%",
-        "3.6%",
-        "4.8%"
-      ],
-      "correct": 3,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom “A watched pot never boils” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Time seems to pass slowly when you are waiting",
-        "Food takes a long time to cook",
-        "Cooking requires patience",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the President of the Indian National Congress (INC) in 1942?",
-      "urdu": "سن 1942ء میں انڈین نیشنل کانگریس کے صدر کون تھے؟",
-      "options": [
-        "Maulana Abul Kalam Azad",
-        "Jawaharlal Nehru",
-        "Mahatma Gandhi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did Pakistan join SEATO?",
-      "urdu": "پاکستان سیٹو میں کب شامل ہوا؟",
-      "options": [
-        "1966",
-        "1955",
-        "1954",
-        "1999"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</b></font></p>",
       "category": "all"
     }
   ]
