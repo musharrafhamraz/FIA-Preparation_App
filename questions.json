@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-11T19:52:43.130396",
+    "fetched_at": "2026-08-12T03:21:51.811469",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which output device is used to display video images on a large screen?",
+      "urdu": "بڑی اسکرین پر ویڈیو تصاویر دکھانے کے لیے کون سا آؤٹ پٹ ڈیوائس استعمال ہوتا ہے؟",
+      "options": [
+        "Scanner",
+        "Printer",
+        "Projector",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of an antivirus software?",
+      "urdu": "اینٹی وائرس سافٹ ویئر کا کیا کام ہے؟",
+      "options": [
+        "Protect against malware and viruses",
+        "Manage email accounts",
+        "Create and edit spreadsheets",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "47⁴³ + 43⁴³ is divisible by?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "45",
+        "60",
+        "90",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\"><b>Rule: If n is odd then a^n + b^n is divisible by a + b</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the value of (√2 - 1/√2)²?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/2",
+        "2",
+        "3/2",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">√2 - 1/√2 = 1/√2</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Pakistan receives rainfall in the months of July to September.",
       "urdu": "پاکستان میں جولائی سے ستمبر کے مہینوں میں بارش کس موسم کے دوران ہوتی ہے؟",
@@ -603,58 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "MS PowerPoint is used for _______?",
-      "urdu": "ایم ایس پاورپوائنٹ کس کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Presentation",
-        "Drafting",
-        "Worksheet",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bold; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following holds data and processing instructions temporarily until the CPU needs it?",
-      "urdu": "مندرجہ ذیل میں سے کون ڈیٹا اور پروسیسنگ ہدایات کو عارضی طور پر رکھتا ہے جب تک کہ سی پی یو کو اس کی ضرورت نہ ہو؟",
-      "options": [
-        "Main memory",
-        "ROM",
-        "Control unit",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following computer language is written in binary codes only?",
-      "urdu": "مندرجہ ذیل میں سے کون سی کمپیوٹر زبان صرف بائنری کوڈز میں لکھی جاتی ہے؟",
-      "options": [
-        "FORTRAN",
-        "PASCAL",
-        "C Language",
-        "Machine Language"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "MS Excel's _____ function allows you to add the numbers in multiple cells.",
-      "urdu": "ایم ایس ایکسل کا کون سا فنکشن متعدد سیلز میں موجود نمبروں کو جمع کرنے کی اجازت ہے؟",
-      "options": [
-        "MAX",
-        "SUM",
-        "MIN",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-05-2026</b></font></p>",
       "category": "all"
     }
   ]
