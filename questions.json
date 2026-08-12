@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-12T14:17:54.912943",
+    "fetched_at": "2026-08-12T19:54:30.953551",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the 1st month of the Nanakshahi Calendar?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Vaisakh",
+        "Chet",
+        "Jeth",
+        "Harh"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Chet — 1st month of the Nanakshahi Calendar:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In accounting, an economic event occurs when ______?",
+      "urdu": "اکاؤنٹنگ میں معاشی واقعہ کب رونما ہوتا ہے؟",
+      "options": [
+        "A transaction is recorded",
+        "A report is prepared",
+        "A budget is approved",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The model that uses management, accounting, and econometrics is called ______?",
+      "urdu": "وہ ماڈل جو مینجمنٹ، اکاؤنٹنگ اور اکانومیٹرکس کو استعمال کرتا ہے، کیا کہلاتا ہے؟",
+      "options": [
+        "Financial Model",
+        "Economic Model",
+        "Management Science Model",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "A Profitability Index (PI) of 0.9 means?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -616,45 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who led the high-level official delegation representing Pakistan at the 14th WTO Ministerial Conference (MC14) in Cameroon?",
-      "urdu": "کیمرون میں 14ویں ڈبلیو ٹی او وزارتی میدان میں پاکستان کے اعلیٰ سطحی وفد کی قیادت کس نے کی؟",
-      "options": [
-        "Jam Kamal Khan",
-        "Bilal Azhar Kayani",
-        "Ishaq Dar",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Direct flights between Pakistan and Bangladesh resumed in January 2026 after how many years of suspension?",
-      "urdu": "پاکستان اور بنگلہ دیش کے درمیان براہِ راست پروازیں جنوری 2026 میں کتنے سال بعد بحال ہوئیں؟",
-      "options": [
-        "10 years",
-        "12 years",
-        "14 years",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "PLO stands for?",
-      "urdu": "پی ایل او کا مطلب کیا ہے؟",
-      "options": [
-        "Public Law Office",
-        "Palestinian Labor Organization",
-        "Palestine Liberation Organization",
-        "Pacific Legal Office"
-      ],
-      "correct": 2,
-      "explanation": "",
       "category": "all"
     }
   ]
