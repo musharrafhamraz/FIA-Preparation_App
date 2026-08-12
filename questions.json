@@ -3,10 +3,153 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-12T08:11:00.082735",
+    "fetched_at": "2026-08-12T14:17:54.912943",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "A Profitability Index (PI) of 0.9 means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The project's NPV is positive, and the project should be accepted",
+        "The project's NPV is zero, and the project should be accepted",
+        "The project's NPV is negative, and the project should be rejected",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Federal funds are spent by? Federal, Provincial, Local Bodies, All of these",
+      "urdu": "وفاقی فنڈز کس کے ذریعے خرچ کیے جاتے ہیں؟",
+      "options": [
+        "Federal",
+        "Provincial",
+        "Local Bodies",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 18th Constitutional Amendment granted ______?",
+      "urdu": "اٹھارویں آئینی ترمیم نے کیا دیا؟",
+      "options": [
+        "Judicial supremacy",
+        "Provincial autonomy",
+        "Presidential powers",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Article deals with non-discrimination in appointments in the service of Pakistan?",
+      "urdu": "پاکستان کی سروس میں تقرریوں میں عدم امتیاز سے متعلق کون سا آرٹیکل ہے؟",
+      "options": [
+        "Article 27",
+        "Article 28",
+        "Article 29",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bureaucracy is ______?",
+      "urdu": "بیوروکریسی کیا ہوتی ہے؟",
+      "options": [
+        "Political",
+        "Elected",
+        "Non-elected",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan's civil service is influenced mainly by ______?",
+      "urdu": "پاکستان کی سول سروس بنیادی طور پر کس نظام سے متاثر ہے؟",
+      "options": [
+        "Colonial legacy",
+        "Socialist system",
+        "Tribal system",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan introduced bureaucratic reforms on the model of ______?",
+      "urdu": "پاکستان نے بیوروکریٹک اصلاحات کس ممالک کے ماڈل پر متعارف کروائیں؟",
+      "options": [
+        "Socialist countries",
+        "Developed countries",
+        "Developing countries",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the dividend is Rs. 4, the market price is Rs. 100, and the growth rate is 5%, what is the required rate of return?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "9%",
+        "7%",
+        "8%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Required return = Dividend Yield + Growth Rate</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If an ordinary annuity pays Rs. 4,000 for 20 years with an 8% required return, then the PV will be approximately?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 19,636",
+        "Rs. 39,272",
+        "Rs. 80,000",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">For an ordinary annuity: PV = PMT × [1 − (1 + r)⁻ⁿ] / r</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a bond is selling at a higher market price than its par value, then?",
+      "urdu": "اگر کوئی بانڈ اپنی اصل قیمت سے زیادہ مارکیٹ قیمت پر فروخت ہو رہا ہو تو کیا ہوگا؟",
+      "options": [
+        "P is equal to par value and YTM is equal to coupon rate",
+        "P is lower than par value and YTM is higher than coupon rate",
+        "P is higher than par value and YTM is lower than coupon rate",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "وہ علم جو تشبیہ، استعارہ، مجاز، مرسل اور کنایہ وغیرہ سے بحث کرتا ہو، کیا کہلاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "علمِ نحو",
+        "علمِ بیان",
+        "علمِ صرف",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">علمِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بیان</font><font color=\"#0000ff\"> وہ علم ہے جو </font><font color=\"#ff0000\">تشبیہ، استعارہ، مجاز، مرسل اور کنایہ</font><font color=\"#0000ff\"> جیسے فنی و بلاغی طریقوں سے </font><font color=\"#ff0000\">بحث</font><font color=\"#0000ff\"> کرتا ہے۔</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Change the voice: “She will visit her doctor by 7:00 PM.”",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -512,149 +655,6 @@
       ],
       "correct": 2,
       "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Saindak Project is famous for _____?",
-      "urdu": "سیندک پروجیکٹ کس چیز کے لیے مشہور ہے؟",
-      "options": [
-        "Copper",
-        "Silver",
-        "Gold",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Lal Suhanra National Park is located near?",
-      "urdu": "لال سوہانرا نیشنل پارک کس شہر کے قریب واقع ہے؟",
-      "options": [
-        "Bahawalpur",
-        "Khanewal",
-        "Lahore",
-        "Karachi"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the default page orientation in MS-Word?",
-      "urdu": "ورڈ میں پہلے سے طے شدہ صفحہ واقفیت کیا ہے؟",
-      "options": [
-        "Long sides",
-        "Portrait",
-        "Landscape",
-        "Double Long side"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the founder of Google?",
-      "urdu": "گوگل کا بانی کون ہے؟",
-      "options": [
-        "Sergen Brin",
-        "Larry Page",
-        "Steve Jobs",
-        "Both A & B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 31-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current CEO of SpaceX?",
-      "urdu": "اسپیس ایکس کے موجودہ سی ای او کون ہیں؟",
-      "options": [
-        "Jeff Bezos",
-        "Elon Musk",
-        "Bill Gates",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is adverb? Easily, Lovely, Miserly, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Easily",
-        "Lovely",
-        "Miserly",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was honored with Nishan-e-Haider for his bravery in 1965 Indo-Pak War?",
-      "urdu": "سن 1965 میں ہند-پاک جنگ میں اپنی بہادری کے لئے نشان حائڈر سے کس کو اعزاز سے نوازا گیا؟",
-      "options": [
-        "Muhammad Sarwar",
-        "Raja Aziz Bhatti",
-        "Rsahid Minhas",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first war fought between India and Pakistan after Partition (1947–48) was fought over which issue?",
-      "urdu": "تقسیمِ ہند کے بعد بھارت اور پاکستان کے درمیان پہلی جنگ (1947–48) کس مسئلے پر لڑی گئی؟",
-      "options": [
-        "Kashmir",
-        "Ladakh",
-        "Sir Creek",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the value of 0.01 × 0.6?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "0.006",
-        "0.06",
-        "0.0006",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Multiply: 1 × 6 = 6  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many ways you can save a document in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں ایک حقیقت کو کتنی حالت سے محفوظ کیا جا سکتا ہے؟",
-      "options": [
-        "3",
-        "2",
-        "1",
-        "5"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#0000ff\">A </font><font color=\"#ff0000\">document</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Microsoft Word</font><font color=\"#0000ff\"> can be </font><font color=\"#ff0000\">saved in three</font><font color=\"#0000ff\"> commonly taught ways.</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "شیش محل کا کُتّا سے کیا مراد ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "وہ شخص جو اپنے ہی عکس یا خیالات سے ڈر جائے",
-        "وہ شخص جو دوسروں کی مدد کرے",
-        "وہ شخص جو ہمیشہ خوش رہے",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">شیش</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">محل کا کُتّا</font><font color=\"#0000ff\"> سے مراد </font><font color=\"#ff0000\">ایسا شخص ہے جو اپنے ہی عکس یا خیالات</font><font color=\"#0000ff\"> سے ڈر جائے۔</font></b></p>",
       "category": "all"
     }
   ]
