@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-14T14:12:51.471690",
+    "fetched_at": "2026-08-14T19:40:45.998763",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "The hydraulic depth of a circular sewer flowing full is?",
+      "urdu": "ڈیموں کی تعمیر کے لیے کس قسم کی سیمنٹ استعمال کی جاتی ہے؟",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "D/2",
+        "D/4",
+        "πD/4",
+        "2D/π"
       ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "In the ratio 1:5, what does the number 5 represent?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
+        "Cement",
+        "Water",
+        "Sand",
+        "Aggregate"
       ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(33, 37, 41);\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last updated by NS on 14-8-2026</font></span><font color=\"#0000ff\"></font></p>",
+      "category": "all"
     },
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "Which type of stone is commonly used for bridge pillars (piers)?",
+      "urdu": "پل کے ستونوں کی تعمیر کے لیے عام طور پر کس قسم کا پتھر استعمال کیا جاتا ہے؟",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Slate",
+        "Shale",
+        "Granite",
+        "Gypsum"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(33, 37, 41);\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last updated by NS on 14-8-2026</font></span><font color=\"#9c00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The length of a line measured with a 20 m chain was found to be 250 m. Calculate the true length of the line if the chain was 10 cm longer.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "248.75 m",
+        "249.00 m",
+        "251.25 m",
+        "252.50 m"
+      ],
+      "correct": 2,
+      "explanation": "<p data-end=\"185\" data-start=\"177\"><font color=\"#ff9c00\">Formula:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "(102)^2",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10,204",
+        "10,402",
+        "10,404",
+        "10,408"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Use the formula: (a+b)^<span style=\"font-size: 0.875rem;\">2</span><span style=\"font-size: 0.875rem;\">=a^</span><span style=\"font-size: 0.875rem;\">2 </span><span style=\"font-size: 0.875rem;\">+2ab+b^</span><span style=\"font-size: 0.875rem;\">2</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A series of steps of a stair is called?",
+      "urdu": "نانک شاہی کیلنڈر کا پہلا مہینہ کون سا ہے؟",
+      "options": [
+        "Landing",
+        "Tread",
+        "Flight",
+        "Riser"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the second Prime Minister of Pakistan?",
+      "urdu": "پاکستان کا دوسرا وزیر اعظم کون تھا؟",
+      "options": [
+        "Ch Muhammad Ali",
+        "Kh. Nazim-ud-Din",
+        "Liaquat Ali Khan",
+        "D. Feroze Khan Noon"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p style=\"width: 390px; min-height: 1px; padding-right: 15px; padding-left: 15px; -webkit-box-flex: 0; flex-basis: 83.3333%; max-width: 83.3333%;\"></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Which decision is NOT related to a Financial Manager?",
+      "urdu": "کون سا فیصلہ فنانشل مینیجر سے متعلق نہیں ہے؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "Production decision",
+        "Investment decision",
+        "Financing decision",
+        "Dividend decision"
       ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Tone at the Top refers to ______?",
+      "urdu": "ٹون سب سے اوپر سے کیا مراد ہے؟",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "Rules made by junior employees",
+        "Ethical values created by top leadership",
+        "Financial targets set by accountants",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The life of a business is divided into ______?",
+      "urdu": "کاروبار کی زندگی کو کس میں تقسیم کیا جاتا ہے؟",
+      "options": [
+        "Accounting periods",
+        "Financial assets",
+        "Business cycles",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the tax rate changes during a tax period, the taxpayer will file ______?",
+      "urdu": "اگر ٹیکس کی مدت کے دوران ٹیکس کی شرح میں تبدیلی ہو تو ٹیکس دہندہ کیا فائل کرے گا؟",
+      "options": [
+        "One return for the entire period",
+        "Separate returns for the previous and changed tax rates",
+        "Only a return at the old tax rate",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sales Tax on Services in Punjab is administered by the ______?",
+      "urdu": "پنجاب میں سروسز پر سیلز ٹیکس کس ادارے کے ذریعے ایڈمنسٹریشن کیا جاتا ہے؟",
+      "options": [
+        "Federal Board of Revenue (FBR)",
+        "Punjab Revenue Authority (PRA)",
+        "State Bank of Pakistan (SBP)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The risk-return tradeoff means ______?",
+      "urdu": "رسک ریٹرن ٹریڈ آف سے کیا مراد ہے؟",
+      "options": [
+        "High risk, high return",
+        "High risk, low return",
+        "Low risk, high return",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Appreciation means ______?",
+      "urdu": "تعریف کیا مراد ہے؟",
+      "options": [
+        "Increase in dollar value against the rupee",
+        "Decrease in rupee value against the dollar",
+        "Increase in rupee value against the dollar",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Cost of Capital is the ______?",
+      "urdu": "سرمائے کی لاگت کیا ہے؟",
+      "options": [
+        "Market price of shares",
+        "Required rate of return",
+        "Accounting profit",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Financial statement manipulation is known as ______?",
+      "urdu": "مالی بیانات میں ہیرا پھیری کو کیا جاتا ہے؟",
+      "options": [
+        "Management Accounting",
+        "Creative Accounting",
+        "Cost Accounting",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A source of inherent risk is ______?",
+      "urdu": "موروثی خطرہ کا ایک ذریعہ کیا ہے؟",
+      "options": [
+        "Human error",
+        "Internal control",
+        "Audit evidence",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to the Time Value of Money (TVM), ______?",
+      "urdu": "پیسے کی ٹائم ویلیو کے مطابق روپے 1 آج کل کیسا ہوتا ہے؟",
+      "options": [
+        "Rs. 1 tomorrow is worth more than Rs. 1 today",
+        "Rs. 1 today is worth more than Rs. 1 tomorrow",
+        "Rs. 1 today and tomorrow have equal value",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Treasury stock refers to shares ______?",
+      "urdu": "ٹریژری اسٹاک سے مراد وہ شیئرز ہیں جو کمپنی نے ______؟",
+      "options": [
+        "Repurchased by the company from the market",
+        "Issued to the public for the first time",
+        "Held by the government",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A contingent liability ______?",
+      "urdu": "ہنگامی ذمہ داری کیا ہوتی ہے؟",
+      "options": [
+        "Is never a liability",
+        "Is always a liability",
+        "May or may not become a liability",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Contribution Margin is ______?",
+      "urdu": "شراکت کا مارجن کیا ہوتا ہے؟",
+      "options": [
+        "Sales − Fixed Cost",
+        "Sales − Variable Cost",
+        "Sales + Variable Cost",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The correct form of Accounting equation is ______?",
+      "urdu": "اکاؤنٹنگ مساوات کی درست شکل کیا ہے؟",
+      "options": [
+        "Assets = Liabilities + Equity",
+        "Assets + Liabilities = Equity",
+        "Assets – Liabilities = Equity",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Resources that provide long-term benefits are called ______?",
+      "urdu": "وہ وسائل جو طویل عرصے تک فراہم کرتے ہیں، انہیں مدت کیا کہتے ہیں؟",
+      "options": [
+        "Assets",
+        "Liabilities",
+        "Expenses",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Working Capital is calculated as ______?",
+      "urdu": "ورکنگ کیپیٹل کس طرح حساب کیا جاتا ہے؟",
+      "options": [
+        "Current Liabilities − Current Assets",
+        "Current Assets − Current Liabilities",
+        "Current Assets + Current Liabilities",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hedging reduces ______?",
+      "urdu": "ہیجنگ کس کو کم کرتا ہے؟",
+      "options": [
+        "Exchange risk",
+        "Business profit",
+        "Sales revenue",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bookkeeper mistakenly treats a capital expenditure item as revenue expenditure. What is the effects of this error?",
+      "urdu": "ایک بک کیپر غلطی سے سرمائے کے اخراجات کی چیز کو محصول کے اخراجات کے طور پر سمجھتا ہے۔  اس غلطی کے اثرات کیا ہیں؟",
+      "options": [
+        "Net profit is overstated",
+        "Total assets are understated",
+        "Gross profit is understated",
+        "Total assets are overstated"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In variable costing and segment reporting, segment margin is calculated as ______?",
+      "urdu": "متغیر لاگت اور سیگمنٹ رپورٹنگ سیگمنٹ مارجن میں کیسے کیلکولیشن کیا جاتا ہے؟",
+      "options": [
+        "Sales − Variable Costs",
+        "Segment Contribution Margin − Traceable Fixed Costs",
+        "Sales − Fixed Costs",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a formula of perimeter of rectangle?",
+      "urdu": "مستطیل کے دائرہ کار کا فارمولا کیا ہے؟",
+      "options": [
+        "2 (length + width)",
+        "2 (length × width)",
+        "Length + width",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 14-08-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In cumulative preferred stock, unpaid dividends must be paid before ______?",
+      "urdu": "مجموعی ترجیحی اسٹاک میں غیر ادا شدہ منافع کو کس سے پہلے ادا کرنا ضروری ہے؟",
+      "options": [
+        "Paying any future cash dividend to common shareholders",
+        "Paying interest on debt",
+        "Issuing new shares",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to OECD principles, institutional investors are required to ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Disclose only financial statements",
+        "Disclose voting records and conflicts of interest",
+        "Avoid voting in company matters",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a U.S. firm has €3 million payable in the future, which option should it buy to hedge against a rise in the euro's value?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Call option on Euro",
+        "Put option on Euro",
+        "Call option on U.S. Dollar",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bank has assets of Rs. 100 million with a 5-year modified duration and liabilities with a 2-year duration. What is the Duration Gap?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2 years",
+        "3 years",
+        "3.4 years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Duration Gap = D_A - (L/A × D_L)</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The face value of a bond is Rs. 1,000, coupon rate is 5%, and market price is Rs. 950. What is the approximate YTM?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5.26%",
+        "6.00%",
+        "6.90%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Annual Coupon = 5% of 1000 = Rs. 50  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The maximum tax adjustment is ______ of the output tax.",
+      "urdu": "زیادہ سے زیادہ ٹیکس ایڈجسٹمنٹ، آؤٹ پٹ ٹیکس کتنا فیصد ہے؟",
+      "options": [
+        "90%",
+        "50%",
+        "75%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A company means an entity incorporated according to ______?",
+      "urdu": "کمپنی سے مراد ایسا ادارہ ہے جو کس کے تحت شامل کیا گیا ہے؟",
+      "options": [
+        "Any law",
+        "Government policy only",
+        "Court order",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Machine learning in financial analytics is mainly used for ______?",
+      "urdu": "مالیاتی تجزیات میں مشین لرننگ بنیادی طور پر کس کام کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Manual bookkeeping",
+        "Predicting trends and detecting patterns",
+        "Preparing handwritten accounts",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the accounting entry for prepaid expense when it is recognized as an expense?",
+      "urdu": "جب پری پیڈ اخراجات کو خرچ کے طور پر تسلیم کیا جائے تو اکاؤنٹنگ انٹری کیا کریں؟",
+      "options": [
+        "Cash A/C Dr. → Expense A/C Cr.",
+        "Prepaid Expense A/C Dr. → Expense A/C Cr.",
+        "Expense A/C Dr. → Prepaid Expense A/C Cr.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Security Market Line (SML) represents the relationship between which two variables?",
+      "urdu": "سیکورٹی مارکیٹ لائن کن دو متغیرات کے درمیان تعلق ظاہر ہوتا ہے؟",
+      "options": [
+        "Beta and expected return",
+        "Risk-free rate and market risk premium",
+        "Systematic risk (Beta) and expected return",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the value for taxable services?",
+      "urdu": "قابل ٹیکس خدمات کی قیمت کیا ہوتی ہے؟",
+      "options": [
+        "Cost of services",
+        "Consideration",
+        "Price collected",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ایسے الفاظ جو کسی دوسرے لفظ سے لیے گئے ہوں بغیر کسی تبدیلی کے، انہیں کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دخیل الفاظ",
+        "مرکب الفاظ",
+        "متضاد الفاظ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">دخیل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الفاظ</font><font color=\"#0000ff\"> وہ الفاظ ہیں جو </font><font color=\"#ff0000\">کسی دوسری زبان</font><font color=\"#0000ff\"> سے لیے گئے ہوں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Zero tax means services are ______?",
+      "urdu": "زیرو ٹیکس کا مطلب ہے کہ خدمات کیا ہوتی ہیں؟",
+      "options": [
+        "Fully taxable at the standard rate",
+        "Exempt from tax",
+        "Zero-rated, not exempted",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Services originating in Punjab and delivered to other provinces should be ______?",
+      "urdu": "پنجاب سے ہونے والی اور دوسرے صوبوں میں فراہم کی جانے والی خدمات شروع کرنا چاہیں؟",
+      "options": [
+        "Exempt from tax",
+        "Taxable",
+        "Non-taxable",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Scientific Management focuses on ______?",
+      "urdu": "سائنسی انتظام کس چیز پر توجہ دیتا ہے؟",
+      "options": [
+        "Political participation",
+        "Specialization and efficiency",
+        "Employee welfare only",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Corporate strategy determines what businesses a company wants to ______?",
+      "urdu": "کارپوریٹ حکمت عملی یہ فیصلہ کرتی ہے کہ کمپنی کن کاروباروں میں ______ ہے؟",
+      "options": [
+        "Sell",
+        "Manage",
+        "Be in",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Decision-making of politicians is bounded by ______?",
+      "urdu": "سیاستدانوں کی فیصلہ سازی کن سے محدود ہوتی ہے؟",
+      "options": [
+        "Knowledge",
+        "Time",
+        "Resources",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Parliament or legislature does NOT take ______?",
+      "urdu": "پارلیمنٹ یا مقننہ کون سے ووٹ نہیں دیتا؟",
+      "options": [
+        "Financial decisions",
+        "Policy decisions",
+        "Legislative decisions",
+        "Judicial decisions"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A structured problem in which decision-makers know the possible outcomes is called a ______?",
+      "urdu": "ایسا ساختی مسئلہ جس میں فیصلہ سازوں کے سامنے نتائج معلوم ہوں، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Certainty condition",
+        "Risk condition",
+        "Uncertainty condition",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to Group Theory, public policy is the outcome of ______?",
+      "urdu": "گروپ تھیوری کے مطابق عوامی پالیسی کس کا نتیجہ ہوتی ہے؟",
+      "options": [
+        "Government planning",
+        "Group struggle",
+        "Individual decisions",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bank charges are not disclosed in ______?",
+      "urdu": "بینک چارجز کہاں ظاہر نہیں کیے جاتے ہیں؟",
+      "options": [
+        "Notes to Accounts",
+        "Cash Book",
+        "Bank Reconciliation Statement",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which account is NOT aggregated when combining the parent and subsidiary companies?",
+      "urdu": "والدین اور ذیلی کمپنیوں کو یکجا کرتے وقت کون سا اکاؤنٹ مجموعی نہیں کیا جاتا؟",
+      "options": [
+        "Revenue",
+        "Assets",
+        "Liabilities",
+        "Share Capital"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
