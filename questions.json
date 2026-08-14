@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-14T08:09:07.187338",
+    "fetched_at": "2026-08-14T14:12:51.471690",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Scientific Management focuses on ______?",
-      "urdu": "سائنسی انتظام کس چیز پر توجہ دیتا ہے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Political participation",
-        "Specialization and efficiency",
-        "Employee welfare only",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
+      "correct": 0,
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "Corporate strategy determines what businesses a company wants to ______?",
-      "urdu": "کارپوریٹ حکمت عملی یہ فیصلہ کرتی ہے کہ کمپنی کن کاروباروں میں ______ ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Sell",
-        "Manage",
-        "Be in",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Decision-making of politicians is bounded by ______?",
-      "urdu": "سیاستدانوں کی فیصلہ سازی کن سے محدود ہوتی ہے؟",
-      "options": [
-        "Knowledge",
-        "Time",
-        "Resources",
-        "All of these"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Parliament or legislature does NOT take ______?",
-      "urdu": "پارلیمنٹ یا مقننہ کون سے ووٹ نہیں دیتا؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Financial decisions",
-        "Policy decisions",
-        "Legislative decisions",
-        "Judicial decisions"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A structured problem in which decision-makers know the possible outcomes is called a ______?",
-      "urdu": "ایسا ساختی مسئلہ جس میں فیصلہ سازوں کے سامنے نتائج معلوم ہوں، اسے کیا کہتے ہیں؟",
-      "options": [
-        "Certainty condition",
-        "Risk condition",
-        "Uncertainty condition",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to Group Theory, public policy is the outcome of ______?",
-      "urdu": "گروپ تھیوری کے مطابق عوامی پالیسی کس کا نتیجہ ہوتی ہے؟",
-      "options": [
-        "Government planning",
-        "Group struggle",
-        "Individual decisions",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Bank charges are not disclosed in ______?",
-      "urdu": "بینک چارجز کہاں ظاہر نہیں کیے جاتے ہیں؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Notes to Accounts",
-        "Cash Book",
-        "Bank Reconciliation Statement",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which account is NOT aggregated when combining the parent and subsidiary companies?",
-      "urdu": "والدین اور ذیلی کمپنیوں کو یکجا کرتے وقت کون سا اکاؤنٹ مجموعی نہیں کیا جاتا؟",
-      "options": [
-        "Revenue",
-        "Assets",
-        "Liabilities",
-        "Share Capital"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which business an organization wants to be in is determined by ______?",
-      "urdu": "تنظیم کس کاروبار میں ہونا چاہتی ہے، یہ کس کے ذریعے طے کیا جاتا ہے؟",
-      "options": [
-        "Corporate strategy",
-        "Functional strategy",
-        "Business strategy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When the ratios of three companies are analyzed and compared, it is called ______?",
-      "urdu": "جب تین عناصر کے تناسب کا تخلیق اور تخلیق کیا جائے تو اسے کیا کہتے ہیں؟",
-      "options": [
-        "Trend analysis",
-        "Financial analysis",
-        "Industry analysis",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Big Five Model of personality is represented by ______?",
-      "urdu": "شخصیت کا بگ فائیو ماڈل کس سے ظاہر ہوتا ہے؟",
-      "options": [
-        "OCEAN",
-        "SWOT",
-        "PEST",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Replacement Cost Accounting values assets at ______?",
-      "urdu": "متبادل لاگت کا حساب کتاب میں اثاثوں کی قدر کس قیمت پر جاتی ہے؟",
-      "options": [
-        "Historical cost",
-        "Current replacement cost",
-        "Original purchase price",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Incremental policy considers ______?",
-      "urdu": "اضافی پالیسی کس چیز کو بنیاد بناتی ہے؟",
-      "options": [
-        "Only long-term objectives",
-        "Completely new alternatives",
-        "The base of the previous policy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A manager influences the work of others in achieving organizational goals. This is known as ______?",
-      "urdu": "مینیجر کا دوسروں کے کام پر اثر انداز ہو کر تنظیمی اہداف حاصل کرنا کیا کہلاتا ہے؟",
-      "options": [
-        "Planning",
-        "Leadership",
-        "Management",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Violators of public policy can be ______?",
-      "urdu": "عوامی پالیسی کی خلاف ورزی کرنے کے ساتھ کیا جا سکتا ہے؟",
-      "options": [
-        "Fined",
-        "Imprisoned",
-        "Enforced by use of force",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mass media can influence ______?",
-      "urdu": "ماس میڈیا کس چیز پر اثر انداز ہو سکتا ہے؟",
-      "options": [
-        "What to think about",
-        "What to eat",
-        "How to vote only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Job specification tells about ______?",
-      "urdu": "ملازمت کی تفصیلات کس چیز کے بارے میں بتاتی ہے؟",
-      "options": [
-        "Salary and benefits",
-        "Duties and responsibilities",
-        "Qualification and skills required",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Comparing one's input-output ratio with that of others is related to ______?",
-      "urdu": "اپنے ان پٹ آؤٹ پٹ تناسب کا دوسرے کے ان پٹ آؤٹ پٹ کا تناسب",
-      "options": [
-        "Expectancy Theory",
-        "Equity Theory",
-        "Goal-Setting Theory",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy cycle is ______?",
-      "urdu": "پالیسی سائیکل کیسی ہوتی ہے؟",
-      "options": [
-        "Forward and backward",
-        "Forward only",
-        "Backward only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The cast iron pipe for a water supply system is used for:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Temporary water connections",
-        "Underground and permanent water-supply lines",
-        "High-temperature steam lines",
-        "Drainage of rainwater only"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The detention period required for a particle settling in a water-treatment tank is approximately:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10–20 minutes",
-        "30–60 minutes",
-        "2–4 hours",
-        "12–24 hours"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following types of falls use parabolic glacis for energy dissipation ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Vertical drop fall",
-        "Glacis fall",
-        "Montague type fall",
-        "Inglis fall"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The flow in which the velocity vector is identical in magnitude and direction at every point, for any given instant, is known as________________?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "One dimensional flow",
-        "Uniform flow",
-        "Steady flow",
-        "turbulent flow"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">A fluid flow in which the </font><font color=\"#00ff00\">velocity vector has the same magnitude a</font><font color=\"#0000ff\">nd direction at every point at any given instant is know</font><font color=\"#ff0000\">n as a uniform flow.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Clothes : Closet :: Books : ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Library",
-        "School",
-        "Paper",
-        "Writer"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated 13 August 2026 by NA</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Walking sticks are made up of?",
-      "urdu": "چلنے کے لیے استعمال ہونے والی چھڑیاں کس چیز سے بنی ہوتی ہیں؟",
-      "options": [
-        "Wood",
-        "Glass",
-        "Paper",
-        "Rubber"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated 13 August 2026 by NA</span><font color=\"#00ff00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was The Female Eunuch published?",
-      "urdu": "کتاب دی فیمیل یونوک کب شائع ہوئی تھی؟",
-      "options": [
-        "1965",
-        "1970",
-        "1975",
-        "1980"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated 13 August 2026 by NA</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Gender Role is also commonly referred to as what?",
-      "urdu": "صنفی کردار کو عام طور پر اور کس نام سے پکارا جاتا ہے؟",
-      "options": [
-        "Sex Role",
-        "Biological Role",
-        "Economic Role",
-        "Political Role"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Feudalism as a social-economic system is chiefly characterized by what?",
-      "urdu": "جاگیرداری بطور ایک سماجی و معاشی نظام کی بنیادی خصوصیت کیا ہے؟",
-      "options": [
-        "Industrial production",
-        "Land ownership",
-        "Free-market competition",
-        "Digital technology"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin: 0.25em 0px 10px; padding: 0px; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-size: 14px !important;\"><span \"helvetica=\"\" 0);\"=\"\" 255,=\"\" arial,=\"\" background-color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(255,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#9c00ff\">Last updated 13 August 2026 by NA</font></span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The organized community development movement in Pakistan first started in which city?",
-      "urdu": "پاکستان میں منظم کمیونٹی ڈویلپمنٹ (برادری کی ترقی) کی تحریک سب سے پہلے کس شہر میں شروع ہوئی؟",
-      "options": [
-        "Lahore",
         "Karachi",
+        "Lahore",
         "Islamabad",
         "Peshawar"
       ],
-      "correct": 1,
-      "explanation": "<p style=\"margin: 0px 0px 10px; padding: 0px; font-size: 14px !important;\"><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated 13 August 2026 by NA</font></p>",
-      "category": "all"
+      "correct": 2,
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "The social work principle of self-determination is respecting a?",
-      "urdu": "سوشل ورک میں خود ارادیت کے اصول کا مطلب کس چیز کا احترام کرنا ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Client’s right to make their own choices and decisions",
-        "Social worker’s authority over the client",
-        "Government’s right to make decisions for the client",
-        "Family’s right to control the client’s decisions"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"margin: 0px 0px 10px; padding: 0px; font-size: 14px !important;\"><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated 13 August 2026 by NA</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fountain House in Pakistan is primarily associated with what?",
-      "urdu": "پاکستان میں فاؤنٹین ہاؤس بنیادی طور پر کس شعبے سے وابستہ ہے؟",
-      "options": [
-        "Child Education",
-        "Psychiatric Rehabilitation",
-        "Agricultural Development",
-        "Sports Training"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin: 0px 0px 10px; padding: 0px; font-size: 14px !important;\"><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated 13 August 2026 by NA</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Viewing society as a living organism composed of interdependent parts reflects which theoretical perspective?",
-      "urdu": "معاشرے کو ایک ایسے زندہ جاندار کے طور پر دیکھنا، جو ایک دوسرے پر منحصر حصوں پر مشتمل ہو، کس نظریاتی نقطۂ نظر کی عکاسی کرتا ہے؟",
-      "options": [
-        "Conflict Theory",
-        "Functionalism",
-        "Symbolic Interactionism",
-        "Feminist Theory"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" -apple-system,=\"\" arial,=\"\" blinkmacsystemfont,=\"\" color=\"\" dm=\"\" emoji\",=\"\" emoji\";\"=\"\" neue\",=\"\" roboto,=\"\" sans\",=\"\" sans-serif,=\"\" style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px; font-family: D-DINExp, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#0000ff\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 600;\">Perspective:</span> </font><font color=\"#ff0000\">Functionalism (Structural-Functionalism)</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is regarded as the Father of sociocultural Anthropology?",
-      "urdu": "سماجی و ثقافتی بشریات کا بانی کس کو کہا جاتا ہے؟",
-      "options": [
-        "Franz Boas",
-        "Edward B. Tylor",
-        "Bronislaw Malinowski",
-        "Claude Lévi-Strauss"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Franz Boas is regarded as the Father of </font><font color=\"#ff0000\">sociocultural anthropology.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Nanakshahi Calendar belongs to which religion?",
-      "urdu": "نانک شاہی کیلنڈر کس مذہب سے تعلق رکھتا ہے؟",
-      "options": [
-        "Hinduism",
-        "Islam",
-        "Sikhism",
-        "Buddhism"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated 13 August 2026 by NA</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following has not been elected to the UN Security Council for the term 2027-28?",
-      "urdu": "درج ذیل میں سے کسے 2027 اور 2028 کی مدت کے لیے اقوام متحدہ کی سلامتی کونسل کے لیے منتخب نہیں کیا گیا ہے؟",
-      "options": [
-        "Austria",
-        "Portugal",
-        "Germany",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In 2026, the </font><font color=\"#ff0000\">United Nations General Assembly </font><font color=\"#0000ff\">elected </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Austria, Kyrgyzstan, Portugal, Trinidad and Tobago, and Zimbabwe</font><font color=\"#0000ff\"> as non-permanent members of the </font>UN Security Council<font color=\"#0000ff\"> for the </font><font color=\"#ff00ff\">2027–2028</font><font color=\"#0000ff\"> term.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which five countries were elected as non-permanent members of the UN Security Council for the 2027–2028 term?",
-      "urdu": "دو ہزار ستائیس اور 2028 کی مدت کے لیے اقوام متحدہ کی سلامتی کونسل کے غیر مستقل ارکان کے طور پر کن پانچ ممالک کا انتخاب کیا گیا؟",
-      "options": [
-        "Austria, Philippines, Portugal, Trinidad and Tobago and Somalia",
-        "Austria, Germany, Portugal, Guyana and Zimbabwe",
-        "Austria, Kyrgyzstan, Portugal, Trinidad and Tobago and Zimbabwe",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">In 2026, the </font><font color=\"#ff0000\">United Nations General Assembly\r\n</font><font color=\"#0000ff\">elected </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Austria, Kyrgyzstan, Portugal, Trinidad and Tobago, and Zimbabwe</font><font color=\"#0000ff\"> as\r\nnon-permanent members of the </font>UN Security Council<font color=\"#0000ff\"> for the </font><font color=\"#ff00ff\">2027–2028</font><font color=\"#0000ff\"> term. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country has been elected to the UN Security Council for the first time in its history during the  2026 elections?",
-      "urdu": "دو ہزار چھبیس کے انتخابات کے دوران کون سا ملک اپنی تاریخ میں پہلی بار اقوام متحدہ کی سلامتی کونسل کے لیے منتخب ہوا ہے؟",
-      "options": [
-        "Austria",
-        "Kyrgyzstan",
-        "Zimbabwe",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Kyrgyzstan </font><font color=\"#0000ff\">has been elected as a non-permanent member of the </font>UN Security Council <font color=\"#0000ff\">for the very first time, with its two-year term scheduled to begin on </font><font color=\"#ff0000\">January 1, 2027.</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country secured the Asia-Pacific seat on the UN Security Council for 2027–28?",
-      "urdu": "کس ملک نے 2027 اور 2028 کے لیے اقوام متحدہ کی سلامتی کونسل میں ایشیا پیسیفک کی نشست حاصل کی؟",
-      "options": [
-        "Philippines",
-        "Kyrgyzstan",
-        "Kazakhstan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Kyrgyzstan </font><font color=\"#0000ff\">has been elected as a non-permanent member of the </font>UN Security Council <font color=\"#0000ff\">for the very first time, with its two-year term scheduled to begin on </font><font color=\"#ff0000\">January 1, 2027.</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Decisions related to scheduling of work are called ______?",
-      "urdu": "کام کی شیڈولنگ سے متعلق فیصلے کیا کہلاتے ہیں؟",
-      "options": [
-        "Operational decisions",
-        "Strategic decisions",
-        "Tactical decisions",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Functional decisions are related to ______?",
-      "urdu": "فنکشنل فیصلے کس سے متعلق ہیں؟",
-      "options": [
-        "Legislation",
-        "Budgeting",
-        "Recruitment",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is World Wide Web Day celebrated?",
-      "urdu": "ورلڈ وائڈ ویب ڈے کب منایا جاتا ہے؟",
-      "options": [
-        "August 1",
-        "August 3",
-        "August 2",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\">World Wide Web Day</font><font color=\"#0000ff\"> is indeed celebrated on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">August 1</font><font color=\"#0000ff\"> each year. </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Turkey hosted which edition of NATO summit in 2026?",
-      "urdu": "ترکی نے 2026 میں نیٹو سربراہی اجلاس کے کس ایڈیشن کی میزبانی کی؟",
-      "options": [
-        "35th",
-        "36th",
-        "37th",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">NATO summit 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Major decisions in public policy are made by ______?",
-      "urdu": "پبلک پالیسی میں بڑے فیصلے کون کرتا ہے؟",
-      "options": [
-        "Bureaucrats",
-        "Politicians",
-        "Judges",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "New Public Management (NPM) is based on ______?",
-      "urdu": "نیو پبلک منیجمنٹ کنکشن پر مبنی ہے؟",
-      "options": [
-        "Privatization",
-        "Deregulation",
-        "Market orientation",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Capital gain divided by capital gain yield is used to determine the ______?",
-      "urdu": "کیپٹل گین‘ کیپٹل گین اییلڈ کو تقسیم کرنے سے کیا معلوم ہوتا ہے؟",
-      "options": [
-        "Dividend yield",
-        "Ending price",
-        "Beginning or initial price",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Rational Model considers ______?",
-      "urdu": "عقلی ماڈل کن کو مدِنظر کیا ہے؟",
-      "options": [
-        "Social values",
-        "Economic values",
-        "Political values",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choosing of members and assigning responsibilities is done in the ______?",
-      "urdu": "ارکان کا انتخاب اور ذمہ داریاں تفویض کرنا کس مرحلے میں کیا جاتا ہے؟",
-      "options": [
-        "Planning Stage",
-        "Organizing Stage",
-        "Controlling Stage",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ideal model of bureaucracy is based on?",
-      "urdu": "بیوروکریسی کا مثالی ماڈل کس اختیار پر مبنی ہے؟",
-      "options": [
-        "Charismatic authority",
-        "Traditional authority",
-        "Legal-rational authority",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Absolutism is a form of government in which ______?",
-      "urdu": "مطلقیت ایسا طرزِ حکومت ہے جس میں کیا ہوتا ہے؟",
-      "options": [
-        "Power is shared equally among citizens",
-        "Government is limited by a constitution",
-        "Government is all-powerful with no constitutional rights",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "CSP in Pakistan is ______?",
-      "urdu": "پاکستان میں سی ایس پی کس قسم کی سروس ہے؟",
-      "options": [
-        "Technical",
-        "Specialist",
-        "Generalist",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     }
   ]
 }
