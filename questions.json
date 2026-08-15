@@ -3,10 +3,375 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-15T13:25:46.282136",
+    "fetched_at": "2026-08-15T19:13:05.435829",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The number of links in a 20 m metric chain is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50",
+        "100",
+        "150",
+        "200"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "An invitation to contractors for doing works or supplying materials, in which the time limit and total cost of the project are mentioned, is called:",
+      "urdu": "ٹھیکیداروں کو کام کرنے یا تعمیراتی سامان فراہم کرنے کے لیے دی جانے والی دعوت، جس میں منصوبے کی مدت اور کل لاگت درج ہو، کیا کہلاتی ہے؟",
+      "options": [
+        "Estimate",
+        "Contract",
+        "Tender",
+        "Specification"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The works for which the cost is paid out of funds available for a project are called?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Deposit works",
+        "Annual works",
+        "Work-charged works",
+        "Departmental works"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "An accident caused by short-circuiting of electricity is called?",
+      "urdu": "بجلی کے شارٹ سرکٹ کی وجہ سے ہونے والے حادثے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Mechanical accident",
+        "Chemical accident",
+        "Fire accident",
+        "Natural accident"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The process of keeping concrete wet to enable it to attain full strength is known as?",
+      "urdu": "کنکریٹ کو مکمل مضبوطی حاصل کرنے کے لیے نم رکھنے کے عمل کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Compaction",
+        "Finishin",
+        "Mixing",
+        "Curing"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The metacentric height of a merchant ship is generally kept within:",
+      "urdu": "تجارتی جہاز کی میٹا سینٹرک اونچائی عموماً کس حد کے اندر رکھی جاتی ہے؟",
+      "options": [
+        "0.01–0.10 m",
+        "0.30–1.00 m",
+        "1.50–2.50 m",
+        "3.00–5.00 m"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The length-to-width ratio of a rectangular sedimentation tank should be?",
+      "urdu": "مستطیل شکل کے تلچھٹ بیٹھانے والے ٹینک (سیڈیمنٹیشن ٹینک) کی لمبائی اور چوڑائی کا تناسب کتنا ہونا چاہیے؟",
+      "options": [
+        "1:1",
+        "2:1",
+        "3:1",
+        "4:1"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Extra soil dumped in the form of a bank parallel to the main bank during digging of a canal is called?",
+      "urdu": "نہر کی کھدائی کے دوران مرکزی پشتے کے متوازی پٹی یا پشتے کی شکل میں ڈالی جانے والی اضافی مٹی کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Canal bank",
+        "Guide bank",
+        "Spoil bank",
+        "Marginal bank"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\"> Canal Bank Terms</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Squeezing out water from fresh concrete is termed as:",
+      "urdu": "تازہ کنکریٹ میں سے پانی نکالنے کے عمل کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Segregation",
+        "Compaction",
+        "Bleeding",
+        "Shrinkage"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Permanent canals which get continuous supplies from rivers throughout the year are called:",
+      "urdu": "وہ مستقل نہریں جنہیں پورے سال دریاؤں سے مسلسل پانی کی فراہمی حاصل ہوتی رہتی ہے، انہیں کیا کہا جاتا ہے؟",
+      "options": [
+        "Inundation canals",
+        "Temporary canals",
+        "Perennial canals",
+        "Navigation canals"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The frog of the brick in brick masonry is generally kept on?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bottom face",
+        "Side face",
+        "Top face",
+        "Front face"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The equivalent length of a column with one end fixed and the other end free is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "L/2",
+        "L",
+        "2L",
+        "3L"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The ratio between the ultimate and safe bearing capacities of soil is termed as?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bearing capacity ratio",
+        "Factor of safety",
+        "Settlement factor",
+        "Load factor"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Find the quantity of cement required for rate analysis of brickwork in 1:5 for 100 cft:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2 bags",
+        "3 bags",
+        "4 bags",
+        "5 bags"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Given:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the number of cement bags required for 400 cft concrete in the ratio 1:6:12:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20 bags",
+        "26 bags",
+        "30 bags",
+        "36 bags"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"40\" data-start=\"14\"><font color=\"#0000ff\">Given ratio <strong data-end=\"40\" data-start=\"26\">1 : 6 : 12</strong><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the value of:  3 √(2197)",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "14"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which type of cement is used for the construction of dams?",
+      "urdu": "ڈیموں کی تعمیر کے لیے کس قسم کی سیمنٹ استعمال کی جاتی ہے؟",
+      "options": [
+        "Rapid hardening cement",
+        "Quick setting cement",
+        "Low heat cement",
+        "High alumina cement"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated: 15-08-2026 by NS </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The framework will be for a defined limited period, initially for?",
+      "urdu": "یہ فریم ورک ابتدائی طور پر کتنے سال کی محدود مدت کے لیے ہوگا؟",
+      "options": [
+        "One year",
+        "Two years",
+        "Three years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The quota allocation system maintains alignment with?",
+      "urdu": "کوٹہ مختص کرنے کا نظام کن چیزوں کے ساتھ ہم آہنگی برقرار رکھتا ہے؟",
+      "options": [
+        "Saudi contracting timelines",
+        "Pakistan's financial governance framework",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The quota utilisation system ensures that quota utilisation remains?",
+      "urdu": "کوٹہ استعمال کرنے کا نظام کوٹے کے استعمال کو کن خصوصیات کا حامل بناتا ہے؟",
+      "options": [
+        "Competitive",
+        "Merit-based",
+        "Transparent",
+        "Free of monopolistic control",
+        "All of these"
+      ],
+      "correct": 4,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Booking of pilgrims will be subject to?",
+      "urdu": "عازمین کی بکنگ کن شرائط کے تابع ہوگی؟",
+      "options": [
+        "Assigned operational category ceilings",
+        "Continuous compliance with digital, financial, and regulatory requirements",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Through which system will private operators book pilgrims?",
+      "urdu": "پرائیویٹ آپریٹرز عازمین کی بکنگ کس نظام کے ذریعے کریں گے؟",
+      "options": [
+        "SECP",
+        "PHMP",
+        "SPA",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Licensed and accredited private operators will book pilgrims on a?",
+      "urdu": "لائسنس یافتہ اور منظور شدہ پرائیویٹ آپریٹرز عازمین کی بکنگ کس بنیاد پر کریں گے؟",
+      "options": [
+        "First-come, first-served basis",
+        "Quota-based basis",
+        "Lottery basis",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who will be permitted to book pilgrims under the Private Scheme?",
+      "urdu": "پرائیویٹ اسکیم کے تحت عازمین کی بکنگ کی اجازت کن کو ہوگی؟",
+      "options": [
+        "All registered companies",
+        "All licensed and accredited private operators",
+        "Only government operators",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The aggregate Hajj quota for the Private Scheme will be based on the annual allocation received from?",
+      "urdu": "پرائیویٹ اسکیم کے مجموعی حج کوٹے کی بنیاد کس ملک سے ملنے والی سالانہ تخصیص پر ہوگی؟",
+      "options": [
+        "Kingdom of Saudi Arabia",
+        "Government of Pakistan",
+        "Securities and Exchange Commission of Pakistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When will the Government announce the aggregate Hajj quota reserved for the Private Scheme?",
+      "urdu": "حکومت پرائیویٹ اسکیم کے لیے مختص مجموعی حج کوٹہ کب اعلان کرے گی؟",
+      "options": [
+        "After the Hajj season",
+        "Once every three years",
+        "Prior to the commencement of every Hajj season",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Do assessment, accreditation, and registration approvals constitute a quota entitlement by themselves?",
+      "urdu": "کیا اسیسمنٹ، ایکریڈیٹیشن اور رجسٹریشن کی منظوری خود بخود کوٹے کا حق فراہم کرتی ہے؟",
+      "options": [
+        "Only for new operators",
+        "Yes",
+        "No",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What will the assessment, accreditation, and registration framework confirm?",
+      "urdu": "اسیسمنٹ، ایکریڈیٹیشن اور رجسٹریشن کا فریم ورک ہر پرائیویٹ حج آپریٹر کی کس صلاحیت کی تصدیق کرے گا؟",
+      "options": [
+        "Quota entitlement",
+        "Operational capacity of each private Hajj operator",
+        "Pilgrim nationality",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "احمد ندیم قاسمی کا کونسا افسانہ ہے؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -290,371 +655,6 @@
         "All of these"
       ],
       "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Private Hajj licences will be subject to?",
-      "urdu": "پرائیویٹ حج لائسنس کس چیز کے تابع ہوں گے؟",
-      "options": [
-        "Monthly renewal",
-        "Annual renewal",
-        "No renewal",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How long will private Hajj licences remain valid?",
-      "urdu": "پرائیویٹ حج لائسنس کتنے عرصے تک قابلِ عمل رہیں گے؟",
-      "options": [
-        "One year",
-        "Two years",
-        "Three years",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The standardized private Hajj packages are to be finalized and included in the?",
-      "urdu": "معیاری پرائیویٹ حج پیکجز کو حتمی شکل دے کر کس میں شامل کیا جائے گا؟",
-      "options": [
-        "Service Provider Agreement (SPA)",
-        "Companies Act, 2017",
-        "Financial Agreement",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The number of private Hajj packages may be considered appropriate by the?",
-      "urdu": "پرائیویٹ حج پیکجز کی تعداد کو مناسب کون سمجھ سکتا ہے؟",
-      "options": [
-        "SECP",
-        "Ministry",
-        "FBR",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Private Hajj operators shall be accredited by SCEP in accordance with a standardized range of?",
-      "urdu": "پرائیویٹ حج آپریٹرز کو کتنے معیاری پرائیویٹ حج پیکجز کی بنیاد پر منظوری دی جائے گی؟",
-      "options": [
-        "One private Hajj package",
-        "Two private Hajj packages",
-        "Three or more private Hajj packages",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "All private Hajj operators must be incorporated under the?",
-      "urdu": "تمام پرائیویٹ حج آپریٹرز کو کس قانون کے تحت کمپنی کے طور پر رجسٹرڈ ہونا ضروری ہے؟",
-      "options": [
-        "Companies Act, 2017",
-        "Hajj and Umrah (Regulation) Act, 2024",
-        "Companies Act, 2024",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The third-party accreditation approach supports alignment with?",
-      "urdu": "تیسرے فریق کی منظوری کا طریقہ کار کس وژن کے ساتھ ہم آہنگی میں مدد دیتا ہے؟",
-      "options": [
-        "Pakistan Vision 2025",
-        "Pakistan Vision 2030",
-        "Saudi Vision 2030",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Third-party accreditation reflects best practices used in?",
-      "urdu": "تیسرے فریق کی منظوری کن مارکیٹس میں استعمال ہونے والے بہترین طریقوں کی عکاسی کرتی ہے؟",
-      "options": [
-        "Mature pilgrimage markets",
-        "Developing financial markets",
-        "Local tourism markets",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The evaluation provides assurance to the public that only ______ entities are allowed to operate.",
-      "urdu": "تشخیص عوام کو یہ یقین دہانی کراتی ہے کہ صرف کون سے اداروں کو کام کرنے کی اجازت ہے؟",
-      "options": [
-        "Large and monopolistic",
-        "New and foreign",
-        "Compliant and capable",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The evaluation provides what kind of basis for regulatory decisions?",
-      "urdu": "تشخیص ریگولیٹری فیصلوں کے لیے کس قسم کی بنیاد فراہم کرتی ہے؟",
-      "options": [
-        "Litigation-resilient basis",
-        "Informal basis",
-        "Political basis",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The certification outcome will determine?",
-      "urdu": "سرٹیفیکیشن کا نتیجہ کن چیزوں کا تعین کرے گا؟",
-      "options": [
-        "Licensing eligibility",
-        "Tier assignment",
-        "Quota allocation",
-        "Future standing",
-        "All of these"
-      ],
-      "correct": 4,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Third-party accreditation will validate which of the following?",
-      "urdu": "تیسرے فریق کی منظوری درج ذیل میں سے کن چیزوں کی تصدیق کرے گی؟",
-      "options": [
-        "Financial solvency and Corporate maturity",
-        "Operational reliability and Service infrastructure",
-        "Saudi-side readiness",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Private Hajj companies must be registered with the?",
-      "urdu": "پرائیویٹ حج کمپنیوں کو کس ادارے کے ساتھ رجسٹرڈ ہونا ضروری ہے؟",
-      "options": [
-        "Federal Board of Revenue (FBR)",
-        "Securities and Exchange Commission of Pakistan (SECP)",
-        "Ministry of Foreign Affairs",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the purpose of third-party accreditation?",
-      "urdu": "تیسرے فریق کی منظوری کا مقصد کیا ہے؟",
-      "options": [
-        "To secure a neutral and globally accepted evaluation system",
-        "To increase subletting practices",
-        "To promote monopolistic behaviour",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who would undertake the registration and evaluation of all new and existing private Hajj companies?",
-      "urdu": "تمام نئی اور موجودہ پرائیویٹ حج کمپنیوں کی رجسٹریشن اور جانچ کون کرے گا؟",
-      "options": [
-        "Government officials only",
-        "A committee of independent experts / consultants or consulting firms",
-        "Private Hajj companies themselves",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Genuine competition and service innovation are promoted in the?",
-      "urdu": "حقیقی مسابقت اور خدمات میں جدت کس حج مارکیٹ میں فروغ دی جاتی ہے؟",
-      "options": [
-        "Government sector",
-        "Public Hajj market",
-        "Private Hajj market",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy further discourages?",
-      "urdu": "پالیسی مزید کن طریقوں کی حوصلہ شکنی کرتی ہے؟",
-      "options": [
-        "Third-party accreditation",
-        "Genuine competition and service innovation",
-        "Monopolistic behaviour and subletting practices",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Accountability is enhanced using?",
-      "urdu": "جوابدہی کو کن ذرائع سے بہتر بنایا جاتا ہے؟",
-      "options": [
-        "Digital dashboards",
-        "Audit trails",
-        "Direct financial oversight",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy protects pilgrim deposits through?",
-      "urdu": "پالیسی عازمین کے جمع شدہ پیسوں کی حفاظت کس ذریعے سے کرتی ہے؟",
-      "options": [
-        "Govt.-based payments",
-        "Monopolistic behaviour",
-        "Subletting practices",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The tiered licensing structure and third-party accreditation aim to eliminate?",
-      "urdu": "درجہ بندی پر مبنی لائسنسنگ اور تیسرے فریق کی منظوری کا مقصد کن مسائل کو ختم کرنا ہے؟",
-      "options": [
-        "Genuine competition",
-        "Service innovation",
-        "Past inefficiencies and risky practices",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy strengthens operator capability through?",
-      "urdu": "پالیسی آپریٹرز کی صلاحیت کو کس ذریعے سے مضبوط بناتی ہے؟",
-      "options": [
-        "A tiered licensing structure and third-party accreditation",
-        "Quota allocation and subletting practices",
-        "Monopolistic behaviour",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy aims to provide Hajj services for Pakistani pilgrims travelling through the?",
-      "urdu": "یہ پالیسی پاکستانی عازمین کو کس شعبے کے ذریعے حج کی خدمات فراہم کرنے کا مقصد رکھتی ہے؟",
-      "options": [
-        "Public sector",
-        "Private sector",
-        "Government sector",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary objective of the Private Hajj Policy?",
-      "urdu": "پرائیویٹ حج پالیسی کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "To increase Hajj quota",
-        "To ensure dignified, reliable, affordable, and safe Hajj services",
-        "To promote monopolistic behaviour",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The modern operating regime under the policy focuses on?",
-      "urdu": "پالیسی کے تحت جدید آپریٹنگ نظام کس چیز پر توجہ دیتا ہے؟",
-      "options": [
-        "Efficiency",
-        "Delivery quality",
-        "Pilgrim welfare",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy replaces legacy quota-driven practices with a?",
-      "urdu": "پالیسی پرانے کوٹہ پر مبنی طریقۂ کار کو کس نظام سے تبدیل کرتی ہے؟",
-      "options": [
-        "Modern, corporate, compliance-based operating regime",
-        "Traditional and informal operating regime",
-        "Government-controlled operating regime",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Private Hajj Policy removes?",
-      "urdu": "پرائیویٹ حج پالیسی کس پرانے طریقۂ کار کو ختم کرتی ہے؟",
-      "options": [
-        "Digital controls",
-        "Performance-driven practices",
-        "Legacy quota-driven practices",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Private Hajj operators must be licensed under the?",
-      "urdu": "پرائیویٹ حج آپریٹرز کو کس قانون کے تحت لائسنس حاصل کرنا ضروری ہے؟",
-      "options": [
-        "Hajj Regulation Act, 2030",
-        "Hajj and Umrah (Regulation) Act, 2024",
-        "Hajj and Umrah Act, 2027",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy applies exclusively to private Hajj operators registered with?",
-      "urdu": "یہ پالیسی خصوصی طور پر ان پرائیویٹ حج آپریٹرز پر لاگو ہوتی ہے جو کس ادارے کے ساتھ رجسٹرڈ ہیں؟",
-      "options": [
-        "Securities and Exchange Commission of Pakistan (SECP)",
-        "State Bank of Pakistan (SBP)",
-        "Ministry of Religious Affairs",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
       "category": "all"
     }
