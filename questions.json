@@ -3,10 +3,466 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-15T02:12:54.373343",
+    "fetched_at": "2026-08-15T07:24:41.557516",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Being deemed non-operational will trigger?",
+      "urdu": "غیر فعال قرار دیے جانے پر کیا کارروائی ہوگی؟",
+      "options": [
+        "Automatic reallocation of pilgrims",
+        "Financial penalties",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An operator falling below the minimum booking threshold of 2,000 pilgrims will be deemed?",
+      "urdu": "دو ہزار عازمین کی کم از کم بکنگ کی حد سے کم رہنے والے آپریٹر کو کیا سمجھا جائے گا؟",
+      "options": [
+        "Operational",
+        "Non-operational",
+        "Accredited",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Annual renewal of licences will be based on?",
+      "urdu": "لائسنس کی سالانہ تجدید کن کارکردگی کی بنیاد پر ہوگی؟",
+      "options": [
+        "Financial performance",
+        "Operational performance",
+        "Compliance performance",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Private Hajj licences will be subject to?",
+      "urdu": "پرائیویٹ حج لائسنس کس چیز کے تابع ہوں گے؟",
+      "options": [
+        "Monthly renewal",
+        "Annual renewal",
+        "No renewal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How long will private Hajj licences remain valid?",
+      "urdu": "پرائیویٹ حج لائسنس کتنے عرصے تک قابلِ عمل رہیں گے؟",
+      "options": [
+        "One year",
+        "Two years",
+        "Three years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The standardized private Hajj packages are to be finalized and included in the?",
+      "urdu": "معیاری پرائیویٹ حج پیکجز کو حتمی شکل دے کر کس میں شامل کیا جائے گا؟",
+      "options": [
+        "Service Provider Agreement (SPA)",
+        "Companies Act, 2017",
+        "Financial Agreement",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The number of private Hajj packages may be considered appropriate by the?",
+      "urdu": "پرائیویٹ حج پیکجز کی تعداد کو مناسب کون سمجھ سکتا ہے؟",
+      "options": [
+        "SECP",
+        "Ministry",
+        "FBR",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Private Hajj operators shall be accredited by SCEP in accordance with a standardized range of?",
+      "urdu": "پرائیویٹ حج آپریٹرز کو کتنے معیاری پرائیویٹ حج پیکجز کی بنیاد پر منظوری دی جائے گی؟",
+      "options": [
+        "One private Hajj package",
+        "Two private Hajj packages",
+        "Three or more private Hajj packages",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "All private Hajj operators must be incorporated under the?",
+      "urdu": "تمام پرائیویٹ حج آپریٹرز کو کس قانون کے تحت کمپنی کے طور پر رجسٹرڈ ہونا ضروری ہے؟",
+      "options": [
+        "Companies Act, 2017",
+        "Hajj and Umrah (Regulation) Act, 2024",
+        "Companies Act, 2024",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The third-party accreditation approach supports alignment with?",
+      "urdu": "تیسرے فریق کی منظوری کا طریقہ کار کس وژن کے ساتھ ہم آہنگی میں مدد دیتا ہے؟",
+      "options": [
+        "Pakistan Vision 2025",
+        "Pakistan Vision 2030",
+        "Saudi Vision 2030",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Third-party accreditation reflects best practices used in?",
+      "urdu": "تیسرے فریق کی منظوری کن مارکیٹس میں استعمال ہونے والے بہترین طریقوں کی عکاسی کرتی ہے؟",
+      "options": [
+        "Mature pilgrimage markets",
+        "Developing financial markets",
+        "Local tourism markets",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The evaluation provides assurance to the public that only ______ entities are allowed to operate.",
+      "urdu": "تشخیص عوام کو یہ یقین دہانی کراتی ہے کہ صرف کون سے اداروں کو کام کرنے کی اجازت ہے؟",
+      "options": [
+        "Large and monopolistic",
+        "New and foreign",
+        "Compliant and capable",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The evaluation provides what kind of basis for regulatory decisions?",
+      "urdu": "تشخیص ریگولیٹری فیصلوں کے لیے کس قسم کی بنیاد فراہم کرتی ہے؟",
+      "options": [
+        "Litigation-resilient basis",
+        "Informal basis",
+        "Political basis",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The certification outcome will determine?",
+      "urdu": "سرٹیفیکیشن کا نتیجہ کن چیزوں کا تعین کرے گا؟",
+      "options": [
+        "Licensing eligibility",
+        "Tier assignment",
+        "Quota allocation",
+        "Future standing",
+        "All of these"
+      ],
+      "correct": 4,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Third-party accreditation will validate which of the following?",
+      "urdu": "تیسرے فریق کی منظوری درج ذیل میں سے کن چیزوں کی تصدیق کرے گی؟",
+      "options": [
+        "Financial solvency and Corporate maturity",
+        "Operational reliability and Service infrastructure",
+        "Saudi-side readiness",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Private Hajj companies must be registered with the?",
+      "urdu": "پرائیویٹ حج کمپنیوں کو کس ادارے کے ساتھ رجسٹرڈ ہونا ضروری ہے؟",
+      "options": [
+        "Federal Board of Revenue (FBR)",
+        "Securities and Exchange Commission of Pakistan (SECP)",
+        "Ministry of Foreign Affairs",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of third-party accreditation?",
+      "urdu": "تیسرے فریق کی منظوری کا مقصد کیا ہے؟",
+      "options": [
+        "To secure a neutral and globally accepted evaluation system",
+        "To increase subletting practices",
+        "To promote monopolistic behaviour",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who would undertake the registration and evaluation of all new and existing private Hajj companies?",
+      "urdu": "تمام نئی اور موجودہ پرائیویٹ حج کمپنیوں کی رجسٹریشن اور جانچ کون کرے گا؟",
+      "options": [
+        "Government officials only",
+        "A committee of independent experts / consultants or consulting firms",
+        "Private Hajj companies themselves",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Genuine competition and service innovation are promoted in the?",
+      "urdu": "حقیقی مسابقت اور خدمات میں جدت کس حج مارکیٹ میں فروغ دی جاتی ہے؟",
+      "options": [
+        "Government sector",
+        "Public Hajj market",
+        "Private Hajj market",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The policy further discourages?",
+      "urdu": "پالیسی مزید کن طریقوں کی حوصلہ شکنی کرتی ہے؟",
+      "options": [
+        "Third-party accreditation",
+        "Genuine competition and service innovation",
+        "Monopolistic behaviour and subletting practices",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Accountability is enhanced using?",
+      "urdu": "جوابدہی کو کن ذرائع سے بہتر بنایا جاتا ہے؟",
+      "options": [
+        "Digital dashboards",
+        "Audit trails",
+        "Direct financial oversight",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The policy protects pilgrim deposits through?",
+      "urdu": "پالیسی عازمین کے جمع شدہ پیسوں کی حفاظت کس ذریعے سے کرتی ہے؟",
+      "options": [
+        "Govt.-based payments",
+        "Monopolistic behaviour",
+        "Subletting practices",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The tiered licensing structure and third-party accreditation aim to eliminate?",
+      "urdu": "درجہ بندی پر مبنی لائسنسنگ اور تیسرے فریق کی منظوری کا مقصد کن مسائل کو ختم کرنا ہے؟",
+      "options": [
+        "Genuine competition",
+        "Service innovation",
+        "Past inefficiencies and risky practices",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The policy strengthens operator capability through?",
+      "urdu": "پالیسی آپریٹرز کی صلاحیت کو کس ذریعے سے مضبوط بناتی ہے؟",
+      "options": [
+        "A tiered licensing structure and third-party accreditation",
+        "Quota allocation and subletting practices",
+        "Monopolistic behaviour",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The policy aims to provide Hajj services for Pakistani pilgrims travelling through the?",
+      "urdu": "یہ پالیسی پاکستانی عازمین کو کس شعبے کے ذریعے حج کی خدمات فراہم کرنے کا مقصد رکھتی ہے؟",
+      "options": [
+        "Public sector",
+        "Private sector",
+        "Government sector",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary objective of the Private Hajj Policy?",
+      "urdu": "پرائیویٹ حج پالیسی کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "To increase Hajj quota",
+        "To ensure dignified, reliable, affordable, and safe Hajj services",
+        "To promote monopolistic behaviour",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The modern operating regime under the policy focuses on?",
+      "urdu": "پالیسی کے تحت جدید آپریٹنگ نظام کس چیز پر توجہ دیتا ہے؟",
+      "options": [
+        "Efficiency",
+        "Delivery quality",
+        "Pilgrim welfare",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The policy replaces legacy quota-driven practices with a?",
+      "urdu": "پالیسی پرانے کوٹہ پر مبنی طریقۂ کار کو کس نظام سے تبدیل کرتی ہے؟",
+      "options": [
+        "Modern, corporate, compliance-based operating regime",
+        "Traditional and informal operating regime",
+        "Government-controlled operating regime",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Private Hajj Policy removes?",
+      "urdu": "پرائیویٹ حج پالیسی کس پرانے طریقۂ کار کو ختم کرتی ہے؟",
+      "options": [
+        "Digital controls",
+        "Performance-driven practices",
+        "Legacy quota-driven practices",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Private Hajj operators must be licensed under the?",
+      "urdu": "پرائیویٹ حج آپریٹرز کو کس قانون کے تحت لائسنس حاصل کرنا ضروری ہے؟",
+      "options": [
+        "Hajj Regulation Act, 2030",
+        "Hajj and Umrah (Regulation) Act, 2024",
+        "Hajj and Umrah Act, 2027",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The policy applies exclusively to private Hajj operators registered with?",
+      "urdu": "یہ پالیسی خصوصی طور پر ان پرائیویٹ حج آپریٹرز پر لاگو ہوتی ہے جو کس ادارے کے ساتھ رجسٹرڈ ہیں؟",
+      "options": [
+        "Securities and Exchange Commission of Pakistan (SECP)",
+        "State Bank of Pakistan (SBP)",
+        "Ministry of Religious Affairs",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Private Hajj activities are aligned with?",
+      "urdu": "پرائیویٹ حج سرگرمیاں کن معیارات اور وژن کے مطابق ہیں؟",
+      "options": [
+        "National Regulatory Standards and Pakistan Vision 2030",
+        "National Regulatory Standards and Saudi Vision 2030",
+        "National Regulatory Standards and Saudi Vision 2025",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Private Hajj Policy has been designed to ensure that all private Hajj activities are?",
+      "urdu": "پرائیویٹ حج پالیسی اس بات کو یقینی بنانے کے لیے بنائی گئی ہے کہ تمام پرائیویٹ حج سرگرمیاں کیسی ہوں؟",
+      "options": [
+        "Digitally controlled",
+        "Financially secure",
+        "Performance-driven",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Private Hajj Policy covers private Hajj operations in Pakistan between?",
+      "urdu": "پرائیویٹ حج پالیسی پاکستان میں پرائیویٹ حج آپریشنز کو کس مدت کے دوران کور کرتی ہے؟",
+      "options": [
+        "2024 and 2027",
+        "2025 and 2029",
+        "2027 and 2030",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Private Hajj Policy 2027 provides what type of governance framework for private Hajj operations in Pakistan?",
+      "urdu": "پرائیویٹ حج پالیسی 2027 پاکستان میں پرائیویٹ حج آپریشنز کے لیے کس قسم کا گورننس فریم ورک فراہم کرتی ہے؟",
+      "options": [
+        "Temporary and informal governance framework",
+        "Unified and transparent governance framework",
+        "Quota-based governance framework",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The hydraulic depth of a circular sewer flowing full is?",
       "urdu": "ڈیموں کی تعمیر کے لیے کس قسم کی سیمنٹ استعمال کی جاتی ہے؟",
@@ -199,461 +655,6 @@
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Financial statement manipulation is known as ______?",
-      "urdu": "مالی بیانات میں ہیرا پھیری کو کیا جاتا ہے؟",
-      "options": [
-        "Management Accounting",
-        "Creative Accounting",
-        "Cost Accounting",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A source of inherent risk is ______?",
-      "urdu": "موروثی خطرہ کا ایک ذریعہ کیا ہے؟",
-      "options": [
-        "Human error",
-        "Internal control",
-        "Audit evidence",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to the Time Value of Money (TVM), ______?",
-      "urdu": "پیسے کی ٹائم ویلیو کے مطابق روپے 1 آج کل کیسا ہوتا ہے؟",
-      "options": [
-        "Rs. 1 tomorrow is worth more than Rs. 1 today",
-        "Rs. 1 today is worth more than Rs. 1 tomorrow",
-        "Rs. 1 today and tomorrow have equal value",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Treasury stock refers to shares ______?",
-      "urdu": "ٹریژری اسٹاک سے مراد وہ شیئرز ہیں جو کمپنی نے ______؟",
-      "options": [
-        "Repurchased by the company from the market",
-        "Issued to the public for the first time",
-        "Held by the government",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A contingent liability ______?",
-      "urdu": "ہنگامی ذمہ داری کیا ہوتی ہے؟",
-      "options": [
-        "Is never a liability",
-        "Is always a liability",
-        "May or may not become a liability",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Contribution Margin is ______?",
-      "urdu": "شراکت کا مارجن کیا ہوتا ہے؟",
-      "options": [
-        "Sales − Fixed Cost",
-        "Sales − Variable Cost",
-        "Sales + Variable Cost",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The correct form of Accounting equation is ______?",
-      "urdu": "اکاؤنٹنگ مساوات کی درست شکل کیا ہے؟",
-      "options": [
-        "Assets = Liabilities + Equity",
-        "Assets + Liabilities = Equity",
-        "Assets – Liabilities = Equity",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Resources that provide long-term benefits are called ______?",
-      "urdu": "وہ وسائل جو طویل عرصے تک فراہم کرتے ہیں، انہیں مدت کیا کہتے ہیں؟",
-      "options": [
-        "Assets",
-        "Liabilities",
-        "Expenses",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Working Capital is calculated as ______?",
-      "urdu": "ورکنگ کیپیٹل کس طرح حساب کیا جاتا ہے؟",
-      "options": [
-        "Current Liabilities − Current Assets",
-        "Current Assets − Current Liabilities",
-        "Current Assets + Current Liabilities",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hedging reduces ______?",
-      "urdu": "ہیجنگ کس کو کم کرتا ہے؟",
-      "options": [
-        "Exchange risk",
-        "Business profit",
-        "Sales revenue",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bookkeeper mistakenly treats a capital expenditure item as revenue expenditure. What is the effects of this error?",
-      "urdu": "ایک بک کیپر غلطی سے سرمائے کے اخراجات کی چیز کو محصول کے اخراجات کے طور پر سمجھتا ہے۔  اس غلطی کے اثرات کیا ہیں؟",
-      "options": [
-        "Net profit is overstated",
-        "Total assets are understated",
-        "Gross profit is understated",
-        "Total assets are overstated"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In variable costing and segment reporting, segment margin is calculated as ______?",
-      "urdu": "متغیر لاگت اور سیگمنٹ رپورٹنگ سیگمنٹ مارجن میں کیسے کیلکولیشن کیا جاتا ہے؟",
-      "options": [
-        "Sales − Variable Costs",
-        "Segment Contribution Margin − Traceable Fixed Costs",
-        "Sales − Fixed Costs",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is a formula of perimeter of rectangle?",
-      "urdu": "مستطیل کے دائرہ کار کا فارمولا کیا ہے؟",
-      "options": [
-        "2 (length + width)",
-        "2 (length × width)",
-        "Length + width",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 14-08-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In cumulative preferred stock, unpaid dividends must be paid before ______?",
-      "urdu": "مجموعی ترجیحی اسٹاک میں غیر ادا شدہ منافع کو کس سے پہلے ادا کرنا ضروری ہے؟",
-      "options": [
-        "Paying any future cash dividend to common shareholders",
-        "Paying interest on debt",
-        "Issuing new shares",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to OECD principles, institutional investors are required to ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Disclose only financial statements",
-        "Disclose voting records and conflicts of interest",
-        "Avoid voting in company matters",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a U.S. firm has €3 million payable in the future, which option should it buy to hedge against a rise in the euro's value?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Call option on Euro",
-        "Put option on Euro",
-        "Call option on U.S. Dollar",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bank has assets of Rs. 100 million with a 5-year modified duration and liabilities with a 2-year duration. What is the Duration Gap?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2 years",
-        "3 years",
-        "3.4 years",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Duration Gap = D_A - (L/A × D_L)</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The face value of a bond is Rs. 1,000, coupon rate is 5%, and market price is Rs. 950. What is the approximate YTM?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5.26%",
-        "6.00%",
-        "6.90%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Annual Coupon = 5% of 1000 = Rs. 50  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The maximum tax adjustment is ______ of the output tax.",
-      "urdu": "زیادہ سے زیادہ ٹیکس ایڈجسٹمنٹ، آؤٹ پٹ ٹیکس کتنا فیصد ہے؟",
-      "options": [
-        "90%",
-        "50%",
-        "75%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A company means an entity incorporated according to ______?",
-      "urdu": "کمپنی سے مراد ایسا ادارہ ہے جو کس کے تحت شامل کیا گیا ہے؟",
-      "options": [
-        "Any law",
-        "Government policy only",
-        "Court order",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Machine learning in financial analytics is mainly used for ______?",
-      "urdu": "مالیاتی تجزیات میں مشین لرننگ بنیادی طور پر کس کام کے لیے استعمال ہوتی ہے؟",
-      "options": [
-        "Manual bookkeeping",
-        "Predicting trends and detecting patterns",
-        "Preparing handwritten accounts",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the accounting entry for prepaid expense when it is recognized as an expense?",
-      "urdu": "جب پری پیڈ اخراجات کو خرچ کے طور پر تسلیم کیا جائے تو اکاؤنٹنگ انٹری کیا کریں؟",
-      "options": [
-        "Cash A/C Dr. → Expense A/C Cr.",
-        "Prepaid Expense A/C Dr. → Expense A/C Cr.",
-        "Expense A/C Dr. → Prepaid Expense A/C Cr.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Security Market Line (SML) represents the relationship between which two variables?",
-      "urdu": "سیکورٹی مارکیٹ لائن کن دو متغیرات کے درمیان تعلق ظاہر ہوتا ہے؟",
-      "options": [
-        "Beta and expected return",
-        "Risk-free rate and market risk premium",
-        "Systematic risk (Beta) and expected return",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the value for taxable services?",
-      "urdu": "قابل ٹیکس خدمات کی قیمت کیا ہوتی ہے؟",
-      "options": [
-        "Cost of services",
-        "Consideration",
-        "Price collected",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ایسے الفاظ جو کسی دوسرے لفظ سے لیے گئے ہوں بغیر کسی تبدیلی کے، انہیں کیا کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "دخیل الفاظ",
-        "مرکب الفاظ",
-        "متضاد الفاظ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">دخیل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الفاظ</font><font color=\"#0000ff\"> وہ الفاظ ہیں جو </font><font color=\"#ff0000\">کسی دوسری زبان</font><font color=\"#0000ff\"> سے لیے گئے ہوں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zero tax means services are ______?",
-      "urdu": "زیرو ٹیکس کا مطلب ہے کہ خدمات کیا ہوتی ہیں؟",
-      "options": [
-        "Fully taxable at the standard rate",
-        "Exempt from tax",
-        "Zero-rated, not exempted",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Services originating in Punjab and delivered to other provinces should be ______?",
-      "urdu": "پنجاب سے ہونے والی اور دوسرے صوبوں میں فراہم کی جانے والی خدمات شروع کرنا چاہیں؟",
-      "options": [
-        "Exempt from tax",
-        "Taxable",
-        "Non-taxable",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Scientific Management focuses on ______?",
-      "urdu": "سائنسی انتظام کس چیز پر توجہ دیتا ہے؟",
-      "options": [
-        "Political participation",
-        "Specialization and efficiency",
-        "Employee welfare only",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Corporate strategy determines what businesses a company wants to ______?",
-      "urdu": "کارپوریٹ حکمت عملی یہ فیصلہ کرتی ہے کہ کمپنی کن کاروباروں میں ______ ہے؟",
-      "options": [
-        "Sell",
-        "Manage",
-        "Be in",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Decision-making of politicians is bounded by ______?",
-      "urdu": "سیاستدانوں کی فیصلہ سازی کن سے محدود ہوتی ہے؟",
-      "options": [
-        "Knowledge",
-        "Time",
-        "Resources",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Parliament or legislature does NOT take ______?",
-      "urdu": "پارلیمنٹ یا مقننہ کون سے ووٹ نہیں دیتا؟",
-      "options": [
-        "Financial decisions",
-        "Policy decisions",
-        "Legislative decisions",
-        "Judicial decisions"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A structured problem in which decision-makers know the possible outcomes is called a ______?",
-      "urdu": "ایسا ساختی مسئلہ جس میں فیصلہ سازوں کے سامنے نتائج معلوم ہوں، اسے کیا کہتے ہیں؟",
-      "options": [
-        "Certainty condition",
-        "Risk condition",
-        "Uncertainty condition",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to Group Theory, public policy is the outcome of ______?",
-      "urdu": "گروپ تھیوری کے مطابق عوامی پالیسی کس کا نتیجہ ہوتی ہے؟",
-      "options": [
-        "Government planning",
-        "Group struggle",
-        "Individual decisions",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Bank charges are not disclosed in ______?",
-      "urdu": "بینک چارجز کہاں ظاہر نہیں کیے جاتے ہیں؟",
-      "options": [
-        "Notes to Accounts",
-        "Cash Book",
-        "Bank Reconciliation Statement",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which account is NOT aggregated when combining the parent and subsidiary companies?",
-      "urdu": "والدین اور ذیلی کمپنیوں کو یکجا کرتے وقت کون سا اکاؤنٹ مجموعی نہیں کیا جاتا؟",
-      "options": [
-        "Revenue",
-        "Assets",
-        "Liabilities",
-        "Share Capital"
-      ],
-      "correct": 3,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
       "category": "all"
     }
