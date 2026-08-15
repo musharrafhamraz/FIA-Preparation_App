@@ -3,10 +3,257 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-15T07:24:41.557516",
+    "fetched_at": "2026-08-15T13:25:46.282136",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "احمد ندیم قاسمی کا کونسا افسانہ ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "زیور کا ڈبہ",
+        "بھروپیا",
+        "الحمداللہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Tier-Based Recognition Letter (TRL) confirms the operator's?",
+      "urdu": "درجے کی بنیاد پر شناختی خط آپ کی تصدیق کس کی تصدیق کرتا ہے؟",
+      "options": [
+        "Tax status",
+        "Capacity status for future Hajj operations",
+        "Visa status",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Based on the evaluation, operators will be awarded a?",
+      "urdu": "جائزے کی بنیاد پر آپریٹرز کو کون سا خط دیا جائے گا؟",
+      "options": [
+        "Pre-Registration Clearance Certificate (PRCC)",
+        "Hajj Operations Recognition Letter (HORL)",
+        "Tier-Based Recognition Letter (TRL)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following will be examined during the reassessment process?",
+      "urdu": "دوبارہ جانچ کے عمل کے دوران درج ذیل میں سے کن چیزوں کا جائزہ لیا جائے گا؟",
+      "options": [
+        "Audited financial results and Paid-up capital",
+        "Service delivery history and Grievance record",
+        "Corporate and digital management standards",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The reassessment process will determine the operator's?",
+      "urdu": "دوبارہ جانچ کا عمل آپریٹر کی کن چیزوں کا تعین کرے گا؟",
+      "options": [
+        "Eligibility and appropriate operational tier",
+        "Tax rate and visa status",
+        "Pilgrim nationality",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The compulsory reassessment process will be conducted as per?",
+      "urdu": "لازمی دوبارہ جانچ کا عمل کس پیرا کے مطابق کیا جائے گا؟",
+      "options": [
+        "Para 1",
+        "Para 2",
+        "Para 3",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Existing SECP-registered private Hajj operators will be revalidated through a?",
+      "urdu": "موجودہ ایس ای سی پی کے ساتھ رجسٹرڈ پرائیویٹ حج آپریٹرز کی دوبارہ تصدیق کس عمل کے ذریعے کی جائے گی؟",
+      "options": [
+        "Compulsory reassessment process",
+        "Voluntary reassessment process",
+        "Temporary registration process",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which private Hajj operators will be revalidated under the policy?",
+      "urdu": "پالیسی کے تحت کن پرائیویٹ حج آپریٹرز کی دوبارہ تصدیق کی جائے گی؟",
+      "options": [
+        "Saudi Hajj operators",
+        "New Hajj operators",
+        "Existing SECP-registered private Hajj operators",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "New entities will be authorised to serve pilgrims only after?",
+      "urdu": "نئی کمپنیوں کو عازمین کی خدمت کی اجازت کب دی جائے گی؟",
+      "options": [
+        "Completing the first phase only",
+        "Receiving the PRCC only",
+        "Completing both phases",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who issues the Hajj Operations Recognition Letter (HORL)?",
+      "urdu": "حج آپریشنز ریکگنیشن لیٹر کون جاری کرتا ہے؟",
+      "options": [
+        "Ministry",
+        "SECP",
+        "FBR",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which letter must be received from the Ministry in the second phase?",
+      "urdu": "دوسرے مرحلے میں وزارت سے کون سا خط حاصل کرنا ضروری ہے؟",
+      "options": [
+        "Service Provider Agreement (SPA)",
+        "Pre-Registration Clearance Certificate (PRCC)",
+        "Hajj Operations Recognition Letter (HORL)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the second phase, applicants must comply with all?",
+      "urdu": "دوسرے مرحلے میں درخواست گزاروں کو کن تمام تقاضوں کی پابندی کرنا ہوگی؟",
+      "options": [
+        "Corporate governance and internal control requirements",
+        "Financial and tax requirements only",
+        "Saudi visa requirements only",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The second phase requires registration with?",
+      "urdu": "دوسرے مرحلے میں کس ادارے کے ساتھ رجسٹریشن ضروری ہے؟",
+      "options": [
+        "Saudi Ministry of Hajj",
+        "SECP",
+        "FBR",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The PRCC allows the applicant to proceed with?",
+      "urdu": "پی آر سی سی درخواست گزار کو کس کام کے لیے آگے بڑھنے کی اجازت دیتا ہے؟",
+      "options": [
+        "Formal incorporation under the relevant Hajj services tier",
+        "Pilgrim booking",
+        "Licence renewal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Upon completing the assessment process, the Ministry may issue the?",
+      "urdu": "اسیسمنٹ کا عمل مکمل ہونے کے بعد وزارت کون سا سرٹیفکیٹ جاری کر سکتی ہے؟",
+      "options": [
+        "Hajj Operations Recognition Letter (HORL)",
+        "Pre-Registration Clearance Certificate (PRCC)",
+        "Service Provider Agreement (SPA)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following must be presented during pre-assessment?",
+      "urdu": "پری اسیسمنٹ کے دوران درج ذیل میں سے کون سی چیزیں پیش کرنا ضروری ہیں؟",
+      "options": [
+        "Proposed ownership structure and Financial capacity",
+        "Intended operational tier and Governance readiness",
+        "Digital systems capability",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The pre-assessment application must be submitted as per?",
+      "urdu": "پری اسیسمنٹ کی درخواست کس پیرا کے مطابق جمع کرانی ہوگی؟",
+      "options": [
+        "Para 1",
+        "Para 2",
+        "Para 3",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the first stage, prospective new entrants must submit an application for?",
+      "urdu": "پہلے مرحلے میں نئے داخل ہونے والے امیدواروں کو کس چیز کے لیے درخواست دینا ضروری ہے؟",
+      "options": [
+        "Pre-assessment",
+        "Final registration",
+        "Hajj Operations Recognition",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many stages are included in the entry pathway for prospective new entrants to the Hajj market?",
+      "urdu": "حج مارکیٹ میں نئے داخل ہونے والوں کے لیے داخلے کے راستے میں کتنے مراحل شامل ہیں؟",
+      "options": [
+        "One stage",
+        "Two stages",
+        "Three stages",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Being deemed non-operational will trigger?",
       "urdu": "غیر فعال قرار دیے جانے پر کیا کارروائی ہوگی؟",
@@ -409,253 +656,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Private Hajj activities are aligned with?",
-      "urdu": "پرائیویٹ حج سرگرمیاں کن معیارات اور وژن کے مطابق ہیں؟",
-      "options": [
-        "National Regulatory Standards and Pakistan Vision 2030",
-        "National Regulatory Standards and Saudi Vision 2030",
-        "National Regulatory Standards and Saudi Vision 2025",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Private Hajj Policy has been designed to ensure that all private Hajj activities are?",
-      "urdu": "پرائیویٹ حج پالیسی اس بات کو یقینی بنانے کے لیے بنائی گئی ہے کہ تمام پرائیویٹ حج سرگرمیاں کیسی ہوں؟",
-      "options": [
-        "Digitally controlled",
-        "Financially secure",
-        "Performance-driven",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Private Hajj Policy covers private Hajj operations in Pakistan between?",
-      "urdu": "پرائیویٹ حج پالیسی پاکستان میں پرائیویٹ حج آپریشنز کو کس مدت کے دوران کور کرتی ہے؟",
-      "options": [
-        "2024 and 2027",
-        "2025 and 2029",
-        "2027 and 2030",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Private Hajj Policy 2027 provides what type of governance framework for private Hajj operations in Pakistan?",
-      "urdu": "پرائیویٹ حج پالیسی 2027 پاکستان میں پرائیویٹ حج آپریشنز کے لیے کس قسم کا گورننس فریم ورک فراہم کرتی ہے؟",
-      "options": [
-        "Temporary and informal governance framework",
-        "Unified and transparent governance framework",
-        "Quota-based governance framework",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The hydraulic depth of a circular sewer flowing full is?",
-      "urdu": "ڈیموں کی تعمیر کے لیے کس قسم کی سیمنٹ استعمال کی جاتی ہے؟",
-      "options": [
-        "D/2",
-        "D/4",
-        "πD/4",
-        "2D/π"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In the ratio 1:5, what does the number 5 represent?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cement",
-        "Water",
-        "Sand",
-        "Aggregate"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(33, 37, 41);\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last updated by NS on 14-8-2026</font></span><font color=\"#0000ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which type of stone is commonly used for bridge pillars (piers)?",
-      "urdu": "پل کے ستونوں کی تعمیر کے لیے عام طور پر کس قسم کا پتھر استعمال کیا جاتا ہے؟",
-      "options": [
-        "Slate",
-        "Shale",
-        "Granite",
-        "Gypsum"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(33, 37, 41);\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last updated by NS on 14-8-2026</font></span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The length of a line measured with a 20 m chain was found to be 250 m. Calculate the true length of the line if the chain was 10 cm longer.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "248.75 m",
-        "249.00 m",
-        "251.25 m",
-        "252.50 m"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"185\" data-start=\"177\"><font color=\"#ff9c00\">Formula:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "(102)^2",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10,204",
-        "10,402",
-        "10,404",
-        "10,408"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Use the formula: (a+b)^<span style=\"font-size: 0.875rem;\">2</span><span style=\"font-size: 0.875rem;\">=a^</span><span style=\"font-size: 0.875rem;\">2 </span><span style=\"font-size: 0.875rem;\">+2ab+b^</span><span style=\"font-size: 0.875rem;\">2</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A series of steps of a stair is called?",
-      "urdu": "نانک شاہی کیلنڈر کا پہلا مہینہ کون سا ہے؟",
-      "options": [
-        "Landing",
-        "Tread",
-        "Flight",
-        "Riser"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the second Prime Minister of Pakistan?",
-      "urdu": "پاکستان کا دوسرا وزیر اعظم کون تھا؟",
-      "options": [
-        "Ch Muhammad Ali",
-        "Kh. Nazim-ud-Din",
-        "Liaquat Ali Khan",
-        "D. Feroze Khan Noon"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"width: 390px; min-height: 1px; padding-right: 15px; padding-left: 15px; -webkit-box-flex: 0; flex-basis: 83.3333%; max-width: 83.3333%;\"></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which decision is NOT related to a Financial Manager?",
-      "urdu": "کون سا فیصلہ فنانشل مینیجر سے متعلق نہیں ہے؟",
-      "options": [
-        "Production decision",
-        "Investment decision",
-        "Financing decision",
-        "Dividend decision"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Tone at the Top refers to ______?",
-      "urdu": "ٹون سب سے اوپر سے کیا مراد ہے؟",
-      "options": [
-        "Rules made by junior employees",
-        "Ethical values created by top leadership",
-        "Financial targets set by accountants",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The life of a business is divided into ______?",
-      "urdu": "کاروبار کی زندگی کو کس میں تقسیم کیا جاتا ہے؟",
-      "options": [
-        "Accounting periods",
-        "Financial assets",
-        "Business cycles",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the tax rate changes during a tax period, the taxpayer will file ______?",
-      "urdu": "اگر ٹیکس کی مدت کے دوران ٹیکس کی شرح میں تبدیلی ہو تو ٹیکس دہندہ کیا فائل کرے گا؟",
-      "options": [
-        "One return for the entire period",
-        "Separate returns for the previous and changed tax rates",
-        "Only a return at the old tax rate",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sales Tax on Services in Punjab is administered by the ______?",
-      "urdu": "پنجاب میں سروسز پر سیلز ٹیکس کس ادارے کے ذریعے ایڈمنسٹریشن کیا جاتا ہے؟",
-      "options": [
-        "Federal Board of Revenue (FBR)",
-        "Punjab Revenue Authority (PRA)",
-        "State Bank of Pakistan (SBP)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The risk-return tradeoff means ______?",
-      "urdu": "رسک ریٹرن ٹریڈ آف سے کیا مراد ہے؟",
-      "options": [
-        "High risk, high return",
-        "High risk, low return",
-        "Low risk, high return",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Appreciation means ______?",
-      "urdu": "تعریف کیا مراد ہے؟",
-      "options": [
-        "Increase in dollar value against the rupee",
-        "Decrease in rupee value against the dollar",
-        "Increase in rupee value against the dollar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Cost of Capital is the ______?",
-      "urdu": "سرمائے کی لاگت کیا ہے؟",
-      "options": [
-        "Market price of shares",
-        "Required rate of return",
-        "Accounting profit",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
       "category": "all"
     }
   ]
