@@ -3,10 +3,257 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-16T02:19:59.118252",
+    "fetched_at": "2026-08-16T07:25:15.638212",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The financial management system aims to eliminate the long-standing risk of?",
+      "urdu": "مالیاتی انتظام کا نظام کس دیرینہ خطرے کو ختم کرنے کا مقصد رکھتا ہے؟",
+      "options": [
+        "Digital payments",
+        "Competition and innovation",
+        "Fund diversion or misappropriation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The controlled digital refund process ensures?",
+      "urdu": "کنٹرول شدہ ڈیجیٹل ریفنڈ کا عمل کیا یقینی بناتا ہے؟",
+      "options": [
+        "Financial transparency",
+        "Fund diversion",
+        "Misappropriation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Refunds will follow a?",
+      "urdu": "رقم کی واپسی کس طریقہ کار کے تحت ہوگی؟",
+      "options": [
+        "Private process",
+        "Manual process",
+        "Controlled digital process",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Private Hajj operators are prohibited from?",
+      "urdu": "پرائیویٹ حج آپریٹرز کو کن کاموں سے منع کیا گیا ہے؟",
+      "options": [
+        "Collecting funds",
+        "Holding funds",
+        "Transferring funds",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Funds will be disbursed to Saudi service providers under?",
+      "urdu": "سعودی سروس فراہم کرنے والوں کو فنڈز کس قسم کے معاہدوں کے تحت جاری کیے جائیں گے؟",
+      "options": [
+        "Informal agreements",
+        "Verbal agreements",
+        "Verified agreements",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pilgrim payments will be digitally tagged to?",
+      "urdu": "عازمین کی ادائیگیوں کو ڈیجیٹل طور پر کن ریکارڈز سے منسلک کیا جائے گا؟",
+      "options": [
+        "Operator records only",
+        "Individual records only",
+        "Both operator and individual records",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Government Account will be maintained with the?",
+      "urdu": "حکومتی اکاؤنٹ کس ادارے کے پاس برقرار رکھا جائے گا؟",
+      "options": [
+        "National Bank of Pakistan",
+        "State Bank of Pakistan",
+        "Securities and Exchange Commission of Pakistan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Government Account will be maintained with the?",
+      "urdu": "حکومتی اکاؤنٹ کس ادارے کے پاس برقرار رکھا جائے گا؟",
+      "options": [
+        "National Bank of Pakistan",
+        "State Bank of Pakistan",
+        "Securities and Exchange Commission of Pakistan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "All financial transactions relating to private Hajj operations will be executed exclusively through a?",
+      "urdu": "پرائیویٹ حج آپریشنز سے متعلق تمام مالی لین دین خصوصی طور پر کس اکاؤنٹ کے ذریعے کیا جائے گا؟",
+      "options": [
+        "Operator's Account",
+        "Private Bank Account",
+        "Government Account",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who will maintain audit trails and backup protocols to safeguard the integrity of digital data?",
+      "urdu": "ڈیجیٹل ڈیٹا کی سالمیت کو محفوظ رکھنے کے لیے آڈٹ ٹریلز اور بیک اپ پروٹوکول کون برقرار رکھے گا؟",
+      "options": [
+        "Ministry",
+        "SECP",
+        "NADRA",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Manual handling is prohibited to eliminate the risk of?",
+      "urdu": "دستی طریقے سے کام کرنے پر پابندی کس خطرے کو ختم کرنے کے لیے ہے؟",
+      "options": [
+        "Digital verification",
+        "Competition",
+        "Fraud or manipulation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Prohibition of manual handling ensures?",
+      "urdu": "دستی طریقے سے کام کرنے پر پابندی کس چیز کو یقینی بناتی ہے؟",
+      "options": [
+        "Manual verification",
+        "Full transparency",
+        "Increased monopolistic control",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Manual handling of data, bookings, or payments is?",
+      "urdu": "ڈیٹا، بکنگ یا ادائیگیوں کو دستی طور پر سنبھالنا کیسا ہے؟",
+      "options": [
+        "Optional",
+        "Permitted",
+        "Strictly prohibited",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The integration of PHMP with SECP, NADRA, and SBP is intended for?",
+      "urdu": "پی ایچ ایم پی، ایس ای سی پی، نادرا اور اسٹیٹ بینک کے ساتھ رابطہ کرنے کا مقصد کیا ہے؟",
+      "options": [
+        "Manual booking",
+        "End-to-end verification",
+        "Quota allocation only",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Unique Hajj Identification Number will be linked to?",
+      "urdu": "منفرد حج شناختی نمبر کس چیز سے منسلک ہوگا؟",
+      "options": [
+        "Identity and payment records",
+        "Only passport records",
+        "Only booking records",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Each pilgrim will be issued a?",
+      "urdu": "ہر حاجی کو کون سا نمبر جاری کیا جائے گا؟",
+      "options": [
+        "Private Hajj Licence Number",
+        "Saudi Registration Number",
+        "Unique Hajj Identification Number",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a function of PHMP?",
+      "urdu": "پی ایچ ایم پی کے درج ذیل میں کون سا کام ہے؟",
+      "options": [
+        "Operator registration",
+        "Real-time booking",
+        "Quota execution and monitoring",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "PHMP serves as the?",
+      "urdu": "پی ایچ ایم پی کس بنیاد پر کام کرتا ہے؟",
+      "options": [
+        "Financial institution",
+        "Central digital infrastructure",
+        "Licensing authority",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "All private Hajj operations will be conducted through the?",
+      "urdu": "تمام پرائیویٹ حج آپریشنز کس نظام کے ذریعے کیے جائیں گے؟",
+      "options": [
+        "Private Hajj Management Portal (PHMP)",
+        "Service Provider Agreement (SPA)",
+        "SECP Portal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The elevation of a benchmark plus the back sight is termed as:",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -408,253 +655,6 @@
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will the assessment, accreditation, and registration framework confirm?",
-      "urdu": "اسیسمنٹ، ایکریڈیٹیشن اور رجسٹریشن کا فریم ورک ہر پرائیویٹ حج آپریٹر کی کس صلاحیت کی تصدیق کرے گا؟",
-      "options": [
-        "Quota entitlement",
-        "Operational capacity of each private Hajj operator",
-        "Pilgrim nationality",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "احمد ندیم قاسمی کا کونسا افسانہ ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "زیور کا ڈبہ",
-        "بھروپیا",
-        "الحمداللہ",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Tier-Based Recognition Letter (TRL) confirms the operator's?",
-      "urdu": "درجے کی بنیاد پر شناختی خط آپ کی تصدیق کس کی تصدیق کرتا ہے؟",
-      "options": [
-        "Tax status",
-        "Capacity status for future Hajj operations",
-        "Visa status",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Based on the evaluation, operators will be awarded a?",
-      "urdu": "جائزے کی بنیاد پر آپریٹرز کو کون سا خط دیا جائے گا؟",
-      "options": [
-        "Pre-Registration Clearance Certificate (PRCC)",
-        "Hajj Operations Recognition Letter (HORL)",
-        "Tier-Based Recognition Letter (TRL)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following will be examined during the reassessment process?",
-      "urdu": "دوبارہ جانچ کے عمل کے دوران درج ذیل میں سے کن چیزوں کا جائزہ لیا جائے گا؟",
-      "options": [
-        "Audited financial results and Paid-up capital",
-        "Service delivery history and Grievance record",
-        "Corporate and digital management standards",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The reassessment process will determine the operator's?",
-      "urdu": "دوبارہ جانچ کا عمل آپریٹر کی کن چیزوں کا تعین کرے گا؟",
-      "options": [
-        "Eligibility and appropriate operational tier",
-        "Tax rate and visa status",
-        "Pilgrim nationality",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The compulsory reassessment process will be conducted as per?",
-      "urdu": "لازمی دوبارہ جانچ کا عمل کس پیرا کے مطابق کیا جائے گا؟",
-      "options": [
-        "Para 1",
-        "Para 2",
-        "Para 3",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Existing SECP-registered private Hajj operators will be revalidated through a?",
-      "urdu": "موجودہ ایس ای سی پی کے ساتھ رجسٹرڈ پرائیویٹ حج آپریٹرز کی دوبارہ تصدیق کس عمل کے ذریعے کی جائے گی؟",
-      "options": [
-        "Compulsory reassessment process",
-        "Voluntary reassessment process",
-        "Temporary registration process",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which private Hajj operators will be revalidated under the policy?",
-      "urdu": "پالیسی کے تحت کن پرائیویٹ حج آپریٹرز کی دوبارہ تصدیق کی جائے گی؟",
-      "options": [
-        "Saudi Hajj operators",
-        "New Hajj operators",
-        "Existing SECP-registered private Hajj operators",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "New entities will be authorised to serve pilgrims only after?",
-      "urdu": "نئی کمپنیوں کو عازمین کی خدمت کی اجازت کب دی جائے گی؟",
-      "options": [
-        "Completing the first phase only",
-        "Receiving the PRCC only",
-        "Completing both phases",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who issues the Hajj Operations Recognition Letter (HORL)?",
-      "urdu": "حج آپریشنز ریکگنیشن لیٹر کون جاری کرتا ہے؟",
-      "options": [
-        "Ministry",
-        "SECP",
-        "FBR",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which letter must be received from the Ministry in the second phase?",
-      "urdu": "دوسرے مرحلے میں وزارت سے کون سا خط حاصل کرنا ضروری ہے؟",
-      "options": [
-        "Service Provider Agreement (SPA)",
-        "Pre-Registration Clearance Certificate (PRCC)",
-        "Hajj Operations Recognition Letter (HORL)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the second phase, applicants must comply with all?",
-      "urdu": "دوسرے مرحلے میں درخواست گزاروں کو کن تمام تقاضوں کی پابندی کرنا ہوگی؟",
-      "options": [
-        "Corporate governance and internal control requirements",
-        "Financial and tax requirements only",
-        "Saudi visa requirements only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The second phase requires registration with?",
-      "urdu": "دوسرے مرحلے میں کس ادارے کے ساتھ رجسٹریشن ضروری ہے؟",
-      "options": [
-        "Saudi Ministry of Hajj",
-        "SECP",
-        "FBR",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The PRCC allows the applicant to proceed with?",
-      "urdu": "پی آر سی سی درخواست گزار کو کس کام کے لیے آگے بڑھنے کی اجازت دیتا ہے؟",
-      "options": [
-        "Formal incorporation under the relevant Hajj services tier",
-        "Pilgrim booking",
-        "Licence renewal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Upon completing the assessment process, the Ministry may issue the?",
-      "urdu": "اسیسمنٹ کا عمل مکمل ہونے کے بعد وزارت کون سا سرٹیفکیٹ جاری کر سکتی ہے؟",
-      "options": [
-        "Hajj Operations Recognition Letter (HORL)",
-        "Pre-Registration Clearance Certificate (PRCC)",
-        "Service Provider Agreement (SPA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following must be presented during pre-assessment?",
-      "urdu": "پری اسیسمنٹ کے دوران درج ذیل میں سے کون سی چیزیں پیش کرنا ضروری ہیں؟",
-      "options": [
-        "Proposed ownership structure and Financial capacity",
-        "Intended operational tier and Governance readiness",
-        "Digital systems capability",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The pre-assessment application must be submitted as per?",
-      "urdu": "پری اسیسمنٹ کی درخواست کس پیرا کے مطابق جمع کرانی ہوگی؟",
-      "options": [
-        "Para 1",
-        "Para 2",
-        "Para 3",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the first stage, prospective new entrants must submit an application for?",
-      "urdu": "پہلے مرحلے میں نئے داخل ہونے والے امیدواروں کو کس چیز کے لیے درخواست دینا ضروری ہے؟",
-      "options": [
-        "Pre-assessment",
-        "Final registration",
-        "Hajj Operations Recognition",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
       "category": "all"
     }
