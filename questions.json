@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-15T19:13:05.435829",
+    "fetched_at": "2026-08-16T02:19:59.118252",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The elevation of a benchmark plus the back sight is termed as:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Reduced Level (R.L.)",
+        "Height of Collimation",
+        "Height of Instrument (H.I.)",
+        "Fore Sight (F.S.)"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "After setting up a surveying instrument, the first reading taken is called:",
+      "urdu": "سروے کے آلے کو نصب کرنے کے بعد لی جانے والی پہلی ریڈنگ کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Fore sight",
+        "Intermediate sight",
+        "Back sight",
+        "Reduced level"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The alignment of highways is generally taken along?",
+      "urdu": "شاہراہوں کی سیدھ (الائنمنٹ) عموماً کس راستے کے ساتھ مقرر کی جاتی ہے؟",
+      "options": [
+        "Valley line",
+        "Contour line",
+        "Ridge line",
+        "Drainage line"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The material used for the handles of a surveying chain is:",
+      "urdu": "سروے کی زنجیر کے دستوں (ہینڈلز) کے لیے کون سا مواد استعمال کیا جاتا ہے؟",
+      "options": [
+        "Steel",
+        "Iron",
+        "Brass",
+        "Aluminum"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
+      "category": "all"
+    },
     {
       "q": "The number of links in a 20 m metric chain is:",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -603,58 +655,6 @@
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many stages are included in the entry pathway for prospective new entrants to the Hajj market?",
-      "urdu": "حج مارکیٹ میں نئے داخل ہونے والوں کے لیے داخلے کے راستے میں کتنے مراحل شامل ہیں؟",
-      "options": [
-        "One stage",
-        "Two stages",
-        "Three stages",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Being deemed non-operational will trigger?",
-      "urdu": "غیر فعال قرار دیے جانے پر کیا کارروائی ہوگی؟",
-      "options": [
-        "Automatic reallocation of pilgrims",
-        "Financial penalties",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An operator falling below the minimum booking threshold of 2,000 pilgrims will be deemed?",
-      "urdu": "دو ہزار عازمین کی کم از کم بکنگ کی حد سے کم رہنے والے آپریٹر کو کیا سمجھا جائے گا؟",
-      "options": [
-        "Operational",
-        "Non-operational",
-        "Accredited",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Annual renewal of licences will be based on?",
-      "urdu": "لائسنس کی سالانہ تجدید کن کارکردگی کی بنیاد پر ہوگی؟",
-      "options": [
-        "Financial performance",
-        "Operational performance",
-        "Compliance performance",
-        "All of these"
-      ],
-      "correct": 3,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-08-2026</font></b></p>",
       "category": "all"
     }
