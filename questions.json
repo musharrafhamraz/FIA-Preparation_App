@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-17T19:19:12.628017",
+    "fetched_at": "2026-08-18T02:14:07.620237",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Formwork used for ornamental design finishing is:?",
-      "urdu": "آرائشی ڈیزائن کی فنشنگ کے لیے استعمال ہونے والی فارم ورک کو کیا کہا جاتا ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "Steel formwork",
-        "Timber formwork",
-        "Plywood formwork",
-        "Plastic formwork"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ARC command is available in which menu in AutoCAD?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Format",
-        "Modify",
-        "Draw",
-        "Tools"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "A 2D drawing is converted into 3D by which command in AutoCAD?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Trim",
-        "Offset",
-        "Extrude",
-        "Fillet"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the alias of the Object Snap command in AutoCAD?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "OS",
-        "OSNAP",
-        "O",
-        "SNAP"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "Two or more companies take up a job together in case of?",
-      "urdu": "دو یا دو سے زیادہ کمپنیاں کسی کام کو مل کر انجام دینے کی صورت کو کیا کہا جاتا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Subcontracting",
-        "Joint venture",
-        "Tendering",
-        "Negotiation"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Joint venture: Two or more companies form a temporary partnership to </font><font color=\"#ff9c00\">pool resources and complete a specific job together.</font></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "DPC stands for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Damp Protection Concrete",
-        "Damp Proof Course",
-        "Dry Proof Construction",
-        "Damp Prevention Cement"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A drain constructed to intercept drainage water coming from the hillside above the road is called:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Side drain",
-        "Cross drain",
-        "Catch drain",
-        "Valley drain"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "Which of the following is an advantage of Metrobus?",
-      "urdu": "درج ذیل میں سے کون سا میٹرو بس کا فائدہ ہے؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "It increases traffic congestion",
-        "It requires more road space for private cars",
-        "It provides fast and efficient public transportation",
-        "It increases travel time"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "On a straight line, the spacing between two manholes for a branch sewer line is generally kept at?",
-      "urdu": "سیدھی لائن میں برانچ سیور لائن کے دو مین ہولز کے درمیان فاصلہ عموماً کتنا رکھا جاتا ہے؟",
-      "options": [
-        "50–100 m",
-        "100–200 m",
-        "300–500 m",
-        "500–1000 m"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Direct pumping system is suitable for which type of town?",
-      "urdu": "براہِ راست پمپنگ کا نظام کس قسم کے شہر کے لیے موزوں ہے؟",
-      "options": [
-        "Large and densely populated town",
-        "Hilly town with irregular terrain",
-        "Small town with a small population",
-        "Industrial town with heavy water demand"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Direct Pumping System — Short Points</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A vertical pipe conveying waste is termed as?",
-      "urdu": "گندے پانی کو منتقل کرنے والے عمودی پائپ کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Soil pipe",
-        "Vent pipe",
-        "Waste stack",
-        "Drain pipe"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A trap used to collect and discharge wastewater from a bathroom floor is called?",
-      "urdu": "باتھ روم کے فرش سے گندے پانی کو جمع کرنے اور خارج کرنے کے لیے استعمال ہونے والے ٹریپ کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Gully trap",
-        "P-trap",
-        "Floor trap",
-        "Intercepting trap"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Providing different services in a building is called:",
-      "urdu": "عمارت میں مختلف سہولیات فراہم کرنے کے عمل کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Building construction",
-        "Building planning",
-        "Building services",
-        "Building finishing"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which appurtenance is provided for cleaning a sewer line?",
-      "urdu": "سیوریج لائن کی صفائی کے لیے کون سا معاون انتظام فراہم کیا جاتا ہے؟",
-      "options": [
-        "Gully trap",
-        "Septic tank",
-        "Manhole",
-        "Catch basin"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The maximum permissible value of super-elevation on roads is?",
-      "urdu": "سڑکوں پر سپر ایلیویشن (بیرونی کنارے کی اونچائی) کی زیادہ سے زیادہ قابلِ اجازت قدر کیا ہے؟",
-      "options": [
-        "1 in 10",
-        "1 in 15",
-        "1 in 20",
-        "1 in 25"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The continuous stream of a liquid that comes out from an orifice is termed as?",
-      "urdu": "کسی سوراخ (مخرج) سے مسلسل خارج ہونے والی مائع کی دھار کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Vena contracta",
-        "Efflux",
-        "Jet",
-        "Discharge"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#9c00ff\">Additional information</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the center line of a bridge crosses the center of the stream at an angle other than a right angle, the bridge is termed a?",
-      "urdu": "اگر پل کی مرکزی لکیر ندی یا دریا کے مرکزی حصے کو قائمہ زاویہ (90°) کے علاوہ کسی دوسرے زاویے پر عبور کرے، تو ایسے پل کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Straight bridge",
-        "Right-angle bridge",
-        "Skew bridge",
-        "Curved bridge"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The breaking up of the surface layer of a road into irregularly shaped figures due to cracking is termed as?",
-      "urdu": "سڑک کی سطح کی اوپری تہہ کا دراڑیں پڑنے کی وجہ سے بے قاعدہ شکلوں میں ٹوٹ جانے کے عمل کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Rutting",
-        "Corrugation",
-        "Creep",
-        "Pothole"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A well that obtains water with the help of a pipe and strainer is called:",
-      "urdu": "وہ کنواں جس میں پائپ اور چھلنی کی مدد سے پانی حاصل کیا جاتا ہے، اسے کیا کہا جاتا ہے؟",
-      "options": [
-        "Dug well",
-        "Open well",
-        "Tube well",
-        "Artesian well"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The financial management system aims to eliminate the long-standing risk of?",
-      "urdu": "مالیاتی انتظام کا نظام کس دیرینہ خطرے کو ختم کرنے کا مقصد رکھتا ہے؟",
-      "options": [
-        "Digital payments",
-        "Competition and innovation",
-        "Fund diversion or misappropriation",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The controlled digital refund process ensures?",
-      "urdu": "کنٹرول شدہ ڈیجیٹل ریفنڈ کا عمل کیا یقینی بناتا ہے؟",
-      "options": [
-        "Financial transparency",
-        "Fund diversion",
-        "Misappropriation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Refunds will follow a?",
-      "urdu": "رقم کی واپسی کس طریقہ کار کے تحت ہوگی؟",
-      "options": [
-        "Private process",
-        "Manual process",
-        "Controlled digital process",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Private Hajj operators are prohibited from?",
-      "urdu": "پرائیویٹ حج آپریٹرز کو کن کاموں سے منع کیا گیا ہے؟",
-      "options": [
-        "Collecting funds",
-        "Holding funds",
-        "Transferring funds",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Funds will be disbursed to Saudi service providers under?",
-      "urdu": "سعودی سروس فراہم کرنے والوں کو فنڈز کس قسم کے معاہدوں کے تحت جاری کیے جائیں گے؟",
-      "options": [
-        "Informal agreements",
-        "Verbal agreements",
-        "Verified agreements",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pilgrim payments will be digitally tagged to?",
-      "urdu": "عازمین کی ادائیگیوں کو ڈیجیٹل طور پر کن ریکارڈز سے منسلک کیا جائے گا؟",
-      "options": [
-        "Operator records only",
-        "Individual records only",
-        "Both operator and individual records",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Government Account will be maintained with the?",
-      "urdu": "حکومتی اکاؤنٹ کس ادارے کے پاس برقرار رکھا جائے گا؟",
-      "options": [
-        "National Bank of Pakistan",
-        "State Bank of Pakistan",
-        "Securities and Exchange Commission of Pakistan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Government Account will be maintained with the?",
-      "urdu": "حکومتی اکاؤنٹ کس ادارے کے پاس برقرار رکھا جائے گا؟",
-      "options": [
-        "National Bank of Pakistan",
-        "State Bank of Pakistan",
-        "Securities and Exchange Commission of Pakistan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "All financial transactions relating to private Hajj operations will be executed exclusively through a?",
-      "urdu": "پرائیویٹ حج آپریشنز سے متعلق تمام مالی لین دین خصوصی طور پر کس اکاؤنٹ کے ذریعے کیا جائے گا؟",
-      "options": [
-        "Operator's Account",
-        "Private Bank Account",
-        "Government Account",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who will maintain audit trails and backup protocols to safeguard the integrity of digital data?",
-      "urdu": "ڈیجیٹل ڈیٹا کی سالمیت کو محفوظ رکھنے کے لیے آڈٹ ٹریلز اور بیک اپ پروٹوکول کون برقرار رکھے گا؟",
-      "options": [
-        "Ministry",
-        "SECP",
-        "NADRA",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Manual handling is prohibited to eliminate the risk of?",
-      "urdu": "دستی طریقے سے کام کرنے پر پابندی کس خطرے کو ختم کرنے کے لیے ہے؟",
-      "options": [
-        "Digital verification",
-        "Competition",
-        "Fraud or manipulation",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prohibition of manual handling ensures?",
-      "urdu": "دستی طریقے سے کام کرنے پر پابندی کس چیز کو یقینی بناتی ہے؟",
-      "options": [
-        "Manual verification",
-        "Full transparency",
-        "Increased monopolistic control",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Manual handling of data, bookings, or payments is?",
-      "urdu": "ڈیٹا، بکنگ یا ادائیگیوں کو دستی طور پر سنبھالنا کیسا ہے؟",
-      "options": [
-        "Optional",
-        "Permitted",
-        "Strictly prohibited",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The integration of PHMP with SECP, NADRA, and SBP is intended for?",
-      "urdu": "پی ایچ ایم پی، ایس ای سی پی، نادرا اور اسٹیٹ بینک کے ساتھ رابطہ کرنے کا مقصد کیا ہے؟",
-      "options": [
-        "Manual booking",
-        "End-to-end verification",
-        "Quota allocation only",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Unique Hajj Identification Number will be linked to?",
-      "urdu": "منفرد حج شناختی نمبر کس چیز سے منسلک ہوگا؟",
-      "options": [
-        "Identity and payment records",
-        "Only passport records",
-        "Only booking records",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Each pilgrim will be issued a?",
-      "urdu": "ہر حاجی کو کون سا نمبر جاری کیا جائے گا؟",
-      "options": [
-        "Private Hajj Licence Number",
-        "Saudi Registration Number",
-        "Unique Hajj Identification Number",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a function of PHMP?",
-      "urdu": "پی ایچ ایم پی کے درج ذیل میں کون سا کام ہے؟",
-      "options": [
-        "Operator registration",
-        "Real-time booking",
-        "Quota execution and monitoring",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "PHMP serves as the?",
-      "urdu": "پی ایچ ایم پی کس بنیاد پر کام کرتا ہے؟",
-      "options": [
-        "Financial institution",
-        "Central digital infrastructure",
-        "Licensing authority",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "All private Hajj operations will be conducted through the?",
-      "urdu": "تمام پرائیویٹ حج آپریشنز کس نظام کے ذریعے کیے جائیں گے؟",
-      "options": [
-        "Private Hajj Management Portal (PHMP)",
-        "Service Provider Agreement (SPA)",
-        "SECP Portal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The elevation of a benchmark plus the back sight is termed as:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Reduced Level (R.L.)",
-        "Height of Collimation",
-        "Height of Instrument (H.I.)",
-        "Fore Sight (F.S.)"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "After setting up a surveying instrument, the first reading taken is called:",
-      "urdu": "سروے کے آلے کو نصب کرنے کے بعد لی جانے والی پہلی ریڈنگ کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Fore sight",
-        "Intermediate sight",
-        "Back sight",
-        "Reduced level"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The alignment of highways is generally taken along?",
-      "urdu": "شاہراہوں کی سیدھ (الائنمنٹ) عموماً کس راستے کے ساتھ مقرر کی جاتی ہے؟",
-      "options": [
-        "Valley line",
-        "Contour line",
-        "Ridge line",
-        "Drainage line"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The material used for the handles of a surveying chain is:",
-      "urdu": "سروے کی زنجیر کے دستوں (ہینڈلز) کے لیے کون سا مواد استعمال کیا جاتا ہے؟",
-      "options": [
-        "Steel",
-        "Iron",
-        "Brass",
-        "Aluminum"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The number of links in a 20 m metric chain is:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "50",
-        "100",
-        "150",
-        "200"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "An invitation to contractors for doing works or supplying materials, in which the time limit and total cost of the project are mentioned, is called:",
-      "urdu": "ٹھیکیداروں کو کام کرنے یا تعمیراتی سامان فراہم کرنے کے لیے دی جانے والی دعوت، جس میں منصوبے کی مدت اور کل لاگت درج ہو، کیا کہلاتی ہے؟",
-      "options": [
-        "Estimate",
-        "Contract",
-        "Tender",
-        "Specification"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The works for which the cost is paid out of funds available for a project are called?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Deposit works",
-        "Annual works",
-        "Work-charged works",
-        "Departmental works"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "An accident caused by short-circuiting of electricity is called?",
-      "urdu": "بجلی کے شارٹ سرکٹ کی وجہ سے ہونے والے حادثے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Mechanical accident",
-        "Chemical accident",
-        "Fire accident",
-        "Natural accident"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The process of keeping concrete wet to enable it to attain full strength is known as?",
-      "urdu": "کنکریٹ کو مکمل مضبوطی حاصل کرنے کے لیے نم رکھنے کے عمل کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Compaction",
-        "Finishin",
-        "Mixing",
-        "Curing"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The metacentric height of a merchant ship is generally kept within:",
-      "urdu": "تجارتی جہاز کی میٹا سینٹرک اونچائی عموماً کس حد کے اندر رکھی جاتی ہے؟",
-      "options": [
-        "0.01–0.10 m",
-        "0.30–1.00 m",
-        "1.50–2.50 m",
-        "3.00–5.00 m"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The length-to-width ratio of a rectangular sedimentation tank should be?",
-      "urdu": "مستطیل شکل کے تلچھٹ بیٹھانے والے ٹینک (سیڈیمنٹیشن ٹینک) کی لمبائی اور چوڑائی کا تناسب کتنا ہونا چاہیے؟",
-      "options": [
-        "1:1",
-        "2:1",
-        "3:1",
-        "4:1"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Extra soil dumped in the form of a bank parallel to the main bank during digging of a canal is called?",
-      "urdu": "نہر کی کھدائی کے دوران مرکزی پشتے کے متوازی پٹی یا پشتے کی شکل میں ڈالی جانے والی اضافی مٹی کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Canal bank",
-        "Guide bank",
-        "Spoil bank",
-        "Marginal bank"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"> Canal Bank Terms</font></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
