@@ -1,76 +1,662 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-18T13:37:47.577737",
+    "fetched_at": "2026-08-18T19:19:44.418918",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Rural Sociology in Pakistan was first formally established at which university?",
+      "urdu": "پاکستان میں دیہی سماجیات پہلی مرتبہ باقاعدہ طور پر کس جامعہ میں قائم کی گئی؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "University of Karachi",
+        "University of the Punjab",
+        "University of Agriculture Faisalabad",
+        "Quaid-i-Azam University"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "",
+      "category": "all"
     },
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "Who is associated with the concept of androcentrism?",
+      "urdu": "مرکزیتِ مرد کے تصور کا تعلق کس سے ہے؟",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
-      ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Lester F. Ward",
+        "Charlotte P. Gilman",
+        "Simone de Beauvoir",
+        "Betty Friedan"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Women’s Studies developed as an academic field mainly during which wave of feminism?",
+      "urdu": "خواتین کے مطالعات ایک علمی شعبے کے طور پر بنیادی طور پر نسوانیت کی کس لہر کے دوران ترقی یافتہ ہوئے؟",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "First Wave Feminism",
+        "Second Wave Feminism",
+        "Third Wave Feminism",
+        "Fourth Wave Feminism"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">First Programs:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Movement from rural areas to urban areas is called what?",
+      "urdu": "دیہی علاقوں سے شہری علاقوں کی طرف نقل مکانی کو کیا کہتے ہیں؟",
+      "options": [
+        "Industrialization",
+        "Urbanization",
+        "Globalization",
+        "Modernization"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><span style=\"font-size: 0.875rem;\">Additional information </span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Transmission of cultural traits from one culture to another is called what?",
+      "urdu": "ایک ثقافت سے دوسری ثقافت میں ثقافتی خصوصیات کی منتقلی کو کیا کہتے ہیں؟",
+      "options": [
+        "Assimilation",
+        "Acculturation",
+        "Diffusion",
+        "Socialization"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Mead’s concept of the “I” is comparable to which Freudian concept?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ego",
+        "Id",
+        "Superego",
+        "Unconscious"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Mosque, school, etc. are examples of what type of culture?",
+      "urdu": "مسجد، اسکول وغیرہ کس قسم کی ثقافت کی مثالیں ہیں؟",
+      "options": [
+        "Non-material culture",
+        "Material culture",
+        "Folk culture",
+        "Popular culture"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Who coined the term Cultural Lag?",
+      "urdu": "“ثقافتی تاخیر” کی اصطلاح کس نے وضع کی؟",
+      "options": [
+        "Emile Durkheim",
+        "William F. Ogburn",
+        "Max Weber",
+        "Talcott Parsons"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Sociology is a combination of which two words",
+      "urdu": "سوشیالوجی کن دو الفاظ کا مجموعہ ہے؟",
+      "options": [
+        "Socius + Logos",
+        "Society + Logic",
+        "Social + Science",
+        "Socio + Culture"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which branch of social science studies social relationships with the environment?",
+      "urdu": "سماجی علوم کی کون سی شاخ ماحول کے ساتھ انسانی سماجی تعلقات کا مطالعہ کرتی ہے؟",
+      "options": [
+        "Environmental  Sociology",
+        "Anthropology",
+        "Human Geography",
+        "Economics"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Depression is what?",
+      "urdu": "ڈپریشن کیا ہے؟",
+      "options": [
+        "A physical disease",
+        "A psychological disorder",
+        "A social institution",
+        "A cultural trait"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Sapir–Whorf theory relates language most directly to what?",
+      "urdu": "ساپیر–وورف نظریہ زبان کو براہِ راست کس چیز سے متعلق قرار دیتا ہے؟",
+      "options": [
+        "Language and society",
+        "Language and culture",
+        "Language and economic development",
+        "Language, thought, and perception"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Where was the first Gender Studies programme established in Pakistan?",
+      "urdu": "پاکستان میں پہلا صنفی مطالعات کا پروگرام کہاں قائم کیا گیا تھا؟",
+      "options": [
+        "University of Punjab",
+        "University of Karachi",
+        "Quaid-i-Azam University",
+        "University of Peshawar"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Most feudals belong to which province of Pakistan?",
+      "urdu": "پاکستان میں زیادہ تر جاگیردار کس صوبے سے تعلق رکھتے ہیں؟",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Khyber Pakhtunkhwa",
+        "Balochistan"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "In 2023, which livestock had the highest population in Pakistan?",
+      "urdu": "پاکستان میں 2023ء میں سب سے زیادہ تعداد کس مویشی کی تھی؟",
+      "options": [
+        "Cattle",
+        "Buffalo",
+        "Goat",
+        "Sheep"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">In 2023, goats represented the</font><font color=\"#00ff00\"> highest livestock population in Pakistan</font><font color=\"#0000ff\">, with estimated figures between </font><font color=\"#ff0000\">87 and 95.8 million heads.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who wrote Social Group Work: Principles and Practices?",
+      "urdu": "ایسوسی ایشن (انجمن) کس قسم کا سماجی گروہ ہے؟",
+      "options": [
+        "Grace L. Coyle",
+        "Gisela Konopka",
+        "Gertrude Wilson",
+        "Harleigh B. Trecker"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "An association is what type of social group?",
+      "urdu": "ایسوسی ایشن (انجمن) کس قسم کا سماجی گروہ ہے؟",
+      "options": [
+        "Primary group",
+        "Secondary group",
+        "Dyad",
+        "Informal group"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Ultimately, the system will bring Pakistan's private Hajj industry in line with?",
+      "urdu": "آخرکار یہ نظام پاکستان کی پرائیویٹ حج انڈسٹری کو کس کے مطابق ہم آہنگ کرے گا؟",
+      "options": [
+        "Traditional quota-driven practices",
+        "International best practices and Saudi Arabia's Vision 2030",
+        "Monopolistic practices",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The performance-based model will reward?",
+      "urdu": "کارکردگی پر مبنی ماڈل کن آپریٹرز کو انعام دے گا؟",
+      "options": [
+        "High-quality operators",
+        "Non-compliant operators",
+        "Operators forming cartels",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The digitally governed structure will reduce?",
+      "urdu": "ڈیجیٹل طور پر منظم ڈھانچہ کس چیز کو کم کرے گا؟",
+      "options": [
+        "Operational reliability",
+        "Transparency and public trust",
+        "Malpractice and litigation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The policy will?",
+      "urdu": "پالیسی کے نتیجے میں کیا ہوگا؟",
+      "options": [
+        "Increase operational reliability",
+        "Enhance transparency",
+        "Reduce financial and service-related risks and improve public trust",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Successful implementation of the policy will result in a?",
+      "urdu": "پالیسی کے کامیاب نفاذ سے کیسا پرائیویٹ حج نظام وجود میں آئے گا؟",
+      "options": [
+        "Stronger, more credible private Hajj ecosystem",
+        "Weaker private Hajj ecosystem",
+        "Quota-driven Hajj ecosystem",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The purpose of the market fairness provisions is to?",
+      "urdu": "مارکیٹ میں منصفانہ مسابقت کی دفعات کا مقصد کیا ہے؟",
+      "options": [
+        "Enhance transparency",
+        "Ensure service quality",
+        "Prevent monopolistic control of the Hajj market",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What will result from any violation of the anti-monopoly measures?",
+      "urdu": "اجارہ داری مخالف اقدامات کی خلاف ورزی کے نتیجے میں کیا ہوگا؟",
+      "options": [
+        "Licence cancellation",
+        "Forfeiture of guarantees",
+        "Legal action",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the policy expressly prohibit regarding Hajj quotas?",
+      "urdu": "پالیسی حج کوٹے کے حوالے سے کن کاموں پر واضح طور پر پابندی عائد کرتی ہے؟",
+      "options": [
+        "Trading",
+        "Resale",
+        "Outsourcing or subletting quotas and bars operators from forming cartels or engaging in anti-competitive practices",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Decisions of the Appellate Committee will be?",
+      "urdu": "اپیلیٹ کمیٹی کے فیصلے کیسے ہوں گے؟",
+      "options": [
+        "Temporary",
+        "Advisory",
+        "Final, unless overturned by a competent court",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who may submit an appeal beyond the Complaint Disposal Committee (CDC)?",
+      "urdu": "سی ڈی سی کے فیصلے کے بعد کون اپیلیٹ کمیٹی میں اپیل دائر کر سکتا ہے؟",
+      "options": [
+        "Any operator or pilgrim seeking redress",
+        "Only operators",
+        "Only pilgrims",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How will decisions on complaints be communicated to relevant parties?",
+      "urdu": "شکایات کے فیصلے متعلقہ فریقین کو کیسے پہنچائے جائیں گے؟",
+      "options": [
+        "Manually",
+        "By post",
+        "Electronically",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complaints will be processed digitally through the?",
+      "urdu": "شکایات کو ڈیجیٹل طور پر کس نظام کے ذریعے پراسیس کیا جائے گا؟",
+      "options": [
+        "PHMP",
+        "SECP",
+        "SBP",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The structured grievance mechanism will operate through?",
+      "urdu": "منظم شکایات کے ازالے کا نظام کس کے ذریعے کام کرے گا؟",
+      "options": [
+        "Appellate Courts operating both in Pakistan and Saudi Arabia",
+        "Service Provider Committees operating both in Pakistan and Saudi Arabia",
+        "Complaint Disposal Committees (CDCs) operating both in Pakistan and Saudi Arabia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The performance system will encourage continuous improvement and foster a?",
+      "urdu": "کارکردگی کا نظام مسلسل بہتری کی حوصلہ افزائی کرے گا اور کس قسم کے سروس کلچر کو فروغ دے گا؟",
+      "options": [
+        "Competitive service culture",
+        "Quota-driven culture",
+        "Monopolistic service culture",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The outcomes of performance ratings will guide future?",
+      "urdu": "کارکردگی کی درجہ بندی کے نتائج مستقبل میں کن معاملات میں رہنمائی کریں گے؟",
+      "options": [
+        "Quota allocations",
+        "Tier upgrades",
+        "Licence renewals and Sanctions",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Scores will be assigned based on?",
+      "urdu": "اسکور کن چیزوں کی بنیاد پر دیے جائیں گے؟",
+      "options": [
+        "Financial discipline",
+        "Service quality",
+        "Compliance audit results",
+        "Grievance resolution efficiency",
+        "All of these"
+      ],
+      "correct": 4,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who will maintain a digital rating dashboard to evaluate operator performance using quantifiable metrics?",
+      "urdu": "آپریٹرز کی کارکردگی کو قابلِ پیمائش معیار کے ذریعے جانچنے کے لیے ڈیجیٹل ریٹنگ ڈیش بورڈ کون برقرار رکھے گا؟",
+      "options": [
+        "Ministry",
+        "SECP",
+        "NADRA",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Service Provider Agreement ensures that Hajj operations remain?",
+      "urdu": "سروس پرووائیڈر ایگریمنٹ اس بات کو یقینی بناتا ہے کہ حج آپریشنز کس نوعیت کے رہیں؟",
+      "options": [
+        "Contractual",
+        "Auditable",
+        "Enforceable across Pakistan and Saudi Arabia",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Service Provider Agreement sets out mandatory requirements relating to?",
+      "urdu": "سروس پرووائیڈر ایگریمنٹ کن لازمی تقاضوں سے متعلق ہے؟",
+      "options": [
+        "Service obligation and Medical and insurance cover",
+        "Refund pathways and Consumer protection",
+        "Penalties for non-performance",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When must every licensed operator sign the Service Provider Agreement (SPA)?",
+      "urdu": "ہر لائسنس یافتہ آپریٹر کو سروس پرووائیڈر ایگریمنٹ کب دستخط کرنا ہوگا؟",
+      "options": [
+        "After receiving pilgrim payments",
+        "After completing Hajj operations",
+        "Before commencing Hajj operations",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Every licensed operator must sign the Service Provider Agreement (SPA) with the?",
+      "urdu": "ہر لائسنس یافتہ آپریٹر کو سروس پرووائیڈر ایگریمنٹ کس کے ساتھ دستخط کرنا ہوگا؟",
+      "options": [
+        "SECP",
+        "Ministry",
+        "State Bank of Pakistan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Alignment with Saudi Tawafa companies will ensure?",
+      "urdu": "سعودی طوافہ کمپنیوں کے ساتھ ہم آہنگی کن چیزوں کو یقینی بنائے گی؟",
+      "options": [
+        "On-ground readiness",
+        "Compliance with evolving Saudi regulatory and operational requirements",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Operators will be required to maintain alignment with?",
+      "urdu": "آپریٹرز کو کس کے ساتھ ہم آہنگی برقرار رکھنا ضروری ہوگا؟",
+      "options": [
+        "Saudi Tawafa companies",
+        "SECP companies",
+        "Pakistani banks",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Special provisions will be introduced for vulnerable groups?",
+      "urdu": "کمزور یا خصوصی ضرورت رکھنے والے افراد میں کن کے لیے خصوصی انتظامات کیے جائیں گے؟",
+      "options": [
+        "Senior citizens",
+        "Women",
+        "Persons with disabilities",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Private operators must provide qualified?",
+      "urdu": "پرائیویٹ آپریٹرز کو محفوظ اور باخبر حج کے لیے کون سی سہولیات فراہم کرنا ضروری ہیں؟",
+      "options": [
+        "Welfare personnel",
+        "Medical support",
+        "Training to facilitate safe and informed pilgrimage",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Private operators will be required to ensure high-quality?",
+      "urdu": "پرائیویٹ آپریٹرز کو اعلیٰ معیار کی کون سی سہولیات یقینی بنانا ہوں گی؟",
+      "options": [
+        "Accommodation",
+        "Reliable transport arrangements",
+        "Appropriate catering services meeting Saudi standards",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The forfeiture of half of the operator's security deposit is intended to enforce?",
+      "urdu": "آپریٹر کے سیکیورٹی ڈپازٹ کا نصف ضبط کرنا کس مقصد کے لیے ہے؟",
+      "options": [
+        "Manual booking and payments",
+        "Competition and innovation",
+        "Compliance discipline and effective capacity planning",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Reallocation of pilgrims will be accompanied by forfeiture of?",
+      "urdu": "عازمین کی دوبارہ تخصیص کے ساتھ سیکیورٹی ڈپازٹ کا کتنا حصہ ضبط کیا جائے گا؟",
+      "options": [
+        "The entire security deposit",
+        "One-fourth of the security deposit",
+        "Half of the security deposit",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pilgrims will be reallocated to other eligible operators based on?",
+      "urdu": "عازمین کو دوسرے اہل آپریٹرز کو کس بنیاد پر دوبارہ مختص کیا جائے گا؟",
+      "options": [
+        "Operator preference",
+        "Verified availability",
+        "Seniority",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How will pilgrims of a non-operational operator be reallocated?",
+      "urdu": "غیر فعال آپریٹر کے عازمین کو کس طرح دوبارہ مختص کیا جائے گا؟",
+      "options": [
+        "Automatically through the PHMP",
+        "Manually by the operator",
+        "Through private agents",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What happens to operators falling below the minimum booking threshold of 2,000 pilgrims?",
+      "urdu": "دو ہزار عازمین کی کم از کم بکنگ کی حد سے کم رہنے والے آپریٹرز کے ساتھ کیا ہوگا؟",
+      "options": [
+        "Their licence will automatically be renewed",
+        "They will receive an additional quota",
+        "They will be declared non-operational for the given year",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the minimum booking threshold for each private Hajj operator?",
+      "urdu": "ہر پرائیویٹ حج آپریٹر کے لیے کم از کم بکنگ کی حد کتنے عازمین ہے؟",
+      "options": [
+        "1,000 pilgrims",
+        "1,500 pilgrims",
+        "2,000 pilgrims",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Paleolithic Period is associated with which type of society?",
+      "urdu": "قدیم حجری دور کا تعلق کس قسم کے معاشرے سے ہے؟",
+      "options": [
+        "Agricultural society",
+        "Industrial society",
+        "Hunting and gathering society",
+        "Urban society"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
     }
   ]
 }
