@@ -3,10 +3,88 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-19T13:39:13.182156",
+    "fetched_at": "2026-08-19T19:16:36.748920",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The MJDA was signed by which of the following in 2026 in Saudi Arabia?",
+      "urdu": "سعودی عرب میں 2026 میں ایم جے ڈی اے پر درج ذیل میں سے کس نے دستخط کیے؟",
+      "options": [
+        "Pakistan",
+        "Saudi Arabia",
+        "Turkiye",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement (MJDA) 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When is World Humanitarian Day observed?",
+      "urdu": "انسانی ہمدردی کا عالمی دن کب منایا جاتا ہے؟",
+      "options": [
+        "17 August",
+        "19 August",
+        "18 August",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Observed annually on </font><font color=\"#00ff00\">August 19</font><font color=\"#0000ff\">,</font><font color=\"#ff0000\"> World Humanitarian Da</font><font color=\"#0000ff\">y honors aid workers who risk their lives to deliver life-saving support and remembers those who died in the line of duty.<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The continuous presence of Khuddam-ul-Hujjaj within residential buildings ensured?",
+      "urdu": "رہائشی عمارتوں میں خدام الحجاج کی مسلسل موجودگی نے حجاج کے لیے کیا یقینی بنایا؟",
+      "options": [
+        "24/7 assistance to Hujjaj",
+        "12-hour assistance to Hujjaj",
+        "Assistance only during emergencies",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who conducted detailed inspections of all residential buildings before Hujjaj occupancy?",
+      "urdu": "حجاج کی رہائش سے پہلے تمام رہائشی عمارتوں کا تفصیلی معائنہ کس نے کیا؟",
+      "options": [
+        "Khuddam-ul-Hujjaj only",
+        "Building owners and service providers",
+        "Sector’s Inspection Teams under the command of experienced Sector Coordinator",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the number of Medical dispensaries/healthcare facilities strategically established within accommodation clusters during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران رہائشی کلسٹرز میں کتنی طبی ڈسپنسریاں/صحت کی سہولیات قائم کی گئیں؟",
+      "options": [
+        "24",
+        "30",
+        "36",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Across how many sectors in Makkah was the accommodation and welfare management of Pakistani Hujjaj carried out during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران پاکستانی حجاج کی رہائش اور فلاح و بہبود کا انتظام مکہ میں کتنے سیکٹرز میں کیا گیا؟",
+      "options": [
+        "10 sectors",
+        "11 sectors",
+        "12 sectors",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which of the following was a challenge faced in accommodation management during Hajj Operation 2026?",
       "urdu": "حج آپریشن 2026 کے دوران رہائش کے انتظام میں درج ذیل میں سے کون سا چیلنج درپیش تھا؟",
@@ -573,84 +651,6 @@
         "Operational reliability",
         "Transparency and public trust",
         "Malpractice and litigation",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The policy will?",
-      "urdu": "پالیسی کے نتیجے میں کیا ہوگا؟",
-      "options": [
-        "Increase operational reliability",
-        "Enhance transparency",
-        "Reduce financial and service-related risks and improve public trust",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Successful implementation of the policy will result in a?",
-      "urdu": "پالیسی کے کامیاب نفاذ سے کیسا پرائیویٹ حج نظام وجود میں آئے گا؟",
-      "options": [
-        "Stronger, more credible private Hajj ecosystem",
-        "Weaker private Hajj ecosystem",
-        "Quota-driven Hajj ecosystem",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The purpose of the market fairness provisions is to?",
-      "urdu": "مارکیٹ میں منصفانہ مسابقت کی دفعات کا مقصد کیا ہے؟",
-      "options": [
-        "Enhance transparency",
-        "Ensure service quality",
-        "Prevent monopolistic control of the Hajj market",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will result from any violation of the anti-monopoly measures?",
-      "urdu": "اجارہ داری مخالف اقدامات کی خلاف ورزی کے نتیجے میں کیا ہوگا؟",
-      "options": [
-        "Licence cancellation",
-        "Forfeiture of guarantees",
-        "Legal action",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the policy expressly prohibit regarding Hajj quotas?",
-      "urdu": "پالیسی حج کوٹے کے حوالے سے کن کاموں پر واضح طور پر پابندی عائد کرتی ہے؟",
-      "options": [
-        "Trading",
-        "Resale",
-        "Outsourcing or subletting quotas and bars operators from forming cartels or engaging in anti-competitive practices",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Decisions of the Appellate Committee will be?",
-      "urdu": "اپیلیٹ کمیٹی کے فیصلے کیسے ہوں گے؟",
-      "options": [
-        "Temporary",
-        "Advisory",
-        "Final, unless overturned by a competent court",
         "None of these"
       ],
       "correct": 2,
