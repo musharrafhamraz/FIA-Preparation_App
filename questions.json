@@ -3,10 +3,205 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-20T07:35:08.771233",
+    "fetched_at": "2026-08-20T13:41:34.925910",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which technology-enabled mechanisms were implemented by the Coordinator Makkah’s food team to enhance operational efficiency and transparency?",
+      "urdu": "کوآرڈینیٹر مکہ کی فوڈ ٹیم نے آپریشنل کارکردگی اور شفافیت بہتر بنانے کے لیے کون سے ٹیکنالوجی پر مبنی طریقہ کار نافذ کیے؟",
+      "options": [
+        "Digital requisition, real-time meal verification, and daily reconciliation",
+        "Manual requisition, physical verification, and monthly reconciliation",
+        "Digital accommodation allocation and transport tracking",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many licensed catering companies were involved in the food operation?",
+      "urdu": "فوڈ آپریشن میں کتنی لائسنس یافتہ کیٹرنگ کمپنیوں نے حصہ لیا؟",
+      "options": [
+        "18",
+        "16",
+        "14",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Food team was entrusted with planning, coordination, monitoring, and administration of how many standardized meals for Government Scheme Hujjaj?",
+      "urdu": "فوڈ ٹیم کو سرکاری اسکیم کے حجاج کے لیے کتنے معیاری کھانوں کی منصوبہ بندی، رابطہ کاری، نگرانی اور انتظام کی ذمہ داری دی گئی تھی؟",
+      "options": [
+        "Two meals: Breakfast and Dinner",
+        "Three meals: Breakfast, Lunch, and Dinner",
+        "Three meals: Breakfast, Lunch, and Sehri",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Given the scale of the operation involving 118,382 Hujjaj, future accommodation planning should focus on?",
+      "urdu": "118,382 حجاج کے بڑے پیمانے کے آپریشن کو مدنظر رکھتے ہوئے مستقبل کی رہائش کی منصوبہ بندی میں کس چیز پر توجہ دینی چاہیے؟",
+      "options": [
+        "Standardization, automation, accountability, and quality assurance",
+        "Quota allocation, manual monitoring, and segregation",
+        "Transport, food, and medical services only",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the total number of Hujjaj inducted seamlessly during Hajj 2025?",
+      "urdu": "حج 2025 کے دوران بغیر کسی رکاوٹ کے شامل کیے گئے حجاج کی کل تعداد کیا تھی؟",
+      "options": [
+        "75,000",
+        "88,295",
+        "90,000",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">A total of </font><font color=\"#ff0000\">88,295 Hujjaj</font><font color=\"#0000ff\"> were inducted smoothly along with their luggage.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What type of platform is recommended for real-time monitoring, categorization, tracking, and resolution of accommodation-related complaints?",
+      "urdu": "رہائش سے متعلق شکایات کی فوری نگرانی، درجہ بندی، ٹریکنگ اور حل کے لیے کس قسم کے پلیٹ فارم کی سفارش کی گئی ہے؟",
+      "options": [
+        "Manual complaint management platform",
+        "Centralized accommodation platform",
+        "Integrated digital complaint management platform",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What type of accommodation management system is recommended to automate room allocation, family grouping, occupancy management, and accommodation tracking?",
+      "urdu": "کمرے مختص کرنے، خاندانوں کی گروپ بندی، رہائش کی نگرانی اور رہائشی ریکارڈ رکھنے کے لیے کس قسم کا نظام تجویز کیا گیا ہے؟",
+      "options": [
+        "Automated Accommodation Management System",
+        "Manual Accommodation Management System",
+        "Sector Accommodation System",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is recommended regarding building possession before pilgrim induction?",
+      "urdu": "حجاج کی آمد سے پہلے عمارت کا قبضہ لینے کے بارے میں کیا تجویز کیا گیا ہے؟",
+      "options": [
+        "Building possession should be accepted before inspection",
+        "Building possession should only be accepted after certification of complete readiness and rectification of all identified deficiencies",
+        "Building possession should depend only on transport connectivity",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What system is recommended for objective assessment and categorization of accommodation buildings?",
+      "urdu": "رہائشی عمارتوں کی معروضی جانچ اور درجہ بندی کے لیے کون سا نظام تجویز کیا گیا ہے؟",
+      "options": [
+        "Scientific Building Grading System",
+        "Manual Building Allocation System",
+        "Transport Monitoring System",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which principle may be adopted to the maximum extent possible during accommodation planning?",
+      "urdu": "رہائش کی منصوبہ بندی کے دوران ممکنہ حد تک کون سا اصول اپنایا جا سکتا ہے؟",
+      "options": [
+        "One Flight – One Sector – One Building",
+        "One Family – One Sector – One Maktab",
+        "One Flight – One Maktab – One Building",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following was a common accommodation-related complaint during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران رہائش سے متعلق عام شکایت کون سی تھی؟",
+      "options": [
+        "Room allocation concerns",
+        "Air-conditioning failures",
+        "Lift malfunctions",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was a major challenge caused by scattering Hujjaj belonging to the same family, flight, or group across multiple buildings, sectors, and Makatib?",
+      "urdu": "ایک ہی خاندان، فلائٹ یا گروپ سے تعلق رکھنے والے حجاج کو مختلف عمارتوں، سیکٹرز اور مکاتب میں تقسیم کرنے سے کون سا بڑا مسئلہ پیدا ہوا؟",
+      "options": [
+        "Family separation and increased room adjustment requests",
+        "Increased food requirements",
+        "Reduced accommodation complaints",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Buildings located in narrow streets and congested areas created challenges particularly for?",
+      "urdu": "تنگ گلیوں اور گنجان علاقوں میں واقع عمارتوں نے خاص طور پر کن کاموں کے لیے مشکلات پیدا کیں؟",
+      "options": [
+        "Medical treatment only",
+        "Transportation, emergency access, luggage movement, induction and departure operations",
+        "Food distribution only",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What major issue resulted in deferred maintenance and inadequate upkeep of several accommodation facilities?",
+      "urdu": "کئی رہائشی سہولیات کی دیکھ بھال میں تاخیر اور ناقص انتظام کی بڑی وجہ کیا تھی؟",
+      "options": [
+        "Family and flight group dispersion",
+        "Poor accessibility by buses",
+        "Non-payment by the Tawafa Companies to building owners (Mustajireen)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was a significant operational challenge regarding accommodation standards during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران رہائش کے معیار سے متعلق ایک اہم انتظامی چیلنج کیا تھا؟",
+      "options": [
+        "Lack of residential buildings",
+        "Uniformity in building standards",
+        "Variation in building standards among residential buildings",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Basmati Paddy is harvested in Punjab in the month of?",
       "urdu": "پنجاب میں باسمتی دھان کس مہینے میں کاٹا جاتا ہے؟",
@@ -457,201 +652,6 @@
         "Charlotte P. Gilman",
         "Simone de Beauvoir",
         "Betty Friedan"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Women’s Studies developed as an academic field mainly during which wave of feminism?",
-      "urdu": "خواتین کے مطالعات ایک علمی شعبے کے طور پر بنیادی طور پر نسوانیت کی کس لہر کے دوران ترقی یافتہ ہوئے؟",
-      "options": [
-        "First Wave Feminism",
-        "Second Wave Feminism",
-        "Third Wave Feminism",
-        "Fourth Wave Feminism"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">First Programs:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Movement from rural areas to urban areas is called what?",
-      "urdu": "دیہی علاقوں سے شہری علاقوں کی طرف نقل مکانی کو کیا کہتے ہیں؟",
-      "options": [
-        "Industrialization",
-        "Urbanization",
-        "Globalization",
-        "Modernization"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><span style=\"font-size: 0.875rem;\">Additional information </span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Transmission of cultural traits from one culture to another is called what?",
-      "urdu": "ایک ثقافت سے دوسری ثقافت میں ثقافتی خصوصیات کی منتقلی کو کیا کہتے ہیں؟",
-      "options": [
-        "Assimilation",
-        "Acculturation",
-        "Diffusion",
-        "Socialization"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Mead’s concept of the “I” is comparable to which Freudian concept?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ego",
-        "Id",
-        "Superego",
-        "Unconscious"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Mosque, school, etc. are examples of what type of culture?",
-      "urdu": "مسجد، اسکول وغیرہ کس قسم کی ثقافت کی مثالیں ہیں؟",
-      "options": [
-        "Non-material culture",
-        "Material culture",
-        "Folk culture",
-        "Popular culture"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Who coined the term Cultural Lag?",
-      "urdu": "“ثقافتی تاخیر” کی اصطلاح کس نے وضع کی؟",
-      "options": [
-        "Emile Durkheim",
-        "William F. Ogburn",
-        "Max Weber",
-        "Talcott Parsons"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Sociology is a combination of which two words",
-      "urdu": "سوشیالوجی کن دو الفاظ کا مجموعہ ہے؟",
-      "options": [
-        "Socius + Logos",
-        "Society + Logic",
-        "Social + Science",
-        "Socio + Culture"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which branch of social science studies social relationships with the environment?",
-      "urdu": "سماجی علوم کی کون سی شاخ ماحول کے ساتھ انسانی سماجی تعلقات کا مطالعہ کرتی ہے؟",
-      "options": [
-        "Environmental  Sociology",
-        "Anthropology",
-        "Human Geography",
-        "Economics"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Depression is what?",
-      "urdu": "ڈپریشن کیا ہے؟",
-      "options": [
-        "A physical disease",
-        "A psychological disorder",
-        "A social institution",
-        "A cultural trait"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Sapir–Whorf theory relates language most directly to what?",
-      "urdu": "ساپیر–وورف نظریہ زبان کو براہِ راست کس چیز سے متعلق قرار دیتا ہے؟",
-      "options": [
-        "Language and society",
-        "Language and culture",
-        "Language and economic development",
-        "Language, thought, and perception"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Where was the first Gender Studies programme established in Pakistan?",
-      "urdu": "پاکستان میں پہلا صنفی مطالعات کا پروگرام کہاں قائم کیا گیا تھا؟",
-      "options": [
-        "University of Punjab",
-        "University of Karachi",
-        "Quaid-i-Azam University",
-        "University of Peshawar"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Most feudals belong to which province of Pakistan?",
-      "urdu": "پاکستان میں زیادہ تر جاگیردار کس صوبے سے تعلق رکھتے ہیں؟",
-      "options": [
-        "Punjab",
-        "Sindh",
-        "Khyber Pakhtunkhwa",
-        "Balochistan"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In 2023, which livestock had the highest population in Pakistan?",
-      "urdu": "پاکستان میں 2023ء میں سب سے زیادہ تعداد کس مویشی کی تھی؟",
-      "options": [
-        "Cattle",
-        "Buffalo",
-        "Goat",
-        "Sheep"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">In 2023, goats represented the</font><font color=\"#00ff00\"> highest livestock population in Pakistan</font><font color=\"#0000ff\">, with estimated figures between </font><font color=\"#ff0000\">87 and 95.8 million heads.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who wrote Social Group Work: Principles and Practices?",
-      "urdu": "ایسوسی ایشن (انجمن) کس قسم کا سماجی گروہ ہے؟",
-      "options": [
-        "Grace L. Coyle",
-        "Gisela Konopka",
-        "Gertrude Wilson",
-        "Harleigh B. Trecker"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "An association is what type of social group?",
-      "urdu": "ایسوسی ایشن (انجمن) کس قسم کا سماجی گروہ ہے؟",
-      "options": [
-        "Primary group",
-        "Secondary group",
-        "Dyad",
-        "Informal group"
       ],
       "correct": 1,
       "explanation": "",
