@@ -3,10 +3,218 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-20T13:41:34.925910",
+    "fetched_at": "2026-08-20T19:21:57.395954",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Flow is checked by which test?",
+      "urdu": "بہاؤ  کو کس ٹیسٹ سے جانچا جاتا ہے؟",
+      "options": [
+        "Ring and Ball Test",
+        "Viscosity Test",
+        "Penetration Test",
+        "Slump Test"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The strength of clay is mainly due to?",
+      "urdu": "مٹی کی مضبوطی بنیادی طور پر کس وجہ سے ہوتی ہے؟",
+      "options": [
+        "Cohesion",
+        "Adhesion",
+        "Friction",
+        "Permeability"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Why Clay Has High Cohesion</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "For an overhead tank having layers of clay and sand, the suitable foundation will be?",
+      "urdu": "مٹی اور ریت کی تہوں والی اوور ہیڈ ٹینکی کے لیے موزوں بنیاد کون سی ہوگی؟",
+      "options": [
+        "Isolated footing",
+        "Raft foundation",
+        "Strip foundation",
+        "Pile foundation"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Rebound Hammer Test is used for?",
+      "urdu": "ری باؤنڈ ہیمر ٹیسٹ کس مقصد کے لیے استعمال کیا جاتا ہے؟",
+      "options": [
+        "Determining the workability of concrete",
+        "Determining the compressive strength of concrete",
+        "Determining the setting time of cement",
+        "Determining the water-cement ratio"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Edge Beam is provided for?",
+      "urdu": "کنارے کی بیم کس مقصد کے لیے فراہم کی جاتی ہے؟",
+      "options": [
+        "Increasing the dead load of the slab",
+        "Supporting the edge of the slab and preventing excessive deflection",
+        "Reducing the thickness of the slab",
+        "Increasing the water-cement ratio"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A plot size is 10 m × 5 m and the tile size is 50 cm × 50 cm. How many tiles are required to cover the area?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "100 tiles",
+        "150 tiles",
+        "200 tiles",
+        "250 tiles"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"37\" data-start=\"0\"><font color=\"#0000ff\">Plot area = </font><span aria-label=\"10 times 5 = 50,m^2\" data-client-katex-layout=\"\" data-end=\"37\" data-math-source=\"10 times 5 = 50,m^2\" data-start=\"12\" role=\"math\" style=\"\"><span class=\"katex\" style=\"\"><span aria-hidden=\"true\" class=\"katex-html\" style=\"\"><font color=\"#ff0000\"><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\" style=\"\">10</span><span class=\"mspace\"></span><span class=\"mbin\" style=\"\">×</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\">5</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\" style=\"\"><span class=\"strut\"></span><span class=\"mord\" style=\"\">50</span><span class=\"mspace\"></span><span class=\"mord\" style=\"\"><span class=\"mord mathnormal\" style=\"\">m^</span><span class=\"msupsub\" style=\"\"><span class=\"vlist-t\" style=\"\"><span class=\"vlist-r\" style=\"\"><span class=\"vlist\" style=\"\"><span class=\"pstrut\"></span><span class=\"sizing reset-size6 size3 mtight\" style=\"\"><span class=\"mord mtight\" style=\"\">2</span></span></span></span></span></span></span></span></font></span></span></span><font color=\"#0000ff\"><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The part of a slab having more thickness is called?",
+      "urdu": "سلیب کے اس حصے کو کیا کہتے ہیں جس کی موٹائی زیادہ ہو؟",
+      "options": [
+        "Drop panel",
+        "Waist slab",
+        "Rib",
+        "Lintel"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "An abutment of a bridge will have which type of earth pressure?",
+      "urdu": "پل کے ابٹمنٹ پر کس قسم کا مٹی کا دباؤ ہوتا ہے؟",
+      "options": [
+        "Active earth pressure",
+        "Passive earth pressure",
+        "Earth pressure at rest",
+        "Hydrostatic pressure"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Consistency and segregation of concrete are checked by which test?",
+      "urdu": "کنکریٹ کی قوامیت اور علیحدگی کو جانچنے کے لیے کون سا ٹیسٹ کیا جاتا ہے؟",
+      "options": [
+        "Slump Test",
+        "Compression Test",
+        "Impact Test",
+        "Rebound Hammer Test"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the correct load transfer path from slab to soil?",
+      "urdu": "سلیب سے مٹی تک بوجھ منتقل ہونے کا درست راستہ کیا ہے؟",
+      "options": [
+        "Slab → Beam → Column → Foundation → Soil",
+        "Slab → Column → Beam → Foundation → Soil",
+        "Slab → Foundation → Beam → Column → Soil",
+        "Slab → Soil → Foundation → Column → Beam"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which test is used to determine the consistency of fresh concrete?",
+      "urdu": "تازہ کنکریٹ کی قوامیت معلوم کرنے کے لیے کون سا ٹیسٹ استعمال کیا جاتا ہے؟",
+      "options": [
+        "Vee-Bee Test",
+        "Slump Test",
+        "Compaction Factor Test",
+        "Kelly Ball Test"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "How many indeterminates are there in a hinge joint of a 3D frame?",
+      "urdu": "تین بُعدی فریم کے قبضہ دار جوڑ میں کتنے غیر معلوم ردِعمل ہوتے ہیں؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which combination correctly identifies the major food-related challenges during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران کھانے سے متعلق بڑے مسائل کی درست نشاندہی کون سا مجموعہ کرتا ہے؟",
+      "options": [
+        "Excessive mutton-intensive menu, local mutton taste and smell, cold and hard bread, and scattered catering areas",
+        "Excessive chicken-intensive menu, fresh bread, centralized catering, and adequate dining facilities",
+        "Limited mutton supply, fresh roti availability, and improved transport connectivity",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which issue significantly reduced the deterrent effect of contractual penalties on underperforming caterers?",
+      "urdu": "کون سا مسئلہ ناقص کارکردگی والے کیٹررز پر معاہداتی جرمانوں کے روک تھام والے اثر کو نمایاں طور پر کم کرتا تھا؟",
+      "options": [
+        "High capacity of small-scale caterers",
+        "Weak penalty clauses, with penalty amounts viewed as a normal “cost of doing business”",
+        "Excessive monitoring by Sector Coordinators",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which command hierarchy was implemented for field supervision of the food operation?",
+      "urdu": "فوڈ آپریشن کی فیلڈ نگرانی کے لیے کون سا کمانڈ نظام نافذ کیا گیا تھا؟",
+      "options": [
+        "DCF, 18 ACFs, and Sector Coordinators only",
+        "Coordinator Makkah, Deputy Coordinator Food (DCF), 12 Assistant Coordinators Food (ACF), and Kitchen Coordinators (KCs)",
+        "Coordinator Makkah, 18 ACFs, and 12 KCs",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "For how many days were meals provided to long-package Hujjaj and short-package Hujjaj during Hajj 2026, excluding Mashair days?",
+      "urdu": "حج 2026 میں مشاعر کے دنوں کو چھوڑ کر لانگ پیکیج اور شارٹ پیکیج کے حجاج کو کتنے دن کھانے فراہم کیے گئے؟",
+      "options": [
+        "38–42 days for long package and 22–32 days for short package",
+        "22–32 days for long package and 38–42 days for short package",
+        "30–35 days for long package and 20–25 days for short package",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which technology-enabled mechanisms were implemented by the Coordinator Makkah’s food team to enhance operational efficiency and transparency?",
       "urdu": "کوآرڈینیٹر مکہ کی فوڈ ٹیم نے آپریشنل کارکردگی اور شفافیت بہتر بنانے کے لیے کون سے ٹیکنالوجی پر مبنی طریقہ کار نافذ کیے؟",
@@ -447,214 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the Government Quota for Hajj-2026?",
-      "urdu": "حج 2026 کے لیے سرکاری کوٹہ کتنا تھا؟",
-      "options": [
-        "115,907",
-        "118,928",
-        "118,000",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The primary objective of the Office of the Coordinator Makkah is to ensure?",
-      "urdu": "کوآرڈینیٹر مکہ کے دفتر کا بنیادی مقصد کیا یقینی بنانا ہے؟",
-      "options": [
-        "Efficient service delivery",
-        "Safeguarding the welfare of Government Scheme Hujjaj",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Office of the Coordinator Makkah serves as the central coordinating authority for?",
-      "urdu": "کوآرڈینیٹر مکہ کا دفتر کس کے لیے مرکزی رابطہ کار اتھارٹی کے طور پر کام کرتا ہے؟",
-      "options": [
-        "Planning",
-        "Execution",
-        "Monitoring and evaluation",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is an operational component under the Office of the Coordinator Makkah?",
-      "urdu": "درج ذیل میں سے کون سا کوآرڈینیٹر مکہ کے دفتر کے تحت ایک عملی شعبہ ہے؟",
-      "options": [
-        "Accommodation",
-        "Transport",
-        "Food",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Office of the Coordinator Makkah is responsible for providing?",
-      "urdu": "کوآرڈینیٹر مکہ کا دفتر کیا فراہم کرنے کا ذمہ دار ہے؟",
-      "options": [
-        "Strategic leadership",
-        "Institutional oversight",
-        "Administrative control",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Office of the Coordinator Makkah is the central operational and administrative establishment of the?",
-      "urdu": "کوآرڈینیٹر مکہ کا دفتر کس کا مرکزی انتظامی اور عملی ادارہ ہے؟",
-      "options": [
-        "Pakistan Hajj Mission in Pakistan",
-        "Pakistan Hajj Mission in the Kingdom of Saudi Arabia",
-        "Ministry of Religious Affairs in Pakistan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a coin is tossed 4 times in succession, what is the probability that at least one head appears?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1/16",
-        "4/16",
-        "15/16",
-        "16/16"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Total possible outcomes = 2⁴ = 16.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sand Replacement Method is used for?",
-      "urdu": "سینڈ ریپلیسمنٹ طریقہ کس چیز کے لیے استعمال کیا جاتا ہے؟",
-      "options": [
-        "Determining the moisture content of soil",
-        "Determining the in-situ density of soil",
-        "Determining the liquid limit of soil",
-        "Determining the permeability of soil"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What was the share of livestock in Pakistan’s agriculture value addition in FY2020–21?",
-      "urdu": "مال مویشی کا مالی سال دو ہزار بیس تا اکیس میں زرعی قدرِ اضافی میں کتنا حصہ تھا؟",
-      "options": [
-        "50.1%",
-        "55.5%",
-        "60.1%",
-        "65.2%"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is Pakistan’s ranking in poultry production?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "8th",
-        "9th",
-        "11th",
-        "14th"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#4a1031\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country banned Gender Studies in 2018?",
-      "urdu": "دو ہزار اٹھارہ ء میں کس ملک نے صنفی مطالعات پر پابندی عائد کی؟",
-      "options": [
-        "Hungary",
-        "Poland",
-        "Russia",
-        "Romania"
-      ],
-      "correct": 0,
-      "explanation": "<p style='--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px; font-family: D-DINExp, \"DM Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";'><font color=\"#0000ff\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-weight: 600;\">Hungary</span> banned Gender Studies in </font><font color=\"#9c00ff\">2018</font><font color=\"#0000ff\">:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Informal loans to poor peasants are generally obtained from whom?",
-      "urdu": "غریب کسان عام طور پر غیر رسمی قرضے کس سے حاصل کرتے ہیں؟",
-      "options": [
-        "Commercial banks",
-        "Government institutions",
-        "Friends and moneylenders",
-        "Insurance companies"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Elizabethan Poor Law was enacted in which year?",
-      "urdu": "الزبتھ دور کا غریبوں سے متعلق قانون کس سال نافذ کیا گیا تھا؟",
-      "options": [
-        "1558",
-        "1598",
-        "1601",
-        "1620"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What was the share of agriculture in Pakistan’s GDP in 2021?",
-      "urdu": "پاکستان کی مجموعی ملکی پیداوار میں زراعت کا حصہ ۲۰۲۱ء میں کتنا تھا؟",
-      "options": [
-        "15.2%",
-        "19.2%",
-        "22.7%",
-        "28.5%"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">In 2021, the share of agriculture in Pakistan’s Gross Domestic Product (GDP) was approximately </font><font color=\"#ff0000\">22.7% to 24%</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Rural Sociology in Pakistan was first formally established at which university?",
-      "urdu": "پاکستان میں دیہی سماجیات پہلی مرتبہ باقاعدہ طور پر کس جامعہ میں قائم کی گئی؟",
-      "options": [
-        "University of Karachi",
-        "University of the Punjab",
-        "University of Agriculture Faisalabad",
-        "Quaid-i-Azam University"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Who is associated with the concept of androcentrism?",
-      "urdu": "مرکزیتِ مرد کے تصور کا تعلق کس سے ہے؟",
-      "options": [
-        "Lester F. Ward",
-        "Charlotte P. Gilman",
-        "Simone de Beauvoir",
-        "Betty Friedan"
-      ],
-      "correct": 1,
-      "explanation": "",
       "category": "all"
     }
   ]
