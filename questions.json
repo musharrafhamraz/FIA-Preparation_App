@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-20T02:16:08.945042",
+    "fetched_at": "2026-08-20T07:35:08.771233",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Basmati Paddy is harvested in Punjab in the month of?",
+      "urdu": "پنجاب میں باسمتی دھان کس مہینے میں کاٹا جاتا ہے؟",
+      "options": [
+        "April",
+        "September",
+        "November",
+        "January"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "________ are going to school.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He",
+        "She",
+        "They",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was selected as a court acrobat?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Gorgios",
+        "James",
+        "Mananas",
+        "Terbut"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-09-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The MJDA was signed by which of the following in 2026 in Saudi Arabia?",
       "urdu": "سعودی عرب میں 2026 میں ایم جے ڈی اے پر درج ذیل میں سے کس نے دستخط کیے؟",
@@ -616,45 +655,6 @@
       ],
       "correct": 1,
       "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Ultimately, the system will bring Pakistan's private Hajj industry in line with?",
-      "urdu": "آخرکار یہ نظام پاکستان کی پرائیویٹ حج انڈسٹری کو کس کے مطابق ہم آہنگ کرے گا؟",
-      "options": [
-        "Traditional quota-driven practices",
-        "International best practices and Saudi Arabia's Vision 2030",
-        "Monopolistic practices",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The performance-based model will reward?",
-      "urdu": "کارکردگی پر مبنی ماڈل کن آپریٹرز کو انعام دے گا؟",
-      "options": [
-        "High-quality operators",
-        "Non-compliant operators",
-        "Operators forming cartels",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The digitally governed structure will reduce?",
-      "urdu": "ڈیجیٹل طور پر منظم ڈھانچہ کس چیز کو کم کرے گا؟",
-      "options": [
-        "Operational reliability",
-        "Transparency and public trust",
-        "Malpractice and litigation",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-08-2026</font></b></p>",
       "category": "all"
     }
   ]
