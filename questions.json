@@ -3,10 +3,400 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-20T19:21:57.395954",
+    "fetched_at": "2026-08-21T02:21:55.300234",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Water rotating under gravity is called?",
+      "urdu": "کششِ ثقل کے تحت گھومتے ہوئے پانی کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Free vortex",
+        "Forced vortex",
+        "Laminar flow",
+        "Uniform flow"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><font color=\"#0000ff\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The maximum eccentricity of a dam for no tension is?",
+      "urdu": "بغیر تناؤ کے ڈیم کی زیادہ سے زیادہ مرکزیت سے انحراف کتنی ہوتی ہے؟",
+      "options": [
+        "B/4",
+        "B/6",
+        "B/8",
+        "B/10"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Fly ash is added to concrete as a replacement for ______ because it has ______ properties.",
+      "urdu": "فلائی ایش کو کنکریٹ میں ______ کے متبادل کے طور پر شامل کیا جاتا ہے کیونکہ اس میں ______ خصوصیات ہوتی ہیں؟",
+      "options": [
+        "Sand; cohesive",
+        "Cement; pozzolanic",
+        "Aggregate; elastic",
+        "Water; hydraulic"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The coefficient of friction is generally greater for?",
+      "urdu": "رگڑ کا ضریب عموماً کس کے لیے زیادہ ہوتا ہے؟",
+      "options": [
+        "Rock",
+        "Sand",
+        "Clay",
+        "Silt"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Punching shear is maximum at the",
+      "urdu": "پنچنگ شیئر زیادہ سے زیادہ کہاں ہوتا ہے؟",
+      "options": [
+        "Center of the slab",
+        "Critical section around the column",
+        "Edge of the slab",
+        "Mid-span of the beam"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Sheet-pile barriers generally become uneconomical when the depth increases beyond?",
+      "urdu": "شیٹ پائل رکاوٹیں عموماً کس گہرائی سے زیادہ ہونے پر غیر معاشی ہو جاتی ہیں؟",
+      "options": [
+        "4 m",
+        "6 m",
+        "8 m",
+        "10 m"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Cantilever Sheet Piles:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The horizontal movement of rails along the track is called?",
+      "urdu": "پٹڑی کے ساتھ ریلوں کی افقی حرکت کو کیا کہتے ہیں؟",
+      "options": [
+        "Rail Creep",
+        "Sagging",
+        "Buckling",
+        "Tilting"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Geodetic Survey is generally used for an area more than?",
+      "urdu": "جیوڈیٹک سروے عام طور پر کتنے رقبے سے زیادہ کے لیے استعمال کیا جاتا ہے؟",
+      "options": [
+        "50 km²",
+        "100 km²",
+        "250 km²",
+        "500 km²"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A sketch showing natural features such as trees, rivers, and other objects is called?",
+      "urdu": "درختوں، دریاؤں اور دیگر قدرتی اشیاء جیسی قدرتی خصوصیات دکھانے والے خاکے کو کیا کہتے ہیں؟",
+      "options": [
+        "Map",
+        "Topographical map",
+        "Cadastral map",
+        "Contour map"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What type of load is ideally applied to the joints of a truss?",
+      "urdu": "ٹرَس کے جوڑوں پر مثالی طور پر کس قسم کا بوجھ لگایا جاتا ہے؟",
+      "options": [
+        "Point load",
+        "Uniformly distributed load",
+        "Moment load",
+        "Torsional load"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which command in AutoCAD is used to make round edges?",
+      "urdu": "آٹوکیڈ میں کون سا کمانڈ کناروں کو گول کرنے کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Trim",
+        "Fillet",
+        "Offset",
+        "Extend"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which software is commonly used for road geometry design?",
+      "urdu": "سڑک کی جیومیٹری کی ڈیزائننگ کے لیے عام طور پر کون سا سافٹ ویئر استعمال کیا جاتا ہے؟",
+      "options": [
+        "AutoCAD Civil 3D",
+        "MS Excel",
+        "MS Word",
+        "Adobe Photoshop"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A brick is considered weak if it?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Absorbs more water",
+        "Has high compressive strength",
+        "Has low water absorption",
+        "Has a uniform shape"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the maximum bending moment due to a UDL on a simply supported beam?",
+      "urdu": "سادہ طور پر سہارا دی ہوئی بیم پر یکساں تقسیم شدہ بوجھ کی وجہ سے زیادہ سے زیادہ موڑنے کا مومنٹ کیا ہوتا ہے؟",
+      "options": [
+        "wL^2/4",
+        "wL^2/8",
+        "wL^2/12",
+        "wL^2/2"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">For a simply supported beam carrying a </font><font color=\"#ff0000\">UDL over the entire span</font><font color=\"#0000ff\">:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "For an uncontrolled spillway, the freeboard generally provided is",
+      "urdu": "غیر قابو شدہ اسپل وے کے لیے عموماً کتنا فری بورڈ فراہم کیا جاتا ہے؟",
+      "options": [
+        "3–4 m",
+        "1–2 m",
+        "5 m",
+        "8 m"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A solid cylindrical steel bar with a diameter of 19 mm and a length of 1.51 m is subjected to an axial tensile force of 150 kN. If the Modulus of Elasticity for the steel is 200 GPa, what is the allowable stretch (axial elongation) of the steel bar?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "4 mm",
+        "9 mm",
+        "14 mm",
+        "20 mm"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"33\" data-start=\"23\"><font color=\"#ff0000\"><strong data-end=\"33\" data-start=\"23\" style=\"\">Given:</strong><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Meandering occurs at which stage of a river?",
+      "urdu": "دریا کے کس مرحلے میں میندرنگ یعنی بل کھانا ہوتا ہے؟",
+      "options": [
+        "Rocky stage",
+        "Trough stage",
+        "Delta stage",
+        "Mountain stage"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "During an earthquake, the shear stress acting on a dam is",
+      "urdu": "زلزلے کے دوران ڈیم پر اثر انداز ہونے والا قینچی تناؤ کیسا ہوتا ہے؟",
+      "options": [
+        "Negligible",
+        "Increased",
+        "Decreased",
+        "Remains constant"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The pressure exerted by water when it is at rest is called",
+      "urdu": "جب پانی ساکن حالت میں ہو تو اس کی طرف سے لگایا جانے والا دباؤ کیا کہلاتا ہے؟",
+      "options": [
+        "Gauge pressure",
+        "Hydrostatic pressure",
+        "Atmospheric pressure",
+        "Dynamic pressure"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The standard wheel load used in pavement design is?",
+      "urdu": "فرش کی ڈیزائننگ میں استعمال ہونے والا معیاری پہیے کا بوجھ کتنا ہوتا ہے؟",
+      "options": [
+        "8 tons",
+        "10 tons",
+        "18 tons",
+        "20 tons"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-size: 0.875rem;\">Standard Axle Load (ESAL benchmark) in pavement design:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When a canal passes over a drainage and the drainage H.F.L. is above the canal bed, the structure is called?",
+      "urdu": "جب نہر کسی نکاسیِ آب کے اوپر سے گزرتی ہے اور نکاسیِ آب کی بلند ترین سطح نہر کی تہہ سے اوپر ہو، تو اس ڈھانچے کو کیا کہتے ہیں؟",
+      "options": [
+        "Aqueduct",
+        "Canal siphon",
+        "Level crossing",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Alkali–aggregate reaction in concrete occurs due to?",
+      "urdu": "کنکریٹ میں الکلی–ایگریگیٹ ردِعمل کس وجہ سے ہوتا ہے؟",
+      "options": [
+        "Reaction between cement alkalis and reactive aggregates",
+        "Reaction between cement and water only",
+        "Excessive sand in concrete",
+        "Low temperature of concrete"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Soil having a particle size less than 0.002 mm and being cohesive is called",
+      "urdu": "جس مٹی کے ذرات کا سائز صفر اعشاریہ صفر صفر دو ملی میٹر سے کم ہو اور جو باہم جڑے ہوئے ہوں، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Sand",
+        "Silt",
+        "Clay",
+        "Gravel"
+      ],
+      "correct": 2,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pelton Wheel Turbine functions on?",
+      "urdu": "پیلٹن وہیل ٹربائن کس اصول پر کام کرتی ہے؟",
+      "options": [
+        "Radial flow of water",
+        "Axial flow of water",
+        "Tangential velocity of water",
+        "Mixed flow of water"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Pelton Wheel Works </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Accuracy in surveying is affected by?",
+      "urdu": "سروے میں درستگی کس چیز سے متاثر ہوتی ہے؟",
+      "options": [
+        "The instruments being used",
+        "Contour line spacing",
+        "Atmospheric conditions",
+        "All of the above"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\">Instruments Used:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A speed-limit signboard is classified as",
+      "urdu": "رفتار کی حد کا سائن بورڈ کس قسم کی علامت میں شمار ہوتا ہے؟",
+      "options": [
+        "Warning sign",
+        "Regulatory sign",
+        "Informative sign",
+        "Directional sign"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Water Bound Macadam (WBM) road, which material is used as filler?",
+      "urdu": "واٹر باؤنڈ میکاڈم سڑک میں فلر کے طور پر کون سا مواد استعمال کیا جاتا ہے؟",
+      "options": [
+        "Cement",
+        "Stone dust",
+        "Bitumen",
+        "Clay"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Irrigation canals are generally designed along:",
+      "urdu": "آبپاشی کی نہریں عام طور پر کس کے ساتھ بنائی جاتی ہیں؟",
+      "options": [
+        "Valley line",
+        "Ridge line",
+        "Contour line only",
+        "River bed"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 0.875rem;\"><font color=\"#ff0000\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A curve for which the radius is changing continuously is called",
+      "urdu": "جس منحنی کا رداس مسلسل تبدیل ہوتا رہتا ہے، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Simple Circular Curve",
+        "Compound Curve",
+        "Transition Curve",
+        "Reverse Curve"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the Allowable Stress Method, what is applied to the loads/stresses?",
+      "urdu": "قابلِ اجازت تناؤ کے طریقے میں بوجھ یا تناؤ پر کیا لاگو کیا جاتا ہے؟",
+      "options": [
+        "Factor of Safety is applied to loads",
+        "Factor of Safety is applied to stresses",
+        "Load factor is applied to loads",
+        "No factor is applied"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information <br/></font></p>",
+      "category": "all"
+    },
     {
       "q": "Flow is checked by which test?",
       "urdu": "بہاؤ  کو کس ٹیسٹ سے جانچا جاتا ہے؟",
@@ -265,396 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the total number of Hujjaj inducted seamlessly during Hajj 2025?",
-      "urdu": "حج 2025 کے دوران بغیر کسی رکاوٹ کے شامل کیے گئے حجاج کی کل تعداد کیا تھی؟",
-      "options": [
-        "75,000",
-        "88,295",
-        "90,000",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">A total of </font><font color=\"#ff0000\">88,295 Hujjaj</font><font color=\"#0000ff\"> were inducted smoothly along with their luggage.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What type of platform is recommended for real-time monitoring, categorization, tracking, and resolution of accommodation-related complaints?",
-      "urdu": "رہائش سے متعلق شکایات کی فوری نگرانی، درجہ بندی، ٹریکنگ اور حل کے لیے کس قسم کے پلیٹ فارم کی سفارش کی گئی ہے؟",
-      "options": [
-        "Manual complaint management platform",
-        "Centralized accommodation platform",
-        "Integrated digital complaint management platform",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What type of accommodation management system is recommended to automate room allocation, family grouping, occupancy management, and accommodation tracking?",
-      "urdu": "کمرے مختص کرنے، خاندانوں کی گروپ بندی، رہائش کی نگرانی اور رہائشی ریکارڈ رکھنے کے لیے کس قسم کا نظام تجویز کیا گیا ہے؟",
-      "options": [
-        "Automated Accommodation Management System",
-        "Manual Accommodation Management System",
-        "Sector Accommodation System",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is recommended regarding building possession before pilgrim induction?",
-      "urdu": "حجاج کی آمد سے پہلے عمارت کا قبضہ لینے کے بارے میں کیا تجویز کیا گیا ہے؟",
-      "options": [
-        "Building possession should be accepted before inspection",
-        "Building possession should only be accepted after certification of complete readiness and rectification of all identified deficiencies",
-        "Building possession should depend only on transport connectivity",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What system is recommended for objective assessment and categorization of accommodation buildings?",
-      "urdu": "رہائشی عمارتوں کی معروضی جانچ اور درجہ بندی کے لیے کون سا نظام تجویز کیا گیا ہے؟",
-      "options": [
-        "Scientific Building Grading System",
-        "Manual Building Allocation System",
-        "Transport Monitoring System",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which principle may be adopted to the maximum extent possible during accommodation planning?",
-      "urdu": "رہائش کی منصوبہ بندی کے دوران ممکنہ حد تک کون سا اصول اپنایا جا سکتا ہے؟",
-      "options": [
-        "One Flight – One Sector – One Building",
-        "One Family – One Sector – One Maktab",
-        "One Flight – One Maktab – One Building",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following was a common accommodation-related complaint during Hajj 2026?",
-      "urdu": "حج 2026 کے دوران رہائش سے متعلق عام شکایت کون سی تھی؟",
-      "options": [
-        "Room allocation concerns",
-        "Air-conditioning failures",
-        "Lift malfunctions",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was a major challenge caused by scattering Hujjaj belonging to the same family, flight, or group across multiple buildings, sectors, and Makatib?",
-      "urdu": "ایک ہی خاندان، فلائٹ یا گروپ سے تعلق رکھنے والے حجاج کو مختلف عمارتوں، سیکٹرز اور مکاتب میں تقسیم کرنے سے کون سا بڑا مسئلہ پیدا ہوا؟",
-      "options": [
-        "Family separation and increased room adjustment requests",
-        "Increased food requirements",
-        "Reduced accommodation complaints",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Buildings located in narrow streets and congested areas created challenges particularly for?",
-      "urdu": "تنگ گلیوں اور گنجان علاقوں میں واقع عمارتوں نے خاص طور پر کن کاموں کے لیے مشکلات پیدا کیں؟",
-      "options": [
-        "Medical treatment only",
-        "Transportation, emergency access, luggage movement, induction and departure operations",
-        "Food distribution only",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What major issue resulted in deferred maintenance and inadequate upkeep of several accommodation facilities?",
-      "urdu": "کئی رہائشی سہولیات کی دیکھ بھال میں تاخیر اور ناقص انتظام کی بڑی وجہ کیا تھی؟",
-      "options": [
-        "Family and flight group dispersion",
-        "Poor accessibility by buses",
-        "Non-payment by the Tawafa Companies to building owners (Mustajireen)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was a significant operational challenge regarding accommodation standards during Hajj 2026?",
-      "urdu": "حج 2026 کے دوران رہائش کے معیار سے متعلق ایک اہم انتظامی چیلنج کیا تھا؟",
-      "options": [
-        "Lack of residential buildings",
-        "Uniformity in building standards",
-        "Variation in building standards among residential buildings",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Basmati Paddy is harvested in Punjab in the month of?",
-      "urdu": "پنجاب میں باسمتی دھان کس مہینے میں کاٹا جاتا ہے؟",
-      "options": [
-        "April",
-        "September",
-        "November",
-        "January"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "________ are going to school.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He",
-        "She",
-        "They",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was selected as a court acrobat?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Gorgios",
-        "James",
-        "Mananas",
-        "Terbut"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The MJDA was signed by which of the following in 2026 in Saudi Arabia?",
-      "urdu": "سعودی عرب میں 2026 میں ایم جے ڈی اے پر درج ذیل میں سے کس نے دستخط کیے؟",
-      "options": [
-        "Pakistan",
-        "Saudi Arabia",
-        "Turkiye",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement (MJDA) 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is World Humanitarian Day observed?",
-      "urdu": "انسانی ہمدردی کا عالمی دن کب منایا جاتا ہے؟",
-      "options": [
-        "17 August",
-        "19 August",
-        "18 August",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Observed annually on </font><font color=\"#00ff00\">August 19</font><font color=\"#0000ff\">,</font><font color=\"#ff0000\"> World Humanitarian Da</font><font color=\"#0000ff\">y honors aid workers who risk their lives to deliver life-saving support and remembers those who died in the line of duty.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The continuous presence of Khuddam-ul-Hujjaj within residential buildings ensured?",
-      "urdu": "رہائشی عمارتوں میں خدام الحجاج کی مسلسل موجودگی نے حجاج کے لیے کیا یقینی بنایا؟",
-      "options": [
-        "24/7 assistance to Hujjaj",
-        "12-hour assistance to Hujjaj",
-        "Assistance only during emergencies",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who conducted detailed inspections of all residential buildings before Hujjaj occupancy?",
-      "urdu": "حجاج کی رہائش سے پہلے تمام رہائشی عمارتوں کا تفصیلی معائنہ کس نے کیا؟",
-      "options": [
-        "Khuddam-ul-Hujjaj only",
-        "Building owners and service providers",
-        "Sector’s Inspection Teams under the command of experienced Sector Coordinator",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the number of Medical dispensaries/healthcare facilities strategically established within accommodation clusters during Hajj 2026?",
-      "urdu": "حج 2026 کے دوران رہائشی کلسٹرز میں کتنی طبی ڈسپنسریاں/صحت کی سہولیات قائم کی گئیں؟",
-      "options": [
-        "24",
-        "30",
-        "36",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Across how many sectors in Makkah was the accommodation and welfare management of Pakistani Hujjaj carried out during Hajj 2026?",
-      "urdu": "حج 2026 کے دوران پاکستانی حجاج کی رہائش اور فلاح و بہبود کا انتظام مکہ میں کتنے سیکٹرز میں کیا گیا؟",
-      "options": [
-        "10 sectors",
-        "11 sectors",
-        "12 sectors",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following was a challenge faced in accommodation management during Hajj Operation 2026?",
-      "urdu": "حج آپریشن 2026 کے دوران رہائش کے انتظام میں درج ذیل میں سے کون سا چیلنج درپیش تھا؟",
-      "options": [
-        "Deficiencies in building infrastructure",
-        "Intermittent malfunctioning of lifts",
-        "Issues relating to sanitation and hygiene",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many residential buildings were hired by the Pakistan Hajj Mission during Hajj Operation 2026?",
-      "urdu": "حج آپریشن 2026 کے دوران پاکستان حج مشن نے کل کتنی رہائشی عمارتیں کرائے پر حاصل کیں؟",
-      "options": [
-        "273",
-        "260",
-        "283",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Approximately how many Government Scheme Hujjaj were managed for accommodation by the Office of the Coordinator Makkah during Hajj Operation 2026?",
-      "urdu": "حج آپریشن 2026 کے دوران کوآرڈینیٹر مکہ کے دفتر نے تقریباً کتنے سرکاری اسکیم کے حجاج کی رہائش کا انتظام کیا؟",
-      "options": [
-        "115,907",
-        "118,382",
-        "118,928",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The prestigious “Labbaytum” Award from the Saudi Ministry of Hajj and Umrah was conferred upon the Country Head of the Mission in recognition of?",
-      "urdu": "سعودی وزارت حج و عمرہ کی جانب سے معزز \"لبّیکم\" ایوارڈ کس کارکردگی کے اعتراف میں مشن کے کنٹری ہیڈ کو دیا گیا؟",
-      "options": [
-        "Digital transformation and accommodation management",
-        "Financial performance and administrative reforms",
-        "Outstanding operational performance and excellence in Hujjaj services",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Madina Departure Cell (MDC) was established to ensure orderly, timely, and well-coordinated movement of departing Hujjaj from?",
-      "urdu": "مدینہ ڈیپارچر سیل روانہ ہونے والے حجاج کی منظم اور بروقت نقل و حرکت کہاں سے یقینی بنانے کے لیے قائم کیا گیا تھا؟",
-      "options": [
-        "Madina to Makkah",
-        "Jeddah to Madina",
-        "Makkah to Madina",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Team Digital Solutions (TDS) introduced technology-driven operational management through the?",
-      "urdu": "ٹیم ڈیجیٹل سلوشنز نے ٹیکنالوجی پر مبنی آپریشنل مینجمنٹ کس کے ذریعے متعارف کرایا؟",
-      "options": [
-        "Makkah Hajj Operation Management System (M-HOMS)",
-        "Main Control Office (MCO)",
-        "Madina Departure Cell (MDC)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Social Media & Information Dissemination (SM&ID) Cell served under the supervision of the?",
-      "urdu": "سوشل میڈیا اور معلومات کی ترسیل سیل کس کی نگرانی میں کام کرتا تھا؟",
-      "options": [
-        "Main Control Office",
-        "Team Digital Solutions",
-        "Coordinator Makkah",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Main Control Office (MCO) functioned as the central point and Hujjaj facilitation platform for?",
-      "urdu": "مین کنٹرول آفس کس مقصد کے لیے مرکزی مقام اور حجاج کی سہولت کاری کا پلیٹ فارم تھا؟",
-      "options": [
-        "Accommodation, transport, food, and Makatib Coordination",
-        "Receiving, registering, monitoring, and resolving complaints",
-        "Digital duty roster administration only",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which functional heads comprised the Central Core Team?",
-      "urdu": "مرکزی کور ٹیم میں کون سے شعبوں کے سربراہ شامل تھے؟",
-      "options": [
-        "Operations, Food, Transport, Makatib Coordination, Administration & Discipline, and Monitoring & Vigilance",
-        "Operations, Finance, Security, Health, Transport, and Accommodation",
-        "Food, Finance, Social Media, Digital Solutions, and Transport",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Central Core Team of the Coordinator Makkah constituted the principal ______ mechanism of the Pakistan Hajj Mission in Makkah.",
-      "urdu": "کوآرڈینیٹر مکہ کی مرکزی کور ٹیم پاکستان حج مشن میں کس بنیادی طریقۂ کار کے طور پر کام کرتی تھی؟",
-      "options": [
-        "Monitoring, transport, and food",
-        "Financial, legal, and administrative",
-        "Command, coordination, and operational governance",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-08-2026</font></b></p>",
       "category": "all"
     }
   ]
