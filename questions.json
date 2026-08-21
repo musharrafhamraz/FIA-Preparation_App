@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-21T13:40:07.654997",
+    "fetched_at": "2026-08-21T19:17:53.043491",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which country secured the Asia-Pacific seat on the UN Security Council for 2027–28?",
+      "urdu": "کس ملک نے 2027 اور 2028 کے لیے اقوام متحدہ کی سلامتی کونسل میں ایشیا پیسیفک کی نشست حاصل کی؟",
+      "options": [
+        "Philippines",
+        "Kyrgyzstan",
+        "Kazakhstan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Kyrgyzstan </font><font color=\"#0000ff\">has been elected as a non-permanent member of the </font>UN Security Council <font color=\"#0000ff\">for the very first time, with its two-year term scheduled to begin on </font><font color=\"#ff0000\">January 1, 2027.</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
     {
       "q": "Urban planners increasingly advocate mixed-use development because integrating residential, commercial, and recreational facilities reduces commuting distances and promotes environmental sustainability. Critics, however, argue that such developments may increase property prices and displace lower-income residents unless appropriate housing policies accompany urban expansion. The author would MOST likely agree that?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -639,19 +652,6 @@
         "Determining the compressive strength of concrete",
         "Determining the setting time of cement",
         "Determining the water-cement ratio"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Edge Beam is provided for?",
-      "urdu": "کنارے کی بیم کس مقصد کے لیے فراہم کی جاتی ہے؟",
-      "options": [
-        "Increasing the dead load of the slab",
-        "Supporting the edge of the slab and preventing excessive deflection",
-        "Reducing the thickness of the slab",
-        "Increasing the water-cement ratio"
       ],
       "correct": 1,
       "explanation": "",
