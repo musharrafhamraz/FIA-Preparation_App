@@ -3,10 +3,205 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-22T02:14:25.165784",
+    "fetched_at": "2026-08-22T07:25:34.998304",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What was the primary role of the Makatib Cell during Hajj 1447H / 2026?",
+      "urdu": "حج 1447ھ/2026 کے دوران مکتب سیل کا بنیادی کردار کیا تھا؟",
+      "options": [
+        "Managing only pilgrim accommodation",
+        "Managing only transportation services",
+        "Liaison and operational coordination between the Pakistan Hajj Mission and Saudi Service Provider Companies (SPCs)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What accommodation planning strategy is recommended to improve transport efficiency and shorten bus turnaround loops?",
+      "urdu": "ٹرانسپورٹ کی کارکردگی بہتر بنانے اور بسوں کے چکر کا دورانیہ کم کرنے کے لیے عمارتوں کے انتخاب کی کون سی حکمتِ عملی تجویز کی گئی ہے؟",
+      "options": [
+        "Random selection of buildings",
+        "Scattered accommodation across all sectors",
+        "Cluster-based selection of buildings",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is recommended to replace the rigid “250 Hujjaj per bus” planning formula?",
+      "urdu": "سخت 250 حجاج فی بس کے منصوبہ بندی فارمولے کی جگہ کیا تجویز کیا گیا ہے؟",
+      "options": [
+        "A fixed 300 Hujjaj per bus formula",
+        "A localized, variable allocation metric based on geographic and building conditions",
+        "A single-bus-per-building formula",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many bus lanes were operationally required at the Kidana hub, while only 8 lanes were structurally allocated?",
+      "urdu": "کدانا ہب پر عملی طور پر کتنی بس لینز درکار تھیں جبکہ ساختی طور پر صرف 8 لینز مختص تھیں؟",
+      "options": [
+        "10 lanes",
+        "12 lanes",
+        "16 lanes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the major consequence of the loss of the Masqoota–Ajyad Drop Point?",
+      "urdu": "مسقوتہ–اجیاد ڈراپ پوائنٹ ختم ہونے کا بڑا نتیجہ کیا نکلا؟",
+      "options": [
+        "Increased congestion at Kidana and Kudai drop points",
+        "Reduction in the number of buses",
+        "Cancellation of all Salawat services",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What standard ratio of pilgrims per bus was used in the contractual logistics formula?",
+      "urdu": "معاہداتی لاجسٹکس کے فارمولے میں فی بس حجاج کا کون سا معیاری تناسب استعمال کیا گیا؟",
+      "options": [
+        "150 Hujjaj per bus",
+        "200 Hujjaj per bus",
+        "250 Hujjaj per bus",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What amount of penalties was proposed against Muwakib ul Khair for violations of the transport contract?",
+      "urdu": "ٹرانسپورٹ معاہدے کی خلاف ورزیوں پر مواکب الخیر کے خلاف کتنے جرمانے کی تجویز دی گئی؟",
+      "options": [
+        "SAR 186,200",
+        "SAR 256,200",
+        "SAR 286,200",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many total trips were recorded by the ITS dashboard during the Hajj 2026 transport operation?",
+      "urdu": "حج 2026 کی ٹرانسپورٹ آپریشن کے دوران آئی ٹی ایس ڈیش بورڈ پر کل کتنے ٹرپس ریکارڈ کیے گئے؟",
+      "options": [
+        "56,886",
+        "46,886",
+        "66,886",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What system was introduced for real-time tracking of buses during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران بسوں کی حقیقی وقت میں ٹریکنگ کے لیے کون سا نظام متعارف کرایا گیا؟",
+      "options": [
+        "Global Positioning System (GPS)",
+        "Intelligent Transport System (ITS)",
+        "Automated Transit System (ATS)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the maximum operational fleet deployed during peak Hajj 2026 transport operations?",
+      "urdu": "حج 2026 کی مصروف ترین ٹرانسپورٹ سرگرمیوں کے دوران زیادہ سے زیادہ کتنی بسیں آپریشنل کی گئی تھیں؟",
+      "options": [
+        "394 buses",
+        "444 buses",
+        "494 buses",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Approximately how many Pakistani pilgrims were facilitated by the Salawat transport network during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران صلوات ٹرانسپورٹ نیٹ ورک کے ذریعے تقریباً کتنے پاکستانی حجاج کو سہولت فراہم کی گئی؟",
+      "options": [
+        "108,382",
+        "118,382",
+        "128,382",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What temperature range is recommended for mandatory electric hot holding cabinets to keep early-baked flatbread fresh and soft?",
+      "urdu": "جلدی تیار کی گئی روٹی کو تازہ اور نرم رکھنے کے لیے لازمی الیکٹرک ہاٹ ہولڈنگ کیبنٹس میں کون سا درجہ حرارت تجویز کیا گیا ہے؟",
+      "options": [
+        "60–65°C",
+        "40–45°C",
+        "50–55°C",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What escalating percentage-based penalties are recommended for the first, second, and third failures, respectively?",
+      "urdu": "پہلی، دوسری اور تیسری خلاف ورزی پر بالترتیب کتنے فیصد بڑھتے ہوئے جرمانے تجویز کیے گئے ہیں؟",
+      "options": [
+        "2%, 4%, 6%",
+        "1%, 2%, 5%",
+        "1%, 3%, 7%",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many catering companies had their contracts terminated mid-season?",
+      "urdu": "کتنی کیٹرنگ کمپنیوں کے معاہدے سیزن کے دوران ختم کیے گئے؟",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the total amount of financial fines issued for documented delivery delays, weight shortfalls, and hygiene breaches?",
+      "urdu": "درج شدہ ڈیلیوری میں تاخیر، وزن میں کمی اور حفظانِ صحت کی خلاف ورزیوں پر مجموعی طور پر کتنے مالی جرمانے عائد کیے گئے؟",
+      "options": [
+        "SAR 145,500",
+        "SAR 154,500+",
+        "SAR 165,500",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "What is Albuminurophobia (Albumin Phobia) a fear of?",
       "urdu": "البومین فوبیا کس چیز کا خوف ہے؟",
@@ -460,201 +655,6 @@
       ],
       "correct": 1,
       "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The pressure exerted by water when it is at rest is called",
-      "urdu": "جب پانی ساکن حالت میں ہو تو اس کی طرف سے لگایا جانے والا دباؤ کیا کہلاتا ہے؟",
-      "options": [
-        "Gauge pressure",
-        "Hydrostatic pressure",
-        "Atmospheric pressure",
-        "Dynamic pressure"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The standard wheel load used in pavement design is?",
-      "urdu": "فرش کی ڈیزائننگ میں استعمال ہونے والا معیاری پہیے کا بوجھ کتنا ہوتا ہے؟",
-      "options": [
-        "8 tons",
-        "10 tons",
-        "18 tons",
-        "20 tons"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-size: 0.875rem;\">Standard Axle Load (ESAL benchmark) in pavement design:</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When a canal passes over a drainage and the drainage H.F.L. is above the canal bed, the structure is called?",
-      "urdu": "جب نہر کسی نکاسیِ آب کے اوپر سے گزرتی ہے اور نکاسیِ آب کی بلند ترین سطح نہر کی تہہ سے اوپر ہو، تو اس ڈھانچے کو کیا کہتے ہیں؟",
-      "options": [
-        "Aqueduct",
-        "Canal siphon",
-        "Level crossing",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Alkali–aggregate reaction in concrete occurs due to?",
-      "urdu": "کنکریٹ میں الکلی–ایگریگیٹ ردِعمل کس وجہ سے ہوتا ہے؟",
-      "options": [
-        "Reaction between cement alkalis and reactive aggregates",
-        "Reaction between cement and water only",
-        "Excessive sand in concrete",
-        "Low temperature of concrete"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Soil having a particle size less than 0.002 mm and being cohesive is called",
-      "urdu": "جس مٹی کے ذرات کا سائز صفر اعشاریہ صفر صفر دو ملی میٹر سے کم ہو اور جو باہم جڑے ہوئے ہوں، اسے کیا کہتے ہیں؟",
-      "options": [
-        "Sand",
-        "Silt",
-        "Clay",
-        "Gravel"
-      ],
-      "correct": 2,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pelton Wheel Turbine functions on?",
-      "urdu": "پیلٹن وہیل ٹربائن کس اصول پر کام کرتی ہے؟",
-      "options": [
-        "Radial flow of water",
-        "Axial flow of water",
-        "Tangential velocity of water",
-        "Mixed flow of water"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Pelton Wheel Works </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Accuracy in surveying is affected by?",
-      "urdu": "سروے میں درستگی کس چیز سے متاثر ہوتی ہے؟",
-      "options": [
-        "The instruments being used",
-        "Contour line spacing",
-        "Atmospheric conditions",
-        "All of the above"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\">Instruments Used:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A speed-limit signboard is classified as",
-      "urdu": "رفتار کی حد کا سائن بورڈ کس قسم کی علامت میں شمار ہوتا ہے؟",
-      "options": [
-        "Warning sign",
-        "Regulatory sign",
-        "Informative sign",
-        "Directional sign"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Water Bound Macadam (WBM) road, which material is used as filler?",
-      "urdu": "واٹر باؤنڈ میکاڈم سڑک میں فلر کے طور پر کون سا مواد استعمال کیا جاتا ہے؟",
-      "options": [
-        "Cement",
-        "Stone dust",
-        "Bitumen",
-        "Clay"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Irrigation canals are generally designed along:",
-      "urdu": "آبپاشی کی نہریں عام طور پر کس کے ساتھ بنائی جاتی ہیں؟",
-      "options": [
-        "Valley line",
-        "Ridge line",
-        "Contour line only",
-        "River bed"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 0.875rem;\"><font color=\"#ff0000\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A curve for which the radius is changing continuously is called",
-      "urdu": "جس منحنی کا رداس مسلسل تبدیل ہوتا رہتا ہے، اسے کیا کہتے ہیں؟",
-      "options": [
-        "Simple Circular Curve",
-        "Compound Curve",
-        "Transition Curve",
-        "Reverse Curve"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the Allowable Stress Method, what is applied to the loads/stresses?",
-      "urdu": "قابلِ اجازت تناؤ کے طریقے میں بوجھ یا تناؤ پر کیا لاگو کیا جاتا ہے؟",
-      "options": [
-        "Factor of Safety is applied to loads",
-        "Factor of Safety is applied to stresses",
-        "Load factor is applied to loads",
-        "No factor is applied"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information <br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Flow is checked by which test?",
-      "urdu": "بہاؤ  کو کس ٹیسٹ سے جانچا جاتا ہے؟",
-      "options": [
-        "Ring and Ball Test",
-        "Viscosity Test",
-        "Penetration Test",
-        "Slump Test"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The strength of clay is mainly due to?",
-      "urdu": "مٹی کی مضبوطی بنیادی طور پر کس وجہ سے ہوتی ہے؟",
-      "options": [
-        "Cohesion",
-        "Adhesion",
-        "Friction",
-        "Permeability"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Why Clay Has High Cohesion</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "For an overhead tank having layers of clay and sand, the suitable foundation will be?",
-      "urdu": "مٹی اور ریت کی تہوں والی اوور ہیڈ ٹینکی کے لیے موزوں بنیاد کون سی ہوگی؟",
-      "options": [
-        "Isolated footing",
-        "Raft foundation",
-        "Strip foundation",
-        "Pile foundation"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
       "category": "all"
     }
   ]
