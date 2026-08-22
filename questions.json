@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-21T19:17:53.043491",
+    "fetched_at": "2026-08-22T02:14:25.165784",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is Albuminurophobia (Albumin Phobia) a fear of?",
+      "urdu": "البومین فوبیا کس چیز کا خوف ہے؟",
+      "options": [
+        "Fear of blood",
+        "Fear of kidney disease",
+        "Fear of water",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which country secured the Asia-Pacific seat on the UN Security Council for 2027–28?",
       "urdu": "کس ملک نے 2027 اور 2028 کے لیے اقوام متحدہ کی سلامتی کونسل میں ایشیا پیسیفک کی نشست حاصل کی؟",
@@ -642,19 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><font color=\"#0000ff\">Additional information </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Rebound Hammer Test is used for?",
-      "urdu": "ری باؤنڈ ہیمر ٹیسٹ کس مقصد کے لیے استعمال کیا جاتا ہے؟",
-      "options": [
-        "Determining the workability of concrete",
-        "Determining the compressive strength of concrete",
-        "Determining the setting time of cement",
-        "Determining the water-cement ratio"
-      ],
-      "correct": 1,
-      "explanation": "",
       "category": "all"
     }
   ]
