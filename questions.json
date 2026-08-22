@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-22T13:27:04.057345",
+    "fetched_at": "2026-08-22T19:14:04.009427",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "How many lost luggage cases were recorded during Hajj 2026, and how many were successfully recovered and delivered?",
-      "urdu": "حج 2026 کے دوران گم شدہ سامان کے کتنے کیسز درج ہوئے اور ان میں سے کتنے کامیابی سے بازیاب کرکے پہنچائے گئے؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "2,607 recorded; 2,612 recovered",
-        "2,612 recorded; 2,607 recovered",
-        "2,612 recorded; 2,600 recovered",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under the luggage-handling procedure, baggage remaining undelivered beyond how many hours is formally classified as “Lost Luggage”?",
-      "urdu": "سامان کی ترسیل کے طریقہ کار کے تحت کتنے گھنٹوں سے زیادہ وقت تک سامان نہ ملنے پر اسے باقاعدہ طور پر گم شدہ سامان قرار دیا جاتا ہے؟",
-      "options": [
-        "6 hours",
-        "12 hours",
-        "18 hours",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How far in advance did the MDC issue date- and Maktab-wise departure lists?",
-      "urdu": "ایم ڈی سی نے روانگی کی تاریخ اور مکتب کے لحاظ سے فہرستیں کتنے وقت پہلے جاری کیں؟",
-      "options": [
-        "48–72 hours",
-        "12–24 hours",
-        "24–48 hours",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "What was the standard travel threshold for the 450 km Madina-to-Makkah journey?",
-      "urdu": "چار سو پچاس کلومیٹر مدینہ سے مکہ کے سفر کے لیے معیاری سفری حد کتنی تھی؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "6 hours",
-        "8 hours 30 minutes",
-        "7 hours 30 minutes",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "options": [
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
+      ],
+      "correct": 2,
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "How many specialized buses were used for the Madina-to-Makkah movement of 46,546 pilgrims?",
-      "urdu": "چھیالیس ہزار پانچ سو چھیالیس حجاج کو مدینہ سے مکہ منتقل کرنے کے لیے کتنی خصوصی بسیں استعمال کی گئیں؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "1,231",
-        "921",
-        "1,031",
-        "None of these"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Between April 26 and May 22, 2026, how many Pakistani pilgrims were transported from Madina to Makkah?",
-      "urdu": "چھبیس اپریل سے 22 مئی 2026 کے درمیان کتنے پاکستانی حجاج کو مدینہ سے مکہ منتقل کیا گیا؟",
-      "options": [
-        "34,506",
-        "39,688",
-        "46,546",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under which office does the Madina Departure Cell (MDC) operate?",
-      "urdu": "مدینہ ڈیپارچر سیل کس دفتر کے تحت کام کرتا ہے؟",
-      "options": [
-        "Coordinator Madina",
-        "Main Control Office (MCO) in Makkah",
-        "Makatib Cell",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a key performance appraisal metric for Local Moaveneen (KSA-based staff)?",
-      "urdu": "مقامی معاونین کی کارکردگی جانچنے کے لیے کون سا اہم معیار ہے؟",
-      "options": [
-        "Academic qualification only",
-        "Bilingual coordination, punctuality, and adherence to deployment manifests",
-        "Number of years in government service",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How should the performance of Nazims primarily be evaluated?",
-      "urdu": "ناظمین کی کارکردگی کا بنیادی طور پر جائزہ کیسے لیا جانا چاہیے؟",
-      "options": [
-        "Through communication with Hujjaj, digital group formation, ACM feedback, and pilgrim satisfaction tracking",
-        "Only through attendance records",
-        "Only through physical fitness tests",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What approach is recommended to replace fixed staff quotas?",
-      "urdu": "مقررہ عملے کے کوٹے کو تبدیل کرنے کے لیے کس طریقہ کار کی سفارش کی گئی ہے؟",
-      "options": [
-        "Equal staff allocation to every sector",
-        "Random staff deployment",
-        "Data-driven dynamic allocation based on pilgrim density and sector risk",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What information is proposed to be linked to historical performance ratings in the automated blacklisting registry?",
-      "urdu": "خودکار بلیک لسٹنگ رجسٹری میں تاریخی کارکردگی کی درجہ بندی کے ساتھ کون سی معلومات منسلک کرنے کی تجویز ہے؟",
-      "options": [
-        "Passport numbers",
-        "Iqama numbers",
-        "Hotel room numbers",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is recommended for evaluating the daily performance of local workers?",
-      "urdu": "مقامی کارکنوں کی روزانہ کارکردگی جانچنے کے لیے کیا تجویز کیا گیا ہے؟",
-      "options": [
-        "Standardized digital performance scorecards",
-        "Annual written examinations",
-        "Verbal assessments only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What type of attendance system is recommended for deployed Local Khuddam?",
-      "urdu": "تعینات مقامی خدام کے لیے کس قسم کے حاضری کے نظام کی سفارش کی گئی ہے؟",
-      "options": [
-        "Telephone-based attendance",
-        "Geo-fenced biometric check-in through the mobile Khuddam App",
-        "Manual attendance register",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is recommended to improve the mobility and effectiveness of the Vigilance Cell?",
-      "urdu": "ویجیلنس سیل کی نقل و حرکت اور مؤثریت بہتر بنانے کے لیے کیا تجویز کیا گیا ہے؟",
-      "options": [
-        "Establish an independent Vigilance Cell with a dedicated vehicle",
-        "Increase manual inspections",
-        "Reduce surprise inspections",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is recommended to provide control-room coordinators with the exact location of welfare staff?",
-      "urdu": "کنٹرول روم کے کوآرڈینیٹرز کو فلاحی عملے کی درست جگہ معلوم کرنے کے لیے کیا تجویز کیا گیا ہے؟",
-      "options": [
-        "Telephone reporting",
-        "GPS Dashboard Integration with the Khuddam App",
-        "Manual roll calls",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During which periods do critical staff coverage gaps particularly emerge at transport drop points and high-congestion transit nodes?",
-      "urdu": "ٹرانسپورٹ ڈراپ پوائنٹس اور زیادہ رش والے مقامات پر عملے کی کمی خاص طور پر کن اوقات میں ہوتی ہے؟",
-      "options": [
-        "Friday and Isha prayer shifts",
-        "Fajr and Maghrib",
-        "Zuhr and Asr",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-8-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary role of the Admin, Discipline & Vigilance (ADV) desk?",
-      "urdu": "ایڈمن، ڈسپلن اور ویجیلنس ڈیسک کا بنیادی کردار کیا ہے؟",
-      "options": [
-        "Managing catering services",
-        "Managing pilgrim accommodation",
-        "Overseeing attendance and behavioral compliance of deployed welfare staff",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is recommended regarding free Hajj for welfare staff?",
-      "urdu": "فلاحی عملے کے مفت حج کے بارے میں کیا تجویز کیا گیا ہے؟",
-      "options": [
-        "Unlimited free Hajj for welfare staff",
-        "Free Hajj after every two Hajj duties",
-        "One Hajj for first-timer/fresh Moaveneen only",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a proposed requirement for recruitment of Local Muavineen in KSA?",
-      "urdu": "سعودی عرب میں مقامی معاونین کی بھرتی کے لیے درج ذیل میں سے کون سی شرط تجویز کی گئی ہے؟",
-      "options": [
-        "Valid Tasreeh (work permit) and current Iqama (residency permit)",
-        "Valid passport only",
-        "Minimum Bachelor's degree",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is recommended for the selection of private-sector Moavineen under the Private Hajj Scheme?",
-      "urdu": "پرائیویٹ حج اسکیم کے تحت نجی شعبے کے معاونین کے انتخاب کے لیے کیا تجویز کیا گیا ہے؟",
-      "options": [
-        "Selection only by HGOs",
-        "Standardized selection through Ministry-approved criteria",
-        "Selection without any criteria",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which officials should be given preference under the additional parameters for SDS selection?",
-      "urdu": "ایس ڈی ایس کے انتخاب کے اضافی اصولوں کے تحت کن افسران/اہلکاروں کو ترجیح دی جانی چاہیے؟",
-      "options": [
-        "First-timer officers/officials who have never performed Hajj duty",
-        "Officials who have performed multiple Hajj duties",
-        "Officials nearing retirement only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who makes the final selection of Seasonal Duty Staff (SDS), subject to approval?",
-      "urdu": "سیزنل ڈیوٹی اسٹاف کا حتمی انتخاب منظوری کے ساتھ کون کرتا ہے؟",
-      "options": [
-        "Coordinator Makkah",
-        "Director General (Hajj)",
-        "Selection Committee with the approval of the Secretary, MoRA&IH",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Photography Day is observed on which date?",
-      "urdu": "فوٹوگرافی کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "August 18th",
-        "August 19th",
-        "August 20th",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">World Photography Day</font><font color=\"#0000ff\"> is celebrated every year on\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">August 19</font><font color=\"#0000ff\">. </font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where did Chief Minister Punjab Maryam Nawaz attend the COP30 summit held in November 2025?",
-      "urdu": "وزیراعلیٰ پنجاب مریم نواز نے نومبر 2025 میں منعقدہ کوپ ٹھرٹی سربراہی اجلاس میں کہاں شرکت کی؟",
-      "options": [
-        "Johannesburg, South Africa",
-        "Belem, Brazil",
-        "Dubai, UAE",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United Nations Climate Change Conference 2025</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is included in the proposed SDS computerized assessment test?",
-      "urdu": "مجوزہ ایس ڈی ایس کمپیوٹرائزڈ اسیسمنٹ ٹیسٹ میں درج ذیل میں سے کیا شامل ہے؟",
-      "options": [
-        "Only General Knowledge",
-        "Hajj Policy, Operational SOPs, Mashair Management Strategy, previous Hajj reports, and relevant administrative knowledge",
-        "Only Hajj Policy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What type of assessment test is proposed for all eligible SDS candidates?",
-      "urdu": "تمام اہل ایس ڈی ایس امیدواروں کے لیے کس قسم کے اسیسمنٹ ٹیسٹ کی تجویز دی گئی ہے؟",
-      "options": [
-        "Computerized assessment test",
-        "Physical test only",
-        "Interview only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many pilgrims is one Nazim required for?",
-      "urdu": "ایک ناظم کتنے حجاج کے لیے درکار ہوتا ہے؟",
-      "options": [
-        "100 pilgrims",
-        "150 pilgrims",
-        "188 pilgrims",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the maximum proposed representation of female officials in the Seasonal Duty Staff?",
-      "urdu": "سیزنل ڈیوٹی اسٹاف میں خواتین افسران کی زیادہ سے زیادہ مجوزہ نمائندگی کتنے فیصد ہے؟",
-      "options": [
-        "3%",
-        "5%",
-        "10%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani won the bronze medal in the women's 60kg event  at the 2026 Commonwealth Games?",
-      "urdu": "دو ہزار چھبیس کے کامن ویلتھ گیمز میں خواتین کے 60 کلوگرام کے مقابلے میں کس پاکستانی نے کانسی کا تمغہ جیتا؟",
-      "options": [
-        "Kashmala Tariq",
-        "Fatima Zahra",
-        "Samina Hassan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\">Pakistani <font color=\"#0000ff\">boxer </font><span style=\"background-color: rgb(255, 255, 0);\">Fatima Zahra </span><font color=\"#0000ff\">won a historic </font><font color=\"#ff0000\">bronze </font><font color=\"#0000ff\">medal in the women's</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> 60kg</font><font color=\"#0000ff\"> event at the </font><font color=\"#ff00ff\">2026 Commonwealth Games</font><font color=\"#0000ff\">, becoming the </font>first-ever female <font color=\"#0000ff\">boxer to win a medal for Pakistan at the event.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How often shall officials in BS-09 and below normally be selected for Hajj duty?",
-      "urdu": "بی ایس-09 اور اس سے کم گریڈ کے اہلکاروں کو عام طور پر حج ڈیوٹی کے لیے کتنے حج آپریشنز کے وقفے کے بعد منتخب کیا جائے گا؟",
-      "options": [
-        "Every year",
-        "Once after one Hajj operation",
-        "Once after an interval of two Hajj operations",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the former premier of China who passed away in August 2026 at the age of 97?",
-      "urdu": "چین کے اس سابق وزیراعظم کا نام بتائیں جن کا انتقال اگست 2026 میں 97 برس کی عمر میں ہوا؟",
-      "options": [
-        "Zhao Ziyang",
-        "Zhu Rongji",
-        "Li Keqiang",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#ff0000\">Zhu Rongji</font><font color=\"#0000ff\"> was a </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Chinese </font><font color=\"#0000ff\">politician and electrical engineer who served as the 5th premier of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">China </font><font color=\"#0000ff\">from 1998 to 2003.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Biofuel Day is observed on which date?",
-      "urdu": "عالمی یومِ حیاتیاتی ایندھن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "August 20",
-        "August 15",
-        "August 10",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">World Biofuel Day is</font><font color=\"#0000ff\"> observed every year on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">August\r\n10th </font><font color=\"#0000ff\">to raise awareness about the importance of non-fossil fuels as a cleaner\r\nalternative to traditional fossil fuels. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How often shall officials in BS-10 to BS-13 normally be selected for Hajj duty?",
-      "urdu": "بی ایس-10 سے بی ایس-13 کے اہلکاروں کو عام طور پر حج ڈیوٹی کے لیے کتنے عرصے کے وقفے کے بعد منتخب کیا جائے گا؟",
-      "options": [
-        "Once after an interval of one Hajj operation",
-        "Every year",
-        "Once after two Hajj operations",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which category of officers/officials shall constitute the primary pool for selection as Seasonal Duty Staff (SDS)?",
-      "urdu": "کون سے گریڈ کے افسران/اہلکار سیزنل ڈیوٹی اسٹاف کے انتخاب کے لیے بنیادی پول تشکیل دیں گے؟",
-      "options": [
-        "BS-09 and below",
-        "BS-10 to BS-13",
-        "BS-14 and above",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the prescribed medical staff ratio for Hajj pilgrims?",
-      "urdu": "حجاج کے لیے طبی عملے کا مقررہ تناسب کیا ہے؟",
-      "options": [
-        "1 doctor + 2 paramedics per 1,000 pilgrims",
-        "1 doctor + 1 paramedic per 1,000 pilgrims",
-        "2 doctors + 1 paramedic per 1,000 pilgrims",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Former premier of which country Zhu Rongji passed away in 2026 at the age of",
-      "urdu": "کس ملک کے سابق وزیراعظم ژو رونگجی کا 2026 میں انتقال ہوا؟",
-      "options": [
-        "Japan",
-        "South Korea",
-        "China",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">Zhu Rongji</font><font color=\"#0000ff\"> was a </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Chinese </font><font color=\"#0000ff\">politician and electrical\r\nengineer who served as the 5th premier of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">China </font><font color=\"#0000ff\">from 1998 to 2003.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "International Lefthanders Day was recently observed on which date?",
-      "urdu": "لیفٹ ہینڈرز کا عالمی دن حال ہی میں کس تاریخ کو منایا گیا؟",
-      "options": [
-        "August 11",
-        "August 12",
-        "August 13",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\">International Lefthanders Day </font><font color=\"#0000ff\">is observed annually\r\non </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">13 August</font><font color=\"#0000ff\"> to celebrate the uniqueness of left-handed people and raise\r\nawareness of the challenges they may face in a predominantly right-handed\r\nworld.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The World Organ Donation Day is observed globally on which date?",
-      "urdu": "عالمی یومِ عطیۂ اعضاء کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "11th August",
-        "12th August",
-        "13th August",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the prescribed ratio for non-medical welfare staff under the Saudi Taleemat?",
-      "urdu": "سعودی تعلیمات کے تحت غیر طبی فلاحی عملے کے لیے مقررہ تناسب کیا ہے؟",
-      "options": [
-        "1 welfare staff per 50 pilgrims",
-        "1 welfare staff per 100 pilgrims",
-        "1 welfare staff per 150 pilgrims",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is International Day of Remembrance and Tribute to the Victims of Terrorism observed?",
-      "urdu": "دہشت گردی کے متاثرین کی یاد اور خراجِ تحسین کا عالمی دن کب منایا جاتا ہے؟",
-      "options": [
-        "August 21th",
-        "August 22th",
-        "August 23th",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the official name of the trilateral accord signed by Pakistan, Saudi Arabia and Turkiye in 2026?",
-      "urdu": "دو ہزار چھبیس میں پاکستان، سعودی عرب اور ترکی کے درمیان طے پانے والے سہ فریقی معاہدے کا سرکاری نام کیا ہے؟",
-      "options": [
-        "Makkah Economic Cooperation Agreement",
-        "Makkah Maritime Security Charter",
-        "Makkah Joint Defence Agreement",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Makkah Joint Defence Agreement 2026 was concluded at which gathering?",
-      "urdu": "مکہ مشترکہ دفاعی معاہدہ 2026 کس اجلاس میں طے پایا؟",
-      "options": [
-        "Jeddah Economic Security Forum",
-        "Riyadh Cooperation Summit",
-        "Makkah Al-Mukarramah Summit for Joint Defence",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the first office of Google inaugurated in Islamabad, Pakistan?",
-      "urdu": "پاکستان کے شہر اسلام آباد میں گوگل کے پہلے دفتر کا افتتاح کب ہوا؟",
-      "options": [
-        "August 12, 2026",
-        "August 8, 2026",
-        "August 18, 2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On</font><font color=\"#ff0000\"> August 18, 2026</font><font color=\"#0000ff\">, Prime Minister Shehbaz Sharif inaugurated </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Google</font><font color=\"#0000ff\">’s first office in Pakistan in Islamabad.</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which leaders singed Makkah Joint Defence Agreement 2026?",
-      "urdu": "کن رہنماؤں نے مکہ مشترکہ دفاعی معاہدہ 2026 پر دستخط کیے؟",
-      "options": [
-        "Ishaq Dar, Faisal bin Farhan and Hakan Fidan",
-        "Asif Zardari, Salman bin Abdul Aziz and Cevdet Yilmaz",
-        "Shahbaz Sharif, Muhammad bin Salman and Recep Tayyip Erdogan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which global technology company inaugurated its first office in Pakistan in August 2026?",
-      "urdu": "کس عالمی ٹیکنالوجی کمپنی نے اگست 2026 میں پاکستان میں اپنے پہلے دفتر کا افتتاح کیا؟",
-      "options": [
-        "Amazon",
-        "Google",
-        "Microsoft",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">On</font><font color=\"#ff0000\"> August 18, 2026</font><font color=\"#0000ff\">, Prime Minister Shehbaz Sharif\r\ninaugurated </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Google</font><font color=\"#0000ff\">’s first office in Pakistan in Islamabad. </font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is recommended to improve the future Complaint Management System?",
-      "urdu": "سب سے زیادہ شکایات کس صوبے سے آئیں؟",
-      "options": [
-        "A fully integrated digital system with real-time dashboards, prioritization, and automated escalation",
-        "Manual complaint registration only",
-        "Elimination of complaint categorization",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which principle lies at the heart of the Makkah Joint Defence Agreement 2026 signed between Saudi Arabia, Turkiye and Pakistan?",
-      "urdu": "سعودی عرب، ترکی اور پاکستان کے درمیان طے پانے والے ’مکہ مشترکہ دفاعی معاہدہ 2026‘ کی بنیاد کس اصول پر رکھی گئی ہے؟",
-      "options": [
-        "Economic integration",
-        "Monetary Union",
-        "An armed attack on one member is regarded as an attack on all",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Makkah Joint Defence Agreement 2026 was signed between Saudi Arabia, Turkiye and which country?",
-      "urdu": "مکہ مشترکہ دفاعی معاہدہ 2026 سعودی عرب، ترکی اور کس ملک کے درمیان طے پایا؟",
-      "options": [
-        "Afghanistan",
-        "Pakistan",
-        "United Arab Emirates",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under whom is it recommended that complaints, the Call Centre, monitoring, and the Khuddam Performance Monitoring System (KPMS) should be placed?",
-      "urdu": "شکایات، کال سینٹر، مانیٹرنگ اور خدام پرفارمنس مانیٹرنگ سسٹم کو کس کے ماتحت رکھنے کی سفارش کی گئی ہے؟",
-      "options": [
-        "Coordinator Makkah",
-        "Coordinator Madinah",
-        "Director General (OPAP) or Chief Coordinator",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Makkah Joint Defence Agreement 2026 was signed between Pakistan, Turkiye and which country?",
-      "urdu": "مکہ مشترکہ دفاعی معاہدہ 2026 پاکستان، ترکی اور کس ملک کے درمیان طے پایا؟",
-      "options": [
-        "Saudi Arabia",
-        "Egypt",
-        "Syria",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
