@@ -3,10 +3,218 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-24T02:21:23.240866",
+    "fetched_at": "2026-08-24T07:52:12.748292",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The function of Alt + Tab on the keyboard is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Switch between open program / Open applications/windows",
+        "Switch between close program",
+        "Active search",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which shortcut key is used to paste the selected and copied text?",
+      "urdu": "منتخب اور کاپی کیے گئے متن کو پیسٹ کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl + X",
+        "Ctrl + C",
+        "Ctrl + V",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of \"Save as\" in Microsoft Office?",
+      "urdu": "مائیکروسافٹ آفس میں \"سیو ایز\" کا کام کیا ہے؟",
+      "options": [
+        "To print the document",
+        "Create a copy with new name/location",
+        "To ask the file name and store data in the desired location",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The CPU (Central Processing Unit) is responsible for?",
+      "urdu": "سنٹرل پروسیسنگ یونٹ کس کام کا ذمہ دار ہے؟",
+      "options": [
+        "Processing instructions and calculations",
+        "Displaying images and associated text",
+        "Typing input for processing",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Ingenuous is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sophisticated",
+        "Clever",
+        "Cunning",
+        "Naive"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Marvelous is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ordinary",
+        "Astounding",
+        "Wonderful",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of REFUSE is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Prefer",
+        "Reject",
+        "Accept",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Synonym: PERHAPS, I will let you go.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Possibly",
+        "Maybe",
+        "Hesitantly",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Perhaps</font><font color=\"#0000ff\"> means </font><font color=\"#ff0000\">possibly or maybe</font><font color=\"#0000ff\">, used when something is uncertain.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Beach is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Shore",
+        "Mountain",
+        "Desert",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Forge is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Quiet",
+        "Continue",
+        "Fake",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of UNCERTAINTY is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pleasantry",
+        "Devotion",
+        "Stability",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Antonym: Most motorcyclists are very careful, and drive SLOW.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Prompt",
+        "Fast",
+        "Fastly",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Blunt is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Diplomatic",
+        "Sharp",
+        "Friendly",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 24px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\"><b>Last verified on 23-08-2026</b></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of GLOOMY is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Lively",
+        "Bright",
+        "Active",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Miraculous is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Wonderful",
+        "Amazing",
+        "Normal",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Normal is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Weird",
+        "Typical",
+        "Turbulent",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "Choose the analogous pair: MICROSCOPE : SMALL :: ?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -447,215 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">BRICS Summit 2026</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Deputy Prime Minister of Pakistan Mohammad Ishaq Dar is scheduled to visit which country from August 24–28, 2026?",
-      "urdu": "پاکستان کے نائب وزیراعظم محمد اسحاق ڈار کا 24 سے 28 اگست 2026 تک کس ملک کا دورہ طے ہے؟",
-      "options": [
-        "USA",
-        "UK",
-        "UAE",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Deputy Prime Minister and Foreign Minister Senator </font><font color=\"#ff0000\">Mohammad Ishaq Dar</font><font color=\"#0000ff\"> is scheduled to visit the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United Kingdom</font><font color=\"#0000ff\"> from </font><font color=\"#ff00ff\">August 24 to 28, 2026</font><font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani official is scheduled to visit the United Kingdom from August 24–28, 2026?",
-      "urdu": "کون سے پاکستانی عہدیدار کا 24 سے 28 اگست 2026 تک برطانیہ کا دورہ طے شدہ ہے؟",
-      "options": [
-        "Ishaq Dar",
-        "Mohsin Naqvi",
-        "Khawaja Asif",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Deputy Prime Minister and Foreign Minister Senator\r\n</font><font color=\"#ff0000\">Mohammad Ishaq Dar</font><font color=\"#0000ff\"> is scheduled to visit the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United Kingdom</font><font color=\"#0000ff\"> from </font><font color=\"#ff00ff\">August 24 to\r\n28, 2026</font><font color=\"#0000ff\">.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan's Army Chief, Field Marshal Asim Munir, is scheduled to visit which country on August 24, 2026?",
-      "urdu": "پاکستان کے آرمی چیف، فیلڈ مارشل عاصم منیر، 24 اگست 2026 کو کس ملک کا دورہ کرنے والے ہیں؟",
-      "options": [
-        "Afghanistan",
-        "Iran",
-        "India",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Pakistan's Army Chief, Field Marshal </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Asim Munir,</font><font color=\"#0000ff\"> is scheduled to visit </font><font color=\"#ff0000\">Iran </font><font color=\"#0000ff\">on </font>August 24, 2026<font color=\"#0000ff\">, to hold high-level talks with senior </font><span style=\"background-color: rgb(255, 255, 0);\">Iranian </span><font color=\"#0000ff\">leadership.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is scheduled to visit Iran in August 2026 in connection with Pakistan's diplomatic engagement over the Iran–US situation?",
-      "urdu": "ایران اور امریکہ کی صورتحال کے حوالے سے پاکستان کی سفارتی مصروفیات کے سلسلے میں اگست 2026 میں ایران کا دورہ کرنے کا پروگرام کس کا ہے؟",
-      "options": [
-        "PML-N leader Maryam Nawaz",
-        "President Asif Ali Zardari",
-        "Field Marshal Asim Munir",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Pakistan's Army Chief, Field Marshal </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Asim Munir,</font><font color=\"#0000ff\"> is\r\nscheduled to visit </font><font color=\"#ff0000\">Iran </font><font color=\"#0000ff\">on </font>August 24, 2026<font color=\"#0000ff\">, to hold high-level talks with\r\nsenior </font><span style=\"background-color: rgb(255, 255, 0);\">Iranian </span><font color=\"#0000ff\">leadership.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the analogous pair: Cabbage : Vegetable :: ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Tea : Beverage",
-        "Snuff : Inhale",
-        "Water : Sip",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</span></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the analogous pair: Adult : Child :: ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Horse : Mare",
-        "Cat : Kitten",
-        "Swine : Sow",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who says that they should go to cellar?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ellen",
-        "Mrs. Spiedings",
-        "Mr. Spiedings",
-        "John"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What are the main functions of the CPU?",
-      "urdu": "سی پی یو کے اہم کام کیا ہیں؟",
-      "options": [
-        "Process input",
-        "Store data",
-        "Store data",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to paste the selected and copied text?",
-      "urdu": "منتخب اور کاپی کیے گئے متن کو پیسٹ کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl + X",
-        "Ctrl + C",
-        "Ctrl + V",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Forge is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Quiet",
-        "Continue",
-        "Fake",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "CV stands for?",
-      "urdu": "سی وی سے کیا مراد ہے؟",
-      "options": [
-        "Curriculum Vitae",
-        "Career Value",
-        "Curriculum Value",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The culture of ______ roots in Indus Valley Civilization.",
-      "urdu": "پاکستان کی ثقافت کی جڑیں کس تہذیب میں ہیں؟",
-      "options": [
-        "Balouchistan",
-        "Sindh",
-        "KPK",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ayoub National park is situated in?",
-      "urdu": "ایوب نیشنل پارک کس جگہ واقع ہے؟",
-      "options": [
-        "Rawalpindi",
-        "Murree",
-        "ICT",
-        "Lahore",
-        "None of them"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(156, 0, 255); background-color: rgb(255, 255, 0);\">Last updated on 22-07-2026 by NA</span><font color=\"#00ff00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Governor of Sindh?",
-      "urdu": "سندھ کا موجودہ گورنر کون ہے؟",
-      "options": [
-        "Nehal Hashmi",
-        "Imran Ismail",
-        "Kamran Khan Tessori",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt;line-height: normal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The symbol \"√\" is called _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cubic root",
-        "Index",
-        "Radical",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Miraculous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Wonderful",
-        "Amazing",
-        "Ordinary",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
       "category": "all"
     }
   ]
