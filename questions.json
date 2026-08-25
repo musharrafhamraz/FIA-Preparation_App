@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-25T13:43:28.073329",
+    "fetched_at": "2026-08-25T19:21:37.145309",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "An entry in a spreadsheet cell like \"Monthly Wages\" or \"Final Approval Rating\" would most likely be a?",
+      "urdu": "سپریڈ شیٹ سیل میں \"ماہانہ اجرت\" یا \"حتمی منظوری کی درجہ بندی\" داخلے کو زیادہ تر کیا جاتا ہے؟",
+      "options": [
+        "Label",
+        "Value",
+        "Formula",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Microsoft Office Suite spreadsheet program is?",
+      "urdu": "مائیکروسافٹ آفس سویٹ کا اسپریڈ شیٹ پروگرام کون سا ہے؟",
+      "options": [
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "No. of arguments in SORT function is/are?",
+      "urdu": "سارٹ فنکشن میں دلائل کی تعداد کتنی ہوتی ہے؟",
+      "options": [
+        "Four",
+        "One",
+        "Two",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Excel which key is used to Open the Format Cells window?",
+      "urdu": "ایکسل میں فارمیٹ سیل ونڈو کھولنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl+F10",
+        "Ctrl+6",
+        "Ctrl+1",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "A word processor would most likely be used to _____?",
       "urdu": "ورڈ پروسیسر کا استعمال زیادہ تر کس کام کے لیے کیا جاتا ہے؟",
@@ -603,58 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; padding: 0px;\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Additional Information about Women’s T20 World Cup 2026<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many members are there in African Union (AU)?",
-      "urdu": "افریقی یونین میں کتنے ارکان ہیں؟",
-      "options": [
-        "193",
-        "164",
-        "55",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">African Union (AU) launched: </span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\"><span style=\"background-color: rgb(255, 255, 0);\">9 July 2002</span><o:p></o:p></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 2026 FIFA World Cup will be jointly hosted by how many countries?",
-      "urdu": "دو ہزار چھبیس کا فیفا ورلڈ کپ مشترکہ طور پر کتنے ممالک کی میزبانی میں منعقد ہوگا؟",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The <span style=\"background-color: rgb(255, 255, 0);\">FIFA World Cup 2026 </span>is the </font><font color=\"#ff0000\">23rd </font><font color=\"#0000ff\">edition of the world’s biggest football (soccer) tournament organized by </font>FIFA<font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many countries from African Union (AU) are members of United Nations (UN)?",
-      "urdu": "افریقی یونین (اے یو) کے کتنے ممالک اقوامِ متحدہ (یو این) کے رکن ہیں؟",
-      "options": [
-        "55",
-        "54",
-        "53",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">African Union (AU) launched: </span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\"><span style=\"background-color: rgb(255, 255, 0);\">9 July 2002</span><o:p></o:p></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Canada, Mexico and United States will jointly host FIFA World Cup in which year?",
-      "urdu": "کینیڈا، میکسیکو اور امریکہ کس سال مشترکہ طور پر فیفا ورلڈ کپ کی میزبانی کریں گے؟",
-      "options": [
-        "2024",
-        "2025",
-        "2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The <span style=\"background-color: rgb(255, 255, 0);\">FIFA World Cup 2026 </span>is the </font><font color=\"#ff0000\">23rd </font><font color=\"#0000ff\">edition of the world’s biggest football (soccer) tournament organized by </font>FIFA<font color=\"#0000ff\">.<o:p></o:p></font></span></span></p>",
       "category": "all"
     }
   ]
