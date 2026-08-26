@@ -3,628 +3,56 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-26T07:40:19.988389",
+    "fetched_at": "2026-08-26T13:50:24.093348",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The ratio of A and B is 3:4. If A is increased by 20% and B is increased by 10%, what will be the new ratio?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the key principle of the proposed Unified Process-Based Digital Management System?",
+      "urdu": "مجوزہ یونیفائیڈ پروسیس پر مبنی ڈیجیٹل مینجمنٹ سسٹم کا بنیادی اصول کیا ہے؟",
       "options": [
-        "6 : 7",
-        "4 : 5",
-        "9 : 11",
+        "Separate systems for each operational wing",
+        "Manual approval before every phase",
+        "All operational phases linked sequentially, with each phase digitally closed before the next begins",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Initial ratio A : B = 3 : 4  </font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Statement: All doctors are educated. Some educated people are rich. Which assumption is valid?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What digital system is recommended for continuous, automated tracking of bus movements?",
+      "urdu": "بسوں کی مسلسل اور خودکار ٹریکنگ کے لیے کون سا ڈیجیٹل سسٹم تجویز کیا گیا؟",
       "options": [
-        "All doctors are rich.",
-        "Some doctors are rich.",
-        "No valid assumption can be made about doctors being rich.",
+        "Nusuk App",
+        "Pak Hajj App",
+        "M-HOMS integrated with GPS/E-tag location detection",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "A machine converts 2 into 6. If the same pattern is followed, what will it convert 5 into?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "By when should the Building Inspection Team be deployed to Makkah?",
+      "urdu": "بلڈنگ انسپیکشن ٹیم کو مکہ مکرمہ میں کب تک آپ کو دینا چاہیے؟",
+      "options": [
+        "1st Ramadan",
+        "15th Shawwal",
+        "20th Zilhajj",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many members should be included in the proposed Building Inspection Team for Makkah?",
+      "urdu": "مکہ مکرمہ کے لیے مجوزہ بلڈنگ انسپیکشن ٹیم میں کتنے ممبران شامل ہونے چاہئیں؟",
       "options": [
         "10",
-        "15",
-        "20",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern: 2 → 6 means multiply by 3.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ratio of milk to water is 5:1. After adding 12 liters of water, the ratio becomes 5:3. How much milk is there?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "30 liters",
-        "20 liters",
-        "25 liters",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let milk = 5x  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A container contains a mixture of milk and water in a ratio of 4:1. When 10 liters of the mixture are taken out and 10 liters of water are poured into the container and ratio becomes 2: 3. How many liters of milk were contained originally in the container?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "16 litres",
-        "14 litres",
-        "12 litres",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>Initial ratio milk : water = 4 : 1</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to which law did President Donald Trump say he would continue imposing tariffs after the U.S. Supreme Court rejected his use of emergency tariff powers?",
-      "urdu": "امریکی سپریم کورٹ کی جانب سے ہنگامی ٹیرف اختیارات مسترد کرنے کے بعد صدر ڈونلڈ ٹرمپ نے کہا کہ وہ کس قانون کے تحت ٹیرف جاری رکھیں گے؟",
-      "options": [
-        "Section 201 of the Trade Act",
-        "Section 301 of the Trade Act",
-        "Section 122 of the Trade Act of 1974",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which statement is more appropriate? Excessive sugar intake increases the risk of developing type 2 diabetes., Sugar intake is not good because it causes diabetes., Sugar was rare in the past, so it is not good., Sugar should never be consumed.",
-      "urdu": "کون سا بیان زیادہ مناسب ہے؟",
-      "options": [
-        "Excessive sugar intake increases the risk of developing type 2 diabetes.",
-        "Sugar intake is not good because it causes diabetes.",
-        "Sugar was rare in the past, so it is not good.",
-        "Sugar should never be consumed."
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If P is taller than R but shorter than Q, and S is shorter than R, who is the shortest?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "S",
-        "R",
-        "Q",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A completes a work in 12 days whereas B completes the same work in 24 days. If both A and B work together, the work will be completed in ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "6",
-        "8",
-        "10",
-        "12"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\" face=\"Helvetica\"><b>Work done by A in 1 day = 1/12  </b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sara is twice as old as her sister. If the sum of their ages is 36 years, what is Sara’s current age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "12 years",
-        "24 years",
-        "36 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let sister’s age = x, Sara’s age = 2x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A repeating sequence of colored balls is placed in the order: Red, Blue, Green, White. If this pattern continues, what color will the 38th ball be?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Red",
-        "Blue",
-        "Green",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is Red, Blue, Green, White.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A train travels 360 km in 4 hours. If its speed is increased by 20 km/h, how much time will it take to cover the same distance?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3.27 hours",
-        "3.5 hours",
-        "4 hours",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Speed = 360 ÷ 4 = 90 km/h</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 15 workers can complete a job in 12 days, how many days will it take 10 workers to complete the same job?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15 days",
-        "18 days",
-        "21 days",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Work (in worker-days) = 15 × 12 = 180</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a class of 45 students, Ali is ranked 12th from the top. What is his rank from the bottom?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "32nd",
-        "33rd",
-        "34th",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Total number of students = 45  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the missing number in the following series: 7, 14, 30, 62, 126, ....?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "254",
-        "255",
-        "256",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Check the pattern between the numbers:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which medal did Arshad Nadeem win in the Men's Javelin Throw at the Paris Olympics 2024?",
-      "urdu": "پیرس اولمپکس 2024 میں مردوں کے جیولن تھرو میں ارشد ندیم نے کون سا تمغہ جیتا؟",
-      "options": [
-        "Bronze",
-        "Silver",
-        "Gold",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next term in the sequence: B2, D4, F8, H16, ...?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "K32",
-        "J32",
-        "J24",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Letters:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the next number in the series: 4, 9, 19, 39, 79, .....?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "158",
-        "159",
-        "160",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern = Previous × 2 + 1</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "121, 144, 169, 196, what comes next?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "211",
-        "225",
-        "256",
-        "289"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>Check the pattern:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the letter pattern: AB, DE, GH, JK, .....?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "OP",
-        "LM",
-        "MN",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Check the letters:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If in a code language, FEDERAL is written as GFEFSBM, how will AGENCY be written in that same pattern?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "BHGPDZ",
-        "BHFODZ",
-        "BHFOBZ",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let's check the pattern for FEDERAL → GFEFSBM</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "There are 5 red balls and 3 blue balls. What is the probability of picking one red ball?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5/6",
-        "5/7",
-        "5/8",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Total number of balls = Red balls + Blue balls  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 20 labourers complete a piece of work in 8 days and after 4 days, 8 labourers leave the job, how much work has already been completed?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1/2",
-        "1/3",
-        "1/4",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total work = Number of labourers x Total days  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A mixture contains Nitrogen, Sulphur and Phosphorus in the ratio of 5:3:2 with a total weight of 200 kg. If 100 kg of Nitrogen is added, what will be the new weight of Nitrogen?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "100 kg",
-        "200 kg",
-        "300 kg",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Given ratio = Nitrogen : Sulphur : Phosphorus = 5 : 3 : 2  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will be the next term in the pattern? 2, 4, 8, 16, ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "18",
-        "24",
-        "32",
-        "64"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "There are 9 blue balls, 7 yellow balls and 4 red balls. What is the probability of picking a red ball?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1/5",
-        "1/6",
-        "1/7",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total number of balls = Blue + Yellow + Red  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the output of the following Python code? (x + y) = 5 + 3 print(x + y)",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "8",
-        "SyntaxError",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which number will come next? 3, 5, 7, 10, 12, 14, 24, 26, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "52",
-        "30",
-        "28",
-        "48"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"122\" data-start=\"51\"><font color=\"#0000ff\">The sequence is arranged in groups where the</font><font color=\"#ff0000\"> numbers increase by 2:</font><font color=\"#0000ff\"><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The next term of the the given sentence 1, 5, 14, 30, 55, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "91",
-        "90",
-        "80",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern of the sequence appears to be formed by adding consecutive increments:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Researchers tested two groups of wheat plants under identical conditions except for fertilizer application. Group A received a phosphorus-rich fertilizer, while Group B received After eight weeks, Group A showed significantly greater root development and grain yield. However, the researchers emphasized that the experiment was conducted on only one soil type. Which conclusion is most justified?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The observed benefit may not apply to all soil types",
-        "Phosphorus fertilizer always increases crop yield in every soil",
-        "Soil type has no effect on fertilizer performance",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Thousands of birds leave cold northern regions every year and travel to warmer areas where food and water are abundant. After the winter season, they return to their original breeding grounds. What is the primary reason for bird migration?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To change feather color",
-        "To avoid predators",
-        "To search for food and favorable climate",
-        "To increase body weight"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A country's fiscal policy imposes higher taxes on luxury SUVs but exempts public vehicles from the increase, despite both using the same roads. Which governance principle best explains this distribution?",
-      "urdu": "اگر کسی ملک کی مالیاتی پالیسی میں لگژری ایس یو ویز پر زیادہ ٹیکس لگایا جائے لیکن عوامی ٹرانسپورٹ کو اس سے مستثنیٰ رکھا جائے، تو یہ کس حکومتی اصول کی مثال ہے؟",
-      "options": [
-        "Monetary extension",
-        "Uniform taxation",
-        "Public welfare and quality",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During an investigation, CCTV footage shows a suspect near the crime scene, but no forensic evidence links the suspect to the crime. Which conclusion is most justified?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "CCTV alone is sufficient to prove guilt",
-        "The suspect is guilty",
-        "The suspect requires further investigation before any conclusion",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A man is facing North. He walks 25 meters forward, turns right and walks 15 meters, then turns right again and walks 25 meters. After that, he turns left and walks 10 meters. In which direction is he from his starting point?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "North",
-        "East",
-        "West",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let's track his movement step by step. Assume he starts at point O facing North.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A password containing letters, numbers, and special characters is considered stronger because?",
-      "urdu": "حروف، اعداد اور خاص علامات پر مشتمل پاس ورڈ زیادہ مضبوط کیوں سمجھا جاتا ہے؟",
-      "options": [
-        "It reduces password length",
-        "It increases possible combinations",
-        "It is easier to remember",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following represents the correct sequence of data processing? Input → Processing → Output → Storage, Processing → Input → Storage → Output, Storage → Input → Processing → Output, None of these",
-      "urdu": "مندرجہ ذیل میں سے ڈیٹا پروسیسنگ کی درست ترتیب کون سی ہے؟",
-      "options": [
-        "Input → Processing → Output → Storage",
-        "Processing → Input → Storage → Output",
-        "Storage → Input → Processing → Output",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The correct data processing sequence is </font><font color=\"#ff0000\">Input → Processing → Output → Storage</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next term: 6, 13, 27, 55, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "109",
-        "111",
-        "113",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is: ×2 + 1</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next term: 5, 12, 26, 54, _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "110",
-        "112",
-        "114",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is ×2 + 2:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If A = 1, B = 2, C = 3, ... then LOGIC = ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "44",
-        "45",
-        "46",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">L = 12, O = 15, G = 7, I = 9, C = 3.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "International trade agreements often stimulate economic growth by reducing barriers to commerce. However, critics argue that domestic industries may suffer from increased foreign competition. Supporters maintain that long-term gains outweigh short-term disruptions. What is the main idea of the passage?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Foreign competition should be banned.",
-        "Trade agreements always harm local industries.",
-        "Trade agreements involve both benefits and challenges.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 2 → 6, 3 → 12, 4 → 20, 5 → 30, then 9 → ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "81",
-        "90",
-        "99",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is n×(n+1).</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Urban planners increasingly advocate mixed-use development because integrating residential, commercial, and recreational facilities reduces commuting distances and promotes environmental sustainability. Critics, however, argue that such developments may increase property prices and displace lower-income residents unless appropriate housing policies accompany urban expansion. The author would MOST likely agree that?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Urban planning should balance development with social protection.",
-        "Mixed-use development has only positive effects.",
-        "Mixed-use development should always be avoided.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Urban planning should balance development with social protection.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If SECURE → TFDVSF and INVEST → JOWFTU, then AGENT → ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "AHFOS",
-        "BHFOU",
-        "BHFNU",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern: Each letter is shifted +1</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The war of 1971 between India and Pakistan lasted for how many days?",
-      "urdu": "پاکستان اور بھارت کے درمیان 1971 کی جنگ کتنے دن جاری رہی؟",
-      "options": [
+        "11",
         "12",
-        "13",
-        "14",
-        "15"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 22-April-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The world largest potatoes producer is ______?",
-      "urdu": "دنیا مین  سب سے زیادہ آلو پیدا کرنے والا ملک  کونسا ہے؟",
-      "options": [
-        "Pakistan",
-        "India",
-        "USA",
-        "China"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#ff00ff\">List of Top Countries</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key for double underline ?",
-      "urdu": "ڈبل انڈر لائن کے لیے شارٹ کٹ کی کیا ہے؟",
-      "options": [
-        "Ctrl + Shift + D",
-        "Ctrl + Ctrl + Shift + B",
-        "Ctrl + Ctrl + Shift + U",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The minimum number of slides a presentation MUST have is?",
-      "urdu": "ایک پریزنٹیشن میں کم از کم دیکھا سلائیڈز ضروری ہیں؟",
-      "options": [
-        "Three",
-        "Two",
-        "One",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan test-fired a series of anti-ship missiles in the North Arabian Sea on?",
-      "urdu": "پاکستان نے شمالی بحیرۂ عرب میں اینٹی شپ میزائلوں کی ایک سیریز کب کامیابی سے آزمائی؟",
-      "options": [
-        "April 25, 2020",
-        "April 26, 2020",
-        "April 27, 2020",
         "None of these"
       ],
       "correct": 0,
@@ -632,29 +60,601 @@
       "category": "all"
     },
     {
-      "q": "Abbreviated Letters Alif Laam Meem, Ya Seen, Ha Meem, etc. are known as the Huroof _____?",
-      "urdu": "الف لام میم، یٰسین، حٰم وغیرہ حروف کو حروفِ ______ کہا جاتا ہے؟",
+      "q": "Under the proposed central transport arrangement, all transport vehicles should be placed under the direct control of?",
+      "urdu": "مرکزی ٹرانسپورٹ کے مجوزہ انتظامات کے تحت تمام ٹرانسپورٹ گاڑیوں کو کس کے براہ راست کنٹرول میں رکھنا چاہیے؟",
       "options": [
-        "Al-Muqattaat",
-        "Al-Shamsi",
-        "Both A and B",
+        "Food Coordinator",
+        "Sector Coordinator",
+        "Central Logistics Officer",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which camp zone should future planning actively avoid due to logistical vulnerabilities and geographic isolation?",
+      "urdu": "لاجسٹک خطرات اور جغرافیائی تنہائی کی وجہ سے کیمپ زون میں مستقبل کی منصوبہ بندی سے فعال طور پر بچنا چاہیے؟",
+      "options": [
+        "Zone 6",
+        "Zone 2",
+        "Zone 4",
         "None of these"
       ],
       "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What mode of transport is recommended for intra-Mashair transportation?",
+      "urdu": "انٹرا مشائر ٹرانسپورٹیشن کے لیے کون سا ٹرانسپورٹ موڈ تجویز کیا گیا؟",
+      "options": [
+        "Buses",
+        "Taxis",
+        "Mashair Train service",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What should future catering contracts require in each Mina and Arafat camp?",
+      "urdu": "مستقبل کے کیٹرنگ کے معاہدے ہر مینا اور عرفات کیمپ میں کیا ضروری ہونا چاہیے؟",
+      "options": [
+        "Two transport officers",
+        "A dedicated on-site catering representative",
+        "A medical officer",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is recommended regarding repeat performance of Hajj?",
+      "urdu": "حج کو دوبارہ ادا کرنے کے بارے میں کیا تجویز کیا گیا؟",
+      "options": [
+        "Allow repeat Hajj twice a year",
+        "Encourage annual repeat Hajj",
+        "Restrict repeat Hajj for at least three Hajj years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What should Hujjaj be educated about regarding Tawaf-e-Ziarat?",
+      "urdu": "حجاج کو طواف زیارت کے بارے میں کیا تعلیم دینی چاہیے؟",
+      "options": [
+        "It must be performed on 12th Zilhajj",
+        "It should be performed on 8th Zilhajj",
+        "It should ideally not be performed on 10th Zilhajj",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Experienced Sector Coordinators from which years are recommended for Training of Trainers (ToT)?",
+      "urdu": "ٹرینرز کی تربیت کے لیے کن کے لیے تجربہ کار سیکٹر کوآرڈینیٹرز کی مرضی کی گئی؟",
+      "options": [
+        "2024–2026",
+        "2022–2024",
+        "2023–2025",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is recommended to completely eliminate split-family allocation errors?",
+      "urdu": "تقسیم خاندان کی تقسیم کی غلطیاں مکمل طور پر ختم کرنے کے لیے تجویز کیا گیا ہے؟",
+      "options": [
+        "Phone-call confirmation",
+        "Manual verification",
+        "Rigid validation checks within the IT booking system",
+        "None of these"
+      ],
+      "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Quaid's daughter Dina Wadia died in which city?",
-      "urdu": "قائد اعظم کی بیٹی دینا واڈیا کا انتقال کس شہر میں ہوا؟",
+      "q": "Which training should be made mandatory for Hujjaj before departure?",
+      "urdu": "روانگی سے پہلے حجاج کے لیے کون سی تربیت ضروری قرار دی جانی چاہیے؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "New York City",
-        "London"
+        "Medical training",
+        "Passive lectures only",
+        "Hands-on digital apps training",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">****</font></span></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which recommendation was proposed for future transport contracts to enable real-time tracking of live bus movements?",
+      "urdu": "مستقبل کے ٹرانسپورٹ کے معاہدے میں لائیو بس کی نقل و حرکت، ریئل ٹائم ٹریکنگ کے لیے کون سی کی سفارش پیش کی گئی؟",
+      "options": [
+        "QR-based meal feedback",
+        "Smart LED displays",
+        "GPS-based API / M-tag based bus location detection",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the purpose of pre-allocation of beds for Khuddam-ul-Hujjaj in Mina?",
+      "urdu": "مینا میں خدام الحجاج کے لیے بستر پہلے سے مختص کرنے کا مقصد کیا تھا؟",
+      "options": [
+        "To increase accommodation costs",
+        "To provide designated resting facilities and improve operational readiness",
+        "To reduce the number of Khuddam",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "For the first time, which dedicated transport service was introduced during the Mashair period for Khuddam-ul-Hujjaj?",
+      "urdu": "مشاعرے کے دوران پہلی پہلی خدام الحجاج کے لیے کون سی کے لیے وقف ٹرانسپورٹ سروس متعدی کرائی گئی؟",
+      "options": [
+        "Azizia–Mina Shuttle Service",
+        "Makkah–Arafat Shuttle Service",
+        "Mina–Madinah Shuttle Service",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many lost luggage items were tracked, and how many were returned to pilgrims?",
+      "urdu": "کتنے گمشدہ سامان کو ٹریک کیا گیا اور کتنی حجاج کو واپس کر دیا گیا؟",
+      "options": [
+        "2,512 and 2,500",
+        "2,612 and 2,610",
+        "2,612 and 2,600",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Each Nazim Sign Board explicitly displayed which two identifiers?",
+      "urdu": "ہر ناظم سائن بورڈ پر واضح طور پر کون شناخت کنندہ سے درج نمبر دو نمبر تھے؟",
+      "options": [
+        "Passport Number and Flight Number",
+        "Sector and Building Number",
+        "Maktab Number and Group Number",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Nazim Scheme was launched during Hajj 2026 primarily to?",
+      "urdu": "حج 2026 کے دوران ناظم سکیم بنیادی طور پر کس مقصد کے لیے شروع کی گئی؟",
+      "options": [
+        "Manage catering contracts",
+        "Establish direct contact with Hujjaj and provide real-time guidance",
+        "Manage accommodation buildings",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which category constituted the single largest number of complaints at the Front Desk?",
+      "urdu": "فرنٹ ڈیسک پر شکایات کی سب سے بڑی تعداد کس زمرے سے متعلق تھی؟",
+      "options": [
+        "Nusuk Card issues",
+        "Transport issues",
+        "Room allocations",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many formal complaints and queries were processed by the Front Desk during Hajj 2026?",
+      "urdu": "حج 2026 کے دوران فرنٹ ڈیسک نے تحریری شکایات اور سوالات پر کارروائی کی؟",
+      "options": [
+        "264",
+        "364",
+        "464",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many direct pilgrim interviews were produced by SM&IDC?",
+      "urdu": "ایس ایم اینڈ آئی ڈی نے کتنے براہِ راست حجاج کرام کے انٹرویوز کے لیے راست تیار؟",
+      "options": [
+        "Over 500",
+        "Over 100",
+        "Over 300",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Approximately how many views were generated by the Social Media & Information Dissemination Cell (SM&IDC) across official channels?",
+      "urdu": "سوشل میڈیا اور انفارمیشن ڈسیمینیشن سیل نے آفیشل چینلز پر تقریباً کتنے ویوز حاصل کیے؟",
+      "options": [
+        "100,000",
+        "500,000",
+        "1 million",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was displayed through QR codes in the dining halls of accommodation buildings?",
+      "urdu": "رہائش کی عمارتوں کے ڈائننگ ہالز میں کیو آر کوڈز کے ذریعے کیا دکھایا گیا؟",
+      "options": [
+        "Transport schedules",
+        "Meal quality and service feedback",
+        "Pilgrim passports",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "As of 16 June 2026, the digital maps had recorded approximately how many views?",
+      "urdu": "سولہ جون 2026 تک ڈیجیٹل نقشے پر تقریباً کتنے ملاحظات ریکارڈ کیے گئے تھے؟",
+      "options": [
+        "1.74 million",
+        "1.17 million",
+        "1.47 million",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which technology was used by TDS to develop the dedicated digital mapping system MSFT?",
+      "urdu": "ٹی ڈی ایس نے ڈیجیٹل میپنگ سسٹم ایم ایس ایف ٹی تیار کرنے کے لیے کون سی ٹیکنالوجی استعمال کی ہے؟",
+      "options": [
+        "QR and biometric technology",
+        "GPS and satellite technology",
+        "Google Maps and GIS-based mapping technology",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The dedicated digital mapping system developed by TDS during Hajj Mission 2026 was called?",
+      "urdu": "حج مشن 2026 کے دوران ٹی ڈی ایس کی طرف سے تیار شدہ ڈیجیٹل میپنگ سسٹم کا نام کیا تھا؟",
+      "options": [
+        "M-HOMS",
+        "MSFT",
+        "UHMS",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which system was designed to automate, monitor and streamline the complete food supply chain for Hujjaj?",
+      "urdu": "حجاج کے لیے مکمل فوڈ سپلائی چین کو خودکار، مانیٹر اور اسٹریم لائن کرنے کے لیے کون سا سسٹم بنایا گیا؟",
+      "options": [
+        "MSFT",
+        "M-HOMS",
+        "Meal Management System",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The M-HOMS Occupancy Dashboard was designed and developed by?",
+      "urdu": "ایم-ایچاو ایم ایس قبضے کا ڈیش بورڈ کس نے ڈیزائن اور تیار کیا؟",
+      "options": [
+        "NADRA",
+        "Softogate with support from TDS",
+        "SBP",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which system allows complete pilgrim details to be searched through QR code, application number or passport number?",
+      "urdu": "کون سا سسٹم کیو آر کوڈ، درخواست نمبر یا پاسپورٹ نمبر کے حاجی کی مکمل تفصیلات تلاش کرنے کی سہولت فراہم کرتا ہے؟",
+      "options": [
+        "TDS Hajj Navigator",
+        "M-HOMS Occupancy Dashboard",
+        "Meal Management System",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which TDS initiative provides live bus movement visibility, departure/arrival capture and ETA intelligence?",
+      "urdu": "ٹی ڈی ایس کا کون سا پہل بسوں کی لائیو موومنٹ، روانگی/آمد کی ریکارڈنگ اور ای ٹی اے انٹیلی جنس فراہم کرتا ہے؟",
+      "options": [
+        "TDS Hajj Navigator",
+        "Meal Management System",
+        "Salawat Transport Management App",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the primary objective of TDS digital initiatives?",
+      "urdu": "ٹی ڈی ایس کی نفسیات کا بنیادی مقصد کیا تھا؟",
+      "options": [
+        "Reduce dependency on manual processes",
+        "Increase phone-call confirmations",
+        "Eliminate field reporting",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Team Digital Solutions (TDS) contributed to the digital transformation of Pakistan Hajj Mission 2026 through which system?",
+      "urdu": "ٹیم ڈیجیٹل سلوشنز (ٹی ڈی ایس) نے پاکستان حج مشن 2026 کی تبدیلی میں کس نظام کے کردار ادا کیا؟",
+      "options": [
+        "UHMS",
+        "M-HOMS",
+        "MSFT",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a student randomly guesses five multiple-choice questions, each with five possible choices, what is the probability of getting exactly two correct?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "128/625 (20.48%)",
+        "64/625 (10.24%)",
+        "256/625 (40.96%)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>n = 5 questions  </b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A city government planted thousands of trees to improve air quality and reduce summer temperatures. After a few years, residents noticed cooler streets and cleaner parks. However, some trees began to die because they were overwatered. What does this paragraph imply?",
+      "urdu": "ایک شہر کی حکومت نے ہوا کو صاف کرنے اور گرمی کم کرنے کے لیے ہزاروں درخت لگائے۔ چند سال بعد سڑکیں ٹھنڈی اور پارک صاف نظر آنے لگے، لیکن کچھ درخت زیادہ پانی دینے کی وجہ سے مرنے لگے۔ اس پیراگراف سے کیا نتیجہ اخذ ہوتا ہے؟",
+      "options": [
+        "Overwatering harmed tree species that required less water.",
+        "Planting trees always reduces rainfall.",
+        "Trees cannot survive in cities.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A man is working on a long document in MS Word. He wants to find a specific word quickly. Which shortcut key should he use?",
+      "urdu": "ایک شخص ایم ایس ورڈ میں ایک طویل دستاویز پر کام کر رہا ہے۔ وہ کسی مخصوص لفظ کو جلدی تلاش کرنا چاہتا ہے۔ اسے کون سی شارٹ کٹ کی استعمال کرنی چاہیے؟",
+      "options": [
+        "Ctrl + H",
+        "Ctrl + F",
+        "Ctrl + G",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Six investigators A, B, C, D, E, and F are sitting around a circular table facing the center. A is second to the right of B. C is opposite A. D is second to the left of C. E is opposite B. Where is F sitting?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Between C and D",
+        "Opposite D",
+        "Between B and A",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Six people A, B, C, D, E, F sit around a circular table facing center.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the mean value is 50 and the frequency (number of observations) is 10, what is the sum of the observations?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "400",
+        "450",
+        "500",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula:  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the series: 30, 18, 15, 7, ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The pattern is:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A father's age is three times his daughter's age. After 12 years, the father's age will be twice the daughter's age. What is the daughter's present age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10 years",
+        "11 years",
+        "12 years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the daughter's present age = x.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bag contains 5 red bags, 3 blue bags, what will be the probability of red bag?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3/4",
+        "4/5",
+        "6/7",
+        "5/8"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Solve: 2^(x+3) = 32?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">32 = 2⁵</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next number in the series: 3, 8, 27, 112, 565, ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3396",
+        "3386",
+        "3390",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The pattern is:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a certain code, \"FIA\" = \"GJB\" and \"SI\" = \"TJ\". What is the code for \"EXAM\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "FYBN",
+        "FXBM",
+        "GXBN",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The code changes each letter to the next letter in the English alphabet:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many countries are officially recognized as nuclear-weapon states under the Nuclear Non-Proliferation Treaty (NPT)?",
+      "urdu": "جوہری ہتھیاروں کے عدم پھیلاؤ کے معاہدے کے تحت کتنے ممالک کو باضابطہ طور پر جوہری ہتھیار رکھنے والے ممالک کے طور پر تسلیم کیا گیا ہے؟",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "5"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\"> Apart from the</font><font color=\"#ff0000\"> <span style=\"background-color: rgb(255, 255, 0);\">5 officially recognized</span> </font><font color=\"#0000ff\">nuclear-weapon states under the NPT, some other countries are also known to </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">possess nuclear weapons:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a cat is called goat, a goat is called cow, a cow is called lion, and a lion is called tiger, then according to this code language, which animal will make the \"meow\" sound?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Goat",
+        "Cow",
+        "Lion",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">A </font><font color=\"#ff0000\">cat</font><font color=\"#0000ff\"> makes the \"</font><font color=\"#ff0000\">meow</font><font color=\"#0000ff\">\" sound.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bus starts with 34 passengers. At the first stop, 8 passengers get off and 16 passengers get on. At the next stop, half of the passengers get off. How many passengers remain on the bus?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Start with 34 passengers.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Anthropogenic exigencies have precipitated an irreversible degradation of terrestrial ecosystems. The pernicious proliferation of industrial effluents exacerbates atmospheric aberrations and bioclimatic volatility. If mitigative paradigms are not instituted with alacrity, ecological equilibrium will become untenable. Consequently, preservation mandates a paradigmatic transmutation in anthropocentric resource utilization?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Industrial proliferation inherently engenders an irrevocable and non-negotiable environmental cataclysm.",
+        "Anthropogenic activities are inconsequential to the homeostasis of global ecosystems.",
+        "Expedient implementation of sustainable modalities can ameliorate environmental deterioration.",
+        "Ecological degradation is exclusively attributable to natural geophysical phenomena."
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 15% of 2000?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "150",
+        "200",
+        "300",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">15% of 2000 = (15 ÷ 100) × 2000 = </font><font color=\"#ff0000\">300</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A government wants to increase its revenue without directly taxing people's salaries. Instead, it imposes a tax on goods and services that consumers pay when making purchases. This type of tax is known as",
+      "urdu": "ایک حکومت لوگوں کی تنخواہوں پر براہِ راست ٹیکس لگائے بغیر اپنی آمدنی میں اضافہ کرنا چاہتی ہے۔ اس کے بجائے، وہ اشیاء اور خدمات پر ایسا ٹیکس عائد کرتی ہے جو صارفین خریداری کرتے وقت ادا کرتے ہیں۔ اس قسم کے ٹیکس کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Income Tax",
+        "Corporate Tax",
+        "Indirect Tax (Sales Tax/VAT/GST)",
+        "Wealth Tax"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#9c00ff\"></font></b></span></p>",
       "category": "all"
     }
   ]
