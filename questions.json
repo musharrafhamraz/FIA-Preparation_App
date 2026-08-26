@@ -3,10 +3,127 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-25T19:21:37.145309",
+    "fetched_at": "2026-08-26T02:23:22.606780",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Monetary policy is mainly concerned with?",
+      "urdu": "مالیاتی پالیسی  بنیادی طور پر کس سے متعلق ہوتی ہے؟",
+      "options": [
+        "Money Supply and Interest Rates",
+        "Taxation and Government Spending",
+        "Imports and Exports",
+        "Population Growth"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Choosing project members and assigning responsibilities are mainly done during which stage of project management?",
+      "urdu": "پروجیکٹ مینجمنٹ کے کس مرحلے میں پروجیکٹ کے اراکین کا انتخاب اور ذمہ داریوں کی تقسیم بنیادی طور پر کی جاتی ہے؟",
+      "options": [
+        "Planning Stage",
+        "Execution Stage",
+        "Monitoring Stage",
+        "Closing Stage"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">Additional information</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Public policy can be defined as?",
+      "urdu": "عوامی پالیسی  کی تعریف کیا ہے؟",
+      "options": [
+        "What government does or does not do",
+        "What businesses produce",
+        "What citizens privately decide",
+        "What courts exclusively interpret"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Public Policy</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which theory studies strategic interactions between individuals or organizations?",
+      "urdu": "کون سا نظریہ افراد یا تنظیموں کے درمیان حکمتِ عملی پر مبنی باہمی تعاملات کا مطالعہ کرتا ہے؟",
+      "options": [
+        "Game Theory",
+        "Public Choice Theory",
+        "Decision Theory",
+        "Classical Theory"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If the market price per share is 500 and earnings per share are 10, what is the P/E ratio?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "25",
+        "40",
+        "50",
+        "60"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"59\" data-start=\"0\"><strong data-end=\"59\" data-start=\"0\" style=\"\"><font color=\"#0000ff\">P/E Ratio = </font><font color=\"#00ff00\">Market Price per Share ÷ Earnings per Share</font></strong><font color=\"#0000ff\"><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A choice made between two or more alternatives is called ______?",
+      "urdu": "دو یا دو سے زیادہ متبادلوں میں سے ایک کا انتخاب کیا کہلاتا ہے؟",
+      "options": [
+        "Decision",
+        "Assumption",
+        "Reporting",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">Additional information</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In project management, PERT stands for",
+      "urdu": "پروجیکٹ مینجمنٹ میں پی ای آر ٹی سے کیا مراد ہے؟",
+      "options": [
+        "Program Evaluation and Review Technique",
+        "Project Evaluation and Review Technique",
+        "Program Execution and Review Technique",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The organizing function of management is mainly concerned with?",
+      "urdu": "انتظامیہ کے انتظامی عمل میں تنظیم سازی کا کام بنیادی طور پر کس سے متعلق ہے؟",
+      "options": [
+        "Arranging",
+        "Planning",
+        "Budgeting",
+        "Evaluating"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Organizing, as a management function, is mainly concerned with</font><font color=\"#ff0000\"> arranging resources and tasks</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The separation between political activities and administrative activities is known as?",
+      "urdu": "سیاسی سرگرمیوں اور انتظامی سرگرمیوں کے درمیان علیحدگی کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Politics-Administration Dichotomy",
+        "Dichotomy Administrative",
+        "Hierarchy Bureaucratic",
+        "Control Political Accountability"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
     {
       "q": "An entry in a spreadsheet cell like \"Monthly Wages\" or \"Final Approval Rating\" would most likely be a?",
       "urdu": "سپریڈ شیٹ سیل میں \"ماہانہ اجرت\" یا \"حتمی منظوری کی درجہ بندی\" داخلے کو زیادہ تر کیا جاتا ہے؟",
@@ -538,123 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p \"helvetica=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px; font-family: \"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Elon Musk</span> became the world's first </font><font color=\"#ff0000\">trillionaire </font><font color=\"#0000ff\">in 2026, reaching a net worth of over </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">$1.1 trillion </font><font color=\"#0000ff\">following the highly anticipated initial public offering (IPO) of his space and artificial intelligence company, SpaceX.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sophie Adenot became the first woman from which country to conduct a spacewalk?",
-      "urdu": "سوفی ایڈینوٹ کس ملک کی پہلی خاتون بنیں جنہوں نے خلائی چہل قدمی  کی؟",
-      "options": [
-        "Denmark",
-        "France",
-        "Germany",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><b style=\"font-weight: bold;\"><font color=\"#0000ff\">European Space Agency astronaut </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Sophie Adenot </font><font color=\"#0000ff\">became the </font><font color=\"#ff0000\">first French woman</font><font color=\"#0000ff\"> and the second European woman to perform a </font>spacewalk <font color=\"#0000ff\">on 18 August 2026.<o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who has been selected for the International Tennis Hall of Fame Class of 2026 in the Player Category?",
-      "urdu": "کھلاڑیوں کے زمرے میں 'انٹرنیشنل ٹینس ہال آف فیم' کی 'کلاس آف 2026' کے لیے کسے منتخب کیا گیا ہے؟",
-      "options": [
-        "Novak Djokovic",
-        "Rafael Nadal",
-        "Roger Federer",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">Twenty-time Grand Slam champion\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Roger Federer</font><font color=\"#0000ff\"> has been elected as the player inductee for the </font><font color=\"#ff0000\">International\r\nTennis Hall of Fame Class of 2026,</font><font color=\"#0000ff\"> alongside contributor category inductee\r\nsports broadcaster Mary Carillo.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Makkah Joint Defence Agreement 2026 was signed between Pakistan, Turkiye and which country?",
-      "urdu": "مکہ مشترکہ دفاعی معاہدہ 2026 پاکستان، ترکی اور کس ملک کے درمیان طے پایا؟",
-      "options": [
-        "Saudi Arabia",
-        "Egypt",
-        "Syria",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Senior Citizens’ Day is observed annually on which day?",
-      "urdu": "عالمی یومِ معمرین ہر سال کس دن منایا جاتا ہے؟",
-      "options": [
-        "August 20",
-        "August 21",
-        "August 22",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\"> </font><font color=\"#ff0000\">World Senior\r\nCitizens’ Day </font><font color=\"#0000ff\">is observed annually on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">August 21</font><font color=\"#0000ff\"> to recognise the contributions\r\nand experiences of older people. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country will host the FIFA Women's World Cup 2027?",
-      "urdu": "کون سا ملک فیفا ویمنز ورلڈ کپ 2027 کی میزبانی کرے گا؟",
-      "options": [
-        "Brazil",
-        "France",
-        "Argentina",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Brazil </span>has won the bid to host the </font></span><font color=\"#0000ff\" style=\"font-weight: 700;\">2027 </font><font color=\"#ff0000\" style=\"font-weight: 700;\">Women's Football World Cup</font><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Moon Mission named Chang'e-6 has been launched by which country?",
-      "urdu": "چانگ ای 6 نامی چاند مشن کس ملک نے شروع کیا ہے؟",
-      "options": [
-        "North Korea",
-        "South Korea",
-        "China",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">China </span>launched </font><font color=\"#ff0000\">Chang'e-6 </font><font color=\"#0000ff\">mission to collect first samples from the moon's far side.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who became the first French woman to conduct a spacewalk?",
-      "urdu": "خلا میں چہل قدمی (اسپیس واک) کرنے والی پہلی فرانسیسی خاتون کون بنیں؟",
-      "options": [
-        "Claudie Haignere",
-        "Sophie Adenot",
-        "Catherine Deneuve",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">European Space Agency astronaut </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Sophie Adenot\r\n</font><font color=\"#0000ff\">became the </font><font color=\"#ff0000\">first French woman</font><font color=\"#0000ff\"> and the second European woman to perform a\r\n</font>spacewalk <font color=\"#0000ff\">on 18 August 2026. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current President of Peru?",
-      "urdu": "پیرو کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Dina Boluarte",
-        "Jose Marra Balcazar",
-        "Silvana Vargas",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\">Jose Marra Balcazar<font color=\"#ff00ff\"> </font></b><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">is served as the </span><span style=\"font-weight: bolder; color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">president</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"> of </span><span style=\"font-weight: bolder; color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Peru </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">since </span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(255, 0, 0);\">2026.</span><br/></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country defeated England to win the Women’s T20 World Cup 2026?",
-      "urdu": "کس ملک نے انگلینڈ کو شکست دے کر ویمنز ٹی ٹوئنٹی ورلڈ کپ 2026 جیتا؟",
-      "options": [
-        "New Zealand",
-        "South Africa",
-        "Australia",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p \"helvetica=\"\" 37,=\"\" 41);\"=\"\" arial,=\"\" class=\"MsoNormal\" color:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px 0px 10px; padding: 0px;\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Additional Information about Women’s T20 World Cup 2026<o:p></o:p></font></span></span></p>",
       "category": "all"
     }
   ]
