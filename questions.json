@@ -3,10 +3,140 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-26T13:50:24.093348",
+    "fetched_at": "2026-08-26T21:24:23.314990",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which of the following is a physical quantity along with length and mass?",
+      "urdu": "لمبائی  اور کمیت  کے ساتھ درج ذیل میں سے کون سی طبعی مقدار  ہے؟",
+      "options": [
+        "Time",
+        "Beauty",
+        "Intelligence",
+        "Honesty"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which letter comes once in “baby” and “boy” but does not appear in “children”?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "B",
+        "Y",
+        "A",
+        "C"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Tasting : Eating ::?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Whispering : Speaking",
+        "Walking : Sleeping",
+        "Reading : Writing",
+        "Crying : Laughing"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Wich one of different From others?  Lion, Tiger, Panther, Seneema",
+      "urdu": "اردو: ان میں سے کون سا دوسروں سے مختلف ہے؟",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Panther",
+        "Seneema"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\">While the </font><font color=\"#7b3900\">rest are wild animals</font><font color=\"#0000ff\">.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which word's doesn't belong to the? Inch, Foot, Yard, Acre",
+      "urdu": "کون سا لفظ فہرست میں شامل نہیں ہے۔",
+      "options": [
+        "Inch",
+        "Foot",
+        "Yard",
+        "Acre"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last updated by NA 26-08-2026</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If gross profit is 25% of sales and sales are 225,000, approximately what is the Cost of Goods Sold (COGS)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "166,780",
+        "168,750",
+        "175,000",
+        "180,000"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which accounting concept is associated with FRS 38?",
+      "urdu": "ایف آر ایس اڑتیس  کس اکاؤنٹنگ تصور سے متعلق ہے؟",
+      "options": [
+        "Prudence",
+        "Substance Over Form",
+        "Going Concern",
+        "Consistency"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The decision-making of politicians is bounded by limitations such as knowledge, time and information. This concept is known as?",
+      "urdu": "سیاست دانوں کی فیصلہ سازی علم، وقت اور معلومات جیسی محدودیتوں سے متاثر ہوتی ہے۔ اس تصور کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Bounded Rationality",
+        "Perfect Rationality",
+        "Classical Rationality",
+        "Unlimited Rationality"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">The decision-making limitation you are describing is known as</font><font color=\"#ff0000\"> bounded rationality</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which accounting approach values assets based on the cost required to replace them at current prices?",
+      "urdu": "کون سا اکاؤنٹنگ طریقہ اثاثوں کی قدر موجودہ قیمتوں پر انہیں دوبارہ حاصل کرنے یا تبدیل کرنے کی لاگت کی بنیاد پر کرتا ہے؟",
+      "options": [
+        "Historical Cost Accounting",
+        "Replacement Cost Accounting",
+        "Cash Accounting",
+        "Tax Accounting"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Public policy is generally?",
+      "urdu": "عوامی پالیسی عام طور پر کیا ہوتی ہے؟",
+      "options": [
+        "Legal Binding or Mandatory",
+        "Completely Voluntary",
+        "Only Advisory",
+        "Informal and Unofficial"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
     {
       "q": "What is the key principle of the proposed Unified Process-Based Digital Management System?",
       "urdu": "مجوزہ یونیفائیڈ پروسیس پر مبنی ڈیجیٹل مینجمنٹ سسٹم کا بنیادی اصول کیا ہے؟",
@@ -525,136 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#0000ff\">Let the daughter's present age = x.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bag contains 5 red bags, 3 blue bags, what will be the probability of red bag?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3/4",
-        "4/5",
-        "6/7",
-        "5/8"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Solve: 2^(x+3) = 32?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2",
-        "3",
-        "1",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">32 = 2⁵</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next number in the series: 3, 8, 27, 112, 565, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3396",
-        "3386",
-        "3390",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a certain code, \"FIA\" = \"GJB\" and \"SI\" = \"TJ\". What is the code for \"EXAM\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "FYBN",
-        "FXBM",
-        "GXBN",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The code changes each letter to the next letter in the English alphabet:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many countries are officially recognized as nuclear-weapon states under the Nuclear Non-Proliferation Treaty (NPT)?",
-      "urdu": "جوہری ہتھیاروں کے عدم پھیلاؤ کے معاہدے کے تحت کتنے ممالک کو باضابطہ طور پر جوہری ہتھیار رکھنے والے ممالک کے طور پر تسلیم کیا گیا ہے؟",
-      "options": [
-        "4",
-        "6",
-        "8",
-        "5"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\"> Apart from the</font><font color=\"#ff0000\"> <span style=\"background-color: rgb(255, 255, 0);\">5 officially recognized</span> </font><font color=\"#0000ff\">nuclear-weapon states under the NPT, some other countries are also known to </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">possess nuclear weapons:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a cat is called goat, a goat is called cow, a cow is called lion, and a lion is called tiger, then according to this code language, which animal will make the \"meow\" sound?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Goat",
-        "Cow",
-        "Lion",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">A </font><font color=\"#ff0000\">cat</font><font color=\"#0000ff\"> makes the \"</font><font color=\"#ff0000\">meow</font><font color=\"#0000ff\">\" sound.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bus starts with 34 passengers. At the first stop, 8 passengers get off and 16 passengers get on. At the next stop, half of the passengers get off. How many passengers remain on the bus?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "21",
-        "22",
-        "23",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Start with 34 passengers.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Anthropogenic exigencies have precipitated an irreversible degradation of terrestrial ecosystems. The pernicious proliferation of industrial effluents exacerbates atmospheric aberrations and bioclimatic volatility. If mitigative paradigms are not instituted with alacrity, ecological equilibrium will become untenable. Consequently, preservation mandates a paradigmatic transmutation in anthropocentric resource utilization?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Industrial proliferation inherently engenders an irrevocable and non-negotiable environmental cataclysm.",
-        "Anthropogenic activities are inconsequential to the homeostasis of global ecosystems.",
-        "Expedient implementation of sustainable modalities can ameliorate environmental deterioration.",
-        "Ecological degradation is exclusively attributable to natural geophysical phenomena."
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 15% of 2000?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "150",
-        "200",
-        "300",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">15% of 2000 = (15 ÷ 100) × 2000 = </font><font color=\"#ff0000\">300</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A government wants to increase its revenue without directly taxing people's salaries. Instead, it imposes a tax on goods and services that consumers pay when making purchases. This type of tax is known as",
-      "urdu": "ایک حکومت لوگوں کی تنخواہوں پر براہِ راست ٹیکس لگائے بغیر اپنی آمدنی میں اضافہ کرنا چاہتی ہے۔ اس کے بجائے، وہ اشیاء اور خدمات پر ایسا ٹیکس عائد کرتی ہے جو صارفین خریداری کرتے وقت ادا کرتے ہیں۔ اس قسم کے ٹیکس کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Income Tax",
-        "Corporate Tax",
-        "Indirect Tax (Sales Tax/VAT/GST)",
-        "Wealth Tax"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#9c00ff\"></font></b></span></p>",
       "category": "all"
     }
   ]
