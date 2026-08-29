@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-28T22:50:43.941342",
+    "fetched_at": "2026-08-29T01:56:16.201460",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "Latent heat of fusion of ice is?",
+      "urdu": "برف کی پوشیدہ حرارتِ انصہاری  کتنی ہے؟",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "80 cal/g",
+        "540 cal/g",
+        "4.2 J/g",
+        "100 cal/g"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Pressure is a ______ quantity.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Scalar",
+        "Derived",
+        "Vector",
+        "Fundamental"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which law states that volume is inversely related to pressure?",
+      "urdu": "کون سا قانون بتاتا ہے کہ حجم، دباؤ کے اُلٹ متناسب ہوتا ہے؟",
+      "options": [
+        "Charles’s Law",
+        "Boyle’s Law",
+        "Avogadro’s Law",
+        "Dalton’s Law"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Ice converts into water at ____ °C.",
+      "urdu": "برف پانی میں کتنے ڈگری سیلسیس پر تبدیل ہوتی ہے؟",
+      "options": [
+        "0°C",
+        "50°C",
+        "100°C",
+        "-10°C"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The extraction of Aluminium is ______ as compared to silver",
+      "urdu": "چاندی کے مقابلے میں ایلومینیم کا استخراج کیسا ہے؟",
+      "options": [
+        "Easier",
+        "More difficult",
+        "Equal",
+        "Very simple"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The sum of exponents in a chemical reaction predicts ?",
+      "urdu": "کیمیائی تعامل میں ایکسپوننٹس  کا مجموعہ کیا ظاہر کرتا ہے؟",
+      "options": [
+        "Equilibrium constant",
+        "Order of the reaction",
+        "Molecular mass",
+        "Activation energy"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The central core of an atom is called?",
+      "urdu": "ایٹم کے مرکزی حصے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Electron",
+        "Proton",
+        "Helium",
+        "Nucleus"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The production of ammonia in industry can be increased by increasing ______?",
+      "urdu": "صنعت میں امونیا کی پیداوار کو بڑھا کر ______ میں اضافہ کیا جاسکتا ہے؟",
+      "options": [
+        "Temperature",
+        "Pressure",
+        "Catalyst",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Whose signature is required on the family room affidavit form for Hajj?",
+      "urdu": "حج کے لیے فیملی روم حلف نامہ فارم پر کس کے دستخط ضروری ہیں؟",
+      "options": [
+        "Head of the Hajj delegation",
+        "Group leader (family member)",
+        "Witnesses only",
+        "Religious scholar"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What information is required for all 6 family members in the family room affidavit?",
+      "urdu": "فیملی روم حلف نامہ میں تمام 6 خاندانی افراد کے لیے کون سی معلومات درکار ہیں؟",
+      "options": [
+        "Name, Age, and Relationship",
+        "Name, Signature, and Application Number",
+        "Name, Passport Number, and Photograph",
+        "Name, CNIC Number, and Address"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What important information is required for the family room affidavit form?",
+      "urdu": "فیملی روم حلف نامہ فارم کے لیے کون سی اہم معلومات درکار ہوتی ہیں؟",
+      "options": [
+        "Group leader name, Application number, and Signature",
+        "Witness details, Address, and Phone number",
+        "Group leader name, CNIC number, and Passport copy",
+        "Application number, Visa details, and Relationship proof"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where will the family room facility be provided during Hajj?",
+      "urdu": "حج کے دوران فیملی روم کی سہولت کہاں فراہم کی جائے گی؟",
+      "options": [
+        "Madinah Munawwarah",
+        "Jeddah",
+        "Makkah Mukarramah",
+        "Mina"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What happens if a 4-6 bed room is unavailable during Hajj arrangements?",
+      "urdu": "اگر حج کے انتظامات کے دوران 4–6 بستروں والا کمرہ دستیاب نہ ہو تو کیا ہوگا؟",
+      "options": [
+        "The booking is canceled",
+        "Pilgrims are shifted to shared accommodations",
+        "A private room is provided",
+        "The group leader arranges alternate housing"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is not responsible if irrelevant information is filled in the family room affidavit form?",
+      "urdu": "اگر فیملی روم حلف نامہ فارم میں غیر متعلقہ معلومات درج کی جائیں تو اس کی ذمہ داری کس پر نہیں ہوگی؟",
+      "options": [
+        "Group leader",
+        "Applicant",
+        "Office of Pilgrim Affairs of Pakistan",
+        "Witnesses"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hajj Long Package (38–42 days stay in KSA) includes how many days stay in Madinah?",
+      "urdu": "حج کے طویل پیکیج (سعودی عرب میں 38–42 دن قیام) میں مدینہ منورہ میں کتنے دن قیام شامل ہے؟",
+      "options": [
+        "3 days",
+        "5 days",
+        "8 days",
+        "10 days"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to Fiqah Jafriya, what is the minimum age for a woman to perform Hajj without a Mehram?",
+      "urdu": "فقہ جعفریہ کے مطابق عورت کے لیے بغیر محرم حج ادا کرنے کی کم از کم عمر کتنی ہے؟",
+      "options": [
+        "40 years",
+        "45 years",
+        "50 years",
+        "55 years"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hajj Short Package (20–25 days stay in KSA) includes how many days stay in Madinah?",
+      "urdu": "حج کے مختصر پیکیج (سعودی عرب میں 20–25 دن قیام) میں مدینہ منورہ میں کتنے دن قیام شامل ہے؟",
+      "options": [
+        "3 days",
+        "5 days",
+        "7 days",
+        "8 days"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many days after the last date for receiving applications will the Ministry notify the applicants?",
+      "urdu": "درخواستیں وصول کرنے کی آخری تاریخ کے کتنے دن بعد وزارت درخواست گزاروں کو مطلع کرے گی؟",
+      "options": [
+        "5 days",
+        "7 days",
+        "10 days",
+        "14 days"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How far Masjid-e-Qiblatain to Masjid e Nabwi (as given in Rehnuma-e-Hajj booklet (Hanfia/Jafria))?",
+      "urdu": "رہنمائے حج کتابچہ (حنفیہ/جعفریہ) کے مطابق مسجدِ قبلتین سے مسجدِ نبوی ﷺ کا فاصلہ کتنا ہے؟",
+      "options": [
+        "3 km",
+        "4 km",
+        "5 km",
+        "6 km"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Stones for Ramy-e-Jamarat are picked up from?",
+      "urdu": "رمیِ جمرات کے لیے کنکریاں کہاں سے جمع کی جاتی ہیں؟",
+      "options": [
+        "Mina",
+        "Muzdalifah",
+        "Arfat",
+        "Medina"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 28-08-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the distance from Makkah to Madina (as given in Rehnuma-e-Hajj booklet (Hanfia/Jafria))?",
+      "urdu": "رہنمائے حج کتابچہ (حنفیہ/جعفریہ) کے مطابق مکہ مکرمہ سے مدینہ منورہ کا فاصلہ کتنا ہے؟",
+      "options": [
+        "350 km",
+        "400 km",
+        "440 km",
+        "500 km"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Distance between Mina to Arafat and Arafat to Muzdalifah in total _______؟ (as given in Rehnuma-e-Hajj booklet (Hanfia/Jafria))?",
+      "urdu": "رہنمائے حج کتابچہ (حنفیہ/جعفریہ) کے مطابق منیٰ سے عرفات اور عرفات سے مزدلفہ تک کل فاصلہ کتنا ہے؟",
+      "options": [
+        "5 km",
+        "10 km",
+        "15 km",
+        "21 km"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "For the facilitation of Hujjaj in Makkah Mukarramah, how many Saudi medical centers were established?",
+      "urdu": "مکہ مکرمہ میں حجاج کی سہولت کے لیے کتنے سعودی طبی مراکز قائم کیے گئے تھے؟",
+      "options": [
+        "50 medical centers",
+        "60 medical centers",
+        "75 medical centers",
+        "90 medical centers"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which day is called Yawm-e-Tarwiyah?",
+      "urdu": "یومِ ترویہ کس دن کو کہا جاتا ہے؟",
+      "options": [
+        "8th Dul Hijjah",
+        "9th Dul Hijjah",
+        "10th Dul Hijjah",
+        "11th Dul Hijjah"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is it named to run between Safa and Marwa?",
+      "urdu": "صفا اور مروہ کے درمیان چلنے کو کیا نام دیا جائے؟",
+      "options": [
+        "Sayee",
+        "Rami",
+        "Hajjar-e-Aswad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the total number of Hujjaj inducted seamlessly during Hajj 2025?",
+      "urdu": "حج 2025 کے دوران بغیر کسی رکاوٹ کے شامل کیے گئے حجاج کی کل تعداد کیا تھی؟",
+      "options": [
+        "75,000",
+        "88,295",
+        "90,000",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What must the Office of Hajj Affairs inform pilgrims NOT to include in their luggage?",
+      "urdu": "حج امور کا دفتر حاجیوں کو کس چیز کو اپنے سامان میں شامل نہ کرنے کی ہدایت دے؟",
+      "options": [
+        "Food items",
+        "Bottles of Zamzam water",
+        "Clothes",
+        "Prayer mats"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the central representative appointed by the Hajj Affairs Office for entry into the Nashik Masar platform?",
+      "urdu": "ناسک ماسر پلیٹ فارم میں داخلے کے لیے حج امور کے دفتر کی مرکزی نمائندہ کون مقرر ہے؟",
+      "options": [
+        "Mr. Abdul Wahab Soomro",
+        "Mr. Ali Khan",
+        "Mr. Ahmed Raza",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Nashik Masar platform</font><font color=\"#0000ff\">: </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Through which airport will 89,605 pilgrims depart from Jeddah?",
+      "urdu": "نواسی ہزار چھ سو پانچ (89,605) حاجی جدہ کس ہوائی اڈے کے ذریعے روانہ ہوں گے؟",
+      "options": [
+        "Prince Muhammad bin Abdulaziz International Airport",
+        "King Abdulaziz International Airport",
+        "Medina Airport",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Through which airport will 89,605 pilgrims depart from Medina?",
+      "urdu": "نواسی ہزار چھ سو پانچ (89,605) حاجی مدینہ کس ہوائی اڈے کے ذریعے روانہ ہوں گے؟",
+      "options": [
+        "Prince Muhammad bin Abdulaziz International Airport",
+        "King Abdulaziz International Airport",
+        "Riyadh Airport",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the total number of pilgrims from the other party for the Hajj season of Hijri 1446?",
+      "urdu": "ہجری 1446 کے حج سیزن کے لیے دوسری پارٹی کے کل حاجیوں کی تعداد کیا تھی؟",
+      "options": [
+        "150,000",
+        "179,210",
+        "200,000",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the decided proportion of members of the Office of Hajj Affairs to the total quota of Hajjs?",
+      "urdu": "حج کے کل کوٹے میں حج امور کے دفتر کے اراکین کا مقررہ تناسب کیا ہے؟",
+      "options": [
+        "5%",
+        "1%",
+        "3%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Through which platform will payments to service providers be made?",
+      "urdu": "خدمات فراہم کرنے والوں کو ادائیگیاں کس پلیٹ فارم کے ذریعے کی جائیں گی؟",
+      "options": [
+        "Hajj Portal",
+        "Nask Masar platform",
+        "Maktab Portal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many preparatory meetings must the first party hold before the Hajj season?",
+      "urdu": "حج سیزن سے پہلے پہلی پارٹی کو کتنی تیاریوں کی میٹنگیں رکھنا ہوں گی؟",
+      "options": [
+        "At least one",
+        "Two",
+        "Three",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of the preparatory meeting?",
+      "urdu": "تیاری میٹنگ کا مقصد کیا ہے؟",
+      "options": [
+        "To discuss previous problems and the practical plan for Hajj (1446 AH)",
+        "To discuss tourism promotion",
+        "To finalize trade agreements",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The list of the Office of Hajj Affairs members must be provided to which institutions?",
+      "urdu": "حج امور کے دفتر کے دفتر کی فہرست کون سے اداروں کو فراہم کی جانی چاہئے؟",
+      "options": [
+        "Local municipalities",
+        "Ministry of Health and Ministry of Labour",
+        "Ministry of Foreign Affairs and Ministry of Hajj and Umrah of Saudi Arabia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many zones is the valley of Mina divided into?",
+      "urdu": "وادیِ منیٰ کو کتنے زونز میں تقسیم کیا گیا ہے؟",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What are most obligatory  period of Hajj?",
+      "urdu": "حج کی سب سے زیادہ واجب مدت کون سی ہے؟",
+      "options": [
+        "Rami",
+        "Waqoof e Mudalfa",
+        "Waqoof e Arfat",
+        "Waqoof e Mina"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" roboto,=\"\" sans\",=\"\" sans-serif,=\"\" sans-serif;\"=\"\" segoe=\"\" style=\"margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px; font-family: \" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"font-weight: bold;\"><font color=\"#ff0000\">There are three obligatory acts of Hajj</font><font color=\"#0000ff\">, known as the pillars of Hajj: </font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the largest Mosque in Mina?",
+      "urdu": "منیٰ کی سب سے بڑی مسجد کونسی ہے؟",
+      "options": [
+        "Masjid e Khayf",
+        "Masjid e Nimrah",
+        "Masjid e Umer",
+        "Masjid e Aysha"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is one of the key features depicted on the Mina and Arafat map for Hajj 2025 to help guide pilgrims?",
+      "urdu": "حج 2025 کے لیے منیٰ اور عرفات کے نقشے میں حجاج کی رہنمائی کے لیے درج اہم خصوصیات میں سے ایک کیا ہے؟",
+      "options": [
+        "Roads leading to the nearest hotels",
+        "The locations of medical centers and emergency facilities",
+        "Shopping malls around the sacred sites",
+        "A list of local tour operators for sightseeing"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Muzdalifah is situated ___?",
+      "urdu": "مزدلفہ کہاں واقع ہے؟",
+      "options": [
+        "Between Kaaba and Mina",
+        "Betwee Mina and Arafat",
+        "Between Safa and marwa",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the distance between Masjid Al-Haram and Mina?",
+      "urdu": "مسجد الحرام اور منیٰ کے درمیان کتنا فاصلہ ہے؟",
+      "options": [
+        "10 kilometers",
+        "6 kilometers",
+        "8 kilometers",
+        "13 kilometers"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "As per Mina map the Train line given through the?",
+      "urdu": "منیٰ کے نقشے کے مطابق ٹرین لائن منیٰ کے کس حصے سے گزرتی ہے؟",
+      "options": [
+        "Southwest of Mina",
+        "North of Mina",
+        "Northwest of Mina",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many pebbles are needed at a minimum for the ritual of stoning during Hajj?",
+      "urdu": "کم سے کم کتنی کنکریاں رمیِ جمرات کے لیے درکار ہوتی ہیں؟",
+      "options": [
+        "21",
+        "49",
+        "70",
+        "50"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" dir=\"RTL\" style=\"text-align:right;background:#002060;\r\ndirection:rtl;unicode-bidi:embed\"><b><span arial\",sans-serif;=\"\" calibri;mso-hansi-theme-font:minor-latin;mso-bidi-theme-font:minor-bidi;=\"\" color:white;mso-themecolor:background1\"=\"\" lang=\"AR-SA\" mso-ascii-font-family:calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:=\"\" style=\"font-family:\"><font color=\"#ffe79c\">اس سوال کو اچھے سے سمجھیں<o:p></o:p></font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many pebbles are needed at a meximum for the ritual of stoning during Hajj?",
+      "urdu": "زیادہ سے زیادہ کتنے کنکریاں رمیِ جمرات کے لیے درکار ہوتی ہیں؟",
+      "options": [
+        "70",
+        "49",
+        "60",
+        "39"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 32, 96);\">Maximum pebbles required: </span><font color=\"#ff0000\">70</font><span style=\"color: rgb(0, 32, 96);\"> pebbles<o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How do the Nazim staff assist in the coordination of services with Saudi authorities during Hajj 2025?",
+      "urdu": "حج 2025 کے دوران ناظم اسٹاف سعودی حکام کے ساتھ خدمات کے رابطہ کاری میں کس طرح مدد کرتا ہے؟",
+      "options": [
+        "By managing religious events with the Imams",
+        "By ensuring compliance with local laws and regulations for the smooth operation of Hajj",
+        "By designing promotional materials for the Hajj experience",
+        "By recruiting new pilgrims from other countries"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the key focus of the training provided to Nazim staff for their duties during Hajj 2025?",
+      "urdu": "حج 2025 کے دوران ناظم اسٹاف کو ان کی ذمہ داریوں کے لیے دی جانے والی تربیت کا بنیادی مقصد کیا تھا؟",
+      "options": [
+        "Teaching pilgrims about history and culture",
+        "Ensuring staff are prepared to handle logistics safety and emergency situations effectively",
+        "Providing religious training to pilgrims",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which phase covers the responsibilities of Nazim after Hajj till return to Pakistan?",
+      "urdu": "کون سا مرحلہ ناظم کی ذمہ داریوں کو حج کے بعد سے پاکستان واپسی تک شامل کرتا ہے؟",
+      "options": [
+        "Phase – 2",
+        "Phase – 3",
+        "Phase – 4",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p data-pm-slice=\"1 1 []\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">RESPONSIBILITIES OF NAZIM , GHAR SE GHAR TAK)</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Muavineen-e-Hajjaj/Nazims were selected for Hajj 2025?",
+      "urdu": "حج 2025 کے لیے کتنے معاونینِ حجاج/ناظمین منتخب کیے گئے تھے؟",
+      "options": [
+        "300",
+        "350",
+        "400",
+        "450"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who led the groups for Tawaf-e-Ifadah during Hajj operation 2025?",
+      "urdu": "حج آپریشن 2025 کے دوران طوافِ افاضہ کے لیے گروپس کی قیادت کس نے کی؟",
+      "options": [
+        "Building Duty Officers",
+        "Mashair Train Staff",
+        "Nazim and Tawafa representative",
+        "Sector Coordinator only"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
