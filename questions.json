@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-29T12:54:55.597997",
+    "fetched_at": "2026-08-29T16:56:46.710738",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What was the number of Sugar mills in Pakistan in 1947?",
+      "urdu": "سن 1947 میں پاکستان میں شوگر ملوں کی تعداد کتنی تھی؟",
+      "options": [
+        "2",
+        "6",
+        "9",
+        "15"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-07-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "How do you say, \"This is my stop\" in Arabic?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -641,19 +654,6 @@
         "14 days"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How far Masjid-e-Qiblatain to Masjid e Nabwi (as given in Rehnuma-e-Hajj booklet (Hanfia/Jafria))?",
-      "urdu": "رہنمائے حج کتابچہ (حنفیہ/جعفریہ) کے مطابق مسجدِ قبلتین سے مسجدِ نبوی ﷺ کا فاصلہ کتنا ہے؟",
-      "options": [
-        "3 km",
-        "4 km",
-        "5 km",
-        "6 km"
-      ],
-      "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
       "category": "all"
     }
