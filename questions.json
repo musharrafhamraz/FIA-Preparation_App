@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-29T21:21:32.465660",
+    "fetched_at": "2026-08-30T06:13:44.717948",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "How many Prophets mentioned in Holy Quran?",
+      "urdu": "قرآن پاک میں کتنے انبیاء کا ذکر ہے؟",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;margin-bottom:.0001pt\"><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">The</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> Holy Quran has</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\">26 Prophets</span><span style=\"color: rgb(0, 0, 255); font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">names mentioned</span><span style=\"font-size: 12pt; line-height: 17.12px;\">:</span></span></p>",
+      "category": "all"
+    },
     {
       "q": "What was the number of Sugar mills in Pakistan in 1947?",
       "urdu": "سن 1947 میں پاکستان میں شوگر ملوں کی تعداد کتنی تھی؟",
@@ -641,19 +654,6 @@
         "8 days"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many days after the last date for receiving applications will the Ministry notify the applicants?",
-      "urdu": "درخواستیں وصول کرنے کی آخری تاریخ کے کتنے دن بعد وزارت درخواست گزاروں کو مطلع کرے گی؟",
-      "options": [
-        "5 days",
-        "7 days",
-        "10 days",
-        "14 days"
-      ],
-      "correct": 1,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
       "category": "all"
     }
