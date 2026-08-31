@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-31T06:39:32.024302",
+    "fetched_at": "2026-08-31T14:43:34.101337",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The Antonym of Surprise is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Aware",
+        "Bad news",
+        "Unpredictable",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
     {
       "q": "نماز میں آخری قعدہ واجب کب تک ہے؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -642,19 +655,6 @@
       ],
       "correct": 1,
       "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Whose signature is required on the family room affidavit form for Hajj?",
-      "urdu": "حج کے لیے فیملی روم حلف نامہ فارم پر کس کے دستخط ضروری ہیں؟",
-      "options": [
-        "Head of the Hajj delegation",
-        "Group leader (family member)",
-        "Witnesses only",
-        "Religious scholar"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
       "category": "all"
     }
   ]
