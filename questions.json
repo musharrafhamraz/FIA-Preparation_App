@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-08-31T23:03:21.405174",
+    "fetched_at": "2026-09-01T06:00:09.423861",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The Antonym of Surprise is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "Aware",
-        "Bad news",
-        "Unpredictable",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
+      "correct": 1,
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "نماز میں آخری قعدہ واجب کب تک ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "قیام تک",
-        "رکوع تک",
-        "تشہد تک",
-        "ان میں سے کوئی نہیں"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "What was the real name of Hazrat Abu Bakr (R.A)?",
-      "urdu": "حضرت ابو بکر صدیق رضہ کا قبول اسلام سے پہلے کیا نام تھا؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Abdullah ibn Usman",
-        "Abu Turab",
-        "Sadiq e Akber",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan will celebrate which independence day on 14 August 2026?",
-      "urdu": "پاکستان 14 اگست 2026 کو کون سا یوم آزادی منائے گا؟",
-      "options": [
-        "77th",
-        "78th",
-        "79th",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Pakistan will celebrate its </span><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0); color: rgb(255, 0, 0);\">79th </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Independence Day with patriotic zeal and fervour on </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">14 August 2026.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani boxer won bronze medal in 2026 Commonwealth Games?",
-      "urdu": "کس پاکستانی باکسر نے 2026 کے کامن ویلتھ گیمز میں کانسی کا تمغہ جیتا؟",
-      "options": [
-        "Kashmala Talat",
-        "Fatima Zahra",
-        "Hiba Khalid",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who became the world's first official trillionaire in 2026?",
-      "urdu": "دو ہزار چھبیس میں دنیا کا پہلا باقاعدہ  کھرب پتی کون بنا؟",
-      "options": [
-        "Mark Zuckerberg",
-        "Jeff Bezos",
-        "Elon Musk",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p \"helvetica=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; padding: 0px; font-family: \"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Elon Musk</span> became the world's first </font><font color=\"#ff0000\">trillionaire </font><font color=\"#0000ff\">in 2026, reaching a net worth of over </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">$1.1 trillion </font><font color=\"#0000ff\">following the highly anticipated initial public offering (IPO) of his space and artificial intelligence company, SpaceX.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is international day of the victims of enforced disappearances observed?",
-      "urdu": "جبری گمشدگیوں کے متاثرین کا عالمی دن کب منایا جاتا ہے؟",
-      "options": [
-        "10 August",
-        "30 August",
-        "20 August",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">international day of the victims</font><font color=\"#0000ff\"> of enforced disappearances is observed on </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">30 August</font><font color=\"#0000ff\"> by UNO.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Prime Minister of Azad Jammu and Kashmir (AJK)?",
-      "urdu": "آزاد جموں و کشمیر کا موجودہ وزیراعظم کون ہے؟",
-      "options": [
-        "Syed Iftikhar Ali Gillani",
-        "Raja Faisal Mumtaz Rathore",
-        "Chaudhry Anwar-ul-Haq",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b><span 0px=\"\" 0px;=\"\" 10);\"=\"\" 10,=\"\" 16px;=\"\" 400;=\"\" arial,=\"\" border-bottom:=\"\" data-copy-service-computed-style=\"font-family: \" data-subtree=\"aimfl,mfl\" font-size:=\"\" font-weight:=\"\" google=\"\" margin:=\"\" none;=\"\" rgb(10,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"color: rgb(0, 0, 255); margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" text-decoration:=\"\">Barrister </span><font color=\"#ff0000\"><span 0px=\"\" 0px;=\"\" 10);\"=\"\" 10,=\"\" 16px;=\"\" 400;=\"\" arial,=\"\" border-bottom:=\"\" data-complete=\"true\" data-copy-service-computed-style=\"font-family: \" data-sfc-cp=\"\" data-sfc-root=\"ep\" font-size:=\"\" font-weight:=\"\" google=\"\" jsaction=\"\" jscontroller=\"qWh5id#Yojwnf\" jsuid=\"AmTDx_m\" margin:=\"\" none;=\"\" rgb(10,=\"\" sans\",=\"\" sans-serif;=\"\" style=\"margin: 0px; border-bottom: 0px rgb(10, 10, 10);\" text-decoration:=\"\">Syed Iftikhar Ali Gillani</span> </font><font color=\"#0000ff\">became the </font>17th <font color=\"#0000ff\">prime minister of </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">AJK </font><font color=\"#0000ff\">in 2026.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many countries became founding members of Makkah Joint Defence Agreement 2026?",
-      "urdu": "کتنے ممالک ’مکہ مشترکہ دفاعی معاہدہ 2026‘ کے بانی رکن بنے؟",
-      "options": [
-        "Two",
-        "Three",
-        "Four",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Prophets mentioned in Holy Quran?",
-      "urdu": "قرآن پاک میں کتنے انبیاء کا ذکر ہے؟",
-      "options": [
-        "25",
-        "26",
-        "27",
-        "28"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;margin-bottom:.0001pt\"><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">The</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> Holy Quran has</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\">26 Prophets</span><span style=\"color: rgb(0, 0, 255); font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">names mentioned</span><span style=\"font-size: 12pt; line-height: 17.12px;\">:</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the number of Sugar mills in Pakistan in 1947?",
-      "urdu": "سن 1947 میں پاکستان میں شوگر ملوں کی تعداد کتنی تھی؟",
-      "options": [
-        "2",
-        "6",
-        "9",
-        "15"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 26-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How do you say, \"This is my stop\" in Arabic?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "هذا موقفي",
-        "هذا طريقي",
-        "أنا في الطريق",
-        "أين المحطة"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is a 'Barber' called in Arabic?",
-      "urdu": "حجام کو عربی میں کیا کہتے ہیں؟",
-      "options": [
-        "سائق",
-        "حلاق",
-        "سائل",
-        "بقال"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Arabic word for 'Water'?",
-      "urdu": "پانی کو عربی میں کیا کہتے ہیں؟",
-      "options": [
-        "طعام",
-        "ماء",
-        "طريق",
-        "نافذة"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How do you ask 'What’s the time?' in Arabic?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Kam as-saa'ah?",
-        "Ma ismuka",
-        "Ayna al-maktab",
-        "Kayfa haluk"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the right translation of Where is the police?",
-      "urdu": "\"Where is the police?\" کا درست ترجمہ ہے",
-      "options": [
-        "أين مجموعتي؟",
-        "أين الحمام؟",
-        "أنا شرطي",
-        "أين الشرطة؟"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Medical store in Arabic?",
-      "urdu": "میڈیکل اسٹور / فارمیسی کو عربی میں کیا کہتے ہیں؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "صيدلية",
-        "مستشفى",
-        "طبيب",
-        "حديقة"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The translation of: Where is train station? is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "أين القطار؟",
-        "أين محطة؟",
-        "أين محطة القطار؟",
-        "أين محطة المعارف؟"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "How to say, \"Everything is ok\" in Arabic?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "كل شيء بخير",
-        "أنا في الطريق",
-        "شكراً جزيلاً",
-        "عَفْواً أُمك"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the right translation of I am Pakistani?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "باكستان جميل",
-        "باكستان رائع",
-        "أنا باكستان",
-        "أنا عربي"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Taxi in arabic?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حافلة",
-        "سيارة أجرة",
-        "دراجة",
-        "قطار"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the smallest group size allowed?",
-      "urdu": "اجازت دی جانے والی گروپ کی سب سے کم تعداد کتنے افراد پر مشتمل ہے؟",
-      "options": [
-        "1 member",
-        "2 members",
-        "5 members",
-        "10 members"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What additional facilities are mentioned for Shia pilgrims?",
-      "urdu": "شیعہ حجاج کے لیے کون سی اضافی سہولت کا ذکر کیا گیا ہے؟",
-      "options": [
-        "Separate accommodation",
-        "Shia-specific facilities upon request",
-        "Extra days in Madina",
-        "Family-only rooms"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the required gender information for the applicant?",
-      "urdu": "درخواست گزار کے لیے جنس کی مطلوبہ معلومات کیا ہے؟",
-      "options": [
-        "Male only",
-        "Female only",
-        "Male or Female only",
-        "Any gender"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Government Hajj Scheme offers how many package types for Hajj Scheme 2026?",
-      "urdu": "حج اسکیم 2026 کے لیے سرکاری حج اسکیم کتنی قسم کے پیکیجز پیش کرتی ہے؟",
-      "options": [
-        "Family package and group package",
-        "Short package and long package",
-        "Regular package and premium package",
-        "Solo package and group package"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many beds per room are available for selection in the application form?",
-      "urdu": "درخواست فارم میں فی کمرہ کتنے بستروں کے آپشنز دستیاب ہیں؟",
-      "options": [
-        "One, two, three",
-        "Two, three, 4, 6 (family)",
-        "Three, four, 6, 7",
-        "Only family room"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "As per Hajj Policy 2026, the minimum age for performing Hajj is?",
-      "urdu": "حج پالیسی 2026 کے مطابق حج ادا کرنے کے لیے کم از کم عمر کتنی ہے؟",
-      "options": [
-        "12 years",
-        "21 years",
-        "25 years",
-        "30 years"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the duration of the long package under the Government Hajj Scheme?",
-      "urdu": "حکومتی حج اسکیم کے تحت طویل حج پیکیج کی مدت کتنی ہے؟",
-      "options": [
-        "20-25 days",
-        "30-35 days",
-        "38–42 days",
-        "50-55 days"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many days short hajj scheme consist of?",
-      "urdu": "مختصر حج اسکیم کتنے دنوں پر مشتمل ہوتی ہے؟",
-      "options": [
-        "18-20 days",
-        "19-21 days",
-        "20-23 days",
-        "20-25 days"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the data collection form ask about?",
-      "urdu": "ڈیٹا کلیکشن فارم کس عقیدے کے بارے میں پوچھتا ہے؟",
-      "options": [
-        "Belief in the finality of Prophethood",
-        "Belief in all the Prophets",
-        "Faith that Prophet Muhammad (PBUH) is a Prophet",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What percentage of NUSUK Card distribution was achieved by the Mission before Mashair?",
-      "urdu": "مشاعر کے آغاز سے پہلے مشن نے نسک کارڈز کی تقسیم کا کتنے فیصد ہدف حاصل کیا؟",
-      "options": [
-        "80%",
-        "90%",
-        "100%",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Global Handwashing Day is observed on which date?",
-      "urdu": "ہاتھ دھونے کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "October 14",
-        "October 15",
-        "October 16",
-        "October 17"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who can launch complaints through the Pak Hajj App?",
-      "urdu": "پاک حج ایپ کے ذریعے شکایات کون درج کر سکتا ہے؟",
-      "options": [
-        "Only Moavineen.",
-        "Pilgrims directly.",
-        "Supervisors only.",
-        "Hajj Ministry officials only."
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who are the complaints displayed to after being launched?",
-      "urdu": "شکایت درج ہونے کے بعد اسے کن حکام کو دکھایا جاتا ہے؟",
-      "options": [
-        "Ministry, DG Hajj, Director Moavineen, Director Concern, and Officer Concern",
-        "Only the Ministry and DG Hajj",
-        "Only call center representatives",
-        "The app developers and support staff"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What ensures seamless handling of pilgrim complaints?",
-      "urdu": "حجاج کی شکایات کو مؤثر اور بلا رکاوٹ نمٹانے کو کیا یقینی بناتا ہے؟",
-      "options": [
-        "Integration with Pak Hajj app",
-        "Use of automated bots",
-        "Direct supervision by authorities",
-        "Paper-based complaint forms"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the purpose of the Check-in feature in the app?",
-      "urdu": "ایپ میں چیک ان فیچر کا مقصد کیا ہے؟",
-      "options": [
-        "To register a new user",
-        "To mark the user’s attendance",
-        "To log out of the system",
-        "To find the nearest location"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which government entity is associated with the app?",
-      "urdu": "اس ایپ کے ساتھ کون سا سرکاری ادارہ منسلک ہے؟",
-      "options": [
-        "Ministry of Education",
-        "Ministry of Religious Affairs & Interfaith Harmony",
-        "Ministry of Health",
-        "Ministry of Interior"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many complaints have been addressed since the launch of the app?",
-      "urdu": "ایپ کے آغاز کے بعد کتنی شکایات کا ازالہ کیا جا چکا ہے؟",
-      "options": [
-        "Over 5,000",
-        "Over 6,000",
-        "Over 4,000",
-        "Over 7,000"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ministry of Religious Affairs has introduced _______ App for Hajj 2026.",
-      "urdu": "وزارتِ مذہبی امور نے حج 2026 کے لیے کون سی ایپ متعارف کرائی؟",
-      "options": [
-        "Hajj App",
-        "Pak App",
-        "Pak Hajj App",
-        "Pak Saudi App"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which app is used for Hajj info?",
-      "urdu": "حج کی معلومات کے لیے کون سی ایپ استعمال کی جاتی ہے؟",
-      "options": [
-        "Pak Hajj App",
-        "Hajj Guide",
-        "Ministry App",
-        "Hajj Connect"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main purpose of the reception on arrival?",
-      "urdu": "آمد کے وقت استقبالیہ کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "To guide, welcome, brief, and facilitate arriving pilgrims",
-        "To provide medical checkup",
-        "To collect baggage",
-        "To assign accommodation"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the benefit of Moavineen resolving complaints promptly?",
-      "urdu": "معاونین کی جانب سے شکایات کو فوری طور پر حل کرنے کا کیا فائدہ ہے؟",
-      "options": [
-        "Reduces staff workload",
-        "Enhances pilgrim satisfaction and smooth operations",
-        "Tracks pilgrim locations",
-        "Eliminates the need for app usage"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Latent heat of fusion of ice is?",
-      "urdu": "برف کی پوشیدہ حرارتِ انصہاری  کتنی ہے؟",
-      "options": [
-        "80 cal/g",
-        "540 cal/g",
-        "4.2 J/g",
-        "100 cal/g"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Pressure is a ______ quantity.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Scalar",
-        "Derived",
-        "Vector",
-        "Fundamental"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which law states that volume is inversely related to pressure?",
-      "urdu": "کون سا قانون بتاتا ہے کہ حجم، دباؤ کے اُلٹ متناسب ہوتا ہے؟",
-      "options": [
-        "Charles’s Law",
-        "Boyle’s Law",
-        "Avogadro’s Law",
-        "Dalton’s Law"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Ice converts into water at ____ °C.",
-      "urdu": "برف پانی میں کتنے ڈگری سیلسیس پر تبدیل ہوتی ہے؟",
-      "options": [
-        "0°C",
-        "50°C",
-        "100°C",
-        "-10°C"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The extraction of Aluminium is ______ as compared to silver",
-      "urdu": "چاندی کے مقابلے میں ایلومینیم کا استخراج کیسا ہے؟",
-      "options": [
-        "Easier",
-        "More difficult",
-        "Equal",
-        "Very simple"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The sum of exponents in a chemical reaction predicts ?",
-      "urdu": "کیمیائی تعامل میں ایکسپوننٹس  کا مجموعہ کیا ظاہر کرتا ہے؟",
-      "options": [
-        "Equilibrium constant",
-        "Order of the reaction",
-        "Molecular mass",
-        "Activation energy"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The central core of an atom is called?",
-      "urdu": "ایٹم کے مرکزی حصے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Electron",
-        "Proton",
-        "Helium",
-        "Nucleus"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The production of ammonia in industry can be increased by increasing ______?",
-      "urdu": "صنعت میں امونیا کی پیداوار کو بڑھا کر ______ میں اضافہ کیا جاسکتا ہے؟",
-      "options": [
-        "Temperature",
-        "Pressure",
-        "Catalyst",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     }
   ]
 }
