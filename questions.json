@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-01T06:00:09.423861",
+    "fetched_at": "2026-09-01T12:16:47.230948",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "Which keyboard shortcut Italic selected text?",
+      "urdu": "کون سا کی بورڈ شارٹ کٹ اٹالک متن کو منتخب کرتا ہے؟",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Ctrl+I",
+        "Alt+I",
+        "File/Format/Bold",
+        "None of the above"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the shortcut key to duplicate a slide in Microsoft PowerPoint?",
+      "urdu": "مائیکروسافٹ پاورپوائنٹ میں سلائیڈ کی نقل بنانے کی شارٹ کٹ کی کیا ہے؟",
+      "options": [
+        "Ctrl + M",
+        "Ctrl + D",
+        "Ctrl + Shift + D",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many times Pakistan won the hockey World Cup?",
+      "urdu": "پاکستان نے کتنی بار ہاکی ورلڈ کپ جیتا؟",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\">Pakistan</font><font color=\"#0000ff\"> has won the </font><font color=\"#ff0000\">Hockey World</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Cup</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">4</font><font color=\"#0000ff\"> times.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Red-green colour blindness in a man is known as?",
+      "urdu": "مرد میں سرخ اور سبز رنگ کی تمیز نہ کر سکنے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Deuteranopia",
+        "Prolanopia",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the distance between Hunain and Makkah?",
+      "urdu": "حنین اور مکہ کے درمیان کتنا فاصلہ ہے؟",
+      "options": [
+        "20 km",
+        "10 km",
+        "30 km",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many army commander(s) were martyred in the Battle of Mu'tah?",
+      "urdu": "غزوۂ مؤتہ میں کتنے فوجی کمانڈر شہید ہوئے تھے؟",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Three army </font><font color=\"#0000ff\">commanders were </font><font color=\"#ff0000\">martyred</font><font color=\"#0000ff\"> in the </font><font color=\"#ff0000\">Battle of Mu'tah </font><font color=\"#0000ff\">in </font><font color=\"#ff0000\">629</font><font color=\"#0000ff\"> AD (</font><font color=\"#ff0000\">8</font><font color=\"#0000ff\"> AH).</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Obfuscate is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Blur",
+        "Enlighten",
+        "Reveal",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Mawkish is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sentimental",
+        "Harsh",
+        "Practical",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Impinge is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Affect",
+        "Improve",
+        "Protect",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The authorities decided to _____ the operation until further information was available.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Postponed",
+        "Postponing",
+        "Postpone",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The suspect gave a _____ explanation for his presence at the scene.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Convinced",
+        "Convincing",
+        "Convince",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the police had arrived earlier, the criminal ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Would be arrested",
+        "Would have been arrested",
+        "Will be arrested",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A dice is rolled once. What is the probability of getting a number greater than 4?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/3",
+        "1/61/4",
+        "12",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">When a dice is rolled, there are 6 possible outcomes: 1, 2, 3, 4, 5, and 6.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS PowerPoint we press _____ key to start slideshow from current slide.",
+      "urdu": "ایم ایس پاورپوائنٹ میں ہم موجودہ سلائیڈ سے سلائیڈ شو شروع کرنے کے لئے _____ کی کو دبائیں۔",
+      "options": [
+        "F5",
+        "Ctrl + F5",
+        "Shift + F5",
+        "Alt + F5"
+      ],
+      "correct": 2,
+      "explanation": "<p><font style=\"\"><span style=\"font-family: Helvetica;\"><b style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What comes next in the following letter series? B, E, I, N, T, _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A",
+        "Z",
+        "B",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let's check the alphabet positions:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A fair coin is tossed once. What is the probability of getting a head?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/2",
+        "1/3",
+        "1",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p>A<b><font color=\"#0000ff\"> fair coin has 2 possible outcomes: Head and Tail.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the battle of Motah was fought?",
+      "urdu": "موتہ کی جنگ کب لڑی گئی؟",
+      "options": [
+        "8 AH (629 AD)",
+        "9 AH (630 AD)",
+        "10 AH (631 AD)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Ghazwa was Hazrat Ayesha’s (RA) scarf used as a flag?",
+      "urdu": "حضرت عائشہؓ کا دوپٹہ کس غزوہ میں بطور جھنڈا استعمال ہوا؟",
+      "options": [
+        "Ghazwa-e-Uhud",
+        "Ghazwa-e-Khandaq",
+        "Ghazwa-e-Badr",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does HTTP stands for in the context of WWW?",
+      "urdu": "ایچ ٹی ٹی پی کا مطلب ہے؟",
+      "options": [
+        "Hypertext Transfer Protocol",
+        "Hypertext Transfer Protection",
+        "Hyper Transfer Protocol",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"font-family: Helvetica;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Durand line is between which countries?",
+      "urdu": "ڈیورنڈ لائن کن ممالک کے درمیان ہے؟",
+      "options": [
+        "Pak-Afganistan",
+        "Pak-China",
+        "Pak-India",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-06-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "On 17 November 2025, which two countries abstained from the UN Security Council vote on the US-drafted Gaza peace plan?",
+      "urdu": "سترہ نومبر 2025 کو اقوام متحدہ کی سلامتی کونسل میں امریکہ کے تیار کردہ غزہ امن منصوبے پر ووٹنگ کے دوران کن دو ممالک نے ووٹ دینے سے گریز کیا؟",
+      "options": [
+        "China and Pakistan",
+        "China and Russia",
+        "France and Germany",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Lahore Resolution was passed in the ________ annual session of All India Muslim League.",
+      "urdu": "لاہور قرارداد آل انڈیا مسلم لیگ کے ______ سالانہ اجلاس میں منظور کی گئی؟",
+      "options": [
+        "27th",
+        "21th",
+        "37th",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span jameel=\"\" mso-bidi-language:er\"=\"\" nastaleeq\";=\"\" noori=\"\" style=\"font-family:\"><span style=\"font-weight: bold; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 01-09-2026</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which device is attached to a computer to provide backup power during a power failure and help prevent loss of unsaved data?",
+      "urdu": "بجلی کی بندش کے دوران بیک اَپ بجلی فراہم کرنے اور غیر محفوظ شدہ ڈیٹا کے ضائع ہونے سے بچانے کے لیے کمپیوٹر کے ساتھ کون سا آلہ منسلک کیا جاتا ہے؟",
+      "options": [
+        "CPU",
+        "UPS",
+        "USB",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which shortcut key is used to start a presentation from the beginning in PowerPoint?",
+      "urdu": "پاورپوائنٹ میں شروع سے ہی پریزنٹیشن شروع کرنے کے لئے کون سی شارٹ کٹ کلید کا استعمال کیا جاتا ہے؟",
+      "options": [
+        "F1",
+        "F5",
+        "F4",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "FiFA world cup was arranged in Qatar from 20 November 2022 to _____?",
+      "urdu": "فیفا ورلڈ کپ قطر میں 20 نومبر 2022 سے _____ تک منعقد ہوا؟",
+      "options": [
+        "18 Dec 2022",
+        "30 Dec 2022",
+        "15 Dec 2020",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font><br/></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The period of 1947 to 1953 of Pakistan is known as era of _______?",
+      "urdu": "پاکستان میں 1947 سے 1953 تک کے دور کو کس عہد کا نام دیا جاتا ہے؟",
+      "options": [
+        "Neutrality",
+        "Alliances",
+        "Bilateralism",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What comes next in the following letter series? B, E, J, Q, Z, _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "K",
+        "L",
+        "M",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let's find the pattern in B, E, J, Q, Z, ?</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A password contains 1 integer, 1 letter, and 1 symbol. If there are 5 integers, 3 letters, and 2 symbols, how many passwords are possible?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "170",
+        "180",
+        "190",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Choices = 5 × 3 × 2 = 30</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "CNN stands for ____?",
+      "urdu": "سی این این کا مطلب کیا ہے؟",
+      "options": [
+        "Cable News Network",
+        "Commercial News Network",
+        "Common News Network",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Forests are only _____ of the total area of Pakistan.",
+      "urdu": "پاکستان کے کل رقبے کا صرف تقریباً کتنے فیصد حصہ جنگلات پر مشتمل ہے؟",
+      "options": [
+        "6.3%",
+        "8.4%",
+        "3.6%",
+        "4.8%"
+      ],
+      "correct": 3,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "\"PEMRA\" stands for what?",
+      "urdu": "پیمرا کا مطلب کیا ہے؟",
+      "options": [
+        "Pakistan Electronic Medium Regulatory Authority",
+        "Print and Electronic Media Regulatory Authority",
+        "Pakistan Electronic Media Regulatory Authority",
+        "Print and Electronic Media Regulatory Authority"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "NATO stands for ______?",
+      "urdu": "نیٹو کا مطلب کیا ہے؟",
+      "options": [
+        "North Atlantic Treaty Organization",
+        "No Action Till Order",
+        "North Africa Treaty Organization",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Kamala Harris and Joe Biden assume office?",
+      "urdu": "کمالا ہیرس اور جو بائیڈن نے کب اپنے عہدوں کا حلف اٹھایا؟",
+      "options": [
+        "20 January 2021",
+        "01 January 2021",
+        "01 February 2021",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Chief Minister (CM) of Gilgit-Baltistan (GB)?",
+      "urdu": "گلگت بلتستان (جی بی) کے موجودہ وزیر اعلیٰ کون ہیں؟",
+      "options": [
+        "Khalid Khurshid Khan",
+        "Yar Muhammad",
+        "Amjad Hussain Azar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><a href=\"https://en.wikipedia.org/wiki/Amjad_Hussain_Azar\" style=\"\" target=\"_blank\"><b><font color=\"#ff00ff\">Click here for reference</font></b></a></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Freebooter is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pirate",
+        "Soldier",
+        "Farmer",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Balmy is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cold",
+        "Pleasant",
+        "Harsh",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sulah-e-Hudaibiya was signed for how many years?",
+      "urdu": "صلح حدیبیہ کے معاہدے کے مطابق دونوں فریقوں کے درمیان جنگ کا معاہدہ کتنے سال کے لیے کیا گیا؟",
+      "options": [
+        "5",
+        "10",
+        "7",
+        "3"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which two Prophets (A.S.) were granted Prophethood at a young age?",
+      "urdu": "کون سے دو انبیاء کرام علیہم السلام کو کم عمری میں نبوت عطا کی گئی؟",
+      "options": [
+        "Hazrat Yahya (A.S.) and Hazrat Isa (A.S.)",
+        "Hazrat Musa (A.S.) and Hazrat Ibrahim (A.S.)",
+        "Hazrat Yusuf (A.S.) and Hazrat Yunus (A.S.)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the biggest/largest industry of Pakistan?",
+      "urdu": "پاکستان کی سب سے بڑی صنعت کون سی ہے؟",
+      "options": [
+        "Textile",
+        "Agriculture",
+        "Pottery",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One card is drawn from a standard deck of 52 cards. What is the probability of drawing an Ace?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/13",
+        "1/4",
+        "4/13",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">There are 4 Aces in a deck of 52 cards.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next number: 3, 8, 18, 38, 78, _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "148",
+        "158",
+        "168",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"173\" data-start=\"103\"><font color=\"#0000ff\"><b>Pattern: Multiply by <span data-end=\"156\" data-start=\"151\">2</span> and add <span data-end=\"170\" data-start=\"165\">2</span>.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A fair die is rolled once. What is the probability of getting an even number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Even numbers are 2, 4, 6 → 3 favorable outcomes out of 6.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He cannot help me _____ he was poor.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Because",
+        "Therefore",
+        "Although",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Last night, I met a person _____ was very poor.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Which",
+        "Who",
+        "Whom",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "We want to _____ him.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Help",
+        "Helping",
+        "Helped",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is an other name for Junk Email?",
+      "urdu": "جنک ای میل کا دوسرا نام کیا ہے؟",
+      "options": [
+        "Spoof",
+        "Spill",
+        "Spam",
+        "Spat"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a top-level domain?",
+      "urdu": "درج ذیل میں سے کون سا ٹاپ لیول ڈومین ہے؟",
+      "options": [
+        ".com",
+        "Http",
+        "HTML",
+        "URL"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The shortcut key to saving any document in MS Office is?",
+      "urdu": "ایم ایس آفس میں کسی بھی دستاویز کو محفوظ کرنے کی شارٹ کٹ کلید ہے؟",
+      "options": [
+        "Ctrl+S",
+        "Ctrl+V",
+        "Ctrl+C",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><span style=\"font-family: Helvetica; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Additional information</font></span><span style=\"font-family: Helvetica; background-color: rgb(255, 255, 255); color: rgb(0, 0, 255);\">:</span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Islamic month Pakistan was founded ?",
+      "urdu": "پاکستان کس اسلامی مہینے میں قائم ہوا؟",
+      "options": [
+        "Ramzan",
+        "Muharram",
+        "Safr",
+        "Rajab"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 255, 255); font-weight: 700; background-color: rgb(255, 0, 0);\">Last updated by NA on 25-April-2026</span><b style=\"\"><font color=\"#9c00ff\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which keyboard shortcut key is used to edit the formula or the selected cell in MS Excel?",
+      "urdu": "ایم ایس ایکسل میں فارمولا یا منتخب سیل کو ایڈٹ کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "F2",
+        "F4",
+        "CTRL + 1",
+        "CRTL + F"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
     }
   ]
 }
