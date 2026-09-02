@@ -3,10 +3,582 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-02T11:54:27.942693",
+    "fetched_at": "2026-09-02T16:57:11.559109",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Name the country that attacked Ukraine with ballistic missiles and drones in September 2026?",
+      "urdu": "اس ملک کا نام بتائیں جس نے ستمبر 2026 میں بیلسٹک میزائلوں اور ڈرونز کے ذریعے یوکرین پر حملہ کیا؟",
+      "options": [
+        "Israel",
+        "USA",
+        "Russia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On September 1–2, 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russian </font><font color=\"#0000ff\">forces launched another major wave of drone and missile attacks against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukraine</font><font color=\"#0000ff\">, including a prolonged assault on </font><font color=\"#ff0000\">Kyiv </font><font color=\"#0000ff\">and strikes on Odesa, Dnipro, and other regions.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is Pakistan scheduled to host the SCO summit in 2027?",
+      "urdu": "پاکستان 2027 میں ایس سی او  سربراہی اجلاس کی میزبانی کہاں کرے گا؟",
+      "options": [
+        "Lahore",
+        "Karachi",
+        "Islamabad",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In September 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">assumed the chairmanship of the Shanghai Cooperation Organisation (SCO)) for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2027-28</font><font color=\"#0000ff\"> term.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "As of September 2026, which two countries are involved in a major military escalation?",
+      "urdu": "ستمبر 2026 تک، کون سے دو ممالک بڑے پیمانے پر فوجی کشیدگی میں ملوث ہیں؟",
+      "options": [
+        "India & Pakistan",
+        "South Korea & South Korea",
+        "US and Iran",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><b style=\"\"><font color=\"#0000ff\">As of September 2026, the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United States and Iran</font><font color=\"#0000ff\"> are involved in a major military escalation following a fresh exchange of airstrikes and retaliatory attacks.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country launched another major wave of attacks against Ukraine in September 2026?",
+      "urdu": "کس ملک نے ستمبر 2026 میں یوکرین کے خلاف حملوں کی ایک اور بڑی لہر شروع کی؟",
+      "options": [
+        "Belarus",
+        "Poland",
+        "Russia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 107%;\"><b><font color=\"#0000ff\">On September 1–2, 2026,\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russian </font><font color=\"#0000ff\">forces launched another major wave of drone and missile attacks against\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukraine</font><font color=\"#0000ff\">, including a prolonged assault on Kyiv and strikes on Odesa, Dnipro,\r\nand other regions. <o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Ukrainian city experienced a prolonged Russian aerial assault in September 2026?",
+      "urdu": "ستمبر 2026 میں یوکرین کے کس شہر کو روسی فضائی حملوں کے طویل سلسلے کا سامنا کرنا پڑا؟",
+      "options": [
+        "Kyiv",
+        "Uzhhorod",
+        "Vinnytsia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On September 1–2, 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russian </font><font color=\"#0000ff\">forces launched another major wave of drone and missile attacks against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukraine</font><font color=\"#0000ff\">, including a prolonged assault on </font><font color=\"#ff0000\">Kyiv </font><font color=\"#0000ff\">and strikes on Odesa, Dnipro, and other regions.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "As of September 2026, which country is involved in a major military escalation with Iran?",
+      "urdu": "ستمبر 2026 تک، کون سا ملک ایران کے ساتھ بڑے پیمانے پر فوجی کشیدگی میں ملوث ہے؟",
+      "options": [
+        "Afghanistan",
+        "Pakistan",
+        "USA",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 107%;\"><b><font color=\"#0000ff\">As of </font><font color=\"#ff0000\">September 2026</font><font color=\"#0000ff\">, the\r\ncountry involved in the major military escalation with </font>Iran <font color=\"#0000ff\">is the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United\r\nStates (U.S.).</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country assumed the chairmanship of the Shanghai Cooperation Organisation for 2027-28 term?",
+      "urdu": "کس ملک نے 2027 اور 2028 کی مدت کے لیے شنگھائی تعاون تنظیم کی صدارت سنبھالی؟",
+      "options": [
+        "India",
+        "China",
+        "Pakistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In September 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">assumed the chairmanship of the Shanghai Cooperation Organisation (SCO)) for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2027-28</font><font color=\"#0000ff\"> term.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan has assumed the chairmanship of the Shanghai Cooperation Organisation for which term?",
+      "urdu": "پاکستان نے شنگھائی تعاون تنظیم کی صدارت کس مدت کے لیے سنبھالی ہے؟",
+      "options": [
+        "2025-26",
+        "2026-27",
+        "2027-28",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">In September 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">assumed the chairmanship of the Shanghai Cooperation Organisation (SCO)) for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2027-28</font><font color=\"#0000ff\"> term.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which three countries strengthened their defence cooperation under the Makkah framework in 2026?",
+      "urdu": "دو ہزار چھبیس میں مکہ فریم ورک کے تحت کن تین ممالک نے اپنے دفاعی تعاون کو مضبوط کیا؟",
+      "options": [
+        "Pakistan, Iran and Turkey",
+        "Pakistan, Saudi Arabia and Turkey",
+        "Pakistan, UAE and Qatar",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "WASA stands for?",
+      "urdu": "واسا کا مطلب کیا ہے؟",
+      "options": [
+        "Water and Social Agency",
+        "Water Supply Agency",
+        "Water and Sanitation Agency",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "NHA is the abbreviation of _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Natural Highway Authority",
+        "National Highway Authority",
+        "New Highway Authority",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#00ff00\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "CTRL + S is the shortcut key for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "New",
+        "Bold",
+        "Save",
+        "Copy"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of Ctrl + Shift + L in MS Word?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Insert a table",
+        "Apply bullet points",
+        "Save the document",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a route of A, B, C, and D, who reached last if A reaches before B, B reaches before D, and C also reaches before D?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "D",
+        "B",
+        "A",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">A comes before B.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which cell is without a vacuole?",
+      "urdu": "کون سا خلیہ ویکیول کے بغیر ہوتا ہے؟",
+      "options": [
+        "Guard cells",
+        "Meristematic cells",
+        "Mature cells",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Russia launched a war against Ukraine in?",
+      "urdu": "روس نے یوکرین کے خلاف جنگ کب شروع کی؟",
+      "options": [
+        "22 January 2022",
+        "22 March 2022",
+        "22 May 2022",
+        "24 February 2022"
+      ],
+      "correct": 3,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "|3| − |−3| − 2² − |−3²| = ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">|3| = 3, |−3| = 3, and 2² = 4.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the simplified ratio of 20 : 6?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10 : 3",
+        "5 : 3",
+        "4 : 3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">HCF of 20 and 6 = 2.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the simplified ratio of 35 : 63?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5 : 9",
+        "7 : 9",
+        "5 : 7",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The HCF of 35 and 63 is 7.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ahmadis were declared Non-Muslims in _______?",
+      "urdu": "احمدیوں کو غیر مسلم کب قرار دیا گیا؟",
+      "options": [
+        "1975",
+        "1974",
+        "1976",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "“Divine Decree” refers to?",
+      "urdu": "حکم الٰہی کیا مراد ہے؟",
+      "options": [
+        "Qadar",
+        "Zakat",
+        "Sawm",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the name of Hazrat Aminah's (RA) father?",
+      "urdu": "حضرت آمنہؓ کے والد کا نام کیا تھا؟",
+      "options": [
+        "Wahb ibn Abd Manaf",
+        "Hashim",
+        "Abdul Muttalib",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the verbal meaning of \"Zakat\"?",
+      "urdu": "زکوٰۃ کا لفظی معنی کیا ہے؟",
+      "options": [
+        "Purification",
+        "Prayer",
+        "Fasting",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A father is 6 times as old as his son. After 6 years, the father's age will be 72. What is the age of his son now?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "11 years",
+        "12 years",
+        "13 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Father’s current age = 72 − 6 = 66 years.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Statements: Doctors are not illiterate. Sana is illiterate. Conclusion?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sana is a doctor",
+        "Sana is not a doctor",
+        "All doctors are illiterate",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The statement “Doctors are not illiterate” means all doctors are literate.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two trains are moving in opposite directions at speeds of 50 km/hour and 100 km/hour. What is their relative speed?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50 km/hour",
+        "100 km/hour",
+        "150 km/hour",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"\"><font color=\"#0000ff\" face=\"Helvetica\"><span style=\"font-size: 16px;\"><b>For objects moving in opposite directions, relative speed = sum of their speeds.</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "|-2| = ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Absolute value represents the distance from zero.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mobile phone ______ when I was taking a bath.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Has rung",
+        "Rings",
+        "Was ringing",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest/biggest ocean of the world is ______?",
+      "urdu": "دنیا کا سب سے بڑا سمندر کونسا ہے؟",
+      "options": [
+        "Atlantic",
+        "Pacific",
+        "Indian",
+        "Arctic"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which organ purifies our blood?",
+      "urdu": "کون سا عضو ہمارے خون کو صاف کرتا ہے؟",
+      "options": [
+        "Haert",
+        "Kidney",
+        "Lungs",
+        "Tissue"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If an item is Rs. 150 after a 25% discount, what is the original price of the item?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 180",
+        "Rs. 190",
+        "Rs. 200",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">After a 25% discount, the selling price is 75% of the original price.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Microsoft Excel, what is the purpose of conditional formatting?",
+      "urdu": "مائیکروسافٹ ایکسل میں ، مشروط فارمیٹنگ کا مقصد کیا ہے؟",
+      "options": [
+        "To apply formatting based on specified criteria or rules.",
+        "To create custom functions for complex calculations.",
+        "To sort data in alphabetical or numerical order.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A collection of raw facts and figure is called _____?",
+      "urdu": "خام حقائق اور اعداد و شمار کے مجموعے کو کیا کہتے ہیں؟",
+      "options": [
+        "Information",
+        "Data",
+        "Processing",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "PAEC is the abbreviation of ____?",
+      "urdu": "پی اے سی سی کا مخفف کیا ہے؟",
+      "options": [
+        "Pakistan Atomic Energy Conference",
+        "Pakistan Atomic Energy Commission",
+        "Pakistan Agriculture Efficiency Commission",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul><li><span style=\"font-size: 0.875rem;\"><b><font color=\"#ff0000\">PAEC</font><font color=\"#0000ff\"> stands for </font><font color=\"#ff0000\">Pakistan Atomic Energy Commission</font><font color=\"#0000ff\">.</font></b></span></li><li><span style=\"font-size: 0.875rem;\"><b><font color=\"#0000ff\">It was established in </font><font color=\"#ff0000\">March 1956</font><font color=\"#0000ff\"> by </font><font color=\"#ff0000\">Prime Minister Huseyn Suhrawardy</font><font color=\"#0000ff\">.</font></b></span></li><li><b><font color=\"#ff0000\">Nazir Ahmad</font><font color=\"#0000ff\">, an experimental physicist, was appointed its </font><font color=\"#ff0000\">first Chairman</font><font color=\"#0000ff\">.</font></b></li><li><b><font color=\"#ff0000\">PAEC</font><font color=\"#0000ff\"> is responsible for promoting </font><font color=\"#ff0000\">the peaceful applications of nuclear technology</font><font color=\"#0000ff\"> in Pakistan.</font></b></li></ul><p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p></p>",
+      "category": "all"
+    },
+    {
+      "q": "PR stands for?",
+      "urdu": "پی آر کا مطلب کیا ہے؟",
+      "options": [
+        "Public Relations",
+        "Personal Relations",
+        "Public Reporting",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pak-Afghan border 'Durand Line' was drawn in ______?",
+      "urdu": "پاکستان-افغان سرحد ڈیورنڈ لائن کس سال کھینچی گئی؟",
+      "options": [
+        "1892",
+        "1890",
+        "1893",
+        "1957"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the capital of Azad Jammu and Kashmir?",
+      "urdu": "آزاد جموں و کشمیر کا دارالحکومت کون سا ہے؟",
+      "options": [
+        "Bagh",
+        "Skardu",
+        "Mirpur",
+        "Muzaffarabad"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Complete the sentence: Scarcely had it stopped raining _____ the sun came out.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "While",
+        "When",
+        "But",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Islamic jurisprudence, which principle refers to preventing an otherwise permissible act when it is likely to lead to a prohibited consequence?",
+      "urdu": "اسلامی فقہ میں اس اصول کو کیا کہتے ہیں جس کے تحت کسی جائز عمل کو اس وقت روکا جاتا ہے جب اس سے کسی حرام نتیجے کا امکان ہو؟",
+      "options": [
+        "Sadd al-Dhara’i",
+        "Istihsan",
+        "Ijma",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In computer security, what is the primary difference between hashing and encryption?",
+      "urdu": "کمپیوٹر سیکیورٹی میں ہیشنگ اور انکرپشن کے درمیان بنیادی فرق کیا ہے؟",
+      "options": [
+        "Hashing is reversible, while encryption is irreversible",
+        "Hashing is one-way, while encryption is reversible with a key",
+        "Both hashing and encryption are one-way processes",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which battle is generally regarded as the decisive battle that ended the political power of the Umayyads in Syria and established Abbasid dominance?",
+      "urdu": "کون سی جنگ عام طور پر فیصلہ کن جنگ سمجھی جاتی ہے جس نے شام میں امویوں کی سیاسی طاقت کا خاتمہ کیا اور عباسیوں کی حکمرانی قائم کی؟",
+      "options": [
+        "Battle of the Zab",
+        "Battle of Badr",
+        "Battle of Talas",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which principle of international law establishes that a treaty must be performed by its parties in good faith?",
+      "urdu": "بین الاقوامی قانون کا کون سا اصول یہ قرار دیتا ہے کہ معاہدے کے فریقین اسے نیک نیتی سے پورا کریں؟",
+      "options": [
+        "Pacta Sunt Servanda",
+        "Jus Cogens",
+        "Rebus Sic Stantibus",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A man invests an amount at compound interest. If the amount becomes 1.44 times the principal after two years, what is the annual rate of interest?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15%",
+        "20%",
+        "22%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula: Amount = Principal _ (1 + r/100)^n</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Perfunctory is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Normal",
+        "Done superficially",
+        "Blunt",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which constitutional institution in Pakistan is responsible for auditing the accounts of the Federation and Provinces?",
       "urdu": "پاکستان میں وفاق اور صوبوں کے حسابات کا آڈٹ کرنے کا ذمہ دار کون سا آئینی ادارہ ہے؟",
@@ -83,578 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is an alteration in the observed frequency of a sound due to motion of either the source or the observer?",
-      "urdu": "ذریعۂ آواز یا مشاہدہ کرنے والے کی حرکت کی وجہ سے آواز کی مشاہدہ شدہ فریکوئنسی میں تبدیلی کو کیا کہتے ہیں؟",
-      "options": [
-        "Doppler effect",
-        "Thermal effect",
-        "Diffraction effect",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Concurrent legislative list of the Constitution of Pakistan, 1973 was omitted by ______?",
-      "urdu": "آئینِ پاکستان 1973 کی مشترکہ قانون ساز فہرست کو کس ترمیم کے ذریعے ختم کیا گیا؟",
-      "options": [
-        "18th amendment",
-        "8th amendment",
-        "15th amendment",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Secretary General of OIC?",
-      "urdu": "او آئی سی کے موجودہ سیکریٹری جنرل کون ہیں؟",
-      "options": [
-        "Ismail Ould Cheikh Ahmed",
-        "Yousef bin Ahmad Al-Othaimeen",
-        "Hussein Ibrahim Taha",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Breach is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Obey",
-        "Mistrust",
-        "Encroach",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Breach means خلاف ورزی کرنا، اعتماد ، معاہدے ، یا قانون کی خلاف ورزی کے لئے</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is both an input and output device?",
-      "urdu": "مندرجہ ذیل میں سے کون سا ان پٹ اور آؤٹ پٹ آلہ ہے؟",
-      "options": [
-        "Modem",
-        "Touchscreen",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p>\n</p>",
-      "category": "all"
-    },
-    {
-      "q": "She _____ dinner when I called her.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cooked",
-        "Was cooking",
-        "Has cooked",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sara _____ English for three years, and she is now able to communicate confidently with foreign students.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Has learned",
-        "Has been learning",
-        "Learned",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "By the end of this month, the company _____ the construction of the new office building.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Has completed",
-        "Will complete",
-        "Will have completed",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Email stands for?",
-      "urdu": "ای میل کا مطلب کیا ہے؟",
-      "options": [
-        "Easy mail",
-        "Electronic mail",
-        "Electric mail",
-        "Eye mail"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who invented Telephone?",
-      "urdu": "ٹیلی فون کو کس نے ایجاد کیا؟",
-      "options": [
-        "Thomas Edison",
-        "Nikola Tesla",
-        "Alexander Graham Bell",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 31-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Acomodation, Accommodation, Accomodation, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Acomodation",
-        "Accommodation",
-        "Accomodation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is good ______ mathematics.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In",
-        "At",
-        "On",
-        "Into"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the chemical formula of Washing Soda?",
-      "urdu": "واشنگ سوڈا کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "NaHCO₃",
-        "Na₂SO₃",
-        "Na₂CO₃",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "NADRA stands for?",
-      "urdu": "نادرا کا مطلب کیا ہے؟",
-      "options": [
-        "National Database and Registration Authority",
-        "National Database and Registrar Authority",
-        "Nation Database and Registrar Authority",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span arial=\"\" black\";\"=\"\"><span style=\"font-weight: bolder; color: rgb(33, 37, 41);\"><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the length of border between Pakistan and China?",
-      "urdu": "پاکستان اور چین کے درمیان سرحد کی لمبائی کتنی ہے؟",
-      "options": [
-        "595 km",
-        "900 km",
-        "599 km (596)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Pakistan’s borders with neighbors</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "PIA stands for?",
-      "urdu": "پی آئی اے کا مطلب کیا ہے؟",
-      "options": [
-        "Pakistan International Airlines",
-        "Pakistan International Airport",
-        "Pak International Airlines",
-        "None of thesse"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan’s main export item is ______?",
-      "urdu": "پاکستان کی اہم برآمدی شے کون سی ہے؟",
-      "options": [
-        "Wood and furniture",
-        "Cotton and cotton manufactures",
-        "Wheat and flour",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-03-2026</font><br/></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who invented the Hot Air Balloon?",
-      "urdu": "گرم ہوا کا غبارہ (گرم ہوا کا غبارہ) کس نے ایجاد کیا؟",
-      "options": [
-        "Edison",
-        "Davy",
-        "Montgolfier",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Capital of Australia is _____?",
-      "urdu": "آسٹریلیا کا دارالحکومت کونسا شہر ہے؟",
-      "options": [
-        "Sydeny",
-        "Canberra",
-        "Perth",
-        "Melbron"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the currency of the country Bangladesh?",
-      "urdu": "بنگلہ دیش ملک کی کرنسی کون سی ہے؟",
-      "options": [
-        "Yen",
-        "Yuan",
-        "Dollar",
-        "Taka"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Bangladesh</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Taka</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "COP (Conference of the Parties) climate summit is organized under which international body?",
-      "urdu": "کانفرنس آف دی پارٹی کا ماحولیاتی سربراہی اجلاس کس بین الاقوامی ادارے کے تحت منعقد ہوتا ہے؟",
-      "options": [
-        "UNESCO",
-        "WHO",
-        "UNFCCC",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of SAARC located?",
-      "urdu": "سارک کا ہیڈ کوارٹر کس کہاں واقع ہے؟",
-      "options": [
-        "Katmandu, Nepal",
-        "Islamabad, Pakistan",
-        "Delhi, India",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country will host the G7 Summit 2026?",
-      "urdu": "جی سیون سمٹ 2026 کی میزبانی کونسا ملک کرے گا؟",
-      "options": [
-        "Canada",
-        "France",
-        "Italy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">About <font style=\"\">G7 Summit 2026</font></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which UN agency won the Nobel Peace Prize in the year 2020?",
-      "urdu": "سال 2020 میں اقوامِ متحدہ کے کس ادارے نے نوبیل امن انعام جیتا؟",
-      "options": [
-        "UNICEF",
-        "World Health Organization (WHO)",
-        "World Food Programme (WFP)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "USA and Taliban signed a historic peace agreement on 29th February 2020 in ______?",
-      "urdu": "امریکہ اور طالبان نے 29 فروری 2020 کو تاریخی امن معاہدہ کہاں پر دستخط کیا؟",
-      "options": [
-        "Turkey",
-        "Saudi Arabia",
-        "Qatar",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Direction Sense Problem: Lahore is not to the East of Karachi. Islamabad is to the North of Lahore. Peshawar is to the West of Islamabad. In which direction is Peshawar from Karachi?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "North-East",
-        "South-West",
-        "North-West",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Let's place them one by one:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a class of 100 students, 55 study Computer Science, 50 study Mathematics, and 10 study both subjects. How many students study neither subject?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "10",
-        "15",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Use the set formula: </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The sum of the ages of a father and his daughter is 50 years. If the father's age is 5 times the daughter's age, what are their current ages?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Father: 41.67 years, Daughter: 8.33 years",
-        "Father: 42.67 years, Daughter: 9.33 years",
-        "Father: 43.67 years, Daughter: 10.33 years",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let daughter age = x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 2.5% Zakat on an amount of Rs. 100,000?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 2,000",
-        "Rs. 2,500",
-        "Rs. 3,000",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">2.5% Zakat on Rs. 100,000 is Rs. 2,500. Am</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the relation between Prophet Ismail (A.S) and Prophet Ishaq (A.S)?",
-      "urdu": "حضرت اسماعیل علیہ السلام اور حضرت اسحاق علیہ السلام کے درمیان کیا تعلق تھا؟",
-      "options": [
-        "Brothers",
-        "Cousins",
-        "Prophet Ishaq (A.S) was father of Prophet Ismail (A.S)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idols in Kaba before Islam numbered?",
-      "urdu": "اسلام سے پہلے خانہ کعبہ میں کتنے بت موجود تھے؟",
-      "options": [
-        "360",
-        "260",
-        "330",
-        "300"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is it named to run between Safa and Marwa?",
-      "urdu": "صفا اور مروہ کے درمیان چلنے کو کیا نام دیا جائے؟",
-      "options": [
-        "Sayee",
-        "Rami",
-        "Hajjar-e-Aswad",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Social Boycott of Banu Hashim was continued for _____ years.",
-      "urdu": "بنو ہاشم کا سماجی بائیکاٹ کتنے سال تک جاری رہا؟",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "8"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many tribes of jews were there in Medina?",
-      "urdu": "مدینہ منورہ میں یہودیوں کے کتنے قبائل تھے؟",
-      "options": [
-        "3",
-        "2",
-        "5",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">There were </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> major </font><font color=\"#ff0000\">Jewish tribes</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Madinah</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which Surah the Holy Quran there is mention of Zulqarnain?",
-      "urdu": "ذوالقرنین کا ذکر قرآن پاک کی کس سورت میں ہے؟",
-      "options": [
-        "Surah An-Nur",
-        "Surah Noon",
-        "Surah Al Mujadala",
-        "Surah Al Kahaf"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">It is the </font><font color=\"#ff0000\">18th chapter</font><font color=\"#0000ff\"> of the Quran </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The four numbers in an IP address is called?",
-      "urdu": "آئی پی ایڈریس میں چار نمبروں کو  کیا کہا جاتا ہے؟",
-      "options": [
-        "Octal",
-        "Octets",
-        "Bytes",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How long is an IPv4?",
-      "urdu": "آئی پی ایڈریس ورژن 4 کی لمبائی کتنی ہوتی ہے؟",
-      "options": [
-        "64 bits",
-        "48 bits",
-        "32 bits",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Shortcut key to \"Save As\" file is?",
-      "urdu": "فائل کو \"سیو ایز\" کرنے کی شارٹ کٹ کی کیا ہے؟",
-      "options": [
-        "F4",
-        "F12",
-        "F1",
-        "F2"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary function of the F11 key in most web browsers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Open the browser's settings menu",
-        "Toggle full-screen mode",
-        "Refresh the current page",
-        "Open a new tab"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "NTC stands for?",
-      "urdu": "این ٹی سی کا مطلب کیا ہے؟",
-      "options": [
-        "National Telecommunication Corporation",
-        "National Telecommunication Company",
-        "National Telegram Corporation",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "URL has an abbreviation of?",
-      "urdu": "یو آر ایل کا مکمل نام کیا ہے؟",
-      "options": [
-        "Uniform Resource Locator",
-        "Universal Resource Link",
-        "Uniform Reference Link",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>Used:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "DNA is the abbreviation of _______?",
-      "urdu": "ڈی این اے ______ کا مخفف ہے؟",
-      "options": [
-        "Decomposednucleic Acid",
-        "Degeneratenucleic Acid",
-        "Deoxyribonucleic Acid",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following gas mainly responsible for ozone layer depletion?",
-      "urdu": "مندرجہ ذیل میں سے کون سی گیس بنیادی طور پر اوزون کی تہہ کی کمی کے لیے ذمہ دار ہے؟",
-      "options": [
-        "Chlorofluorocarbon/Freon",
-        "CO2",
-        "Nitrogen oxide",
-        "Sulphur dioxide"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What organ produces bile?",
-      "urdu": "بائل (پتّہ) کون سا عضو بناتا ہے؟",
-      "options": [
-        "Gall bladder",
-        "Kidneys",
-        "Liver",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
       "category": "all"
     }
   ]
