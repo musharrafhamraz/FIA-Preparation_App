@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-02T05:26:15.120113",
+    "fetched_at": "2026-09-02T11:54:27.942693",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "Which constitutional institution in Pakistan is responsible for auditing the accounts of the Federation and Provinces?",
+      "urdu": "پاکستان میں وفاق اور صوبوں کے حسابات کا آڈٹ کرنے کا ذمہ دار کون سا آئینی ادارہ ہے؟",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Federal Public Service Commission",
+        "Election Commission of Pakistan",
+        "Auditor-General of Pakistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Muslim scholar is most closely associated with the systematic formulation of the principles of “Ilm al-Jarh wa al-Ta'dil” used in evaluating narrators of Hadith?",
+      "urdu": "احادیث کے راویوں کی جانچ کے لیے علم الجرح والتعدیل کے اصولوں کو منظم انداز میں مرتب کرنے سے سب سے زیادہ کس مسلمان عالم کا تعلق ہے؟",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Yahya ibn Ma'in",
+        "Imam Malik",
+        "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "In the OSI model, which layer is primarily responsible for logical addressing and routing packets between networks?",
+      "urdu": "او ایس آئی ماڈل میں کون سی لئیر منطقی ایڈریسنگ اور مختلف نیٹ ورکس کے درمیان پیکٹس کی روٹنگ کی ذمہ دار ہوتی ہے؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Network Layer",
+        "Data Link Layer",
+        "Transport Layer",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 40% of a number exceeds 25% of the same number by 45, what is the number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Difference = 40% − 25% = 15%.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the statement is “If P, then Q,” which expression represents its contrapositive?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "If Q, then P",
+        "If not P, then not Q",
+        "If not Q, then not P",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">The contrapositive of “If P, then Q” is “</font><font color=\"#ff0000\">If not Q, then not P.</font><font color=\"#0000ff\">”</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which reforms Muslims demand of separate electorate was incorporated/introduced?",
+      "urdu": "کن اصلاحات میں مسلمانوں کے الگ الیکٹورٹ کا مطالبہ شامل کیا گیا تھا؟",
+      "options": [
+        "Minto-Hastings Reforms",
+        "Minto-Morley Reforms",
+        "Minto-Warren Reforms",
+        "Minto-Cornwallis Reforms"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is an alteration in the observed frequency of a sound due to motion of either the source or the observer?",
+      "urdu": "ذریعۂ آواز یا مشاہدہ کرنے والے کی حرکت کی وجہ سے آواز کی مشاہدہ شدہ فریکوئنسی میں تبدیلی کو کیا کہتے ہیں؟",
+      "options": [
+        "Doppler effect",
+        "Thermal effect",
+        "Diffraction effect",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Concurrent legislative list of the Constitution of Pakistan, 1973 was omitted by ______?",
+      "urdu": "آئینِ پاکستان 1973 کی مشترکہ قانون ساز فہرست کو کس ترمیم کے ذریعے ختم کیا گیا؟",
+      "options": [
+        "18th amendment",
+        "8th amendment",
+        "15th amendment",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Secretary General of OIC?",
+      "urdu": "او آئی سی کے موجودہ سیکریٹری جنرل کون ہیں؟",
+      "options": [
+        "Ismail Ould Cheikh Ahmed",
+        "Yousef bin Ahmad Al-Othaimeen",
+        "Hussein Ibrahim Taha",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Breach is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Obey",
+        "Mistrust",
+        "Encroach",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Breach means خلاف ورزی کرنا، اعتماد ، معاہدے ، یا قانون کی خلاف ورزی کے لئے</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is both an input and output device?",
+      "urdu": "مندرجہ ذیل میں سے کون سا ان پٹ اور آؤٹ پٹ آلہ ہے؟",
+      "options": [
+        "Modem",
+        "Touchscreen",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p>\n</p>",
+      "category": "all"
+    },
+    {
+      "q": "She _____ dinner when I called her.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cooked",
+        "Was cooking",
+        "Has cooked",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sara _____ English for three years, and she is now able to communicate confidently with foreign students.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Has learned",
+        "Has been learning",
+        "Learned",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "By the end of this month, the company _____ the construction of the new office building.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Has completed",
+        "Will complete",
+        "Will have completed",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Email stands for?",
+      "urdu": "ای میل کا مطلب کیا ہے؟",
+      "options": [
+        "Easy mail",
+        "Electronic mail",
+        "Electric mail",
+        "Eye mail"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who invented Telephone?",
+      "urdu": "ٹیلی فون کو کس نے ایجاد کیا؟",
+      "options": [
+        "Thomas Edison",
+        "Nikola Tesla",
+        "Alexander Graham Bell",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 31-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling: Acomodation, Accommodation, Accomodation, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Acomodation",
+        "Accommodation",
+        "Accomodation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is good ______ mathematics.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "At",
+        "On",
+        "Into"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the chemical formula of Washing Soda?",
+      "urdu": "واشنگ سوڈا کا کیمیائی فارمولا کیا ہے؟",
+      "options": [
+        "NaHCO₃",
+        "Na₂SO₃",
+        "Na₂CO₃",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "NADRA stands for?",
+      "urdu": "نادرا کا مطلب کیا ہے؟",
+      "options": [
+        "National Database and Registration Authority",
+        "National Database and Registrar Authority",
+        "Nation Database and Registrar Authority",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span arial=\"\" black\";\"=\"\"><span style=\"font-weight: bolder; color: rgb(33, 37, 41);\"><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the length of border between Pakistan and China?",
+      "urdu": "پاکستان اور چین کے درمیان سرحد کی لمبائی کتنی ہے؟",
+      "options": [
+        "595 km",
+        "900 km",
+        "599 km (596)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">Pakistan’s borders with neighbors</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "PIA stands for?",
+      "urdu": "پی آئی اے کا مطلب کیا ہے؟",
+      "options": [
+        "Pakistan International Airlines",
+        "Pakistan International Airport",
+        "Pak International Airlines",
+        "None of thesse"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan’s main export item is ______?",
+      "urdu": "پاکستان کی اہم برآمدی شے کون سی ہے؟",
+      "options": [
+        "Wood and furniture",
+        "Cotton and cotton manufactures",
+        "Wheat and flour",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-03-2026</font><br/></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who invented the Hot Air Balloon?",
+      "urdu": "گرم ہوا کا غبارہ (گرم ہوا کا غبارہ) کس نے ایجاد کیا؟",
+      "options": [
+        "Edison",
+        "Davy",
+        "Montgolfier",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Capital of Australia is _____?",
+      "urdu": "آسٹریلیا کا دارالحکومت کونسا شہر ہے؟",
+      "options": [
+        "Sydeny",
+        "Canberra",
+        "Perth",
+        "Melbron"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the currency of the country Bangladesh?",
+      "urdu": "بنگلہ دیش ملک کی کرنسی کون سی ہے؟",
+      "options": [
+        "Yen",
+        "Yuan",
+        "Dollar",
+        "Taka"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Bangladesh</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Taka</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "COP (Conference of the Parties) climate summit is organized under which international body?",
+      "urdu": "کانفرنس آف دی پارٹی کا ماحولیاتی سربراہی اجلاس کس بین الاقوامی ادارے کے تحت منعقد ہوتا ہے؟",
+      "options": [
+        "UNESCO",
+        "WHO",
+        "UNFCCC",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of SAARC located?",
+      "urdu": "سارک کا ہیڈ کوارٹر کس کہاں واقع ہے؟",
+      "options": [
+        "Katmandu, Nepal",
+        "Islamabad, Pakistan",
+        "Delhi, India",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country will host the G7 Summit 2026?",
+      "urdu": "جی سیون سمٹ 2026 کی میزبانی کونسا ملک کرے گا؟",
+      "options": [
+        "Canada",
+        "France",
+        "Italy",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">About <font style=\"\">G7 Summit 2026</font></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which UN agency won the Nobel Peace Prize in the year 2020?",
+      "urdu": "سال 2020 میں اقوامِ متحدہ کے کس ادارے نے نوبیل امن انعام جیتا؟",
+      "options": [
+        "UNICEF",
+        "World Health Organization (WHO)",
+        "World Food Programme (WFP)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "USA and Taliban signed a historic peace agreement on 29th February 2020 in ______?",
+      "urdu": "امریکہ اور طالبان نے 29 فروری 2020 کو تاریخی امن معاہدہ کہاں پر دستخط کیا؟",
+      "options": [
+        "Turkey",
+        "Saudi Arabia",
+        "Qatar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Direction Sense Problem: Lahore is not to the East of Karachi. Islamabad is to the North of Lahore. Peshawar is to the West of Islamabad. In which direction is Peshawar from Karachi?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "North-East",
+        "South-West",
+        "North-West",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Let's place them one by one:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a class of 100 students, 55 study Computer Science, 50 study Mathematics, and 10 study both subjects. How many students study neither subject?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Use the set formula: </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The sum of the ages of a father and his daughter is 50 years. If the father's age is 5 times the daughter's age, what are their current ages?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Father: 41.67 years, Daughter: 8.33 years",
+        "Father: 42.67 years, Daughter: 9.33 years",
+        "Father: 43.67 years, Daughter: 10.33 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let daughter age = x</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 2.5% Zakat on an amount of Rs. 100,000?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 2,000",
+        "Rs. 2,500",
+        "Rs. 3,000",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">2.5% Zakat on Rs. 100,000 is Rs. 2,500. Am</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the relation between Prophet Ismail (A.S) and Prophet Ishaq (A.S)?",
+      "urdu": "حضرت اسماعیل علیہ السلام اور حضرت اسحاق علیہ السلام کے درمیان کیا تعلق تھا؟",
+      "options": [
+        "Brothers",
+        "Cousins",
+        "Prophet Ishaq (A.S) was father of Prophet Ismail (A.S)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idols in Kaba before Islam numbered?",
+      "urdu": "اسلام سے پہلے خانہ کعبہ میں کتنے بت موجود تھے؟",
+      "options": [
+        "360",
+        "260",
+        "330",
+        "300"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is it named to run between Safa and Marwa?",
+      "urdu": "صفا اور مروہ کے درمیان چلنے کو کیا نام دیا جائے؟",
+      "options": [
+        "Sayee",
+        "Rami",
+        "Hajjar-e-Aswad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Social Boycott of Banu Hashim was continued for _____ years.",
+      "urdu": "بنو ہاشم کا سماجی بائیکاٹ کتنے سال تک جاری رہا؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "8"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many tribes of jews were there in Medina?",
+      "urdu": "مدینہ منورہ میں یہودیوں کے کتنے قبائل تھے؟",
+      "options": [
+        "3",
+        "2",
+        "5",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">There were </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> major </font><font color=\"#ff0000\">Jewish tribes</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">Madinah</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Surah the Holy Quran there is mention of Zulqarnain?",
+      "urdu": "ذوالقرنین کا ذکر قرآن پاک کی کس سورت میں ہے؟",
+      "options": [
+        "Surah An-Nur",
+        "Surah Noon",
+        "Surah Al Mujadala",
+        "Surah Al Kahaf"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">It is the </font><font color=\"#ff0000\">18th chapter</font><font color=\"#0000ff\"> of the Quran </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The four numbers in an IP address is called?",
+      "urdu": "آئی پی ایڈریس میں چار نمبروں کو  کیا کہا جاتا ہے؟",
+      "options": [
+        "Octal",
+        "Octets",
+        "Bytes",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How long is an IPv4?",
+      "urdu": "آئی پی ایڈریس ورژن 4 کی لمبائی کتنی ہوتی ہے؟",
+      "options": [
+        "64 bits",
+        "48 bits",
+        "32 bits",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Shortcut key to \"Save As\" file is?",
+      "urdu": "فائل کو \"سیو ایز\" کرنے کی شارٹ کٹ کی کیا ہے؟",
+      "options": [
+        "F4",
+        "F12",
+        "F1",
+        "F2"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary function of the F11 key in most web browsers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Open the browser's settings menu",
+        "Toggle full-screen mode",
+        "Refresh the current page",
+        "Open a new tab"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "NTC stands for?",
+      "urdu": "این ٹی سی کا مطلب کیا ہے؟",
+      "options": [
+        "National Telecommunication Corporation",
+        "National Telecommunication Company",
+        "National Telegram Corporation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "URL has an abbreviation of?",
+      "urdu": "یو آر ایل کا مکمل نام کیا ہے؟",
+      "options": [
+        "Uniform Resource Locator",
+        "Universal Resource Link",
+        "Uniform Reference Link",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>Used:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "DNA is the abbreviation of _______?",
+      "urdu": "ڈی این اے ______ کا مخفف ہے؟",
+      "options": [
+        "Decomposednucleic Acid",
+        "Degeneratenucleic Acid",
+        "Deoxyribonucleic Acid",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following gas mainly responsible for ozone layer depletion?",
+      "urdu": "مندرجہ ذیل میں سے کون سی گیس بنیادی طور پر اوزون کی تہہ کی کمی کے لیے ذمہ دار ہے؟",
+      "options": [
+        "Chlorofluorocarbon/Freon",
+        "CO2",
+        "Nitrogen oxide",
+        "Sulphur dioxide"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What organ produces bile?",
+      "urdu": "بائل (پتّہ) کون سا عضو بناتا ہے؟",
+      "options": [
+        "Gall bladder",
+        "Kidneys",
+        "Liver",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
