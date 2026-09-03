@@ -3,10 +3,491 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-03T11:52:35.113345",
+    "fetched_at": "2026-09-03T16:51:17.230064",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which Ukrainian city experienced a prolonged Russian aerial assault in September 2026?",
+      "urdu": "ستمبر 2026 میں یوکرین کے کس شہر کو روسی فضائی حملوں کے طویل سلسلے کا سامنا کرنا پڑا؟",
+      "options": [
+        "Kyiv",
+        "Uzhhorod",
+        "Vinnytsia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On September 1–2, 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russian </font><font color=\"#0000ff\">forces launched another major wave of drone and missile attacks against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukraine</font><font color=\"#0000ff\">, including a prolonged assault on </font><font color=\"#ff0000\">Kyiv </font><font color=\"#0000ff\">and strikes on Odesa, Dnipro, and other regions.<o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What percentage is 80 out of 120?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50%",
+        "60%",
+        "66.67%",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula: (Part / Total) _ 100</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "FIFA stands for?",
+      "urdu": "فیفا کا مطلب کیا ہے؟",
+      "options": [
+        "Federal International Football Association",
+        "Federation Internationale de Football Association",
+        "Football International Federation Association",
+        "Federation of Independent Football Authorities"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan played the 2009 T20 World Cup final against which team?",
+      "urdu": "پاکستان نے 2009 کے ٹی ٹوئنٹی ورلڈ کپ کا فائنل کس ٹیم کے خلاف کھیلا؟",
+      "options": [
+        "India",
+        "Sri Lanka",
+        "England",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A collection of related data is called ____?",
+      "urdu": "متعلقہ ڈیٹا کے مجموعے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Database",
+        "Software",
+        "Hardware",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has received maximum Nobel Prizes after its institution?",
+      "urdu": "نوبیل انعام کے اجراء کے بعد سب سے زیادہ نوبیل انعام کس ملک نے حاصل کیے ہیں؟",
+      "options": [
+        "Germany",
+        "France",
+        "USA",
+        "U.K"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Top 5 Countries by Nobel Laureates</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is in the north west of Pakistan?",
+      "urdu": "پاکستان کے شمال مغرب میں کون سا ملک واقع ہ",
+      "options": [
+        "China",
+        "India",
+        "Iran",
+        "Afghanistan"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is situated in the east of Pakistan?",
+      "urdu": "پاکستان کے مشرق میں کون سا ملک واقع ہے؟",
+      "options": [
+        "India",
+        "China",
+        "Iran",
+        "Afghanistan"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Symbol\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following lies in the South of Pakistan?",
+      "urdu": "مندرجہ ذیل میں سے کون سا پاکستان کے جنوب میں واقع ہے؟",
+      "options": [
+        "Indian Ocean",
+        "China",
+        "Arabian Sea",
+        "Strait of Humoz"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Addtional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "WAN stands for?",
+      "urdu": "وان سے کیا مراد ہے؟",
+      "options": [
+        "Wide Area Network",
+        "Wireless Area Network",
+        "Web Area Network",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Solve: (2x + 3) / (x - 1) = 3",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Solve: (2x + 3) / (x - 1) = 3</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the sum of two numbers is 45 and their difference is 15, what are the two numbers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "35 and 10",
+        "25 and 20",
+        "30 and 15",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Sum: 30 + 15 = 45</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the total marks in Mathematics, Physics, and Chemistry are 84,000 and their ratio is 3 : 4 : 5, what are the marks in Physics?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "21,000",
+        "24,000",
+        "28,000",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Ratio of Math : Physics : Chemistry = 3 : 4 : 5</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the series; 3, 4, 7, 8, 11, 12, ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15",
+        "10",
+        "18",
+        "16"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">3+1 = 4</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Email is used for?",
+      "urdu": "ای میل کس مقصد کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Sending electronic messages",
+        "Browsing websites",
+        "Editing images",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the mode of the following data? 40, 45, 45, 50, 60",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Mode = the number that appears most often in the data.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Line of Control came into existence in _____?",
+      "urdu": "لائن آف کنٹرول کب وجود میں آئی؟",
+      "options": [
+        "1972",
+        "1949",
+        "1957",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Tashkent declaration between Pakistan and India was signed on?",
+      "urdu": "پاکستان اور بھارت کے درمیان معاہدہ تاشقند پر دستخط کب ہوئے؟",
+      "options": [
+        "10 January 1966",
+        "1 January 1965",
+        "15 January 1964",
+        "1 February 1966"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Signatories</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country won the FIFA World Cup 2022?",
+      "urdu": "فیفا ورلڈ کپ 2022 کس ملک نے جیتا؟",
+      "options": [
+        "Qatar",
+        "Russia",
+        "France",
+        "Argentina"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font><br/></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The currency of South Africa is ______?",
+      "urdu": "جنوبی افریقہ کی کرنسی کونسی ہے؟",
+      "options": [
+        "Rupee",
+        "Dinar",
+        "Rand",
+        "Dollar"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the common teaching in the four Divine Books?",
+      "urdu": "چار الہامی کتابوں کی مشترکہ تعلیم کیا ہے؟",
+      "options": [
+        "Political leadership",
+        "Oneness of Allah Almighty",
+        "Importance of wealth",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the Lahore Resolution (Pakistan Resolution) passed?",
+      "urdu": "قرارداد لاہور (قرارداد پاکستان) کب منظور ہوئی؟",
+      "options": [
+        "14 March 1945",
+        "23 March 1940",
+        "12 March 1948",
+        "28 March 1947"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Cold War primarily involved rivalry between _____?",
+      "urdu": "کولڈ وار بنیادی طور پر کس کے درمیان مقابلہ تھا؟",
+      "options": [
+        "USA and USSR",
+        "Europe and Asia",
+        "China and Japan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who introduced the Basic Democracy?",
+      "urdu": "بنیادی جمہوریت کو کس نے متعارف کرایا؟",
+      "options": [
+        "Liaquat Ali Khan",
+        "Ayoub Khan",
+        "Muhammad Ali Bogra",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one of the following is not landlocked country? Nepal, Myanmar, Bhutan, Switzerland",
+      "urdu": "مندرجہ ذیل میں سے کون سا ملک خشکی میں گھرا ہوا نہیں ہے؟",
+      "options": [
+        "Nepal",
+        "Myanmar",
+        "Bhutan",
+        "Switzerland"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the border between Pakistan and Afghanistan called?",
+      "urdu": "پاکستان اور افغانستان کے درمیان سرحد کو کیا کہتے ہیں؟",
+      "options": [
+        "Durand Line",
+        "Line of control",
+        "Free Line",
+        "Dukhtar Line"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"></p>",
+      "category": "all"
+    },
+    {
+      "q": "The prerequisite to be a Muslim is?",
+      "urdu": "مسلمان ہونے کے لیے بنیادی شرط کیا ہے؟",
+      "options": [
+        "Just recitation of Kalimah",
+        "Just understanding Kalimah",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many member countries are there in INTERPOL?",
+      "urdu": "انٹرپول کے کتنے رکن ممالک ہیں؟",
+      "options": [
+        "196",
+        "195",
+        "194",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Strait of Hormuz is located between?",
+      "urdu": "آبنائے ہرمز کن دو ممالک کے درمیان واقع ہے؟",
+      "options": [
+        "Black Sea and the Sea of Marmara",
+        "Atlantic Ocean and the Mediterranean Sea",
+        "Persian Gulf and Gulf of Oman",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\"></font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "LAN stands for _____?",
+      "urdu": "ایل اے این کا مطلب کیا ہے؟",
+      "options": [
+        "Limited Area Network",
+        "Logical Area Network",
+        "Local Area Network",
+        "Large Area Network"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which acid is produced in the gastric juice of the stomach to digest food?",
+      "urdu": "خوراک کو ہضم کرنے کے لیے معدے کے رس میں کون سا تیزاب پیدا ہوتا ہے؟",
+      "options": [
+        "Hydrochloric Acid",
+        "Nitric Acid",
+        "Sulphuric Acid",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the length of the border between Pakistan and Afghanistan?",
+      "urdu": "پاکستان اور افغانستان کے درمیان سرحد کی لمبائی کتنی ہے؟",
+      "options": [
+        "2611 km",
+        "2350 km",
+        "2282 km",
+        "2430 km"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Continent Australia is also known as?",
+      "urdu": "آسٹریلیا براعظم کو اور کس نام سے بھی جانا جاتا ہے؟",
+      "options": [
+        "Pacific",
+        "Oceania",
+        "Austria",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The book Hayat-i-Afghani was primarily written about?",
+      "urdu": "کتاب \"حیاتِ افغانی\" بنیادی طور پر کس کے بارے میں لکھی گئی تھی؟",
+      "options": [
+        "The Mughal Empire",
+        "The Pashtun tribes and Afghanistan",
+        "The Delhi Sultanate",
+        "The Ottoman Empire"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "APTMA stands for ______?",
+      "urdu": "اپٹما کا مطلب کیا ہے؟",
+      "options": [
+        "All Pakistan Textile Manufacturing Agency",
+        "All Pakistan Textile Merchants Association",
+        "All Pakistan Textile Mills Association",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "The number of ribs in a human body is?",
+      "urdu": "انسانی جسم میں پسلیوں کی تعداد کتنی ہوتی ہے؟",
+      "options": [
+        "23",
+        "26",
+        "24",
+        "22"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was Naval Exercise AMAN-2025 held?",
+      "urdu": "بحری مشق امان-2025 کہاں منعقد ہوئی؟",
+      "options": [
+        "Karachi, Pakistan",
+        "Islamabad, Pakistan",
+        "Lahore, Pakistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which is the Second pillar of Islam?",
       "urdu": "اسلام کا دوسرا ستون کون سا ہے؟",
@@ -175,487 +656,6 @@
       ],
       "correct": 0,
       "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 09-02-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Millinnium, Millennium, Milennium, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Millinnium",
-        "Millennium",
-        "Milennium",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Committe, Commettee, Committee, None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Committe",
-        "Commettee",
-        "Committee",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "She is afraid _____ the dog/darkness.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Off",
-        "Of",
-        "To",
-        "From"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the chemical formula of ammonia?",
-      "urdu": "امونیا کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "NH₃",
-        "NO₂",
-        "CH₄",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the chemical formula of quicklime?",
-      "urdu": "چونا کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "CaCO₃",
-        "CaO",
-        "Ca(OH)₂",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the common name of sodium bicarbonate (Na₂CO₃)?",
-      "urdu": "سوڈیم بائک کاربونیٹ کا مشترکہ نام کیا ہے؟",
-      "options": [
-        "Baking soda",
-        "Washing soda",
-        "Caustic soda",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The chemical formula of bleaching powder is?",
-      "urdu": "بلیچنگ پاؤڈر کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "CaCl₂",
-        "CaOCl₂",
-        "Ca(OH)₂",
-        "CaCO₃"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the chemical formula of vinegar?",
-      "urdu": "سرکے کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "CH₃COOH",
-        "NaCl",
-        "H₂SO₄",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the chemical formula of Baking Soda?",
-      "urdu": "بیکنگ سوڈا کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "NaCl",
-        "NaHCO₃",
-        "KCl",
-        "CaCO₃"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 03-09-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Chemical formula of Table/Common Salt is?",
-      "urdu": "ٹیبل نمک کا کیمیائی فارمولا کیا ہے؟",
-      "options": [
-        "NaCl",
-        "KCl",
-        "CaCl₂",
-        "MgSO₄"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is the smallest muscle in the human body?",
-      "urdu": "درج ذیل میں سے انسانی جسم کا سب سے چھوٹا پٹھا کون سا ہے؟",
-      "options": [
-        "Biceps",
-        "Stapedius",
-        "Sartorius",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is largest human cell in the body?",
-      "urdu": "انسانی جسم کا سب سے بڑا خلیہ کون سا ہے؟",
-      "options": [
-        "Ovum",
-        "Stem",
-        "Nerve",
-        "Fat"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest part of the human brain?",
-      "urdu": "انسانی دماغ کا سب سے بڑا حصہ کون سا ہے؟",
-      "options": [
-        "Encephalus",
-        "Cerebellum",
-        "Middle brain",
-        "Cerebrum"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest Artery in human body is called?",
-      "urdu": "انسانی جسم کی سب سے بڑی شریان کون سی ہے؟",
-      "options": [
-        "Pulmonary artery",
-        "Aorta",
-        "Carotid artery",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the shortest/smallest bone in human body?",
-      "urdu": "انسانی جسم کی سب سے چھوٹی ہڈی کون سی ہے؟",
-      "options": [
-        "Stapes",
-        "Tibia",
-        "Femur",
-        "Humerus"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the longest and the strongest bone in human body?",
-      "urdu": "انسانی جسم کی سب سے لمبی اور سب سے مضبوط ہڈی کون سا ہے؟",
-      "options": [
-        "Femur",
-        "Stapes",
-        "Tibia",
-        "Femur"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span arial=\"\" black\";\"=\"\" style=\"\"><b style=\"\"><span style=\"color: rgb(0, 0, 255);\"> </span></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the largest internal organ of human body?",
-      "urdu": "انسانی جسم کا سب سے بڑا اندرونی عضو کونسا ہے؟",
-      "options": [
-        "Kidney",
-        "Lungs",
-        "Liver",
-        "Brain"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "BCC stands for _____?",
-      "urdu": "بی سی سی کا مطلب کیا ہے؟",
-      "options": [
-        "Basic Carbon Copy",
-        "Blind Carbon Copy",
-        "Business Carbon Copy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which internal CPU storage units are the fastest, used for intermediate processing of instructions?",
-      "urdu": "سی پی یو کے اندر موجود کون سے اسٹوریج یونٹس سب سے تیز ہوتے ہیں اور ہدایات کی درمیانی پروسیسنگ کے لیے استعمال ہوتے ہیں؟",
-      "options": [
-        "RAM",
-        "Cache",
-        "Registers",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a volatile memory? RAM, ROM, Cache, Both A and C",
-      "urdu": "مندرجہ ذیل میں سے کون سی غیر مستحکم میموری ہے؟",
-      "options": [
-        "RAM",
-        "ROM",
-        "Cache",
-        "Both A and C"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, pressing the Enter key after typing in a cell moves the selection to?",
-      "urdu": "ایم ایس ایکسل میں کسی سیل میں ٹائپ کرنے کے بعد انٹر کی دبانے سے انتخاب کہاں منتقل ہوتا ہے؟",
-      "options": [
-        "The cell to the right",
-        "The cell directly above",
-        "The cell directly below",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which key cancels an active cell entry in MS Excel without saving the change?",
-      "urdu": "ایم ایس ایکسل میں فعال سیل کی انٹری کو تبدیلی محفوظ کیے بغیر منسوخ کرنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
-      "options": [
-        "Enter",
-        "Esc",
-        "Ctrl + S",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Islamabad was officially made the capital of Pakistan in _____?",
-      "urdu": "اسلام آباد کو سرکاری طور پر _____ میں پاکستان کا دارالحکومت بنایا گیا تھا؟",
-      "options": [
-        "July 14, 1967",
-        "August 14, 1967",
-        "June 14, 1967",
-        "September 14, 1967"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who invented Radio?",
-      "urdu": "ریڈیو کس نے ایجاد کیا؟",
-      "options": [
-        "Graham Bell",
-        "Thomas Edison",
-        "Marconi",
-        "Wright Brothers"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 12-08-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who invented the World Wide Web (WWW) with Robert Cailliau?",
-      "urdu": "ورلڈ وائیڈ ویب کو رابرٹ کیلِیو کے ساتھ کس نے ایجاد کیا؟",
-      "options": [
-        "Tom Burne",
-        "Tim Burner Lee",
-        "Fred Zuckerberg",
-        "Both a and b"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 24-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The light Bulb was invented by?",
-      "urdu": "لائٹ بلب کس نے ایجاد کیا تھا؟",
-      "options": [
-        "Newton",
-        "Archimedes",
-        "Thomas Edison",
-        "Einstein"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 03-09-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the currency of France?",
-      "urdu": "فرانس کی کرنسی کون سی ہے؟",
-      "options": [
-        "Dinar",
-        "Dollar",
-        "Euro",
-        "Rupee"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "Four candidates A, B, C, and D finish a race such that A reaches before B, B reaches before D, and C also reaches before D. Based only on this information, which candidate certainly does not finish last?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A",
-        "B",
-        "C",
-        "D"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">From the given information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The sum of the ages of a father and his daughter is 48 years. If the father's age is 5 times the daughter's age, what is the daughter's current age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "6 years",
-        "8 years",
-        "10 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Given: Father's age = 5 times daughter's age = 5x years</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the country that attacked Ukraine with ballistic missiles and drones in September 2026?",
-      "urdu": "اس ملک کا نام بتائیں جس نے ستمبر 2026 میں بیلسٹک میزائلوں اور ڈرونز کے ذریعے یوکرین پر حملہ کیا؟",
-      "options": [
-        "Israel",
-        "USA",
-        "Russia",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On September 1–2, 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russian </font><font color=\"#0000ff\">forces launched another major wave of drone and missile attacks against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukraine</font><font color=\"#0000ff\">, including a prolonged assault on </font><font color=\"#ff0000\">Kyiv </font><font color=\"#0000ff\">and strikes on Odesa, Dnipro, and other regions.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is Pakistan scheduled to host the SCO summit in 2027?",
-      "urdu": "پاکستان 2027 میں ایس سی او  سربراہی اجلاس کی میزبانی کہاں کرے گا؟",
-      "options": [
-        "Lahore",
-        "Karachi",
-        "Islamabad",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In September 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">assumed the chairmanship of the Shanghai Cooperation Organisation (SCO)) for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2027-28</font><font color=\"#0000ff\"> term.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "As of September 2026, which two countries are involved in a major military escalation?",
-      "urdu": "ستمبر 2026 تک، کون سے دو ممالک بڑے پیمانے پر فوجی کشیدگی میں ملوث ہیں؟",
-      "options": [
-        "India & Pakistan",
-        "South Korea & South Korea",
-        "US and Iran",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"\"><b style=\"\"><font color=\"#0000ff\">As of September 2026, the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United States and Iran</font><font color=\"#0000ff\"> are involved in a major military escalation following a fresh exchange of airstrikes and retaliatory attacks.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country launched another major wave of attacks against Ukraine in September 2026?",
-      "urdu": "کس ملک نے ستمبر 2026 میں یوکرین کے خلاف حملوں کی ایک اور بڑی لہر شروع کی؟",
-      "options": [
-        "Belarus",
-        "Poland",
-        "Russia",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 107%;\"><b><font color=\"#0000ff\">On September 1–2, 2026,\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russian </font><font color=\"#0000ff\">forces launched another major wave of drone and missile attacks against\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukraine</font><font color=\"#0000ff\">, including a prolonged assault on Kyiv and strikes on Odesa, Dnipro,\r\nand other regions. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Ukrainian city experienced a prolonged Russian aerial assault in September 2026?",
-      "urdu": "ستمبر 2026 میں یوکرین کے کس شہر کو روسی فضائی حملوں کے طویل سلسلے کا سامنا کرنا پڑا؟",
-      "options": [
-        "Kyiv",
-        "Uzhhorod",
-        "Vinnytsia",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On September 1–2, 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russian </font><font color=\"#0000ff\">forces launched another major wave of drone and missile attacks against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukraine</font><font color=\"#0000ff\">, including a prolonged assault on </font><font color=\"#ff0000\">Kyiv </font><font color=\"#0000ff\">and strikes on Odesa, Dnipro, and other regions.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "As of September 2026, which country is involved in a major military escalation with Iran?",
-      "urdu": "ستمبر 2026 تک، کون سا ملک ایران کے ساتھ بڑے پیمانے پر فوجی کشیدگی میں ملوث ہے؟",
-      "options": [
-        "Afghanistan",
-        "Pakistan",
-        "USA",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 107%;\"><b><font color=\"#0000ff\">As of </font><font color=\"#ff0000\">September 2026</font><font color=\"#0000ff\">, the\r\ncountry involved in the major military escalation with </font>Iran <font color=\"#0000ff\">is the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United\r\nStates (U.S.).</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country assumed the chairmanship of the Shanghai Cooperation Organisation for 2027-28 term?",
-      "urdu": "کس ملک نے 2027 اور 2028 کی مدت کے لیے شنگھائی تعاون تنظیم کی صدارت سنبھالی؟",
-      "options": [
-        "India",
-        "China",
-        "Pakistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In September 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">assumed the chairmanship of the Shanghai Cooperation Organisation (SCO)) for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2027-28</font><font color=\"#0000ff\"> term.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan has assumed the chairmanship of the Shanghai Cooperation Organisation for which term?",
-      "urdu": "پاکستان نے شنگھائی تعاون تنظیم کی صدارت کس مدت کے لیے سنبھالی ہے؟",
-      "options": [
-        "2025-26",
-        "2026-27",
-        "2027-28",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">In September 2026, </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">assumed the chairmanship of the Shanghai Cooperation Organisation (SCO)) for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2027-28</font><font color=\"#0000ff\"> term.</font></b></p>",
       "category": "all"
     }
   ]
