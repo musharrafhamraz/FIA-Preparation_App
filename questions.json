@@ -3,10 +3,88 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-02T21:24:51.225108",
+    "fetched_at": "2026-09-03T05:27:55.544355",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who invented Radio?",
+      "urdu": "ریڈیو کس نے ایجاد کیا؟",
+      "options": [
+        "Graham Bell",
+        "Thomas Edison",
+        "Marconi",
+        "Wright Brothers"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 12-08-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who invented the World Wide Web (WWW) with Robert Cailliau?",
+      "urdu": "ورلڈ وائیڈ ویب کو رابرٹ کیلِیو کے ساتھ کس نے ایجاد کیا؟",
+      "options": [
+        "Tom Burne",
+        "Tim Burner Lee",
+        "Fred Zuckerberg",
+        "Both a and b"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 24-06-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The light Bulb was invented by?",
+      "urdu": "لائٹ بلب کس نے ایجاد کیا تھا؟",
+      "options": [
+        "Newton",
+        "Archimedes",
+        "Thomas Edison",
+        "Einstein"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 03-09-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the currency of France?",
+      "urdu": "فرانس کی کرنسی کون سی ہے؟",
+      "options": [
+        "Dinar",
+        "Dollar",
+        "Euro",
+        "Rupee"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "Four candidates A, B, C, and D finish a race such that A reaches before B, B reaches before D, and C also reaches before D. Based only on this information, which candidate certainly does not finish last?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">From the given information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The sum of the ages of a father and his daughter is 48 years. If the father's age is 5 times the daughter's age, what is the daughter's current age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Given: Father's age = 5 times daughter's age = 5x years</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Name the country that attacked Ukraine with ballistic missiles and drones in September 2026?",
       "urdu": "اس ملک کا نام بتائیں جس نے ستمبر 2026 میں بیلسٹک میزائلوں اور ڈرونز کے ذریعے یوکرین پر حملہ کیا؟",
@@ -577,84 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which constitutional institution in Pakistan is responsible for auditing the accounts of the Federation and Provinces?",
-      "urdu": "پاکستان میں وفاق اور صوبوں کے حسابات کا آڈٹ کرنے کا ذمہ دار کون سا آئینی ادارہ ہے؟",
-      "options": [
-        "Federal Public Service Commission",
-        "Election Commission of Pakistan",
-        "Auditor-General of Pakistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Muslim scholar is most closely associated with the systematic formulation of the principles of “Ilm al-Jarh wa al-Ta'dil” used in evaluating narrators of Hadith?",
-      "urdu": "احادیث کے راویوں کی جانچ کے لیے علم الجرح والتعدیل کے اصولوں کو منظم انداز میں مرتب کرنے سے سب سے زیادہ کس مسلمان عالم کا تعلق ہے؟",
-      "options": [
-        "Imam Abu Hanifa",
-        "Imam Yahya ibn Ma'in",
-        "Imam Malik",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the OSI model, which layer is primarily responsible for logical addressing and routing packets between networks?",
-      "urdu": "او ایس آئی ماڈل میں کون سی لئیر منطقی ایڈریسنگ اور مختلف نیٹ ورکس کے درمیان پیکٹس کی روٹنگ کی ذمہ دار ہوتی ہے؟",
-      "options": [
-        "Network Layer",
-        "Data Link Layer",
-        "Transport Layer",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 40% of a number exceeds 25% of the same number by 45, what is the number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "200",
-        "250",
-        "300",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Difference = 40% − 25% = 15%.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the statement is “If P, then Q,” which expression represents its contrapositive?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "If Q, then P",
-        "If not P, then not Q",
-        "If not Q, then not P",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">The contrapositive of “If P, then Q” is “</font><font color=\"#ff0000\">If not Q, then not P.</font><font color=\"#0000ff\">”</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which reforms Muslims demand of separate electorate was incorporated/introduced?",
-      "urdu": "کن اصلاحات میں مسلمانوں کے الگ الیکٹورٹ کا مطالبہ شامل کیا گیا تھا؟",
-      "options": [
-        "Minto-Hastings Reforms",
-        "Minto-Morley Reforms",
-        "Minto-Warren Reforms",
-        "Minto-Cornwallis Reforms"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
       "category": "all"
     }
   ]
