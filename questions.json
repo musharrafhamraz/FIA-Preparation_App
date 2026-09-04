@@ -1,76 +1,661 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-04T16:41:39.372196",
+    "fetched_at": "2026-09-04T21:07:01.455085",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "The authorities took ______ measures after the situation became more serious.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
-      ],
-      "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Irrelevant",
+        "Appropriate",
+        "Accidental",
+        "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Who are Mu’allaf al-Qulub?",
+      "urdu": "مؤلفۃ القلوب کون ہیں؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
+        "People who migrated to Madinah",
+        "People who memorized the Quran",
+        "People whose hearts are to be reconciled or attracted toward Islam",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "Mount Everest's height is 29,028 feet. What is it's height in meters?",
+      "urdu": "ماؤنٹ ایورسٹ کی بلندی 29,028 فٹ ہے۔ یہ کتنے میٹر کے برابر ہے؟",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
+        "8848 m",
+        "8948 m",
+        "8748 m",
+        "None of these"
       ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If A1 = 2, A2 = 4, and A3 = 6, what is =SUM(A1:A3)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">=SUM(A1:A3) means add A1 + A2 + A3</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Word default alignment for a paragraph is _____?",
+      "urdu": "ایم ایس ورڈ میں پیراگراف کے لیے ڈیفالٹ الائنمنٹ _____ ہے؟",
+      "options": [
+        "Left alignment",
+        "Right alignment",
+        "Centered alignment",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"font-size: 0.875rem; color: rgb(0, 0, 255); font-family: Helvetica;\">In MS Word, the default alignment for a paragraph is</b><b style=\"font-size: 0.875rem; font-family: Helvetica;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Left (or Left-aligned)</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Extension of MS Word documents 2007 and later?",
+      "urdu": "ایم ایس ورڈ دستاویزات 2007 اور اس کے بعد کی توسیع کیا ہے؟",
+      "options": [
+        ".docs",
+        ".dos",
+        ".docx",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\" style=\"\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Exorbitant is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Reasonable",
+        "Moderate",
+        "Extortionate",
+        "Temperate"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the value of (2⁴⁰ / 2¹⁹) / 2¹³?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2⁸",
+        "2¹³",
+        "2¹⁹",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">When we divide numbers with same base we subtract the powers. </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "SIM stands for ______?",
+      "urdu": "سم کا مطلب کیا ہے؟",
+      "options": [
+        "Single in-line Module",
+        "Single in-Line Memory",
+        "Subscriber Identity Module",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "MNA stands for _______?",
+      "urdu": "ایم این اے کا مطلب کیا ہے؟",
+      "options": [
+        "Member of National Assembly",
+        "Media Networking Area",
+        "Multi-National Architecture",
+        "Medical Nurse Association"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does OGDCL stand for?",
+      "urdu": "او جی ڈی سی ایل سے کیا مراد ہے؟",
+      "options": [
+        "Oil and Gas Development Corporation Limited",
+        "Oil and Gas Development Company Limited",
+        "Oil and Gas Distribution Company Limited",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "DC stands for?",
+      "urdu": "ڈی سی سے کیا مراد ہے؟",
+      "options": [
+        "Direct Current",
+        "Direct Collector",
+        "District Controller",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 04-09-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where was the COP23 Climate Change Summit held?",
+      "urdu": "کوپ23 موسمیاتی تبدیلی کا سربراہی اجلاس کہاں منعقد ہوا؟",
+      "options": [
+        "Paris, France",
+        "Kyoto, Japan",
+        "Bonn, Germany",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Normal human body temperature 98.6°F corresponds to _______?",
+      "urdu": "عام طور پر انسانی جسم کا درجہ حرارت 98.6 فارنہائٹ _______ کے مساوی ہے؟",
+      "options": [
+        "55°C",
+        "42°C",
+        "37°C",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 100% of 200?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "100",
+        "200",
+        "250",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>100% means the whole amount.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "ROM stands for _____?",
+      "urdu": "روم کا مطلب کیا ہے؟",
+      "options": [
+        "Random Only Memory",
+        "Read Only Memory",
+        "Read Only Meaning",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which country Mount Judi (Cudi) also known as Mount Qardū exits?",
+      "urdu": "کس ملک میں ماؤنٹ جوڈی کو ماؤنٹ قارڈی کے نام سے بھی جانا جاتا ہے؟",
+      "options": [
+        "Turkey",
+        "Iraq",
+        "Egypt",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"font-family: Helvetica; font-size: 0.875rem;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-04-2026</font></b><font color=\"#0000ff\" face=\"Helvetica\"><b></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Farz are there in Ghusul?",
+      "urdu": "غسل میں کتنے فرض ہیں؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A unit of pressure is equal to 1 newton per square meter (N/m²) is known as?",
+      "urdu": "دباؤ کی وہ اکائی جو 1 نیوٹن فی مربع میٹر کے برابر ہو، کیا کہلاتی ہے؟",
+      "options": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Kelvin"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" style=\"font-weight: bold; background-color: rgb(255, 255, 0);\">Last verified on 17-06-2026</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the total length of Indus River?",
+      "urdu": "دریائے سندھ کی کل لمبائی کتنی ہے؟",
+      "options": [
+        "2514 km",
+        "3180 km",
+        "2900 km",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ff0000\"><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Additional information:</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Oslo is the Capital of Which Country?",
+      "urdu": "اوسلو کس ملک کا دارالحکومت ہے؟",
+      "options": [
+        "Algeria",
+        "Norway",
+        "Andorra",
+        "Brazil"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Norway</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Capital</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Oslo</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"><o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where did the Atlantic Ocean located?",
+      "urdu": "بحر اوقیانوس کہاں واقع ہے؟",
+      "options": [
+        "North and South America",
+        "North and South Canada",
+        "South Asia",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to Population, Pakistan is ________ largest country in the world.",
+      "urdu": "آبادی کے لحاظ سے پاکستان دنیا کا سب سے بڑا ملک ہے؟",
+      "options": [
+        "4th",
+        "5th",
+        "6th",
+        "7th"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Helvetica; font-weight: normal;\"><span style=\"color: rgb(0, 0, 255);\">Pakistan is the</span><span style=\"color: rgb(255, 0, 0);\"> world's fifth-</span><span style=\"color: rgb(0, 0, 255);\">most populous country.</span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which was the first capital of Islamic common wealth?",
+      "urdu": "اسلامی ریاست کا پہلا دارالحکومت کون سا تھا؟",
+      "options": [
+        "Madina",
+        "Makkah",
+        "Taif",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "OIC stands for _____?",
+      "urdu": "او آئی سی کا مطلب کیا ہے؟",
+      "options": [
+        "Organization of Islamic Cooperation",
+        "Organization of Islamic Coordination",
+        "Organization Upper Islamic Cooperation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(0, 0, 0); font-weight: 400;\"><font face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 10-05-2026</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "ASEAN stands for?",
+      "urdu": "آسیان کا مطلب کیا ہے؟",
+      "options": [
+        "Association of Southeast African Nations",
+        "Association of Southeast American Nations",
+        "Association of Southeast Asian Nations",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bag contains 1 white, 2 yellow, and 3 red balls. What is the probability of selecting a red ball?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total balls = 1 + 2 + 3 = 6</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next term: 6, 13, 27, 55, ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "109",
+        "111",
+        "113",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The pattern is: ×2 + 1</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the combined financial package amount under the IMF Extended Fund Facility (EFF) and Resilience and Sustainability Facility (RSF)?",
+      "urdu": "آئی ایم ایف کے ایکسٹینڈڈ فنڈ فیسیلٹی اور ریزیلینس اینڈ سسٹین ایبلٹی فیسیلٹی کے تحت مشترکہ مالی پیکیج کی رقم کتنی ہے؟",
+      "options": [
+        "US$8.4 billion",
+        "US$7.0 billion",
+        "US$7.4 billion",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the total budget outlay for the fiscal year 2016–17 in Pakistan?",
+      "urdu": "پاکستان میں مالی سال 2016–17 کے لیے کل بجٹ کا حجم کتنا تھا؟",
+      "options": [
+        "Rs. 4,394.7 billion",
+        "Rs. 4,894.9 billion",
+        "Rs. 4,442.0 billion",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which agreement the ceasefire line in Kashmir was named Line of Control?",
+      "urdu": "کس معاہدے کے تحت جنگ بندی لائن کا نام تبدیل کر کے لائن آف کنٹرول رکھا گیا؟",
+      "options": [
+        "Simla Agreement",
+        "Ceasefire Agreement",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many times the word “Zakat” came together with “Salat” in Quran?",
+      "urdu": "قرآن مجید میں زکوٰۃ اور نماز (صلاۃ) کا ذکر ایک ساتھ کتنی بار آیا ہے؟",
+      "options": [
+        "20 times",
+        "32 times",
+        "40 times",
+        "42 times"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 12-06-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Zakat is how much percentage on wealth?",
+      "urdu": "زکوٰۃ دولت پر کتنے فیصد ہے؟",
+      "options": [
+        "1.5%",
+        "2.5%",
+        "3.5%",
+        "5%"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b>Zakat is a compulsory 2.5%  (or 1⁄40) </b></font><b style=\"color: rgb(255, 0, 0); font-size: 0.875rem;\">  levy on net qualifying wealth</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A universal donor has the blood group?",
+      "urdu": "یونیورسل ڈونر کا بلڈ گروپ کون سا ہوتا ہے؟",
+      "options": [
+        "B",
+        "O-",
+        "AB",
+        "A"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is called the physical part of computer?",
+      "urdu": "کمپیوٹر کا جسمانی حصہ کسے کہتے ہیں؟",
+      "options": [
+        "Software",
+        "Hardware",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does NCC stand for?",
+      "urdu": "این سی سی کا کیا مطلب ہے؟",
+      "options": [
+        "National Credit Corporation",
+        "National Cultural Council",
+        "National Cadet Corps",
+        "National Communication Center"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If A is the mother of B, C is the father of D, and B is married to C, how is C related to A?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Brother",
+        "Son",
+        "Son-in-law",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">A is the mother of B.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is extension of MS PowerPoint presentation of file in 2007 and later?",
+      "urdu": "سن 2007 اور بعد میں فائل کی ایم ایس پاورپوائنٹ پریزنٹیشن کی توسیع کیا ہے؟",
+      "options": [
+        ".pp",
+        ".xls",
+        ".pptx",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "What benefit did the Muslims gain from the War of Independence of 1857?",
+      "urdu": "سن 1857 کی جنگِ آزادی سے مسلمانوں کو کیا فائدہ حاصل ہوا؟",
+      "options": [
+        "They gained political independence",
+        "They established a new government",
+        "It led to the beginning of Muslim political and educational awakening",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 12-03-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "K2 (Godwin Austin), the second-highest mountain in the world, is located in which mountain range?",
+      "urdu": "دنیا کا دوسرا بلند ترین پہاڑ کے ٹو کس پہاڑی سلسلے میں واقع ہے؟",
+      "options": [
+        "Himalayas",
+        "Hindu Kush",
+        "Karakoram Range",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The list price of an item is Rs. 1,500 and its sale price is Rs. 1,350. What is the discount?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 100",
+        "Rs. 150",
+        "Rs. 200",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Discount = List Price − Sale Price</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the UNO Charter signed?",
+      "urdu": "اقوامِ متحدہ کا چارٹر کب دستخط کیا گیا؟",
+      "options": [
+        "June 26, 1945",
+        "July 4, 1945",
+        "August 15, 1945",
+        "September 2, 1945"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Eagle is the national emblem of _____?",
+      "urdu": "عقاب کس ملک کی قومی علامت ہے؟",
+      "options": [
+        "Pakistan",
+        "India",
+        "Spain",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Nunito, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nobody can believe on your _____ story.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cock-and-bull",
+        "Genuine",
+        "Realistic",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Blood group is identified by _______?",
+      "urdu": "خون کے گروپ کی شناخت کس سے ہوتی ہے؟",
+      "options": [
+        "Antibody",
+        "Anti Toxin",
+        "Antigens",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Balochistan province is located in ______ of Pakistan.",
+      "urdu": "صوبہ بلوچستان پاکستان کے ______ میں واقع ہے۔",
+      "options": [
+        "North West",
+        "South West",
+        "West",
+        "South"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\" style=\"\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the polio vaccine first introduced?",
+      "urdu": "پولیو کی ویکسین پہلی بار کب متعارف کرائی گئی؟",
+      "options": [
+        "1948",
+        "1955",
+        "1960",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the fundamental pillar of Islam which requires both physical and financial sacrifices ?",
+      "urdu": "اسلام کا وہ بنیادی رکن کون سا ہے جس میں جسمانی اور مالی دونوں قربانیوں کی ضرورت ہوتی ہے؟",
+      "options": [
+        "Hajj",
+        "Zakat",
+        "Salat",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 04-09-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The highest plateau of the world is ______?",
+      "urdu": "دنیا کا سب سے اونچا سطح مرتفع کونسا ہے؟",
+      "options": [
+        "Nepal Plateau",
+        "Tibetan Plateau",
+        "Potwar Plateau",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the domain of cos θ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "All real numbers",
+        "[0, π]",
+        "[-1, 1]",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">cosine function</font><font color=\"#0000ff\"> is defined for every </font><font color=\"#ff0000\">real</font><font color=\"#0000ff\"> value of </font><font color=\"#ff0000\">θ</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
     }
   ]
 }
