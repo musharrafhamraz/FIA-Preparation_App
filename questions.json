@@ -3,10 +3,374 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-04T05:30:12.456645",
+    "fetched_at": "2026-09-04T11:55:28.295105",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Eagle is the national emblem of _____?",
+      "urdu": "عقاب کس ملک کی قومی علامت ہے؟",
+      "options": [
+        "Pakistan",
+        "India",
+        "Spain",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Nunito, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nobody can believe on your _____ story.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cock-and-bull",
+        "Genuine",
+        "Realistic",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Blood group is identified by _______?",
+      "urdu": "خون کے گروپ کی شناخت کس سے ہوتی ہے؟",
+      "options": [
+        "Antibody",
+        "Anti Toxin",
+        "Antigens",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Balochistan province is located in ______ of Pakistan.",
+      "urdu": "صوبہ بلوچستان پاکستان کے ______ میں واقع ہے۔",
+      "options": [
+        "North West",
+        "South West",
+        "West",
+        "South"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\" style=\"\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the polio vaccine first introduced?",
+      "urdu": "پولیو کی ویکسین پہلی بار کب متعارف کرائی گئی؟",
+      "options": [
+        "1948",
+        "1955",
+        "1960",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the fundamental pillar of Islam which requires both physical and financial sacrifices ?",
+      "urdu": "اسلام کا وہ بنیادی رکن کون سا ہے جس میں جسمانی اور مالی دونوں قربانیوں کی ضرورت ہوتی ہے؟",
+      "options": [
+        "Hajj",
+        "Zakat",
+        "Salat",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 04-09-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The highest plateau of the world is ______?",
+      "urdu": "دنیا کا سب سے اونچا سطح مرتفع کونسا ہے؟",
+      "options": [
+        "Nepal Plateau",
+        "Tibetan Plateau",
+        "Potwar Plateau",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the domain of cos θ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "All real numbers",
+        "[0, π]",
+        "[-1, 1]",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">cosine function</font><font color=\"#0000ff\"> is defined for every </font><font color=\"#ff0000\">real</font><font color=\"#0000ff\"> value of </font><font color=\"#ff0000\">θ</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan’s largest oil fields are located in District ______?",
+      "urdu": "پاکستان کے سب سے بڑے تیل کے ذخائر کس ضلع میں واقع ہیں؟",
+      "options": [
+        "Badin",
+        "Tando Muhammad Khan",
+        "Hyderabad",
+        "Attock"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Verdana\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "His father ______ one day ago.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Died",
+        "Had died",
+        "Has died",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is The Hague located?",
+      "urdu": "دی ہیگ کہاں واقع ہے؟",
+      "options": [
+        "Belgium",
+        "Netherlands",
+        "France",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which tree has aerial roots?",
+      "urdu": "کون سا درخت ہوائی جڑیں ہے؟",
+      "options": [
+        "Neem tree",
+        "Mango tree",
+        "Banyan tree",
+        "Peepal tree"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a mother’s age is 5 times her son’s age and the sum of their ages is 60 years, what is the son’s present age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10 years",
+        "14 years",
+        "12 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the son's age = x years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two brothers have an age difference of 9 years. After 5 years, the sum of their ages will be 49 years. What is the present age of the older brother?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20 years",
+        "24 years",
+        "25 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the younger brother's present age = x years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does COVID stand for?",
+      "urdu": "کووڈ کا مکمل مطلب کیا ہے؟",
+      "options": [
+        "Corona Virus Infection Disease",
+        "Contagious Viral Disease",
+        "Coronavirus Disease",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which strait separates Asia and Europe?",
+      "urdu": "ایشیا اور یورپ کو کون سی آبنائے الگ کرتی ہے؟",
+      "options": [
+        "Bosphorus Strait",
+        "Strait of Malacca",
+        "Sunda Strait",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The oldest news agency of Pakistan is ______?",
+      "urdu": "پاکستان کی سب سے قدیم خبر رساں ایجنسی کون سی ہے؟",
+      "options": [
+        "PPI",
+        "APP",
+        "API",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which area of Pakistan 2000 Old Forest (Oldest Forest of Pakistan) is found?",
+      "urdu": "پاکستان میں 2000 سال پرانا جنگل کہاں پایا جاتا ہے؟",
+      "options": [
+        "Skardu",
+        "Chitral",
+        "Ziarat",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has been selected to host the Women's Football World Cup 2027?",
+      "urdu": "خواتین کے فٹ بال ورلڈ کپ 2027 کی میزبانی کے لیے کس ملک کا انتخاب کیا گیا ہے؟",
+      "options": [
+        "Argentina",
+        "France",
+        "Brazil",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 04-09-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Syllogism: “No honest person is corrupt. Some politicians are corrupt.” Which conclusion logically follows?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "All politicians are honest",
+        "Some politicians are not honest",
+        "All corrupt persons are honest",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">No honest person is corrupt means no person can be both honest and corrupt.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many stock exchanges were functioning in Pakistan before 2016?",
+      "urdu": "سن 2016 سے پہلے پاکستان میں کتنی اسٹاک ایکسچینجز کام کر رہی تھیں؟",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Access to a classified repository is contingent upon successful cryptographic authentication. Which reasoning logic applies best?",
+      "urdu": "ایک خفیہ معلوماتی ذخیرے تک رسائی کامیاب کرپٹوگرافک تصدیق سے مشروط ہے۔ اس پر کون سی منطقی دلیل بہترین لاگو ہوتی ہے؟",
+      "options": [
+        "Successful cryptographic authentication occurred",
+        "Individual possessed administrative privilege",
+        "Repository contains confidential intelligence",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Fill in the blank: The report was ______ flawed that it was rejected.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "So",
+        "Very",
+        "Such",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a solid-state drive (SSD) advantage over a hard disk drive (HDD)?",
+      "urdu": "ہارڈ ڈسک ڈرائیو کے مقابلے میں سالڈ اسٹیٹ ڈرائیو کا کیا فائدہ ہے؟",
+      "options": [
+        "SSDs are faster and more durable than HDDs",
+        "SSDs are slower than HDDs",
+        "SSDs cannot store data permanently",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Iran Pakistan gas pipeline is also called ______?",
+      "urdu": "ایران پاکستان گیس پائپ لائن کو اور کس نام سے بھی جانا جاتا ہے؟",
+      "options": [
+        "Friendship pipeline",
+        "Future pipeline",
+        "Peace Pipeline",
+        "Unity Pipeline"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b><font color=\"#ff0000\">Last verified on 04-09-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "NAB stands for ______?",
+      "urdu": "نیب کا مطلب کیا ہے؟",
+      "options": [
+        "National and Badminton",
+        "National Audit Branch",
+        "National Accountability Bureau",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 04-09-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When Hazrat Ali (AS) shifted capital from Madina to Kufa?",
+      "urdu": "حضرت علی (ع) نے کب دارالحکومت مدینہ سے کوفہ منتقل کیا؟",
+      "options": [
+        "657 CE (36 AH)",
+        "658 CE (37 AH)",
+        "659 CE (38 AH)",
+        "669 AD"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the total area of the Islamabad Capital Territory (ICT)?",
+      "urdu": "اسلام آباد کیپیٹل ٹیریٹری کا کل رقبہ کتنا ہے؟",
+      "options": [
+        "796 km²",
+        "806 km²",
+        "906 km²",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-07-2026</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "Within how many days must an appeal be filed to the appellate committee after receiving the CDC decision?",
       "urdu": "سی ڈی سی کا فیصلہ موصول ہونے کے بعد اپیلیٹ کمیٹی میں کتنے دنوں کے اندر اپیل دائر کرنا ضروری ہے؟",
@@ -291,371 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the common teaching in the four Divine Books?",
-      "urdu": "چار الہامی کتابوں کی مشترکہ تعلیم کیا ہے؟",
-      "options": [
-        "Political leadership",
-        "Oneness of Allah Almighty",
-        "Importance of wealth",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Lahore Resolution (Pakistan Resolution) passed?",
-      "urdu": "قرارداد لاہور (قرارداد پاکستان) کب منظور ہوئی؟",
-      "options": [
-        "14 March 1945",
-        "23 March 1940",
-        "12 March 1948",
-        "28 March 1947"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Cold War primarily involved rivalry between _____?",
-      "urdu": "کولڈ وار بنیادی طور پر کس کے درمیان مقابلہ تھا؟",
-      "options": [
-        "USA and USSR",
-        "Europe and Asia",
-        "China and Japan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who introduced the Basic Democracy?",
-      "urdu": "بنیادی جمہوریت کو کس نے متعارف کرایا؟",
-      "options": [
-        "Liaquat Ali Khan",
-        "Ayoub Khan",
-        "Muhammad Ali Bogra",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is not landlocked country? Nepal, Myanmar, Bhutan, Switzerland",
-      "urdu": "مندرجہ ذیل میں سے کون سا ملک خشکی میں گھرا ہوا نہیں ہے؟",
-      "options": [
-        "Nepal",
-        "Myanmar",
-        "Bhutan",
-        "Switzerland"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the border between Pakistan and Afghanistan called?",
-      "urdu": "پاکستان اور افغانستان کے درمیان سرحد کو کیا کہتے ہیں؟",
-      "options": [
-        "Durand Line",
-        "Line of control",
-        "Free Line",
-        "Dukhtar Line"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;\"></p>",
-      "category": "all"
-    },
-    {
-      "q": "The prerequisite to be a Muslim is?",
-      "urdu": "مسلمان ہونے کے لیے بنیادی شرط کیا ہے؟",
-      "options": [
-        "Just recitation of Kalimah",
-        "Just understanding Kalimah",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many member countries are there in INTERPOL?",
-      "urdu": "انٹرپول کے کتنے رکن ممالک ہیں؟",
-      "options": [
-        "196",
-        "195",
-        "194",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Strait of Hormuz is located between?",
-      "urdu": "آبنائے ہرمز کن دو ممالک کے درمیان واقع ہے؟",
-      "options": [
-        "Black Sea and the Sea of Marmara",
-        "Atlantic Ocean and the Mediterranean Sea",
-        "Persian Gulf and Gulf of Oman",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\"></font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "LAN stands for _____?",
-      "urdu": "ایل اے این کا مطلب کیا ہے؟",
-      "options": [
-        "Limited Area Network",
-        "Logical Area Network",
-        "Local Area Network",
-        "Large Area Network"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which acid is produced in the gastric juice of the stomach to digest food?",
-      "urdu": "خوراک کو ہضم کرنے کے لیے معدے کے رس میں کون سا تیزاب پیدا ہوتا ہے؟",
-      "options": [
-        "Hydrochloric Acid",
-        "Nitric Acid",
-        "Sulphuric Acid",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the length of the border between Pakistan and Afghanistan?",
-      "urdu": "پاکستان اور افغانستان کے درمیان سرحد کی لمبائی کتنی ہے؟",
-      "options": [
-        "2611 km",
-        "2350 km",
-        "2282 km",
-        "2430 km"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Continent Australia is also known as?",
-      "urdu": "آسٹریلیا براعظم کو اور کس نام سے بھی جانا جاتا ہے؟",
-      "options": [
-        "Pacific",
-        "Oceania",
-        "Austria",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The book Hayat-i-Afghani was primarily written about?",
-      "urdu": "کتاب \"حیاتِ افغانی\" بنیادی طور پر کس کے بارے میں لکھی گئی تھی؟",
-      "options": [
-        "The Mughal Empire",
-        "The Pashtun tribes and Afghanistan",
-        "The Delhi Sultanate",
-        "The Ottoman Empire"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last question by NA on 09 July 2026</span><span style=\"font-size: 14px;\"><font color=\"#00ff00\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "APTMA stands for ______?",
-      "urdu": "اپٹما کا مطلب کیا ہے؟",
-      "options": [
-        "All Pakistan Textile Manufacturing Agency",
-        "All Pakistan Textile Merchants Association",
-        "All Pakistan Textile Mills Association",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "The number of ribs in a human body is?",
-      "urdu": "انسانی جسم میں پسلیوں کی تعداد کتنی ہوتی ہے؟",
-      "options": [
-        "23",
-        "26",
-        "24",
-        "22"
-      ],
-      "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where was Naval Exercise AMAN-2025 held?",
-      "urdu": "بحری مشق امان-2025 کہاں منعقد ہوئی؟",
-      "options": [
-        "Karachi, Pakistan",
-        "Islamabad, Pakistan",
-        "Lahore, Pakistan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the Second pillar of Islam?",
-      "urdu": "اسلام کا دوسرا ستون کون سا ہے؟",
-      "options": [
-        "Namaz",
-        "Roza",
-        "Zakat",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><span style=\"color: rgb(0, 0, 255); font-family: Helvetica;\">There are </span><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\">five </font></span><span style=\"font-family: Helvetica;\"><font color=\"#ff0000\">pillars</font><font color=\"#0000ff\"> of Islam:</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the capital of Norway?",
-      "urdu": "ناروے کا دارالحکومت ہے؟",
-      "options": [
-        "Oslo",
-        "London",
-        "Madrid",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Norway</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height: 107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%; color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%; color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Oslo</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "TCP stands for _____?",
-      "urdu": "ٹی سی پی کا مطلب کیا ہے؟",
-      "options": [
-        "Transfer Communication Protocol",
-        "Transmission Communication Process",
-        "Transmission Control Protocol",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "SEB stands for ______?",
-      "urdu": "ایس ای بی سے کیا مراد ہے؟",
-      "options": [
-        "Support Equipment Base",
-        "Support Equipment Building",
-        "Service Equipment Building",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "MRI is stands for _____?",
-      "urdu": "ایم آر آئی کا مطلب کیا ہے؟",
-      "options": [
-        "Magnetic Resonance Imaging",
-        "Magnetic Related  Imaging",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style='font-weight: bolder; font-family: Nunito, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"; background-color: rgb(255, 255, 0);'><font color=\"#ff0000\">Last verified on 03-09-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is not a digestive gland?",
-      "urdu": "مندرجہ ذیل میں سے کون ہاضمہ غدود نہیں ہے؟",
-      "options": [
-        "Liver",
-        "Adrenal gland",
-        "Pancreas",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Currency of Afghanistan?",
-      "urdu": "افغانستان کی کرنسی کیا ہے؟",
-      "options": [
-        "Afghani",
-        "Rupee",
-        "Taka",
-        "Lira"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><b><span style='color:#002060'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span></b><![endif]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Holy Book was revealed in the month of Ramadan?",
-      "urdu": "رمضان کے مہینے میں کون سی آسمانی کتاب نازل ہوئی؟",
-      "options": [
-        "Zabur",
-        "Torah",
-        "Quran",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "IBM stands for?",
-      "urdu": "آئی بی ایم کس کا مخفف ہے؟",
-      "options": [
-        "International Business Machine",
-        "Integrated Business Machine",
-        "Information Business Machines",
-        "International Business Model",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "PSO stands for ______?",
-      "urdu": "پی ایس او سے کیا مراد ہے؟",
-      "options": [
-        "Pakistan State Oil",
-        "Pakistan Shipping Organization",
-        "Public Supply Organization",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the tense: Sara has been learning English for three years.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Present Perfect",
-        "Present Continuous",
-        "Present Perfect Continuous",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
       "category": "all"
     }
   ]
