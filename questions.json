@@ -3,10 +3,36 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-03T21:27:52.610608",
+    "fetched_at": "2026-09-04T05:30:12.456645",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Within how many days must an appeal be filed to the appellate committee after receiving the CDC decision?",
+      "urdu": "سی ڈی سی کا فیصلہ موصول ہونے کے بعد اپیلیٹ کمیٹی میں کتنے دنوں کے اندر اپیل دائر کرنا ضروری ہے؟",
+      "options": [
+        "15 days",
+        "30 days",
+        "45 days",
+        "60 days"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How far is the Hajj Terminal from Jeddah city?",
+      "urdu": "حج ٹرمینل جدہ شہر سے کتنے فاصلے پر واقع ہے؟",
+      "options": [
+        "19 km",
+        "18 km",
+        "17 km",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-09-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which Ukrainian city experienced a prolonged Russian aerial assault in September 2026?",
       "urdu": "ستمبر 2026 میں یوکرین کے کس شہر کو روسی فضائی حملوں کے طویل سلسلے کا سامنا کرنا پڑا؟",
@@ -630,32 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the tense: He has lived in Islamabad for five years.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Present Simple",
-        "Present Continuous",
-        "Present Perfect",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Necessary, Noccessary, Necesary, Neceessary",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Necessary",
-        "Noccessary",
-        "Necesary",
-        "Neceessary"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 09-02-2026</b></font></p>",
       "category": "all"
     }
   ]
