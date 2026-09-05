@@ -3,10 +3,102 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-05T15:44:27.972357",
+    "fetched_at": "2026-09-05T20:47:06.701865",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "She has worked here ___________ 7 years.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Since",
+        "For",
+        "With",
+        "To",
+        "Of"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span arial=\"\" black\";\"=\"\" style=\"\"><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">She has worked here </font><font color=\"#ff0000\">for </font><font color=\"#0000ff\">7 years</font></b></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first Prime Minister of Pakistan?",
+      "urdu": "پاکستان کا پہلا وزیراعظم کون تھا؟",
+      "options": [
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Liaquat Ali Khan",
+        "Ayoub Khan",
+        "Yahya Khan"
+      ],
+      "correct": 1,
+      "explanation": "<p><span \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 1rem;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-size:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#9c00ff\">**</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Fasting (Sawm/Roza) made obligatory in Islam?",
+      "urdu": "روزہ کب فرض کیا گیا؟",
+      "options": [
+        "8th Shaban, 2 A.H",
+        "7th Shaban, 2 A.H",
+        "10th Shaban, 2 A.H",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">When fasting was made obligatory:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did the Simla Deputation took place?",
+      "urdu": "سملا ڈیپوٹیشن کب ہوا؟",
+      "options": [
+        "1st October 1906",
+        "14th August 1905",
+        "30th December 1907",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Additional information</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He was afraid ___ his death?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "By",
+        "To",
+        "From",
+        "Of"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "I prefer tea ____ coffee.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To",
+        "For",
+        "From",
+        "With"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"background-color: rgb(255, 255, 0); color: rgb(255, 0, 255); font-size: 0.875rem;\">Last updated by NS on 5-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does make the blood look red?",
+      "urdu": "خون کو سرخ کیا نظر آتا ہے؟",
+      "options": [
+        "Red corpuscles",
+        "Hemoglobin",
+        "Plasma",
+        "Certain secretions"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated by NS on 5-09-2026</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
+      "category": "all"
+    },
     {
       "q": "The book is lying _______ the table.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -564,97 +656,6 @@
       ],
       "correct": 1,
       "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 107%;\"><b><font color=\"#ff00ff\">Operation Economic\r\nOutcast</font><font color=\"#0000ff\"> is a massive economic pressure campaign launched by the </font><font color=\"#ff0000\">US </font><font color=\"#0000ff\">government\r\nagainst </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Iran </font><font color=\"#0000ff\">in 2026. <o:p></o:p></font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the simple interest on Rs. 10,000 at a rate of 8% per annum for 2 years?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 800",
-        "Rs. 1,200",
-        "Rs. 1,600",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"><b>Formula: SI = (P × R × T) / 100</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan and which country officially signed the Protocol Agreement in 2026?",
-      "urdu": "پاکستان اور کس ملک نے 2026 میں باضابطہ طور پر پروٹوکول معاہدے پر دستخط کیے؟",
-      "options": [
-        "Iran",
-        "Uzbekistan",
-        "Kuwait",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Protocol Agreement 2026</font><font color=\"#0000ff\"> is a defence co-operation agreement between </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Pakistan </font><font color=\"#0000ff\">and </font>Kuwait<font color=\"#0000ff\">, aimed at enhancing the existing military cooperation framework.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan and Kuwait officially signed the Protocol Agreement 2026 on which date?",
-      "urdu": "پاکستان اور کویت نے باضابطہ طور پر پروٹوکول معاہدہ 2026 پر کس تاریخ کو دستخط کیے؟",
-      "options": [
-        "17 July 2026",
-        "7 August 2026",
-        "27 August 2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">Protocol Agreement 2026</font><font color=\"#0000ff\"> is a defence co-operation agreement between </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Pakistan </font><font color=\"#0000ff\">and </font>Kuwait<font color=\"#0000ff\">, aimed at enhancing the existing military cooperation framework.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who invented antibiotic medicine?",
-      "urdu": "اینٹی بائیوٹک دوا کس نے ایجاد کی؟",
-      "options": [
-        "Michal Faraday",
-        "Louis Posteur",
-        "Alexander Flaming",
-        "John Loannids"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "United Nations Organization (UNO) officially came into existence / was founded / established on?",
-      "urdu": "اقوام متحدہ کا ادارہ باضابطہ طور پر کب وجود میں آیا؟",
-      "options": [
-        "10 October 1945",
-        "14 October 1945",
-        "24 October 1945",
-        "28 October 1945"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" initial;=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Arial, sans-serif\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Secretary of State of the United States?",
-      "urdu": "امریکہ کا موجودہ وزیر خارجہ کون ہے؟",
-      "options": [
-        "Daniel Bennett Smith",
-        "Marco Rubio",
-        "Mike Pompeo",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of International Court of Justice (ICJ) located?",
-      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
-      "options": [
-        "New York",
-        "Washington",
-        "Geneva",
-        "Hague"
-      ],
-      "correct": 3,
-      "explanation": "",
       "category": "all"
     }
   ]
