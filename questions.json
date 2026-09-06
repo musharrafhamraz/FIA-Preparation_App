@@ -3,30 +3,342 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-06T11:28:15.427518",
+    "fetched_at": "2026-09-06T15:56:34.820837",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "The science rover Perseverance of NASA landed on the Red Planet (Mars) on _____?",
-      "urdu": "ناسا کا سائنسی روور پرسیورنس سرخ سیارے (مریخ) پر کب اترا؟",
+      "q": "Ali watched the children playing ___ his seat.",
+      "urdu": "علی نے اپنی نشست پر بیٹھے ہوئے بچوں کو کھیلتے دیکھا۔",
       "options": [
-        "18 February 2021",
-        "15 February 2021",
-        "21 February 2021",
-        "25 February 2021"
+        "At",
+        "On",
+        "From",
+        "By"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><span style=\"font-size: 14px;\"><font color=\"#ff9c00\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the antonym of Nitwit?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Foolish",
+        "Stupid",
+        "Genius",
+        "Silly"
       ],
       "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Coffee is made from ___ coffee beans.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Boiled",
+        "Roasted",
+        "Frozen",
+        "Raw"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "We will appeal ___ the decision",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "At",
+        "On",
+        "Against",
+        "By"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Honesty is the successful step towards success in?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Education only",
+        "Business only",
+        "Every aspect of life",
+        "Professional life only"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Synonym of lethargic is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Energetic",
+        "Active",
+        "Lazy",
+        "Cheerful"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><b style=\"\"><font color=\"#ff0000\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Students Learning Outcomes (SLOs) are _____?",
+      "urdu": "طلبہ کے تعلیمی نتائج کیا ہوتے ہیں؟",
+      "options": [
+        "General statements that describe what students are expected to know and be able to do",
+        "Detailed statements describing what students are supposed to learn and able to do at each grade",
+        "Specific statements that describe what students are expected to know and be able to do",
+        "Statements that identify what students know and can do at the end of particular developmental level"
+      ],
+      "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the main objective of the Indo-Pacific Strategy?",
-      "urdu": "انڈو پیسیفک اسٹریٹیجی کا بنیادی مقصد کیا ہے؟",
+      "q": "Before whom did Iblis (Satan) refuse to prostrate when Allah commanded him to do so?",
+      "urdu": "جب اللہ تعالیٰ نے ابلیس (شیطان) کو سجدہ کرنے کا حکم دیا تو اس نے کس کے سامنے سجدہ کرنے سے انکار کیا؟",
       "options": [
-        "To promote isolation",
-        "To maintain a free, open, secure, and prosperous Indo-Pacific region",
-        "To end international trade",
+        "Prophet Nuh (A.S.)",
+        "Prophet Ibrahim (A.S.)",
+        "Prophet Adam (A.S.)",
+        "Prophet Musa (A.S.)"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><font color=\"#0000ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Prolong is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Extend",
+        "Pretend",
+        "Concise",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">Prolong means طول دینا</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Effective teachers treat all students ______?",
+      "urdu": "مؤثر اساتذہ تمام طلبہ کے ساتھ کس طرح پیش آتے ہیں؟",
+      "options": [
+        "Equally",
+        "Not Equally",
+        "With no regard to equality",
+        "Equity"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Heer Ranjha was written by whom?",
+      "urdu": "ہیئر رانجھا کس کے کس نے لکھی؟",
+      "options": [
+        "Waris Shah",
+        "Sultan Bahu",
+        "Bullay Shah",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Believing that someone or something shares Allah's exclusive attributes or is associated with Him is called?",
+      "urdu": "کسی شخص یا چیز کے بارے میں یہ عقیدہ رکھنا کہ وہ اللہ تعالیٰ کی خاص صفات میں شریک ہے یا اللہ تعالیٰ کے ساتھ شریک ہے، اسے کیا کہتے ہیں؟",
+      "options": [
+        "Tawhid",
+        "Shirk",
+        "Sabr",
+        "Zakat"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the meaning of Stutter?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Speak more frequently",
+        "Speak with repeated sounds or pauses",
+        "Introduce yourself",
+        "Speak very loudly"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Stutter means to talk with continued involuntar</font><font color=\"#9c00ff\">y repetition of sounds, especially initial consonants,</font><font color=\"#0000ff\"> or to have difficulty making words come out smoothly.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Prospect refers ___ our promotion",
+      "urdu": "پروسپیکٹ سے مراد ہماری ترقی ہے۔",
+      "options": [
+        "To",
+        "O",
+        "An",
+        "With"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><font color=\"#9c00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "We should call ___ this deal.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Off",
+        "Of",
+        "In",
+        "On"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0); color: rgb(255, 0, 255);\">Last updated by NS on 06-09-2026</span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">​</span></font><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Is there water ___ the moon?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "At",
+        "On",
+        "By"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"><br/></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The boys’ school starts ___ Monday",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "At",
+        "On",
+        "By"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person who considers himself superior to others is called a?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Humble person",
+        "Snob",
+        "Coward",
+        "Optimist"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "He grew tired ___ his position.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "At",
+        "Of",
+        "On",
+        "With"
+      ],
+      "correct": 1,
+      "explanation": "<p>\n<p data-end=\"167\" data-start=\"100\"></p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who promulgated the Muslim Family Laws Ordinance, 1961?",
+      "urdu": "مسلم فیملی لاز آرڈیننس، انیس سو اکسٹھ  کس نے نافذ کیا؟",
+      "options": [
+        "President Ayub Khan",
+        "President Yahya Khan",
+        "Prime Minister Liaquat Ali Khan",
+        "President Zia-ul-Haq"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-size: 0.875rem;\">Last updated</span><span style=\"font-size: 0.875rem;\"> by NS on 06-09-2026</span><span style=\"font-size: 0.875rem; font-weight: bolder;\">​</span><span style=\"font-size: 0.875rem; font-weight: bolder;\">​</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which three countries are associated with the 2026 joint defence agreement mentioned in the paper?",
+      "urdu": "اخبار میں مذکور دو ہزار چھبیس کے مشترکہ دفاعی معاہدے سے کون سے تین ممالک وابستہ",
+      "options": [
+        "Pakistan, Iran and Turkiye",
+        "Pakistan, Saudi Arabia and Turkiye",
+        "Pakistan, UAE and Qatar",
+        "Saudi Arabia, Iran and Turkiye"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">The Mecca Joint Defence Agreement </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A 5 km racing track is used by two cars. The first car moves at 50 km/h and the second at 80 km/h. If the race starts at 9:00 a.m., at what time will both cars be back at the starting point together?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "9:10 a.m.",
+        "9:15 a.m.",
+        "9:20 a.m.",
+        "9:30 a.m."
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#ff0000\">Step 1: Time taken for one lap</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "An item is sold for Rs. 1,200 at a profit of 7%. What is its actual/cost price?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 1,100.00",
+        "Rs. 1,121.50",
+        "Rs. 1,150.00",
+        "Rs. 1,284.00"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#ff0000\">Given:<o:p></o:p></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bank deposit of Rs. 750,000 increases by 5% every year. What will be the total amount after 3 years?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 862,500.00",
+        "Rs. 867,693.75",
+        "Rs. 875,000.00",
+        "Rs. 900,000.00"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"74\" data-start=\"0\"><font color=\"#0000ff\">This is <strong data-end=\"27\" data-start=\"8\">compound growth</strong> because the amount increases by 5% every year.<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which European traveler is famous for his account of China during the Yuan Dynasty?",
+      "urdu": "یوان سلطنت کے دور میں چین کے بارے میں اپنے سفرنامے کے لیے کون سا یورپی سیاح مشہور ہے؟",
+      "options": [
+        "Ibn Battuta",
+        "Christopher Columbus",
+        "Marco Polo",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "MP stands for?",
+      "urdu": "ایم پی سے کیا مراد ہے؟",
+      "options": [
+        "Member of Police",
+        "Member of Parliament",
+        "Minister of Pakistan",
         "None of these"
       ],
       "correct": 1,
@@ -34,65 +346,220 @@
       "category": "all"
     },
     {
-      "q": "Name the person whose house become the center of preaching of Islam?",
-      "urdu": "اس شخص کا نام بتائیں جس کا گھر تبلیغِ اسلام کا مرکز بنا؟",
+      "q": "The Antonym of Accept is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Hazrat Abu Bakar",
-        "Hazrat Arqam",
-        "Hazrat Usman",
-        "None of these"
+        "Release",
+        "Reject",
+        "Refuse",
+        "Both B and C"
       ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Phrase/Idiom: \"Burning the midnight oil\" means?",
+      "q": "The Antonym of Genuine is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Staying up late into the night / to study or work",
-        "Work late into the night",
-        "To work till late night",
-        "Working very hard",
+        "Fake",
+        "Real",
+        "Authentic",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Rapid is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Quick",
+        "Slow",
+        "Severe",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Vigilant is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Careless",
+        "Alert",
+        "Weak",
+        "Silent"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\"> Last updated NA 12-04-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Eloquent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Articulate",
+        "Silent",
+        "Confusing",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Benevolent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Kind",
+        "Generous",
+        "Selfish",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Diligent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hardworking",
+        "Witty",
+        "Deliberate",
+        "Lazy"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Candid is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Truthful",
+        "Honest and straightforward",
+        "Frank",
         "All of these"
       ],
-      "correct": 4,
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Abandon is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Leave",
+        "Deserted",
+        "Abduct",
+        "Both A  and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 06-09-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many days are there in a Leap year?",
+      "urdu": "ایک چھلانگ سال میں کتنے دن ہیں؟",
+      "options": [
+        "356",
+        "365",
+        "364",
+        "366"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#00ff00\"></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "√144 = _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">12 × 12 = 144</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Peshawar lies in which direction relative to Karachi?",
+      "urdu": "کراچی کے لحاظ سے پشاور کس سمت میں واقع ہے؟",
+      "options": [
+        "South",
+        "East",
+        "North-West",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An item originally priced at Rs. 2500 was sold for Rs. 1600. What is the percentage discount?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "36%",
+        "34%",
+        "32%",
+        "None of these"
+      ],
+      "correct": 0,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Idiom: Piece of cake means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which post is the highest-ranking position in the Pakistan Ranger?",
+      "urdu": "سوال: پاکستان رینجرز میں سب سے اعلیٰ عہدہ کون سا ہے؟",
       "options": [
-        "Bear the enmity",
-        "Easy task",
-        "Be happy",
-        "None of these"
+        "Director General (DG)",
+        "Inspector General (IG)",
+        "Captain",
+        "Colonel"
       ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</font></b></p>",
+      "correct": 0,
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "No birds are mammals. A sparrow is a bird. What is the conclusion?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is spam or junk email?",
+      "urdu": "اسپیم یا جنک ای میل کیا ہوتی ہے؟",
       "options": [
-        "A sparrow is not a mammal",
-        "All mammals are birds",
-        "All birds are mammals",
+        "Official government email",
+        "Important personal email",
+        "Unwanted or unsolicited email",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why do red blood cells lack a nucleus?",
+      "urdu": "سرخ خون کے خلیوں میں نیوکلیس کیوں نہیں ہوتا؟",
+      "options": [
+        "To maximize space for hemoglobin",
+        "To reduce oxygen consumption",
+        "To increase lifespan",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">No birds are mammals.</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-06-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Why did Quaid-e-Azam Muhammad Ali Jinnah criticize the Rowlatt Act?",
-      "urdu": "قائداعظم محمد علی جناح نے رولٹ ایکٹ پر تنقید کیوں کی؟",
+      "q": "Which theological school became strongly associated with the doctrine of the created Quran?",
+      "urdu": "کون سا کلامی مکتبِ فکر قرآن کو مخلوق قرار دینے کے عقیدے سے مضبوطی سے وابستہ تھا؟",
       "options": [
-        "Economic reforms",
-        "Civil liberties and detention without trial",
-        "Educational reforms",
+        "Ash‘ari",
+        "Mu‘tazilite",
+        "Maturidi",
         "None of these"
       ],
       "correct": 1,
@@ -100,220 +567,12 @@
       "category": "all"
     },
     {
-      "q": "Which party started the Non-Cooperation Movement in 1920?",
-      "urdu": "سن 1920 میں عدم تعاون کی تحریک کس جماعت نے شروع کی؟",
+      "q": "Who wrote the book Hayat-e-Muhammad?",
+      "urdu": "کتاب \"حیاتِ محمد\" کس نے لکھی؟",
       "options": [
-        "Indian National Congress (INC)",
-        "Muslim League",
-        "All India Muslim Conference",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year did Jimmy Carter receive the Nobel Peace Prize?",
-      "urdu": "جمی کارٹر نے نوبیل امن انعام کس سال حاصل کیا؟",
-      "options": [
-        "1998",
-        "2000",
-        "2002",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In modern era Ahmed Faraz is a very _____ poet.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Unknown",
-        "Ordinary",
-        "Famous",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The two brothers hated _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Themselves",
-        "Each other",
-        "One another's",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mr. James has been working on the discovery and study of fossils since 1959. During his research, he compares fossils from different rock layers and observes changes in organisms over time. Based on these observations, which conclusion is most logically supported?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fossils remain unchanged over time",
-        "All organisms have the same characteristics",
-        "Species change over time",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number is decreased by 20% and the result is 240. What is the original number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "300",
-        "200",
-        "100",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">A number is decreased by 20%, so 80% of the original number remains.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A city police administration identifies recurring congestion at major intersections and applies a route-removal strategy by eliminating selected traffic movements. Which outcome most directly indicates that the intervention is effective?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Increased traffic congestion",
-        "Longer travel times",
-        "Lower traffic density",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">A </font><font color=\"#ff0000\">route-removal strategy</font><font color=\"#0000ff\"> eliminates selected traffic movements to reduce congestion.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the 307th term of the sequence: 2, 3, 5, 8, 2, 3, 5, 8, ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "8",
-        "3",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The sequence is repeating every 4 terms:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to which law did President Donald Trump say he would continue imposing tariffs after the U.S. Supreme Court rejected his use of emergency tariff powers?",
-      "urdu": "امریکی سپریم کورٹ کی جانب سے ہنگامی ٹیرف اختیارات مسترد کرنے کے بعد صدر ڈونلڈ ٹرمپ نے کہا کہ وہ کس قانون کے تحت ٹیرف جاری رکھیں گے؟",
-      "options": [
-        "Section 201 of the Trade Act",
-        "Section 301 of the Trade Act",
-        "Section 122 of the Trade Act of 1974",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the main purpose of the Truman Doctrine (1947)?",
-      "urdu": "ٹرومین نظریہ (1947) کا بنیادی مقصد کیا تھا؟",
-      "options": [
-        "To establish the United Nations",
-        "To rebuild Germany",
-        "To contain the spread of communism",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When there is a difference in the number of representatives among provinces, it is called?",
-      "urdu": "صوبوں کے درمیان نمائندوں کی تعداد میں فرق کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Social Inequality",
-        "Political Inequality",
-        "Economic Inequality",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sector of Pakistan showed the highest growth during COVID-19 (FY 2020–21)?",
-      "urdu": "کووڈ-19 کے دوران (مالی سال 2020–21) پاکستان کے کس شعبے نے سب سے زیادہ ترقی کی؟",
-      "options": [
-        "Agriculture",
-        "Industry",
-        "Services",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A mother is five times as old as her son. Ten years from now, she will be three times as old as her son. What is the son's present age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5 years",
-        "10 years",
-        "15 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>Let the son's present age = x years.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Clandestine is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Public",
-        "Secret",
-        "Open",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A student studies for zero hours on two days and for 4, 3, 4, 4 and 5 hours on the remaining five days. What is the median number of study hours per day?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3 hours",
-        "4 hours",
-        "5 hours",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Arrange the study hours in ascending order: 0, 0, 3, 4, 4, 4, 5</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Completely the series: 90, 45, 48, 24, 29, _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "14.5",
-        "15.5",
-        "16.5",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px;\"><font color=\"#0000ff\"><b>Pattern:</b></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Ghazwat occurred in the 4th year of Hijrah?",
-      "urdu": "چار ہجری میں کتنے غزوات ہوئے؟",
-      "options": [
-        "2",
-        "1",
-        "3",
+        "Muhammad Husain Haykal",
+        "Shibli Nomani",
+        "Syed Sulaiman Nadvi",
         "None of these"
       ],
       "correct": 0,
@@ -321,77 +580,64 @@
       "category": "all"
     },
     {
-      "q": "Bait ul Muqadas conquered in the reign of _____?",
-      "urdu": "بیت المقدس کس کے دور حکومت میں فتح ہوا؟",
+      "q": "Hingol National Park is located in?",
+      "urdu": "ہنگول نیشنل پارک کہاں واقع ہے؟",
       "options": [
-        "Hazrat Abu Bakar R.A",
-        "Hazrat Umar R.A",
-        "Hazrat Usman R.A",
+        "Balochistan",
+        "KPK",
+        "Sindh",
+        "Punjab"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 20-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "NATO is primarily a political and military alliance between countries from which regions?",
+      "urdu": "نیٹو بنیادی طور پر کن خطوں کے ممالک کے درمیان سیاسی اور فوجی اتحاد ہے؟",
+      "options": [
+        "Asia and Africa",
+        "Europe and North America",
+        "South America and Asia",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 06-09-2026</font></span></span></p>",
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "Temperature of healthy person is 37°C. What is this temperature on Kelvin scales?",
-      "urdu": "کیلون میں سینتیس سینٹی گریڈ  کس کے برابر ہے؟",
+      "q": "Where is the headquarters of Shanghai Cooperation Organization (SCO)?",
+      "urdu": "شنگھائی تعاون تنظیم کا صدر دفتر کہاں ہے؟",
       "options": [
-        "273 K",
-        "300 K",
-        "310 K",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">To convert </font><font color=\"#ff0000\">Celsius to Kelvin</font><font color=\"#0000ff\">, use: K = </font><font color=\"#ff0000\">°C</font><font color=\"#0000ff\"> + </font><font color=\"#ff0000\">273</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is NOT a bone in the human body? Tendon, Tibia, Femur, Humerus",
-      "urdu": "درج ذیل میں سے کون سی انسانی جسم کی ہڈی نہیں ہے؟",
-      "options": [
-        "Tendon",
-        "Tibia",
-        "Femur",
-        "Humerus"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is not part of the brain? Pons, Medulla Oblongata, Hind Brain, Spinal Cord",
-      "urdu": "مندرجہ ذیل میں سے کون سا دماغ کا حصہ نہیں ہے؟",
-      "options": [
-        "Pons",
-        "Medulla Oblongata",
-        "Hind Brain",
-        "Spinal Cord"
+        "Shanghai, China",
+        "Moscow, Russia",
+        "Astana, Kazakhstan",
+        "Beijing, China"
       ],
       "correct": 3,
-      "explanation": "<p></p>",
+      "explanation": "<p><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
       "category": "all"
     },
     {
-      "q": "ADBP stands for?",
-      "urdu": "اے ڈی بی پی کا مطلب کیا ہے؟",
+      "q": "How many EU countries share the euro as their official currency?",
+      "urdu": "کتنے یورپی یونین ممالک یورو کو اپنی سرکاری کرنسی کے طور پر استعمال کرتے ہیں؟",
       "options": [
-        "Agriculture Development Bank of Pakistan.",
-        "Agriculture Development Bank of Punjab.",
-        "Agriculture Development Book of Pakistan.",
-        "None of these"
+        "17",
+        "21",
+        "19",
+        "20"
       ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";\"=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\">21 EU</font><font color=\"#0000ff\"> member states </font><font color=\"#ff0000\">currently</font><font color=\"#0000ff\"> use the </font><font color=\"#ff0000\">euro (€) </font><font color=\"#0000ff\">as their </font><font color=\"#ff0000\">official currency</font><font color=\"#0000ff\">.</font></b></font></p>",
       "category": "all"
     },
     {
-      "q": "In 2024, Pakistan secured an Extended Fund Facility (EFF) from IMF amounting to?",
-      "urdu": "سن 2024 میں پاکستان نے آئی ایم ایف سے کتنی مالیت کا ایکسٹینڈڈ فنڈ فیسیلٹی حاصل کیا؟",
+      "q": "Who is the only person to win Nobel Prizes in two different natural sciences, Physics and Chemistry?",
+      "urdu": "فزکس اور کیمسٹری، دو مختلف قدرتی علوم میں نوبیل انعامات جیتنے والی واحد شخصیت کون ہیں؟",
       "options": [
-        "US$5 billion",
-        "US$7 billion",
-        "US$9 billion",
+        "Albert Einstein",
+        "Marie Curie",
+        "Ernest Rutherford",
         "None of these"
       ],
       "correct": 1,
@@ -399,264 +645,16 @@
       "category": "all"
     },
     {
-      "q": "Monotheism theory of _____ asserts the existence of one God and _____ the belief in multiple gods.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "In which year did China declare the complete eradication of extreme poverty?",
+      "urdu": "چین نے انتہائی غربت کے مکمل خاتمے کا اعلان کس سال کیا؟",
       "options": [
-        "Polytheism – accepts",
-        "Unicity – repudiates",
-        "Diversity – supports",
+        "2020",
+        "2021",
+        "2022",
         "None of these"
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The wellness coach recommended mediation as a _____ to reduce mental stress and maintain hormonal balance.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Approach",
-        "Problem",
-        "Fear",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Alleviate is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Reduce",
-        "Ignore",
-        "Worsen",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Strides is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Falls",
-        "Stops",
-        "Steps",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Mellifluous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Melodious",
-        "Harsh",
-        "Noisy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Dubious is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Certain",
-        "Uncertain",
-        "Doubtful",
-        "Both B and C"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 06-09-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonyms of Indubitably is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Undoubtedly",
-        "Controversial",
-        "Doubtful",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "All engineers are graduates. All graduates are educated persons. Which conclusion logically follows?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "All educated persons are engineers",
-        "All graduates are engineers",
-        "All engineers are educated persons",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Engineers ⟶ Graduates</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the wife of Abu Lahab who used to throw garbage on Holy Prophet (PBUH) whenever he passed by her house?",
-      "urdu": "ابو لہب کی اس بیوی کا نام کیا تھا جو نبی کریم ﷺ کے راستے میں کچرا یا کانٹے ڈالتی تھی؟",
-      "options": [
-        "Ummay Jamil",
-        "Ummay Hasana",
-        "Ummay Uqbah",
-        "Ummay Hinda"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "She has worked here ___________ 7 years.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Since",
-        "For",
-        "With",
-        "To",
-        "Of"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span arial=\"\" black\";\"=\"\" style=\"\"><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">She has worked here </font><font color=\"#ff0000\">for </font><font color=\"#0000ff\">7 years</font></b></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first Prime Minister of Pakistan?",
-      "urdu": "پاکستان کا پہلا وزیراعظم کون تھا؟",
-      "options": [
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Liaquat Ali Khan",
-        "Ayoub Khan",
-        "Yahya Khan"
-      ],
-      "correct": 1,
-      "explanation": "<p><span \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 1rem;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-size:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#9c00ff\">**</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was Fasting (Sawm/Roza) made obligatory in Islam?",
-      "urdu": "روزہ کب فرض کیا گیا؟",
-      "options": [
-        "8th Shaban, 2 A.H",
-        "7th Shaban, 2 A.H",
-        "10th Shaban, 2 A.H",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">When fasting was made obligatory:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did the Simla Deputation took place?",
-      "urdu": "سملا ڈیپوٹیشن کب ہوا؟",
-      "options": [
-        "1st October 1906",
-        "14th August 1905",
-        "30th December 1907",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Additional information</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He was afraid ___ his death?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "By",
-        "To",
-        "From",
-        "Of"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "I prefer tea ____ coffee.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To",
-        "For",
-        "From",
-        "With"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"background-color: rgb(255, 255, 0); color: rgb(255, 0, 255); font-size: 0.875rem;\">Last updated by NS on 5-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does make the blood look red?",
-      "urdu": "خون کو سرخ کیا نظر آتا ہے؟",
-      "options": [
-        "Red corpuscles",
-        "Hemoglobin",
-        "Plasma",
-        "Certain secretions"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated by NS on 5-09-2026</span><span style=\"font-size: 14px;\"><font color=\"#9c00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The book is lying _______ the table.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "On",
-        "Upon",
-        "In",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><font style=\"\"><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#9c00ff\" style=\"\">Last updated by NA on 5-09-2026</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who chose the name of Pakistan?",
-      "urdu": "پاکستان کا نام کس نے چنا؟",
-      "options": [
-        "Allama Iqbal",
-        "Quaid-e-Azam",
-        "Chaudry Rehmat Ali",
-        "Hafiz Jalandhri"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which phenomenon causes the apparent change in the position of a nearby star when observed from different positions of Earth's orbit?",
-      "urdu": "زمین کے مدار میں مختلف مقامات سے مشاہدہ کرنے پر قریبی ستارے کی ظاہری پوزیشن میں تبدیلی کس مظہر کی وجہ سے ہوتی ہے؟",
-      "options": [
-        "Stellar Parallax",
-        "Refraction",
-        "Reflection",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Were I in your position, I _____ reconsider the decision.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Will",
-        "Would",
-        "Can",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-09-2026</font></b></p>",
       "category": "all"
     }
   ]
