@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-07T18:02:25.983860",
+    "fetched_at": "2026-09-07T21:49:29.230625",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "When was the first component of the International Space Station (ISS) launched?",
+      "urdu": "بین الاقوامی خلائی اسٹیشن  کا پہلا جزو کب خلا میں بھیجا گیا تھا؟",
+      "options": [
+        "20 November 1998",
+        "4 October 1957",
+        "12 April 1961",
+        "15 November 2000"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
     {
       "q": "In MS PowerPoint, which view allows you to edit the global layout, font, and background for all slides?",
       "urdu": "ایم ایس پاورپوائنٹ میں کون سا ویو تمام سلائیڈز کے لیے مجموعی لے آؤٹ، فونٹ اور بیک گراؤنڈ میں ترمیم کرنے کی اجازت دیتا ہے؟",
@@ -643,19 +656,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Happy is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hapless",
-        "Unlucky",
-        "Lucky",
-        "All of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 10-06-2026</font></b></span></p>",
       "category": "all"
     }
   ]
