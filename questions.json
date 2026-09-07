@@ -3,10 +3,310 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-07T13:12:10.068789",
+    "fetched_at": "2026-09-07T18:02:25.983860",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "In MS PowerPoint, which view allows you to edit the global layout, font, and background for all slides?",
+      "urdu": "ایم ایس پاورپوائنٹ میں کون سا ویو تمام سلائیڈز کے لیے مجموعی لے آؤٹ، فونٹ اور بیک گراؤنڈ میں ترمیم کرنے کی اجازت دیتا ہے؟",
+      "options": [
+        "Normal View",
+        "Slide Master View",
+        "Reading View",
+        "Slide Sorter View"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\"> Slide Master View</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the XLOOKUP function in modern MS Excel replace?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "VLOOKUP and HLOOKUP",
+        "SUM and AVERAGE",
+        "COUNT and COUNTA",
+        "IF and AND"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which protocol is primarily used for secure communication over a computer network (HTTPS uses port)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Port 80",
+        "Port 443",
+        "Port 21",
+        "Port 25"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which command in Windows opens the Run dialog box?",
+      "urdu": "ونڈوز میں رن ڈائیلاگ باکس  کھولنے کے لیے کون سی کمانڈ استعمال کی جاتی ہے؟",
+      "options": [
+        "Win + R",
+        "Ctrl + R",
+        "Alt + R",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Additional Information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In computer storage, 1 Petabyte (PB) is equivalent to:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1,024 GB",
+        "1,024 TB",
+        "1,024 MB",
+        "1,024 KB"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#295218\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary function of a Subnet Mask in IPv4 networking?",
+      "urdu": "آئی پی وی فور  نیٹ ورکنگ میں سب نیٹ ماسک  کا بنیادی کام کیا ہے",
+      "options": [
+        "To identify the MAC address",
+        "To distinguish Network ID from Host ID",
+        "To encrypt network traffic",
+        "To assign IP addresses automatically"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel, what will the formula =COUNTA(A1:A5) count?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Only numbers",
+        "Non-empty cells",
+        "Only text",
+        "Empty cells"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which memory acts as a buffer Between CPU and the main memory (RAM)?",
+      "urdu": "کون سی میموری سی پی یو اور مین میموری کے درمیان بفر کے طور پر کام کرتی ہے؟",
+      "options": [
+        "Cache memory",
+        "RAM",
+        "ROM",
+        "Static RAM"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px;\"><font color=\"#0000ff\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">Cache Memory</span> — </font><font color=\"#ff0000\">the buffer between CPU and RAM.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which utility in Windows checks the integrity of system files and repairs corrupted files?",
+      "urdu": "ونڈوز میں کون سی یوٹیلیٹی سسٹم فائلوں کی سالمیت  کو جانچتی اور خراب فائلوں کی مرمت کرتی ہے؟",
+      "options": [
+        "CHKDSK",
+        "SFC /scannow",
+        "DISKPART",
+        "TASKLIST"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which encryption standard is currently recommended for securing Wi-Fi networks?",
+      "urdu": "وائی فائی نیٹ ورکس کو محفوظ بنانے کے لیے اس وقت کون سا انکرپشن اسٹینڈرڈ تجویز کیا جاتا ہے؟",
+      "options": [
+        "WEP",
+        "WPA3",
+        "WPA",
+        "WPS"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the purpose of BCC in an email client like MS Outlook?",
+      "urdu": "ایم ایس آؤٹ لک جیسے ای میل کلائنٹ میں بی سی سی کا کیا مقصد ہے؟",
+      "options": [
+        "Send an email without a subject",
+        "Hide the recipient list from other recipients",
+        "Attach a file to the email",
+        "Block unwanted emails"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following are the types of loops in C++?",
+      "urdu": "درج ذیل میں سے کون کون سی لوپسکی اقسام سی پلس پلس  میں استعمال ہوتی ہیں؟",
+      "options": [
+        "For, While, Do-While",
+        "If, Else, Switch",
+        "Input, Output, Print",
+        "Class, Object, Function"
+      ],
+      "correct": 0,
+      "explanation": "<p data-end=\"70\" data-start=\"27\"><font color=\"#0000ff\">There are <strong data-end=\"62\" data-start=\"37\">3 main types of loops</strong> in C++:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which operator is used to take input from the user in C++?",
+      "urdu": "سی پلس پلس میں صارف سے اِن پُٹ لینے کے لیے کون سا آپریٹر استعمال کیا جاتا ہے؟",
+      "options": [
+        "<<",
+        ">>",
+        "==",
+        "="
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which statement is used to display output on the screen in C++?",
+      "urdu": "سی پلس پلس میں اسکرین پر آؤٹ پٹ دکھانے کے لیے کون سا بیان  استعمال کیا جاتا ہے؟",
+      "options": [
+        "cin",
+        "scanf()",
+        "cout",
+        "input()"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff0000\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Slide Animation is mainly used in which application?",
+      "urdu": "سلائیڈ اینیمیشن بنیادی طور پر کس ایپلیکیشن میں استعمال ہوتی ہے؟",
+      "options": [
+        "MS Word",
+        "MS Excel",
+        "MS PowerPoint",
+        "MS Access"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan commemorated which Defence Day on September 6, 2026?",
+      "urdu": "پاکستان نے 6 ستمبر 2026 کو کون سا یومِ دفاع منایا؟",
+      "options": [
+        "60th",
+        "61st",
+        "62nd",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 112, 192);\">The nation is commemorating the </span><span style=\"color: red;\">61th Defence </span><span style=\"color: rgb(0, 112, 192);\">and Martyrs Day on 06.09.2026 to pay homage to martyrs.<o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Crtl + E is the shortcut key for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Center Align Text",
+        "Open the Search Box",
+        "Enable Flash Fill",
+        "Open the \"Edit\" Menu"
+      ],
+      "correct": 0,
+      "explanation": "<p><font style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"></font></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Defence day is celebrated in Pakistan on which date?",
+      "urdu": "پاکستان میں یومِ دفاع کس تاریخ کو منایا جاتا ہے؟",
+      "options": [
+        "6th September",
+        "23rd March",
+        "11th September",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(255, 0, 0);\">****</span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan Air Force Day is celebrated on which date?",
+      "urdu": "پاکستان ایئر فورس کا دن کس تاریخ کو منایا جاتا ہے؟",
+      "options": [
+        "6th September",
+        "7th September",
+        "8th September",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "COR Corel Draw is an example of___________?",
+      "urdu": "کورل ڈرا کس کی ایک مثال ہے؟",
+      "options": [
+        "Negative films",
+        "Vector graphics",
+        "Raster graphics or bitmaps",
+        "Color graphics",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><o:p></o:p></p>",
+      "category": "all"
+    },
+    {
+      "q": "National Navy day is celebrated on which date?",
+      "urdu": "قومی بحریہ کا دن کس تاریخ کو منایا جاتا ہے؟",
+      "options": [
+        "September 8",
+        "September 9",
+        "September 10",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of justify is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Defend",
+        "Support",
+        "Condemn",
+        "Explain"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The synonym of Seditious is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Loyal",
+        "Rebellious",
+        "Peaceful",
+        "Obedient"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
     {
       "q": "Which organization has won the Nobel Prize the most times?",
       "urdu": "کون سی تنظیم سب سے زیادہ مرتبہ نوبیل انعام جیت چکی ہے؟",
@@ -356,305 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 10-06-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Easy is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Difficult",
-        "Light",
-        "Simple",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Integrity is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Dishonesty",
-        "Honesty",
-        "Deception",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"\"><span style=\"background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 07-09-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Quaid-e-Azam was sworn in as the first Governor General of Pakistan on?",
-      "urdu": "قائداعظم نے پاکستان کے پہلے گورنر جنرل کی حیثیت سے حلف کب اٹھایا؟",
-      "options": [
-        "14 August 1947",
-        "15 August 1947",
-        "16 August 1947",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Justice is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fairness",
-        "Dishonesty",
-        "Inequality",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder; font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 07-09-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which River is known as the 'Lifeline of Pakistan'?",
-      "urdu": "کون سا دریا پاکستان کی شہ رگ کے طور پر جانا جاتا ہے؟",
-      "options": [
-        "Chenab",
-        "Indus",
-        "Ravi",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the National Tree of Pakistan?",
-      "urdu": "پاکستان کا قومی درخت کون سا ہے؟",
-      "options": [
-        "Deodar",
-        "Neem",
-        "Peepul",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which pass connects Pakistan and Afghanistan?",
-      "urdu": "کون سا درہ پاکستان اور افغانستان کو ملاتا ہے؟",
-      "options": [
-        "Babusar Pass",
-        "Bashkaro Pass",
-        "Tochi Pass",
-        "Khyber Pass"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"\" msonormal\"\"=\"\"><b style=\"\"><font color=\"#0000ff\">Pass connecting</font><font color=\"#ff0000\"> Pakistan and Afghanistan is the Khyber Pass</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "FATA was merged with KPK under which constitutional amendment?",
-      "urdu": "فاٹا کو خیبر پختونخوا میں کس آئینی ترمیم کے تحت ضم کیا گیا؟",
-      "options": [
-        "22nd",
-        "23rd",
-        "24th",
-        "25th"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did Pakistan officially join / become a member of the United Nations (UNO)?",
-      "urdu": "پاکستان نےکب باضابطہ طور پر اقوام متحدہ کے اداروں میں شمولیت اختیار کی؟",
-      "options": [
-        "30 September 1947",
-        "3 September 1947",
-        "10 September 1947",
-        "20 September 1947"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who became first Nobel Prize Laureate in the history of Pakistan?",
-      "urdu": "پاکستان کی تاریخ میں نوبیل انعام حاصل کرنے والے پہلے شخص کون تھے؟",
-      "options": [
-        "Dr Abdul Qadeer Khan",
-        "Malala Yousafzai",
-        "Dr Abdul Salam",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: “To make both ends meet” means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To spend money carelessly",
-        "To become very rich",
-        "To earn just enough to cover one's expenses",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Efficient is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Wasteful",
-        "Effective",
-        "Weak",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change the narration: He said, \"I am tired.\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He told that he is tired.",
-        "He said that I was tired.",
-        "He said that he was tired.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct active/passive voice: The police arrested the suspect.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The suspect has arrested by the police",
-        "The suspect was arrested by the police",
-        "The police was arrested the suspect",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He has been working here _______ 2015.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "For",
-        "From",
-        "Since",
-        "Off"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If I ___ rich, I would travel the world.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Was",
-        "Were",
-        "Have",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the correct plural form of 'analysis'?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Analysis",
-        "Analyses",
-        "Analayses",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The correct plural of 'phenomenon' is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Phenom",
-        "Phenomenas",
-        "Phenomena",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym Scarce is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Mediocre",
-        "Abundant",
-        "Plentiful",
-        "Both B and C"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Meticulous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Painstaking",
-        "Conscientious",
-        "Precise",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p data-pm-slice=\"1 1 []\" style=\"\"><font color=\"#ff0000\">Painstaking means بہت محتاط اور درست</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will be the next term in the pattern? 2, 4, 8, 16, ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "18",
-        "24",
-        "32",
-        "64"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If A = 1, B = 2, C = 3, and so on, what is the numerical value of CAT?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24",
-        "26",
-        "28",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Using A = 1, B = 2, C = 3, ... Z = 26</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A clock shows 3:00. What is the angle between the hour hand and the minute hand?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "180°",
-        "120°",
-        "90°",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">At 3:00, the minute hand is at 12 and the hour hand is at 3. </font></b></p>",
       "category": "all"
     }
   ]
