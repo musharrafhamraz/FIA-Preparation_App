@@ -3,10 +3,75 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-07T21:49:29.230625",
+    "fetched_at": "2026-09-08T05:35:38.811842",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What will happen if you release the mouse button before releasing the shift key when you draw a square?",
+      "urdu": "اگر آپ کو مربع وقت شفٹ کی کو چھوڑنے سے پہلے ماؤس کا بٹن چھوڑ دیں تو کیا کریں؟",
+      "options": [
+        "The square will be larger",
+        "The square will not be a perfect square",
+        "The square will not be at the center of the slide",
+        "The square will be smaller"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Slide show options available to the presenter include all of the following except? Navigation commands, Transitions command, Speaker notes command, Meeting minder command",
+      "urdu": "سلائیڈ شو کے اختیارات میں درج ذیل میں سے کون سا اختیار شامل نہیں ہوتا؟",
+      "options": [
+        "Navigation commands",
+        "Transitions command",
+        "Speaker notes command",
+        "Meeting minder command"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Microsoft PowerPoint you can tell when an object is active because?",
+      "urdu": "مائیکروسافٹ پاورپوائنٹ میں آپ کیسے جان سکتے ہیں کہ کوئی چیز فعال ہے؟",
+      "options": [
+        "Eight small sizing handles appear surrounding the text",
+        "The object is highlighted",
+        "A box frame appears surrounding the text",
+        "Both A and B"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following bypasses the print dialog box when printing individual slides or an entire presentation?",
+      "urdu": "پریزنٹیشن کی انفرادی سلائیڈ یا پوری پریزنٹیشن پرنٹ کرتے وقت پرنٹ ڈائیلاگ باکس کو کون سا آپشن نظر انداز کرتا ہے؟",
+      "options": [
+        "The Print Button",
+        "File, Print, Preview",
+        "File, Print",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS PowerPoint presentations, Mr. Ali has to designs regulate the layout and formatting for the slide for ICOMETS. These are commonly known as?",
+      "urdu": "ایم ایس پاورپوائنٹ میں سلائیڈز کے لے آؤٹ اور فارمیٹنگ کو منظم کرنے کے لیے استعمال ہونے والی چیزیں کیا کہلاتی ہیں؟",
+      "options": [
+        "Templates",
+        "Placeholders",
+        "Blueprints",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "When was the first component of the International Space Station (ISS) launched?",
       "urdu": "بین الاقوامی خلائی اسٹیشن  کا پہلا جزو کب خلا میں بھیجا گیا تھا؟",
@@ -591,71 +656,6 @@
       ],
       "correct": 3,
       "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zun-Noorain is the title of _____?",
-      "urdu": "زین نورین کس کا لقب ہے؟",
-      "options": [
-        "Hazrat Abu Bakar",
-        "Hazrat Umar",
-        "Hazrat  Usman",
-        "Hazrat Ali"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#0000ff\">He married </font><font color=\"#ff0000\">two daughters</font><font color=\"#0000ff\"> of </font><font color=\"#ff0000\">Prophet Muhammad</font><font color=\"#0000ff\"> (PBUH):</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which companion of Prophet Muhammad (PBUH) is known as \"As-Siddiq (The Truthful)\"?",
-      "urdu": "نبی کریم ﷺ کے کون سے صحابی کو الصدیق (سچے) کے لقب سے جانا جاتا ہے؟",
-      "options": [
-        "Hazrat Uthman (R.A)",
-        "Hazrat Ali (RA)",
-        "Hazrat Abu Bakr (RA)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Hazrat Abu Bakr (R.A)</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Prophet has been mentioned the most in Holy Quran?",
-      "urdu": "قرآن پاک میں سب سے زیادہ کس نبی کا ذکر آیا ہے؟",
-      "options": [
-        "Prophet Ibrahim (AS)",
-        "Prophet Musa (AS)",
-        "Prophet Nuh (AS)",
-        "Prophet Essa (AS)"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The shortest Surah of the Holy Quran is _____?",
-      "urdu": "قرآن پاک کی سب سے چھوٹی سورت  کونسی ہے؟",
-      "options": [
-        "Kausar",
-        "Asr",
-        "Ikhlas",
-        "Falaq"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Additional information</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under which Federal Ministry does the Islamabad Capital Territory (ICT) Police operate?",
-      "urdu": "اسلام آباد کیپیٹل ٹیریٹری پولیس کس وفاقی وزارت کے تحت کام کرتی ہے؟",
-      "options": [
-        "Ministry of Interior",
-        "Ministry of Defence",
-        "Ministry of Law and Justice",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
       "category": "all"
     }
   ]
