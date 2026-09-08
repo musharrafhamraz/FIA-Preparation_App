@@ -3,10 +3,608 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-08T05:35:38.811842",
+    "fetched_at": "2026-09-08T11:55:34.885215",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Article 48 QSO deals with:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Maps",
+        "Books of account",
+        "Confessions",
+        "Expert opinion"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Regular entries in books of account may be </font><font color=\"#ff0000\">relevant but are not</font><font color=\"#0000ff\">, by</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The River Thames is located in ____?",
+      "urdu": "دریائے ٹیمز کس ملک/علاقے میں واقع ہے؟",
+      "options": [
+        "London",
+        "Spain",
+        "Scotland",
+        "None of the above"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Capital of Bhutan?",
+      "urdu": "بھوٹان کا دارالحکومت کیا ہے؟",
+      "options": [
+        "Lima",
+        "Rangooon",
+        "Thimphu",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The fastest person in the world in 100 and 200-meter sprints is ______?",
+      "urdu": "سو (100) اور 200 میٹر کی دوڑ میں دنیا کا تیز ترین شخص کون ہے؟",
+      "options": [
+        "Kim Coliris",
+        "Usain Bolt",
+        "Dwain Chambers",
+        "Justin Gatlin"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under QSO, statements in published maps or charts are relevant under:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Article 48",
+        "Article 49",
+        "Article 50",
+        "Article 51"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"background-color: rgb(255, 255, 255);\"><font color=\"#0000ff\">Yes. Under the Qanun-e-Shahadat Order, 1984 (QSO),</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The shortest period of time is?",
+      "urdu": "وقت کا سب سے مختصر دورانیہ کون سا ہے؟",
+      "options": [
+        "Microsecond",
+        "Millisecond",
+        "Pico second",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which political party emerged as victorious to form federal government in Pakistan as a result of General Elections 2013?",
+      "urdu": "سن 2013ء کے عام انتخابات کے نتیجے میں پاکستان میں وفاقی حکومت بنانے کے لیے کون سی سیاسی جماعت کامیاب ہوئی؟",
+      "options": [
+        "Pakistan Muslim Leauge (N)",
+        "Pakistan Tehrik-e-Insaf",
+        "Pakistan Muslim League (Q)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The right of separate electorate was given to the Muslims under the Indian Councils Act of _____?",
+      "urdu": "مسلمانوں کو انڈین کونسلز ایکٹ _____ کے تحت علیحدہ انتخاب کا حق دیا گیا؟",
+      "options": [
+        "1910",
+        "1912",
+        "1908",
+        "1909"
+      ],
+      "correct": 3,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The amendment made in 1977 to hold referendum by the President of Pakistan was?",
+      "urdu": "سن 1977ء میں پاکستان کے صدر کو ریفرنڈم کروانے کے لیے کون سی ترمیم کی گئی تھی؟",
+      "options": [
+        "7th",
+        "8th",
+        "10th",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Section 51 Cr.P.C. primarily concerns:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Search of arrested persons",
+        "Search of witnesses",
+        "Bail",
+        "Confession"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">It deals with the search of a person who has been arrested and the</font><font color=\"#ff0000\"> handling of articles found during that search.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nawaz Sharif as Prime Minister of Pakistan addressed which session of the UN in 2013?",
+      "urdu": "نواز شریف نے 2013ء میں پاکستان کے وزیرِ اعظم کی حیثیت سے اقوام متحدہ کے کس اجلاس سے خطاب کیا؟",
+      "options": [
+        "60th",
+        "68th",
+        "65th",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who wrote the book known by the name of \"An Apology for Muhammad and Muhammadans\"?",
+      "urdu": "محمد اور محمدیوں کے لیے معذرت کے نام سے مشہور کتاب کس نے لکھی؟",
+      "options": [
+        "Roger William",
+        "Albert Mayo",
+        "John Davenport",
+        "William Muir"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Seeds of Indian participating in the Legislative Council of the Governor General of India are embodied in the?",
+      "urdu": "گورنر جنرل آف انڈیا کی قانون ساز کونسل میں ہندوستانیوں کی شرکت کے بیج کس قانون میں موجود تھے؟",
+      "options": [
+        "Indian Councils Act, 1892",
+        "Government of India Act, 1919",
+        "Indian Councils Act, 1861",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under the FIA Act, the Agency may investigate:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Dispense with personal attendance of the accused in appropriate circumstances",
+        "Cancel an FIR automatically",
+        "Arrest a witness",
+        "Transfer a case to FIA"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"overflow-wrap: break-word; margin-right: 0px; margin-left: 0px; --margin-Jyepat8C9ojMYpIlq1U1A:0; margin-block: 0px 0.25rem; --margin-block-start-Jyepat8C9ojMYpIlq1U1A:0; --margin-block-end-Jyepat8C9ojMYpIlq1U1A:0.25rem;\"><b><font color=\"#0000ff\">Under Section 3 of the Federal Investigation Agency Act, 1974, the FIA may investigate:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The chief characteristics of Govt of India Act 1935 was _____?",
+      "urdu": "گورنمنٹ آف انڈیا ایکٹ 1935 کی بنیادی خصوصیت کیا تھی؟",
+      "options": [
+        "Provincial Government at the center",
+        "Federal  Government at the center",
+        "Interim Government at the center",
+        "Provincial autonomy"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The administration of FIA vests in:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Federal Government",
+        "Director General",
+        "Provincial Government",
+        "Interior Secretary personally"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">Section 4</font><font color=\"#0000ff\"> distinguishes superintendence (Federal Government) from </font><span style=\"font-size: 0.875rem;\"><font color=\"#ff0000\">administration </font><font color=\"#0000ff\">(DG).</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "FIA members exercising investigation powers under Section 5 have powers:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Throughout Pakistan, subject to the Act/orders",
+        "Only within Lahore",
+        "Only within their home district",
+        "Only within Islamabad"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Section 5 </font><font color=\"#0000ff\">provides nationwide powers for inquiry/investigation, subject to</font><font color=\"#ff0000\"> <span style=\"font-size: 0.875rem;\">applicable orders.</span></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The main demand of simla Muslim Deputation accepted in Minto Morley Reforms of 1906 was about?",
+      "urdu": "منٹو مورلے ریفارمز میں شملہ مسلم ڈیپوٹیشن کا بنیادی مطالبہ کیا تھا؟",
+      "options": [
+        "Separate electorates",
+        "Separate muslim state",
+        "Separation of Sindh from Bombay",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\">Last verified on 08-08-2026</span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following were the features of the Mansabdari system introduced by the Mughals? 1. Periodic inspection of artillery 2. Branding horses 3. Hereditary grant of jagirs 4. Lack of distinction between civil and military departments",
+      "urdu": "مغلوں کے متعارف کردہ منصب داری نظام کی خصوصیات میں سے کون سی تھیں؟",
+      "options": [
+        "1 And 3",
+        "2 And 4",
+        "2 And 3",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan successfully tested five nuclear devices at Chaghi on _____?",
+      "urdu": "پاکستان نے چگی میں _____ پر پانچ جوہری آلات کا کامیابی کے ساتھ تجربہ کیا؟",
+      "options": [
+        "May 25 1998",
+        "May 20 1998",
+        "May 28 1998",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who introduced Two Nations Theory in the subcontinent?",
+      "urdu": "برصغیر میں دو قومی نظریہ کس نے متعارف کرایا؟",
+      "options": [
+        "Muhammad Ali Jinnah",
+        "Sir Syed Ahmad Khan",
+        "Allama Muhammad Iqbal",
+        "Zafar Ali khan"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the total number of seats Khyber Pakhtunkhwa Assembly has?",
+      "urdu": "خیبر پختونخوا اسمبلی کی نشستوں کی کل تعداد کتنی ہے؟",
+      "options": [
+        "145",
+        "140",
+        "150",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Khyber Pakhtunkhwa</font><font color=\"#0000ff\"> Assembly: </font><font color=\"#ff0000\">145</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">seats</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "There are similarities between the seals found at Mohenjodaro and _______?",
+      "urdu": "موئن جو دڑو سے ملنے والی مہروں میں مماثلت کس علاقے کی مہروں سے پائی گئی ہے؟",
+      "options": [
+        "Sumeria",
+        "China",
+        "Egypt",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following was the achieved milestone of the Non-Cooperation Movement of 1921?",
+      "urdu": "درج ذیل میں سے 1921ء کی عدم تعاون تحریک کی حاصل کردہ اہم کامیابی کون سی تھی؟",
+      "options": [
+        "The Hindus and the Muslims came closer in political pursuit",
+        "It stopped the injustice done to the Khilafat",
+        "Indian obtains some political rights",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the East India Company came into existence, England was ruled by the _______?",
+      "urdu": "جب ایسٹ انڈیا کمپنی وجود میں آئی تو انگلینڈ پر _______ حکمران تھے؟",
+      "options": [
+        "Normans",
+        "Hanoverians",
+        "Stuarts",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "GT Road was constructed by _____?",
+      "urdu": "جی ٹی روڈ کو کس نے تعمیر کیا تھا؟",
+      "options": [
+        "Feroz Tughluk",
+        "Tipu Sultan",
+        "Sher Shah Suri",
+        "Ameer Kror"
+      ],
+      "correct": 2,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Match the Following: Mughal Emperors with Their Real Names: Babar → 3. Zahiruddin, Jahangir → 4. Salim, Shah Jahan → 1. Khurram, Sher Shah → 2. Farid Khan",
+      "urdu": "مغل بادشاہوں کو ان کے اصل ناموں کے ساتھ ملائیں۔",
+      "options": [
+        "A2-B4-C1-D3",
+        "A3-B1-C5-D2",
+        "A3-B4-C1-D2",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\" style=\"\"><b>The correct matching is:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the Lucknow Pact made between the Muslim League and Congress?",
+      "urdu": "مسلم لیگ اور کانگریس کے درمیان لکھنؤ معاہدہ کب ہوا؟",
+      "options": [
+        "November 1915",
+        "December 1917",
+        "November 1914",
+        "December 1916"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\" style=\"\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Lucknow Pact</font><font color=\"#0000ff\" style=\"\"> (</font><font color=\"#ff00ff\" style=\"\">December 1916</font><font color=\"#0000ff\" style=\"\">) was an agreement between:</font></span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sir Syed Ahmed Khan wrote a pamphlet on the causes of Indian revolt to remove the misunderstandings about the Muslims’ involvement in the War of Independence of 1857. What was the name of that pamphlet?",
+      "urdu": "سر سید احمد خان نے 1857ء کی جنگِ آزادی میں مسلمانوں کی شمولیت سے متعلق غلط فہمیوں کو دور کرنے کے لیے جو پمفلٹ لکھا، اس کا نام کیا تھا؟",
+      "options": [
+        "Risala-i-Asbab-e-Baghawat-i-Hind",
+        "Tehzeeb-ul-Akhlaq",
+        "Tehreek-i-Asbab-e-Baghawat-i-Hind",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to the Devolution Plan 2000 voting age is ______?",
+      "urdu": "ڈیولیشن پلان 2000 کے مطابق ووٹ ڈالنے کی عمر دیکھنے والی تھی؟",
+      "options": [
+        "21 Years",
+        "20 Years",
+        "18 Years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The conclusion of his argument, while ________, is far from _______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Germane - Relevant",
+        "Worthwhile - Valueless",
+        "Esoteric - Obscure",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Federal Investigation Agency Act is primarily concerned with:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Constitution and functioning of FIA",
+        "Civil procedure",
+        "Evidence in family cases",
+        "Contract law"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The Act provides for the constitution of the </font><font color=\"#ff0000\">Federal Investigation Agency</font><font color=\"#0000ff\"> and <span style=\"font-size: 0.875rem;\">related matters.</span></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In this biography we are given a glimpse of the young man _______ pursuing the path of the poet despite _______  and rejection slips.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Doggedly - Disappointment",
+        "Tirelessly - Encouragement",
+        "Successfully - Acclaim",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an official law listed by FIA for its legal framework?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "FIA Act, 1974",
+        "Code of Criminal Procedure, 1898",
+        "Pakistan Penal Code 1860",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">FIA's official laws</font><font color=\"#ff0000\"> page lists the FIA Act</font><font color=\"#0000ff\">, Pakistan Penal Code and Code of criminal Procedure among its laws.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The principal purpose of the Federal Investigation Agency Act, 1974 is to provide for:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Constitution of a Federal Investigation Agency",
+        "Regulation of provincial assemblies",
+        "Creation of civil courts",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">This is expressly stated in the</font><font color=\"#ff0000\"> long title/preamble </font><font color=\"#0000ff\">of the Act.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Even though the auditors _____ the accountant, his reputation was _____ by the allegations of fraud.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Indicted - Blemished",
+        "Betrayed - Ruined",
+        "Cleared - Condoned",
+        "Exonerated - Tarnished"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "BASIC stands for?",
+      "urdu": "بیسک کا مطلب کیا ہے؟",
+      "options": [
+        "Beginner’s All-purpose Symbolic Instruction Code",
+        "Binary Array System for Integrated Coding",
+        "Basic Application Software in Computing",
+        "Backup And System Interface Controller"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Time required for a computer to locate and transfer data is called?",
+      "urdu": "کمپیوٹر کو ڈیٹا تلاش کرنے اور منتقل کرنے میں درکار وقت کو کیا کہتے ہیں؟",
+      "options": [
+        "Basic Time",
+        "Starting Point",
+        "Access Time",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If CPU executes multiple programs simultaneously, it is known as?",
+      "urdu": "اگر سی پی یو ایک ہی وقت میں متعدد پروگراموں پر عمل درآمد کرے تو اسے کہا جاتا ہے؟",
+      "options": [
+        "Multiprocessing",
+        "Multitasking",
+        "Timesharing",
+        "Multiprogramming"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b style=\"\"><font color=\"#ff0000\">Multitasking</font><font color=\"#0000ff\"> generally means running multiple tasks by sharing CPU time.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Multiprogramming</font><font color=\"#0000ff\"> means keeping multiple programs in memory and switching the CPU among them.</font></b></li></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why ABC computer is called so?",
+      "urdu": "اے بی سی کمپیوٹر کو اے بی سی کیوں کہا جاتا ہے؟",
+      "options": [
+        "Because it was thought to be the first computer so named with first alphabets of English",
+        "Because it was developed by Atanasoff and Berry",
+        "Both of above are the reason to name the computer ABC",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an example of Database Management System?",
+      "urdu": "مندرجہ ذیل میں سے کون سا ڈیٹا بیس مینجمنٹ سسٹم کی مثال ہے؟",
+      "options": [
+        "MS Word",
+        "ORACLE",
+        "Adobe Photoshop",
+        "US Power Point"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The term GIGO is related to?",
+      "urdu": "جی آئی جی او کی اصطلاح کس سے متعلق ہے؟",
+      "options": [
+        "Flexibility",
+        "Versatility",
+        "Accuracy",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "MBR stands for?",
+      "urdu": "ایم بی آر سے کیا مراد ہے؟",
+      "options": [
+        "Master Break Record",
+        "Master Boot Race",
+        "Master Boot Record",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Personnel who design, program, operate and maintain computer equipment refers to?",
+      "urdu": "کمپیوٹر آلات کو ڈیزائن، پروگرام، آپریٹ اور برقرار رکھنے والے افراد کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Programmer",
+        "Peopleware",
+        "System Analyst",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "JPEG stands for?",
+      "urdu": "جے پی ای جی کا مطلب کیا ہے؟",
+      "options": [
+        "Joint Photo Editing Group",
+        "Joint Photographic Experts Group",
+        "Joint Photo Expert Group",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Last verified on 08-09-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is System Analysis?",
+      "urdu": "سسٹم کا تجزیہ کیا ہے؟",
+      "options": [
+        "System Analysis involves creating formal model of the problem to be solved",
+        "The design of the screen the user will see and use to enter or display data",
+        "System analysis defines the format and type of data the program will use",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "What will happen if you release the mouse button before releasing the shift key when you draw a square?",
       "urdu": "اگر آپ کو مربع وقت شفٹ کی کو چھوڑنے سے پہلے ماؤس کا بٹن چھوڑ دیں تو کیا کریں؟",
@@ -57,605 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS PowerPoint presentations, Mr. Ali has to designs regulate the layout and formatting for the slide for ICOMETS. These are commonly known as?",
-      "urdu": "ایم ایس پاورپوائنٹ میں سلائیڈز کے لے آؤٹ اور فارمیٹنگ کو منظم کرنے کے لیے استعمال ہونے والی چیزیں کیا کہلاتی ہیں؟",
-      "options": [
-        "Templates",
-        "Placeholders",
-        "Blueprints",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-05-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the first component of the International Space Station (ISS) launched?",
-      "urdu": "بین الاقوامی خلائی اسٹیشن  کا پہلا جزو کب خلا میں بھیجا گیا تھا؟",
-      "options": [
-        "20 November 1998",
-        "4 October 1957",
-        "12 April 1961",
-        "15 November 2000"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In MS PowerPoint, which view allows you to edit the global layout, font, and background for all slides?",
-      "urdu": "ایم ایس پاورپوائنٹ میں کون سا ویو تمام سلائیڈز کے لیے مجموعی لے آؤٹ، فونٹ اور بیک گراؤنڈ میں ترمیم کرنے کی اجازت دیتا ہے؟",
-      "options": [
-        "Normal View",
-        "Slide Master View",
-        "Reading View",
-        "Slide Sorter View"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\"> Slide Master View</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the XLOOKUP function in modern MS Excel replace?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "VLOOKUP and HLOOKUP",
-        "SUM and AVERAGE",
-        "COUNT and COUNTA",
-        "IF and AND"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which protocol is primarily used for secure communication over a computer network (HTTPS uses port)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Port 80",
-        "Port 443",
-        "Port 21",
-        "Port 25"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which command in Windows opens the Run dialog box?",
-      "urdu": "ونڈوز میں رن ڈائیلاگ باکس  کھولنے کے لیے کون سی کمانڈ استعمال کی جاتی ہے؟",
-      "options": [
-        "Win + R",
-        "Ctrl + R",
-        "Alt + R",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Additional Information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In computer storage, 1 Petabyte (PB) is equivalent to:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1,024 GB",
-        "1,024 TB",
-        "1,024 MB",
-        "1,024 KB"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#295218\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary function of a Subnet Mask in IPv4 networking?",
-      "urdu": "آئی پی وی فور  نیٹ ورکنگ میں سب نیٹ ماسک  کا بنیادی کام کیا ہے",
-      "options": [
-        "To identify the MAC address",
-        "To distinguish Network ID from Host ID",
-        "To encrypt network traffic",
-        "To assign IP addresses automatically"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel, what will the formula =COUNTA(A1:A5) count?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Only numbers",
-        "Non-empty cells",
-        "Only text",
-        "Empty cells"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which memory acts as a buffer Between CPU and the main memory (RAM)?",
-      "urdu": "کون سی میموری سی پی یو اور مین میموری کے درمیان بفر کے طور پر کام کرتی ہے؟",
-      "options": [
-        "Cache memory",
-        "RAM",
-        "ROM",
-        "Static RAM"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-bottom: 10px;\"><font color=\"#0000ff\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">Cache Memory</span> — </font><font color=\"#ff0000\">the buffer between CPU and RAM.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which utility in Windows checks the integrity of system files and repairs corrupted files?",
-      "urdu": "ونڈوز میں کون سی یوٹیلیٹی سسٹم فائلوں کی سالمیت  کو جانچتی اور خراب فائلوں کی مرمت کرتی ہے؟",
-      "options": [
-        "CHKDSK",
-        "SFC /scannow",
-        "DISKPART",
-        "TASKLIST"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which encryption standard is currently recommended for securing Wi-Fi networks?",
-      "urdu": "وائی فائی نیٹ ورکس کو محفوظ بنانے کے لیے اس وقت کون سا انکرپشن اسٹینڈرڈ تجویز کیا جاتا ہے؟",
-      "options": [
-        "WEP",
-        "WPA3",
-        "WPA",
-        "WPS"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the purpose of BCC in an email client like MS Outlook?",
-      "urdu": "ایم ایس آؤٹ لک جیسے ای میل کلائنٹ میں بی سی سی کا کیا مقصد ہے؟",
-      "options": [
-        "Send an email without a subject",
-        "Hide the recipient list from other recipients",
-        "Attach a file to the email",
-        "Block unwanted emails"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following are the types of loops in C++?",
-      "urdu": "درج ذیل میں سے کون کون سی لوپسکی اقسام سی پلس پلس  میں استعمال ہوتی ہیں؟",
-      "options": [
-        "For, While, Do-While",
-        "If, Else, Switch",
-        "Input, Output, Print",
-        "Class, Object, Function"
-      ],
-      "correct": 0,
-      "explanation": "<p data-end=\"70\" data-start=\"27\"><font color=\"#0000ff\">There are <strong data-end=\"62\" data-start=\"37\">3 main types of loops</strong> in C++:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which operator is used to take input from the user in C++?",
-      "urdu": "سی پلس پلس میں صارف سے اِن پُٹ لینے کے لیے کون سا آپریٹر استعمال کیا جاتا ہے؟",
-      "options": [
-        "<<",
-        ">>",
-        "==",
-        "="
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which statement is used to display output on the screen in C++?",
-      "urdu": "سی پلس پلس میں اسکرین پر آؤٹ پٹ دکھانے کے لیے کون سا بیان  استعمال کیا جاتا ہے؟",
-      "options": [
-        "cin",
-        "scanf()",
-        "cout",
-        "input()"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff0000\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Slide Animation is mainly used in which application?",
-      "urdu": "سلائیڈ اینیمیشن بنیادی طور پر کس ایپلیکیشن میں استعمال ہوتی ہے؟",
-      "options": [
-        "MS Word",
-        "MS Excel",
-        "MS PowerPoint",
-        "MS Access"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#0000ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan commemorated which Defence Day on September 6, 2026?",
-      "urdu": "پاکستان نے 6 ستمبر 2026 کو کون سا یومِ دفاع منایا؟",
-      "options": [
-        "60th",
-        "61st",
-        "62nd",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 112, 192);\">The nation is commemorating the </span><span style=\"color: red;\">61th Defence </span><span style=\"color: rgb(0, 112, 192);\">and Martyrs Day on 06.09.2026 to pay homage to martyrs.<o:p></o:p></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Crtl + E is the shortcut key for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Center Align Text",
-        "Open the Search Box",
-        "Enable Flash Fill",
-        "Open the \"Edit\" Menu"
-      ],
-      "correct": 0,
-      "explanation": "<p><font style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"></font></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Defence day is celebrated in Pakistan on which date?",
-      "urdu": "پاکستان میں یومِ دفاع کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "6th September",
-        "23rd March",
-        "11th September",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(255, 0, 0);\">****</span></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan Air Force Day is celebrated on which date?",
-      "urdu": "پاکستان ایئر فورس کا دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "6th September",
-        "7th September",
-        "8th September",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "COR Corel Draw is an example of___________?",
-      "urdu": "کورل ڈرا کس کی ایک مثال ہے؟",
-      "options": [
-        "Negative films",
-        "Vector graphics",
-        "Raster graphics or bitmaps",
-        "Color graphics",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><o:p></o:p></p>",
-      "category": "all"
-    },
-    {
-      "q": "National Navy day is celebrated on which date?",
-      "urdu": "قومی بحریہ کا دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "September 8",
-        "September 9",
-        "September 10",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of justify is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Defend",
-        "Support",
-        "Condemn",
-        "Explain"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The synonym of Seditious is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Loyal",
-        "Rebellious",
-        "Peaceful",
-        "Obedient"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><span style=\"font-size: 14px;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organization has won the Nobel Prize the most times?",
-      "urdu": "کون سی تنظیم سب سے زیادہ مرتبہ نوبیل انعام جیت چکی ہے؟",
-      "options": [
-        "Amnesty International (AI)",
-        "International Committee of the Red Cross (ICRC)",
-        "World Health Organization (WHO)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 07-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: Beat about the bush means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To avoid discussing a topic directly",
-        "To avoid the main topic",
-        "To avoid taking about what is important",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Capital of Canada is _____?",
-      "urdu": "کینیڈا کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Ottawa",
-        "Tokyo",
-        "New Delhi",
-        "London"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt; line-height: 107%;\"><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is the world's largest inland water body?",
-      "urdu": "دنیا کا سب سے بڑا اندرونی آبی ذخیرہ کون سا ہے؟",
-      "options": [
-        "Sea of Azov",
-        "Black Sea",
-        "Caspian Sea",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is called the Land of the Midnight Sun?",
-      "urdu": "کس ملک کو آدھی رات کے سورج کی سرزمین کہا جاتا ہے؟",
-      "options": [
-        "Netherlands",
-        "Japan",
-        "Norway",
-        "South Africa"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Capital of Azerbaijan?",
-      "urdu": "آذربائیجان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Brussels",
-        "Dhaka",
-        "Sofia",
-        "Baku"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left: 0.5in;\"><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Azerbaijan</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Capital</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Baku</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many bones in human body (skeleton)?",
-      "urdu": "انسانی جسم میں کتنی ہڈیاں ہیں؟",
-      "options": [
-        "200",
-        "206",
-        "270",
-        "300"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The total </font><font color=\"#ff0000\">bones of our body</font><font color=\"#0000ff\"> can be divided into:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Insulin is produced/secreted by which organ of the body?",
-      "urdu": "انسولین جسم کے کس عضو سے تیار ہوتی ہے؟",
-      "options": [
-        "Liver",
-        "Pancreas",
-        "Kidney",
-        "Brain"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Deficiency of Iodine causes ____?",
-      "urdu": "آیوڈین کی کمی سے کون سی بیماری ہوتی ہے؟",
-      "options": [
-        "Imbalances in fluid volume in the vessels and tissues",
-        "Goiter",
-        "Tetnas",
-        "Cancer"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which part of the cell contains genetic material?",
-      "urdu": "سیل کے کس حصے میں جینیاتی مواد موجود ہوتا ہے؟",
-      "options": [
-        "Ribosome",
-        "Cytoplasm",
-        "Nucleus",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The only elemental metal that is liquid at room temperature is?",
-      "urdu": "کمرے کے درجہ حرارت پر مائع حالت میں رہنے والی واحد دھات کون سی ہے؟",
-      "options": [
-        "Lead",
-        "Zinc",
-        "Mercury",
-        "Aluminum"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "For which purpose seismograph is used?",
-      "urdu": "سیسموگراف کس مقصد کے لیے استعمال کیا جاتا ہے؟",
-      "options": [
-        "For predicting earthquake",
-        "For recording earthquake",
-        "For measuring intensity of earthquake",
-        "For locating epicenter of earthquake"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</span></font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "The study of Earthquakes is known as _____?",
-      "urdu": "زلزلے کا مطالعہ _____ کے نام سے جانا جاتا ہے؟",
-      "options": [
-        "Geology",
-        "Seismology",
-        "Numistatics",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which key is used to create chart from selected data in excel?",
-      "urdu": "ایکسل میں منتخب ڈیٹا سے چارٹ بنانے کے لیے کون سی کلید استعمال ہوتی ہے؟",
-      "options": [
-        "F10",
-        "F1",
-        "F11",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the computer network type that connect in a larger area, such as districts or cities?",
-      "urdu": "کون سا کمپیوٹر نیٹ ورک قسم بڑی جگہوں، جیسے اضلاع یا شہروں کو جوڑتا ہے؟",
-      "options": [
-        "LAN",
-        "WAN",
-        "MAN",
-        "PAN"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">MAN</font><font color=\"#0000ff\"> (Metropolitan Area Network): </font><font color=\"#ff0000\">City or district coverage</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "RAM stands for ____?",
-      "urdu": "ریم سے کیا مراد ہے؟",
-      "options": [
-        "Random Access Memory",
-        "Random Access Money",
-        "Random Accurate Memory",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"arial, sans-serif\"><b style=\"\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\"></span></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pick out the name of Sahabi who supplied food to the Holy Prophet (PBUH) for three years in the Shoab-e-Abi Talib?",
-      "urdu": "شعبِ ابی طالب میں تین سالہ محاصرے کے دوران حضور اکرم ﷺ کو خوراک کون پہنچاتا تھا؟",
-      "options": [
-        "Hakim ibn Hizam",
-        "Hazrat Ali (RA)",
-        "Hazrat Umar (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many months are there in the Islamic calendar?",
-      "urdu": "اسلامی کیلنڈر میں کتنے مہینے ہیں؟",
-      "options": [
-        "10",
-        "12",
-        "14",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; font-size: 16px; font-family: Verdana;\"><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">12 months</font><font color=\"#0000ff\"> in the </font><font color=\"#ff0000\">Islamic</font><font color=\"#0000ff\"> (Hijri) calendar:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the first month of Islamic Calendar?",
-      "urdu": "اسلامی کیلنڈر کا پہلا مہینہ کون سا ہے؟",
-      "options": [
-        "Muharram",
-        "Rajab",
-        "Jamadi-ul-Awwal",
-        "Safar"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\">12 Islamic Months</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first mu'azzin (prayer caller) of Islam?",
-      "urdu": "اسلام کا پہلا موذن کون تھا؟",
-      "options": [
-        "Hazrat Bilal",
-        "Hazrat Umer",
-        "Hazrat Usman",
-        "Hazrat Abubakar"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"\"><b style=\"\"><font color=\"#0000ff\">Hazrat Bilal called the</font><font color=\"#ff0000\"> first Azan of  Fajar prayer</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the other name of Ghazwa-e-Khandaq (Trench)?",
-      "urdu": "غزوہ خندق کا دوسرا نام کیا ہے؟",
-      "options": [
-        "Akhraj",
-        "Qanaqa",
-        "Kuraza",
-        "Ahzab"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
       "category": "all"
     }
   ]
