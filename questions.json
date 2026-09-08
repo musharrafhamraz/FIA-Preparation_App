@@ -3,10 +3,153 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-08T11:55:34.885215",
+    "fetched_at": "2026-09-08T17:00:09.898736",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which of the following cannot be inserted from Insert > Picture in MS Word? Word art, Chart, Graph, Clipart",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Word art",
+        "Chart",
+        "Graph",
+        "Clipart"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which option in File pull-down menu is used to close a file in MS Word?",
+      "urdu": "ایم ایس ورڈ میں فائل کو بند کرنے کے لیے فائل پل ڈاؤن مینو میں کون سا آپشن استعمال ہوتا ہے؟",
+      "options": [
+        "Close",
+        "Quit",
+        "Exit",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">To close a file in </font><font color=\"#ff0000\">Microsoft Word</font><font color=\"#0000ff\">, you can select the </font><font color=\"#ff0000\">Close option</font><font color=\"#0000ff\"> from the File menu.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The portion of information received from an accused which distinctly relates to a fact thereby discovered is dealt with under:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Article 38",
+        "Article 39",
+        "Article 40",
+        "Article 42"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">Article 40 </font><font color=\"#0000ff\">concerns the discovery-related portion of information supplied by </font></b><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">an accused.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "“Admission is not conclusive proof, but may operate as estoppel” is contained in:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Article 43",
+        "Article 44",
+        "Article 45",
+        "Article 46"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Article 45 deals with the </font><font color=\"#ff0000\">evidentary</font><font color=\"#0000ff\"> effect of admissions.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the default left margin in MS Word 2003 document?",
+      "urdu": "ایم ایس ورڈ 2003 کی دستاویز میں پہلے سے مقررہ بائیں حاشیہ عورت ہوتا تھا؟",
+      "options": [
+        "2 inch",
+        "1 inch",
+        "1.25 inch",
+        "Text holders"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is placed to the left of horizontal scroll bar in MS Word?",
+      "urdu": "ایم ایس ورڈ میں افقی اسکرول بار کے بائیں طرف موجود ہوتا ہے؟",
+      "options": [
+        "View buttons",
+        "Tab stop buttons",
+        "Split buttons",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ctrl + B Shortcut key is used in MS Word to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Search the selected text",
+        "Paste the selected text",
+        "Bold the selected text",
+        "Open the specified file"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bold;\"><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"color: rgb(255, 0, 0);\">:</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why did Pakistan leave the Commonwealth?",
+      "urdu": "پاکستان نے دولتِ مشترکہ کیوں چھوڑی؟",
+      "options": [
+        "Because of the war between India and Pakistan",
+        "Because of the interference of Russia in Afghanistan",
+        "Because of the recognition of Bangladesh",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has the largest army?",
+      "urdu": "سب سے زیادہ فوج کس ملک کی ہے؟",
+      "options": [
+        "India",
+        "USA",
+        "China",
+        "Russia"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><span style=\"font-size: 14px;\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Statue of Liberty in New York was designed and prepared in ______?",
+      "urdu": "نیو یارک میں مجسمہ آف لبرٹی کو ______ میں ڈیزائن اور تیار کیا گیا تھا؟",
+      "options": [
+        "United States of America",
+        "France",
+        "England",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Al-Azhar University is the chief centre of Islamic and Arabic learning in the world, located in the?",
+      "urdu": "جامعۃ الازہر دنیا میں اسلامی اور عربی تعلیم کا اہم مرکز ہے، یہ کہاں واقع ہے؟",
+      "options": [
+        "Makkah, Saudi Arabia",
+        "Baghdad, Iraq",
+        "Cairo, Egypt",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "Article 48 QSO deals with:",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -512,149 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><ul></ul><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b style=\"\"><font color=\"#ff0000\">Multitasking</font><font color=\"#0000ff\"> generally means running multiple tasks by sharing CPU time.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Multiprogramming</font><font color=\"#0000ff\"> means keeping multiple programs in memory and switching the CPU among them.</font></b></li></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why ABC computer is called so?",
-      "urdu": "اے بی سی کمپیوٹر کو اے بی سی کیوں کہا جاتا ہے؟",
-      "options": [
-        "Because it was thought to be the first computer so named with first alphabets of English",
-        "Because it was developed by Atanasoff and Berry",
-        "Both of above are the reason to name the computer ABC",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is an example of Database Management System?",
-      "urdu": "مندرجہ ذیل میں سے کون سا ڈیٹا بیس مینجمنٹ سسٹم کی مثال ہے؟",
-      "options": [
-        "MS Word",
-        "ORACLE",
-        "Adobe Photoshop",
-        "US Power Point"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term GIGO is related to?",
-      "urdu": "جی آئی جی او کی اصطلاح کس سے متعلق ہے؟",
-      "options": [
-        "Flexibility",
-        "Versatility",
-        "Accuracy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "MBR stands for?",
-      "urdu": "ایم بی آر سے کیا مراد ہے؟",
-      "options": [
-        "Master Break Record",
-        "Master Boot Race",
-        "Master Boot Record",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Personnel who design, program, operate and maintain computer equipment refers to?",
-      "urdu": "کمپیوٹر آلات کو ڈیزائن، پروگرام، آپریٹ اور برقرار رکھنے والے افراد کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Programmer",
-        "Peopleware",
-        "System Analyst",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "JPEG stands for?",
-      "urdu": "جے پی ای جی کا مطلب کیا ہے؟",
-      "options": [
-        "Joint Photo Editing Group",
-        "Joint Photographic Experts Group",
-        "Joint Photo Expert Group",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>Last verified on 08-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is System Analysis?",
-      "urdu": "سسٹم کا تجزیہ کیا ہے؟",
-      "options": [
-        "System Analysis involves creating formal model of the problem to be solved",
-        "The design of the screen the user will see and use to enter or display data",
-        "System analysis defines the format and type of data the program will use",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will happen if you release the mouse button before releasing the shift key when you draw a square?",
-      "urdu": "اگر آپ کو مربع وقت شفٹ کی کو چھوڑنے سے پہلے ماؤس کا بٹن چھوڑ دیں تو کیا کریں؟",
-      "options": [
-        "The square will be larger",
-        "The square will not be a perfect square",
-        "The square will not be at the center of the slide",
-        "The square will be smaller"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Slide show options available to the presenter include all of the following except? Navigation commands, Transitions command, Speaker notes command, Meeting minder command",
-      "urdu": "سلائیڈ شو کے اختیارات میں درج ذیل میں سے کون سا اختیار شامل نہیں ہوتا؟",
-      "options": [
-        "Navigation commands",
-        "Transitions command",
-        "Speaker notes command",
-        "Meeting minder command"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Microsoft PowerPoint you can tell when an object is active because?",
-      "urdu": "مائیکروسافٹ پاورپوائنٹ میں آپ کیسے جان سکتے ہیں کہ کوئی چیز فعال ہے؟",
-      "options": [
-        "Eight small sizing handles appear surrounding the text",
-        "The object is highlighted",
-        "A box frame appears surrounding the text",
-        "Both A and B"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following bypasses the print dialog box when printing individual slides or an entire presentation?",
-      "urdu": "پریزنٹیشن کی انفرادی سلائیڈ یا پوری پریزنٹیشن پرنٹ کرتے وقت پرنٹ ڈائیلاگ باکس کو کون سا آپشن نظر انداز کرتا ہے؟",
-      "options": [
-        "The Print Button",
-        "File, Print, Preview",
-        "File, Print",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
       "category": "all"
     }
   ]
