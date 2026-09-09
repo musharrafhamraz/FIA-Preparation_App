@@ -3,10 +3,361 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-09T05:42:49.681686",
+    "fetched_at": "2026-09-09T12:05:23.456963",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who was a good Player of flute?",
+      "urdu": "بانسری کا اچھا بجانے والا کون تھا؟",
+      "options": [
+        "Hazart Idrees (AS)",
+        "Hazart Yahya (AS)",
+        "Hazart Dawood (AS)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which was the first battle between Muslims and Kuffars?",
+      "urdu": "مسلمانوں اور کفار کے درمیان پہلی جنگ کون سی تھی؟",
+      "options": [
+        "Ghazwa Abwa",
+        "Ghazwa Badr",
+        "Ghazwa Khundaq",
+        "Ghazwa Tabook"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified 09-09-2026</span></font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "A writ of habeas corpus may be issued by:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Police station",
+        "High Court",
+        "District police officer",
+        "Magistrate only"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">A writ of habeas corpus may be issued by the High Court to secure the release of a person who is unlawfully detained.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the grave of Hazrat Ibrahim (A.S)?",
+      "urdu": "حضرت ابراہیمؑ کی قبر کہاں واقع ہے؟",
+      "options": [
+        "Israel",
+        "Palestine",
+        "Syria",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The rule of estoppel does not apply:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Where fraud is involved",
+        "In all cases without exception",
+        "Against a minor in appropriate circumstances",
+        "Where law expressly prevents its operation"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Estoppel</font><font color=\"#0000ff\"> is subject to statutory and legal limitations.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is generally NOT a public document?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Judicial record",
+        "Official register",
+        "Power of attorney",
+        "Record of a public officer"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">A private power of attorney is ordinarily a </font><font color=\"#ff0000\">private document</font><font color=\"#0000ff\"> unless</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When prosecution fails to prove the charge beyond reasonable doubt, the accused is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Convicted",
+        "Acquitted",
+        "Remanded",
+        "Discharged automatically in every case"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Failure of </font><font color=\"#ff0000\">prosecution</font><font color=\"#0000ff\"> to establish guilt results in acquittal.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name the first person who received three blows of arrows during prayer but did not discontinue his prayer?",
+      "urdu": "وہ پہلے شخص کون تھے جنہیں نماز کے دوران تیروں کے تین وار لگے لیکن انہوں نے نماز نہ چھوڑی؟",
+      "options": [
+        "Hazrat Abaad bin Bashar (RA)",
+        "Hazrat Saad bin Maaz (RA)",
+        "Hazrat Harram bin Malhan (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which statement best distinguishes admission from confession?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Admission relates only to criminal cases",
+        "Confession can only be documentary",
+        "Admission may be made in civil or criminal proceedings",
+        "Admission and confession are always identical"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">An admission is a statement suggesting an i</font><font color=\"#ff0000\">nference about a fact in issue, </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Any objection regarding the admissibility/relevancy of evidence is ultimately determined by:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Court",
+        "Investigation officer",
+        "Police",
+        "Prosecutor"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Any objection regarding the admissibility/relevancy of evidence is ultimately determined by:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In matters relating to Hudood, evidence is determined in accordance with:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "British law",
+        "Quran and Sunnah",
+        "Common law only",
+        "Contract law"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Article 17 refers to the injunctions of Islam as laid down in the </font><font color=\"#ff0000\">Holy Quran and Sunnah.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Qanun-e-Shahadat Order, 1984 was promulgated on:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "14 August 1984",
+        "26 October 1984",
+        "28 October 1984",
+        "25 December 1984"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">The Order is Gazette-dated 28 October 1984 and commenced on</font><font color=\"#ff0000\"> 26 October 1984.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Professional communication between advocate and client is protected under:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Article 9",
+        "Article 8",
+        "Article 5",
+        "Article 10"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Article 9 </font><font color=\"#0000ff\">deals with professional communications.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the commander of the infidels in the Battle of the Ditch (Khandaq)?",
+      "urdu": "غزوۂ خندق (احزاب) میں کفار کا سپہ سالار کون تھا؟",
+      "options": [
+        "Abu Jahl",
+        "Amr",
+        "Abu Sufyan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most severe storm is a?",
+      "urdu": "سب سے شدید طوفان کون سا ہے؟",
+      "options": [
+        "Tornado",
+        "Hurricane",
+        "Typhoon",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Algeria is bordered by the Mediterranean sea. Tunisia and Libya, Niger, Mall and Mauritania and?",
+      "urdu": "الجزائر کی سرحدیں بحیرۂ روم، تیونس، لیبیا، نائجر، مالی، موریطانیہ اور کس ملک سے ملتی ہیں؟",
+      "options": [
+        "Palestine",
+        "Morocco",
+        "Jordan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Currency of Sudan is _____?",
+      "urdu": "سوڈان کی کرنسی کیا ہے؟",
+      "options": [
+        "Pound",
+        "Dinar",
+        "Som",
+        "Franc"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Sudan</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Sudanese Pound</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is called protectorate state of the world?",
+      "urdu": "ملک میں کس ملک کو پروٹیکٹوریٹ اسٹیٹ کہا جاتا ہے؟",
+      "options": [
+        "Japan",
+        "Nepal",
+        "Bhutan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person of unsound mind may give evidence when:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He understands the questions",
+        "He gives rational answers",
+        "He is capable of understanding and answering rationally",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p>Mental illness by itself does not automatically make a person incompetent as a</p>",
+      "category": "all"
+    },
+    {
+      "q": "Article 46 is an exception to the general rule of:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Best evidence",
+        "Exclusion of hearsay",
+        "Estoppel",
+        "Burden of proof"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">Article 46 makes certain statements of deceased/unavailable persons relevant.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A dying declaration is an exception to the general rule against:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Expert evidence",
+        "Documentary evidence",
+        "Hearsay evidence",
+        "Character evidence"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Article 22</font><font color=\"#0000ff\"> covers facts necessary for explanation,</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Statements in maps, charts and plans are dealt with under:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Article 55",
+        "Article 51",
+        "Article 58",
+        "Article 50"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Article 50</font><font color=\"#9c00ff\"> concerns statements in maps, charts and plans.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under the relevant illustration concerning school orders, the person referred to is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Teacher",
+        "Principal",
+        "Clerk",
+        "Student"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Article 19 of QSO deals with:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Confession",
+        "Facts forming part of the same transaction",
+        "Expert opinion",
+        "Character"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Article 19</font><font color=\"#0000ff\"> embodies the principle commonly associated with res gestae.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "In financial or future obligations reduced to writing, the instrument should generally be attested by:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Two men or one man and two women",
+        "Two men",
+        "one man and two women",
+        "Two women"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">This is the</font><font color=\"#ff0000\"> general rule</font><font color=\"#0000ff\"> under Article 17(2)(a), subject to applicable special <span style=\"font-size: 0.875rem;\">laws.</span></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Article 27 of QSO relates to:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Motive",
+        "State of mind, body or bodily feeling",
+        "Confession",
+        "Public documents"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">Article 27 </font><font color=\"#0000ff\">concerns facts showing state of mind, state of body or bodily feeling. </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Article 22 relates to:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Expert opinion",
+        "Confession",
+        "Facts necessary to explain or introduce relevant facts",
+        "Character evidence"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">Article 22</font><font color=\"#0000ff\"> covers facts necessary for explanation,</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "CTBT stands for _______?",
       "urdu": "سی ٹی بی ٹی کا مطلب کیا ہے؟",
@@ -304,357 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#0000ff\">Use “in” with cities and “on” with particular days/mornings.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct Verb: She _____ been working in England before she came back to native town.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Had",
-        "Will",
-        "Can",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify parts of speech in brackets: The hunter aimed (at) the dove.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Verb",
-        "Adverb",
-        "Preposition",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct spelling: Invairunment, Enviroment, Enwironment, Environment",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Invairunment",
-        "Environmen",
-        "Enviroment",
-        "Environment"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\"><br/></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Careful is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Important",
-        "Careless",
-        "Negligent",
-        "Both B and C"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct one word to replace the given sentence (A speech delivered without any preparation).",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Extempore",
-        "Contemporary",
-        "Temporary",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><ul></ul><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b style=\"\"><font color=\"#ff0000\">Contemporary</font><font color=\"#0000ff\"> means belonging to the present time.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Temporary</font><font color=\"#0000ff\"> means lasting for a limited period.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Exemplary</font><font color=\"#0000ff\"> means serving as a good example.</font></b></li></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "“We know our art teacher will not take our class.” Which is the compound noun?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Not",
-        "Art teacher",
-        "Class",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Sovereign is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Monarch",
-        "Citizen",
-        "Servant",
-        "Worker"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Seditious is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Loyal",
-        "Rebellious",
-        "Peaceful",
-        "Obedient"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Translate into English: کسان چار روز سے ہل چلا رہا ہوگا",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The farmer will have been ploughing since four days",
-        "The farmer will have been plough since four days",
-        "The farmer will have been ploughing for four days",
-        "The farmer will had been ploughing since four days"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is an example of a holistic rubric?",
-      "urdu": "درج ذیل میں سے کون سا ہولیسٹک روبرک کی مثال ہے؟",
-      "options": [
-        "A rubric that assigns an overall grade based on several aspects of the work",
-        "A rubric that assesses each criterion individually and calculates a total score",
-        "A rubric that provides detailed feedback on specific components of the work",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following cannot be inserted from Insert > Picture in MS Word? Word art, Chart, Graph, Clipart",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Word art",
-        "Chart",
-        "Graph",
-        "Clipart"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which option in File pull-down menu is used to close a file in MS Word?",
-      "urdu": "ایم ایس ورڈ میں فائل کو بند کرنے کے لیے فائل پل ڈاؤن مینو میں کون سا آپشن استعمال ہوتا ہے؟",
-      "options": [
-        "Close",
-        "Quit",
-        "Exit",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">To close a file in </font><font color=\"#ff0000\">Microsoft Word</font><font color=\"#0000ff\">, you can select the </font><font color=\"#ff0000\">Close option</font><font color=\"#0000ff\"> from the File menu.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The portion of information received from an accused which distinctly relates to a fact thereby discovered is dealt with under:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Article 38",
-        "Article 39",
-        "Article 40",
-        "Article 42"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Article 40 </font><font color=\"#0000ff\">concerns the discovery-related portion of information supplied by </font></b><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">an accused.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "“Admission is not conclusive proof, but may operate as estoppel” is contained in:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Article 43",
-        "Article 44",
-        "Article 45",
-        "Article 46"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Article 45 deals with the </font><font color=\"#ff0000\">evidentary</font><font color=\"#0000ff\"> effect of admissions.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the default left margin in MS Word 2003 document?",
-      "urdu": "ایم ایس ورڈ 2003 کی دستاویز میں پہلے سے مقررہ بائیں حاشیہ عورت ہوتا تھا؟",
-      "options": [
-        "2 inch",
-        "1 inch",
-        "1.25 inch",
-        "Text holders"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is placed to the left of horizontal scroll bar in MS Word?",
-      "urdu": "ایم ایس ورڈ میں افقی اسکرول بار کے بائیں طرف موجود ہوتا ہے؟",
-      "options": [
-        "View buttons",
-        "Tab stop buttons",
-        "Split buttons",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ctrl + B Shortcut key is used in MS Word to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Search the selected text",
-        "Paste the selected text",
-        "Bold the selected text",
-        "Open the specified file"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bold;\"><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span arial=\"\" black\";=\"\" color:=\"\" red;\"=\"\" style=\"color: rgb(255, 0, 0);\">:</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why did Pakistan leave the Commonwealth?",
-      "urdu": "پاکستان نے دولتِ مشترکہ کیوں چھوڑی؟",
-      "options": [
-        "Because of the war between India and Pakistan",
-        "Because of the interference of Russia in Afghanistan",
-        "Because of the recognition of Bangladesh",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country has the largest army?",
-      "urdu": "سب سے زیادہ فوج کس ملک کی ہے؟",
-      "options": [
-        "India",
-        "USA",
-        "China",
-        "Russia"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><span style=\"font-size: 14px;\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Statue of Liberty in New York was designed and prepared in ______?",
-      "urdu": "نیو یارک میں مجسمہ آف لبرٹی کو ______ میں ڈیزائن اور تیار کیا گیا تھا؟",
-      "options": [
-        "United States of America",
-        "France",
-        "England",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Al-Azhar University is the chief centre of Islamic and Arabic learning in the world, located in the?",
-      "urdu": "جامعۃ الازہر دنیا میں اسلامی اور عربی تعلیم کا اہم مرکز ہے، یہ کہاں واقع ہے؟",
-      "options": [
-        "Makkah, Saudi Arabia",
-        "Baghdad, Iraq",
-        "Cairo, Egypt",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Article 48 QSO deals with:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Maps",
-        "Books of account",
-        "Confessions",
-        "Expert opinion"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Regular entries in books of account may be </font><font color=\"#ff0000\">relevant but are not</font><font color=\"#0000ff\">, by</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The River Thames is located in ____?",
-      "urdu": "دریائے ٹیمز کس ملک/علاقے میں واقع ہے؟",
-      "options": [
-        "London",
-        "Spain",
-        "Scotland",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Capital of Bhutan?",
-      "urdu": "بھوٹان کا دارالحکومت کیا ہے؟",
-      "options": [
-        "Lima",
-        "Rangooon",
-        "Thimphu",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The fastest person in the world in 100 and 200-meter sprints is ______?",
-      "urdu": "سو (100) اور 200 میٹر کی دوڑ میں دنیا کا تیز ترین شخص کون ہے؟",
-      "options": [
-        "Kim Coliris",
-        "Usain Bolt",
-        "Dwain Chambers",
-        "Justin Gatlin"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under QSO, statements in published maps or charts are relevant under:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Article 48",
-        "Article 49",
-        "Article 50",
-        "Article 51"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"background-color: rgb(255, 255, 255);\"><font color=\"#0000ff\">Yes. Under the Qanun-e-Shahadat Order, 1984 (QSO),</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The shortest period of time is?",
-      "urdu": "وقت کا سب سے مختصر دورانیہ کون سا ہے؟",
-      "options": [
-        "Microsecond",
-        "Millisecond",
-        "Pico second",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     }
   ]
