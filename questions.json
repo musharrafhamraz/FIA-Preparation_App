@@ -3,10 +3,388 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-09T12:05:23.456963",
+    "fetched_at": "2026-09-09T16:58:13.098684",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which of the following are input devices? Keyboard, Mouse, Card reader, Scanner",
+      "urdu": "درج ذیل میں سے کون سے ان پٹ ڈیوائسز ہیں؟ کی بورڈ، ماؤس، کارڈ ریڈر",
+      "options": [
+        "Keyboard",
+        "Mouse",
+        "Card reader",
+        "Scanner",
+        "All of these"
+      ],
+      "correct": 4,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated by NA on 09-09-2026</span><font color=\"#ff00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The square root of 144 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "12",
+        "16",
+        "10",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The square root of 144 is:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an example of a sentence in the Active Voice?The letter was written by Ali. B) The book was read by Sara. C) Ali wrote a letter. D) The work was completed by Ahmed.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The letter was written by Ali.",
+        "The book was read by Sara.",
+        "Ali wrote a letter.",
+        "The work was completed by Ahmed."
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\">Ali wrote a letter.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the arithmetic average (mean) of 10, 20, and 30?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "30"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Mean = Sum of values ÷ Number of values<br data-end=\"193\" data-start=\"190\"/>\r\n= (10 + 20 + 30) ÷ 3</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the sum of the interior angles of a triangle?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255); font-family: Helvetica; font-size: 0.875rem;\">The three interior angles of every triangle always add up to</b><b style=\"font-family: Helvetica; font-size: 0.875rem;\"><font color=\"#ff0000\"> 180 degrees</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The value of PI is a _______ .",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Irrational number",
+        "Rational Number",
+        "Integer",
+        "complex number"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated by NA on 09-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the Last writer Kitab-e-wahi?",
+      "urdu": "کتاب وحی کا آخری مصنف کون تھا؟",
+      "options": [
+        "Hazrat Ali(RA)",
+        "Hazrat Abi bin Kaab(RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Abu Hurairah (RA)"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:<br/></font><span style=\"color: rgb(0, 0, 255); font-size: 0.875rem;\">کاتِبِ وَحی کے اردو </span><span style=\"font-size: 0.875rem;\"><font color=\"#9c00ff\">معانی: پوشیدہ</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "VCTL stands for?",
+      "urdu": "وی سی ٹی ایل سے کیا مراد ہے؟",
+      "options": [
+        "Vocational Technical Computer Law",
+        "Vocational Training Council Law",
+        "Virtual Training Council Law",
+        "Vocational Technology Control Law"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated by NA on 09-09-2026</span><span style=\"font-size: 0.875rem;\"><font color=\"#ff00ff\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ghazwa-e-Badr occurred in which hijrah?",
+      "urdu": "غزوہ بدر کس ہجری میں ہوا؟",
+      "options": [
+        "2 A.H",
+        "3 A.H",
+        "4 A.H",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated by NA on 09-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of following is not hardware? Compiler/Windows XP, Chip/Hard disk, RAM, CPU/Monitor",
+      "urdu": "مندرجہ ذیل میں سے کون سا ہارڈ ویئر نہیں ہے؟",
+      "options": [
+        "Compiler/Windows XP",
+        "Chip/Hard disk",
+        "RAM",
+        "CPU/Monitor"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A completes a work in 12 days whereas B completes the same work in 24 days. If both A and B work together, the work will be completed in ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">A completes the work in 12 days.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the first migration to Abyssinia took place?",
+      "urdu": "حبشہ کی طرف پہلی ہجرت کب ہوئی؟",
+      "options": [
+        "612 AD",
+        "616 AD",
+        "613 AD",
+        "615 AD"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name the angels who are appointed to put Questions to the dead's in their graves?",
+      "urdu": "قبر میں مردوں سے سوالات کرنے والے فرشتوں کے نام کیا ہیں؟",
+      "options": [
+        "Munkar and Nakeer",
+        "Hazrat Jabreel",
+        "Hazrat Mikeel",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name the Kalima which is recited in a funeral procession?",
+      "urdu": "جنازے کے جلوس میں کون سا کلمہ پڑھا جاتا ہے؟",
+      "options": [
+        "Shahadat",
+        "Tamjeed",
+        "Astaghfaar",
+        "Tauheed"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Salat-e-Kasoof is offered at the time of ____?",
+      "urdu": "نمازِ کسوف کب ادا کی جاتی ہے؟",
+      "options": [
+        "Earthquake",
+        "Lunar eclipse",
+        "Solar (Sun) eclipse",
+        "Heavy rain"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who proposed Azan for the first time?",
+      "urdu": "سب سے پہلے اذان دینے کی تجویز کس نے پیش کی؟",
+      "options": [
+        "Hazrat Usman",
+        "Hazrat Ali",
+        "Hazrat Umar",
+        "Hazrat Abu Bakar"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 09-09-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What are the meaning of Sariyya?",
+      "urdu": "سریہ کے کیا معنی ہیں؟",
+      "options": [
+        "A poetess",
+        "A famous Arabian saint",
+        "A battle not attended by Holy Prophet (PBUH)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Give the fundamental beliefs of Islam in the proper order?",
+      "urdu": "اسلام کے بنیادی عقائد کو درست ترتیب سے بیان کریں؟",
+      "options": [
+        "Tauheed, Alhami Kutub, Risalat, and Malaika",
+        "Tauheed, Risalat, Malaika, Alhami Kutub and Akhirat",
+        "Tauheed, Risalat, Alhami Kutub, Akhirat and Malaika",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">fundamental beliefs of Islam</font><font color=\"#0000ff\"> are known as </font><font color=\"#ff0000\">Arkan-e-Iman</font><font color=\"#0000ff\"> (</font><font color=\"#ff0000\">Articles of Faith</font><font color=\"#0000ff\">).</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Ali (RA) did not participate in the battle of _____?",
+      "urdu": "حضرت علیؓ کس غزوہ میں شریک نہیں ہوئے؟",
+      "options": [
+        "Yarmuk",
+        "Tabook",
+        "Hunain",
+        "Mutta"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the literal meaning of Ijtihad?",
+      "urdu": "اجتہاد کا لفظی مطلب کیا ہے؟",
+      "options": [
+        "Consensus",
+        "Attempt",
+        "Law",
+        "Power"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many infidels were killed in Ghazwa Badr?",
+      "urdu": "غزوہ بدر میں کتنے کافر مارے گئے؟",
+      "options": [
+        "80",
+        "70",
+        "60",
+        "100"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Muslims fought in the battle of Badr?",
+      "urdu": "غزوہ بدر میں کتنے مسلمان لڑے؟",
+      "options": [
+        "213",
+        "313",
+        "314",
+        "320"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bail may be granted during:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Investigation",
+        "Trial",
+        "Inquiry",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Bail</font><font color=\"#0000ff\"> may arise at different stages depending on the applicable provision and circumstances.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the conqueror of Central Asia?",
+      "urdu": "وسطی ایشیا کا فاتح کون تھا؟",
+      "options": [
+        "Abu Ubaida Bin Jarrah",
+        "Qutayba Bin Muslim",
+        "Saad Bin Abi Waqas",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The revisional powers of the High Court are primarily contained in:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Section 435 Cr.P.C.",
+        "Section 205 Cr.P.C.",
+        "Section 342 Cr.P.C.",
+        "Section 439 Cr.P.C."
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">Section </font><font color=\"#ff0000\">439</font><font color=\"#0000ff\"> sets out High Court powers of revision</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The First Ashra of Ramadan is known as?",
+      "urdu": "رمضان المبارک کا پہلا عشرہ کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "Days to seek refuge from Hellfire",
+        "Days of Forgiveness",
+        "Days of Mercy",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first Muslim who sacrificed one of his eyes in the way of Allah?",
+      "urdu": "اللہ کی راہ میں اپنی ایک آنکھ قربان کرنے والے پہلے مسلمان کون تھے؟",
+      "options": [
+        "Abu Salma",
+        "Zubair bin Al-Awwan",
+        "Usman bin Mazoon",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Umm-ul-Masakeen (Mother of the Poor) was the title given to one of the wives of the Prophet (SAW)?",
+      "urdu": "امّ المساکین (غریبوں کی ماں) کا لقب نبی کریم ﷺ کی کس زوجہ کو دیا گیا تھا؟",
+      "options": [
+        "Harat Sauda (RA)",
+        "Hazrat Zainab benet Jehash (RA)",
+        "Hazrat Zainab benet Khuzima (RA)",
+        "Hazrat Safia (RA)"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 09-09-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Tragedy of Karbala took place in the year _____?",
+      "urdu": "سانحہ کربلا کس سال میں پیش آیا؟",
+      "options": [
+        "71 Hijri",
+        "79 Hijri",
+        "61 Hijri",
+        "82 Hijri"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 25-04-2026</font></b></span></p>",
+      "category": "all"
+    },
     {
       "q": "Who was a good Player of flute?",
       "urdu": "بانسری کا اچھا بجانے والا کون تھا؟",
@@ -278,383 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Article 22</font><font color=\"#0000ff\"> covers facts necessary for explanation,</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Statements in maps, charts and plans are dealt with under:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Article 55",
-        "Article 51",
-        "Article 58",
-        "Article 50"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">Article 50</font><font color=\"#9c00ff\"> concerns statements in maps, charts and plans.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under the relevant illustration concerning school orders, the person referred to is:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Teacher",
-        "Principal",
-        "Clerk",
-        "Student"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Article 19 of QSO deals with:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Confession",
-        "Facts forming part of the same transaction",
-        "Expert opinion",
-        "Character"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Article 19</font><font color=\"#0000ff\"> embodies the principle commonly associated with res gestae.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "In financial or future obligations reduced to writing, the instrument should generally be attested by:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Two men or one man and two women",
-        "Two men",
-        "one man and two women",
-        "Two women"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">This is the</font><font color=\"#ff0000\"> general rule</font><font color=\"#0000ff\"> under Article 17(2)(a), subject to applicable special <span style=\"font-size: 0.875rem;\">laws.</span></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Article 27 of QSO relates to:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Motive",
-        "State of mind, body or bodily feeling",
-        "Confession",
-        "Public documents"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">Article 27 </font><font color=\"#0000ff\">concerns facts showing state of mind, state of body or bodily feeling. </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Article 22 relates to:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Expert opinion",
-        "Confession",
-        "Facts necessary to explain or introduce relevant facts",
-        "Character evidence"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Article 22</font><font color=\"#0000ff\"> covers facts necessary for explanation,</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "CTBT stands for _______?",
-      "urdu": "سی ٹی بی ٹی کا مطلب کیا ہے؟",
-      "options": [
-        "Collection Test Ban Treaty",
-        "Conclusive Test Ban Treaty",
-        "Comprehensive Test Ban Treat",
-        "Competitive Test Ban Treaty"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Languages</font><font color=\"#0000ff\"> (6):</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hailstorm occurs in summer season due to the formation of clouds called?",
-      "urdu": "گرمیوں میں اولے کس قسم کے بادل بننے کی وجہ سے آتے ہیں؟",
-      "options": [
-        "Cirrus",
-        "Cumulus",
-        "Cumulonimbus",
-        "Curriculum"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Qanun-e-Shahadat Order is primarily:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Adjective/procedural law",
-        "Substantive law",
-        "Penal law",
-        "Constitutional law"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">It primarily regulates the manner in</font><font color=\"#ff0000\"> which facts are proved</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Qanun-e-Shahadat Order, 1984, being procedural/adjective law, is generally:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Prospective only",
-        "Retrospective in operation",
-        "Criminal law only",
-        "Substantive law"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Law of evidence is generally treated as procedural/adjective law; procedural</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "___ of them tried hard to stand still, ___ of them qualified for the final.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Both, neither",
-        "Neither, both",
-        "All, none",
-        "Either, neither"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">“</font><font color=\"#ff0000\">Both</font><font color=\"#0000ff\">” refers to two together; “</font><font color=\"#ff0000\">neither</font><font color=\"#0000ff\">” means not one of the two.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "KANUPP is the abbreviation of ______?",
-      "urdu": "کے اے این یو پی پی کس کا مخفف ہے؟",
-      "options": [
-        "Karachi Nuclear Power Project",
-        "Karachi Nuclear Power Plant",
-        "Karachi National Power Plant",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 09-09-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the official language of Angola?",
-      "urdu": "انگولا کی سرکاری زبان کونسی ہے؟",
-      "options": [
-        "Portuguese",
-        "English",
-        "Arabic",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 32, 96);\">Angola</span></span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 32, 96);\"> </span><span style=\"color: rgb(0, 176, 80);\">official language </span><span style=\"color: rgb(0, 32, 96);\">is </span></span><span style=\"font-weight: bolder;\"><span style=\"color: red;\">Portuguese</span></span><span style=\"font-weight: bolder;\"><span style=\"color: red;\">.</span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "I am ___ than any of you.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fast",
-        "Fastest",
-        "Faster",
-        "More fast"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Comparative degree is used with “</font><font color=\"#ff0000\">than</font><font color=\"#0000ff\">.”</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "PHA is the abbreviation of?",
-      "urdu": "پی ایچ اے کا مخفف کیا ہے؟",
-      "options": [
-        "Pakistan Heat Policy",
-        "Pakistan Housing Authority",
-        "Parks And Horticulture Authority",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Capital of Egypt is _______?",
-      "urdu": "مصر کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Sana",
-        "Beirut",
-        "Damascus",
-        "Cairo"
-      ],
-      "correct": 3,
-      "explanation": "<p> </p>",
-      "category": "all"
-    },
-    {
-      "q": "ECG stands for?",
-      "urdu": "ای سی جی کیا مراد ہے؟",
-      "options": [
-        "Electro Cardiac Graph",
-        "Electrocardiogram",
-        "Electrical Cardiac Graph",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Although ___ jobs are difficult, ___ of them are beyond human capacity.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Much, few",
-        "A number of, some",
-        "A little, many",
-        "The number of, any"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">“A number of</font><font color=\"#0000ff\">” is used with plural countable nouns</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the Capital of Vietnam?",
-      "urdu": "ویتنام کا دارالحکومت کون سا ہے؟",
-      "options": [
-        "Bangkok",
-        "Hanoi",
-        "Seoul",
-        "Caracas"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt; line-height:107%;color:#0070C0\">Vietnam</span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height: 107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%; color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%; color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Hanoi</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the verbal noun: “I like enjoying soft music.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Enjoying",
-        "Soft",
-        "Music",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change into indirect speech: He said, “I have been to Karachi.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He said that he had been to Karachi.",
-        "He said that he has been to Karachi.",
-        "He says that he had been to Karachi",
-        "He says that he had been to Karachi."
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Present perfect generally changes to past perfect in reported speech</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "“She took Rayan to the museum with her as he was alone at home.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Museum",
-        "Home",
-        "Rayan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct one word to replace the given sentence: “Accidental good fortune.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Serendipity",
-        "Good Luck",
-        "Fluke",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct passive voice: “You can learn the tricks easily.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The tricks can learned easily by you.",
-        "The tricks could be learned easily by you.",
-        "The tricks can be learned easily by you.",
-        "The tricks are learned easily by you."
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Modal + passive = </font><font color=\"#ff0000\">modal + be + past participle.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Najma gets up ______ 6 O'clock in the morning.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "At",
-        "Of",
-        "In",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sentence Correction: “Zulfi is honest man.”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Zulfi is an honest man.",
-        "Zulfi is a honest man.",
-        "Zulfi is of honest man.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct correlative conjunction:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Either — and",
-        "Neither — or",
-        "Not only — but also",
-        "Both — but"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">“Not only...but also</font><font color=\"#0000ff\">” is a standard correlative pair.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "He coaches ___ master.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To",
-        "For",
-        "With",
-        "None of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">The natural construction is </font><font color=\"#ff0000\">“He coaches him to master</font><font color=\"#0000ff\">...” depending on the complete sentence.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct prepositions",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "At Lahore, at Eid morning",
-        "In Lahore, in Eid morning",
-        "In Lahore, on Eid morning",
-        "At Lahore, on Eid morning"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Use “in” with cities and “on” with particular days/mornings.</font></b><br/></p>",
       "category": "all"
     }
   ]
