@@ -3,10 +3,192 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-09T16:58:13.098684",
+    "fetched_at": "2026-09-09T21:19:43.064641",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which device is used to print vector graphics on paper?",
+      "urdu": "کاغذ پر ویکٹر گرافکس پرنٹ کرنے کے لیے کون سا آلہ استعمال کیا جاتا ہے؟",
+      "options": [
+        "Scanner",
+        "Plotter",
+        "Keyboard",
+        "Monitor"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "DHCP stands for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Disk Host Control Protocol",
+        "Domain Host Control Protocol",
+        "Driver Host Control Protocol",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); font-weight: 900; background-color: rgb(255, 255, 0);\">Last updated question by NA on 07 May 2026</span><font color=\"#9c00ff\"><br/></font><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ctrl + E shortcut key is used for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Left Align",
+        "Right Align",
+        "Center Align",
+        "Justify"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Saba and Nida done a work in the ratio of 6:5. If Saba done the in 90 mints then Nida done in how much time?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "60 minutes",
+        "90 minutes",
+        "108 minutes",
+        "120 minutes"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Work ratio = Saba : Nida = 6 : 5</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A car running in the speed of 100km/hour. In how much time will it cover 25km?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10 minutes",
+        "15 minutes",
+        "20 minutes",
+        "25 minutes"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"24\" data-start=\"14\"><font color=\"#9c00ff\"><strong data-end=\"24\" data-start=\"14\" style=\"\">Given:</strong><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the HCF of 24 and 36?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "18"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Factors of 24: </font><font color=\"#ff00ff\">1, 2, 3, 4, 6, 8, 12, 24</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a number is increased by 20% and becomes 360, what was the original number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "280",
+        "300",
+        "320",
+        "340"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"125\" data-start=\"49\"><font color=\"#ff00ff\"><strong data-end=\"60\" data-start=\"49\" style=\"\">Step 1:</strong> </font><font color=\"#0000ff\">A 20% increase means the new number is <strong data-end=\"108\" data-start=\"100\">120%</strong> of the original.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Second Generation computers were developed during?",
+      "urdu": "دوسری نسل کے کمپیوٹرز کس عرصے کے دوران تیار کیے گئے تھے؟",
+      "options": [
+        "1940–1950",
+        "1956–1965",
+        "1964–1971",
+        "1972–1980"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "VLSI stands for _____?",
+      "urdu": "وی ایل ایس آئی کا مطلب کیا ہے؟",
+      "options": [
+        "Very large scale integration",
+        "Very large scale immunization",
+        "Very large scale industry",
+        "Very low scale immunization"
+      ],
+      "correct": 0,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the National language of Pakistan?",
+      "urdu": "پاکستان کی قومی زبان کونسی ہے؟",
+      "options": [
+        "English",
+        "Punjabi",
+        "Urdu",
+        "Bengali"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\">Additional information<br/></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who introduced the term “Neuron” and is associated with the Neuron Theory?",
+      "urdu": "نیورون کی اصطلاح کس نے متعارف کروائی اور نیورون تھیوری سے کس کا تعلق ہے؟",
+      "options": [
+        "Santiago Ramón y Cajal",
+        "Wilhelm von Waldeyer",
+        "Louis Pasteur",
+        "Charles Darwin"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "In the window, the shortcut key to minimize all but the active window is:",
+      "urdu": "ونڈو میں، فعال ونڈو کے علاوہ باقی سب کو کم کرنے کے لیے شارٹ کٹ کلید ہے",
+      "options": [
+        "Win + End",
+        "Win+ D",
+        "Win+ Home",
+        "Ctrl + Home"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; margin-top: 0.25em;\"><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Idiom: To cut the Gordian knot means?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To solve a very complex or difficult",
+        "A piece of work",
+        "An easy task",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which Surah was the first to be revealed upon Holy Prophet Muhammad?",
+      "urdu": "حضور اکرم صلی اللہ علیہ وسلم پر سب سے پہلے کون سی سورت نازل ہوئی؟",
+      "options": [
+        "Surah al-Alaq",
+        "Surah al-Falak",
+        "Surah al-Fataha",
+        "Surah al-Nisa"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"padding-top: 8px; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated by NA on 09-09-2026</span><font color=\"#7b3900\"></font></p>",
+      "category": "all"
+    },
     {
       "q": "Which of the following are input devices? Keyboard, Mouse, Card reader, Scanner",
       "urdu": "درج ذیل میں سے کون سے ان پٹ ڈیوائسز ہیں؟ کی بورڈ، ماؤس، کارڈ ریڈر",
@@ -474,188 +656,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#0000ff\">Failure of </font><font color=\"#ff0000\">prosecution</font><font color=\"#0000ff\"> to establish guilt results in acquittal.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Name the first person who received three blows of arrows during prayer but did not discontinue his prayer?",
-      "urdu": "وہ پہلے شخص کون تھے جنہیں نماز کے دوران تیروں کے تین وار لگے لیکن انہوں نے نماز نہ چھوڑی؟",
-      "options": [
-        "Hazrat Abaad bin Bashar (RA)",
-        "Hazrat Saad bin Maaz (RA)",
-        "Hazrat Harram bin Malhan (RA)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which statement best distinguishes admission from confession?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Admission relates only to criminal cases",
-        "Confession can only be documentary",
-        "Admission may be made in civil or criminal proceedings",
-        "Admission and confession are always identical"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">An admission is a statement suggesting an i</font><font color=\"#ff0000\">nference about a fact in issue, </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Any objection regarding the admissibility/relevancy of evidence is ultimately determined by:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Court",
-        "Investigation officer",
-        "Police",
-        "Prosecutor"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Any objection regarding the admissibility/relevancy of evidence is ultimately determined by:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In matters relating to Hudood, evidence is determined in accordance with:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "British law",
-        "Quran and Sunnah",
-        "Common law only",
-        "Contract law"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Article 17 refers to the injunctions of Islam as laid down in the </font><font color=\"#ff0000\">Holy Quran and Sunnah.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Qanun-e-Shahadat Order, 1984 was promulgated on:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "14 August 1984",
-        "26 October 1984",
-        "28 October 1984",
-        "25 December 1984"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">The Order is Gazette-dated 28 October 1984 and commenced on</font><font color=\"#ff0000\"> 26 October 1984.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Professional communication between advocate and client is protected under:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Article 9",
-        "Article 8",
-        "Article 5",
-        "Article 10"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Article 9 </font><font color=\"#0000ff\">deals with professional communications.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the commander of the infidels in the Battle of the Ditch (Khandaq)?",
-      "urdu": "غزوۂ خندق (احزاب) میں کفار کا سپہ سالار کون تھا؟",
-      "options": [
-        "Abu Jahl",
-        "Amr",
-        "Abu Sufyan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most severe storm is a?",
-      "urdu": "سب سے شدید طوفان کون سا ہے؟",
-      "options": [
-        "Tornado",
-        "Hurricane",
-        "Typhoon",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Algeria is bordered by the Mediterranean sea. Tunisia and Libya, Niger, Mall and Mauritania and?",
-      "urdu": "الجزائر کی سرحدیں بحیرۂ روم، تیونس، لیبیا، نائجر، مالی، موریطانیہ اور کس ملک سے ملتی ہیں؟",
-      "options": [
-        "Palestine",
-        "Morocco",
-        "Jordan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Currency of Sudan is _____?",
-      "urdu": "سوڈان کی کرنسی کیا ہے؟",
-      "options": [
-        "Pound",
-        "Dinar",
-        "Som",
-        "Franc"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\">Sudan</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> </span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 176, 80);\">Currency</span><span style=\"font-size: 12pt; line-height: 17.12px; color: rgb(0, 112, 192);\"> is </span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">Sudanese Pound</span><span style=\"font-size: 12pt; line-height: 17.12px; color: red;\">.</span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country is called protectorate state of the world?",
-      "urdu": "ملک میں کس ملک کو پروٹیکٹوریٹ اسٹیٹ کہا جاتا ہے؟",
-      "options": [
-        "Japan",
-        "Nepal",
-        "Bhutan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person of unsound mind may give evidence when:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He understands the questions",
-        "He gives rational answers",
-        "He is capable of understanding and answering rationally",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p>Mental illness by itself does not automatically make a person incompetent as a</p>",
-      "category": "all"
-    },
-    {
-      "q": "Article 46 is an exception to the general rule of:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Best evidence",
-        "Exclusion of hearsay",
-        "Estoppel",
-        "Burden of proof"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">Article 46 makes certain statements of deceased/unavailable persons relevant.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A dying declaration is an exception to the general rule against:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Expert evidence",
-        "Documentary evidence",
-        "Hearsay evidence",
-        "Character evidence"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Article 22</font><font color=\"#0000ff\"> covers facts necessary for explanation,</font></span></p>",
       "category": "all"
     }
   ]
