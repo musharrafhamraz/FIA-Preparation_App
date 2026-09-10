@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-09T21:19:43.064641",
+    "fetched_at": "2026-09-10T05:35:51.401227",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "A Magistrate of the First Class may generally award imprisonment up to:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1 year",
+        "3 years",
+        "2 years",
+        "7 years"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The wording </font><font color=\"#ff0000\">“less than 3 years</font><font color=\"#0000ff\">” in the recalled answer is not the best formulation; </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Whipping as a punishment is not enforced against:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A person sentenced to imprisonment for five years or more",
+        "A woman who is pregnant",
+        "A person not in good health",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The stages of commission of an offence generally include:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Motive",
+        "Attempt",
+        "Preparation",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Motive and preparation precede attempt</font><font color=\"#0000ff\">; completion constitutes the completed <span style=\"font-size: 0.875rem;\">offence where applicable.</span></font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which device is used to print vector graphics on paper?",
       "urdu": "کاغذ پر ویکٹر گرافکس پرنٹ کرنے کے لیے کون سا آلہ استعمال کیا جاتا ہے؟",
@@ -617,45 +656,6 @@
       ],
       "correct": 1,
       "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The rule of estoppel does not apply:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Where fraud is involved",
-        "In all cases without exception",
-        "Against a minor in appropriate circumstances",
-        "Where law expressly prevents its operation"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">Estoppel</font><font color=\"#0000ff\"> is subject to statutory and legal limitations.</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is generally NOT a public document?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Judicial record",
-        "Official register",
-        "Power of attorney",
-        "Record of a public officer"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">A private power of attorney is ordinarily a </font><font color=\"#ff0000\">private document</font><font color=\"#0000ff\"> unless</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When prosecution fails to prove the charge beyond reasonable doubt, the accused is:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Convicted",
-        "Acquitted",
-        "Remanded",
-        "Discharged automatically in every case"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Failure of </font><font color=\"#ff0000\">prosecution</font><font color=\"#0000ff\"> to establish guilt results in acquittal.</font></b></p>",
       "category": "all"
     }
   ]
