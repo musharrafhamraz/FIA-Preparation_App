@@ -3,10 +3,192 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-11T11:58:44.633616",
+    "fetched_at": "2026-09-11T16:50:57.548556",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "A field assistant is responsible for maintaining accurate records and must not amend a passport number from memory. A trainee says correction can wait since name and photograph match. What is the flaw?",
+      "urdu": "اگر فیلڈ اسسٹنٹ پاسپورٹ نمبر کو یادداشت سے درست نہیں کر سکتا اور تربیت یافتہ ملازم کہے کہ نام اور تصویر درست ہونے کی وجہ سے تصحیح بعد میں کی جا سکتی ہے، تو اس سوچ میں کیا خامی ہے؟",
+      "options": [
+        "An Incorrect identity field affects matching, retrieval, visa processing and reconciliation with linked records.",
+        "The passport number should be replaced with the mobile number.",
+        "Identity fields do not relate to accommodation or transport.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During an active field-duty assignment, an alarming and unverified message spreads through the team and people begin reacting emotionally. Which response shows sound psychological judgment?",
+      "urdu": "فیلڈ ڈیوٹی کے دوران اگر کوئی تشویشناک اور غیر مصدقہ پیغام ٹیم میں پھیل جائے اور لوگ جذباتی ردِعمل دینے لگیں تو درست نفسیاتی رویہ کیا ہونا چاہیے؟",
+      "options": [
+        "Follow the majority reaction, since collective emotion signals truth.",
+        "Stay composed, verify through an appropriate source, and act proportionately to confirmed facts.",
+        "Publicly challenge everyone who appears worried.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the Hajj operational period, a colleague advises a supervisor not to consult the governing agreement when assessing an alleged service failure, saying contracts concern only procurement officers. Why is that defective?",
+      "urdu": "حج کے آپریشنل دور میں اگر کوئی ساتھی کہے کہ سروس کی ناکامی کا جائزہ لیتے وقت معاہدے کو دیکھنے کی ضرورت نہیں کیونکہ معاہدے صرف خریداری کے افسران سے متعلق ہیں، تو یہ مؤقف غلط کیوں ہے؟",
+      "options": [
+        "Providers should define their own obligations after delivery.",
+        "Contracts become irrelevant once pilgrims arrive in Saudi Arabia.",
+        "Staff must know the obligations, deliverables and escalation routes to recognize, document and report a failure.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A field officer is responsible for assessing whether five buses of 48, 50, 52, 44 and 46 seats, less a 10% reserve, can carry 214 pilgrims. Which conclusion is correct?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "No; only the two largest buses can be counted.",
+        "No; the 10% reserve reduces usable capacity below 214.",
+        "Yes; total capacity is 240 and 90% of it is 216.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Step 1: Total seats</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the verification of Hajj documentation, a pilgrim disputes the authenticity of a recorded undertaking and asks that it be declared invalid and removed. The officer has no adjudicatory authority. What should he do?",
+      "urdu": "حج کے دستاویزات کی تصدیق کے دوران اگر حاجی کسی ریکارڈ شدہ حلف نامے کی صداقت پر اعتراض کرے اور افسر کے پاس فیصلہ کرنے کا اختیار نہ ہو تو اسے کیا کرنا چاہیے؟",
+      "options": [
+        "Document the dispute, preserve the undertaking, and refer it to the responsible verification mechanism.",
+        "Declare it invalid and remove it from the record.",
+        "Destroy it and require an entirely new undertaking.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the pre-Hajj preparation phase, one participant calls coordination meetings pointless once contracts are signed, another says they convert past experience into readiness. Which interpretation is strongest?",
+      "urdu": "حج سے پہلے تیاری کے مرحلے میں اگر کوئی شخص کہے کہ معاہدے ہونے کے بعد کوآرڈینیشن میٹنگز بے فائدہ ہیں، تو سب سے مضبوط مؤقف کیا ہے؟",
+      "options": [
+        "Such meetings are largely ceremonial once contracts fix responsibilities.",
+        "They clarify responsibilities and communication channels and identify foreseeable difficulties before implementation.",
+        "They should be treated mainly as religious or orientation sessions.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj orientation and field-coordination session, a staff member wrongly describes the Government-to-Government Hajj arrangements instrument as an ordinary commercial contract. Which description is accurate?",
+      "urdu": "حج کی تربیت اور فیلڈ کوآرڈینیشن نشانات میں اگر کوئی ملازم حکومت سے حکومت حج انتظامی کو عام تجارتی معاہدہ قرار دے تو اس کی درستگی کیا ہے؟",
+      "options": [
+        "A private accommodation arrangement between a pilgrim and a hotel.",
+        "A domestic employment agreement covering field personnel's service conditions.",
+        "An official inter-governmental agreement between the Pakistani representation and the Saudi Hajj and Umrah authority.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a demanding period of Hajj field operations, a Nazim finds an inadequate cooling system and another essential deficiency before a long journey, and the driver offers to accept personal responsibility. What should he prioritize?",
+      "urdu": "حج کے فیلڈ آپریشن کے دوران اگر طویل سفر سے پہلے گاڑی میں ناکافی کولنگ سسٹم اور ایک اور ضروری کمی پائی جائے تو ناظم کو کس چیز کو ترجیح دینی چاہیے؟",
+      "options": [
+        "Dispatch after taking the driver's written acceptance of responsibility.",
+        "Verify the essential transport requirements and report or escalate significant deficiencies before dispatch.",
+        "Repair it himself and dispatch without reporting the deficiency.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a major Hajj movement operation, buses of one group arrive separately and a driver proposes heading for whichever building looks familiar. Why does a common verified destination matter?",
+      "urdu": "حج کے بڑے فیلڈ آپریشن میں اگر ایک گروپ کی بسیں الگ الگ پہنچیں اور ڈرائیور کسی مانوس نظر آنے والی عمارت کی طرف جانے کی تجویز دے تو مشترکہ تصدیق شدہ منزل کیوں ضروری ہے؟",
+      "options": [
+        "It transfers registration and group management to the drivers.",
+        "It lets each driver pick a different building in the same area.",
+        "It keeps separately arriving buses linked to the authorized accommodation, reducing dispersal and misdirection.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Haj field-operation scheduling exercise, a worker serves two duty days then rests one, repeating until seven duty days are complete. The first duty day is Monday. Which weekday is the seventh?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Monday",
+        "Wednesday",
+        "Tuesday",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern: 2 duty days, 1 rest day, repeat until 7 duty days are done.  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the Hajj field operation, a family recorded in one group is split across accommodation records because of a wrongly entered linked indentifier, which a colleague calls trivial. Which explanation shows proper understanding?",
+      "urdu": "حج کے فیلڈ آپریشن میں اگر ایک خاندان غلط درج شدہ لنکڈ شناختی نمبر کی وجہ سے مختلف رہائشی ریکارڈز میں تقسیم ہو جائے تو اس صورتحال کی درست وضاحت کیا ہے؟",
+      "options": [
+        "A linked identifier propagates the across records, risking separation, so authorized correction is a welfare safeguard.",
+        "No correction is needed while accurate. and photographs are accurate.",
+        "The accommodation provider bears responsibility far the consequences.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field operation, three pligrims need biometric enrollment, route guidance to a known accommodation, and help with a short Arabic notice. Which combination matches each tool correctly?",
+      "urdu": "حج کے فیلڈ آپریشن میں تین حاجیوں کو بایومیٹرک اندراج، معلوم رہائش تک راستہ اور مختصر عربی نوٹس میں مدد چاہیے۔ کون سا ٹول کس کام کے لیے درست ہے؟",
+      "options": [
+        "Maps enrollment, Saudi Visa Bio for navigation, Translate for records.",
+        "Saudi Visa Bio for enrollment, Maps for navigation, Translate for the notice, with authorized records controlling.",
+        "Google Maps for all three, since one application is more efficient.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During Hajj field operations, a supervisor finds staff disputing whether printed maps always prevail or verified digital and QR-linked locations are automatically superior. Which statement explains the value and limitation of digital location information?",
+      "urdu": "حج کے فیلڈ آپریشنز میں ڈیجیٹل لوکیشن اور کیو آر سے منسلک معلومات کی اہمیت اور حد کے بارے میں کون سا بیان درست ہے؟",
+      "options": [
+        "It aids navigation but never alters an authorized assignment; discrepancies must be verified against the current record.",
+        "It largely removes the need for field staff altogether.",
+        "It should be used only when no printed map is available.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the verification of a pilgrim's Hajj documentation, an affidavit conflicts with both the passport and the database, and the employee cannot decide evidentiary superiority. What should he do?",
+      "urdu": "حاجی کے حج دستاویزات کی تصدیق کے دوران اگر حلف نامہ، پاسپورٹ اور ڈیٹا بیس تینوں ایک دوسرے سے مختلف ہوں اور ملازم یہ فیصلہ نہ کر سکے کہ کس کو زیادہ معتبر سمجھا جائے تو اسے کیا کرنا چاہیے؟",
+      "options": [
+        "Preserve all three, document the discrepancy, and refer it to the authorized procedure without altering anything.",
+        "Reject the affidavit, since the database is always superior.",
+        "Amend the passport information and database to match the affidavit.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "During a Hajj field operation, an organizer claims its Pakistani authorization pert procedures inconsistent with applicable Saudi requirements in the Kingdom. Which statement is most appropriate?",
       "urdu": "حج کے فیلڈ آپریشن کے دوران اگر کوئی آرگنائزر پاکستانی اجازت کو سعودی تقاضوں سے متصادم قرار دے تو کون سا بیان زیادہ مناسب ہے؟",
@@ -167,7 +349,7 @@
       "q": "During a Hajj field-office planning exercise, P must stand before Q, R immediately after S, T not first, Q after S, and S is placed first. Which statement must be true?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "R is third",
+        "R is second",
         "P is second.",
         "T is fourth.",
         "None of these."
@@ -473,188 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 18-05-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which rivers were given to India under Indus Waters Treaty 1960?",
-      "urdu": "انڈس واٹر ٹریٹی 1960 کے تحت کون سے دریا بھارت کو دیئے گئے؟",
-      "options": [
-        "Jhelum, Sutlej, Ravi",
-        "Chenab, Beas, Ravi",
-        "Sutlej, Beas, Ravi",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"font-weight: bolder; font-family: Helvetica; font-size: 0.875rem;\">India</font><font color=\"#0000ff\" style=\"font-weight: bolder; font-family: Helvetica; font-size: 0.875rem;\"> got the </font><font color=\"#ff0000\" style=\"font-weight: bolder; font-family: Helvetica; font-size: 0.875rem;\">Eastern</font><font color=\"#0000ff\" style=\"font-weight: bolder; font-family: Helvetica; font-size: 0.875rem;\"> Rivers:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which gas among the following is responsible for global warming due to the greenhouse effect?",
-      "urdu": "مندرجہ ذیل میں سے کون سی گیس گرین ہاؤس اثر کی وجہ سے گلوبل وارمنگ کے لیے ذمہ دار ہے؟",
-      "options": [
-        "Oxygen (O2)",
-        "Nitrogen (N2)",
-        "Carbon Dioxide (CO2)",
-        "Helium (He)"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "F2 is used for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Spelling Checking",
-        "Rename files and folders",
-        "Hide file or folder",
-        "Print document"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Windows + M key is used to?",
-      "urdu": "ونڈوز + ایم کی کو استعمال کیا جاتا ہے؟",
-      "options": [
-        "Minimize all windows",
-        "Properties",
-        "Lock screen",
-        "Switch user account"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Additional information:</span><font color=\"#0000ff\"><b></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the meaning of Haves and have-nots?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rich and poor people",
-        "Wise and foolish people",
-        "Strong and weak people",
-        "Young and old people"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A Gordian Knot means :",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To solve a very complex or difficult",
-        "A piece of work",
-        "An easy task",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 0.875rem;\"><font color=\"#ff0000\"><br/></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "CDMA stands for _____?",
-      "urdu": "سی ڈی ایم اے کا مطلب کیا ہے؟",
-      "options": [
-        "Code Digital Multiple Access",
-        "Central Data Management Access",
-        "Code Division Multiple Access",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary purpose of the CPEC road?",
-      "urdu": "سیپیک سڑک کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "To facilitate trade and connectivity",
-        "To promote tourism",
-        "To enhance military logistics",
-        "To provide energy resources"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "To which country did Prophet Muhammad (PBUH) have his first business trip?",
-      "urdu": "نبی کریم صلی اللہ علیہ وسلم نے اپنا پہلا تجارتی سفر کس ملک میں کیا؟",
-      "options": [
-        "Taif",
-        "Syria",
-        "Ethiopia",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"padding-top: 8px;\"><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#9c00ff\" style=\"\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "One word for \"A hater/hating of knowledge and learning\" is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Misologist",
-        "Bibliophile",
-        "Misogynist",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the second Prime Minister of Pakistan?",
-      "urdu": "پاکستان کا دوسرا وزیر اعظم کون تھا؟",
-      "options": [
-        "Ch Muhammad Ali",
-        "Kh. Nazim-ud-Din",
-        "Liaquat Ali Khan",
-        "D. Feroze Khan Noon"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"width: 390px; min-height: 1px; padding-right: 15px; padding-left: 15px; -webkit-box-flex: 0; flex-basis: 83.3333%; max-width: 83.3333%;\"></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: A broken reed means?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Strong support",
-        "Unreliable person",
-        "Brave leader",
-        "Hard worker"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"background-color: rgb(255, 255, 0);\"><font color=\"#ff00ff\"><span style=\"font-size: 0.875rem;\">Last updated NA on 10-09-2026</span></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the longest (largest) surah in the Holy Quran?",
-      "urdu": "قرآن پاک کی سب سے لمبی سورت کون سی ہے؟",
-      "options": [
-        "Kousar",
-        "Baqarah",
-        "Al Imran",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MICR, what does the letter “C” stand for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Codeh",
-        "Character",
-        "Computer",
-        "Control"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#ff00ff\"></font></p>",
       "category": "all"
     }
   ]
