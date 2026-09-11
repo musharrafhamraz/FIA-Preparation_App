@@ -3,10 +3,335 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-11T05:37:07.442085",
+    "fetched_at": "2026-09-11T11:58:44.633616",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "During a Hajj field operation, an organizer claims its Pakistani authorization pert procedures inconsistent with applicable Saudi requirements in the Kingdom. Which statement is most appropriate?",
+      "urdu": "حج کے فیلڈ آپریشن کے دوران اگر کوئی آرگنائزر پاکستانی اجازت کو سعودی تقاضوں سے متصادم قرار دے تو کون سا بیان زیادہ مناسب ہے؟",
+      "options": [
+        "Pakistani authorization takes precedence over all host-country requirements.",
+        "Saudi requirements bind mainly Saudi nationals and locally established organizations.",
+        "Comply with Pakistani regulatory requirements while respecting Saudi laws and operational procedures.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A field supervisor is reviewing 60 pilgrims, of whom 35 have accommodation confirmation, 42 have transport confirmation and 25 have both. How many have exactly one confirmation?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Total = 60 pilgrims  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A supervisory officer is reviewing four reports of 18, 24, 30 and 36 verified cases, each 6 more than the last, and must test for constant of percentage growth. Why does the sequence fall?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Any increasing sequence counts as constant percentage growth after rounding.",
+        "The ratios 24/18, 30/24 and 36/30 differ, so the percentage increases are not constant.",
+        "The differences are equal, which proves the percentage increases are equal",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The sequence: 18, 24, 30, 36</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a particularly demanding period of Hajj field operations, a pilgrim refuses to board until he receives a detailed religious ruling, while the vehicle is about to depart. Strongest course of action?",
+      "urdu": "حج کے مشکل فیلڈ آپریشن کے دوران اگر گاڑی روانہ ہونے والی ہو اور حاجی تفصیلی شرعی حکم ملنے تک سوار ہونے سے انکار کرے تو سب سے بہتر طریقہ کیا ہے؟",
+      "options": [
+        "Stabilize the movement, assist practically, and refer the religious question to the authorized guide.",
+        "Give an immediate personal ruling so the transport can proceed.",
+        "Ignore the concern until the transport operation is complete.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A field supervisor is required to arrange Red, Green, Yellow and Blue so that Red precedes Green, Blue is not first, and Green comes immediately before Yellow. Which sequence qualifies?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Red, Yellow, Green, Blue",
+        "Red, Green, Yellow, Blue",
+        "Yellow, Green, Red, Blue",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Red must come before Green.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During an active Hajj field operation, the authorized Hajj application and the pilgrim's physical assignment card show different camps. Which principle should guide the staff member?",
+      "urdu": "حج کے فیلڈ آپریشن کے دوران اگر مجاز حج ایپلیکیشن اور حاجی کے فزیکل اسائنمنٹ کارڈ میں مختلف کیمپ درج ہوں تو عملے کو کون سا اصول اختیار کرنا چاہیے؟",
+      "options": [
+        "Treat the digital result as an aid and reconcile against the current authorized record before directing him.",
+        "Treat the physical card as final, since it was formally issued.",
+        "Let the pilgrim choose whichever source he personally prefers.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a busy Hajj field operation, a pilgrim's Green Card and the digital system show different camps, and the officer has time for one verification call. Best course of action?",
+      "urdu": "حج کے مصروف فیلڈ آپریشن میں اگر حاجی کے گرین کارڈ اور ڈیجیٹل سسٹم میں مختلف کیمپ درج ہوں تو افسر کو کیا کرنا چاہیے؟",
+      "options": [
+        "Ignore the Green Card, since digital data is automatically superior.",
+        "Let the pilgrim pick the nearer camp and check later.",
+        "Verify the current authorized assignment, document the discrepancy, and direct him only on verified information.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field-office distribution exercise, a store of 1,200 water units issues 40% in the morning, 40% of the remainder in the afternoon, and then loses 54 damaged units. What percentage remains usable?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "35%, after both distributions and the damaged units.",
+        "31.5%, being 720, then 432, then 378 units.",
+        "33%, counting the damage within the afternoon percentage.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Step 1: Morning distribution</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field operation, 92 pilgrims form four groups: P is 8 more than Q, R is twice Q, and S is 4 fewer than P. How many are in Group Q?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "18 pilgrims, giving P 26, R 36 and S 22",
+        "14 pilgrims, giving P 22, R 28 and S 18",
+        "16 pilgrims, giving P 24, R 32 and S 20",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a high-pressure Hajj movement operation, a pilgrim asks to use an absent pilgrim's transport entitlement to the same destination, and a colleague says verification is unnecessary. What should the staff member do?",
+      "urdu": "دباؤ والے حج فیلڈ آپریشن کے دوران اگر کوئی حاجی غیر حاضر حاجی کا اسی منزل کے لیے ٹرانسپورٹ حق استعمال کرنے کی درخواست کرے تو عملے کو کیا کرنا چاہیے؟",
+      "options": [
+        "Permit it, since destination and Hajj group are identical.",
+        "Verify the entitlement against the authorized identity and transport record, and refer approval upward.",
+        "Allow it, since an unused entitlement is spare capacity.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a demanding field-duty assignment, a field assistant is criticized loudly and publicly, in terms that seem exaggerated yet may contain a genuine operational concern. Which response shows psychological suitability?",
+      "urdu": "فیلڈ ڈیوٹی کے دوران اگر کسی معاون پر بلند آواز میں عوامی طور پر تنقید کی جائے اور اس میں کوئی حقیقی عملی مسئلہ بھی موجود ہو تو نفسیاتی طور پر موزوں ردِعمل کیا ہونا چاہیے؟",
+      "options": [
+        "Walk away from every disagreement to avoid confrontation.",
+        "Respond emotionally so that disrespect is not tolerated.",
+        "Stay calm, address the substantive issue without retaliation and seek supervisory help if needed.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the verification of Hajj documentation, a pilgrim asks that his submitted undertaking be deleted because it differs from the official database. What is most appropriate?",
+      "urdu": "حج کے دستاویزات کی تصدیق کے دوران اگر حاجی اپنا جمع شدہ حلف نامہ حذف کرنے کا مطالبہ کرے کیونکہ وہ سرکاری ڈیٹا بیس سے مختلف ہے، تو مناسب طریقہ کیا ہے؟",
+      "options": [
+        "Destroy it and prepare a new one from the database.",
+        "Preserve both, document the discrepancy, and reconcile through the authorized verification process.",
+        "Accept the signed undertaking as controlling without comparison.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field-office planning exercise, P must stand before Q, R immediately after S, T not first, Q after S, and S is placed first. Which statement must be true?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "R is third",
+        "P is second.",
+        "T is fourth.",
+        "None of these."
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>Step 1: S is placed first</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a crowded period of Hajj field operations, a Muavin sees a pilgrim misdirected by a language barrier who also asks whether his intended action is religiously permissible. What should he do?",
+      "urdu": "حج کے رش والے فیلڈ آپریشن میں اگر زبان کی رکاوٹ کی وجہ سے حاجی غلط سمت میں جا رہا ہو اور ساتھ یہ پوچھے کہ اس کا مطلوبہ عمل شرعی طور پر جائز ہے یا نہیں، تو معاون کو کیا کرنا چاہیے؟",
+      "options": [
+        "Stay uninvolved, since translation is not his responsibility.",
+        "Give a personal ruling so that he can decide quickly.",
+        "Clarify the movement instructions in Arabic and refer the religious question to the authorized guide.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During field duty, a field assistant grows frustrated with a pilgrim who keeps repeating the same question out of genuine confusion while others wait. Which response shows the expected suitability?",
+      "urdu": "فیلڈ ڈیوٹی کے دوران اگر کوئی حاجی حقیقی الجھن کی وجہ سے ایک ہی سوال بار بار پوچھے تو عملے کو کون سا رویہ اختیار کرنا چاہیے؟",
+      "options": [
+        "Transfer him to a colleague to avoid emotional involvement.",
+        "Control the irritation, find why he misunderstood, adapt the explanation, and manage the queue.",
+        "Tell him to ask someone else, since repetition is inefficient.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the verification of Hajj documentation, a colleague suggests silently amending a signed undertaking to match another record, calling it \"only paperwork\". Which principle should guide the staff member?",
+      "urdu": "حج کے دستاویزات کی تصدیق کے دوران اگر کسی دستخط شدہ حلف نامے میں تبدیلی کی تجویز دی جائے تو عملے کو کون سا اصول اختیار کرنا چاہیے؟",
+      "options": [
+        "Preserve the undertaking, verify the discrepancy, and correct only through the authorized traceable procedure.",
+        "Any employee may rewrite an undertaking when records differ.",
+        "The latest informal note should override a signed undertaking.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field-operation briefing, one member treats each Mashair location as an isolated assignment; another sees a continuous sequence in which each stage affects the next. Which view is stronger?",
+      "urdu": "حج کے فیلڈ آپریشن میں مشاعر کے مقامات کو الگ الگ کام سمجھنے کے بجائے مسلسل مربوط مراحل سمجھنے میں سے کون سا نقطۂ نظر زیادہ درست ہے؟",
+      "options": [
+        "Each location should be managed independently to avoid administrative overlap.",
+        "Mashair operations form a connected sequence needing coordination across stages within the established structure.",
+        "Responsibility effectively ends once pilgrims have reached Arafat.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field movement operation, a vehicle travels 36 km at 45 km/h, then 24 km at 30 km/h, waits 12 minutes, and returns 60 km at 40 km/h. Total elapsed time?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3 hours 30 minutes, treating the speed change as extra delay.",
+        "3 hours 18 minutes, being 48 + 48 12 minutes plus 1 hour 30 minutes.",
+        "2 hours 48 minutes, using an overall average speed.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Step 1: Find time for each part</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field-office aptitude and data-verification exercise, the sequence 4, 9, 19, 39, 79, ? is formed by doubling each term and adding one. Which number replaces the question mark?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "158",
+        "159",
+        "160",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern = Previous × 2 + 1</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a Hajj field-staff assessment, an employee must name the rite of prescribed circumambulation around the Ka'bah, distinguishing it from Rami, Wuquf and Sa'i. Which is correct?",
+      "urdu": "حج کے فیلڈ اسٹاف اسیسمنٹ میں ملازم کو کعبہ کے گرد مقررہ طواف والے عمل کا نام بتانا ہے، اور اسے رمی، وقوف اور سعی سے الگ کرنا ہے۔ درست کیا ہے؟",
+      "options": [
+        "None of the above, since circumambulation is not a distinct rite.",
+        "Wuquf, the standing at Arafat and a central rite of Hajj.",
+        "Tawaf, the prescribed circumambulation of the Ka'bah.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the verification of Hajj documentation, staff dispute whether an affidavit has any administrative importance when it is not a travel document. Which statement is most accurate?",
+      "urdu": "حج کے دستاویزات کی تصدیق کے دوران اسٹاف اس بات پر اختلاف کرتا ہے کہ جب حلف نامہ سفری دستاویز نہیں ہے تو کیا اس کی کوئی انتظامی اہمیت ہے۔ سب سے درست بیان کون سا ہے؟",
+      "options": [
+        "It automatically guarantees approval of the matter described.",
+        "A signed affidavit equals a visa or primary travel document.",
+        "It provides an auditable basis for recording a stated circumstance, but does not override other authoritative records.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During an active Hajj field operation, an employee believes contacting a Saudi authority directly would resolve an urgent issue faster than the mission's coordination structure. Which response shows disciplined practice?",
+      "urdu": "حج کے جاری فیلڈ آپریشن کے دوران ایک ملازم سمجھتا ہے کہ مشن کے رابطہ نظام کے بجائے سعودی حکام سے براہِ راست رابطہ کرنے سے ایک فوری مسئلہ زیادہ تیزی سے حل ہو سکتا ہے۔ کون سا ردعمل منظم اور ذمہ دارانہ طریقہ کار کو ظاہر کرتا ہے؟",
+      "options": [
+        "Direct contact should always replace the structure whenever it is faster.",
+        "Issue an instruction directly whenever the matter seems his responsibility.",
+        "Use the official channel, avoid unauthorized representation, and escalate urgent matters through the designated chain.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the Hajj planning and field-preparation process, a colleague claims every provision of the published Policy and Plan 2027-2030 is immediately executable without further authorization. Which response is most defensible?",
+      "urdu": "حج کی منصوبہ بندی اور فیلڈ تیاری کے دوران ایک ساتھی کا کہنا ہے کہ شائع شدہ پالیسی اور پلان 2027–2030 کی ہر شق بغیر کسی مزید اجازت کے فوراً نافذ کی جا سکتی ہے۔ سب سے مضبوط اور درست جواب کیا ہے؟",
+      "options": [
+        "Implement only measures currently approved and within delegated authority, seeking clarification on conflicts.",
+        "Let each team apply whichever provisions suit local convenience.",
+        "Follow whichever document seems easier to implement.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During an active Hajj field operation, a pilgrim asks the officer to fix compensation for an alleged service failure and order payment. The officer has no adjudicatory mandate. Which response is appropriate?",
+      "urdu": "حج کے فیلڈ آپریشن کے دوران ایک حاجی افسر سے سروس میں مبینہ ناکامی پر معاوضہ مقرر کرنے اور ادائیگی کا حکم دینے کا مطالبہ کرتا ہے۔ افسر کے پاس فیصلہ کرنے کا اختیار نہیں ہے۔ مناسب ردعمل کیا ہے؟",
+      "options": [
+        "Tell him private providers fall outside Hajj oversight entirely.",
+        "Determine and announce the compensation personally to relieve hardship.",
+        "Record the grievance, preserve evidence, assist within authority, and refer it to the competent mechanism.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Wafaqi Mohtasib (Ombudsman) of Pakistan?",
+      "urdu": "پاکستان کے موجودہ وفاقی محتسب کون ہیں؟",
+      "options": [
+        "Naveed Kamran Baloch",
+        "M Salman Faruqui",
+        "Ejaz Ahmad Qureshi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">Naveed Kamran Baloch</font><font color=\"#0000ff\" style=\"font-size: 0.875rem;\"> is the Current and 9th Wafaqi Mohtasib (Ombudsman) of Pakistan since</font><font color=\"#ff0000\" style=\"font-size: 0.875rem;\"> March 4, 2026.</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Who was the first woman computer programmer?",
       "urdu": "پہلی خاتون کمپیوٹر پروگرامر کون تھیں؟",
@@ -330,333 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Microsoft Excel, Ctrl + 1 is used for which of the following?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Open Format Cells dialog box",
-        "Insert a new worksheet",
-        "Save the workbook",
-        "Close the workbook"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">MS Excel Shortcut Keys</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the opposite of Seedless?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fruitful",
-        "Seeded",
-        "Barren",
-        "Empty"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The wealth or property left by deceased is called?",
-      "urdu": "وفات پانے والے شخص کی چھوڑی ہوئی جائیداد یا مال کو کیا کہتے ہیں؟",
-      "options": [
-        "Taraka",
-        "Sadaqa",
-        "Asaba",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In computer science, Half-byte is also known as ____?",
-      "urdu": "کمپیوٹر سائنس میں ہاف بائٹ کو ____ کے نام سے بھی جانا جاتا ہے؟",
-      "options": [
-        "Word",
-        "Four bits",
-        "Nibble",
-        "All of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#00ff00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "ISDN stands for _____?",
-      "urdu": "آئی ایس ڈی این کا مطلب کیا ہے؟",
-      "options": [
-        "Internet Services Data Network",
-        "International Standard Digital Network",
-        "Integrated Services Digital Network",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#9c00ff\" style=\"\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "During Ayoub era, presidential elections held in:",
-      "urdu": "ایوب کے دور میں صدارتی انتخابات کب ہوئے",
-      "options": [
-        "1950",
-        "1955",
-        "1960",
-        "1965",
-        "1970"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><span style=\"font-size: 0.875rem;\"><font color=\"#ff00ff\"></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is the first caliph in the Umayyad dynasty?",
-      "urdu": "اموی خاندان میں پہلا خلیفہ کب ہے؟",
-      "options": [
-        "Hazrat Usman (R.A)",
-        "Hazrat Muawiya (R.A)",
-        "Hazrat Umar bin Abdul Aziz (R.A)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the distance required for Qasr in prayer ___ ?",
-      "urdu": "نماد قصر کے لیے کتنا فاصلہ شرط ہے؟",
-      "options": [
-        "58 km",
-        "85 km",
-        "78 km",
-        "None"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#9c00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sulah-e-Hudaibiya was signed for how many years?",
-      "urdu": "صلح حدیبیہ کے معاہدے کے مطابق دونوں فریقوں کے درمیان جنگ کا معاہدہ کتنے سال کے لیے کیا گیا؟",
-      "options": [
-        "5",
-        "10",
-        "7",
-        "3"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year Swat was merged to Pakistan?",
-      "urdu": "کس سال سوات پاکستان میں شامل ہوا؟",
-      "options": [
-        "1870",
-        "1869",
-        "1969",
-        "1970",
-        "2014"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What will be the next term in the pattern? 2, 4, 8, 16, ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "18",
-        "24",
-        "32",
-        "64"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If radius of a circle is increased to twice its original length, how much will the area of the circle increase ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "4 times",
-        "5 times",
-        "2 times",
-        "None"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The number of Ghazwat in which the Holy Prophet (SAW) took part?",
-      "urdu": "حضور صلی اللہ علیہ وآلہ وسلم نے ذاتی طور پر کتنے غزوت میں حصہ لیا؟",
-      "options": [
-        "25",
-        "26",
-        "27",
-        "28"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(0, 0, 255); font-size: 0.875rem;\">Holy Prophet (PBUH) personally participated</span><span style=\"font-size: 0.875rem;\"><font color=\"#0000ff\"> in about</font><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\"> 9 of them</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "During a Hajj field-office data-processing exercise, Assistant A processes 24 records in 18 minutes and Assistant C 20 records in 18 minutes. Working 40 minutes each, how many complete records result?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "101 records, being 53 and 48 after excluding incomplete ones.",
-        "103 records, being 53 and 50 with fractions disregarded.",
-        "100 records, being 53 and 47 with fractions excluded.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Step 1: Assistant A</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During the Hajj field operation, a pilgrim demands that the officer immediately declare a private operator liable and order compensation. The officer has no adjudicatory authority. Best course?",
-      "urdu": "حج فیلڈ آپریشن کے دوران ایک حاجی افسر سے مطالبہ کرتا ہے کہ وہ فوراً کسی نجی آپریٹر کو ذمہ دار قرار دے اور معاوضے کا حکم دے۔ افسر کے پاس فیصلہ کرنے کا اختیار نہیں ہے۔ بہترین طریقہ کیا ہے؟",
-      "options": [
-        "Preserve the complaint and evidence, assist within authority, and refer it to the prescribed mechanism.",
-        "Have both parties settle privately and close the complaint.",
-        "Reject it as a purely private commercial matter.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During Hajj field operations, a field staff member has weak connectivity; an old offline map shows a nearer camp than the authorized assignment in the operational system. Which principle applies?",
-      "urdu": "حج کے فیلڈ آپریشنز کے دوران ایک فیلڈ اسٹاف ممبر کو کمزور کنیکٹیویٹی کا سامنا ہے؛ ایک پرانا آف لائن نقشہ مجاز آپریشنل سسٹم میں درج کیمپ کے مقابلے میں ایک قریبی کیمپ دکھاتا ہے۔ کون سا اصول لاگو ہوتا ہے؟",
-      "options": [
-        "Treat both sources as equally authoritative and choose the convenient one.",
-        "Treat the authorized assignment as controlling and use the map only for navigation.",
-        "Prefer the shortest distance in order to reduce travel time.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: Exquisite project mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A poorly made project",
-        "A beautifully designed project",
-        "An unfinished project",
-        "A boring project"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10-09-2026</span><font color=\"#00ff00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "During preparations for a demanding Hajj field operation, an officer expects unreliable connectivity while still supporting enrollment, navigation and translation needs. Which statement reflects responsible preparation?",
-      "urdu": "ایک مشکل حج فیلڈ آپریشن کی تیاری کے دوران ایک افسر کو کمزور انٹرنیٹ کنکشن کی توقع ہے، جبکہ اسے اندراج، نیویگیشن اور ترجمے کی ضروریات پوری کرنی ہیں۔ کون سا بیان ذمہ دارانہ تیاری کو ظاہر کرتا ہے؟",
-      "options": [
-        "Maps should complete enrollment and Saudi Visa Bio should translate notices.",
-        "Saudi Visa Bio serves enrollment, Maps navigates offline where downloaded. Translate works offline for downloaded languages; none replaces an authorized record.",
-        "All three are interchangeable for any biometric, navigation of record function.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: At arms length means ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Near",
-        "At a distance",
-        "Little distance",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font style=\"background-color: rgb(255, 255, 0);\"><span style=\"color: rgb(255, 0, 255);\">Last updated question NS on 10-09-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: To kick up a storm means _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To start dancing wildly",
-        "To create a disturbance or protest",
-        "To clean up a mess",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The idiom means </font><font color=\"#ff0000\">to cause an uproar or strong reaction.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During a demanding Hajj field operation, an employee argues that Google Maps, Google Translate and the authorized Hajj application are equally authoritative because all sit on one duty device, Which statement is correct?",
-      "urdu": "حج کے مشکل حالات کے دوران ایک ملازم کا کہنا ہے کہ گوگل میپس، گوگل ٹرانسلیٹ اور مجاز حج ایپلیکیشن جیسے مستند ہیں کیونکہ یہ سب ایک ہی سرکاری ڈیوٹی ڈیوائس میں موجود ہے۔  درست بیان کون سا ہے؟",
-      "options": [
-        "All three share the same status once on an official device.",
-        "Maps aids navigation and Translate aids communication, while authorized records remain controlling for assignments.",
-        "Translate can substitute for official records and religious guidance.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym of Candor is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Frankness",
-        "Deceit",
-        "Honesty",
-        "Sincerity"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10-09-2026</span><font color=\"#ff00ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Prudent is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Improper",
-        "Imprudent",
-        "Indefinite",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A field assistant is helping a pilgrim whose route is indicated differently by a volunteer, an old offline map and the current authorized record, and who asks simply for the shortest route. Which principle governs?",
-      "urdu": "ایک فیلڈ اسسٹنٹ ایک حاجی کی مدد کر رہا ہے جس کا راستہ ایک رضاکار، پرانے آف لائن نقشے اور موجودہ مجاز ریکارڈ میں مختلف دکھایا گیا ہے، اور حاجی صرف مختصر ترین راستہ پوچھتا ہے۔ کون سا اصول لاگو ہوتا ہے؟",
-      "options": [
-        "Travel efficiency always overrides record verification.",
-        "Navigation assistance differs from authoritative assignment: the current authorized record must be verified first.",
-        "Older information is automatically more reliable.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Benevolent is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Malicious",
-        "Cruel",
-        "Malevolent",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">Benevolent</font><font color=\"#0000ff\"> means نفاست</font></b></p>",
       "category": "all"
     }
   ]
