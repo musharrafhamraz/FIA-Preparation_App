@@ -3,10 +3,88 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-10T21:16:12.951205",
+    "fetched_at": "2026-09-11T05:37:07.442085",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who was the first woman computer programmer?",
+      "urdu": "پہلی خاتون کمپیوٹر پروگرامر کون تھیں؟",
+      "options": [
+        "Ada Lovelace",
+        "Grace Hopper",
+        "Katherine Johnson",
+        "Margaret Hamilton"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is a device that connects two or more networks with different types of protocols?",
+      "urdu": "کون سا آلہ ہے جو دو یا زیادہ نیٹ ورکس کو مختلف قسم کے پروٹوکول سے جوڑتا ہے؟",
+      "options": [
+        "Gateway",
+        "Bridge",
+        "Router",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the opposite of \"Turbulent\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Dreadful",
+        "Awful",
+        "Peaceful",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Turbulent means </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">انشتار انگیز</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pointing toward a man, a man said \" His mother is the only daughter of my mother \". How is the woman related to the man ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Mother",
+        "Grand mother",
+        "Sister",
+        "Daughter"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>The speaker's mother has only one daughter.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The average weight of 5 persons is 60 kg. A new person joins and the average rises to 62 kg. Find the weight of the new person.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "70 kg",
+        "72 kg",
+        "75 kg",
+        "80 kg"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"24\" data-start=\"14\"><strong data-end=\"24\" data-start=\"14\" style=\"\"><font color=\"#ff0000\">Given</font><font color=\"#0000ff\">:</font></strong><font color=\"#0000ff\"><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "It takes 5 minutes to pass a rumor from one form one person to another person. The Tree of Rumour continues. How many persons would know the Rumour after 20 minutes?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "16",
+        "27",
+        "81",
+        "90"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\" face=\"Helvetica\"><b>In the Tree of Rumour problem, one person passes the rumour to 2 other people every 5 minutes.</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "If the ratio of Copper to Silver is 3:5, what fraction of the total is Silver?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -18,6 +96,45 @@
       ],
       "correct": 1,
       "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"27\" data-start=\"15\"><font color=\"#ff0000\">Given ratio:<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the series. 2, 6, 12, 20, 30, 42, _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50",
+        "54",
+        "56",
+        "62"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b>Find the differences:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A is B's daughter, C is B's mother, D is B's sister and E is D's son. Then how is A related to E?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Uncle",
+        "Granddaughter",
+        "Cousin",
+        "None of the"
+      ],
+      "correct": 2,
+      "explanation": "<p data-sourcepos=\"1:1-1:35\"><font color=\"#0000ff\"><span style=\"font-size: 14px;\">To determine the relationship, we can break down the family structure:</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a : b = 8 : 9 and b : c = 6 : 5, then find a : b : c?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "16 : 15 : 18",
+        "16 : 18 : 15",
+        "16 : 18 : 17",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#9c00ff\">Given</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
@@ -540,124 +657,6 @@
       ],
       "correct": 3,
       "explanation": "<p><b><font color=\"#ff0000\">Benevolent</font><font color=\"#0000ff\"> means نفاست</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The antonym of \"Mitigate\" is:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Lesson",
-        "Enhance",
-        "Improve",
-        "Alleviate",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Mitigate means کم </b><b style=\"\"><font color=\"#9c00ff\">کرنا</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of \"ZEAL\" is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hostility",
-        "Diffidence",
-        "Apathy",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Zeal means جوش</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During a Hajj field operation, a pilgrim demands a definite answer on whether a circumstance requires compensation. The officer is not an authorized religious guide. Most responsible response?",
-      "urdu": "حج کے فیلڈ آپریشن کے دوران ایک حاجی قطعی جواب مانگتا ہے کہ آیا کسی صورتِ حال میں کفارہ لازم ہے۔ افسر مجاز مذہبی رہنما نہیں ہے۔ سب سے ذمہ دارانہ ردعمل کیا ہے؟",
-      "options": [
-        "Give only practical information within his competence and refer the question to the authorized guide.",
-        "State that all schools agree and give one definitive answer.",
-        "Give the most confident answer he can from his own understanding.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During the Hajj field operation, an unassigned person claiming to be \"helping with Hajj asks for a copy of a pilgrim's affidavit, offering no authorization, and the pilgrim informally agrees. What should the staff member do?",
-      "urdu": "حج فیلڈ آپریشن کے دوران ایک غیر مجاز شخص جو دعویٰ کرتا ہے کہ وہ \"حج میں مدد کر رہا ہے\"، کسی حاجی کے حلف نامے کی نقل مانگتا ہے لیکن کوئی اجازت نامہ پیش نہیں کرتا، جبکہ حاجی غیر رسمی طور پر رضامند ہو جاتا ہے۔ اسٹاف ممبر کو کیا کرنا چاہیے؟",
-      "options": [
-        "Share it, since he promised to keep it confidential.",
-        "Withhold it, follow the authorized sharing procedure, and restrict access to authorized persons.",
-        "Upload it to a staff and volunteer group channel.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Fastidious?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Meticulous",
-        "Easygoing",
-        "Demanding",
-        "Particula"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10-09-2026</span><font color=\"#9c00ff\"><b></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The opposite of ALACRITY is",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Apathy",
-        "Fervour",
-        "Zeal",
-        "Happiness"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "During a particularly demanding period of Hajj field operations, a group leader asks a Muavin to promise a transport seat that the allocation system does not show. Which response is best?",
-      "urdu": "حج کے انتہائی مصروف فیلڈ آپریشنز کے دوران ایک گروپ لیڈر معاون سے ایسی ٹرانسپورٹ سیٹ کا وعدہ کرنے کو کہتا ہے جو الاٹمنٹ سسٹم میں موجود نہیں۔ سب سے بہتر ردعمل کیا ہے؟",
-      "options": [
-        "Assist within his authority, refer it to the transport channel, and promise no unallocated seat.",
-        "Tell the pilgrim to board any vehicle going that way.",
-        "Issue a handwritten seat entitlement and correct the record later.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Ephemeral is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Eternal",
-        "Long-lasting",
-        "Permanent",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of ABUNDANT is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Happily",
-        "Minute",
-        "Scarce",
-        "Both B and C"
-      ],
-      "correct": 3,
-      "explanation": "<p><span new=\"\" roman\";\"=\"\" style=\"font-family: \" times=\"\"><b style=\"\"><font color=\"#ff0000\">ABUNDANT means کَثیر</font></b></span></p>",
       "category": "all"
     }
   ]
