@@ -3,10 +3,114 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-12T05:24:18.185580",
+    "fetched_at": "2026-09-12T11:24:57.516063",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "If 25% of a number is 75, what is the number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">25% = 75</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If Raghu buys a book for Rs 800 and sells it for Rs. 1,000, then what will be his gain percentage?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"80\" data-start=\"14\"><font color=\"#0000ff\"><b>Cost Price (CP) = <span data-end=\"43\" data-start=\"32\">Rs. 800</span><br data-end=\"46\" data-start=\"43\"/>\r\nSelling Price (SP) = <span data-end=\"80\" data-start=\"67\">Rs. 1,000</span><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 5 workers can complete a task in 12 days, how many worker-days are required to complete the task?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50 worker-days",
+        "60 worker-days",
+        "65 worker-days",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Worker-days = Workers × Days</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next number in the sequence: 3, 6, 12, 24, 48, _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "96",
+        "84",
+        "72",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Each number is multiplied by 2:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A clock shows 3:00. What is the angle between the hour hand and the minute hand?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "180°",
+        "120°",
+        "90°",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">At 3:00, the minute hand is at 12 and the hour hand is at 3. </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If A = 1, B = 2, C = 3, and so on, what is the numerical value of CAT?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Using A = 1, B = 2, C = 3, ... Z = 26</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What will be the next term in the pattern? 2, 4, 8, 16, ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "18",
+        "24",
+        "32",
+        "64"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan became a Major Non-NATO Ally (MNNA) of the United States in?",
+      "urdu": "پاکستان امریکہ کا میجر نان نیٹو الائی کس سال بنا؟",
+      "options": [
+        "2001",
+        "2002",
+        "2004",
+        "2006"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#ff00ff\"></font></p>",
+      "category": "all"
+    },
     {
       "q": "Research study starts from?",
       "urdu": "تحقیق کا آغاز کس چیز سے ہوتا ہے؟",
@@ -551,110 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "During an active Hajj field operation, a pilgrim asks the officer to fix compensation for an alleged service failure and order payment. The officer has no adjudicatory mandate. Which response is appropriate?",
-      "urdu": "حج کے فیلڈ آپریشن کے دوران ایک حاجی افسر سے سروس میں مبینہ ناکامی پر معاوضہ مقرر کرنے اور ادائیگی کا حکم دینے کا مطالبہ کرتا ہے۔ افسر کے پاس فیصلہ کرنے کا اختیار نہیں ہے۔ مناسب ردعمل کیا ہے؟",
-      "options": [
-        "Tell him private providers fall outside Hajj oversight entirely.",
-        "Determine and announce the compensation personally to relieve hardship.",
-        "Record the grievance, preserve evidence, assist within authority, and refer it to the competent mechanism.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Wafaqi Mohtasib (Ombudsman) of Pakistan?",
-      "urdu": "پاکستان کے موجودہ وفاقی محتسب کون ہیں؟",
-      "options": [
-        "Naveed Kamran Baloch",
-        "M Salman Faruqui",
-        "Ejaz Ahmad Qureshi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">Naveed Kamran Baloch</font><font color=\"#0000ff\" style=\"font-size: 0.875rem;\"> is the Current and 9th Wafaqi Mohtasib (Ombudsman) of Pakistan since</font><font color=\"#ff0000\" style=\"font-size: 0.875rem;\"> March 4, 2026.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first woman computer programmer?",
-      "urdu": "پہلی خاتون کمپیوٹر پروگرامر کون تھیں؟",
-      "options": [
-        "Ada Lovelace",
-        "Grace Hopper",
-        "Katherine Johnson",
-        "Margaret Hamilton"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is a device that connects two or more networks with different types of protocols?",
-      "urdu": "کون سا آلہ ہے جو دو یا زیادہ نیٹ ورکس کو مختلف قسم کے پروٹوکول سے جوڑتا ہے؟",
-      "options": [
-        "Gateway",
-        "Bridge",
-        "Router",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the opposite of \"Turbulent\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Dreadful",
-        "Awful",
-        "Peaceful",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Turbulent means </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">انشتار انگیز</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pointing toward a man, a man said \" His mother is the only daughter of my mother \". How is the woman related to the man ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Mother",
-        "Grand mother",
-        "Sister",
-        "Daughter"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>The speaker's mother has only one daughter.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The average weight of 5 persons is 60 kg. A new person joins and the average rises to 62 kg. Find the weight of the new person.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70 kg",
-        "72 kg",
-        "75 kg",
-        "80 kg"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"24\" data-start=\"14\"><strong data-end=\"24\" data-start=\"14\" style=\"\"><font color=\"#ff0000\">Given</font><font color=\"#0000ff\">:</font></strong><font color=\"#0000ff\"><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "It takes 5 minutes to pass a rumor from one form one person to another person. The Tree of Rumour continues. How many persons would know the Rumour after 20 minutes?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "16",
-        "27",
-        "81",
-        "90"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\" face=\"Helvetica\"><b>In the Tree of Rumour problem, one person passes the rumour to 2 other people every 5 minutes.</b></font></p>",
       "category": "all"
     }
   ]
