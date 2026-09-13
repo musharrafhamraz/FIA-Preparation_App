@@ -3,10 +3,218 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-13T16:47:11.669331",
+    "fetched_at": "2026-09-13T21:11:32.528337",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which of the following is a five-digit number with an even first digit and an odd last digit?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "24680",
+        "35791",
+        "24679",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "There are 10 red balls, 4 white balls, and 15 black balls. If 1 red ball is removed, how many red balls are left?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Started with 10 red balls.  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the sequence is x, x + 6, x + 18, what is the 4th value?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "42",
+        "48",
+        "54",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Look at how much it increases each time:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If x = -2 and y = 3, then what is the value of x³y² + x²y?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "-72",
+        "-60",
+        "-48",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Put x = -2 and y = 3 in x³y² + x²y  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is the solution set of |-x| = 0?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "{1}",
+        "{-1}",
+        "{0}",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">The equation </font><font color=\"#ff0000\">|-x| = 0 </font><font color=\"#0000ff\">simplifies to x = </font><font color=\"#ff0000\">0</font><font color=\"#0000ff\"> since the absolute value of any number is zero only when the number itself is zero.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the series 1, 8, 27, 64, 125 _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "123",
+        "126",
+        "216",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); font-weight: bold; font-family: Helvetica;\">1, 8, 27, 64, 125, </span><span style=\"font-weight: bold; font-family: Helvetica; color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">216, 343, and 512</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 3/4 of 92 + 13?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "72",
+        "80",
+        "82",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">First find 3/4 of 92  </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the sequence of 3, 5, 8, 10, 12, 15?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "53",
+        "52",
+        "54",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Just add them all together:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the simple interest on Rs. 10,000 at a rate of 8% per annum for 2 years?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 800",
+        "Rs. 1,200",
+        "Rs. 1,600",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\"><b>Formula: SI = (P × R × T) / 100</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Countries are there Landlocked in the World?",
+      "urdu": "دنیا میں کتنے ممالک لینڈ لاکڈ ہیں؟",
+      "options": [
+        "22",
+        "44",
+        "46",
+        "50"
+      ],
+      "correct": 1,
+      "explanation": "<p align=\"center\" class=\"MsoNormal\" style=\"margin-bottom: 0.0001pt; line-height: normal; text-align: center;\"><span style=\"font-weight: bolder;\"><span style=\"font-size: 18pt;\">List of </span></span><span style=\"font-weight: bolder;\"><span mso-bidi-font-family:calibri;color:red\"=\"\" new=\"\" roman\";mso-hansi-font-family:calibri;=\"\" style=\"font-size: 18pt;\" times=\"\">44</span></span><span style=\"font-weight: bolder;\"><span style=\"font-size: 18pt;\"> Land Locked Countries in the World<o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is increased by 20% and then decreased by 20%. Find the net increase or decrease percent?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Does not changes",
+        "Decreased by 4%",
+        "Increased by 4%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ages of two persons are in the ratio 4:7. After 12 years, their age ratio will be 2:3. What is the age of the younger person today?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "18 years",
+        "24 years",
+        "28 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If 500 people complete a work in 25 days and they work for 12 days, then 300 people will complete the remaining work in how many days?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15 days",
+        "21⅔ days",
+        "25 days",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Total work = people × days = 500 × 25 = 12500 person-days</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the mother's age is 3 times the son's age and the sum of their present ages is 70 years, what is the son's present age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "17.5 years",
+        "18.5 years",
+        "19.5 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let son's age = x. Then mother's age = 3x because it is 3 times the son's age.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The next number in series: 27, 32, 30, 35, 33 _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "38",
+        "31",
+        "37",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The pattern in the series appears to be alternating between adding and subtracting.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the price of an item is Rs. 250 and it increases by 10% each year, what will be its price after 2 years?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 302.75",
+        "Rs. 302.25",
+        "Rs. 302.50",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Year 1: 250 × 1.10 = Rs. 275  </font></b></p>",
+      "category": "all"
+    },
     {
       "q": "All engineers are graduates. All graduates are educated persons. Which conclusion logically follows?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -448,214 +656,6 @@
       ],
       "correct": 0,
       "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Surahs are there in the Holy Quran?",
-      "urdu": "قرآن پاک میں کتنی سورتیں ہیں؟",
-      "options": [
-        "117",
-        "114",
-        "112",
-        "115"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Who accepted Islam first in Women?",
-      "urdu": "عورتوں میں سب سے پہلے اسلام کس نے قبول کیا؟",
-      "options": [
-        "Hazrat Amina (RA)",
-        "Hazrat Khadija (RA)",
-        "Hazrat Hafsa (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"\"></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which month did Prophet Muhammad (PBUH) die?",
-      "urdu": "کس مہینے میں حضرت محمد (ص) وفات پاگئے؟",
-      "options": [
-        "Ramadan",
-        "Rabi al-Awwal",
-        "Rabi al-Thani",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sahabi is declared as Imam ul Fuqaha?",
-      "urdu": "کس صحابی کو إمام الفقهاء کہا جاتا ہے؟",
-      "options": [
-        "Hazrat Ali",
-        "Abdullah Bin Abbas",
-        "Maaz Bin Jabal",
-        "None of These"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Injeel was revealed on which Prophet by Allah?",
-      "urdu": "انجیل اللہ کی طرف سے کس نبی پر نازل ہوئی؟",
-      "options": [
-        "Hazrat Moosa",
-        "Hazrat Ibrahim",
-        "Hazrat Isa",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Given: ABD, BCE, CDF, DFG, ________. what should follow?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "EFG",
-        "EFI",
-        "EFH",
-        "NONE"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Each group moves one </font><font color=\"#ff0000\">letter forward</font><font color=\"#0000ff\">, while the last letter skips one position:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the antonym of Presentable?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Neat",
-        "Attractive",
-        "Untidy",
-        "Elegant"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff00ff\"><br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the opposite of \"Vulgar\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Exquisite",
-        "Gross",
-        "Obscene",
-        "Coarse"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which international financial organization provides long-term development loans to developing countries and is based in Washington, D.C.?",
-      "urdu": "کون سا بین الاقوامی مالیاتی ادارہ ترقی پذیر ممالک کو طویل مدتی ترقیاتی قرضے فراہم کرتا ہے اور واشنگٹن ڈی سی میں قائم ہے؟",
-      "options": [
-        "Bank for International Settlements",
-        "World Bank",
-        "Asian Development Bank",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The headquarters of State Bank of Pakistan is situated in?",
-      "urdu": "اسٹیٹ بینک آف پاکستان کا ہیڈ کوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Quetta",
-        "Peshawar",
-        "Karachi",
-        "Faisalbad"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Light year is a unit of _____?",
-      "urdu": "نوری سال کی اکائی کیا ہے؟",
-      "options": [
-        "Light",
-        "Distance",
-        "Time",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Capital of Australia is _____?",
-      "urdu": "آسٹریلیا کا دارالحکومت کونسا شہر ہے؟",
-      "options": [
-        "Sydeny",
-        "Canberra",
-        "Perth",
-        "Melbron"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "The atmospheric pressure (air pressure) at any place is measured by _____?",
-      "urdu": "کسی بھی جگہ پر فضائی دباؤ (ہوا کا دباؤ) کس آلے سے ناپا جاتا ہے؟",
-      "options": [
-        "Altimeter",
-        "Pressure Meter",
-        "Barometer",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Deficiency of Vitamin C Causes?",
-      "urdu": "وٹامن سی کی کمی سے کون سی بیماری ہوتی ہے؟",
-      "options": [
-        "Scurvy",
-        "Cold",
-        "Cancer",
-        "Rickets"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of International Court of Justice (ICJ) located?",
-      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
-      "options": [
-        "New York",
-        "Washington",
-        "Geneva",
-        "Hague"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Insulin is produced/secreted by which organ of the body?",
-      "urdu": "انسولین جسم کے کس عضو سے تیار ہوتی ہے؟",
-      "options": [
-        "Liver",
-        "Pancreas",
-        "Kidney",
-        "Brain"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
       "category": "all"
     }
   ]
