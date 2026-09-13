@@ -1,76 +1,662 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-13T12:29:08.221484",
+    "fetched_at": "2026-09-13T16:47:11.669331",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
+      "q": "All engineers are graduates. All graduates are educated persons. Which conclusion logically follows?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
-      "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "All educated persons are engineers",
+        "All graduates are engineers",
+        "All engineers are educated persons",
+        "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><b><font color=\"#0000ff\">Engineers ⟶ Graduates</font></b></p>",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "Completely the series: 90, 45, 48, 24, 29, _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What does CPU stand for?",
-      "urdu": "",
-      "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "14.5",
+        "15.5",
+        "16.5",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "<p><span style=\"font-size: 16px;\"><font color=\"#0000ff\"><b>Pattern:</b></font></span></p>",
+      "category": "all"
     },
     {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
+      "q": "A student studies for zero hours on two days and for 4, 3, 4, 4 and 5 hours on the remaining five days. What is the median number of study hours per day?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "3 hours",
+        "4 hours",
+        "5 hours",
+        "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "<p><b><font color=\"#0000ff\">Arrange the study hours in ascending order: 0, 0, 3, 4, 4, 4, 5</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A mother is five times as old as her son. Ten years from now, she will be three times as old as her son. What is the son's present age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5 years",
+        "10 years",
+        "15 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Let the son's present age = x years.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Vivid is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pale",
+        "Cleat",
+        "Bright",
+        "Both B and C"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Frugal is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Expensive",
+        "Thrifty",
+        "Economical",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Diligent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hardworking",
+        "Witty",
+        "Deliberate",
+        "Lazy"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is a Synonym of Brave?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fearful",
+        "Frightened",
+        "Coward",
+        "Fearless"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Brave means بہادر</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Abundant is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Scarce",
+        "Plentiful",
+        "Profuse",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated question NS on 10-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Head Coach of Pakistan men's team in Test Cricket?",
+      "urdu": "ٹیسٹ کرکٹ میں پاکستان مینز ٹیم کے موجودہ ہیڈ کوچ کون ہیں؟",
+      "options": [
+        "Muhammad Younas",
+        "Sarfaraz Ahmed",
+        "Mike Hesson",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\">Mike Hesson</font><font color=\"#0000ff\"> took charge as Pakistan's </font><font color=\"#ff0000\">interim Test head coach</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">September 2026</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the current Inspector General of Police Islamabad?",
+      "urdu": "موجودہ انسپکٹر جنرل آف پولیس اسلام آباد کون ہے؟",
+      "options": [
+        "Syed Ali Nasir Rizvi",
+        "Muhammad Sohail Chaudhry",
+        "Akbar Nasir Khan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The current </font>Inspector General of Police<font color=\"#0000ff\"> for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Islamabad </font><font color=\"#0000ff\">is\r\nCaptain (Retd.) </font><font color=\"#ff0000\">Muhammad Sohail Chaudhry</font><font color=\"#0000ff\"><o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The antonym of 'Condemn' is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Endorse",
+        "Oppose",
+        "Castigate",
+        "Censure",
+        "All of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span><b style=\"color: rgb(0, 0, 255);\"><br/></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the current Director General of the National Cyber Crime Investigation Agency (NCCIA)?",
+      "urdu": "نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (این سی سی آئی اے) کے موجودہ ڈائریکٹر جنرل کون ہیں؟",
+      "options": [
+        "Sohail Chaudhry",
+        "Ali Nasir Rizvi",
+        "Akbar Nasir Khan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b>Syed Ali Nasir Rizvi<font color=\"#0000ff\"> is the current </font><font color=\"#ff0000\">Director General</font><font color=\"#0000ff\"> of\r\nthe National Cyber Crime Investigation Agency (</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">NCCIA</font><font color=\"#0000ff\">)<o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of current Crown prince of Saudi Arabia?",
+      "urdu": "سعودی عرب کے موجودہ ولی عہد کا نام کیا ہے؟",
+      "options": [
+        "Mohammed bin Salman",
+        "Muhammad bin Nayof",
+        "Nayef bin Muhammad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"font-size: 1rem; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\"><span style=\"font-family: Helvetica;\">Mohammed bin Salman (MBS</span></b><b style=\"font-size: 1rem; color: rgb(0, 0, 255);\"><span style=\"font-family: Helvetica;\">) is the </span></b><b style=\"font-size: 1rem; color: rgb(255, 0, 0);\"><span style=\"font-family: Helvetica;\">current crown</span></b><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bold; font-family: Helvetica;\"> prince, deputy prime minister(</span><span style=\"font-size: 0.875rem; color: rgb(0, 0, 255); font-weight: 700; font-family: Helvetica;\">(2022)</span><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bold; font-family: Helvetica;\"> and minister of defense of </span><b style=\"font-size: 1rem; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\"><span style=\"font-family: Helvetica;\">Saudi Arabia</span></b><span style=\"font-size: 0.875rem; color: rgb(255, 0, 0); font-weight: bold;\"><span style=\"font-size: 1rem; font-family: Helvetica;\"> </span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is hosting the 18th BRICS Summit in 2026?",
+      "urdu": "دو ہزار چھبیس میں 18ویں برکس سربراہی اجلاس کی میزبانی کون سا ملک کر رہا ہے؟",
+      "options": [
+        "Brazil",
+        "Russia",
+        "India",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">BRICS Summit 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which group seized Perim Island in Strait of Mandeb in September 2026?",
+      "urdu": "ستمبر 2026 میں آبنائے مندب میں واقع جزیرہ پیریم پر کس گروہ نے قبضہ کیا؟",
+      "options": [
+        "Taliban",
+        "Houthis",
+        "Hezbollah",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In September 2026, <span style=\"background-color: rgb(255, 255, 0);\">Iran</span>-backed Houthi forces took control of </font><font color=\"#ff0000\">Perim Island</font><font color=\"#0000ff\"> (Mayun Island) in the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Bab al-Mandeb Strait.</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the current CEO of OpenAI (ChatGPT)?",
+      "urdu": "چیٹ جی پی ٹی کے موجودہ سی او کون ہیں؟",
+      "options": [
+        "Elon Musk",
+        "Sam Altman",
+        "Will Cathcart",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\">As of September 2026, Samuel Altman</b><b style=\"color: rgb(0, 0, 255);\"> is the current CEO of </b><b style=\"background-color: rgb(255, 255, 0);\">OpenAI</b><b style=\"color: rgb(0, 0, 255);\">.<o:p></o:p></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the 307th term of the sequence: 2, 3, 5, 8, 2, 3, 5, 8, ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5",
+        "8",
+        "3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The sequence is repeating every 4 terms:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A city police administration identifies recurring congestion at major intersections and applies a route-removal strategy by eliminating selected traffic movements. Which outcome most directly indicates that the intervention is effective?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Increased traffic congestion",
+        "Longer travel times",
+        "Lower traffic density",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">A </font><font color=\"#ff0000\">route-removal strategy</font><font color=\"#0000ff\"> eliminates selected traffic movements to reduce congestion.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is decreased by 20% and the result is 240. What is the original number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "300",
+        "200",
+        "100",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">A number is decreased by 20%, so 80% of the original number remains.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mr. James has been working on the discovery and study of fossils since 1959. During his research, he compares fossils from different rock layers and observes changes in organisms over time. Based on these observations, which conclusion is most logically supported?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fossils remain unchanged over time",
+        "All organisms have the same characteristics",
+        "Species change over time",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the official theme for India's BRICS Chairship and the 2026 Summit?",
+      "urdu": "بھارت کی برکس  صدارت اور دو ہزار چھبیس کی سربراہی کانفرنس کا سرکاری موضوع کیا ہے؟",
+      "options": [
+        "Strengthening Global Trade and Economic Growth",
+        "Building for Resilience, Innovation, Cooperation and Sustainability",
+        "Partnership for Peace, Prosperity and Progress",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">Know about </font><font color=\"#ff0000\">BRICS Summit 2026</font><font color=\"#0000ff\"><o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Synonym of Decry is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Praise",
+        "Criticize",
+        "Support",
+        "Admire"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span><font color=\"#00ff00\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country reported attacks affecting its energy infrastructure amid rising regional tensions in September 2026?",
+      "urdu": "ستمبر 2026 میں بڑھتی ہوئی علاقائی کشیدگی کے دوران کس ملک نے اپنے توانائی کے بنیادی ڈھانچے کو متاثر کرنے والے حملوں کی اطلاع دی؟",
+      "options": [
+        "Saudi Arabia",
+        "Egypt",
+        "Turkey",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Saudi Arabia</font><font color=\"#0000ff\"> reported drone and missile attacks affecting\r\nits critical </font><font color=\"#ff0000\">energy infrastructure, including the East-West oil</font><font color=\"#0000ff\"> pipeline and\r\nfacilities in Jazan, Najran, Abha, and Yanbu, amid rising regional tensions in\r\n</font>September 2026.<font color=\"#0000ff\"><o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "No birds are mammals. A sparrow is a bird. What is the conclusion?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A sparrow is not a mammal",
+        "All mammals are birds",
+        "All birds are mammals",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">No birds are mammals.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Synonym of Nodule is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Lump",
+        "River",
+        "Flower",
+        "Valley"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span><font color=\"#9c00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Perim Island is located near which important waterway which was taken control by Houthi in 2026?",
+      "urdu": "پیریم جزیرہ کس اہم آبی گزرگاہ کے قریب واقع ہے جس پر 2026 میں حوثیوں نے قبضہ کر لیا تھا؟",
+      "options": [
+        "Strait of Malacca",
+        "Bab al-Mandeb Strait",
+        "Bosporus Strait",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">In September 2026, <span style=\"background-color: rgb(255, 255, 0);\">Iran</span>-backed Houthi forces took control\r\nof </font><font color=\"#ff0000\">Perim Island</font><font color=\"#0000ff\"> (Mayun Island) in the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Bab al-Mandeb Strait. </font><font color=\"#0000ff\"><o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Synonym of Barrister is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Teacher",
+        "Lawyer",
+        "Doctor",
+        "Judge"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Adamant is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Docile",
+        "Flexible",
+        "Compliant",
+        "Stubborn"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Happy is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hapless",
+        "Unlucky",
+        "Lucky",
+        "All of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Seditious is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Loyal",
+        "Rebellious",
+        "Peaceful",
+        "Obedient"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Compiler can check?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Syntax Error",
+        "Logical error",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span><font color=\"#0000ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "An item originally priced at Rs. 2500 was sold for Rs. 1600. What is the percentage discount?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "36%",
+        "34%",
+        "32%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Usman Bin ____ was the key holder of Kabba",
+      "urdu": "حضرت عثمان بن _____ خانہ کعبہ کے کلید بردار تھے۔",
+      "options": [
+        "Talha",
+        "Asad",
+        "Saad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated: 13-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Surahs are there in the Holy Quran?",
+      "urdu": "قرآن پاک میں کتنی سورتیں ہیں؟",
+      "options": [
+        "117",
+        "114",
+        "112",
+        "115"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Who accepted Islam first in Women?",
+      "urdu": "عورتوں میں سب سے پہلے اسلام کس نے قبول کیا؟",
+      "options": [
+        "Hazrat Amina (RA)",
+        "Hazrat Khadija (RA)",
+        "Hazrat Hafsa (RA)",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"\"></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which month did Prophet Muhammad (PBUH) die?",
+      "urdu": "کس مہینے میں حضرت محمد (ص) وفات پاگئے؟",
+      "options": [
+        "Ramadan",
+        "Rabi al-Awwal",
+        "Rabi al-Thani",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sahabi is declared as Imam ul Fuqaha?",
+      "urdu": "کس صحابی کو إمام الفقهاء کہا جاتا ہے؟",
+      "options": [
+        "Hazrat Ali",
+        "Abdullah Bin Abbas",
+        "Maaz Bin Jabal",
+        "None of These"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Injeel was revealed on which Prophet by Allah?",
+      "urdu": "انجیل اللہ کی طرف سے کس نبی پر نازل ہوئی؟",
+      "options": [
+        "Hazrat Moosa",
+        "Hazrat Ibrahim",
+        "Hazrat Isa",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Given: ABD, BCE, CDF, DFG, ________. what should follow?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "EFG",
+        "EFI",
+        "EFH",
+        "NONE"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Each group moves one </font><font color=\"#ff0000\">letter forward</font><font color=\"#0000ff\">, while the last letter skips one position:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the antonym of Presentable?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Neat",
+        "Attractive",
+        "Untidy",
+        "Elegant"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff00ff\"><br/></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the opposite of \"Vulgar\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Exquisite",
+        "Gross",
+        "Obscene",
+        "Coarse"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which international financial organization provides long-term development loans to developing countries and is based in Washington, D.C.?",
+      "urdu": "کون سا بین الاقوامی مالیاتی ادارہ ترقی پذیر ممالک کو طویل مدتی ترقیاتی قرضے فراہم کرتا ہے اور واشنگٹن ڈی سی میں قائم ہے؟",
+      "options": [
+        "Bank for International Settlements",
+        "World Bank",
+        "Asian Development Bank",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The headquarters of State Bank of Pakistan is situated in?",
+      "urdu": "اسٹیٹ بینک آف پاکستان کا ہیڈ کوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Quetta",
+        "Peshawar",
+        "Karachi",
+        "Faisalbad"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Light year is a unit of _____?",
+      "urdu": "نوری سال کی اکائی کیا ہے؟",
+      "options": [
+        "Light",
+        "Distance",
+        "Time",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Capital of Australia is _____?",
+      "urdu": "آسٹریلیا کا دارالحکومت کونسا شہر ہے؟",
+      "options": [
+        "Sydeny",
+        "Canberra",
+        "Perth",
+        "Melbron"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "The atmospheric pressure (air pressure) at any place is measured by _____?",
+      "urdu": "کسی بھی جگہ پر فضائی دباؤ (ہوا کا دباؤ) کس آلے سے ناپا جاتا ہے؟",
+      "options": [
+        "Altimeter",
+        "Pressure Meter",
+        "Barometer",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Deficiency of Vitamin C Causes?",
+      "urdu": "وٹامن سی کی کمی سے کون سی بیماری ہوتی ہے؟",
+      "options": [
+        "Scurvy",
+        "Cold",
+        "Cancer",
+        "Rickets"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of International Court of Justice (ICJ) located?",
+      "urdu": "بین الاقوامی عدالت انصاف کا صدر دفتر کہاں واقع ہے؟",
+      "options": [
+        "New York",
+        "Washington",
+        "Geneva",
+        "Hague"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Insulin is produced/secreted by which organ of the body?",
+      "urdu": "انسولین جسم کے کس عضو سے تیار ہوتی ہے؟",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Brain"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
+      "category": "all"
     }
   ]
 }
