@@ -3,10 +3,441 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-14T13:32:58.283615",
+    "fetched_at": "2026-09-14T18:18:28.139294",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Imam Malik (R.A.) was a student of whom?",
+      "urdu": "امام مالکؒ نے کس سے تعلیم حاصل کی تھی؟",
+      "options": [
+        "Nafi‘ Mawla ibn UmarI(R.A.)",
+        "Ibn Shihab al-Zuhri (R.A.)",
+        "Abdur Rahman ibn Hurmuz (R.A.)",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><br style=\"color: rgb(33, 37, 41);\"/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The parliament of Israel:",
+      "urdu": "اسرائیل کی پارلیمنٹ",
+      "options": [
+        "Knessest",
+        "Diet",
+        "Crotes",
+        "Sejam"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><span style=\"font-size: 16px;\">Additional information:</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Peanuts are ______?",
+      "urdu": "مونگ پھلی کس قسم کی فصل ہے؟",
+      "options": [
+        "Grains",
+        "Legumes",
+        "Nuts",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The lightest gas that provides a larger elevation for balloons and is the lightest of all gases is _____?",
+      "urdu": "تمام گیسوں میں کون سی گیس سب سے ہلکی ہے؟",
+      "options": [
+        "Hydrogen",
+        "Nitrogen",
+        "Oxygen",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated question 17-02-2026</span><span style=\"font-family: Helvetica; font-weight: 700;\"><font color=\"#0000ff\" style=\"\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which fish can live in the coldest waters?",
+      "urdu": "کون سی مچھلی سب سے زیادہ سرد پانیوں میں زندہ رہ سکتی ہے؟",
+      "options": [
+        "Goldfish",
+        "Antarctic icefish",
+        "Tuna",
+        "Salmon"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of Maulana Maududi’s famous Quranic commentary?",
+      "urdu": "مولانا مودودیؒ کی مشہور قرآنی تفسیر کا نام کیا ہے؟",
+      "options": [
+        "Tafsir Ibn Kathir",
+        "Tafhim-ul-Quran",
+        "Maariful Quran",
+        "Bayan-ul-Quran"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated by NA on 14-09-2026</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of SAARC located?",
+      "urdu": "سارک کا ہیڈ کوارٹر کس کہاں واقع ہے؟",
+      "options": [
+        "Katmandu, Nepal",
+        "Islamabad, Pakistan",
+        "Delhi, India",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who discover Penicillin?",
+      "urdu": "پینسلن کس نے دریافت کی؟",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Edward Jenner",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 14-09-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Astrology is the study of ______?",
+      "urdu": "علم نجوم ______ کا مطالعہ ہے؟",
+      "options": [
+        "Impacts of stars on humans",
+        "Movement of stars",
+        "Movement of earth",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is UTP known for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Unshielded twisted pair",
+        "Unsold twisted pair",
+        "Unshielded twisted part",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The maximum font size available in Microsoft Word from the dropdown list is ____?",
+      "urdu": "ڈراپ ڈاؤن فہرست سے مائیکروسافٹ ورڈ میں دستیاب فونٹ کا زیادہ سے زیادہ سائز _____ ہے؟",
+      "options": [
+        "80",
+        "72",
+        "70",
+        "82"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px;\"><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Office, how we can change lowercase characters to uppercase characters, select correct combination of keys?",
+      "urdu": "ایم ایس آفس میں، ہم چھوٹے حروف کو بڑے حروف میں کیسے تبدیل کر سکتے ہیں، کلیدوں کا صحیح مجموعہ منتخب کریں؟",
+      "options": [
+        "Shift + F3",
+        "Shift + F2",
+        "Shift + F1",
+        "Shift + F4"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Shift + F3 → </font><font color=\"#ff9c00\">Changes text case in MS Word.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many districts are there in Khyber Pakhtunkhwa (KPK)?",
+      "urdu": "خیبر پختونخوا میں کتنے اضلاع ہیں؟",
+      "options": [
+        "38",
+        "40",
+        "42",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which surah of the Holy Quran starts without Bismillah (Tasmia)?",
+      "urdu": "بسم اللہ کے بغیر کون سی سورت شروع ہوتی ہے؟",
+      "options": [
+        "Younas",
+        "Fatiha",
+        "Naml",
+        "Tauba"
+      ],
+      "correct": 3,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Prophets mentioned in Holy Quran?",
+      "urdu": "قرآن پاک میں کتنے انبیاء کا ذکر ہے؟",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;margin-bottom:.0001pt\"><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">The</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> Holy Quran has</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\">26 Prophets</span><span style=\"color: rgb(0, 0, 255); font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">names mentioned</span><span style=\"font-size: 12pt; line-height: 17.12px;\">:</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many general seats are there in the National Assembly of Pakistan?",
+      "urdu": "پاکستان کی قومی اسمبلی میں جنرل نشستوں کی تعداد کتنی ہے؟",
+      "options": [
+        "300",
+        "266",
+        "250",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country hosted the 8th BRICS Energy Summit in 2026?",
+      "urdu": "دو ہزار چھبیس میں آٹھویں برکس انرجی سمٹ کی میزبانی کس ملک نے کی؟",
+      "options": [
+        "Brazil",
+        "India",
+        "China",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">8th BRICS Energy Summit was hosted by India in 2026.</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Census in Pakistan held after how many years?",
+      "urdu": "پاکستان میں مردم شماری کتنے سال بعد ہوئی؟",
+      "options": [
+        "5 years",
+        "10 years",
+        "15 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#9c00ff\">A national census in Pakistan is legally mandated by the constitution to be held every 10 years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the last Governor General of Pakistan?",
+      "urdu": "پاکستان کے آخری گورنر جنرل کون تھے؟",
+      "options": [
+        "Iskander Mirza",
+        "Liaqiat Ali khan",
+        "Khawaja nizam u din",
+        "Muhammad ali"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-family: Tahoma; font-weight: 400;\">Name</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many countries are the members of SAARC?",
+      "urdu": "سارک کے ممبر کتنے ممالک ہیں؟",
+      "options": [
+        "9",
+        "8",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Imam al-Shafii studied under?",
+      "urdu": "امام شافعیؒ نے کس عالم سے تعلیم حاصل کی؟",
+      "options": [
+        "Imam Abu Hanifa",
+        "Imam Malik",
+        "Imam Ahmad ibn Hanbal",
+        "Imam Bukhari"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Breaking or guessing a password is commonly called?",
+      "urdu": "پاس ورڈ توڑنے یا اندازے سے معلوم کرنے کے عمل کو عام طور پر کیا کہا جاتا ہے؟",
+      "options": [
+        "Hacking",
+        "Phishing",
+        "Cracking",
+        "Formatting"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 255);\"><font color=\"#0000ff\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Name the wife of Prophet Muhammad (PBUH) who was daughter of Umar Farooq (R.A)?",
+      "urdu": "رسول اللہ صلی اللہ علیہ وسلم کی بیوی کا نام بتائیں جو حضرت عمر فاروق رضی اللہ عنہ کی بیٹی تھیں؟",
+      "options": [
+        "Hazrat Hafsah (رضہ)",
+        "Hazrat  Juwairyyah (رضہ)",
+        "Hazrat  Aisha (رضہ)",
+        "Hazrat  Maimoonah (رضہ)"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many characters are there in standard ASCII?",
+      "urdu": "معیاری اے ایس سی آئی آئی میں کتنے حروف ہوتے ہیں؟",
+      "options": [
+        "28",
+        "1024",
+        "512",
+        "128",
+        "928"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information:</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "OCW stands for?",
+      "urdu": "او سی ڈبلیو سے کیا مراد ہے؟",
+      "options": [
+        "Open Course World",
+        "OpenCourseWare",
+        "Online Course Website",
+        "Open Computer Workshop"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Given sequence: 4, 11, 7, 14, 10, 17, ______, 20.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "19",
+        "13",
+        "14",
+        "22"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Given sequence: 4, 11, 7, 14, 10, 17, __, 20</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "OPCW stands for?",
+      "urdu": "او پی سی ڈبلیو سے کیا مراد ہے؟",
+      "options": [
+        "Organization for the Prevention of Chemical Weapons",
+        "Organization for the Prohibition of Chemical Weapons",
+        "Organization for the Protection of Chemical Weapons",
+        "Organization for the Production of Chemical Weapons"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff00ff\"><br/></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of the Mother of Hazrat Ayesha (R.A.)?",
+      "urdu": "حضرت عائشہ رضی اللہ عنہا کی والدہ کا نام کیا تھا؟",
+      "options": [
+        "Khadijah bint Khuwaylid",
+        "Fatimah bint Asad",
+        "Umm Ruman bint Amir",
+        "Hind bint Utbah"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#9c00ff\"><br/></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is used in fire ‘extinguishers’?",
+      "urdu": "مندرجہ ذیل میں سے آگ بجھانے والے آلات میں کون سی گیس استعمال ہوتی ہے؟",
+      "options": [
+        "Carbon sulphite",
+        "Carbon monoxide",
+        "Carbon dioxide",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence:  A) He is more intelligent than me. B) He is more intelligent than I. C) He is more intelligent than I am. D) He is more intelligent from me.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He is more intelligent than me.",
+        "He is more intelligent than I.",
+        "He is more intelligent than I am.",
+        "He is more intelligent from me."
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of the father of Hazrat Ayesha (R.A.)?",
+      "urdu": "حضرت عائشہ رضی اللہ عنہا کے والد کا کیا نام ہے؟",
+      "options": [
+        "Hazrat Abu Bakr ( RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Usman (RA)",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA on 23-April-2026</span><b style=\"\"><font color=\"#9c00ff\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many pieces of cloth are used for a woman’s shroud (Kafan)?",
+      "urdu": "عورت کے کفن کے لیے کتنے کپڑے استعمال کیے جاتے ہیں؟",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Treaty of Hudaybiyyah took place in which Hijri?",
+      "urdu": "معاہدہ حدیبیہ کس ہجری میں طئے پایا تھا؟",
+      "options": [
+        "5th",
+        "7th",
+        "4th",
+        "6th",
+        "8th"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last question 14-09-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Where is the headquarters of FIFA located?",
       "urdu": "فیفا کا صدر دفتر کہاں واقع ہے؟",
@@ -226,435 +657,6 @@
       ],
       "correct": 2,
       "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is the champion of FIFA World Cup 2026?",
-      "urdu": "درج ذیل میں سے کون فیفا ورلڈ کپ 2026 کا فاتح ہے؟",
-      "options": [
-        "Argentina",
-        "Spain",
-        "France",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If you flip a coin 3 times what is the probability of getting 3 heads?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "0.125",
-        "0.12",
-        "0.1",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"59\" data-start=\"14\"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">A coin has 2 possible outcomes each time:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Separate 78 into two even numbers. What is the smallest possible number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "39",
-        "38",
-        "37",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">78 must be divided into two even numbers.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Vivid is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Bright",
-        "Dull",
-        "Lively",
-        "Radiant"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 14-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which enzyme is responsible for breaking down starch into maltose in the human digestive system?",
-      "urdu": "کون سا انزائم انسانی ہاضمہ نظام میں نشاستے کو مالٹوز میں توڑنے کے لئے ذمہ دار ہے؟",
-      "options": [
-        "Lipase",
-        "Pepsin",
-        "Amylase",
-        "Trypsin"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A universal donor has the blood group?",
-      "urdu": "یونیورسل ڈونر کا بلڈ گروپ کون سا ہوتا ہے؟",
-      "options": [
-        "B",
-        "O-",
-        "AB",
-        "A"
-      ],
-      "correct": 1,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which scientist proposed the heliocentric model of the solar system?",
-      "urdu": "نظامِ شمسی کا مرکز شمس  کو قرار دینے والا ماہرِ فلکیات کون تھا؟",
-      "options": [
-        "Ptolemy",
-        "Copernicus",
-        "Galileo",
-        "Kepler"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which law explains why ice floats on water?",
-      "urdu": "کون سا قانون یہ وضاحت کرتا ہے کہ برف پانی پر کیوں تیرتی ہے؟",
-      "options": [
-        "Boyle's Law",
-        "Archimedes' Principle",
-        "Pascal's Law",
-        "Bernoulli's Principle"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which law explains lift in airplane wings?",
-      "urdu": "وائی جہاز کے پروں میں لفٹ  پیدا ہونے کی وضاحت کون سا قانون کرتا ہے؟",
-      "options": [
-        "Boyle's Law",
-        "Bernoulli's Principle",
-        "Pascal's Law",
-        "Archimedes' Principle"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ce0000\">Bernoulli’s principle</font><font color=\"#00ff00\"> </font><font color=\"#0000ff\">is based on conservation of energy in flowing fluids.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which law explains why satellites remain in orbit around Earth?",
-      "urdu": "کون سا قانون یہ وضاحت کرتا ہے کہ مصنوعی سیارے زمین کے گرد مدار میں کیوں گردش کرتے رہتے ہیں؟",
-      "options": [
-        "Newton's First Law",
-        "Newton's Second Law",
-        "Newton's Law of Gravitation",
-        "Kepler's Third Law"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of HARASS?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Annoy",
-        "Harness",
-        "iInvolve",
-        "Injure"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">HARASS </b><b style=\"\"><font color=\"#ce0000\">ہراساں کرنا,جارحانہ دباؤ</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Nelson Mandela was awarded the International Nobel prize in ____?",
-      "urdu": "نیلسن منڈیلا کو ____ میں بین الاقوامی نوبل انعام سے نوازا گیا؟",
-      "options": [
-        "1980",
-        "1990",
-        "1995",
-        "1993"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff00ff\" face=\"Tahoma\"><br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Did Pakistan sign the NPT (Nuclear Non-Proliferation Treaty)?",
-      "urdu": "کیا پاکستان نے این پی ٹی  یعنی جوہری عدم پھیلاؤ کے معاہدے پر دستخط کیے ہیں؟",
-      "options": [
-        "Yes, in 1968",
-        "Yes, in 1974",
-        "No, Pakistan has never signed the NPT",
-        "Yes, in 1998"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">NPT: </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">Nuclear Non-Proliferation Treaty</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is known as Poet of Nature?",
-      "urdu": "شاعر فطرت کے نام سے کسے جانا جاتا ہے؟",
-      "options": [
-        "William King",
-        "William Black",
-        "William Shakespeare",
-        "William Wordsworth"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(255, 0, 0); font-family: Helvetica; background-color: rgb(255, 255, 0);\">Last updated NS on 13-09-2026</span><font color=\"#0000ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Synonym of Memorize is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Forget",
-        "Learn",
-        "Ignore",
-        "Write"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\"> Memorize (</font><font color=\"#ff0000\">یاد کرن</font><font color=\"#0000ff\">ا) </font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "A small or intelligent device is so called because it contains a ____ within it .",
-      "urdu": "کسی چھوٹے یا ذہین آلے کو ذہین آلہ اس لیے کہا جاتا ہے کیونکہ اس کے اندر ایک ______ موجود ہوتا ہے۔",
-      "options": [
-        "Sensor",
-        "computer",
-        "laptop",
-        "Program"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-family: Helvetica; background-color: rgb(255, 255, 0);\">Last updated NS on 13-09-2026</span><font color=\"#9c00ff\" style=\"\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the process of converting simple language to machine language called?",
-      "urdu": "سادہ زبان کو مشینی زبان میں تبدیل کرنے کے عمل کو کیا کہتے ہیں؟",
-      "options": [
-        "Compiler",
-        "Modem",
-        "Interpreter",
-        "Translator"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-family: Helvetica; background-color: rgb(255, 255, 0);\">Last updated NS on 13-09-2026</span><b style=\"\"><font color=\"#ff00ff\"></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who tried to poison the Holy Prophet Muhammad (ﷺ)?",
-      "urdu": "حضور نبی کریم ﷺ کو زہر دینے کی کوشش کس نے کی تھی؟",
-      "options": [
-        "Hind bint Utba",
-        "Zaynab bint Al-Harith",
-        "Umm Jamil",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last updated NS on 13-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "SATA stands for",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Serial advanced technic attachment",
-        "Serial advanced technology attachment",
-        "Serial advised technology attachment",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(255, 0, 0); font-family: Helvetica; background-color: rgb(255, 255, 0);\">Last updated NS on 13-09-2026</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the books of Islamic Jurisprudence, Law of Inheritance is called?",
-      "urdu": "اسلامی فقہ کی کتابوں میں قانون وراثت کو کہا جاتا ہے؟",
-      "options": [
-        "Ilm Ul Figh",
-        "Ilm Ul Arooz",
-        "Ilm Ul Faraid",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Hajj, Stoning of the Devil, is called ____?",
-      "urdu": "حج میں شیطان کو کنکریاں مارنے کے عمل کو کیا کہتے ہیں؟",
-      "options": [
-        "Ramee",
-        "Tawaf",
-        "Istilam",
-        "Sayee"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the name of Muslim Scientist who presented the concept of blood pressure?",
-      "urdu": "اس مسلم سائنس دان کا نام کیا ہے جس نے سب سے پہلے فشار خون کا نظریہ پیش کیا ؟",
-      "options": [
-        "Ibn un Nafees",
-        "Ibn al-Hashim",
-        "Ibn Baitar",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#9c00ff\"><br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat ______ levied zakat on horses?",
-      "urdu": "حضرت ______ نے گھوڑوں پر زکوٰۃ لگائی؟",
-      "options": [
-        "Hazrat Umer",
-        "Hazrat Usman",
-        "Hazrat Abu Bakar",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "How many numbers up to 200 are divisible by 2 and 3 both?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "35",
-        "29",
-        "33",
-        "27"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"><b>Numbers up to 200 divisible by both 2 and 3 are multiples of 6.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Average of 10 values is 200. Sum of nine them is 1850. find 10th rule.",
-      "urdu": "10 اقدار کا اوسط 200 ہے۔ ان میں سے نو کا مجموعہ 1850 ہے۔ 10 واں اصول تلاش کریں۔",
-      "options": [
-        "200",
-        "150",
-        "200",
-        "250"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Average of 10 values = 200</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The number whose 3% is 60, is _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2000",
-        "3000",
-        "6000",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"39\" data-start=\"15\"><font color=\"#0000ff\">Let the number be <strong data-end=\"38\" data-start=\"33\">x</strong>.<span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a five-digit number with an even first digit and an odd last digit?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24680",
-        "35791",
-        "24679",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 05-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "There are 10 red balls, 4 white balls, and 15 black balls. If 1 red ball is removed, how many red balls are left?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "9",
-        "8",
-        "7",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Started with 10 red balls.  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the sequence is x, x + 6, x + 18, what is the 4th value?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "42",
-        "48",
-        "54",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Look at how much it increases each time:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If x = -2 and y = 3, then what is the value of x³y² + x²y?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "-72",
-        "-60",
-        "-48",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Put x = -2 and y = 3 in x³y² + x²y  </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is the solution set of |-x| = 0?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "{1}",
-        "{-1}",
-        "{0}",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">The equation </font><font color=\"#ff0000\">|-x| = 0 </font><font color=\"#0000ff\">simplifies to x = </font><font color=\"#ff0000\">0</font><font color=\"#0000ff\"> since the absolute value of any number is zero only when the number itself is zero.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the series 1, 8, 27, 64, 125 _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "123",
-        "126",
-        "216",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); font-weight: bold; font-family: Helvetica;\">1, 8, 27, 64, 125, </span><span style=\"font-weight: bold; font-family: Helvetica; color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">216, 343, and 512</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 3/4 of 92 + 13?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "72",
-        "80",
-        "82",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">First find 3/4 of 92  </font></b></p>",
       "category": "all"
     }
   ]
