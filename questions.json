@@ -1,76 +1,663 @@
 {
   "meta": {
-    "count": 5,
+    "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-14T22:10:16.560632",
+    "fetched_at": "2026-09-15T05:48:49.664153",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "What does CPU stand for?",
-      "urdu": "",
+      "q": "ECBDIC stands for ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Central Processing Unit",
-        "Computer Personal Unit",
-        "Central Program Utility",
-        "Computer Processing Unit"
+        "Extended Binary Coded Decimal Interchange Code",
+        "Extended Coded Binary Decimal Interchange Code",
+        "Extended Binary Code Data Interchange Code",
+        "Electronic Binary Coded Decimal Interchange Code"
       ],
       "correct": 0,
-      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
-      "category": "computer"
+      "explanation": "",
+      "category": "all"
     },
     {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
+      "q": "DOS operating system is based on ______?",
+      "urdu": "ڈاس  آپریٹنگ سسٹم کس پر مبنی ہے؟",
       "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Peshawar"
-      ],
-      "correct": 2,
-      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
-      "category": "pak-study"
-    },
-    {
-      "q": "What is the largest ocean on Earth?",
-      "urdu": "",
-      "options": [
-        "Atlantic Ocean",
-        "Indian Ocean",
-        "Arctic Ocean",
-        "Pacific Ocean"
-      ],
-      "correct": 3,
-      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
-      "category": "general-knowledge"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
+        "Graphical User Interface",
+        "Command Line Interface (CLI)",
+        "Touch User Interface",
+        "Voice User Interface"
       ],
       "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
+      "explanation": "",
+      "category": "all"
     },
     {
-      "q": "Who is known as the Father of the Nation in Pakistan?",
-      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
+      "q": "IBM 1401 is_____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Allama Iqbal",
-        "Liaquat Ali Khan",
-        "Quaid-e-Azam Muhammad Ali Jinnah",
-        "Sir Syed Ahmed Khan"
+        "Fourth generation computer",
+        "First generation computer",
+        "Third generation computer",
+        "Second generation computer",
+        "None of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many states are there in USA?",
+      "urdu": "امریکہ میں ریاستوں کی تعداد کتنی ہے؟",
+      "options": [
+        "45",
+        "49",
+        "50",
+        "30"
       ],
       "correct": 2,
-      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
-      "category": "pak-study"
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first Chief Minister of Sindh?",
+      "urdu": "سندھ کا پہلا وزیر اعلیٰ کون تھا؟",
+      "options": [
+        "Pir Elahi Bux",
+        "Muhammad Ayub Khuhro",
+        "Muhammad Yusuf Abdullah Haroon",
+        "Qazi Fazalullah Ubaidullah"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"line-height: 107%; background-color: rgb(255, 0, 0);\"><font color=\"#ffffff\">List of Chief Ministers of Sindh from 1947 to 2021</font></span><font color=\"#ffffff\"><b style=\"background-color: rgb(255, 0, 0);\"><span mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#0070c0\"=\"\" new=\"\" roman\";=\"\" style=\"mso-ascii-font-family:Calibri;mso-fareast-font-family:\" times=\"\"><o:p></o:p></span></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Term of National Assembly of Pakistan?",
+      "urdu": "پاکستان کی قومی اسمبلی کی مدت کتنے سال ہوتی ہے؟",
+      "options": [
+        "5 Years",
+        "3 Years",
+        "2 Years",
+        "1 Year"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Embellish is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Disarm",
+        "Decorate",
+        "Perish",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Abolish is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Do away with and Eradicate",
+        "Nullify and End",
+        "Obliterate",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Synonym of  Guile is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Intelligence",
+        "Honesty",
+        "Kindness",
+        "Deceit"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">Guile:</font><font color=\"#ff0000\"> Using clever tricks or dishonesty to reach a goal or fool others.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Bias is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Prejudice",
+        "Fairness",
+        "Neutrality",
+        "Logic"
+      ],
+      "correct": 0,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Synonym of Mainstay?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Main support",
+        "Weakness",
+        "Obstacle",
+        "Decoration"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Synonym  of ENTAIL?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Avoid",
+        "Necessitate",
+        "Reject",
+        "Prevent"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the formula for calculating percentage?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "(Total ÷ Part) × 100 B)",
+        "(Part ÷ Total) × 100",
+        "(Part × Total) ÷ 100",
+        "(Total − Part) × 100"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the synonym of Meagre?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Abundant",
+        "Scanty",
+        "Generous",
+        "Plentiful"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the synonym of Gist?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Detail",
+        "Main idea",
+        "Confusion",
+        "Length"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Gist means the</font><font color=\"#ff0000\"> main point or general meaning of something</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the synonym of Choke?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Suffocate",
+        "Encourage",
+        "Release",
+        "Expand"
+      ],
+      "correct": 0,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "All students have to take a Math class. Jake is also a student. Does Jake have to take the class?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Yes",
+        "No",
+        "Maybe",
+        "Cannot be determined"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">All students </font><font color=\"#9c00ff\">must take Math.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Addition is opposite to subtraction. In the same way, multiplication is opposite to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Division",
+        "Addition",
+        "Subtraction",
+        "Percentage"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of a keyboard in a computer?",
+      "urdu": "کمپیوٹر میں کی بورڈ کا کیا کام ہے؟",
+      "options": [
+        "To display images",
+        "To input data and commands",
+        "To print documents",
+        "To store files"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the natural relationship of an engineer with?",
+      "urdu": "ایک انجینئر کا فطری تعلق کس شعبے سے ہوتا ہے؟",
+      "options": [
+        "Construction",
+        "Medicine",
+        "Banking",
+        "Agriculture"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the present tense of to make?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Made",
+        "Making",
+        "Make",
+        "Makes"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which one is the correct sentence? A) I was playing.  B) I were playing. C) I be will playing.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "I was playing.",
+        "I were playing.",
+        "I be will playing",
+        "I am were playing."
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Synonym of Platitude is:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Wisdom",
+        "Cliche",
+        "Fact",
+        "Surprise"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><b><font color=\"#0000ff\">Platitude = </font><font color=\"#ff0000\">پرانا اور گھسا پٹا جملہ  </font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The synonym of 'Callous' is",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Kind",
+        "Heartless",
+        "Polite",
+        "Soft",
+        "All of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Callous means </b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"><b style=\"\">سخت یا </b><b style=\"\">سنگدل</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Abhor is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "See",
+        "Hate",
+        "Equipe",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Magisterial is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Royal",
+        "Authoritative",
+        "Majestic",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Magisterial means حاکمانہ یا اختیار رکھنے والا</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence: He is into bed. B) He is in bed.  C) He is on bed. D) He is at bed.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He is into bed.",
+        "He is in bed.",
+        "He is on bed.",
+        "He is at bed."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">He is in bed.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence:  1. A) Gold is more precious in all metals. B) Gold is most precious in all metals. C) Gold is the most precious of all metals.D) Gold is more precious than all metals.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Gold is more precious in all metals.",
+        "Gold is most precious in all metals.",
+        "Gold is the most precious of all metals",
+        "Gold is more precious than all metals."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Gold is the most precious of all metals. </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "She is senior _______ me.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Than",
+        "To",
+        "Then",
+        "All of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\">\"She is senior </font><span style=\"background-color: rgb(255, 255, 0);\">to</span><font color=\"#ff0000\"> me.\" </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence:  A) Shahram is wiser than brave. B) Shahram is wiser than he is brave. C) Shahram is wiser from he is brave. D) Shahram is more wise than he brave.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Shahram is wiser than brave.",
+        "Shahram is wiser than he is brave.",
+        "Shahram is wiser from he is brave.",
+        "Shahram is more wise than he brave."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Shahram is wiser than he is brave.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Imam Malik (R.A.) was a student of whom?",
+      "urdu": "امام مالکؒ نے کس سے تعلیم حاصل کی تھی؟",
+      "options": [
+        "Nafi‘ Mawla ibn UmarI(R.A.)",
+        "Ibn Shihab al-Zuhri (R.A.)",
+        "Abdur Rahman ibn Hurmuz (R.A.)",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><br style=\"color: rgb(33, 37, 41);\"/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The parliament of Israel:",
+      "urdu": "اسرائیل کی پارلیمنٹ",
+      "options": [
+        "Knessest",
+        "Diet",
+        "Crotes",
+        "Sejam"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><span style=\"font-size: 16px;\">Additional information:</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Peanuts are ______?",
+      "urdu": "مونگ پھلی کس قسم کی فصل ہے؟",
+      "options": [
+        "Grains",
+        "Legumes",
+        "Nuts",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The lightest gas that provides a larger elevation for balloons and is the lightest of all gases is _____?",
+      "urdu": "تمام گیسوں میں کون سی گیس سب سے ہلکی ہے؟",
+      "options": [
+        "Hydrogen",
+        "Nitrogen",
+        "Oxygen",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated question 17-02-2026</span><span style=\"font-family: Helvetica; font-weight: 700;\"><font color=\"#0000ff\" style=\"\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which fish can live in the coldest waters?",
+      "urdu": "کون سی مچھلی سب سے زیادہ سرد پانیوں میں زندہ رہ سکتی ہے؟",
+      "options": [
+        "Goldfish",
+        "Antarctic icefish",
+        "Tuna",
+        "Salmon"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of Maulana Maududi’s famous Quranic commentary?",
+      "urdu": "مولانا مودودیؒ کی مشہور قرآنی تفسیر کا نام کیا ہے؟",
+      "options": [
+        "Tafsir Ibn Kathir",
+        "Tafhim-ul-Quran",
+        "Maariful Quran",
+        "Bayan-ul-Quran"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">Last updated by NA on 14-09-2026</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of SAARC located?",
+      "urdu": "سارک کا ہیڈ کوارٹر کس کہاں واقع ہے؟",
+      "options": [
+        "Katmandu, Nepal",
+        "Islamabad, Pakistan",
+        "Delhi, India",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who discover Penicillin?",
+      "urdu": "پینسلن کس نے دریافت کی؟",
+      "options": [
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Edward Jenner",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 14-09-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Astrology is the study of ______?",
+      "urdu": "علم نجوم ______ کا مطالعہ ہے؟",
+      "options": [
+        "Impacts of stars on humans",
+        "Movement of stars",
+        "Movement of earth",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is UTP known for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Unshielded twisted pair",
+        "Unsold twisted pair",
+        "Unshielded twisted part",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The maximum font size available in Microsoft Word from the dropdown list is ____?",
+      "urdu": "ڈراپ ڈاؤن فہرست سے مائیکروسافٹ ورڈ میں دستیاب فونٹ کا زیادہ سے زیادہ سائز _____ ہے؟",
+      "options": [
+        "80",
+        "72",
+        "70",
+        "82"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin-right: 0px; margin-bottom: 10px; margin-left: 0px; padding: 0px;\"><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Office, how we can change lowercase characters to uppercase characters, select correct combination of keys?",
+      "urdu": "ایم ایس آفس میں، ہم چھوٹے حروف کو بڑے حروف میں کیسے تبدیل کر سکتے ہیں، کلیدوں کا صحیح مجموعہ منتخب کریں؟",
+      "options": [
+        "Shift + F3",
+        "Shift + F2",
+        "Shift + F1",
+        "Shift + F4"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Shift + F3 → </font><font color=\"#ff9c00\">Changes text case in MS Word.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many districts are there in Khyber Pakhtunkhwa (KPK)?",
+      "urdu": "خیبر پختونخوا میں کتنے اضلاع ہیں؟",
+      "options": [
+        "38",
+        "40",
+        "42",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which surah of the Holy Quran starts without Bismillah (Tasmia)?",
+      "urdu": "بسم اللہ کے بغیر کون سی سورت شروع ہوتی ہے؟",
+      "options": [
+        "Younas",
+        "Fatiha",
+        "Naml",
+        "Tauba"
+      ],
+      "correct": 3,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Prophets mentioned in Holy Quran?",
+      "urdu": "قرآن پاک میں کتنے انبیاء کا ذکر ہے؟",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "28"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-top:0in;margin-right:0in;margin-bottom:0in; margin-left:.25in;margin-bottom:.0001pt\"><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">The</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> Holy Quran has</span><span style=\"font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\">26 Prophets</span><span style=\"color: rgb(0, 0, 255); font-size: 12pt; line-height: 17.12px;\"> </span></span><span style=\"color: rgb(0, 0, 255); font-size: 1rem; font-weight: bolder;\"><span style=\"font-size: 12pt; line-height: 17.12px;\">names mentioned</span><span style=\"font-size: 12pt; line-height: 17.12px;\">:</span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many general seats are there in the National Assembly of Pakistan?",
+      "urdu": "پاکستان کی قومی اسمبلی میں جنرل نشستوں کی تعداد کتنی ہے؟",
+      "options": [
+        "300",
+        "266",
+        "250",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country hosted the 8th BRICS Energy Summit in 2026?",
+      "urdu": "دو ہزار چھبیس میں آٹھویں برکس انرجی سمٹ کی میزبانی کس ملک نے کی؟",
+      "options": [
+        "Brazil",
+        "India",
+        "China",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">8th BRICS Energy Summit was hosted by India in 2026.</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Census in Pakistan held after how many years?",
+      "urdu": "پاکستان میں مردم شماری کتنے سال بعد ہوئی؟",
+      "options": [
+        "5 years",
+        "10 years",
+        "15 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#9c00ff\">A national census in Pakistan is legally mandated by the constitution to be held every 10 years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the last Governor General of Pakistan?",
+      "urdu": "پاکستان کے آخری گورنر جنرل کون تھے؟",
+      "options": [
+        "Iskander Mirza",
+        "Liaqiat Ali khan",
+        "Khawaja nizam u din",
+        "Muhammad ali"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-family: Tahoma; font-weight: 400;\">Name</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many countries are the members of SAARC?",
+      "urdu": "سارک کے ممبر کتنے ممالک ہیں؟",
+      "options": [
+        "9",
+        "8",
+        "4",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
     }
   ]
 }
