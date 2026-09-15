@@ -3,10 +3,88 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-15T17:26:14.929833",
+    "fetched_at": "2026-09-15T21:48:37.538163",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Two brothers have an age difference of 9 years. After 5 years, the sum of their ages will be 49 years. What is the present age of the older brother?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20 years",
+        "24 years",
+        "25 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the younger brother's present age = x years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a mother’s age is 5 times her son’s age and the sum of their ages is 60 years, what is the son’s present age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10 years",
+        "14 years",
+        "12 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the son's age = x years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The list price of an item is Rs. 1,500 and its sale price is Rs. 1,350. What is the discount?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 100",
+        "Rs. 150",
+        "Rs. 200",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Discount = List Price − Sale Price</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If A is the mother of B, C is the father of D, and B is married to C, how is C related to A?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Brother",
+        "Son",
+        "Son-in-law",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">A is the mother of B.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next term: 6, 13, 27, 55, ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "109",
+        "111",
+        "113",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The pattern is: ×2 + 1</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bag contains 1 white, 2 yellow, and 3 red balls. What is the probability of selecting a red ball?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1/2",
+        "2/3",
+        "3/4",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total balls = 1 + 2 + 3 = 6</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Find the identical one: XYZ987; 987YZ, XY987; 987XYZ, XYZ987; 987XYZ, XYZ97; 987XYZ",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -578,85 +656,6 @@
       ],
       "correct": 0,
       "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Synonym of Platitude is:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Wisdom",
-        "Cliche",
-        "Fact",
-        "Surprise"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 14px;\"><b><font color=\"#0000ff\">Platitude = </font><font color=\"#ff0000\">پرانا اور گھسا پٹا جملہ  </font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The synonym of 'Callous' is",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Kind",
-        "Heartless",
-        "Polite",
-        "Soft",
-        "All of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Callous means </b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"><b style=\"\">سخت یا </b><b style=\"\">سنگدل</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Abhor is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "See",
-        "Hate",
-        "Equipe",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Magisterial is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Royal",
-        "Authoritative",
-        "Majestic",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Magisterial means حاکمانہ یا اختیار رکھنے والا</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: He is into bed. B) He is in bed.  C) He is on bed. D) He is at bed.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He is into bed.",
-        "He is in bed.",
-        "He is on bed.",
-        "He is at bed."
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">He is in bed.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence:  1. A) Gold is more precious in all metals. B) Gold is most precious in all metals. C) Gold is the most precious of all metals.D) Gold is more precious than all metals.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Gold is more precious in all metals.",
-        "Gold is most precious in all metals.",
-        "Gold is the most precious of all metals",
-        "Gold is more precious than all metals."
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Gold is the most precious of all metals. </font></p>",
       "category": "all"
     }
   ]
