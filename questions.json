@@ -3,658 +3,657 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-16T12:21:52.654785",
+    "fetched_at": "2026-09-16T17:25:45.283568",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Defamation is punished under",
+      "q": "What is the medical term for absence of urine production (<100 mL/day)?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Section 499",
-        "Section  500",
-        "Section  55",
-        "Section  501"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "According to the PPC, the word \"Person\" includes:",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Any Company or Association",
-        "A body of persons, whether incorporated or not",
-        "Natural human beings",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the mode of the following data? 40, 45, 45, 50, 60",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "40",
-        "45",
-        "50",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Mode = the number that appears most often in the data.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the series; 3, 4, 7, 8, 11, 12, ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15",
-        "10",
-        "18",
-        "16"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">3+1 = 4</b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the total marks in Mathematics, Physics, and Chemistry are 84,000 and their ratio is 3 : 4 : 5, what are the marks in Physics?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "21,000",
-        "24,000",
-        "28,000",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Ratio of Math : Physics : Chemistry = 3 : 4 : 5</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the sum of two numbers is 45 and their difference is 15, what are the two numbers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "35 and 10",
-        "25 and 20",
-        "30 and 15",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Sum: 30 + 15 = 45</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Solve: (2x + 3) / (x - 1) = 3",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3",
-        "5",
-        "6",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Solve: (2x + 3) / (x - 1) = 3</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What percentage is 80 out of 120?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "50%",
-        "60%",
-        "66.67%",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Formula: (Part / Total) _ 100</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Two brothers have an age difference of 9 years. After 5 years, the sum of their ages will be 49 years. What is the present age of the older brother?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "20 years",
-        "24 years",
-        "25 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the younger brother's present age = x years</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a mother’s age is 5 times her son’s age and the sum of their ages is 60 years, what is the son’s present age?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10 years",
-        "14 years",
-        "12 years",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let the son's age = x years</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The list price of an item is Rs. 1,500 and its sale price is Rs. 1,350. What is the discount?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 100",
-        "Rs. 150",
-        "Rs. 200",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>Discount = List Price − Sale Price</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If A is the mother of B, C is the father of D, and B is married to C, how is C related to A?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Brother",
-        "Son",
-        "Son-in-law",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">A is the mother of B.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next term: 6, 13, 27, 55, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "109",
-        "111",
-        "113",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The pattern is: ×2 + 1</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bag contains 1 white, 2 yellow, and 3 red balls. What is the probability of selecting a red ball?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1/2",
-        "2/3",
-        "3/4",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total balls = 1 + 2 + 3 = 6</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the identical one: XYZ987; 987YZ, XY987; 987XYZ, XYZ987; 987XYZ, XYZ97; 987XYZ",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "XYZ987; 987YZ",
-        "XY987; 987XYZ",
-        "XYZ987; 987XYZ",
-        "XYZ97; 987XYZ"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the same number of 70893246864648.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70893248664648",
-        "70893426864648",
-        "70893246864648",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Past tense of went is _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Go",
-        "Went",
-        "Gone",
-        "Going"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); font-weight: bold; font-family: Helvetica;\">Went is the </span><span style=\"font-weight: bold; font-family: Helvetica; color: rgb(0, 255, 0); background-color: rgb(255, 255, 255);\">past tense</span><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); font-weight: bold; font-family: Helvetica;\"> of </span><span style=\"background-color: rgb(255, 255, 255); font-weight: bold; font-family: Helvetica; color: rgb(255, 0, 0);\">go</span><span style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 255); font-weight: bold; font-family: Helvetica;\">.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one is correct? They were at a party?, They are at a party?, They was at a party? None",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "They were at a party?",
-        "They are at a party?",
-        "They was at a party?",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"background-color: rgb(255, 255, 255);\"><span style=\"font-family: Helvetica;\"><span style=\"color: rgb(0, 0, 255);\">About a </span><span style=\"color: rgb(0, 255, 0);\">specific place</span><span style=\"color: rgb(0, 0, 255);\"> where we are the preposition 'at ' will be </span><span style=\"color: rgb(255, 0, 0);\">used in the sentence. </span></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the identical of 491788865 Bangkok?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "491788856 Bankok",
-        "491788865 Bangkok",
-        "49178865 Bangkak",
-        "None of these"
+        "Dysuria",
+        "Anuria",
+        "Oliguria",
+        "Polyuria"
       ],
       "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Which of the following sentences contains an error in capitalization? My favorite book is To Kill a Mockingbird., The school is located in downtown new york city., I love listening to classical music, especially Mozart., They went to the beach and played volleyball.",
+      "q": "What is the primary role of a registered nurse during an unexpected anaphylactic reaction?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "My favorite book is To Kill a Mockingbird.",
-        "The school is located in downtown new york city.",
-        "I love listening to classical music, especially Mozart.",
-        "They went to the beach and played volleyball."
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Similarities of K9V88856?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "K9v88856?",
-        "K9V8856?",
-        "K9V88856?",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">An </font><font color=\"#ff0000\">identical</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">pair</font><font color=\"#0000ff\"> must match exactly, including letters, numbers, and capitalization.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following sequence is identical pair of: 8096702, 8567304, 9056502",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "8096702 and 8567304",
-        "8567304 and 9056502",
-        "8096702 and 9056502",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Compare:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Currency of Afghanistan?",
-      "urdu": "افغانستان کی کرنسی کیا ہے؟",
-      "options": [
-        "Afghani",
-        "Rupee",
-        "Taka",
-        "Lira"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><b><span style='color:#002060'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span></b><![endif]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "Study of earth is known as _______?",
-      "urdu": "زمین کے مطالعے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Ecology",
-        "Biology",
-        "Ethology",
-        "Geology"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which device is required for the internet connection?",
-      "urdu": "انٹرنیٹ کنکشن کے لیے کون سا آلہ ضروری ہے؟",
-      "options": [
-        "Joystick",
-        "Modem",
-        "CD drive",
-        "NIC card"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 15-09-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: I want to shopping., I want shopping., I want to go shopping., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "I want to shopping.",
-        "I want shopping.",
-        "I want to go shopping.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the biggest/largest hot desert of the World?",
-      "urdu": "دنیا کا سب سے بڑا گرم صحرا کون سا ہے؟",
-      "options": [
-        "Gobi desert",
-        "Kalahari desert",
-        "Sahara desert",
-        "Thar desert"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Nunito, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji\"><b style=\"background-color: rgb(255, 255, 0);\">List of top deserts in the world:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Capital of Russia is?",
-      "urdu": "روس کا دارالحکومت کونسا ہے؟",
-      "options": [
-        "Andorra la Vella",
-        "Vienna",
-        "Moscow",
-        "Sofia"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is an other name for Junk Email?",
-      "urdu": "جنک ای میل کا دوسرا نام کیا ہے؟",
-      "options": [
-        "Spoof",
-        "Spill",
-        "Spam",
-        "Spat"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many ways you can save a document in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں ایک حقیقت کو کتنی حالت سے محفوظ کیا جا سکتا ہے؟",
-      "options": [
-        "3",
-        "2",
-        "1",
-        "5"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">A document in Microsoft Word can be saved in </font><font color=\"#ff0000\">three commonly t</font><font color=\"#0000ff\">aught ways.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan`s largest seaport is ?",
-      "urdu": "پاکستان کی سب سے بڑی بندرگاہ کون سی ہے؟",
-      "options": [
-        "Port of Karachi",
-        "Muhammad Bin Qasim Port",
-        "Gwadar port",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of following software is used to prepare/create multimedia presentation?",
-      "urdu": "درج ذیل میں سے کون سا سافٹ ویئر ملٹی میڈیا پریزنٹیشن بنانے کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "PowerPoint",
-        "MS Word",
-        "Spreadsheet",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last updated on 14-09-2026</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Currency of Pakistan is?",
-      "urdu": "پاکستان کی کرنسی کیا ہے؟",
-      "options": [
-        "Kina",
-        "Dinaar",
-        "Pond",
-        "Rupee"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\">Additional information<br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of a keyboard in a computer?",
-      "urdu": "کمپیوٹر میں کی بورڈ کا کیا کام ہے؟",
-      "options": [
-        "To display images",
-        "To input data and commands",
-        "To print documents",
-        "To store files"
+        "Give oral paracetamol",
+        "Maintain airway & Administer Epinephrine",
+        "Apply ice pack",
+        "Place patient in prone"
       ],
       "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "What is the natural relationship of an engineer with?",
-      "urdu": "ایک انجینئر کا فطری تعلق کس شعبے سے ہوتا ہے؟",
+      "q": "Which clinical position is used to treat patients in severe hypovolemic shock?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Construction",
-        "Medicine",
-        "Banking",
-        "Agriculture"
+        "Fowler's",
+        "Modified Trendelenburg",
+        "Prone",
+        "Lithotomy"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the medical term for nosebleed?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hemoptysis",
+        "Epistaxis",
+        "Hematoma",
+        "Ecchymosis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary functional filtering unit of the human kidney?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Neuron",
+        "Nephron",
+        "Alveoli",
+        "Glomerulus"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which test is performed prior to radial artery puncture for ABG analysis?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Allen's Test",
+        "Trousseau's Test",
+        "Chvostek's Test",
+        "Romberg Test"
       ],
       "correct": 0,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "What is the present tense of to make?",
+      "q": "What is the standard depth of chest compressions during adult CPR?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Made",
-        "Making",
-        "Make",
-        "Makes"
+        "1 inch (2.5 cm)",
+        "2 inches (5 cm)",
+        "3 inches (7.5 cm)",
+        "4 inches (10 cm)"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the term for a rapid, involuntary, rhythmic eye movement?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ptosis",
+        "Nystagmus",
+        "Strabismus",
+        "Diplopia"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which hormone is directly responsible for uterine contractions during childbirth?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Estrogen",
+        "Oxytocin",
+        "Progesterone",
+        "Prolactin"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the medical term for coughing up blood from the respiratory tract?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hematemesis",
+        "Hemoptysis",
+        "Melena",
+        "Epistaxis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of the process by which bacteria are rendered inactive using moist heat under pressure?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Disinfection",
+        "Autoclaving",
+        "Sanitation",
+        "Antisepsis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which cardiac marker rises first in serum following an acute Myocardial Infarction?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Troponin T/I",
+        "CK-MB",
+        "Myoglobin",
+        "LDH"
       ],
       "correct": 2,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Which one is the correct sentence? A) I was playing.  B) I were playing. C) I be will playing.",
+      "q": "Which gland is known as the \"Master Gland\" of the endocrine system?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "I was playing.",
-        "I were playing.",
-        "I be will playing",
-        "I am were playing."
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In physics, the smallest unit of matter is ____?",
-      "urdu": "فزکس میں،سمالیست یونیٹ آف میٹر کو کیا کہتے ہیں؟",
-      "options": [
-        "Atom",
-        "Cell",
-        "Tissue",
-        "Organ"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Structure of an Atom</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the capital of the country Bangladesh?",
-      "urdu": "بنگلہ دیش ملک کا دارالحکومت کون سا ہے؟",
-      "options": [
-        "Dhaka",
-        "Khatmandu",
-        "Ulanbaatar",
-        "None o these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "All students have to take a Math class. Jake is also a student. Does Jake have to take the class?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Yes",
-        "No",
-        "Maybe",
-        "Cannot be determined"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">All students </font><font color=\"#9c00ff\">must take Math.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which planet is second from the Sun?",
-      "urdu": "کون سا سیارہ سورج سے دوسرے نمبر پر ہے؟",
-      "options": [
-        "Jupiter",
-        "Mars",
-        "Uranus",
-        "Venus"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Addition is opposite to subtraction. In the same way, multiplication is opposite to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Division",
-        "Addition",
-        "Subtraction",
-        "Percentage"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ECBDIC stands for ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Extended Binary Coded Decimal Interchange Code",
-        "Extended Coded Binary Decimal Interchange Code",
-        "Extended Binary Code Data Interchange Code",
-        "Electronic Binary Coded Decimal Interchange Code"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "DOS operating system is based on ______?",
-      "urdu": "ڈاس  آپریٹنگ سسٹم کس پر مبنی ہے؟",
-      "options": [
-        "Graphical User Interface",
-        "Command Line Interface (CLI)",
-        "Touch User Interface",
-        "Voice User Interface"
+        "Thyroid",
+        "Pituitary",
+        "Adrenal",
+        "Pancreas"
       ],
       "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "IBM 1401 is_____?",
+      "q": "What is the medical term for passing blood in feces (dark tarry stool)?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Fourth generation computer",
-        "First generation computer",
-        "Third generation computer",
-        "Second generation computer",
-        "None of these"
+        "Hematuria",
+        "Melena",
+        "Hematemesis",
+        "Hemoptysis"
       ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\">Additional information:</font></p>",
+      "correct": 1,
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "How many states are there in USA?",
-      "urdu": "امریکہ میں ریاستوں کی تعداد کتنی ہے؟",
+      "q": "What is the main clinical sign of inflammation characterized by redness?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "45",
-        "49",
-        "50",
-        "30"
+        "Edema",
+        "Erythema",
+        "Pallor",
+        "Cyanosis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which route delivers insulin injections for long-term diabetes management?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Intramuscular",
+        "Subcutaneous",
+        "Intravenous",
+        "Intraosseous"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the principal fluid compartment located INSIDE body cells?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Extracellular Fluid",
+        "Intracellular Fluid",
+        "Interstitial Fluid",
+        "Plasma"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What condition results from fluid accumulation in the peritoneal cavity?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Edema",
+        "Ascites",
+        "Anasarca",
+        "Pleural Effusion"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary function of blood platelets (Thrombocytes)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Oxygen carriage",
+        "Blood clotting",
+        "Phagocytosis",
+        "Hormone synthesis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nutrient is essential for tissue repair and cell growth?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats",
+        "Minerals"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the medical term for pain caused by inadequate blood supply to heart muscle?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Myocardial Infarction",
+        "Angina Pectoris",
+        "Pericarditis",
+        "Heart Failure"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which scale is specifically used to assess newborn health status immediately after birth?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Glasgow Scale",
+        "APGAR Score",
+        "Braden Scale",
+        "Fall Scale"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the standard drop factor for a standard adult microdrip IV tubing set?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10 gtt/mL",
+        "15 gtt/mL",
+        "60 gtt/mL",
+        "20 gtt/mL"
       ],
       "correct": 2,
-      "explanation": "<p><br/></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "Who was the first Chief Minister of Sindh?",
-      "urdu": "سندھ کا پہلا وزیر اعلیٰ کون تھا؟",
+      "q": "Which cell organelle is known as the \"powerhouse of the cell\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Pir Elahi Bux",
-        "Muhammad Ayub Khuhro",
-        "Muhammad Yusuf Abdullah Haroon",
-        "Qazi Fazalullah Ubaidullah"
+        "Ribosome",
+        "Mitochondria",
+        "Nucleus",
+        "Lysosome"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"line-height: 107%; background-color: rgb(255, 0, 0);\"><font color=\"#ffffff\">List of Chief Ministers of Sindh from 1947 to 2021</font></span><font color=\"#ffffff\"><b style=\"background-color: rgb(255, 0, 0);\"><span mso-hansi-font-family:calibri;mso-bidi-font-family:calibri;color:#0070c0\"=\"\" new=\"\" roman\";=\"\" style=\"mso-ascii-font-family:Calibri;mso-fareast-font-family:\" times=\"\"><o:p></o:p></span></b></font></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "What is the Term of National Assembly of Pakistan?",
-      "urdu": "پاکستان کی قومی اسمبلی کی مدت کتنے سال ہوتی ہے؟",
+      "q": "What is the medical term for an abnormally decreased rate of breathing (<10 breaths/min)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "5 Years",
-        "3 Years",
-        "2 Years",
-        "1 Year"
+        "Bradypnea",
+        "Tachypnea",
+        "Apnea",
+        "Dyspnea"
       ],
       "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-07-2026</font></b></span></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "The Synonym of Embellish is?",
+      "q": "Which organ is primary affected in Hepatitis?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Disarm",
-        "Decorate",
-        "Perish",
-        "None of these"
+        "Kidneys",
+        "Liver",
+        "Lungs",
+        "Heart"
       ],
       "correct": 1,
-      "explanation": "<p><br/></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "The Synonym of Abolish is?",
+      "q": "What is the recommended chest compression-to-ventilation ratio for adult 1-rescuer CPR?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Do away with and Eradicate",
-        "Nullify and End",
-        "Obliterate",
-        "All of these"
+        "15:02",
+        "30:02:00",
+        "5:01",
+        "50:02:00"
       ],
-      "correct": 3,
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which cranial nerve controls tongue movement?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "CN IX (Glossopharyngeal)",
+        "CN XII (Hypoglossal)",
+        "CN X (Vagus)",
+        "CN VII (Facial)"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the main cause of Tuberculosis infection?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Virus",
+        "Mycobacterium tuberculosis",
+        "Amoeba",
+        "Fungus"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What medical condition is described as an inflammation of the meninges?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Encephalitis",
+        "Meningitis",
+        "Myelitis",
+        "Neuritis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the principal electrolyte found in the extracellular fluid (ECF)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Potassium",
+        "Sodium",
+        "Calcium",
+        "Magnesium"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which personal protective equipment (PPE) should be put on FIRST when donning?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Gloves",
+        "Mask",
+        "Gown",
+        "Goggles"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the medical term for bluish skin discoloration caused by reduced oxygenation?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Jaundice",
+        "Cyanosis",
+        "Erythema",
+        "Pallor"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What medical term refers to a heart rate consistently higher than 100 beats per minute?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bradycardia",
+        "Tachycardia",
+        "Arrhythmia",
+        "Asystole"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which clinical sign is characterized by a yellowish discoloration of skin and sclera?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cyanosis",
+        "Jaundice",
+        "Erythema",
+        "Pallor"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the proper clinical technique to open an airway in an unconscious patient with NO suspected spinal trauma?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Jaw-thrust",
+        "Head-tilt/Chin-lift",
+        "Neck flexion",
+        "Chest compression"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary purpose of administering a blood transfusion filter?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Warm the blood",
+        "Trap microaggregates and clots",
+        "Speed up flow rate",
+        "Prevent hemolysis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which enzyme present in human saliva initiates starch breakdown?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pepsin",
+        "Salivary Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary indication for using a Urinary Foley Catheter?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Measure blood pressure",
+        "Drain urine from bladder",
+        "Administer IV drugs",
+        "Deliver oxygen"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the medical term for severe pain experienced during urination?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Anuria",
+        "Dysuria",
+        "Oliguria",
+        "Polyuria"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which vitamin is produced endogenously when human skin is exposed to sunlight?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which position involves lying flat on the stomach with face turned to the side?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Supine",
+        "Prone",
+        "Lateral",
+        "Lithotomy"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary role of White Blood Cells (WBCs/Leukocytes)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Oxygen transport",
+        "Blood clotting",
+        "Defense against infection",
+        "Nutrient transport"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the term for difficulty or pain during swallowing?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Dysphasia",
+        "Dysphagia",
+        "Dyspepsia",
+        "Dysuria"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which clinical assessment tool is used to evaluate pressure ulcer risk?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Glasgow Scale",
+        "Braden Scale",
+        "Apgar Score",
+        "FLACC Scale"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the term for an open wound caused by rubbing or scraping skin surface?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Laceration",
+        "Abrasion",
+        "Contusion",
+        "Puncture"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary function of Red Blood Cells (RBCs/Erythrocytes)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fight infection",
+        "Transport Oxygen",
+        "Form blood clots",
+        "Produce antibodies"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which diagnostic test is performed to confirm a clinical diagnosis of Tuberculosis?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Mantoux Test / Sputum AFB",
+        "Widal Test",
+        "Schick Test",
+        "Elisa Test"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the term for blood pressure reading consistently below 90/60 mmHg?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hypertension",
+        "Hypotension",
+        "Normotension",
+        "Prehypertension"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which diagnostic scale is universally used to assess level of consciousness?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Braden Scale",
+        "Glasgow Coma Scale (GCS)",
+        "Apgar Scale",
+        "Norton Scale"
+      ],
+      "correct": 1,
       "explanation": "",
       "category": "all"
     }
