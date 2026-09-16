@@ -3,10 +3,101 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-15T21:48:37.538163",
+    "fetched_at": "2026-09-16T05:38:00.574421",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "According to the PPC, the word \"Person\" includes:",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Any Company or Association",
+        "A body of persons, whether incorporated or not",
+        "Natural human beings",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the mode of the following data? 40, 45, 45, 50, 60",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Mode = the number that appears most often in the data.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the series; 3, 4, 7, 8, 11, 12, ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15",
+        "10",
+        "18",
+        "16"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">3+1 = 4</b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the total marks in Mathematics, Physics, and Chemistry are 84,000 and their ratio is 3 : 4 : 5, what are the marks in Physics?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "21,000",
+        "24,000",
+        "28,000",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Ratio of Math : Physics : Chemistry = 3 : 4 : 5</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the sum of two numbers is 45 and their difference is 15, what are the two numbers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "35 and 10",
+        "25 and 20",
+        "30 and 15",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Sum: 30 + 15 = 45</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Solve: (2x + 3) / (x - 1) = 3",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3",
+        "5",
+        "6",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Solve: (2x + 3) / (x - 1) = 3</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What percentage is 80 out of 120?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50%",
+        "60%",
+        "66.67%",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula: (Part / Total) _ 100</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Two brothers have an age difference of 9 years. After 5 years, the sum of their ages will be 49 years. What is the present age of the older brother?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -565,97 +656,6 @@
       ],
       "correct": 3,
       "explanation": "<p><b><font color=\"#0000ff\">Guile:</font><font color=\"#ff0000\"> Using clever tricks or dishonesty to reach a goal or fool others.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Bias is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Prejudice",
-        "Fairness",
-        "Neutrality",
-        "Logic"
-      ],
-      "correct": 0,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Synonym of Mainstay?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Main support",
-        "Weakness",
-        "Obstacle",
-        "Decoration"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Synonym  of ENTAIL?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Avoid",
-        "Necessitate",
-        "Reject",
-        "Prevent"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the formula for calculating percentage?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "(Total ÷ Part) × 100 B)",
-        "(Part ÷ Total) × 100",
-        "(Part × Total) ÷ 100",
-        "(Total − Part) × 100"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of Meagre?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Abundant",
-        "Scanty",
-        "Generous",
-        "Plentiful"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of Gist?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Detail",
-        "Main idea",
-        "Confusion",
-        "Length"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Gist means the</font><font color=\"#ff0000\"> main point or general meaning of something</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of Choke?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Suffocate",
-        "Encourage",
-        "Release",
-        "Expand"
-      ],
-      "correct": 0,
-      "explanation": "<p><br/></p>",
       "category": "all"
     }
   ]
