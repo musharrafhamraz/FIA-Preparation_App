@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-16T05:38:00.574421",
+    "fetched_at": "2026-09-16T12:21:52.654785",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Defamation is punished under",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Section 499",
+        "Section  500",
+        "Section  55",
+        "Section  501"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
     {
       "q": "According to the PPC, the word \"Person\" includes:",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -643,19 +656,6 @@
       ],
       "correct": 3,
       "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Synonym of  Guile is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Intelligence",
-        "Honesty",
-        "Kindness",
-        "Deceit"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">Guile:</font><font color=\"#ff0000\"> Using clever tricks or dishonesty to reach a goal or fool others.</font></b></p>",
       "category": "all"
     }
   ]
