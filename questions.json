@@ -3,10 +3,271 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-16T17:25:45.283568",
+    "fetched_at": "2026-09-16T21:47:01.399342",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the national currency of China?",
+      "urdu": "چین کی قومی کرنسی کیا ہے؟",
+      "options": [
+        "Yen",
+        "Lira",
+        "Yuan",
+        "Rupee"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Surahs of the Holy Quran start with Bismillahir Rahmaanir Raheem?",
+      "urdu": "قرآن پاک کی کتنی سورتیں بسم اللہ الرحمن الرحیم سے شروع ہوتی ہیں؟",
+      "options": [
+        "114",
+        "113",
+        "112",
+        "111",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin: 0px 0px 16px; border-bottom: 0px rgb(10, 10, 10);\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#ff9c00\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which surah of the Holy Quran has Bismillah twice?",
+      "urdu": "قرآن پاک کی کون سی سورت میں بسم اللہ دو بار آتی ہے؟",
+      "options": [
+        "Al Noor",
+        "Al Nahl",
+        "Al Naml",
+        "Al Ra’d"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\"><font style=\"\">Additional information</font>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many times the word Muhammad (PBUH) as a name has been mentioned in the Holy Quran?",
+      "urdu": "قرآن پاک میں لفظ محمد (صلی اللہ علیہ وسلم) کا نام کتنی بار آیا ہے؟",
+      "options": [
+        "Three times",
+        "Four times",
+        "Five times",
+        "Six times"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The name \"</font><font color=\"#ff0000\">Muhammad</font><font color=\"#0000ff\">\" appears </font><font color=\"#ff0000\" style=\"\">four times</font><font color=\"#0000ff\"> in the Quran.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The entire computer system is coordinated by?",
+      "urdu": "پورے کمپیوٹر سسٹم کو مربوط کیا جاتا ہے؟",
+      "options": [
+        "ALU",
+        "Register",
+        "Control Unit",
+        "Both A and C"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#ff9c00\" style=\"\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "RAM is a ______ memory.",
+      "urdu": "ریم کونسی میموری ہے؟",
+      "options": [
+        "Permanent",
+        "Volatile",
+        "Primary Memory",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: bolder; font-size: 0.875rem; background-color: rgb(255, 255, 0);\">Additional information</span><span style=\"color: rgb(255, 0, 0); font-weight: bolder; font-size: 0.875rem;\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "ASCII stands for:",
+      "urdu": "اے ایس سی آئی آئی کا مکمل نام کیا ہے؟",
+      "options": [
+        "American Standard Conduct for Information Interchange",
+        "Armenia Standard Code for Information Interchange",
+        "American Standard Code for Information Interchange",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Holy Prophet Muhammad (PBUH) belongs to the tribe ______?",
+      "urdu": "حضرت محمد ﷺ قبیلہ کس سے تعلق رکھتے تھے؟",
+      "options": [
+        "Banu Hashim (Quresh)",
+        "Banu Ummaya",
+        "Banu Asad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 09-02-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Surahs are there in the Holy Quran?",
+      "urdu": "قرآن پاک میں کتنی سورتیں ہیں؟",
+      "options": [
+        "117",
+        "114",
+        "112",
+        "115"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "How many canals take off from Sukkur Barrage?",
+      "urdu": "سکھر بیراج سے کتنی نہریں نکلتی ہیں؟",
+      "options": [
+        "9",
+        "7",
+        "10",
+        "5"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sukkur barrage situated in?",
+      "urdu": "سکھر بیراج کس میں واقع ہے؟",
+      "options": [
+        "Punajb",
+        "Sindh",
+        "KPK",
+        "Balochistan"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#ff00ff\" face=\"Helvetica\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Muslims fought in the battle of Badr?",
+      "urdu": "غزوہ بدر میں کتنے مسلمان لڑے؟",
+      "options": [
+        "213",
+        "313",
+        "314",
+        "320"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a portable machine?",
+      "urdu": "ان میں سے کونسی پورٹ ایبک مشین ہے؟",
+      "options": [
+        "Laptop",
+        "Works Station",
+        "Super Computer",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#0000ff\" face=\"Helvetica\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "First Azan was called out in ______ A.H.",
+      "urdu": "پہلی اذان کس ہجری سال میں دی گئی؟",
+      "options": [
+        "1 A.H.",
+        "2 A.H.",
+        "3 A.H.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><span style=\"font-family: Helvetica; font-size: 0.875rem;\"><font color=\"#9c00ff\" style=\"\"></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who proposed Azan for the first time?",
+      "urdu": "سب سے پہلے اذان دینے کی تجویز کس نے پیش کی؟",
+      "options": [
+        "Hazrat Usman",
+        "Hazrat Ali",
+        "Hazrat Umar",
+        "Hazrat Abu Bakar"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 09-09-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "MICR stands for ______?",
+      "urdu": "ایم آئی سی آر کا مطلب کیا ہے؟",
+      "options": [
+        "Magnetic Ink Code Reader",
+        "Magnetic Ink Cases Reader",
+        "Magnetic ink character recognition",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 255); background-color: rgb(255, 255, 0);\">Last updated NA on 10-09-2026</span><font color=\"#9c00ff\" style=\"\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "NATO has how many member states?",
+      "urdu": "نیٹو کے کتنے رکن ممالک ہیں؟",
+      "options": [
+        "32",
+        "30",
+        "31",
+        "29"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"margin-bottom:0in;margin-bottom:.0001pt\"><b><span style=\"color: rgb(255, 255, 255); background-color: rgb(255, 0, 0);\">List of NATO member countries</span><span style=\"color: rgb(0, 0, 255);\"><o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When China join World trade organization ?",
+      "urdu": "چین کب عالمی تجارتی تنظیم میں شامل ہوا؟",
+      "options": [
+        "1995",
+        "1997",
+        "1999",
+        "2001"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\"><b>Additional information:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Iskander Mirza was died in _____?",
+      "urdu": "اسکندر مرزا کا انتقال ____ میں ہوا؟",
+      "options": [
+        "13 November 1969",
+        "13 November 1968",
+        "13 November 1967",
+        "13 November 1966"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#9c00ff\" style=\"\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ufa is city of:",
+      "urdu": "اوفا کا شہر ہے",
+      "options": [
+        "America",
+        "China",
+        "Russia",
+        "Nepal"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><font color=\"#ff00ff\">Ufa</font></span></p>",
+      "category": "all"
+    },
     {
       "q": "What is the medical term for absence of urine production (<100 mL/day)?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -392,266 +653,6 @@
         "Meningitis",
         "Myelitis",
         "Neuritis"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the principal electrolyte found in the extracellular fluid (ECF)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Potassium",
-        "Sodium",
-        "Calcium",
-        "Magnesium"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which personal protective equipment (PPE) should be put on FIRST when donning?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Gloves",
-        "Mask",
-        "Gown",
-        "Goggles"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the medical term for bluish skin discoloration caused by reduced oxygenation?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Jaundice",
-        "Cyanosis",
-        "Erythema",
-        "Pallor"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What medical term refers to a heart rate consistently higher than 100 beats per minute?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Bradycardia",
-        "Tachycardia",
-        "Arrhythmia",
-        "Asystole"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which clinical sign is characterized by a yellowish discoloration of skin and sclera?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cyanosis",
-        "Jaundice",
-        "Erythema",
-        "Pallor"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the proper clinical technique to open an airway in an unconscious patient with NO suspected spinal trauma?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Jaw-thrust",
-        "Head-tilt/Chin-lift",
-        "Neck flexion",
-        "Chest compression"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary purpose of administering a blood transfusion filter?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Warm the blood",
-        "Trap microaggregates and clots",
-        "Speed up flow rate",
-        "Prevent hemolysis"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which enzyme present in human saliva initiates starch breakdown?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Pepsin",
-        "Salivary Amylase",
-        "Lipase",
-        "Trypsin"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary indication for using a Urinary Foley Catheter?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Measure blood pressure",
-        "Drain urine from bladder",
-        "Administer IV drugs",
-        "Deliver oxygen"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the medical term for severe pain experienced during urination?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Anuria",
-        "Dysuria",
-        "Oliguria",
-        "Polyuria"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which vitamin is produced endogenously when human skin is exposed to sunlight?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin E"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which position involves lying flat on the stomach with face turned to the side?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Supine",
-        "Prone",
-        "Lateral",
-        "Lithotomy"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary role of White Blood Cells (WBCs/Leukocytes)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Oxygen transport",
-        "Blood clotting",
-        "Defense against infection",
-        "Nutrient transport"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the term for difficulty or pain during swallowing?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Dysphasia",
-        "Dysphagia",
-        "Dyspepsia",
-        "Dysuria"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which clinical assessment tool is used to evaluate pressure ulcer risk?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Glasgow Scale",
-        "Braden Scale",
-        "Apgar Score",
-        "FLACC Scale"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the term for an open wound caused by rubbing or scraping skin surface?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Laceration",
-        "Abrasion",
-        "Contusion",
-        "Puncture"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary function of Red Blood Cells (RBCs/Erythrocytes)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fight infection",
-        "Transport Oxygen",
-        "Form blood clots",
-        "Produce antibodies"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which diagnostic test is performed to confirm a clinical diagnosis of Tuberculosis?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Mantoux Test / Sputum AFB",
-        "Widal Test",
-        "Schick Test",
-        "Elisa Test"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the term for blood pressure reading consistently below 90/60 mmHg?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hypertension",
-        "Hypotension",
-        "Normotension",
-        "Prehypertension"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which diagnostic scale is universally used to assess level of consciousness?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Braden Scale",
-        "Glasgow Coma Scale (GCS)",
-        "Apgar Scale",
-        "Norton Scale"
       ],
       "correct": 1,
       "explanation": "",
