@@ -3,10 +3,36 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-17T17:25:16.488088",
+    "fetched_at": "2026-09-17T21:49:31.623283",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the literal meaning of the legal maxim \"Delegatus non potest delegare\"?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A delegate may delegate freely",
+        "Delegation is unconstitutional",
+        "A delegate cannot further delegate",
+        "None"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">The legal maxim Delegatus non potest delegare, frequently tested in Administrative Law, Law of Agency,</font><font color=\"#ff0000\"> and Interpretation of Statutes.</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the literal English translation of the Latin legal maxim nemo dat quod non habet?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "No one can give what they do not have",
+        "He who takes by force loses by law",
+        "Both",
+        "None"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">This is the precise literal translation of maximum, meaning a seller can not transfer a batter title than they themselves </font><font color=\"#ff0000\">possessive</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Hazrat Hamza is _________ of Muhammad (PBUH)?",
       "urdu": "کیا حضرت حمزہ محمد صلی اللہ علیہ وسلم کے _________ ہیں؟",
@@ -627,32 +653,6 @@
         "Proteins",
         "Fats",
         "Minerals"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the medical term for pain caused by inadequate blood supply to heart muscle?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Myocardial Infarction",
-        "Angina Pectoris",
-        "Pericarditis",
-        "Heart Failure"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which scale is specifically used to assess newborn health status immediately after birth?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Glasgow Scale",
-        "APGAR Score",
-        "Braden Scale",
-        "Fall Scale"
       ],
       "correct": 1,
       "explanation": "",
