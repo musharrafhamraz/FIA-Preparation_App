@@ -3,10 +3,114 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-16T21:47:01.399342",
+    "fetched_at": "2026-09-17T05:44:07.922818",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Hazrat Hamza is _________ of Muhammad (PBUH)?",
+      "urdu": "کیا حضرت حمزہ محمد صلی اللہ علیہ وسلم کے _________ ہیں؟",
+      "options": [
+        "Cousin",
+        "Uncle",
+        "Nephew",
+        "Son"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"box-sizing: border-box; position: relative; width: 854.883px; padding-right: 0.75rem; padding-left: 0.75rem; flex: 0 0 83.3333%; max-width: 83.3333%;\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><span class=\"font-weight-bold\" style=\"box-sizing: border-box;\"><span \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 255);\"=\"\" 255,=\"\" arial,=\"\" background-color:=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" neue\",=\"\" rgb(255,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><div class=\"row mt-3\" style=\"font-weight: 400;\"></div></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of United Nations Organization (UNO) located?",
+      "urdu": "اقوام متحدہ کا ہیڈ کوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Washington",
+        "Florida",
+        "New York",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" initial;=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Arial, sans-serif\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sihah-e-Sitta are the six books of _____?",
+      "urdu": "صحاح ستہ _____ کی چھ کتابیں ہیں؟",
+      "options": [
+        "Tafseer e Quran",
+        "Serat e nabvi",
+        "Fiqah",
+        "Hadith"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">Siha-e-Sitta </font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Siha-e-Sitta are ______ books of Hadith.",
+      "urdu": "صحاحِ ستہ کتنی حدیث کی کتابوں پر مشتمل ہیں؟",
+      "options": [
+        "Two",
+        "Three",
+        "Five",
+        "Six"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><font color=\"#ff0000\" style=\"\">Siha-e-Sitta</font><font color=\"#0000ff\" style=\"\"> (Sihah al-Sittah) are the </font><font color=\"#ff0000\" style=\"\">six authentic </font><font color=\"#0000ff\" style=\"\">books of </font><font color=\"#ff0000\" style=\"\">Hadith</font><font color=\"#0000ff\" style=\"\"> in </font><font color=\"#ff0000\" style=\"\">Sunni</font><font color=\"#0000ff\" style=\"\"> Islam.</font></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Largest export of Pakistan is _____?",
+      "urdu": "پاکستان کی سب سے بڑی ایکسپورٹ _____ ہے؟",
+      "options": [
+        "Oil",
+        "Gold",
+        "Taxtile",
+        "All above mentioned"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#ff00ff\"><b style=\"\"></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Arianna is airline of",
+      "urdu": "اریانا  کس کی ایئر لائن ہے۔",
+      "options": [
+        "China",
+        "idia",
+        "Afghanistan",
+        "Iran"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#7b3900\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of Amnesty International (AI) located?",
+      "urdu": "ایمنسٹی انٹرنیشنل کا صدر دفتر کہاں واقع ہے؟",
+      "options": [
+        "Paris",
+        "London",
+        "Islamabad",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-07-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The objective resolution was drafted by____?",
+      "urdu": "قراردادِ مقاصد کا مسودہ کس نے تیار کیا تھا؟",
+      "options": [
+        "Fatima Jinnah",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam",
+        "None"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#ff00ff\" style=\"\"></font></p>",
+      "category": "all"
+    },
     {
       "q": "What is the national currency of China?",
       "urdu": "چین کی قومی کرنسی کیا ہے؟",
@@ -549,110 +653,6 @@
         "APGAR Score",
         "Braden Scale",
         "Fall Scale"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the standard drop factor for a standard adult microdrip IV tubing set?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10 gtt/mL",
-        "15 gtt/mL",
-        "60 gtt/mL",
-        "20 gtt/mL"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which cell organelle is known as the \"powerhouse of the cell\"?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ribosome",
-        "Mitochondria",
-        "Nucleus",
-        "Lysosome"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the medical term for an abnormally decreased rate of breathing (<10 breaths/min)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Bradypnea",
-        "Tachypnea",
-        "Apnea",
-        "Dyspnea"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which organ is primary affected in Hepatitis?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Kidneys",
-        "Liver",
-        "Lungs",
-        "Heart"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the recommended chest compression-to-ventilation ratio for adult 1-rescuer CPR?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15:02",
-        "30:02:00",
-        "5:01",
-        "50:02:00"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which cranial nerve controls tongue movement?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "CN IX (Glossopharyngeal)",
-        "CN XII (Hypoglossal)",
-        "CN X (Vagus)",
-        "CN VII (Facial)"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the main cause of Tuberculosis infection?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Virus",
-        "Mycobacterium tuberculosis",
-        "Amoeba",
-        "Fungus"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What medical condition is described as an inflammation of the meninges?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Encephalitis",
-        "Meningitis",
-        "Myelitis",
-        "Neuritis"
       ],
       "correct": 1,
       "explanation": "",
