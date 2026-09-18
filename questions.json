@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-18T12:00:58.739046",
+    "fetched_at": "2026-09-18T16:53:36.932359",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the central principle Makkah Joint Defence Agreement 2026 bewteen Pakistan, Saudi & Turkiye?",
+      "urdu": "پاکستان، سعودی عرب اور ترکی کے درمیان 'مکہ مشترکہ دفاعی معاہدہ 2026' کا بنیادی اصول کیا ہے؟",
+      "options": [
+        "One currency for the three countries",
+        "Joint oil production for the three countries",
+        "An attack on one is regarded as an attack on all",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">Makkah Joint Defence Agreement 2026</font><font color=\"#0000ff\"><o:p></o:p></font></span></span></p>",
+      "category": "all"
+    },
     {
       "q": "Who is the current Prime Minister of Afghanistan?",
       "urdu": "افغانستان کا موجودہ وزیر اعظم کون ہے؟",
@@ -640,19 +653,6 @@
         "Intracellular Fluid",
         "Interstitial Fluid",
         "Plasma"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What condition results from fluid accumulation in the peritoneal cavity?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Edema",
-        "Ascites",
-        "Anasarca",
-        "Pleural Effusion"
       ],
       "correct": 1,
       "explanation": "",
