@@ -3,10 +3,36 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-19T05:29:14.944817",
+    "fetched_at": "2026-09-19T11:44:21.490478",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the value of (2⁴⁰ / 2¹⁹) / 2¹³?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2⁸",
+        "2¹³",
+        "2¹⁹",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">When we divide numbers with same base we subtract the powers. </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If A1 = 2, A2 = 4, and A3 = 6, what is =SUM(A1:A3)?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">=SUM(A1:A3) means add A1 + A2 + A3</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Past tense of went is _____?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -627,32 +653,6 @@
         "Melena",
         "Hematemesis",
         "Hemoptysis"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the main clinical sign of inflammation characterized by redness?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Edema",
-        "Erythema",
-        "Pallor",
-        "Cyanosis"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which route delivers insulin injections for long-term diabetes management?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Intramuscular",
-        "Subcutaneous",
-        "Intravenous",
-        "Intraosseous"
       ],
       "correct": 1,
       "explanation": "",
