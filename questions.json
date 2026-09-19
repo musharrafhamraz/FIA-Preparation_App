@@ -3,10 +3,49 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-19T11:44:21.490478",
+    "fetched_at": "2026-09-19T16:11:29.333660",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Syllogism: “No honest person is corrupt. Some politicians are corrupt.” Which conclusion logically follows?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "All politicians are honest",
+        "Some politicians are not honest",
+        "All corrupt persons are honest",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">No honest person is corrupt means no person can be both honest and corrupt.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the domain of cos θ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "All real numbers",
+        "[0, π]",
+        "[-1, 1]",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">cosine function</font><font color=\"#0000ff\"> is defined for every </font><font color=\"#ff0000\">real</font><font color=\"#0000ff\"> value of </font><font color=\"#ff0000\">θ</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 100% of 200?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "100",
+        "200",
+        "250",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>100% means the whole amount.</b></font></p>",
+      "category": "all"
+    },
     {
       "q": "What is the value of (2⁴⁰ / 2¹⁹) / 2¹³?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -614,45 +653,6 @@
         "Autoclaving",
         "Sanitation",
         "Antisepsis"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which cardiac marker rises first in serum following an acute Myocardial Infarction?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Troponin T/I",
-        "CK-MB",
-        "Myoglobin",
-        "LDH"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which gland is known as the \"Master Gland\" of the endocrine system?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Thyroid",
-        "Pituitary",
-        "Adrenal",
-        "Pancreas"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the medical term for passing blood in feces (dark tarry stool)?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hematuria",
-        "Melena",
-        "Hematemesis",
-        "Hemoptysis"
       ],
       "correct": 1,
       "explanation": "",
