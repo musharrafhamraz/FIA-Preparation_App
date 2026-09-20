@@ -3,10 +3,153 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-20T11:56:47.583498",
+    "fetched_at": "2026-09-20T16:39:34.270883",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "If an item is Rs. 150 after a 25% discount, what is the original price of the item?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 180",
+        "Rs. 190",
+        "Rs. 200",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">After a 25% discount, the selling price is 75% of the original price.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "|-2| = ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><b>Absolute value represents the distance from zero.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two trains are moving in opposite directions at speeds of 50 km/hour and 100 km/hour. What is their relative speed?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50 km/hour",
+        "100 km/hour",
+        "150 km/hour",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"\"><font color=\"#0000ff\" face=\"Helvetica\"><span style=\"font-size: 16px;\"><b>For objects moving in opposite directions, relative speed = sum of their speeds.</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Statements: Doctors are not illiterate. Sana is illiterate. Conclusion?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sana is a doctor",
+        "Sana is not a doctor",
+        "All doctors are illiterate",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The statement “Doctors are not illiterate” means all doctors are literate.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A father is 6 times as old as his son. After 6 years, the father's age will be 72. What is the age of his son now?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "11 years",
+        "12 years",
+        "13 years",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Father’s current age = 72 − 6 = 66 years.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the simplified ratio of 35 : 63?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5 : 9",
+        "7 : 9",
+        "5 : 7",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The HCF of 35 and 63 is 7.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the simplified ratio of 20 : 6?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10 : 3",
+        "5 : 3",
+        "4 : 3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">HCF of 20 and 6 = 2.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "|3| − |−3| − 2² − |−3²| = ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">|3| = 3, |−3| = 3, and 2² = 4.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a route of A, B, C, and D, who reached last if A reaches before B, B reaches before D, and C also reaches before D?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "D",
+        "B",
+        "A",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">A comes before B.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The sum of the ages of a father and his daughter is 48 years. If the father's age is 5 times the daughter's age, what is the daughter's current age?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "6 years",
+        "8 years",
+        "10 years",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Given: Father's age = 5 times daughter's age = 5x years</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Four candidates A, B, C, and D finish a race such that A reaches before B, B reaches before D, and C also reaches before D. Based only on this information, which candidate certainly does not finish last?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">From the given information:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "When is International Day of Democracy observed?",
       "urdu": "جمہوریت کا عالمی دن کب منایا جاتا ہے؟",
@@ -511,149 +654,6 @@
         "Maintain an upright position during feeding"
       ],
       "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which finding is most concerning in a patient with a head injury?",
-      "urdu": "سر کی چوٹ والے مریض میں کون سی علامت سب سے زیادہ تشویش ناک ہے؟",
-      "options": [
-        "Mild thirst",
-        "Stable appetite",
-        "Progressive decline in level of consciousness",
-        "Mild localized bruising"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing intervention is appropriate for a patient with chronic obstructive pulmonary disease who becomes breathless?",
-      "urdu": "پھیپھڑوں کی دائمی رکاوٹی بیماری کے مریض کو سانس زیادہ چڑھنے پر کون سی نرسنگ مداخلت مناسب ہے؟",
-      "options": [
-        "Withhold prescribed oxygen automatically",
-        "Force rapid deep breaths continuously",
-        "Place the patient flat",
-        "Encourage pursed-lip breathing"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient taking warfarin requires monitoring primarily through which laboratory test?",
-      "urdu": "وارفرین استعمال کرنے والے مریض کی نگرانی بنیادی طور پر کس تجربہ گاہی جانچ سے کی جاتی ہے؟",
-      "options": [
-        "Activated partial thromboplastin time",
-        "Prothrombin time and international normalized ratio",
-        "Serum amylase",
-        "Serum bilirubin only"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which electrolyte abnormality poses a particularly high risk for cardiac dysrhythmias?",
-      "urdu": "کون سی نمکیاتی خرابی دل کی بے قاعدہ دھڑکن کے زیادہ خطرے سے وابستہ ہے؟",
-      "options": [
-        "Mild hypernatremia",
-        "Mild hypercalcemia",
-        "Mild hypermagnesemia",
-        "Significant potassium abnormality"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which pulse characteristic should the nurse assess in a patient with suspected peripheral arterial disease?",
-      "urdu": "شریانوں کی پردیی بیماری کے شبہ میں نرس کو نبض کی کون سی خصوصیت کا جائزہ لینا چاہیے؟",
-      "options": [
-        "Hearing acuity",
-        "Bowel frequency",
-        "Pupil size",
-        "Peripheral pulse strength"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which intervention is most appropriate for preventing postoperative atelectasis?",
-      "urdu": "آپریشن کے بعد پھیپھڑے کے ایک حصے کے بیٹھ جانے سے بچنے کے لیے کون سی مداخلت زیادہ مناسب ہے؟",
-      "options": [
-        "Prolonged bed rest",
-        "Restricting coughing",
-        "Incentive spirometry and deep breathing",
-        "Keeping the patient sedated"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient receiving a blood transfusion develops fever and chills. What should the nurse do first?",
-      "urdu": "خون کی منتقلی کے دوران مریض کو بخار اور کپکپی ہو جائے تو نرس کو سب سے پہلے کیا کرنا چاہیے؟",
-      "options": [
-        "Increase the transfusion rate",
-        "Stop the transfusion",
-        "Give another unit immediately",
-        "Encourage oral fluids only"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which sign is most characteristic of dehydration in an adult?",
-      "urdu": "بالغ میں جسمانی پانی کی کمی کی زیادہ نمایاں علامت کون سی ہے؟",
-      "options": [
-        "Moist mucous membranes",
-        "Concentrated urine and orthostatic dizziness",
-        "Generalized edema",
-        "Bounding pulse"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which precaution is most appropriate for a patient with suspected pulmonary tuberculosis?",
-      "urdu": "پھیپھڑوں کے مشتبہ تپِ دق کے مریض کے لیے کون سی احتیاط زیادہ مناسب ہے؟",
-      "options": [
-        "Contact precautions only",
-        "Standard precautions only",
-        "Droplet precautions only",
-        "Airborne precautions"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which action is most important before inserting an indwelling urinary catheter?",
-      "urdu": "مستقل پیشابی نلکی داخل کرنے سے پہلے کون سی کارروائی سب سے اہم ہے؟",
-      "options": [
-        "Give the patient a large meal",
-        "Confirm indication and use aseptic technique",
-        "Apply talcum powder",
-        "Clamp the drainage tubing"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which clinical finding is most typical of an acute asthma exacerbation?",
-      "urdu": "دمے کے شدید دورے میں کون سی طبی علامت زیادہ عام ہے؟",
-      "options": [
-        "Inspiratory stridor only",
-        "Wheezing with expiratory difficulty",
-        "Massive peripheral edema",
-        "Severe jaundice"
-      ],
-      "correct": 1,
       "explanation": "",
       "category": "all"
     }
