@@ -3,657 +3,657 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-19T21:09:22.746350",
+    "fetched_at": "2026-09-20T05:42:56.348955",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which measure best indicates that a rehabilitation plan is effective?",
-      "urdu": "بحالی کے منصوبے کی مؤثریت کو کون سا پیمانہ بہترین طور پر ظاہر کرتا ہے؟",
+      "q": "Which finding most strongly indicates adequate renal perfusion in an adult patient?",
+      "urdu": "بالغ مریض میں گردوں تک مناسب خون کی رسائی کی سب سے مضبوط علامت کون سی ہے؟",
       "options": [
-        "More nursing assistance for routine activities",
-        "Longer hospitalization",
-        "Increased dependence",
-        "Improved functional independence"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with an incurable disease asks, “Can you still help me?” The most appropriate nursing response is:",
-      "urdu": "ناقابلِ علاج بیماری والا مریض پوچھے کہ کیا آپ اب بھی میری مدد کر سکتے ہیں، تو نرس کا مناسب جواب کیا ہونا چاہیے؟",
-      "options": [
-        "“Yes. We can work to control symptoms, maintain comfort, and support your goals.”",
-        "“No treatment is possible, so there is nothing to do.”",
-        "“Only the physician can help you.”",
-        "“You should not ask about your condition.”"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which statement best reflects the relationship between care and cure?",
-      "urdu": "نگہداشت اور علاجِ مرض کے باہمی تعلق کو کون سا بیان بہترین طور پر واضح کرتا ہے؟",
-      "options": [
-        "They are completely unrelated",
-        "Cure always makes care unnecessary",
-        "Care is needed only when cure fails",
-        "They are complementary and may occur together"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A charge nurse is planning care for a patient with a chronic, progressive, and incurable disease. Which overall approach is most appropriate?",
-      "urdu": "نگران نرس دائمی، بڑھتی ہوئی اور ناقابلِ علاج بیماری والے مریض کے لیے نگہداشت کا منصوبہ بنائے تو مجموعی طور پر کون سا طریقہ زیادہ مناسب ہے؟",
-      "options": [
-        "Combine symptom control, patient education, psychosocial support, function, dignity, and individualized goals",
-        "Focus exclusively on finding a cure",
-        "Provide only basic physical care",
-        "Avoid discussing future care preferences"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which principle is most important when a patient has a chronic incurable condition?",
-      "urdu": "دائمی اور ناقابلِ علاج بیماری والے مریض میں کون سا اصول سب سے زیادہ اہم ہے؟",
-      "options": [
-        "Focus on achievable goals and meaningful quality of life",
-        "Continue unrealistic goals",
-        "Avoid discussing patient preferences",
-        "Measure success only by cure"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with rheumatoid arthritis has persistent pain and limited mobility. Which nursing goal is most appropriate?",
-      "urdu": "رمیٹی جوڑوں کی سوزش والے مریض میں مسلسل درد اور محدود حرکت ہو تو کون سا نرسنگ مقصد زیادہ مناسب ہے؟",
-      "options": [
-        "Maintain complete inactivity",
-        "Eliminate all joint disease through nursing",
-        "Reduce pain and maximize functional mobility",
-        "Avoid assistive strategies"
+        "Respiratory rate of 24/min",
+        "Dry oral mucosa",
+        "Urine output of about 35 mL/hour",
+        "Capillary refill of 4 seconds"
       ],
       "correct": 2,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Which finding is most consistent with hypovolemic shock?",
-      "urdu": "خون یا جسمانی مائع کی کمی سے ہونے والے صدمے سے کون سی علامت زیادہ مطابقت رکھتی ہے؟",
+      "q": "A postoperative patient becomes restless, tachycardic, and hypotensive with cool clammy skin. What should the nurse do first?",
+      "urdu": "ایک آپریشن کے بعد مریض بے چین ہو جاتا ہے، دل کی دھڑکن تیز ہو جاتی ہے، فشارِ خون کم ہو جاتا ہے اور جلد ٹھنڈی و پسینے والی ہے۔ نرس کو سب سے پہلے کیا کرنا چاہیے؟",
       "options": [
-        "Tachycardia with poor peripheral perfusion",
-        "Warm flushed skin with bounding pulse in every case",
-        "Increased urine output",
-        "Stable circulation despite severe blood loss"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing action best demonstrates the difference between caring and simply performing tasks?",
-      "urdu": "نگہداشت اور محض کام انجام دینے کے درمیان فرق کو کون سا نرسنگ اقدام بہترین طور پر ظاہر کرتا ہے؟",
-      "options": [
-        "Completing procedures without communication",
-        "Explaining care and responding to the patient's individual concerns",
-        "Following routine regardless of patient preference",
-        "Focusing only on speed"
+        "Administer oral fluids",
+        "Assess airway, breathing, and circulation",
+        "Give a sedative",
+        "Encourage ambulation"
       ],
       "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "A patient with chronic heart disease becomes depressed and socially withdrawn. The nurse should:",
-      "urdu": "دائمی قلبی بیماری والا مریض افسردہ اور سماجی طور پر الگ تھلگ ہو جائے تو نرس کو کیا کرنا چاہیے؟",
+      "q": "Which finding is most characteristic of left-sided heart failure?",
+      "urdu": "بائیں جانب دل کی ناکامی کی سب سے نمایاں علامت کون سی ہے؟",
       "options": [
-        "Assess psychosocial needs and facilitate appropriate support",
-        "Ignore the behavior",
-        "Focus only on blood pressure",
-        "Tell the patient depression is unrelated"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with chronic obstructive lung disease is taught pursed-lip breathing. The primary purpose is to:",
-      "urdu": "دائمی رکاوٹی پھیپھڑوں کی بیماری کے مریض کو ہونٹ سکیڑ کر سانس لینے کی مشق سکھانے کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "Improve expiratory airflow and reduce air trapping",
-        "Increase airway obstruction",
-        "Stop oxygen exchange",
-        "Cure the underlying disease"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which intervention best supports nutrition during prolonged illness?",
-      "urdu": "طویل بیماری کے دوران غذائیت برقرار رکھنے کے لیے کون سا اقدام زیادہ مناسب ہے؟",
-      "options": [
-        "Assess nutritional needs and monitor intake and weight",
-        "Ignore appetite changes",
-        "Restrict protein in every patient",
-        "Provide identical diets to all patients"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which clinical finding may indicate dehydration in an adult?",
-      "urdu": "بالغ مریض میں پانی کی کمی کی کون سی علامت ہو سکتی ہے؟",
-      "options": [
-        "Increased urine output",
-        "Generalized edema in every case",
-        "Concentrated urine and orthostatic symptoms",
-        "Moist mucous membranes"
+        "Peripheral neuropathy",
+        "Ascites only",
+        "Pulmonary crackles and dyspnea",
+        "Severe constipation"
       ],
       "correct": 2,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Which statement about nursing care in cancer is most accurate?",
-      "urdu": "سرطان میں نرسنگ نگہداشت کے بارے میں کون سا بیان زیادہ درست ہے؟",
+      "q": "A patient with diabetes is sweating, trembling, and confused. What is the priority nursing action?",
+      "urdu": "ذیابیطس کے مریض کو پسینہ آ رہا ہے، کپکپی ہے اور وہ الجھن کا شکار ہے۔ نرس کی ترجیحی کارروائی کیا ہونی چاہیے؟",
       "options": [
-        "Care may include symptom control, treatment support, education, and psychosocial support",
-        "Nursing care is unnecessary during chemotherapy",
-        "Cancer care is always exclusively curative",
-        "Emotional support has no clinical value"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which finding is most concerning in a patient receiving opioid analgesics?",
-      "urdu": "درد کم کرنے والی افیونی دوا لینے والے مریض میں کون سی علامت زیادہ تشویش ناک ہے؟",
-      "options": [
-        "Slight drowsiness",
-        "Mild dry mouth",
-        "Mild constipation",
-        "Marked respiratory depression"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing intervention is most appropriate for preventing constipation in an appropriate ambulatory patient?",
-      "urdu": "ایسے چلنے پھرنے والے مریض میں قبض سے بچاؤ کے لیے کون سا نرسنگ اقدام زیادہ مناسب ہے؟",
-      "options": [
-        "Severe fluid restriction",
-        "Complete bed rest",
-        "Adequate fluids, fiber, and activity when appropriate",
-        "Elimination of all dietary fiber"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which disease-control strategy is most directly related to secondary prevention?",
-      "urdu": "بیماری کی ثانوی روک تھام سے کون سی حکمتِ عملی زیادہ براہِ راست متعلق ہے؟",
-      "options": [
-        "Early detection and treatment",
-        "Immunization before exposure",
-        "Rehabilitation after disability",
-        "Palliative symptom relief"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing action is most appropriate for a patient newly diagnosed with a chronic disease?",
-      "urdu": "دائمی بیماری کی نئی تشخیص والے مریض کے لیے کون سا نرسنگ اقدام زیادہ مناسب ہے؟",
-      "options": [
-        "Provide a lengthy lecture immediately",
-        "Assess understanding, concerns, readiness, and learning needs",
-        "Assume the patient understands everything",
-        "Avoid discussing lifestyle changes"
+        "Administer long-acting insulin",
+        "Check blood glucose promptly",
+        "Restrict carbohydrates",
+        "Encourage exercise"
       ],
       "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "A patient with chronic illness experiences repeated hospital admissions because of poor self-management. Which nursing intervention is most appropriate?",
-      "urdu": "دائمی بیماری کے مریض کو ناقص خود نگہداشت کی وجہ سے بار بار ہسپتال داخل ہونا پڑے تو کون سا نرسنگ اقدام زیادہ مناسب ہے؟",
+      "q": "Which nursing intervention is most effective for preventing pressure injury in an immobile patient?",
+      "urdu": "بے حرکت مریض میں دباؤ سے ہونے والے زخم کی روک تھام کے لیے کون سی نرسنگ مداخلت زیادہ مؤثر ہے؟",
       "options": [
-        "Identify barriers and develop an individualized self-management plan",
-        "Blame the patient",
-        "Provide information only at discharge",
-        "Avoid follow-up"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which principle is central to health promotion?",
-      "urdu": "صحت کے فروغ کا بنیادی اصول کیا ہے؟",
-      "options": [
-        "Strengthening healthy behaviors and reducing risk factors",
-        "Treating disease only after complications",
-        "Relying entirely on hospitalization",
-        "Avoiding preventive education"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with a terminal illness develops severe pain. The priority of nursing care is to:",
-      "urdu": "آخری درجے کی بیماری والے مریض میں شدید درد پیدا ہو جائے تو نرسنگ نگہداشت کی ترجیح کیا ہے؟",
-      "options": [
-        "Focus only on laboratory results",
-        "Withhold analgesia",
-        "Encourage the patient to tolerate it",
-        "Promptly assess and manage pain"
+        "Keeping the patient in one position",
+        "Massaging reddened bony areas vigorously",
+        "Restricting fluids",
+        "Regular repositioning and pressure redistribution"
       ],
       "correct": 3,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Which statement best describes quality of life in chronic illness?",
-      "urdu": "دائمی بیماری میں زندگی کے معیار کو کون سا بیان بہترین طور پر واضح کرتا ہے؟",
+      "q": "Which position is generally most appropriate for a patient experiencing acute dyspnea?",
+      "urdu": "شدید سانس کی تنگی والے مریض کے لیے عموماً کون سی حالت زیادہ موزوں ہے؟",
       "options": [
-        "It means complete absence of disease",
-        "It is determined only by laboratory values",
-        "It includes physical, psychological, social, and functional well-being",
-        "It depends only on hospital stay"
+        "Flat supine position",
+        "Prone position",
+        "Trendelenburg position",
+        "High Fowler's position"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A patient receiving oxygen by nasal cannula develops increasing drowsiness. Which assessment is most important?",
+      "urdu": "ناک کے ذریعے آکسیجن حاصل کرنے والا مریض زیادہ غنودگی کا شکار ہو جائے تو سب سے اہم جائزہ کون سا ہے؟",
+      "options": [
+        "Body temperature",
+        "Bowel sounds",
+        "Level of consciousness and respiratory status",
+        "Skin turgor"
       ],
       "correct": 2,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "A patient with spinal cord injury requires bladder and bowel management. This is primarily an example of:",
-      "urdu": "ریڑھ کی ہڈی کی چوٹ والے مریض کو مثانے اور آنتوں کے انتظام کی ضرورت ہو تو یہ بنیادی طور پر کس کی مثال ہے؟",
+      "q": "Which laboratory finding is most suggestive of iron-deficiency anemia?",
+      "urdu": "کون سا تجربہ گاہی نتیجہ فولاد کی کمی سے ہونے والی خون کی کمی کی زیادہ مضبوط علامت ہے؟",
       "options": [
-        "Long-term supportive and rehabilitative care",
-        "Immediate curative surgery",
-        "Diagnostic screening",
-        "Preventive vaccination"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with heart failure has sudden weight gain and increasing breathlessness. The nurse should recognize this as possible:",
-      "urdu": "قلبی کمزوری کے مریض کا وزن اچانک بڑھے اور سانس پھولنے لگے تو نرس کو اسے کس چیز کی ممکنہ علامت سمجھنا چاہیے؟",
-      "options": [
-        "Reduced fluid volume",
-        "Improved cardiac function",
-        "Fluid retention and worsening heart failure",
-        "Normal recovery"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which dietary intervention is commonly important in managing hypertension?",
-      "urdu": "بلند فشارِ خون کے انتظام میں کون سی غذائی تدبیر عام طور پر اہم ہے؟",
-      "options": [
-        "Reducing excessive sodium intake",
-        "Increasing processed-food intake",
-        "Eliminating all carbohydrates",
-        "Avoiding all fruits"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which type of immunity develops after exposure to an antigen and subsequent immune response?",
-      "urdu": "کسی ضدِ جسم پیدا کرنے والے مادے کے سامنے آنے کے بعد جسم کے اپنے مدافعتی ردِعمل سے کون سی قوتِ مدافعت پیدا ہوتی ہے؟",
-      "options": [
-        "Active acquired immunity",
-        "Passive immunity only",
-        "Mechanical protection",
-        "Innate immunity only"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing measure is most important for preventing aspiration in a patient with impaired consciousness?",
-      "urdu": "ہوش کی خرابی والے مریض میں غذا یا مواد کے سانس کی نالی میں جانے سے بچاؤ کے لیے کون سا اقدام زیادہ اہم ہے؟",
-      "options": [
-        "Feed while completely flat",
-        "Give oral fluids rapidly",
-        "Maintain appropriate airway precautions and positioning",
-        "Encourage unsupervised eating"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing action best integrates physical and emotional care?",
-      "urdu": "جسمانی اور جذباتی نگہداشت کو یکجا کرنے والا بہترین نرسنگ اقدام کون سا ہے؟",
-      "options": [
-        "Managing symptoms while addressing patient fears",
-        "Treating laboratory results only",
-        "Avoiding emotional questions",
-        "Focusing exclusively on medication"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with severe infection develops low blood pressure, confusion, and reduced urine output. Which condition should be suspected?",
-      "urdu": "شدید انفیکشن کے مریض میں فشارِ خون کم، ذہنی الجھن اور پیشاب کم ہو جائے تو کس حالت کا شبہ ہونا چاہیے؟",
-      "options": [
-        "Mild dehydration only",
-        "Simple fatigue",
-        "Stable recovery",
-        "Septic shock"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing action is most important when caring for a patient receiving chemotherapy?",
-      "urdu": "کیموتھراپی لینے والے مریض کی نگہداشت میں کون سا نرسنگ اقدام زیادہ اہم ہے؟",
-      "options": [
-        "Avoid infection precautions",
-        "Assume nausea is harmless",
-        "Stop all nutrition",
-        "Monitor for treatment-related complications and provide supportive care"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which laboratory finding may indicate reduced kidney function?",
-      "urdu": "کون سی تجربہ گاہی قدر گردوں کے کمزور فعل کی نشاندہی کر سکتی ہے؟",
-      "options": [
-        "Elevated serum creatinine",
-        "Low serum amylase",
-        "Increased hemoglobin",
-        "Reduced bilirubin"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which statement about antibiotics and viral infections is correct?",
-      "urdu": "جراثیم کش ادویات اور وائرس سے ہونے والی بیماریوں کے بارے میں کون سا بیان درست ہے؟",
-      "options": [
-        "Antibiotics are always needed for fever",
-        "Antibiotics cure every viral illness",
-        "Antibiotics replace vaccination",
-        "Antibiotics do not directly treat viral infections"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with chronic obstructive lung disease becomes increasingly breathless. Which nursing action is most appropriate initially?",
-      "urdu": "دائمی رکاوٹی پھیپھڑوں کی بیماری کا مریض زیادہ سانس پھولنے کی شکایت کرے تو ابتدائی طور پر کون سا نرسنگ اقدام مناسب ہے؟",
-      "options": [
-        "Assess airway, breathing, oxygenation, and vital signs",
-        "Leave the patient alone",
-        "Encourage strenuous exercise",
-        "Delay assessment until rounds"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which principle differentiates rehabilitation from curative treatment?",
-      "urdu": "بحالی اور علاجِ مرض میں بنیادی فرق کیا ہے؟",
-      "options": [
-        "Cure never requires rehabilitation",
-        "Rehabilitation always eliminates disease",
-        "Cure always restores every function",
-        "Rehabilitation focuses on maximizing function"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with Parkinson disease needs assistance with activities of daily living. The most appropriate nursing goal is to:",
-      "urdu": "پارکنسن کی بیماری والے مریض کو روزمرہ کاموں میں مدد درکار ہو تو نرسنگ کا مناسب مقصد کیا ہے؟",
-      "options": [
-        "Promote safe independence as much as possible",
-        "Perform all activities for the patient",
-        "Prevent all physical activity",
-        "Avoid assistive devices"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which condition is generally considered chronic rather than an acute curable illness?",
-      "urdu": "کون سی حالت عام طور پر فوری اور مکمل طور پر قابلِ علاج بیماری کے بجائے دائمی بیماری سمجھی جاتی ہے؟",
-      "options": [
-        "Simple skin abrasion",
-        "Acute appendicitis",
-        "Bacterial conjunctivitis",
-        "Type 2 diabetes mellitus"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which physiological change is most important to monitor when a patient is at risk of shock?",
-      "urdu": "صدمے کے خطرے والے مریض میں کون سی جسمانی تبدیلی کی نگرانی سب سے اہم ہے؟",
-      "options": [
-        "Tissue perfusion and vital signs",
-        "Hair color",
-        "Visual accommodation",
-        "Hearing acuity"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing intervention is appropriate for preventing falls in an older hospitalized patient?",
-      "urdu": "ہسپتال میں داخل بزرگ مریض کو گرنے سے بچانے کے لیے کون سا نرسنگ اقدام مناسب ہے؟",
-      "options": [
-        "Remove the call bell",
-        "Keep the patient sedated",
-        "Assess risk and maintain a safe environment",
-        "Encourage walking without assistance"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which vitamin deficiency is classically associated with megaloblastic anemia due to impaired DNA synthesis?",
-      "urdu": "کون سی وٹامن کی کمی ڈی این اے کی تیاری متاثر ہونے کے باعث بڑی جسامت کے سرخ خلیوں والی خون کی کمی سے کلاسیکی طور پر منسلک ہے؟",
-      "options": [
-        "Vitamin B12",
-        "Vitamin D",
-        "Vitamin E",
-        "Vitamin K"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which laboratory value is commonly used to monitor long-term glycemic control?",
-      "urdu": "طویل مدتی خون میں شکر کے قابو کی نگرانی کے لیے کون سی تجربہ گاہی قدر عام طور پر استعمال ہوتی ہے؟",
-      "options": [
-        "Bilirubin",
-        "Serum calcium",
-        "Serum amylase",
-        "Glycated hemoglobin"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which principle is most important when a patient's treatment goal changes from cure to comfort?",
-      "urdu": "جب مریض کے علاج کا مقصد مکمل صحت یابی سے آرام کی طرف تبدیل ہو تو کون سا اصول سب سے اہم ہے؟",
-      "options": [
-        "Align care with informed patient goals",
-        "Continue every intervention automatically",
-        "Stop all communication",
-        "Ignore symptom burden"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which factor is essential for successful self-care in a patient with chronic disease?",
-      "urdu": "دائمی بیماری میں خود نگہداشت کی کامیابی کے لیے کون سا عامل ضروری ہے؟",
-      "options": [
-        "No follow-up",
-        "Dependence on staff for every task",
-        "Avoidance of education",
-        "Patient understanding and participation"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which nursing action best supports medication adherence in a long-term treatment plan?",
-      "urdu": "طویل مدتی علاج میں دوا باقاعدگی سے لینے کے لیے کون سا نرسنگ اقدام زیادہ مفید ہے؟",
-      "options": [
-        "Identify barriers and provide understandable education",
-        "Threaten the patient",
-        "Give complex instructions only",
-        "Assume nonadherence is intentional"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with hypertension stops medication because symptoms have disappeared. What is the best nursing teaching?",
-      "urdu": "بلند فشارِ خون کا مریض علامات ختم ہونے پر دوا بند کر دے تو نرس کی بہترین تعلیم کیا ہے؟",
-      "options": [
-        "Blood pressure never fluctuates",
-        "Medication is needed only when headache occurs",
-        "Hypertension may remain asymptomatic despite ongoing risk",
-        "Treatment is unnecessary without symptoms"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which care approach is most appropriate for a patient with a terminal illness who wishes to remain comfortable?",
-      "urdu": "آخری درجے کی بیماری والے مریض کے لیے جو آرام چاہتا ہو، کون سا نگہداشت کا طریقہ زیادہ مناسب ہے؟",
-      "options": [
-        "Symptom-focused palliative care",
-        "Curative treatment regardless of goals",
-        "No nursing intervention",
-        "Routine investigations without purpose"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient with chronic pain reports poor sleep and reduced activity. The nurse should understand that:",
-      "urdu": "دائمی درد والا مریض کم نیند اور کم سرگرمی کی شکایت کرے تو نرس کو کیا سمجھنا چاہیے؟",
-      "options": [
-        "Pain affects only sensation",
-        "Pain can affect multiple dimensions of health",
-        "Sleep has no relation to pain",
-        "Activity should always be stopped"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which finding most strongly suggests infection rather than uncomplicated inflammation?",
-      "urdu": "کون سی علامت عام سوزش کے بجائے انفیکشن کی زیادہ مضبوط نشاندہی کرتی ہے؟",
-      "options": [
-        "Fever with purulent drainage",
-        "Mild redness after minor trauma",
-        "Temporary swelling",
-        "Local tenderness alone"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The most important nursing goal for a patient receiving palliative care is to:",
-      "urdu": "آرام پر مبنی نگہداشت حاصل کرنے والے مریض کے لیے نرسنگ کا سب سے اہم مقصد کیا ہے؟",
-      "options": [
-        "Prolong suffering",
-        "Cure every disease",
-        "Perform unnecessary investigations",
-        "Maximize comfort and quality of life"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which condition commonly requires rehabilitation rather than an expectation of immediate cure?",
-      "urdu": "کون سی حالت فوری مکمل علاج کے بجائے بحالی کی ضرورت عام طور پر پیدا کرتی ہے؟",
-      "options": [
-        "Stroke-related disability",
-        "Simple superficial wound",
-        "Mild seasonal allergy",
-        "Uncomplicated viral sore throat"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patient after stroke has difficulty swallowing. Which nursing priority is most appropriate?",
-      "urdu": "فالج کے بعد مریض کو نگلنے میں دشواری ہو تو نرس کی سب سے اہم ترجیح کیا ہے؟",
-      "options": [
-        "Prevent aspiration",
-        "Encourage rapid eating",
-        "Give large amounts of fluid",
-        "Feed while lying flat"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which clinical feature is strongly associated with iron-deficiency anemia?",
-      "urdu": "فولاد کی کمی سے ہونے والی خون کی کمی سے کون سی علامت زیادہ مضبوطی سے منسلک ہے؟",
-      "options": [
+        "Increased mean corpuscular volume",
+        "Macrocytic red cells",
         "Microcytic hypochromic red cells",
-        "Macrocytic red cells in every case",
-        "Increased hemoglobin",
-        "Polycythemia"
+        "Increased platelet destruction"
       ],
-      "correct": 0,
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which action is essential when administering a medication through an intravenous line?",
+      "urdu": "نس کے ذریعے دوا دیتے وقت کون سی کارروائی ضروری ہے؟",
+      "options": [
+        "Administer without checking compatibility",
+        "Verify the medication, patient, dose, route, and relevant safety checks",
+        "Mix every medication with the same solution",
+        "Skip assessment if the patient is stable"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which assessment finding is most consistent with hypovolemic shock?",
+      "urdu": "خون یا جسمانی سیال کی کمی سے پیدا ہونے والے صدمے میں کون سی علامت زیادہ متوقع ہے؟",
+      "options": [
+        "Bradycardia with warm skin",
+        "Tachycardia with weak peripheral pulses",
+        "Hypertension with bounding pulses",
+        "Slow respiratory rate"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing action best reduces aspiration risk in a patient with impaired swallowing?",
+      "urdu": "نگلنے میں دشواری والے مریض میں خوراک سانس کی نالی میں جانے کے خطرے کو کم کرنے کے لیے کون سی کارروائی زیادہ مؤثر ہے؟",
+      "options": [
+        "Feed rapidly",
+        "Keep the patient completely flat",
+        "Offer large mouthfuls",
+        "Maintain an upright position during feeding"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is most concerning in a patient with a head injury?",
+      "urdu": "سر کی چوٹ والے مریض میں کون سی علامت سب سے زیادہ تشویش ناک ہے؟",
+      "options": [
+        "Mild thirst",
+        "Stable appetite",
+        "Progressive decline in level of consciousness",
+        "Mild localized bruising"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing intervention is appropriate for a patient with chronic obstructive pulmonary disease who becomes breathless?",
+      "urdu": "پھیپھڑوں کی دائمی رکاوٹی بیماری کے مریض کو سانس زیادہ چڑھنے پر کون سی نرسنگ مداخلت مناسب ہے؟",
+      "options": [
+        "Withhold prescribed oxygen automatically",
+        "Force rapid deep breaths continuously",
+        "Place the patient flat",
+        "Encourage pursed-lip breathing"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A patient taking warfarin requires monitoring primarily through which laboratory test?",
+      "urdu": "وارفرین استعمال کرنے والے مریض کی نگرانی بنیادی طور پر کس تجربہ گاہی جانچ سے کی جاتی ہے؟",
+      "options": [
+        "Activated partial thromboplastin time",
+        "Prothrombin time and international normalized ratio",
+        "Serum amylase",
+        "Serum bilirubin only"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which electrolyte abnormality poses a particularly high risk for cardiac dysrhythmias?",
+      "urdu": "کون سی نمکیاتی خرابی دل کی بے قاعدہ دھڑکن کے زیادہ خطرے سے وابستہ ہے؟",
+      "options": [
+        "Mild hypernatremia",
+        "Mild hypercalcemia",
+        "Mild hypermagnesemia",
+        "Significant potassium abnormality"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which pulse characteristic should the nurse assess in a patient with suspected peripheral arterial disease?",
+      "urdu": "شریانوں کی پردیی بیماری کے شبہ میں نرس کو نبض کی کون سی خصوصیت کا جائزہ لینا چاہیے؟",
+      "options": [
+        "Hearing acuity",
+        "Bowel frequency",
+        "Pupil size",
+        "Peripheral pulse strength"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which intervention is most appropriate for preventing postoperative atelectasis?",
+      "urdu": "آپریشن کے بعد پھیپھڑے کے ایک حصے کے بیٹھ جانے سے بچنے کے لیے کون سی مداخلت زیادہ مناسب ہے؟",
+      "options": [
+        "Prolonged bed rest",
+        "Restricting coughing",
+        "Incentive spirometry and deep breathing",
+        "Keeping the patient sedated"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A patient receiving a blood transfusion develops fever and chills. What should the nurse do first?",
+      "urdu": "خون کی منتقلی کے دوران مریض کو بخار اور کپکپی ہو جائے تو نرس کو سب سے پہلے کیا کرنا چاہیے؟",
+      "options": [
+        "Increase the transfusion rate",
+        "Stop the transfusion",
+        "Give another unit immediately",
+        "Encourage oral fluids only"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which sign is most characteristic of dehydration in an adult?",
+      "urdu": "بالغ میں جسمانی پانی کی کمی کی زیادہ نمایاں علامت کون سی ہے؟",
+      "options": [
+        "Moist mucous membranes",
+        "Concentrated urine and orthostatic dizziness",
+        "Generalized edema",
+        "Bounding pulse"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which precaution is most appropriate for a patient with suspected pulmonary tuberculosis?",
+      "urdu": "پھیپھڑوں کے مشتبہ تپِ دق کے مریض کے لیے کون سی احتیاط زیادہ مناسب ہے؟",
+      "options": [
+        "Contact precautions only",
+        "Standard precautions only",
+        "Droplet precautions only",
+        "Airborne precautions"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which action is most important before inserting an indwelling urinary catheter?",
+      "urdu": "مستقل پیشابی نلکی داخل کرنے سے پہلے کون سی کارروائی سب سے اہم ہے؟",
+      "options": [
+        "Give the patient a large meal",
+        "Confirm indication and use aseptic technique",
+        "Apply talcum powder",
+        "Clamp the drainage tubing"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which clinical finding is most typical of an acute asthma exacerbation?",
+      "urdu": "دمے کے شدید دورے میں کون سی طبی علامت زیادہ عام ہے؟",
+      "options": [
+        "Inspiratory stridor only",
+        "Wheezing with expiratory difficulty",
+        "Massive peripheral edema",
+        "Severe jaundice"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which dietary modification is generally appropriate for a patient with hypertension?",
+      "urdu": "بلند فشارِ خون والے مریض کے لیے کون سی غذائی تبدیلی عموماً مناسب ہے؟",
+      "options": [
+        "Increase processed foods",
+        "Increase sodium intake",
+        "Reduce excessive sodium intake",
+        "Eliminate all carbohydrates"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding should the nurse recognize as a possible manifestation of increased intracranial pressure?",
+      "urdu": "نرس کو دماغ کے اندر دباؤ بڑھنے کی ممکنہ علامت کے طور پر کون سی کیفیت پہچاننی چاہیے؟",
+      "options": [
+        "Warm dry skin",
+        "Increased appetite",
+        "Persistent vomiting with decreasing consciousness",
+        "Increased bowel sounds"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A patient with chronic kidney disease has a rising serum creatinine level. What does this most directly suggest?",
+      "urdu": "گردوں کی دائمی بیماری والے مریض میں خون میں کریاٹینین بڑھ رہا ہے۔ یہ براہِ راست کس چیز کی نشاندہی کرتا ہے؟",
+      "options": [
+        "Improved renal filtration",
+        "Reduced renal filtration",
+        "Increased lung capacity",
+        "Improved glucose utilization"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing action is appropriate for a patient receiving enteral feeding through a tube?",
+      "urdu": "نلکی کے ذریعے غذائیت حاصل کرنے والے مریض کے لیے کون سی نرسنگ کارروائی مناسب ہے؟",
+      "options": [
+        "Ignore tube position",
+        "Place the patient flat throughout feeding",
+        "Keep the head of bed elevated as appropriate",
+        "Give all feeds rapidly"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A patient with heart failure suddenly gains 2 kg in a few days. What is the most likely explanation?",
+      "urdu": "دل کی ناکامی والے مریض کا چند دنوں میں وزن دو کلو بڑھ جائے تو اس کی سب سے ممکنہ وجہ کیا ہے؟",
+      "options": [
+        "Increased muscle mass",
+        "Fluid retention",
+        "Improved cardiac output",
+        "Reduced body water"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is characteristic of nephrotic syndrome?",
+      "urdu": "گردوں کے نفروٹک سنڈروم کی نمایاں خصوصیت کون سی ہے؟",
+      "options": [
+        "Severe proteinuria with edema",
+        "Persistent hyperventilation",
+        "Marked leukocytosis only",
+        "Dry skin without edema"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing assessment is the priority after administering an opioid analgesic?",
+      "urdu": "درد کم کرنے والی افیونی دوا دینے کے بعد نرس کے لیے کون سا جائزہ ترجیحی ہے؟",
+      "options": [
+        "Appetite only",
+        "Hair texture",
+        "Respiratory rate and level of consciousness",
+        "Skin pigmentation"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is most suggestive of hypokalemia?",
+      "urdu": "خون میں پوٹاشیم کی کمی کی زیادہ مضبوط علامت کون سی ہے؟",
+      "options": [
+        "Severe jaundice",
+        "Muscle weakness and cardiac rhythm changes",
+        "Increased bowel sounds only",
+        "Facial flushing"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is most characteristic of appendicitis?",
+      "urdu": "اپینڈکس کی سوزش میں کون سی علامت زیادہ نمایاں ہوتی ہے؟",
+      "options": [
+        "Right lower abdominal pain with associated gastrointestinal symptoms",
+        "Painless generalized edema",
+        "Bilateral hearing loss",
+        "Productive cough with hemoptysis"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing intervention is appropriate for a patient with Parkinson disease who has difficulty walking?",
+      "urdu": "پارکنسن کی بیماری والے مریض کو چلنے میں دشواری ہو تو کون سی نرسنگ مداخلت مناسب ہے؟",
+      "options": [
+        "Encourage safe mobility and fall prevention",
+        "Keep the patient permanently in bed",
+        "Remove assistive devices",
+        "Encourage rapid unsupervised walking"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which laboratory finding is expected in vitamin B12 deficiency?",
+      "urdu": "وٹامن ب بارہ کی کمی میں کون سا تجربہ گاہی نتیجہ متوقع ہے؟",
+      "options": [
+        "Microcytic anemia",
+        "Megaloblastic anemia",
+        "Severe thrombocytosis",
+        "Increased red-cell concentration"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing measure is particularly important for a patient receiving chemotherapy?",
+      "urdu": "کیمیائی سرطان شکن علاج حاصل کرنے والے مریض کے لیے کون سا نرسنگ اقدام خاص طور پر اہم ہے؟",
+      "options": [
+        "Stop all prescribed medications",
+        "Encourage exposure to infectious contacts",
+        "Ignore oral mucosal changes",
+        "Monitor for infection and treatment-related adverse effects"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding most strongly indicates effective fluid resuscitation in a patient with hypovolemia?",
+      "urdu": "جسمانی سیال کی کمی والے مریض میں سیال بحالی کے مؤثر ہونے کی مضبوط علامت کون سی ہے؟",
+      "options": [
+        "Worsening confusion",
+        "Improving urine output and perfusion",
+        "Increasing tachycardia",
+        "Increasing skin mottling"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is commonly associated with hyperthyroidism?",
+      "urdu": "تھائرائڈ ہارمون کی زیادتی میں کون سی علامت عام طور پر دیکھی جاتی ہے؟",
+      "options": [
+        "Cold intolerance and bradycardia",
+        "Weight gain with lethargy",
+        "Heat intolerance and tachycardia",
+        "Severe constipation only"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which action is most appropriate when a patient refuses a prescribed treatment?",
+      "urdu": "جب مریض تجویز کردہ علاج سے انکار کرے تو کون سی کارروائی زیادہ مناسب ہے؟",
+      "options": [
+        "Force the treatment",
+        "Explore the reason, provide information, and respect informed choice",
+        "Threaten the patient",
+        "Ignore the refusal"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is most concerning in a patient receiving insulin?",
+      "urdu": "انسولین لینے والے مریض میں کون سی علامت سب سے زیادہ تشویش ناک ہے؟",
+      "options": [
+        "Mild hunger before meals",
+        "Sweating and altered consciousness",
+        "Stable blood glucose",
+        "Normal appetite"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which position is generally preferred for a patient after a lumbar puncture?",
+      "urdu": "ریڑھ کی ہڈی سے سیال لینے کے طریقے کے بعد مریض کے لیے عموماً کون سی حالت مناسب ہے؟",
+      "options": [
+        "Continuous Trendelenburg position",
+        "Immediate vigorous ambulation",
+        "Prolonged standing",
+        "As directed by current institutional protocol, with monitoring for complications"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is most suggestive of deep-vein thrombosis?",
+      "urdu": "گہری ورید میں خون کے لوتھڑے کی زیادہ مضبوط علامت کون سی ہے؟",
+      "options": [
+        "Unilateral leg swelling and tenderness",
+        "Bilateral equal pulses only",
+        "Generalized itching",
+        "Increased bowel sounds"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing intervention is appropriate for a patient with a newly created colostomy?",
+      "urdu": "نئی بنائی گئی بڑی آنت کی مصنوعی راہ والے مریض کے لیے کون سی نرسنگ مداخلت مناسب ہے؟",
+      "options": [
+        "Ignore the stoma output",
+        "Apply harsh antiseptic routinely",
+        "Assess stoma color and surrounding skin",
+        "Keep the appliance excessively tight"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which symptom is most characteristic of hypoglycemia?",
+      "urdu": "خون میں شکر کی کمی کی نمایاں علامت کون سی ہے؟",
+      "options": [
+        "Persistent hypertension",
+        "Dry flushed skin only",
+        "Polyuria without other findings",
+        "Sweating and tremor"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which assessment is most important before administering digoxin?",
+      "urdu": "ڈائیگوکسن دینے سے پہلے کون سا جائزہ سب سے اہم ہے؟",
+      "options": [
+        "Apical pulse and relevant clinical parameters",
+        "Hair color",
+        "Bowel sound only",
+        "Visual acuity only"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing intervention is appropriate for a patient with diarrhea at risk of dehydration?",
+      "urdu": "اسہال کے مریض میں جسمانی پانی کی کمی کے خطرے کو کم کرنے کے لیے کون سی نرسنگ مداخلت مناسب ہے؟",
+      "options": [
+        "Encourage high-fat meals only",
+        "Restrict all oral fluids",
+        "Ignore urine output",
+        "Monitor fluid balance and replace fluids as prescribed"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which laboratory value is most directly used to assess long-term glycemic control?",
+      "urdu": "طویل مدتی خون میں شکر کے کنٹرول کا جائزہ لینے کے لیے کون سی تجربہ گاہی قدر زیادہ براہِ راست استعمال ہوتی ہے؟",
+      "options": [
+        "Serum sodium",
+        "Glycated hemoglobin",
+        "Serum calcium",
+        "White-cell count"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing action is appropriate for a patient with suspected meningitis?",
+      "urdu": "دماغی جھلیوں کی سوزش کے شبہ میں مریض کے لیے کون سی نرسنگ کارروائی مناسب ہے؟",
+      "options": [
+        "Initiate appropriate precautions and urgent clinical evaluation",
+        "Encourage unrestricted visitors before assessment",
+        "Delay neurological assessment",
+        "Give oral fluids regardless of consciousness"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which vaccine type generally contains a weakened form of the living organism?",
+      "urdu": "کون سی ویکسین کی قسم عموماً زندہ لیکن کمزور کیے گئے جرثومے پر مشتمل ہوتی ہے؟",
+      "options": [
+        "Inactivated vaccine",
+        "Live attenuated vaccine",
+        "Toxoid only",
+        "Passive antibody preparation"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which finding is most consistent with fluid overload?",
+      "urdu": "جسم میں سیال کی زیادتی کے ساتھ کون سی علامت زیادہ مطابقت رکھتی ہے؟",
+      "options": [
+        "Dry mucous membranes",
+        "Crackles, edema, and rapid weight gain",
+        "Concentrated urine only",
+        "Orthostatic hypotension alone"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which action should the nurse take first when a patient suddenly develops facial drooping and slurred speech?",
+      "urdu": "جب مریض میں اچانک چہرہ ٹیڑھا ہونا اور بولنے میں دقت پیدا ہو تو نرس کو سب سے پہلے کیا کرنا چاہیے؟",
+      "options": [
+        "Give oral food",
+        "Recognize possible stroke and activate urgent evaluation",
+        "Encourage sleep",
+        "Delay assessment until the next round"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which nursing action is most appropriate when collecting a sterile specimen?",
+      "urdu": "جراثیم سے پاک نمونہ حاصل کرتے وقت کون سی نرسنگ کارروائی زیادہ مناسب ہے؟",
+      "options": [
+        "Leave the container open",
+        "Touch the inside of the container",
+        "Use appropriate aseptic technique",
+        "Transfer the sample unnecessarily"
+      ],
+      "correct": 2,
       "explanation": "",
       "category": "all"
     }
