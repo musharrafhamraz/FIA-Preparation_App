@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-23T12:29:02.320376",
+    "fetched_at": "2026-09-23T17:39:03.735463",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who is the current & first secretary general of the Makkah Defence Alliance?",
+      "urdu": "مکہ ڈیفنس الائنس کے موجودہ اور پہلے سیکرٹری جنرل کون ہیں؟",
+      "options": [
+        "Syed Asim Munir",
+        "Faiz Hameed",
+        "Nauman Mahmood",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">Retired Lieutenant General </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Nauman Mahmood </font><font color=\"#0000ff\">had been\r\nappointed as the</font><font color=\"#ff0000\"> first secretary general </font><font color=\"#0000ff\">of the </font>Makkah Defence Alliance<font color=\"#0000ff\"> in September\r\n2026.<o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In September 2026, United Nations Security Council (UNSC) condemned which terrorist attack?",
+      "urdu": "ستمبر 2026 میں اقوام متحدہ کی سلامتی کونسل (یو این ایس سی) نے کس دہشت گردانہ حملے کی مذمت کی؟",
+      "options": [
+        "Karachi suicide blast",
+        "Kobat suicide blast",
+        "Quetta suicide blast",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p \"helvetica=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; padding: 0px;\"><font color=\"#0000ff\" style=\"\"><span style=\"font-size: 14px;\"><b>The United Nations Security Council (UNSC) condemned terrorist attack in Khyber Pakhtunkhwa’s Kohat district.</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In September 2026, at least eight drones entered Pakistan airspace from which country?",
+      "urdu": "ستمبر 2026 میں، کم از کم آٹھ ڈرونز کس ملک سے پاکستان کی فضائی حدود میں داخل ہوئے؟",
+      "options": [
+        "Iran",
+        "India",
+        "Afghanistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Pakistan's</font><font color=\"#ff0000\"> air-defence system</font><font color=\"#0000ff\"> shot down </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">eight </font><font color=\"#0000ff\">drones after they crossed the border from </font>Afghanistan <font color=\"#0000ff\">on </font><font color=\"#ff00ff\">September 23, 2026.<o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many drones were shot down by Pakistan's air-defence system on September 23, 2026?",
+      "urdu": "تیہس ستمبر 2026 کو پاکستان کے فضائی دفاعی نظام نے کتنے ڈرونز مار گرائے؟",
+      "options": [
+        "6",
+        "8",
+        "4",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">Pakistan's</font><font color=\"#ff0000\"> air-defence system</font><font color=\"#0000ff\"> shot down </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">eight </font><font color=\"#0000ff\">drones\r\nafter they crossed the border from </font>Afghanistan <font color=\"#0000ff\">on </font><font color=\"#ff00ff\">September 23, 2026.<o:p></o:p></font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which country celebrated its 204th independence day on 7 September 2026?",
       "urdu": "سات ستمبر 2026 کو کس ملک نے اپنا 204 واں یوم آزادی منایا؟",
@@ -603,58 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#0000ff\">For successive percentage increases you use:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What comes next in the following pattern? 2, 3 → 13 4, 1 → 17 3, 4 → ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "25",
-        "30",
-        "35",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">2² + 3² = 13</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person moves 15 km north, then turns left and moves 10 km, and then turns left and moves 15 km. In which direction is the person from the starting point?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "East",
-        "West",
-        "North",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 2.5% Zakat on an amount of Rs. 100,000?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 2,000",
-        "Rs. 2,500",
-        "Rs. 3,000",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">2.5% Zakat on Rs. 100,000 is Rs. 2,500. Am</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The sum of the ages of a father and his daughter is 50 years. If the father's age is 5 times the daughter's age, what are their current ages?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Father: 41.67 years, Daughter: 8.33 years",
-        "Father: 42.67 years, Daughter: 9.33 years",
-        "Father: 43.67 years, Daughter: 10.33 years",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let daughter age = x</font></b></p>",
       "category": "all"
     }
   ]
