@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-24T12:28:19.975698",
+    "fetched_at": "2026-09-24T17:42:23.780479",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who is the Current President of Azad Jammu and Kashmir (AJK)?",
+      "urdu": "آزاد جموں و کشمیر (اے جے کے) کا موجودہ صدر کون ہے؟",
+      "options": [
+        "Sardar Masood Khan",
+        "Muhammad Najeeb Naqi Khan",
+        "Barrister Sultan Mahmood",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">Dr </font><font color=\"#ff0000\">Muhammad Najeeb Naqi Khan</font><font color=\"#0000ff\"> is the current &amp; 23 president of </font><font color=\"#0000ff\">Azad Jammu and Kashmir (</font>AJK<font color=\"#0000ff\">) since</font><font color=\"#0000ff\"> on 24\r\nSeptember 2026.</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "When is World Pharmacists Day celebrated?",
       "urdu": "فارماسسٹ کا عالمی دن کب منایا جاتا ہے؟",
@@ -642,19 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">International Day of Sign Languages</font><font color=\"#0000ff\"> is celebrated on </font><font color=\"#ff0000\">23 September</font><font color=\"#0000ff\"> to raise awareness about importance of sign languages. </font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "International Day of Sign Languages is celebrated on which date?",
-      "urdu": "اشاروں کی زبانوں کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "22 September",
-        "24 September",
-        "23 September",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">International Day of Sign Languages</font><font color=\"#0000ff\"> is celebrated on </font><font color=\"#ff0000\">23 September</font><font color=\"#0000ff\"> to raise awareness about importance of sign languages. </font></span></p>",
       "category": "all"
     }
   ]
