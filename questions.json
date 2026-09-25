@@ -1,661 +1,76 @@
 {
   "meta": {
-    "count": 50,
+    "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-25T17:43:44.049273",
+    "fetched_at": "2026-09-25T21:53:20.900794",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Who won the 2026 US Open men's singles title?",
-      "urdu": "دو ہزار چھبیس کا یو ایس اوپن مردوں کا سنگلز ٹائٹل کس نے جیتا؟",
+      "q": "What does CPU stand for?",
+      "urdu": "",
       "options": [
-        "Alexander Zverev",
-        "Novak Djokovic",
-        "Carlos Alcaraz",
-        "None of these"
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Program Utility",
+        "Computer Processing Unit"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>CPU</strong> stands for <strong>Central Processing Unit</strong>. It is the brain of the computer that performs all calculations and operations.</p>",
+      "category": "computer"
     },
     {
-      "q": "The 2026 US Open tennis was held in which city?",
-      "urdu": "دو ہزار چھبیس کا یو ایس اوپن ٹینس ٹورنامنٹ کس شہر میں منعقد ہوا؟",
+      "q": "What is the largest ocean on Earth?",
+      "urdu": "",
       "options": [
-        "Los Angeles",
-        "New York",
-        "Washington",
-        "None of these"
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean",
+        "Pacific Ocean"
       ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
+      "correct": 3,
+      "explanation": "<p>The <strong>Pacific Ocean</strong> is the largest ocean on Earth, covering more than 63 million square miles.</p>",
+      "category": "general-knowledge"
     },
     {
-      "q": "Who won the 2026 US Open women's singles title?",
-      "urdu": "دو ہزار چھبیس کا یو ایس اوپن ویمنز سنگلز ٹائٹل کس نے جیتا؟",
+      "q": "What is the capital of Pakistan?",
+      "urdu": "پاکستان کا دارالحکومت کیا ہے؟",
       "options": [
-        "Aryna Sabalenka",
-        "Elena Rybakina",
-        "Coco Gauff",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 US Open men's doubles title?",
-      "urdu": "دو ہزار چھبیس  کا یو ایس اوپن مردوں کا ڈبلز ٹائٹل کس نے جیتا؟",
-      "options": [
-        "Christian Harrison and Neal Skupski",
-        "Belinda Bencic and Flavio Cobolli",
-        "Taylor Townsend and Neal Skupski",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 US Open women's doubles title?",
-      "urdu": "دو ہزار چھبیس  کا یو ایس اوپن ویمنز ڈبلز ٹائٹل کس نے جیتا؟",
-      "options": [
-        "Coco Gauff and Jessica Pegula",
-        "Taylor Townsend and Katerina Siniakova",
-        "Aryna Sabalenka and Elena Rybakina",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which countries are parties to the agreement announced in September 2026 concerning Greenland's security?",
-      "urdu": "گرین لینڈ کی سیکیورٹی کے حوالے سے ستمبر 2026 میں اعلان کردہ معاہدے میں کون سے ممالک فریق ہیں؟",
-      "options": [
-        "USA, Canada & Greenland",
-        "USA, Denmark & Greenland",
-        "USA, Norway & Greenland",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Greenland</font><font color=\"#0000ff\"> security agreement was signed by the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United States, Denmark, and Greenland.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the theme of International Day of Peace celebrated on 21 Sep 2026?",
-      "urdu": "اکیس ستمبر 2026 کو منائے جانے والے امن کے عالمی دن کی تھیم کیا ہے؟",
-      "options": [
-        "End Racism, Build Peace",
-        "Cultivating a Culture of Peace",
-        "Invest in Peace",
-        "None of these"
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "Peshawar"
       ],
       "correct": 2,
-      "explanation": "<p style=\"margin-left: 25px;\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0); font-family: Helvetica;\">International Day of Peace</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); font-family: Helvetica;\"> (or World Peace Day), celebrated  on</span><span style=\"font-weight: bolder; color: rgb(255, 0, 0); font-family: Helvetica;\"> September 21st</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); font-family: Helvetica;\"> each year,</span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Islamabad</strong> is the capital city of Pakistan. It was built in the 1960s to replace Karachi as the capital.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "When is International Peace Day celebrated?",
-      "urdu": "امن کا عالمی دن کب منایا جاتا ہے؟",
+      "q": "Who is known as the Father of the Nation in Pakistan?",
+      "urdu": "پاکستان میں قوم کے باپ کے طور پر کون جانا جاتا ہے؟",
       "options": [
-        "21 April",
-        "20 March",
-        "21 September",
-        "None of these"
+        "Allama Iqbal",
+        "Liaquat Ali Khan",
+        "Quaid-e-Azam Muhammad Ali Jinnah",
+        "Sir Syed Ahmed Khan"
       ],
       "correct": 2,
-      "explanation": "<p style=\"margin-left: 25px;\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255); background-color: rgb(255, 255, 0); font-family: Helvetica;\">International Day of Peace</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); font-family: Helvetica;\"> (or World Peace Day), celebrated  on</span><span style=\"font-weight: bolder; color: rgb(255, 0, 0); font-family: Helvetica;\"> September 21st</span><span style=\"font-weight: bolder; color: rgb(0, 0, 255); font-family: Helvetica;\"> each year,</span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
+      "category": "pak-study"
     },
     {
-      "q": "When is World Alzheimer Day observed?",
-      "urdu": "عالمی یوم الزائمر کب منایا جاتا ہے؟",
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
       "options": [
-        "September 20",
-        "September 19",
-        "September 21",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the theme of World Alzheimer Day 2026?",
-      "urdu": "عالمی یوم الزائمر 2026 کا تھیم کیا ہے؟",
-      "options": [
-        "Change the journey, moving fear to hope after dementia diagnosis",
-        "The Earlier You Know, The More You Can Do",
-        "Ask About Dementia, Ask about Alzheimer's",
-        "None of these"
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
       ],
       "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Where was the 2026 Greenland security agreement was signed by the United States, Denmark, and Greenland?",
-      "urdu": "امریکہ، ڈنمارک اور گرین لینڈ کے درمیان 2026 کا سیکیورٹی معاہدہ کہاں دستخط کیا گیا تھا؟",
-      "options": [
-        "Washington, D.C.",
-        "New York",
-        "Copenhagen",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Greenland</font><font color=\"#0000ff\"> security agreement was signed by the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United States, Denmark, and Greenland.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 2026 Greenland security agreement was signed by which three parties?",
-      "urdu": "دو ہزار چھبیس کے گرین لینڈ سیکیورٹی معاہدے پر کن تین فریقین نے دستخط کیے؟",
-      "options": [
-        "USA, Iceland and Denmark",
-        "USA, Denmark and Greenland",
-        "UK, Denmark and Greenland",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Greenland</font><font color=\"#0000ff\"> security agreement was signed by the\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United States, Denmark, and Greenland.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many total sports are included in the 2026 Asian Games 2026 hosted by Japan?",
-      "urdu": "جاپان کی میزبانی میں ہونے والے 2026 کے ایشیائی کھیلوں میں کل کتنے کھیل شامل ہیں؟",
-      "options": [
-        "40",
-        "43",
-        "46",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Asian Games </span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\"><span style=\"background-color: rgb(255, 255, 0);\">2026</span><o:p></o:p></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which edition of Asian Games to be held in 2026?",
-      "urdu": "ایشین گیمز کا کون سا ایڈیشن سال 2026 میں ہونا ہے؟",
-      "options": [
-        "19",
-        "21",
-        "20",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Asian Games </span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\"><span style=\"background-color: rgb(255, 255, 0);\">2026</span><o:p></o:p></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country will host Asian Games 2026?",
-      "urdu": "کون سا ملک 2026 کے ایشیائی کھیلوں کی میزبانی کرے گا؟",
-      "options": [
-        "China",
-        "Japan",
-        "Qatar",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Asian Games </span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\"><span style=\"background-color: rgb(255, 255, 0);\">2026</span><o:p></o:p></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Bamboo Day is celebrated on which date?",
-      "urdu": "بانس کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "17th September",
-        "18th September",
-        "19th September",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"color: rgb(255, 0, 0);\">World Bamboo Day</b><b style=\"color: rgb(0, 0, 255);\"> was officially established </b><b style=\"color: rgb(255, 0, 0);\">on September 18 at the 8th World Bamboo Congress</b><b style=\"color: rgb(0, 0, 255);\"> held in Bangkok</b><b style=\"color: rgb(255, 0, 0);\"> in 2009 </b><b style=\"color: rgb(0, 0, 255);\">and declared by the Thai Royal Forest Department. </b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Benjamin Netanyahu is the prime minister of which country who faced walkouts by delegates during the 2026 UNGA session?",
-      "urdu": "بنجمن نیتن یاہو کس ملک کے وزیرِ اعظم ہیں جنہیں اقوام متحدہ کی جنرل اسمبلی کے اجلاس کے دوران مندوبین کی جانب سے واک آؤٹ کا سامنا کرنا پڑا؟",
-      "options": [
-        "Zimbabwe",
-        "Israel",
-        "Argentina",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On September 24, 2026, </font><font color=\"#ff0000\">Israeli prime ministe</font><font color=\"#0000ff\">r </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Benjamin Netanyahu</font><font color=\"#0000ff\"> addressed the </font><font style=\"background-color: rgb(255, 255, 0);\">81st </font><font color=\"#0000ff\">United Nations General Assembly (</font><font color=\"#ff00ff\">UNGA</font><font color=\"#0000ff\">) in </font>New York, USA.<o:p></o:p></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who addressed the 81st UN General Assembly on September 24, 2026 and faced walkouts by delegates?",
-      "urdu": "چوبیس ستمبر 2026 کو اقوام متحدہ کی 81 ویں جنرل اسمبلی سے کس نے خطاب کیا اور مندوبین کی جانب سے واک آؤٹ کا سامنا کیا؟",
-      "options": [
-        "Benjamin Netanyahu",
-        "Emmanuel Macron",
-        "Xi Jinping",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">On September 24, 2026, </font><font color=\"#ff0000\">Israeli prime ministe</font><font color=\"#0000ff\">r </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Benjamin Netanyahu</font><font color=\"#0000ff\">\r\naddressed the </font><font style=\"background-color: rgb(255, 255, 0);\">81st </font><font color=\"#0000ff\">United Nations General Assembly (</font><font color=\"#ff00ff\">UNGA</font><font color=\"#0000ff\">) in </font>New York, USA.<o:p></o:p></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current president of Argentina___________?",
-      "urdu": "ارجنٹائن کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Mauricio Macri",
-        "Alberto Fernandez",
-        "Javier Milei",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">Javier Milei</font><font color=\"#0000ff\"> is the current president of Argentina</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Chinese President Xi Jinping made an official visit to the US in September 2026 after gap of how many years?",
-      "urdu": "چینی صدر شی جن پنگ نے کتنے سالوں کے وقفے کے بعد ستمبر 2026 میں امریکہ کا سرکاری دورہ کیا؟",
-      "options": [
-        "8 years",
-        "11 years",
-        "15 years",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff00ff\">US </font><font color=\"#0000ff\">President </font><font color=\"#ff0000\">Donald Trump</font><font color=\"#0000ff\"> and </font>Chinese <font color=\"#0000ff\">President </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Xi Jinping</font><font color=\"#0000ff\"> held a major summit in </font>Washington<font color=\"#0000ff\">, D.C., in 2026.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which two leaders held a major summit in Washington in September 2026?",
-      "urdu": "کن دو رہنماؤں نے ستمبر 2026 میں واشنگٹن میں ایک اہم سربراہی اجلاس منعقد کیا؟",
-      "options": [
-        "Donald Trump and Vladimir Putin",
-        "Donald Trump and Xi Jinping",
-        "Xi Jinping and Emmanuel Macron",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff00ff\">US </font><font color=\"#0000ff\">President </font><font color=\"#ff0000\">Donald Trump</font><font color=\"#0000ff\"> and </font>Chinese <font color=\"#0000ff\">President </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Xi\r\nJinping</font><font color=\"#0000ff\"> held a major summit in </font>Washington<font color=\"#0000ff\">, D.C., in 2026.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 81st session of the United Nations General Assembly is being held in 2026 in which city?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی کا 81 واں اجلاس 2026 میں کس شہر میں منعقد ہو رہا ہے؟",
-      "options": [
-        "Geneva",
-        "New York",
-        "Washington, D.C",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is World Pharmacists Day celebrated?",
-      "urdu": "فارماسسٹ کا عالمی دن کب منایا جاتا ہے؟",
-      "options": [
-        "September 5",
-        "September 15",
-        "September 25",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">World Pharmacists Day </font><font color=\"#0000ff\">is annually celebrated on </font><font color=\"#ff0000\">September 25</font><font color=\"#0000ff\"> annually.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan conducted precision aerial and drone strikes in 10 locations in which country in September 2026?",
-      "urdu": "پاکستان نے ستمبر 2026 میں کس ملک کے 10 مقامات پر درستگی کے ساتھ فضائی اور ڈرون حملے کیے؟",
-      "options": [
-        "Iran",
-        "India",
-        "Afghanistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On </font><font color=\"#ff0000\">24 September 2026</font><font color=\"#0000ff\">, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Pakistan </font><font color=\"#0000ff\">conducted precision aerial and drone strikes in </font>10 locations <font color=\"#0000ff\">across </font><span style=\"background-color: rgb(255, 255, 0);\">Afghanistan </span><font color=\"#0000ff\">in retaliation for drones launched from Afghan.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "On which date did Pakistan announce the latest strikes at 10 locations in Afghanistan?",
-      "urdu": "پاکستان نے افغانستان میں 10 مقامات پر تازہ ترین حملوں کا اعلان کس تاریخ کو کیا؟",
-      "options": [
-        "September 24, 2026",
-        "September 20, 2026",
-        "September 21, 2026",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On </font><font color=\"#ff0000\">24 September 2026</font><font color=\"#0000ff\">, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Pakistan </font><font color=\"#0000ff\">conducted precision aerial and drone strikes in </font>10 locations <font color=\"#0000ff\">across </font><span style=\"background-color: rgb(255, 255, 0);\">Afghanistan </span><font color=\"#0000ff\">in retaliation for drones launched from Afghan.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan conducted strikes at how many locations in Afghanistan on 24 September 2026?",
-      "urdu": "پاکستان نے 24 ستمبر 2026 کو افغانستان میں کتنے مقامات پر حملے کیے؟",
-      "options": [
-        "8",
-        "10",
-        "6",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">On </font><font color=\"#ff0000\">24 September 2026</font><font color=\"#0000ff\">, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Pakistan </font><font color=\"#0000ff\">conducted precision aerial\r\nand drone strikes in </font>10 locations <font color=\"#0000ff\">across </font><span style=\"background-color: rgb(255, 255, 0);\">Afghanistan </span><font color=\"#0000ff\">in retaliation for drones\r\nlaunched from Afghan. <o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current President of Azad Jammu and Kashmir (AJK)?",
-      "urdu": "آزاد جموں و کشمیر (اے جے کے) کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Sardar Masood Khan",
-        "Muhammad Najeeb Naqi Khan",
-        "Barrister Sultan Mahmood",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">Dr </font><font color=\"#ff0000\">Muhammad Najeeb Naqi Khan</font><font color=\"#0000ff\"> is the current &amp; 23 president of </font><font color=\"#0000ff\">Azad Jammu and Kashmir (</font>AJK<font color=\"#0000ff\">) since</font><font color=\"#0000ff\"> on 24\r\nSeptember 2026.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The UN will Celebrate its 81st Anniversary in which year?",
-      "urdu": "اقوامِ متحدہ اپنی 81 ویں سالگرہ کس سال منائے گی؟",
-      "options": [
-        "2025",
-        "2026",
-        "2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The United Nations (UN) will celebrate its</font><font color=\"#ff0000\"> 81st anniversary in 2026.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is Pakistan’s overall gender-parity score in 2026?",
-      "urdu": "دو ہزار چھبیس میں پاکستان کا صنفی مساوات کا مجموعی اسکور کیا ہے؟",
-      "options": [
-        "52.5 per cent",
-        "59.5 per cent",
-        "54.5 per cent",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><b style=\"font-weight: bold;\"><font color=\"#0000ff\">About </font>Global Gender Gap Report 2026<font color=\"#0000ff\"><o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Maritime Day is celebrated on last Thursday of September. In 2026, it was celebrated on which date?",
-      "urdu": "عالمی یومِ بحری جہاز رانی ستمبر کے آخری جمعرات کو منایا جاتا ہے۔ 2026 میں یہ کس تاریخ کو منایا گیا؟",
-      "options": [
-        "24 September",
-        "25 September",
-        "26 September",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">World Maritime Day is celebrated on<span style=\"background-color: rgb(255, 255, 0);\"> last Thursday </span>of <span style=\"background-color: rgb(255, 255, 0);\">September</span>. </span><font color=\"#0000ff\"><span style=\"font-weight: bolder;\"><br/></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who published the Global Gender Gap Report in 2026?",
-      "urdu": "دو ہزار چھبیس میں ’گلوبل جینڈر گیپ رپورٹ‘ کس نے شائع کی؟",
-      "options": [
-        "United Nations",
-        "World Bank",
-        "World Economic Forum",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font>Global Gender Gap Report 2026<font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which edition of Global Gender Gap Report has been released in 2026?",
-      "urdu": "دو ہزار چھبیس میں 'گلوبل جینڈر گیپ رپورٹ' کا کون سا ایڈیشن جاری کیا گیا ہے؟",
-      "options": [
-        "19th",
-        "20th",
-        "21st",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font>Global Gender Gap Report 2026<font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many economies are covered by the Global Gender Gap Index 2026?",
-      "urdu": "گلوبل جینڈر گیپ انڈیکس 2026 میں کتنی معیشتیں شامل ہیں؟",
-      "options": [
-        "143",
-        "145",
-        "148",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font>Global Gender Gap Report 2026<font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country ranked 1st in the Global Gender Gap Index 2026?",
-      "urdu": "گلوبل جینڈر گیپ انڈیکس 2026 میں کون سا ملک پہلے نمبر پر رہا؟",
-      "options": [
-        "Norway",
-        "Iceland",
-        "Sweden",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font>Global Gender Gap Report 2026<font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was Pakistan's rank in the Global Gender Gap Index 2026?",
-      "urdu": "گلوبل جینڈر گیپ انڈیکس 2026 میں پاکستان کا درجہ کیا تھا؟",
-      "options": [
-        "143rd",
-        "142nd",
-        "141st",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">About </font>Global Gender Gap Report 2026<font color=\"#0000ff\"><o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "National Navy day is celebrated on which date?",
-      "urdu": "قومی بحریہ کا دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "September 8",
-        "September 9",
-        "September 10",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "When did the US launch Operation Economic Outcast to increase economic pressure on Iran?",
-      "urdu": "امریکہ نے ایران پر معاشی دباؤ بڑھانے کے لیے 'آپریشن اکنامک آؤٹ کاسٹ'  کب شروع کیا؟",
-      "options": [
-        "July 2026",
-        "August 2026",
-        "September 2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\" style=\"line-height: 14.98px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff00ff\">Operation Economic Outcast</font><font color=\"#0000ff\"> is a massive economic pressure campaign launched by the </font><font color=\"#ff0000\">US </font><font color=\"#0000ff\">Treasury Department against </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Iran </font><font color=\"#0000ff\">in 2026.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Giorgia Meloni has become the longest continuously serving prime minister of which country?",
-      "urdu": "جارجیا میلونی کس ملک کی مسلسل سب سے طویل عرصے تک خدمات انجام دینے والی وزیراعظم بن گئی ہیں؟",
-      "options": [
-        "Poland",
-        "Italy",
-        "Belarus",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Giorgia Meloni </font><font color=\"#0000ff\">has become the longest continuously serving prime minister of post-war </font><font color=\"#ff0000\">Italy </font><font color=\"#0000ff\">(the Italian Republic), surpassing Silvio Berlusconi's previous single-stint record by reaching 1,413 consecutive days in office in </font>September 2026.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country won the bid to host the 2027 Women's Football World Cup?",
-      "urdu": "خواتین کے فٹ بال ورلڈ کپ 2027 کی میزبانی کی بولی کس ملک نے جیتی؟",
-      "options": [
-        "France",
-        "West Indies",
-        "Brazil",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Brazil </span>has won the bid to host the </font></span><font color=\"#0000ff\" style=\"font-weight: 700;\">2027 </font><font color=\"#ff0000\" style=\"font-weight: 700;\">Women's Football World Cup</font><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organization condemned the September 2026 Kohat suicide bombing?",
-      "urdu": "کس تنظیم نے ستمبر 2026 کے کوہاٹ خودکش بم دھماکے کی مذمت کی؟",
-      "options": [
-        "BRICS",
-        "UNSC",
-        "NATO",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p \"helvetica=\"\" arial,=\"\" class=\"MsoNormal\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px;\"><font color=\"#0000ff\"><span style=\"font-weight: bolder;\">The United Nations Security Council (UNSC) condemned terrorist attack in Khyber Pakhtunkhwa’s Kohat district.</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "بحر الظلمات کسے کہتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "بحر الکاہل کو",
-        "بحر اوقیانوس کو",
-        "بحر منجمد شمالی کو",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "World Maritime Day 2026 is celebrated on which date?",
-      "urdu": "عالمی یومِ بحری جہاز رانی 2026 کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "September 22",
-        "September 24",
-        "September 29",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">World Maritime Day is celebrated on<span style=\"background-color: rgb(255, 255, 0);\"> last Thursday </span>of <span style=\"background-color: rgb(255, 255, 0);\">September</span>. </span><font color=\"#0000ff\"><b><br/></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the theme of the 81st Session of the UN General Assembly 2026?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی کے 2026 میں ہونے والے 81 ویں اجلاس کا مرکزی موضوع کیا ہے؟",
-      "options": [
-        "Peace, Development and Human Rights",
-        "Restoring Trust, Managing Transformation",
-        "The Future We Want",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What name is given to General Session of the United Nations General Assembly being held in 2026?",
-      "urdu": "سنہ 2026 میں منعقد ہونے والے اقوام متحدہ کی جنرل اسمبلی کے اجلاس کو کیا نام دیا گیا ہے؟",
-      "options": [
-        "UNGA81",
-        "UNGA80",
-        "UNGA79",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Khalilur Rahman belongs to which country who has been elected President UNGA in 2026?",
-      "urdu": "خلیل الرحمن کا تعلق کس ملک سے ہے جو 2026 میں یو این جی اے کا صدر منتخب ہوا ہے؟",
-      "options": [
-        "Pakistan",
-        "Turkiye",
-        "Bangladesh",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Bangladesh's</font><font color=\"#0000ff\"> Foreign </font><font color=\"#ff0000\">Minister Khalilur Rahman </font><font color=\"#0000ff\">has been elected president of of the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">81st </font><font color=\"#0000ff\">session of UN General Assembly after defeating </font>Andreas Kakouris of Cyprus. </span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the current president of United Nations General Assembly (UNGA)?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی کا موجودہ صدر کون ہے؟",
-      "options": [
-        "Khalilur Rahman",
-        "Dennis Francis",
-        "Annalena Baerbock",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Bangladesh's</font><font color=\"#0000ff\"> Foreign </font><font color=\"#ff0000\">Minister Khalilur Rahman </font><font color=\"#0000ff\">has been elected president of of the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">81st </font><font color=\"#0000ff\">session of UN General Assembly after defeating </font>Andreas Kakouris of Cyprus. </span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the venue of 81st session of United Nations General Assembly (UNGA) 2026?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی (یو این جی اے) کے 2026 میں ہونے والے 81ویں اجلاس کے مقام کی نشاندہی کریں۔",
-      "options": [
-        "Washington, USA",
-        "Paris, France",
-        "New York, USA",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prime Minister Shahbaz Sharif addressed which edition of United Nations General Assembly (UNGA) in 2026?",
-      "urdu": "وزیراعظم شہباز شریف نے 2026 میں اقوام متحدہ کی جنرل اسمبلی (یو این جی اے) کے کس اجلاس سے خطاب کیا؟",
-      "options": [
-        "81st Session",
-        "82nd Session",
-        "80th Session",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who represented Pakistan in the annual session of UNGA 2026?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی (یو این جی اے ) کے 2026 کے سالانہ اجلاس میں پاکستان کی نمائندگی کس نے کی؟",
-      "options": [
-        "Muhammad Ishaq Dar",
-        "Muhammad Shahbaz Sharif",
-        "Field Marshal Asim Munir",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which edition of United Nations General Assembly (UNGA) session being held in 2026?",
-      "urdu": "سن 2026 میں اقوام متحدہ کی جنرل اسمبلی (یو این جی اے) کے اجلاس کا کون سا ایڈیشن منعقد ہو رہا ہے؟",
-      "options": [
-        "80th Session",
-        "81st Session",
-        "82nd Session",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
     }
   ]
 }
