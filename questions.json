@@ -3,10 +3,75 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-25T12:29:33.853803",
+    "fetched_at": "2026-09-25T17:43:44.049273",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who won the 2026 US Open men's singles title?",
+      "urdu": "دو ہزار چھبیس کا یو ایس اوپن مردوں کا سنگلز ٹائٹل کس نے جیتا؟",
+      "options": [
+        "Alexander Zverev",
+        "Novak Djokovic",
+        "Carlos Alcaraz",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 2026 US Open tennis was held in which city?",
+      "urdu": "دو ہزار چھبیس کا یو ایس اوپن ٹینس ٹورنامنٹ کس شہر میں منعقد ہوا؟",
+      "options": [
+        "Los Angeles",
+        "New York",
+        "Washington",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who won the 2026 US Open women's singles title?",
+      "urdu": "دو ہزار چھبیس کا یو ایس اوپن ویمنز سنگلز ٹائٹل کس نے جیتا؟",
+      "options": [
+        "Aryna Sabalenka",
+        "Elena Rybakina",
+        "Coco Gauff",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who won the 2026 US Open men's doubles title?",
+      "urdu": "دو ہزار چھبیس  کا یو ایس اوپن مردوں کا ڈبلز ٹائٹل کس نے جیتا؟",
+      "options": [
+        "Christian Harrison and Neal Skupski",
+        "Belinda Bencic and Flavio Cobolli",
+        "Taylor Townsend and Neal Skupski",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who won the 2026 US Open women's doubles title?",
+      "urdu": "دو ہزار چھبیس  کا یو ایس اوپن ویمنز ڈبلز ٹائٹل کس نے جیتا؟",
+      "options": [
+        "Coco Gauff and Jessica Pegula",
+        "Taylor Townsend and Katerina Siniakova",
+        "Aryna Sabalenka and Elena Rybakina",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">About </font><font color=\"#ff0000\">The 2026 US Open</font><font color=\"#0000ff\"><o:p></o:p></font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which countries are parties to the agreement announced in September 2026 concerning Greenland's security?",
       "urdu": "گرین لینڈ کی سیکیورٹی کے حوالے سے ستمبر 2026 میں اعلان کردہ معاہدے میں کون سے ممالک فریق ہیں؟",
@@ -590,71 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">About </font><font color=\"#ff0000\">UNGA session 2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The European Day of Languages is observed on which date?",
-      "urdu": "یورپی یومِ زبانیں کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "26 September",
-        "27 September",
-        "28 September",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">European Day of Languages</font><font color=\"#0000ff\"> is celebrated annually on\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">26 September</font><font color=\"#0000ff\"> to highlight Europe's rich linguistic diversity and promote\r\nlanguage learning.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is ‘International Day for Universal Access to Information’ celebrated across the world?",
-      "urdu": "دنیا بھر میں ’معلومات تک رسائی کا عالمی دن‘ کب منایا جاتا ہے؟",
-      "options": [
-        "September 27",
-        "September 28",
-        "September 29",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255);\">United Nations Educational, Scientific and Cultural Organization (</b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">UNESCO</b><b style=\"color: rgb(0, 0, 255);\">) declared </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">28 September</b><b style=\"color: rgb(0, 0, 255);\"> as International Day for Universal Access to Information in </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">2015</b><b style=\"color: rgb(0, 0, 255);\">.</b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is the International Day for South-South Cooperation observed by United Nations?",
-      "urdu": "اقوام متحدہ کی جانب سے جنوب جنوب تعاون کا عالمی دن کب منایا جاتا ہے؟",
-      "options": [
-        "September 10",
-        "September 11",
-        "September 12",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">United Nations Day for South-South Cooperation </font><font color=\"#0000ff\">is\r\nobserved annually on</font><font color=\"#ff0000\"> 12 September.</font><font color=\"#0000ff\"><o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "World Heart Day is observed on which date?",
-      "urdu": "دل کا عالمی دن کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "September 27",
-        "September 28",
-        "September 29",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">World Heart Day </font><font color=\"#0000ff\">is celebrated globally on </font><font color=\"#ff0000\">September 29</font><font color=\"#0000ff\">\r\neach year to raise awareness about cardiovascular disease.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When is World Rabies Day observed?",
-      "urdu": "ریبیز کا عالمی دن کب منایا جاتا ہے؟",
-      "options": [
-        "September 27",
-        "September 28",
-        "September 30",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">World Rabies Day</font><font color=\"#0000ff\"> is observed on </font><font color=\"#ff0000\">September 28</font><font color=\"#0000ff\"> to raise awareness about the impact of the viral disease and how to prevent it.</font></span></p>",
       "category": "all"
     }
   ]
