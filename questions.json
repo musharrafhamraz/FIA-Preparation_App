@@ -3,10 +3,23 @@
     "count": 5,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-25T21:53:20.900794",
+    "fetched_at": "2026-09-26T05:50:40.685671",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "urdu": "",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "correct": 1,
+      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
+      "category": "general-knowledge"
+    },
     {
       "q": "What does CPU stand for?",
       "urdu": "",
@@ -58,19 +71,6 @@
       "correct": 2,
       "explanation": "<p><strong>Quaid-e-Azam Muhammad Ali Jinnah</strong> is known as the Father of the Nation. He founded Pakistan in 1947.</p>",
       "category": "pak-study"
-    },
-    {
-      "q": "Which planet is known as the Red Planet?",
-      "urdu": "",
-      "options": [
-        "Venus",
-        "Mars",
-        "Jupiter",
-        "Saturn"
-      ],
-      "correct": 1,
-      "explanation": "<p><strong>Mars</strong> is known as the Red Planet because of its reddish appearance, which is due to iron oxide (rust) on its surface.</p>",
-      "category": "general-knowledge"
     }
   ]
 }
