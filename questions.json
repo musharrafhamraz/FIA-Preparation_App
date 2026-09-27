@@ -3,10 +3,257 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-27T12:37:30.304992",
+    "fetched_at": "2026-09-27T17:23:53.689202",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "When was the Indian National Congress (INC) formed?",
+      "urdu": "انڈین نیشنل کانگریس کب قائم ہوئی؟",
+      "options": [
+        "December 28, 1888",
+        "December 28, 1885",
+        "December 28, 1886",
+        "December 28, 1880"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "42 ÷ 2 + 45 − 22 = ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "42",
+        "44",
+        "46",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\" face=\"Helvetica\"><span style=\"font-size: 16px;\"><b>First, divide: 42 ÷ 2 = 21</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which key is used to refresh all web pages?",
+      "urdu": "تمام ویب سایٹ کو فریش کرنے کے لیے کون سی کلی استعمال ہوتی ہے؟",
+      "options": [
+        "F7",
+        "F5",
+        "F6",
+        "F8"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "IP stands for ________?",
+      "urdu": "آئی پی سے کیا مراد ہے؟",
+      "options": [
+        "Internet Process",
+        "Intranet Protocol",
+        "Internet Protocol",
+        "Internal Protocol"
+      ],
+      "correct": 2,
+      "explanation": "<p data-pm-slice=\"1 1 []\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bit is the most famous basic unit in computing which stands for?",
+      "urdu": "کمپیوٹنگ میں بِٹ کس چیز کا مخفف ہے؟",
+      "options": [
+        "Binary digit",
+        "Base digit",
+        "Basic digit",
+        "Byte digit"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of Ctrl + Shift + L in MS Word?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Insert a table",
+        "Apply bullet points",
+        "Save the document",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Mother Teresa became famous because of his?",
+      "urdu": "مدر ٹریسا کس وجہ سے مشہور ہوئیں؟",
+      "options": [
+        "Selfishness",
+        "Confidence",
+        "Social welfare",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul><div><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></div><ul><li><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">Born: </font><font color=\"#ff0000\">Skopje</font></b></font></li><li><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">Died: </font><font color=\"#ff0000\">5 September 1997</font><font color=\"#0000ff\">, Kolkata, India</font></b></font></li><li><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">Age at death: </font><font color=\"#ff0000\">87 years</font></b></font></li><li><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">Burial place: </font><font color=\"#ff0000\">Mother House of the Missionaries of Charity, Kolkata</font></b></font></li></ul><p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-09-2026</b></font></p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which protocol is commonly used for sending emails?",
+      "urdu": "کون سا پروٹوکول عام طور پر ای میلز بھیجنے کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "FTP",
+        "SMTP",
+        "HTTP",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 16-02-2036</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is an obstacle to effective communication?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Noise and distractions",
+        "Clear language",
+        "Active listening",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Someone who donates his money to the society as welfare is called?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Honorary",
+        "Philanthropist",
+        "Donation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nanga Parbat is located in which range?",
+      "urdu": "نانگا پربت کس رینج میں واقع ہے؟",
+      "options": [
+        "Karakorum",
+        "Hamalayas",
+        "Kirthar",
+        "Hindu Kush"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The intersection of columns and rows in called a?",
+      "urdu": "کالم اور قطار کے ملنے کی جگہ کو کیا کہتے ہیں؟",
+      "options": [
+        "Schema",
+        "Cell",
+        "Table",
+        "Data"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 09-08-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the uncountable noun: Rain, Pencil, Ball, Chair",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rain",
+        "Pencil",
+        "Chair",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-09-2026</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Everyone could see how unhappy she was. (In the above sentence, which one is an example of Indefinite Pronoun).",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "See",
+        "How",
+        "She",
+        "Everyone"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select a possessive pronoun in the following sentence: I will show you to your room, ours is next door.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ours",
+        "Will",
+        "Your",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 27-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Zakat and Ushr Ordinance was promulgated on _____?",
+      "urdu": "زکوٰۃ و عشر آرڈیننس کب جاری کیا گیا؟",
+      "options": [
+        "29th June 1981",
+        "20th June 1980",
+        "21st August 1979",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ctrl + X Shortcut is used in Microsoft Word to ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Close Document",
+        "Cut the Selected Contents",
+        "Copy the Selected Contents",
+        "Close Word Application"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is 3% of 800,000?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "16,000",
+        "20,000",
+        "24,000",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">3% = 3/100</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Effort is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rest",
+        "Attempt",
+        "Failure",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
     {
       "q": "Non-terminating and repeating decimals are _____?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -407,253 +654,6 @@
         "Crime is a problem worldwide"
       ],
       "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the speed of the car? I. It covered 120 km. II. It took 2 hours.",
-      "urdu": "گاڑی کی رفتار کیا ہے؟ I. اس نے 120 کلومیٹر طے کیے۔ II. اسے 2 گھنٹے لگے۔",
-      "options": [
-        "I alone",
-        "Both together needed",
-        "II alone",
-        "Neither"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If RED = 27, then BLUE = ?",
-      "urdu": "اگر RED = 27 ہو تو BLUE = ؟",
-      "options": [
-        "38",
-        "39",
-        "40",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Statements: Some pens are pencils. Some pencils are erasers. Conclusions: I. Some pens are erasers. II. No pen is an eraser.",
-      "urdu": "بیانات: کچھ قلم پنسل ہیں۔ کچھ پنسلیں ربڑ ہیں۔ نتائج: I. کچھ قلم ربڑ ہیں۔ II. کوئی قلم ربڑ نہیں۔",
-      "options": [
-        "Only I",
-        "Only II",
-        "Either I or II",
-        "Neither"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "6, 11, 21, 36, 56, ?",
-      "urdu": "سیریز مکمل کریں: 6، 11، 21، 36، 56، ؟",
-      "options": [
-        "76",
-        "80",
-        "81",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Sara is 9th from the top and 16th from the bottom. How many students are in the class?",
-      "urdu": "سارہ اوپر سے 9ویں اور نیچے سے 16ویں ہے۔ کلاس میں کتنے طلبہ ہیں؟",
-      "options": [
-        "25",
-        "24",
-        "23",
-        "26"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the angle between the clock hands at 7:20?",
-      "urdu": "7:20 پر گھڑی کی سوئیوں کے درمیان زاویہ کتنا ہے؟",
-      "options": [
-        "100°",
-        "110°",
-        "90°",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If 1 January 2026 was a Thursday, what day is 1 January 2027?",
-      "urdu": "اگر یکم جنوری 2026 کو جمعرات تھی تو یکم جنوری 2027 کو کون سا دن ہوگا؟",
-      "options": [
-        "Thursday",
-        "Saturday",
-        "Sunday",
-        "Friday"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A bag has 3 red and 5 blue balls. One ball is drawn. What is the probability it is red?",
-      "urdu": "ایک تھیلے میں 3 سرخ اور 5 نیلی گیندیں ہیں۔ ایک گیند نکالی جائے تو سرخ ہونے کا امکان کیا ہے؟",
-      "options": [
-        "3/5",
-        "5/8",
-        "3/8",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Five officers A, B, C, D, E live on floors 1–5 (1 = bottom). C lives on the top floor. B lives on an even floor. A lives directly above D. E does not live on floor 1. Who lives on floor 3?",
-      "urdu": "پانچ افسران A، B، C، D، E منزل 1 تا 5 پر رہتے ہیں (1 = سب سے نیچے)۔ C سب سے اوپر رہتا ہے۔ B جفت منزل پر ہے۔ A، D کے بالکل اوپر رہتا ہے۔ E پہلی منزل پر نہیں۔ تیسری منزل پر کون رہتا ہے؟",
-      "options": [
-        "A",
-        "B",
-        "E",
-        "D"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Four boxes P, Q, R, S are stacked (1 = top). Q is directly above S. P is not at the top or bottom. R is not at the top. Which box is at the bottom?",
-      "urdu": "چار ڈبے P، Q، R، S اوپر نیچے رکھے ہیں (1 = سب سے اوپر)۔ Q، S کے بالکل اوپر ہے۔ P نہ سب سے اوپر نہ سب سے نیچے۔ R سب سے اوپر نہیں۔ سب سے نیچے کون سا ڈبہ ہے؟",
-      "options": [
-        "P",
-        "Q",
-        "S",
-        "R"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If 3 × 4 = 25 and 5 × 12 = 169, then 6 × 8 = ?",
-      "urdu": "اگر 3 × 4 = 25 اور 5 × 12 = 169 ہو تو 6 × 8 = ؟",
-      "options": [
-        "48",
-        "100",
-        "14",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "\"check your paper\" = 5 3 1; \"paper is clear\" = 1 8 9; \"clear your mind\" = 9 3 4. What is the code for \"is\"?",
-      "urdu": "\"check your paper\" = 5 3 1؛ \"paper is clear\" = 1 8 9؛ \"clear your mind\" = 9 3 4۔ \"is\" کا کوڈ کیا ہے؟",
-      "options": [
-        "9",
-        "1",
-        "5",
-        "8"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If FIA is written as GJB, how is ASI written?",
-      "urdu": "اگر FIA کو GJB لکھا جائے تو ASI کیسے لکھا جائے گا؟",
-      "options": [
-        "BTJ",
-        "BSJ",
-        "ATJ",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Passage: In City X, reported cybercrime complaints doubled between 2023 and 2025, while internet users grew by 40%. Most complaints involved financial fraud. — Statement: Financial fraud was the largest category of complaints in City X.",
-      "urdu": "عبارت: شہر X میں 2023 سے 2025 کے دوران رپورٹ شدہ سائبر جرائم کی شکایات دگنی ہو گئیں جبکہ انٹرنیٹ صارفین 40% بڑھے۔ زیادہ تر شکایات مالی فراڈ کی تھیں۔ — بیان: شہر X میں سب سے زیادہ شکایات مالی فراڈ کی تھیں۔",
-      "options": [
-        "Definitely true",
-        "Probably true",
-        "Data inadequate",
-        "Definitely false"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Passage: In City X, reported cybercrime complaints doubled between 2023 and 2025, while internet users grew by 40%. Most complaints involved financial fraud. — Statement: Complaints per internet user increased in City X.",
-      "urdu": "عبارت: شہر X میں 2023 سے 2025 کے دوران رپورٹ شدہ سائبر جرائم کی شکایات دگنی ہو گئیں جبکہ انٹرنیٹ صارفین 40% بڑھے۔ زیادہ تر شکایات مالی فراڈ کی تھیں۔ — بیان: شہر X میں فی انٹرنیٹ صارف شکایات کی شرح بڑھی۔",
-      "options": [
-        "Definitely true",
-        "Probably true",
-        "Data inadequate",
-        "Definitely false"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "\"Candidates who used online mock tests scored higher in the CBT, so mock tests improve scores.\" Which weakens this most?",
-      "urdu": "\"جن امیدواروں نے آن لائن موک ٹیسٹ دیے انہوں نے CBT میں زیادہ نمبر لیے، لہٰذا موک ٹیسٹ نمبر بڑھاتے ہیں۔\" کون سی بات اسے سب سے زیادہ کمزور کرتی ہے؟",
-      "options": [
-        "Mock tests are cheap",
-        "Mock-test users were mostly candidates who had already studied much longer",
-        "Many candidates liked mock tests",
-        "The CBT had 100 questions"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A city installed more street lights, yet reported night-time thefts increased. Which best explains this?",
-      "urdu": "ایک شہر میں مزید اسٹریٹ لائٹس لگیں، پھر بھی رات کی چوریوں کی رپورٹس بڑھ گئیں۔ اس کی بہترین وضاحت کیا ہے؟",
-      "options": [
-        "Street lights were expensive",
-        "Better lighting brought more people outdoors, who noticed and reported thefts",
-        "Thieves prefer darkness",
-        "Daytime thefts fell"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A team has 12 officers. 5 are cyber experts, 4 are forensic experts, and 2 are both. How many are neither?",
-      "urdu": "12 افسران کی ٹیم میں 5 سائبر ماہر، 4 فرانزک ماہر اور 2 دونوں ہیں۔ کتنے کسی میں بھی ماہر نہیں؟",
-      "options": [
-        "3",
-        "5",
-        "7",
-        "4"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Find the wrong term: 1, 2, 6, 24, 96, 720",
-      "urdu": "غلط عدد تلاش کریں: 1، 2، 6، 24، 96، 720",
-      "options": [
-        "2",
-        "24",
-        "96",
-        "720"
-      ],
-      "correct": 2,
       "explanation": "",
       "category": "all"
     }
