@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-27T21:42:51.094096",
+    "fetched_at": "2026-09-28T06:18:55.911901",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which of the following is an Output Device? Monitor, Printer, Headphones, All of these",
+      "urdu": "درج ذیل میں سے کون سا آؤٹ پٹ ڈیوائس ہے؟",
+      "options": [
+        "Monitor",
+        "Printer",
+        "Headphones",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
     {
       "q": "When was the Indian National Congress (INC) formed?",
       "urdu": "انڈین نیشنل کانگریس کب قائم ہوئی؟",
@@ -639,19 +652,6 @@
         "32",
         "30",
         "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "\"Since the new online FIR system launched, reported crimes rose 20%, so crime has increased.\" Which weakens this most?",
-      "urdu": "\"آن لائن FIR نظام کے آغاز کے بعد رپورٹ شدہ جرائم 20% بڑھے، لہٰذا جرائم بڑھ گئے ہیں۔\" کون سی بات اسے سب سے زیادہ کمزور کرتی ہے؟",
-      "options": [
-        "The system made reporting easier, so more existing crimes are now being recorded",
-        "Police officers prefer paper records",
-        "The system cost money",
-        "Crime is a problem worldwide"
       ],
       "correct": 0,
       "explanation": "",
