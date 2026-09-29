@@ -3,659 +3,658 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-29T06:34:27.395491",
+    "fetched_at": "2026-09-29T13:39:20.010963",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "A flash memory card is what type of device and is used for storing what?",
-      "urdu": "فلیش میموری کارڈ کس قسم کی ڈیوائس ہے اور اسے کیا محفوظ کرنے کے لیے استعمال کیا جاتا ہے؟",
+      "q": "CNA is the news agency of?",
+      "urdu": "سی این اے کس ملک کی نیوز ایجنسی ہے؟",
       "options": [
-        "Magnetic storage device; text, pictures, audio, and video",
-        "Electronic memory storage device; text, pictures, audio, and video",
-        "Optical storage device; text, pictures, audio, and video",
+        "Taiwan",
+        "China",
+        "Czech Republic",
         "None of these"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "When was the World Wide Web (WWW) first introduced to the public?",
-      "urdu": "ورلڈ وائڈ ویب پہلی بار عوام کے لیے کب متعارف کرایا گیا؟",
+      "q": "K-2 is also known as?",
+      "urdu": "کے-ٹو کو اور کس نام سے جانا جاتا ہے؟",
       "options": [
-        "August 6, 1991",
-        "August 6, 1989",
-        "August 6, 1990",
+        "Godwin Austin",
+        "Broad Peak",
+        "Roshan Peak",
+        "Sia Kingri"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-weight: bolder; font-size: 0.875rem;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-06-2026</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the largest cold desert in the world? Gobi Desert, Sahara Desert, Antarctic Desert, None of these",
+      "urdu": "دنیا کا سب سے بڑا سرد صحرا کون سا ہے؟",
+      "options": [
+        "Gobi Desert",
+        "Sahara Desert",
+        "Antarctic Desert",
         "None of these"
       ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What type of interface allows communication between peripheral devices such as a mouse, keyboard, printer, scanner, and external hard drive with a computer?",
-      "urdu": "کون سا انٹرفیس ماؤس، کی بورڈ، پرنٹر، اسکینر اور بیرونی ہارڈ ڈرائیو جیسے پیریفرل ڈیوائسز کو کمپیوٹر سے منسلک کرتا ہے؟",
+      "q": "Which is the largest desert in Asia? Gobi Desert, Thar Desert, Arabian Desert, None of these",
+      "urdu": "ایشیا کا سب سے بڑا صحرا کون سا ہے؟",
       "options": [
-        "USB",
-        "HDMI",
-        "VGA",
+        "Gobi Desert",
+        "Thar Desert",
+        "Arabian Desert",
         "None of these"
       ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of following holds the ROM, CPU, RAM and Expansion cards?",
-      "urdu": "درج ذیل میں کون سا روم، سی پی یو، ریم ایکسپینشن کارڈز اور کون سے نیچے ہیں؟",
-      "options": [
-        "Hard disk",
-        "floppy disk",
-        "All",
-        "Motherboard"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of Mesmerized?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Bored",
-        "Fascinated",
-        "Confused",
-        "Angry"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Mesmerized </font><font color=\"#ff0000\"> سحر زدہ</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 13% of a number is 52, what is the total number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "300",
-        "350",
-        "400",
-        "450"
-      ],
       "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">If 13% of a number is 52, then:</font></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which Continent has no desert?",
-      "urdu": "کس براعظم میں صحرا نہیں ہے؟",
+      "q": "Which is the largest desert of South Asia?",
+      "urdu": "جنوبی ایشیا کا سب سے بڑا صحرا کون سا ہے؟",
       "options": [
-        "Europe",
-        "Australia",
-        "N.America",
-        "S.America"
+        "Thar",
+        "Atacama",
+        "Colarado",
+        "Gobi"
       ],
       "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Additional information:</b></font></p>",
+      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">About </span><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Thar </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Desert</span></p>",
       "category": "all"
     },
     {
-      "q": "A man buys a TV for Rs. 9,000 and sells it for Rs. 8,000. What is his loss percentage?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "The first nuclear power plant in Pakistan was established at ____?",
+      "urdu": "پاکستان میں پہلا ایٹمی بجلی گھر ____ میں قائم کیا گیا؟",
       "options": [
-        "10%",
-        "11.11%",
-        "12.5%",
-        "15%"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Loss = 9,000 − 8,000 = 1,000</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of Biennial?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Yearly",
-        "Monthly",
-        "Every two years",
-        "Daily"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Biennial means an event</font><font color=\"#ff0000\"> that happens every two years, or a plant that takes two years to complete its life cycle.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of Annihilated?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Created",
-        "Destroyed",
-        "Protected",
-        "Improved"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of HARASS?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Annoy",
-        "Harness",
-        "IInvolve",
-        "Injure"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Email stands for?",
-      "urdu": "ای میل کا مطلب کیا ہے؟",
-      "options": [
-        "Easy mail",
-        "Electronic mail",
-        "Electric mail",
-        "Eye mail"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "if a: b c=3 4:7 then the ratio (a+b+c) then the c ?is equal to",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2:1",
-        "14:3",
-        "7:2",
-        "1-2"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#7b3900\" face=\"Helvetica\">Given:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence:  A) Give me a scissors. B) Give me an scissors. C) Give me a pair of scissors. D) Give me scissorses.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Give me a scissors.",
-        "Give me an scissors.",
-        "Give me a pair of scissors.",
-        "Give me scissorses."
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence:  A) Either of books are worth reading. B) Either of the books are worth reading. C) Either of the books is worth reading. D) Either the books is worth reading.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Either of books are worth reading.",
-        "Either of the books are worth reading.",
-        "Either of the books is worth reading.",
-        "Either the books is worth reading."
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence:  A) I saw five sheeps in the field. B) I saw five sheep in the field. C) I saw five sheepes in the field. D) I saw five sheepses in the field.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "I saw five sheeps in the field.",
-        "I saw five sheep in the field.",
-        "I saw five sheepes in the field.",
-        "I saw five sheepses in the field."
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence:  A) There are only five hundreds students in our college. B) There are only five hundred students in our college. C) There are only five hundreds of students in our college. D) There are only five hundred of students in our college.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "There are only five hundreds students in our college.",
-        "There are only five hundred students in our college.",
-        "There are only five hundreds of students in our college.",
-        "There are only five hundred of students in our college."
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence:  A) I brought five dozens mangoes. B) I brought five dozen mangoes. C) I brought five dozen of mangoes. D) I brought five dozens of mangoes.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "I brought five dozens mangoes.",
-        "I brought five dozens mangoes.",
-        "I brought five dozen of mangoes.",
-        "I brought five dozens of mangoes."
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "CPU stands for?",
-      "urdu": "سی پی یو کا مطلب کیا ہے؟",
-      "options": [
-        "Central Processing Unit",
-        "Central Procedural Unit",
-        "Central Processing Unique",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which device is mainly used to enter text into a computer?",
-      "urdu": "کمپیوٹر میں متن داخل کرنے کے لیے بنیادی طور پر کون سا آلہ استعمال کیا جاتا ہے؟",
-      "options": [
-        "Monitor",
-        "Keyboard",
-        "Printer",
-        "Speaker"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan became independant on:",
-      "urdu": "پاکستان کب آزاد ہوا",
-      "options": [
-        "Ramzan 27 (1366)",
-        "Shawal 27 (1366)",
-        "Muharram 27 (1366)",
-        "Rajab 27 (1366)",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\">Additional information<br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first governor general of Pakistan was:",
-      "urdu": "پاکستان کے پہلے گورنر جنرل کون تھے",
-      "options": [
-        "Sikandar Ali Mirza",
-        "Quaid e Azam",
-        "Khan Liaquat Ali Khan",
-        "Muhammad Ayoub Khan"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: bold;\">List of Governer General of Pakistan</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "GT Road was constructed by _____?",
-      "urdu": "جی ٹی روڈ کو کس نے تعمیر کیا تھا؟",
-      "options": [
-        "Feroz Tughluk",
-        "Tipu Sultan",
-        "Sher Shah Suri",
-        "Ameer Kror"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If the sales tax is reduced from 8% to 6%, then what would be the difference in the price of rs.250 of an item?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 3",
-        "Rs. 5",
-        "Rs. 6",
-        "Rs. 7"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"24\" data-start=\"14\" dir=\"auto\"><font color=\"#9c00ff\"><strong data-end=\"24\" data-start=\"14\" style=\"\">Given:</strong><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A shopkeeper buys an item for Rs. 1,000 and sells it for Rs. 900. Find the loss percentage.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5%",
-        "10%",
-        "15%",
-        "20%"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Given:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the ratio is 5:8 and the first quantity is 25, find the second quantity.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "30",
-        "35",
-        "40",
-        "45"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">5 → 25, so multiplier = 25 ÷ 5 = 5</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 5 pens cost Rs. 250, what is the cost of 8 pens?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 300",
-        "Rs. 350",
-        "Rs. 400",
-        "Rs. 450"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Cost of 1 pen = 250 ÷ 5 = Rs. 50</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "An article bought for Rs. 800 is sold for Rs. 720. Find the loss percentage.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5%",
-        "8%",
-        "10%",
-        "12%"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">Solution</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the capital of Pakistan?",
-      "urdu": "پاکستان کا دارالحکومت کونسا شہر ہے؟",
-      "options": [
+        "Karachi",
         "Lahore",
         "Islamabad",
-        "Karachi",
-        "Sialkot"
+        "Fasilabad"
       ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 12pt; line-height: 107%;\"><span style=\"margin: 0px; padding: 0px;\"><span style=\"font-size: 12pt;\"><font color=\"#0070c0\">C</font></span><span style=\"color: rgb(0, 176, 80); font-size: 12pt;\">urrency</span></span><font color=\"#0070c0\"> is the </font></span><span style=\"font-size: 12pt; line-height: 107%; color: red;\">Pakistani Rupee</span><span style=\"font-size: 12pt; line-height: 107%; color: red;\">.</span></p>",
+      "correct": 0,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-size: 1rem; font-weight: bolder; color: rgb(255, 0, 0);\">Additional information</span></p>",
       "category": "all"
     },
     {
-      "q": "Which animal is the national animal of Pakistan?",
-      "urdu": "پاکستان کا قومی جانور کون سا ہے؟",
+      "q": "Pakistan conducted nuclear tests on May 28, 1998 at?",
+      "urdu": "پاکستان نے 28 مئی 1998 کو ایٹمی تجربات کیے؟",
       "options": [
-        "Tiger",
-        "Lion",
-        "Arabian horse",
-        "Markhor"
+        "Kohe-e-Sufaid",
+        "Chaghi Hills",
+        "Toba Kakar",
+        "Raskoh"
       ],
-      "correct": 3,
+      "correct": 1,
       "explanation": "<p></p>",
       "category": "all"
     },
     {
-      "q": "\"Muhammad is the messenger of Allah\" is stated in Surah _____?",
-      "urdu": "محمد اللہ کے رسول ہیں سورہ _____ میں بیان کیا گیا ہے؟",
-      "options": [
-        "Surah Al-Muzzammil",
-        "Surah Muhammad",
-        "Surah Ya-Seen",
-        "Surah Al-Fath"
-      ],
-      "correct": 3,
-      "explanation": "<p><div><font color=\"#ff9c00\" style=\"background-color: rgb(255, 255, 0);\"><b>Additional information:</b></font></div></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many days did Holy Prophet's PBUH spend at Abu Ansari (A.S) house?",
-      "urdu": "حضرت محمد ﷺ نے ابو انصاری (رضی اللہ عنہ) کے گھر میں کتنے دن قیام فرمایا؟",
-      "options": [
-        "Seven month",
-        "Eight-month",
-        "Nine month",
-        "Ten month"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:<br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Shortcut key to insert a new worksheet in Excel is _______?",
-      "urdu": "ایکسل میں نئی ورک شیٹ شامل کرنے کی شارٹ کٹ کی کونسی ہے؟",
-      "options": [
-        "Alt + Shift + F1",
-        "Shift + F11",
-        "Shift + F10",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "What type of operating system MS-DOS is?",
-      "urdu": "ایم ایس ڈاس کس قسم کا آپریٹنگ سسٹم ہے؟",
-      "options": [
-        "Command Line Interface",
-        "Graphical Line Interface",
-        "Multitasking",
-        "Menu Drawn Interface"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"><br/></font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a computer has more than one processor then it is known as _____?",
-      "urdu": "اگر کمپیوٹر میں ایک سے زیادہ پروسیسر ہوں تو اسے کیا کہا جاتا ہے؟",
-      "options": [
-        "Uniprocess",
-        "Multiprocessor",
-        "Multi_threaded",
-        "Multi programming"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym of Opposite is?",
+      "q": "40% is equal to?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Different",
-        "Reverse",
-        "Same",
-        "Against"
+        "0.04",
+        "04.0",
+        "0.40",
+        "None of these"
       ],
       "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">To convert a percentage into a decimal, divide by 100.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the name of the fastest animal in the world?",
+      "urdu": "دنیا کا سب سے تیز جانور کون سا ہے؟",
+      "options": [
+        "Bear",
+        "Lion",
+        "Rabbit",
+        "Cheetah"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Profound is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Deep",
+        "Intense",
+        "Superficial",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest bird in the world is?",
+      "urdu": "دنیا کا سب سے بڑا پرندہ کونسا ہے؟",
+      "options": [
+        "Cranes Bald-eagle",
+        "Ostrich",
+        "Penguin",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest province of Pakistan by area is _____?",
+      "urdu": "پاکستان کا رقبہ کے لحاظ سے سب سے بڑا صوبہ کون سا ہے؟",
+      "options": [
+        "Baluchistan",
+        "Punjab",
+        "Sindh",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p \"=\"\" \"\"=\"\" \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" -apple-system,=\"\" 135,=\"\" 150);=\"\" 700;\"=\"\" arial,=\"\" blinkmacsystemfont,=\"\" color=\"\" color:\"=\"\" emoji\",=\"\" emoji\";=\"\" font-family:=\"\" font-weight:=\"\" neue\",=\"\" nunito,=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span 0);=\"\" 0,=\"\" 1rem;\"=\"\" 255);=\"\" 255,=\"\" background-color:=\"\" bolder;=\"\" font-family:=\"\" font-size:=\"\" font-weight:=\"\" helvetica;=\"\" rgb(255,=\"\" style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The fourth country in the Afghanistan Quad comprising the USA, Afghanistan, and Pakistan is?",
+      "urdu": "افغانستان کواڈ میں امریکہ، افغانستان اور پاکستان کے ساتھ چوتھا ملک کون سا ہے؟",
+      "options": [
+        "Uzbekistan",
+        "Iran",
+        "Tajikistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The first network that initiated internet was _____?",
+      "urdu": "انٹرنیٹ کی ابتدا کرنے والا پہلا نیٹ ورک کون سا تھا؟",
+      "options": [
+        "Inet",
+        "Vnet",
+        "ARPANET",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A single page of PowerPoint presentation is called _____?",
+      "urdu": "پاورپوائنٹ پریزنٹیشن کے ایک صفحے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Sheet",
+        "Page",
+        "Slide",
+        "Document"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which algorithmic technique solves a problem by repeatedly choosing the locally optimal option?",
+      "urdu": "کون سی الگورتھمک تکنیک بار بار مقامی طور پر بہترین آپشن منتخب کرکے مسئلہ حل کرتی ہے؟",
+      "options": [
+        "Greedy Algorithm",
+        "Binary Search",
+        "Depth-First Search",
+        "Hashing"
+      ],
+      "correct": 0,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Antonym of Steal?",
+      "q": "“By the way” is a?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Take",
-        "Give",
-        "Rob",
-        "Snatch"
+        "Preposition phrase",
+        "Noun phrase",
+        "Adjective phrase",
+        "None of these"
       ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#9c00ff\"><br/></font></p>",
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Third generation computers used ______?",
-      "urdu": "تیسری جنریشن والی کمپیوٹر میں کونسی ٹیکنالوجی کا استعمال ہوا تھا؟",
+      "q": "You ____ really watch the TV.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Vacum  Tubes",
-        "Transistors",
-        "Integrated circuits",
-        "Artificial Intelligence"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#ff00ff\" style=\"background-color: rgb(255, 255, 0);\">Additional information:<br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "BCC stands for _____?",
-      "urdu": "بی سی سی کا مطلب کیا ہے؟",
-      "options": [
-        "Basic Carbon Copy",
-        "Blind Carbon Copy",
-        "Business Carbon Copy",
+        "Have to",
+        "Wouldn't",
+        "Shouldn't",
         "None of these"
       ],
       "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "My mother ____ dinner last night.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Does not cook",
+        "Not cook",
+        "Did not cook",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the Extension of MS Word documents 2007 and later?",
+      "urdu": "ایم ایس ورڈ دستاویزات 2007 اور اس کے بعد کی توسیع کیا ہے؟",
+      "options": [
+        ".docs",
+        ".dos",
+        ".docx",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\" style=\"\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "18 + 27 is equal to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "45",
+        "44",
+        "43",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">18 + 27 = </font><font color=\"#ff0000\">45</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "20% of 150 is equal to _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "25",
+        "30",
+        "40",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">20% of 150 = (20/100) × 150 = 0.2 × 150 = </font><font color=\"#ff0000\">30</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does 'PDF' stand for?",
+      "urdu": "پی ڈی ایف کا کیا مطلب ہے؟",
+      "options": [
+        "Print Document Format",
+        "Portable Disc Format",
+        "Portable Document Format",
+        "Portable Document Firewall"
+      ],
+      "correct": 2,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"background-color: rgb(255, 0, 0); color: rgb(255, 255, 255); font-size: 1.75rem;\">ان سولات کو ضرور پڑھیں</span><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Largest Continent (by Area and Population) of the World is _______?",
+      "urdu": "دنیا کا سب سے بڑا براعظم (رقبہ اور آبادی کے لحاظ سے) کونسا ہے؟",
+      "options": [
+        "Asia",
+        "Europe",
+        "Africa",
+        "North America"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the cold desert known as the Katpana Desert located?",
+      "urdu": "کَٹپانا ریگستان کہاں واقع ہے؟",
+      "options": [
+        "Chitral, Khyber Pakhtunkhwa, Pakistan",
+        "Skardu, Gilgit-Baltistan, Pakistan",
+        "Hunza, Gilgit-Baltistan, Pakistan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Afflicted is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Delighted",
+        "Comforted",
+        "Distressed",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is known as the \"Dark Continent\" because of its unexplored characteristic for a fairly long period of time as?",
+      "urdu": "مندرجہ ذیل میں سے کس کو \"تاریک براعظم\" کے نام سے جانا جاتا ہے کیونکہ اس کی خاصی طویل مدت تک اس کی غیر دریافت شدہ خصوصیت ہے؟",
+      "options": [
+        "Asia",
+        "Africa",
+        "Europe",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"margin-top: 0in; color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder;\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\"><span arial\",sans-serif;=\"\" color:#555555\"=\"\" lang=\"EN-GB\">Additional information:</span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is called Playground of Europe?",
+      "urdu": "یورپ کے کھیل کا میدان کس ملک کو کہا جاتا ہے؟",
+      "options": [
+        "Turkey",
+        "France",
+        "Switzerland",
+        "Spain"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Additional information </font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which keyboard shortcut key is used to edit the formula or the selected cell in MS Excel?",
+      "urdu": "ایم ایس ایکسل میں فارمولا یا منتخب سیل کو ایڈٹ کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
+      "options": [
+        "F2",
+        "F4",
+        "CTRL + 1",
+        "CRTL + F"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Commitment is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Refusal",
+        "Dedication",
+        "Neglect",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which bar provides access to the Start menu, program shortcuts, and volume controls?",
+      "urdu": "کون سی بار اسٹارٹ مینو، پروگرام شارٹ کٹس اور والیوم کنٹرولز تک رسائی فراہم کرتی ہے؟",
+      "options": [
+        "Menu Bar",
+        "Title Bar",
+        "Taskbar",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which file is responsible to start MS PowerPoint?",
+      "urdu": "ایم ایس پاورپوائنٹ شروع کرنے کے لیے کون سی فائل ذمہ دار ہوتی ہے؟",
+      "options": [
+        "ppt.exe",
+        "Mspoint.exe",
+        "Powerpnt.exe",
+        "None of these"
+      ],
+      "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Who was given the title of \"Speaker of the Prophets\" (Khatib-ul-Anbiya)?",
-      "urdu": "خطیب الانبیاء کا لقب کس کو دیا گیا؟",
+      "q": "Which is not included in a Font Style in MS-Word? Bold, Italic, Regular, Superscript",
+      "urdu": "ورڈ میں فونٹ اسٹائل میں کون سا شامل نہیں ہے؟",
       "options": [
-        "Hazrat Hood (A.S)",
-        "Hazrat Shoaib (A.S)",
-        "Hazrat Zakariya (A.S)",
-        "None of these"
+        "Bold",
+        "Italic",
+        "Regular",
+        "Superscript"
       ],
-      "correct": 1,
-      "explanation": "<p></p>",
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "Battle field Badar is situated near the City of",
-      "urdu": "بدر کا میدان جنگ کس شہر کے قریب ہے ؟",
+      "q": "In MS Word, Ctrl + Y is used for ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Makkah",
-        "Jaddah",
-        "Taaiff",
-        "None of these"
+        "Redo",
+        "Paste",
+        "Cut",
+        "Undo"
+      ],
+      "correct": 0,
+      "explanation": "<p dir=\"ltr\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a volatile memory? RAM, ROM, Cache, Both A and C",
+      "urdu": "مندرجہ ذیل میں سے کون سی غیر مستحکم میموری ہے؟",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache",
+        "Both A and C"
       ],
       "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the shortcut Key for justifying the text in MS Word?",
+      "urdu": "ایم ایس ورڈ میں متن کو جسٹیفائی کرنے کی شارٹ کٹ کی کیا ہے؟",
+      "options": [
+        "Crtl + J",
+        "Crtl + I",
+        "Crtl + M",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS PowerPoint, which view allows you to edit the global layout, font, and background for all slides?",
+      "urdu": "ایم ایس پاورپوائنٹ میں کون سا ویو تمام سلائیڈز کے لیے مجموعی لے آؤٹ، فونٹ اور بیک گراؤنڈ میں ترمیم کرنے کی اجازت دیتا ہے؟",
+      "options": [
+        "Normal View",
+        "Slide Master View",
+        "Reading View",
+        "Slide Sorter View"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\"> Slide Master View</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which keyboard shortcut is used to show or hide the desktop by minimizing or restoring all open windows?",
+      "urdu": "ڈیسک ٹاپ دیکھنے یا چھپانے کے لیے تمام کھلی ونڈوز کو کم سے کم یا بحال کرنے کا شارٹ کٹ کون سا ہے؟",
+      "options": [
+        "Windows + E",
+        "Windows + M",
+        "Windows + D",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which type of software is commercial and copyrighted and is usually offered for a limited trial period or with restricted features?",
+      "urdu": "کون سا سافٹ ویئر تجارتی اور کاپی رائٹ شدہ ہوتا ہے اور عموماً محدود آزمائشی مدت یا محدود خصوصیات کے ساتھ پیش کیا جاتا ہے؟",
+      "options": [
+        "Freeware",
+        "Open-source software",
+        "Shareware",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The default port for HTTP traffic is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20",
+        "21",
+        "80",
+        "443"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 14px;\"><font color=\"#0000ff\">HTTP stands for </font><font color=\"#ff0000\">Hypertext Transfer Protocol.</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The shortcut key Ctrl + K is used for ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Insert link",
+        "Insert hyperlink",
+        "Formate latters",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is used for both read and write operations?",
+      "urdu": "کون سی میموری پڑھنے اور لکھنے دونوں کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "RAM",
+        "ROM",
+        "PROM",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the shortcut key for undo/reverse the last action?",
+      "urdu": "آخری عمل کو واپس کرنے کا شارٹ کٹ کیا ہے؟",
+      "options": [
+        "Ctrl + Z",
+        "Ctrl + C",
+        "Ctrl + V",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the currency of Argentina?",
+      "urdu": "ارجنٹینا کی کرنسی کیا ہے؟",
+      "options": [
+        "Dollar",
+        "Pound",
+        "Peso",
+        "Dinar"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary role of DNS on the Internet?",
+      "urdu": "انٹرنیٹ پر DNS کا بنیادی کردار کیا ہے؟",
+      "options": [
+        "To encrypt all network traffic",
+        "To translate domain names into IP addresses",
+        "To compress web pages",
+        "To store website passwords"
+      ],
+      "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Sindh separated from Bombay in which year?",
-      "urdu": "سندھ بمبئی سے کس سال الگ ہوا؟",
+      "q": "Which practice is most effective for reducing the risk of SQL injection in a web application?",
+      "urdu": "ویب ایپلی کیشن میں SQL Injection کے خطرے کو کم کرنے کے لیے کون سا طریقہ زیادہ مؤثر ہے؟",
       "options": [
-        "1935",
-        "1936",
-        "1938",
-        "1939"
+        "Using longer table names",
+        "Using parameterized queries",
+        "Disabling CSS",
+        "Increasing image resolution"
       ],
       "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-01-2026</b></font></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "Mohammed Bin Qasim conquered Sindh in the year?",
-      "urdu": "محمد بن قاسم نے سندھ کو کس سال میں فتح کیا؟",
+      "q": "Which virtualization technology packages an application and its dependencies into a portable, isolated unit?",
+      "urdu": "کون سی Virtualization Technology کسی Application اور اس کی Dependencies کو ایک Portable اور Isolated Unit میں پیک کرتی ہے؟",
       "options": [
-        "812 AD",
-        "712 AD",
-        "912 AD",
-        "1012 AD"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">Major </font><font color=\"#ff0000\" style=\"\">cities</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> captured:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which card is installed in PCI slots to improve gaming performance?",
-      "urdu": "گیمنگ کی کارکردگی بہتر بنانے کے لیے پی سی آئی سلاٹس میں کون سا کارڈ نصب کیا جاتا ہے؟",
-      "options": [
-        "Graphics Card",
-        "Sound Card",
-        "Network Card",
-        "None of these"
+        "Containerization",
+        "Defragmentation",
+        "Overclocking",
+        "Spooling"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-09-2026</font></b></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "Which system is used for designing purposes in computers?",
-      "urdu": "میں ڈیزائن بنانے کے لیے کون سا نظام استعمال ہوتا ہے؟",
+      "q": "Which data structure follows the Last In, First Out (LIFO) principle?",
+      "urdu": "کون سا ڈیٹا اسٹرکچر Last In, First Out (LIFO) اصول پر عمل کرتا ہے؟",
       "options": [
-        "CAD",
-        "CAM",
-        "CPU",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is a port that can transmit high-quality audio and video data between devices?",
-      "urdu": "کون سا پورٹ ڈیوائسز کے درمیان اعلیٰ معیار کی آڈیو اور ویڈیو ڈیٹا منتقل کر سکتا ہے؟",
-      "options": [
-        "HDMI",
-        "USB",
-        "VGA",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ctrl + L Shortcut key is used for _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Left Indent",
-        "Left Align (Align the selected text or line to the left)",
-        "Increase Left Margin",
-        "Decrease Left Margin"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of the F4 key in most systems?",
-      "urdu": "زیادہ تر سسٹمز میں  کی کا کیا کام ہے؟",
-      "options": [
-        "System Settings",
-        "Close a Window",
-        "Repeat Last Action",
-        "Refresh Page"
+        "Queue",
+        "Linked List",
+        "Stack",
+        "Tree"
       ],
       "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">The </font><strong style=\"color: rgb(0, 0, 255);\">F4 key</strong><font color=\"#0000ff\"> is commonly used to </font><font color=\"#ff0000\"><strong style=\"\">repeat the last action</strong> </font><font color=\"#0000ff\">in programs like Microsoft Word and Excel.</font></p>",
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "In Microsoft Excel, what does the shortcut key Ctrl + Shift + @ do?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "What is the main purpose of a primary key in a relational database?",
+      "urdu": "ریلیشنل ڈیٹا بیس میں Primary Key کا بنیادی مقصد کیا ہے؟",
       "options": [
-        "Applies the Time format",
-        "Applies the Date format",
-        "Applies the Number format",
-        "None of these"
+        "To store duplicate records",
+        "To uniquely identify each record",
+        "To encrypt the database",
+        "To create backups"
       ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "correct": 1,
+      "explanation": "",
       "category": "all"
     },
     {
-      "q": "Ctrl + M Shortcut is used in Microsoft Word to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which component of a computer performs most arithmetic and logical operations?",
+      "urdu": "کمپیوٹر کا کون سا جزو زیادہ تر حسابی اور منطقی عملیات انجام دیتا ہے؟",
       "options": [
-        "New Document",
-        "Close Document",
-        "Increase Right Indent",
-        "Increase Left Indent"
+        "RAM",
+        "Hard Disk",
+        "CPU",
+        "Monitor"
       ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "correct": 2,
+      "explanation": "",
       "category": "all"
     }
   ]
