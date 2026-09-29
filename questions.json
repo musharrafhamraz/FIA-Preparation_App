@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-28T23:35:19.481492",
+    "fetched_at": "2026-09-29T06:34:27.395491",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "A flash memory card is what type of device and is used for storing what?",
+      "urdu": "فلیش میموری کارڈ کس قسم کی ڈیوائس ہے اور اسے کیا محفوظ کرنے کے لیے استعمال کیا جاتا ہے؟",
+      "options": [
+        "Magnetic storage device; text, pictures, audio, and video",
+        "Electronic memory storage device; text, pictures, audio, and video",
+        "Optical storage device; text, pictures, audio, and video",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the World Wide Web (WWW) first introduced to the public?",
+      "urdu": "ورلڈ وائڈ ویب پہلی بار عوام کے لیے کب متعارف کرایا گیا؟",
+      "options": [
+        "August 6, 1991",
+        "August 6, 1989",
+        "August 6, 1990",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What type of interface allows communication between peripheral devices such as a mouse, keyboard, printer, scanner, and external hard drive with a computer?",
+      "urdu": "کون سا انٹرفیس ماؤس، کی بورڈ، پرنٹر، اسکینر اور بیرونی ہارڈ ڈرائیو جیسے پیریفرل ڈیوائسز کو کمپیوٹر سے منسلک کرتا ہے؟",
+      "options": [
+        "USB",
+        "HDMI",
+        "VGA",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of following holds the ROM, CPU, RAM and Expansion cards?",
+      "urdu": "درج ذیل میں کون سا روم، سی پی یو، ریم ایکسپینشن کارڈز اور کون سے نیچے ہیں؟",
+      "options": [
+        "Hard disk",
+        "floppy disk",
+        "All",
+        "Motherboard"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "What is the synonym of Mesmerized?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -604,58 +656,6 @@
       ],
       "correct": 3,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ctrl + Right Arrow shortcut key is used in MS Word to ________?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Moves the cursor end of the line",
-        "Moves the cursor end of the document",
-        "Moves the cursor one word right",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Selfless is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Altruistic",
-        "Selfish",
-        "Greedy",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many bones in human body (skeleton)?",
-      "urdu": "انسانی جسم میں کتنی ہڈیاں ہیں؟",
-      "options": [
-        "200",
-        "206",
-        "270",
-        "300"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The total </font><font color=\"#ff0000\">bones of our body</font><font color=\"#0000ff\"> can be divided into:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "OPEC stands for?",
-      "urdu": "اوپیک کا مطلب کیا ہے؟",
-      "options": [
-        "Oil and Petroleum Exporting Countries",
-        "Organization of the Petroleum Exporting Countries",
-        "Organization of the Project Exporting Countries",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Tahoma\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-09-2026</b></font></p>",
       "category": "all"
     }
   ]
