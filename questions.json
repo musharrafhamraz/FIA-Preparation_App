@@ -3,10 +3,452 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-01T06:49:26.175970",
+    "fetched_at": "2026-10-01T14:05:27.650927",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who is the Current Chief Justice of Pakistan (CJP)?",
+      "urdu": "پاکستان کے موجودہ چیف جسٹس کون ہیں؟",
+      "options": [
+        "Justice Umar Ata Bandial",
+        "Justice Qazi Faez Isa",
+        "Justice Yahya Afridi",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#ff0000\"><span style=\"font-size: 14px;\"><b>Additional information:</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Serve deficiency of Vitamin B complex results in?",
+      "urdu": "وٹامن بی کمپلیکس کی کمی کے نتائج کیا ہے؟",
+      "options": [
+        "Night Blindness",
+        "Rickets",
+        "Beriberi",
+        "Scurvy"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Vitamin B Complex deficiency</font><font color=\"#ff0000\">, specifically Vitamin B1 (Thiamine) deficiency, can cause:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most popular (populous) city in the world is?",
+      "urdu": "دنیا کا سب سے زیادہ آبادی والا شہر کون سا ہے؟",
+      "options": [
+        "Beijing",
+        "Jakarta",
+        "Shanghai",
+        "Tokyo"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Skeletal support and body support are functions of which type of tissue?",
+      "urdu": "جسم اور ڈھانچے کو سہارا فراہم کرنا کس قسم کے ٹشو کا کام ہے؟",
+      "options": [
+        "Epithelial tissue",
+        "Muscle tissue",
+        "Connective tissue",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What percentage of the cell membrane is composed of carbohydrates?",
+      "urdu": "کی جھلی کا کتنا فیصد حصہ کاربوہائیڈریٹ پر مشتمل ہوتا ہے؟",
+      "options": [
+        "2–10%",
+        "20–30%",
+        "40–50%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Lactose is a disaccharide composed of?",
+      "urdu": "لییکٹوز ایک ڈساکرائڈ کس پر مشتمل ہے؟",
+      "options": [
+        "Glucose + Fructose",
+        "Glucose + Galactose",
+        "Glucose + Glucose",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In MS Excel formula and function start with ____?",
+      "urdu": "ایم ایس ایکسل میں فارمولا اور فنکشن کس علامت سے شروع ہوتے ہیں؟",
+      "options": [
+        "+",
+        "-",
+        "=",
+        "["
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following combination of keys is used to maximize or restore a selected window?",
+      "urdu": "منتخب ونڈو کو زیادہ سے زیادہ یا بحال کرنے کے لیے کون سی کیز استعمال کی جاتی ہیں؟",
+      "options": [
+        "Ctrl + F5",
+        "Ctrl + F10",
+        "Ctrl + F12",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which key is used to rename a file or folder?",
+      "urdu": "فائل یا فولڈر کا نام تبدیل کرنے کے لیے کون سی کلید استعمال ہوتی ہے؟",
+      "options": [
+        "F1",
+        "F2",
+        "F3",
+        "F4"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of following shortcut keys is used to change the case in MS Word?",
+      "urdu": "مندرجہ ذیل میں سے کون سی شارٹ کٹ کیز ایم ایس ورڈ میں کیس کو تبدیل کرنے کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Ctrl+ F3",
+        "Shift + F3",
+        "Ctrl + F1",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct passive voice of: “The police consider him a direct police constable.”",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He is considered a direct police constable by the police.",
+        "He was considered a direct police constable by the police.",
+        "He has considered a direct police constable by the police.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Grasp is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Clasp",
+        "Release",
+        "Drop",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following best describes the residual volume of the lungs?",
+      "urdu": "مندرجہ ذیل میں سے کون پھیپھڑوں کے بقایا حجم کی بہترین وضاحت کرتا ہے؟",
+      "options": [
+        "The volume of air that always remains in the lungs.",
+        "The amount of air normally inhaled and exhaled with each breath.",
+        "The maximum amount of air that can be forcibly inhaled and exhaled from the lungs.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Plasma is a component of which body fluid compartment?",
+      "urdu": "پلازما جسم کے کس سیال حصے کا جزو ہے؟",
+      "options": [
+        "Transcellular fluid",
+        "Intracellular fluid",
+        "Extracellular fluid",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Calcitonin primarily functions to?",
+      "urdu": "کیلسیٹونن بنیادی طور پر کیا کام کرتا ہے؟",
+      "options": [
+        "Increase blood glucose",
+        "Increase blood calcium",
+        "Decrease blood calcium",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Chromosomes are present in _____?",
+      "urdu": "کروموسومز کہاں موجود ہوتے ہیں؟",
+      "options": [
+        "Nucleus",
+        "Ribosomes",
+        "Cytoplasm",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two strands of DNA are ____?",
+      "urdu": "ڈی این اے کے دو اسٹرینڈ ____ ہیں؟",
+      "options": [
+        "Antiparallel to each other",
+        "Parallel to each other",
+        "Perpendicular to each other",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">two strands of DNA</font><font color=\"#0000ff\"> run in opposite directions (5' to 3' on one strand and 3' to 5' on the other).</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan’s gas pipeline project is with which country?",
+      "urdu": "پاکستان کا گیس پائپ لائن منصوبہ کس ملک کے ساتھ ہے؟",
+      "options": [
+        "China",
+        "Iran",
+        "Russia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Last verified on 04-09-2026</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the world’s most polluted city, as per the US Air Quality Index?",
+      "urdu": "یو ایس ایئر کوالٹی انڈیکس کے مطابق دنیا کا سب سے آلودہ شہر کون سا ہے؟",
+      "options": [
+        "Karachi",
+        "Delhi",
+        "Lahore",
+        "New York"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#0000ff\">Top </font><font color=\"#ff0000\" style=\"\">three polluted city </font><font color=\"#0000ff\">in the World:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the national bird of Pakistan?",
+      "urdu": "پاکستان کا قومی پرندہ کونسا ہے؟",
+      "options": [
+        "Parrot",
+        "Chakor",
+        "Pigeon",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Interest is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Like",
+        "Dislike",
+        "Hate",
+        "Bad"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Grew is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Increased",
+        "Decreased",
+        "Reduced",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Hardship is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Relief",
+        "Comfort",
+        "Tribulation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Great is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Excellent",
+        "Weak",
+        "Ordinary",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Effort is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rest",
+        "Attempt",
+        "Failure",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Spare is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Extra",
+        "Waste",
+        "Necessary",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Vast is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Immense",
+        "Limited",
+        "Comfort",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Assembled is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Scattered",
+        "Separated",
+        "Gathered",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Conveying is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hiding",
+        "Communicating",
+        "Suppressing",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Intense is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Weak",
+        "Mild",
+        "Strong",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Retire is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Continue",
+        "Withdraw",
+        "Advance",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Dearly is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Carelessly",
+        "Cheaply",
+        "Lovingly",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Traced is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Tracked",
+        "Ignored",
+        "Hidden",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Piety is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sinfulness",
+        "Devotion",
+        "Disobedience",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The Antonym of Scent is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -66,8 +508,7 @@
         "Cursed",
         "Holy",
         "Doomed",
-        "Enchanted",
-        "All of these"
+        "None of these"
       ],
       "correct": 1,
       "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 30-09-2026</b></font></p>",
@@ -214,448 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Great Pyramids of Giza, the oldest of the seven wonders of the world, located in _____?",
-      "urdu": "گیزا کے عظیم اہرام ، جو دنیا کے سات عجائبات میں سب سے قدیم ہیں ، _____ میں واقع ہیں؟",
-      "options": [
-        "Egypt",
-        "Jordan",
-        "Saudi Arabia",
-        "Iraq"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Word, Ctrl + Y is used for ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Redo",
-        "Paste",
-        "Cut",
-        "Undo"
-      ],
-      "correct": 0,
-      "explanation": "<p dir=\"ltr\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is extension of MS PowerPoint presentation of file in 2007 and later?",
-      "urdu": "سن 2007 اور بعد میں فائل کی ایم ایس پاورپوائنٹ پریزنٹیشن کی توسیع کیا ہے؟",
-      "options": [
-        ".pp",
-        ".xls",
-        ".pptx",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to print a document?",
-      "urdu": "دستاویز کو پرنٹ کرنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl+M",
-        "Ctrl+N",
-        "Ctrl+L",
-        "Ctrl+P"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"\"><span style=\"font-family: Helvetica;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional Information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ctrl + T shortcut is used in Microsoft Word to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Open Tabs Dialog box",
-        "Hanging Indent",
-        "Left Indent",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is the capital of Brazil?",
-      "urdu": "مندرجہ ذیل میں سے کون سا برازیل کا دارالحکومت ہے؟",
-      "options": [
-        "Harare",
-        "Ottowa",
-        "Tokyo",
-        "Brasilia"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\" style=\"margin-left:.5in\"><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:#0070C0'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element:field-separator'></span></span><![endif]--><b><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\">Brazil</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> </span><span style=\"font-size:12.0pt;line-height:107%;color:#00B050\">Capital</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"> is </span><!--[if supportFields]><span style='font-size:12.0pt;line-height:107%;color:red'><span style='mso-element: field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD \"Capitals\" <span style='mso-element:field-separator'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">Brasilia</span><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:red'><span style='mso-element:field-end'></span></span><![endif]--><span style=\"font-size:12.0pt;line-height:107%;color:red\">.</span><span style=\"font-size:12.0pt;line-height:107%;color:#0070C0\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the default file extension for Microsoft Excel 2007 and later?",
-      "urdu": "مائیکروسافٹ ایکسل 2007 اور اس کے بعد کے ورژنز کی ڈیفالٹ فائل ایکسٹینشن کیا ہے؟",
-      "options": [
-        ".xls",
-        ".xlsx",
-        ".pptx",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "To start a slide show in PowerPoint we press _____?",
-      "urdu": "پاورپوائنٹ میں سلائیڈ شو شروع کرنے کے لیے ہم کونسی کی دبائیں؟",
-      "options": [
-        "F6",
-        "F4",
-        "F5",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "CNN is the news network of which country?",
-      "urdu": "سی این این کس ملک کا نیوز نیٹ ورک ہے؟",
-      "options": [
-        "United Kingdom",
-        "Canada",
-        "United States",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to open an existing file in MS Word?",
-      "urdu": "ایم ایس ورڈ میں موجود فائل کو کھولنے کے لیے کون سی شارٹ کٹ کی استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl+O",
-        "Ctrl+N",
-        "Ctrl+R",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font><font color=\"#0000ff\"> </font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the shortcut key to copy the text?",
-      "urdu": "کاپی کرنے کے لیے شارٹ کٹ کی کیا ہے؟",
-      "options": [
-        "Ctrl + C",
-        "Ctrl + B",
-        "Ctrl + I",
-        "All of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The SI unit of energy is?",
-      "urdu": "توانائی کی ایس۔آءِ یونٹ کیا ہے؟",
-      "options": [
-        "Kelvin",
-        "Joule",
-        "Temperature",
-        "Mole"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which part of the cell contains genetic material?",
-      "urdu": "سیل کے کس حصے میں جینیاتی مواد موجود ہوتا ہے؟",
-      "options": [
-        "Ribosome",
-        "Cytoplasm",
-        "Nucleus",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which law explains why satellites remain in orbit around Earth?",
-      "urdu": "کون سا قانون یہ وضاحت کرتا ہے کہ مصنوعی سیارے زمین کے گرد مدار میں کیوں گردش کرتے رہتے ہیں؟",
-      "options": [
-        "Newton's First Law",
-        "Newton's Second Law",
-        "Newton's Law of Gravitation",
-        "Kepler's Third Law"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which law explains lift in airplane wings?",
-      "urdu": "وائی جہاز کے پروں میں لفٹ  پیدا ہونے کی وضاحت کون سا قانون کرتا ہے؟",
-      "options": [
-        "Boyle's Law",
-        "Bernoulli's Principle",
-        "Pascal's Law",
-        "Archimedes' Principle"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ce0000\">Bernoulli’s principle</font><font color=\"#00ff00\"> </font><font color=\"#0000ff\">is based on conservation of energy in flowing fluids.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the sentence “The sun is rising,” the word “rising” is a?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Noun",
-        "Adjective",
-        "Verb",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Currency of South Korea?",
-      "urdu": "جنوبی کوریا کی کرنسی کیا ہے؟",
-      "options": [
-        "Rupee",
-        "Won",
-        "Krone",
-        "Dollar"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In MS Excel ______ shortcut key is used for hiding rows.",
-      "urdu": "ایم ایس ایکسل میں کونسی شارٹ کٹ کی، قطاروں کو چھپانے کے لیے استعمال ہوتی ہے؟",
-      "options": [
-        "Ctrl+H",
-        "Ctrl+7",
-        "Ctrl+9",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"background-color: rgb(255, 255, 0); color: rgb(255, 0, 0); font-size: 0.875rem; text-indent: -0.25in;\">Additional information:</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the first/old Capital of Pakistan?",
-      "urdu": "پاکستان کا پہلا دارالحکومت کون سا ہے؟",
-      "options": [
-        "Karachi",
-        "Rawalpindi",
-        "Lahore",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"text-align:justify\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 02-03-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Atomic number of hydrogen is?",
-      "urdu": "ہائیڈروجن کا جوہری نمبر کیا ہے؟",
-      "options": [
-        "4",
-        "3",
-        "2",
-        "1"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"color: rgb(255, 156, 0); background-color: rgb(255, 255, 0);\">Last updated 26-07-2026 by NA</span><font color=\"#0000ff\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "CNA is the news agency of?",
-      "urdu": "سی این اے کس ملک کی نیوز ایجنسی ہے؟",
-      "options": [
-        "Taiwan",
-        "China",
-        "Czech Republic",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "K-2 is also known as?",
-      "urdu": "کے-ٹو کو اور کس نام سے جانا جاتا ہے؟",
-      "options": [
-        "Godwin Austin",
-        "Broad Peak",
-        "Roshan Peak",
-        "Sia Kingri"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"text-align: justify;\"><span style=\"font-weight: bolder; font-size: 0.875rem;\"><span style=\"font-size: 12pt; line-height: 17.12px; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-06-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest cold desert in the world? Gobi Desert, Sahara Desert, Antarctic Desert, None of these",
-      "urdu": "دنیا کا سب سے بڑا سرد صحرا کون سا ہے؟",
-      "options": [
-        "Gobi Desert",
-        "Sahara Desert",
-        "Antarctic Desert",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest desert in Asia? Gobi Desert, Thar Desert, Arabian Desert, None of these",
-      "urdu": "ایشیا کا سب سے بڑا صحرا کون سا ہے؟",
-      "options": [
-        "Gobi Desert",
-        "Thar Desert",
-        "Arabian Desert",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest desert of South Asia?",
-      "urdu": "جنوبی ایشیا کا سب سے بڑا صحرا کون سا ہے؟",
-      "options": [
-        "Thar",
-        "Atacama",
-        "Colarado",
-        "Gobi"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">About </span><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Thar </span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Desert</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first nuclear power plant in Pakistan was established at ____?",
-      "urdu": "پاکستان میں پہلا ایٹمی بجلی گھر ____ میں قائم کیا گیا؟",
-      "options": [
-        "Karachi",
-        "Lahore",
-        "Islamabad",
-        "Fasilabad"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-size: 1rem; font-weight: bolder; color: rgb(255, 0, 0);\">Additional information</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan conducted nuclear tests on May 28, 1998 at?",
-      "urdu": "پاکستان نے 28 مئی 1998 کو ایٹمی تجربات کیے؟",
-      "options": [
-        "Kohe-e-Sufaid",
-        "Chaghi Hills",
-        "Toba Kakar",
-        "Raskoh"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "40% is equal to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "0.04",
-        "04.0",
-        "0.40",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">To convert a percentage into a decimal, divide by 100.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the name of the fastest animal in the world?",
-      "urdu": "دنیا کا سب سے تیز جانور کون سا ہے؟",
-      "options": [
-        "Bear",
-        "Lion",
-        "Rabbit",
-        "Cheetah"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Profound is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Deep",
-        "Intense",
-        "Superficial",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest bird in the world is?",
-      "urdu": "دنیا کا سب سے بڑا پرندہ کونسا ہے؟",
-      "options": [
-        "Cranes Bald-eagle",
-        "Ostrich",
-        "Penguin",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The largest province of Pakistan by area is _____?",
-      "urdu": "پاکستان کا رقبہ کے لحاظ سے سب سے بڑا صوبہ کون سا ہے؟",
-      "options": [
-        "Baluchistan",
-        "Punjab",
-        "Sindh",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p \"=\"\" \"\"=\"\" \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" -apple-system,=\"\" 135,=\"\" 150);=\"\" 700;\"=\"\" arial,=\"\" blinkmacsystemfont,=\"\" color=\"\" color:\"=\"\" emoji\",=\"\" emoji\";=\"\" font-family:=\"\" font-weight:=\"\" neue\",=\"\" nunito,=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span 0);=\"\" 0,=\"\" 1rem;\"=\"\" 255);=\"\" 255,=\"\" background-color:=\"\" bolder;=\"\" font-family:=\"\" font-size:=\"\" font-weight:=\"\" helvetica;=\"\" rgb(255,=\"\" style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The fourth country in the Afghanistan Quad comprising the USA, Afghanistan, and Pakistan is?",
-      "urdu": "افغانستان کواڈ میں امریکہ، افغانستان اور پاکستان کے ساتھ چوتھا ملک کون سا ہے؟",
-      "options": [
-        "Uzbekistan",
-        "Iran",
-        "Tajikistan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 29-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The first network that initiated internet was _____?",
-      "urdu": "انٹرنیٹ کی ابتدا کرنے والا پہلا نیٹ ورک کون سا تھا؟",
-      "options": [
-        "Inet",
-        "Vnet",
-        "ARPANET",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     }
   ]
