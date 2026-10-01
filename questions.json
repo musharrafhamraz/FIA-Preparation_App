@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-09-30T22:41:05.855661",
+    "fetched_at": "2026-10-01T06:49:26.175970",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The Antonym of Scent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Stench",
+        "Fragrance",
+        "Smell",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-10-2026</font></b></span></p>",
+      "category": "all"
+    },
     {
       "q": "The Synonym of Avenged is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -643,19 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A single page of PowerPoint presentation is called _____?",
-      "urdu": "پاورپوائنٹ پریزنٹیشن کے ایک صفحے کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Sheet",
-        "Page",
-        "Slide",
-        "Document"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-08-2026</font></b></p>",
       "category": "all"
     }
   ]
