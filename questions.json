@@ -3,10 +3,400 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-02T06:40:55.271593",
+    "fetched_at": "2026-10-02T13:26:19.693767",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "In which view headers and footers are visible?",
+      "urdu": "کون سا مینو  میں ٹیبل داخل کرنے کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Normal View",
+        "Page Layout View",
+        "Print Layout View",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the cold desert known as the Katpana Desert located?",
+      "urdu": "کَٹپانا ریگستان کہاں واقع ہے؟",
+      "options": [
+        "Chitral, Khyber Pakhtunkhwa, Pakistan",
+        "Skardu, Gilgit-Baltistan, Pakistan",
+        "Hunza, Gilgit-Baltistan, Pakistan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The First satellite in the World was?",
+      "urdu": "دنیا کا پہلا سیٹلائٹ کیا تھا؟",
+      "options": [
+        "Sputnik 1",
+        "Sputnik 2",
+        "Sputnik 3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><font color=\"#ff9c00\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "صنم کی جمع کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "صنمات",
+        "اصنام",
+        "صنمی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">صنم</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">بت یا معبودِ باطل</font><font color=\"#0000ff\"> کے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اہل زبان کی مخصوص بول چال جس میں لفظ حقیقی معنوں میں استعمال ہو، وہ کیا کہلاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "روزمرہ",
+        "محاورہ",
+        "مصدر",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">روزمرہ</font><font color=\"#0000ff\"> سے مراد ہے </font><font color=\"#ff0000\">اہلِ زبان</font><font color=\"#0000ff\"> کی عام اور مخصوص بول چال۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مشقت کے معنی کیا ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "محنت اور تکلیف",
+        "خوشی",
+        "آرام",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">مشقت</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">سخت</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">محنت</font><font color=\"#0000ff\">، </font><font color=\"#ff0000\">تکلیف یا دشواری</font><font color=\"#0000ff\"> کے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "جب کسی لفظ کے آخر میں اضافی الفاظ شامل کیے جائیں تو وہ کیا کہلاتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سابقہ",
+        "لاحقہ",
+        "مترادف",
+        "مرکب"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "درست جملے کا انتخاب کریں: مرض بڑھ گیا ہے۔، مرض بڑھ گئی ہے۔، مرض بڑھ گئے ہیں۔، ان میں سے کوئی نہیں",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرض بڑھ گیا ہے۔",
+        "مرض بڑھ گئی ہے۔",
+        "مرض بڑھ گئے ہیں۔",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">مرض</font><font color=\"#0000ff\"> مذکر لفظ ہے، اس لیے </font><font color=\"#ff0000\">گیا ہے</font><font color=\"#0000ff\"> استعمال ہوگا۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "معنوں کے لحاظ سے فعل کے کتنے قسمیں ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دو",
+        "چار",
+        "پانچ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right;\"><span style=\"text-align: left;\"><b style=\"\"><font color=\"#ff0000\">فعل</font><font color=\"#0000ff\"> کی </font><font color=\"#ff0000\">اقسام معنی</font><font color=\"#0000ff\"> کے لحاظ سے </font><font color=\"#ff0000\">فعل</font><font color=\"#0000ff\"> کی </font><font color=\"#ff0000\">چار</font><font color=\"#0000ff\"> قسمیں ہیں</font></b></span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">: (١) </font><font color=\"#ff0000\">فعل لازم</font><font color=\"#0000ff\"> (٢) </font><font color=\"#ff0000\">فعل متعدی</font><font color=\"#0000ff\"> (٣) </font><font color=\"#ff0000\">فعل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ناقص</font><font color=\"#0000ff\"> (٤) </font><font color=\"#ff0000\">فعل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">معدولہ</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "وہ اسم جو کسی جاندار یا بے جان کی آواز کو ظاہر کرے، کیا کہلاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اسم معرفہ",
+        "اسم نکرہ",
+        "اسم مصدر",
+        "اسم صوت"
+      ],
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\">اسم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">صوت</font><font color=\"#0000ff\"> وہ اسم ہوتا ہے جو کسی جاندار یا بے جان کی آواز کو ظاہر کرے، جیسے \"</font><font color=\"#ff0000\">آہٹ</font><font color=\"#0000ff\">\"، \"</font><font color=\"#ff0000\">ڈھول</font><font color=\"#0000ff\">\"، \"</font><font color=\"#ff0000\">ہنکارہ</font><font color=\"#0000ff\">\" وغیرہ۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "درست جملے کا انتخاب کریں: ماہ رمضان کا مہینا شروع ہو گیا۔، ماہِ رمضان شروع ہو گیا۔، ماہ رمضان کا شروع ہو گیا۔، ان میں سے کوئی نہیں",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ماہ رمضان کا مہینا شروع ہو گیا۔",
+        "ماہِ رمضان شروع ہو گیا۔",
+        "ماہ رمضان کا شروع ہو گیا۔",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">ماہ</font><font color=\"#0000ff\"> اور </font><font color=\"#ff0000\">مہینا</font><font color=\"#0000ff\"> ہم معنی </font><font color=\"#ff0000\">الفاظ</font><font color=\"#0000ff\"> ہیں، اس لیے دونوں کو ایک </font><font color=\"#ff0000\">ساتھ استعمال</font><font color=\"#0000ff\"> کرنا </font><font color=\"#ff0000\">تکرار</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "وہ اسم جو نہ کسی سے بنا ہو اور نہ ہی اس سے کوئی کلمہ بنایا جا سکے اسے کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اسم مصدر",
+        "اسم مشتق",
+        "اسم جامد",
+        "اسم معرفہ"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">اسم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جامد</font><font color=\"#0000ff\"> وہ اسم ہوتا ہے جو نہ کسی سے بنا ہو اور نہ ہی اس سے کوئی دوسرا کلمہ بنایا جا سکے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "وہ لفظ جس میں کسی کام یا عمل کے ہونے کا مفہوم پایا جائے، لیکن اس میں زمانہ یا فاعل کا ذکر نہ ہو، اسے کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اسمِ فاعل",
+        "اسمِ مفعول",
+        "اسمِ مصدر",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">اسمِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مصدر</font><font color=\"#0000ff\"> میں کام یا عمل کا </font><font color=\"#ff0000\">مفہوم</font><font color=\"#0000ff\"> پایا جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "بناوٹ کے لحاظ سے اسم کی کتنی اقسام ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دو",
+        "تین",
+        "چار",
+        "پانچ"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><span style=\"font-size: 14px;\"><font color=\"#0000ff\">بناوٹ کے لحاظ سے اسم کی </font><font color=\"#9c00ff\">تین </font><font color=\"#0000ff\">اقسام ہیں</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "فاتح کی جمع کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "فاتحین",
+        "مفتوح",
+        "فاتحہ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">فاتح</font><font color=\"#0000ff\"> کے معنی ہیں: </font><font color=\"#ff0000\">فتح حاصل کرنے والا</font><font color=\"#0000ff\">۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "لفظ \"خورشید\" کے معنی کیا ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سورج",
+        "ستارہ",
+        "آسمان",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">خورشید</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">فارسی</font><font color=\"#0000ff\"> زبان کا لفظ ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country severed all diplomatic ties with Ethiopia in October  2026?",
+      "urdu": "کس ملک نے اکتوبر 2026 میں ایتھوپیا کے ساتھ تمام سفارتی تعلقات منقطع کر لیے؟",
+      "options": [
+        "Egypt",
+        "Eritrea",
+        "Somalia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">Eritrea </font><font color=\"#0000ff\">severed all diplomatic ties with </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ethiopia </font><font color=\"#0000ff\">on </font>1\r\nOctober 2026,<font color=\"#0000ff\"> but the immediate trigger was actually </font><span style=\"background-color: rgb(255, 255, 0);\">Ethiopia’</span><font color=\"#0000ff\">s decision to\r\nclose its embassy in </font><font color=\"#ff00ff\">Eritrea </font><font color=\"#0000ff\">and expel 10 Eritrean diplomats.<o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "لفظ \"مزرع\" کے معنی کیا ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مکان",
+        "کھیت",
+        "مکان",
+        "ان میں سے کوئی نہیں م"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">مزرع</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">کھیت یا کھیتی</font><font color=\"#0000ff\"> کی جگہ کے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "دانائی لفظ کا متضاد کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سمجھ",
+        "عقل",
+        "نادانی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">دانائی</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">عقل، سمجھ اور حکمت</font><font color=\"#0000ff\"> کے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan airstriked Afghanistan in October 2026 under which ongoing military operation?",
+      "urdu": "پاکستان نے اکتوبر 2026 میں کس جاری فوجی آپریشن کے تحت افغانستان پر فضائی حملے کیے؟",
+      "options": [
+        "Operation Radd-ul-Fasaad",
+        "Operation Ghazab lil-Haq",
+        "Operation Rah-e-Nijat",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">carried out airstrikes in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Afghanistan</font><font color=\"#0000ff\"> on October 1, 2026, targeting locations in </font><font style=\"background-color: rgb(255, 255, 0);\">Helmand and Kunar</font><font color=\"#0000ff\"> provinces.<o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistani airstrikes targeted areas in which two provinces of Aghananistan in October 2026?",
+      "urdu": "اکتوبر 2026 میں پاکستانی فضائی حملوں نے افغانستان کے کن دو صوبوں کے علاقوں کو نشانہ بنایا؟",
+      "options": [
+        "Kabul and Nangarhar",
+        "Kunar and Helmand",
+        "Kandahar and Herat",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">carried out airstrikes in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Afghanistan</font><font color=\"#0000ff\"> on October 1, 2026, targeting locations in </font><font style=\"background-color: rgb(255, 255, 0);\">Helmand and Kunar</font><font color=\"#0000ff\"> provinces.<o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "سامع کی جمع کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سامعین",
+        "سمیع",
+        "سماعت",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">سامع</font><font color=\"#0000ff\"> کے معنی ہیں: </font><font color=\"#ff0000\">سننے</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">والا</font><font color=\"#0000ff\">۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In October 2026, Pakistan carried out airstrikes against terrorist hideouts in which country?",
+      "urdu": "اکتوبر 2026 میں پاکستان نے کس ملک میں دہشت گردوں کے ٹھکانوں کے خلاف فضائی حملے کیے؟",
+      "options": [
+        "Iran",
+        "Afghanistan",
+        "India",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">carried out airstrikes in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Afghanistan</font><font color=\"#0000ff\"> on October\r\n1, 2026, targeting locations in </font><font style=\"background-color: rgb(255, 255, 0);\">Helmand and Kunar</font><font color=\"#0000ff\"> provinces.<o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ایسے الفاظ جن کو زبان پر لاتے ہی ان سے متعلقہ اور بہت سے الفاظ ذہن میں آجائیں، انہیں کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "متضاد الفاظ",
+        "متلازم الفاظ",
+        "مترادف الفاظ",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">متلازم</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">الفاظ</font><font color=\"#0000ff\"> ایسے الفاظ ہیں جو آپس میں معنوی تعلق رکھتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "وہ لفظ جو کسی چیز کو چھوٹا کرکے ظاہر کرے، اسے کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اسمِ مکبر",
+        "اسمِ مصغر",
+        "اسمِ ظرف",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">اسمِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">مصغر</font><font color=\"#0000ff\"> وہ لفظ ہے جس میں کسی چیز کے چھوٹا ہونے کے معنی پائے جائیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "وہ اسم جس میں بڑائی کے معنی پائے جائیں کیا کہلاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "اس ظرف",
+        "اسم مکبر",
+        "اسم ظرف مکاں",
+        "اسم مصفر"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "سبق \"نیلی جھیل\" کے مصنف کون ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ڈاکٹر وحید قریشی",
+        "شفیق الرحمٰن",
+        "کرنل محمد خان",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">نیلی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">جھیل</font><font color=\"#0000ff\"> کے مصنف معروف اردو مزاح نگار </font><font color=\"#ff0000\">شفیق الرحمٰن</font><font color=\"#0000ff\"> ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "مرکب جملہ کسے کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ایسا جملہ جو دو یا زیادہ جملوں کو کسی حرف کی مدد سے ملا کر بنایا جائے",
+        "ایسا جملہ جو مکمل نہ ہو",
+        "ایسا جملہ جس میں صرف ایک فقرہ ہو",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">مرکب</font><font color=\"#0000ff\"> جملہ وہ ہوتا ہے </font><font color=\"#ff0000\">جس میں دو یا دو سے زیادہ جملے حرفِ ربط</font><font color=\"#0000ff\"> کے ذریعے آپس میں جُڑے ہوتے ہیں۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country has the Largest Muslim country by population in the world?",
+      "urdu": "آبادی کے لحاظ سے دنیا کا سب سے بڑا مسلم ملک کون سا ملک ہے؟",
+      "options": [
+        "Malysia",
+        "Pakistan",
+        "Turkey",
+        "Indonesia"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 14px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#9c00ff\">Additional information:</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which city is known as the economic hub of China?",
+      "urdu": "چین کا اقتصادی مرکز کس شہر کو کہا جاتا ہے؟",
+      "options": [
+        "Beijing",
+        "Guangzhou",
+        "Shanghai",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "What is the synonym of Quasi?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -265,396 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Calcitonin primarily functions to?",
-      "urdu": "کیلسیٹونن بنیادی طور پر کیا کام کرتا ہے؟",
-      "options": [
-        "Increase blood glucose",
-        "Increase blood calcium",
-        "Decrease blood calcium",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Chromosomes are present in _____?",
-      "urdu": "کروموسومز کہاں موجود ہوتے ہیں؟",
-      "options": [
-        "Nucleus",
-        "Ribosomes",
-        "Cytoplasm",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Two strands of DNA are ____?",
-      "urdu": "ڈی این اے کے دو اسٹرینڈ ____ ہیں؟",
-      "options": [
-        "Antiparallel to each other",
-        "Parallel to each other",
-        "Perpendicular to each other",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan’s gas pipeline project is with which country?",
-      "urdu": "پاکستان کا گیس پائپ لائن منصوبہ کس ملک کے ساتھ ہے؟",
-      "options": [
-        "China",
-        "Iran",
-        "Russia",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Last verified on 04-09-2026</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the world’s most polluted city, as per the US Air Quality Index?",
-      "urdu": "یو ایس ایئر کوالٹی انڈیکس کے مطابق دنیا کا سب سے آلودہ شہر کون سا ہے؟",
-      "options": [
-        "Karachi",
-        "Delhi",
-        "Lahore",
-        "New York"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#0000ff\">Top </font><font color=\"#ff0000\" style=\"\">three polluted city </font><font color=\"#0000ff\">in the World:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the national bird of Pakistan?",
-      "urdu": "پاکستان کا قومی پرندہ کونسا ہے؟",
-      "options": [
-        "Parrot",
-        "Chakor",
-        "Pigeon",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Interest is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Like",
-        "Dislike",
-        "Hate",
-        "Bad"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Grew is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Increased",
-        "Decreased",
-        "Reduced",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Hardship is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Relief",
-        "Comfort",
-        "Tribulation",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Great is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Excellent",
-        "Weak",
-        "Ordinary",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Effort is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rest",
-        "Attempt",
-        "Failure",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Spare is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Extra",
-        "Waste",
-        "Necessary",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Vast is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Immense",
-        "Limited",
-        "Comfort",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Assembled is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Scattered",
-        "Separated",
-        "Gathered",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Conveying is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hiding",
-        "Communicating",
-        "Suppressing",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Intense is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Weak",
-        "Mild",
-        "Strong",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Retire is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Continue",
-        "Withdraw",
-        "Advance",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Dearly is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Carelessly",
-        "Cheaply",
-        "Lovingly",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Traced is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Tracked",
-        "Ignored",
-        "Hidden",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Piety is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sinfulness",
-        "Devotion",
-        "Disobedience",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Scent is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Stench",
-        "Fragrance",
-        "Smell",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-10-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Avenged is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Revenged",
-        "Forgave",
-        "Ignored",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Trust is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Doubt",
-        "Fear",
-        "Confidence",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Pilgrim is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Traveller",
-        "Merchant",
-        "Resident",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Sacred is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cursed",
-        "Holy",
-        "Doomed",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 30-09-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Ignorance is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Knowledge",
-        "Wisdom",
-        "Unawareness",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Submission is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Surrender",
-        "Defiance",
-        "Rebellion",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Reveal is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hide",
-        "Conceal",
-        "Disclose",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Nobility is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cruelty",
-        "Dignity",
-        "Weakness",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Expanse is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Crack",
-        "Area",
-        "Gap",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-09-2026</font></b></p>",
       "category": "all"
     }
   ]
