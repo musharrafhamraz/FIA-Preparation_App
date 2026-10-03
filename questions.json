@@ -3,10 +3,179 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-02T22:38:52.256331",
+    "fetched_at": "2026-10-03T06:02:07.451230",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which is the best way to evaluate classroom activity?",
+      "urdu": "کلاس روم کی سرگرمی کا جائزہ لینے کا بہترین طریقہ کون سا ہے؟",
+      "options": [
+        "Competitive grading",
+        "Rubrics-based evaluation",
+        "Surprise assessment",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One can be a good teacher if he/she _____?",
+      "urdu": "کوئی شخص اچھا استاد بن سکتا ہے اگر وہ ______؟",
+      "options": [
+        "Has genuine interest in teaching",
+        "Knows how to control students",
+        "Knows his/her subject",
+        "Has good expression"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The least count of Vernier caliper is _____?",
+      "urdu": "ورنیئر کیلیپر کی سب سے کم گنتی کتنی ہے؟",
+      "options": [
+        "0.1cm",
+        "0.2mm",
+        "0.01mm",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">The least count of a </font><font color=\"#ff0000\">Vernier caliper</font><font color=\"#0000ff\"> is </font><font color=\"#ff0000\">0.1 mm (or 0.01 cm)</font><font color=\"#0000ff\">.</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "سنڌي ٻولي ڪتاب ڪنھن جو لکيل آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سراج الحق ميمڻ",
+        "سراج",
+        "غلام علي الانا",
+        "ڊاڪٽر نبي بخش"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The city is known as the \"City of Lights\" in Pakistan is?",
+      "urdu": "اس شہر کو پاکستان میں \"سٹی آف لائٹس\" کے نام سے جانا جاتا ہے؟",
+      "options": [
+        "Karachi",
+        "Quetta",
+        "Lahore",
+        "Multan"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem; font-weight: bolder;\"><font color=\"#ff00ff\"><br/></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest province of Pakistan by area is _____?",
+      "urdu": "پاکستان کا رقبہ کے لحاظ سے سب سے بڑا صوبہ کون سا ہے؟",
+      "options": [
+        "Baluchistan",
+        "Punjab",
+        "Sindh",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p \"=\"\" \"\"=\"\" \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" -apple-system,=\"\" 135,=\"\" 150);=\"\" 700;\"=\"\" arial,=\"\" blinkmacsystemfont,=\"\" color=\"\" color:\"=\"\" emoji\",=\"\" emoji\";=\"\" font-family:=\"\" font-weight:=\"\" neue\",=\"\" nunito,=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span 0);=\"\" 0,=\"\" 1rem;\"=\"\" 255);=\"\" 255,=\"\" background-color:=\"\" bolder;=\"\" font-family:=\"\" font-size:=\"\" font-weight:=\"\" helvetica;=\"\" rgb(255,=\"\" style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the most populated city in Pakistan?",
+      "urdu": "پاکستان کا سب سے زیادہ آبادی والا شہر کون سا ہے؟",
+      "options": [
+        "Islamabad",
+        "Lahore",
+        "Karachi",
+        "Murree"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which memory type is fastest and is typically located inside the CPU?",
+      "urdu": "کون سی میموری سب سے تیز ہوتی ہے اور عام طور پر سی پی یو کے اندر موجود ہوتی ہے؟",
+      "options": [
+        "Main Memory",
+        "SRAM",
+        "Cache Memory",
+        "DRAM"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a type of non-volatile storage device that is used to store data permanently, even when the power is turned off?",
+      "urdu": "مندرجہ ذیل میں سے کون سا نان وولیٹائل اسٹوریج ڈیوائس ہے جو بجلی بند ہونے کے بعد بھی ڈیٹا محفوظ رکھتا ہے؟",
+      "options": [
+        "ROM",
+        "RAM",
+        "CPU",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a volatile memory? RAM, ROM, Cache, Both A and C",
+      "urdu": "مندرجہ ذیل میں سے کون سی غیر مستحکم میموری ہے؟",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is known as the father of computer?",
+      "urdu": "کمپیوٹر کا بانی کس کو کہا جاتا ہے؟",
+      "options": [
+        "Barbara Liskov",
+        "Tim Berners-Lee",
+        "Charles Babbage",
+        "John von Neumann"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the first component of the International Space Station (ISS) launched?",
+      "urdu": "بین الاقوامی خلائی اسٹیشن  کا پہلا جزو کب خلا میں بھیجا گیا تھا؟",
+      "options": [
+        "20 November 1998",
+        "4 October 1957",
+        "12 April 1961",
+        "15 November 2000"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Seattle is a sea port of which country?",
+      "urdu": "سیٹل کس ملک کی سمندری بندرگاہ ہے؟",
+      "options": [
+        "Russia",
+        "USA",
+        "China",
+        "Germany"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span><font color=\"#9c00ff\"></font></p>",
+      "category": "all"
+    },
     {
       "q": "Find the missing number in the series: 18, 30, __, 54, 66",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -485,175 +654,6 @@
         "They need bid security"
       ],
       "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Under the rules, bid security is forfeited mainly if a bidder:",
-      "urdu": "قواعد کے تحت بڈ سیکیورٹی بنیادی طور پر کب ضبط ہوتی ہے اگر بولی دہندہ:",
-      "options": [
-        "Asks for clarification",
-        "Submits his bid early",
-        "Withdraws his bid during validity or refuses to sign the contract/furnish performance guarantee",
-        "Attends bid opening"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The professional who reviews procurement proceedings for compliance with the PP Rules at the federal level is the:",
-      "urdu": "وفاقی سطح پر خریداری کے عمل کی قواعد کے مطابق جانچ کرنے والا ادارہ کون سا ہے؟",
-      "options": [
-        "Competition Commission",
-        "Public Procurement Regulatory Authority",
-        "Securities and Exchange Commission",
-        "Federal Board of Revenue"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Procurement by the Federal Investigation Agency (FIA) is governed by the:",
-      "urdu": "وفاقی تحقیقاتی ادارے (FIA) کی خریداری کن قواعد کے تحت ہوتی ہے؟",
-      "options": [
-        "Sindh Procurement Rules",
-        "Public Procurement Rules (federal)",
-        "No rules apply",
-        "Punjab Procurement Rules"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Disposal of public assets by federal agencies was brought under PPRA's purview, and is processed on e-PADS on:",
-      "urdu": "وفاقی اداروں کے سرکاری اثاثوں کی فروخت پی پی آر اے کے دائرہ میں لا کر e-PADS پر کس بنیاد پر کی جاتی ہے؟",
-      "options": [
-        "'As is where is' basis",
-        "Guaranteed condition basis",
-        "Credit terms",
-        "Barter"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The 'two-envelope' system separates:",
-      "urdu": "'ٹو انویلپ' نظام کن چیزوں کو الگ کرتا ہے؟",
-      "options": [
-        "Technical proposal and financial proposal",
-        "Bid security and performance guarantee",
-        "National and international bids",
-        "Goods and works"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which bidding procedure is most suitable for procurement of consultancy services where quality is important?",
-      "urdu": "مشاورتی خدمات جہاں معیار اہم ہو، کے لیے کون سا بڈنگ طریقہ زیادہ موزوں ہے؟",
-      "options": [
-        "Single stage – one envelope with price only",
-        "Petty purchase",
-        "Direct contracting always",
-        "Single stage – two envelope"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A procuring agency mentions a specific brand name in the specifications without justification. This violates:",
-      "urdu": "خریدار ادارہ بلا جواز اسپیسیفکیشنز میں مخصوص برانڈ کا نام لکھتا ہے۔ یہ کس رول کی خلاف ورزی ہے؟",
-      "options": [
-        "Rule 10",
-        "Rule 25",
-        "Rule 43",
-        "Rule 49"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "After bid opening, a bidder offers to reduce his price by 5%. Under the rules, the agency should:",
-      "urdu": "بولیاں کھلنے کے بعد ایک بولی دہندہ اپنی قیمت 5 فیصد کم کرنے کی پیشکش کرتا ہے۔ قواعد کے تحت ادارے کو:",
-      "options": [
-        "Re-bid immediately",
-        "Not accept the modification",
-        "Accept and award",
-        "Negotiate further"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A procuring agency rejects all bids before acceptance. A bidder asks for the reasons. The agency:",
-      "urdu": "خریدار ادارہ قبولیت سے پہلے تمام بولیاں مسترد کر دیتا ہے۔ بولی دہندہ وجوہات پوچھتا ہے۔ ادارہ:",
-      "options": [
-        "Must award to the lowest bidder anyway",
-        "Must pay compensation",
-        "Shall communicate the grounds, but is not required to justify them",
-        "Must refuse to give reasons"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A bidder dissatisfied with the evaluation of bids may first approach the:",
-      "urdu": "بولیوں کی جانچ سے مطمئن نہ ہونے والا بولی دہندہ پہلے کس سے رجوع کر سکتا ہے؟",
-      "options": [
-        "Supreme Court",
-        "Senate",
-        "Grievance Redressal Committee of the procuring agency",
-        "Auditor-General"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Who issues the Standard Bidding Documents used by federal procuring agencies?",
-      "urdu": "وفاقی خریدار اداروں کے لیے اسٹینڈرڈ بڈنگ ڈاکومنٹس کون جاری کرتا ہے؟",
-      "options": [
-        "PPRA",
-        "FBR",
-        "State Bank",
-        "Planning Commission"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Under the PPRA Ordinance, 2002, the Authority's functions include:",
-      "urdu": "پی پی آر اے آرڈیننس 2002 کے تحت اتھارٹی کے فرائض میں شامل ہے:",
-      "options": [
-        "Auditing government accounts",
-        "Appointing civil servants",
-        "Collecting income tax",
-        "Monitoring application of the procurement laws, rules and procedures"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The original contract was for Rs. 10 million. The maximum repeat order through direct contracting is:",
-      "urdu": "اصل ٹھیکہ ایک کروڑ روپے کا تھا۔ براہ راست معاہدے کے ذریعے زیادہ سے زیادہ ریپیٹ آرڈر کتنا ہو سکتا ہے؟",
-      "options": [
-        "Rs. 10 million (100%)",
-        "Rs. 5 million (50%)",
-        "Rs. 0.5 million (5%)",
-        "Rs. 1.5 million (15%)"
-      ],
-      "correct": 3,
       "explanation": "",
       "category": "all"
     }
