@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-04T06:37:04.598864",
+    "fetched_at": "2026-10-04T12:59:41.702030",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Pakistan launched National Mental Health Policy for which term?",
+      "urdu": "پاکستان نے کس مدت کے لیے قومی ذہنی صحت کی پالیسی کا آغاز کیا؟",
+      "options": [
+        "2026–2030",
+        "2026–2035",
+        "2026–2032",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">In October 2026, <span style=\"background-color: rgb(255, 255, 0);\">Pakistan </span>launched </font><font color=\"#ff0000\">National Mental Health\r\nPolicy</font><font color=\"#0000ff\"> for </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">2026-35.</font><font color=\"#0000ff\"><o:p></o:p></font></b></p>",
+      "category": "all"
+    },
     {
       "q": "In March 2026, which country attacked Bagram Air Base?",
       "urdu": "مارچ 2026 میں بگرام ایئر بیس پر کس ملک نے حملہ کیا؟",
@@ -642,19 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><font color=\"#0000ff\"><b>Current Ages:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Graphics for word processor is?",
-      "urdu": "ورڈ پروسیسر کے لیے گرافکس ہے؟",
-      "options": [
-        "Peripheral",
-        "Clip art",
-        "Highlight",
-        "Execute"
-      ],
-      "correct": 1,
-      "explanation": "",
       "category": "all"
     }
   ]
