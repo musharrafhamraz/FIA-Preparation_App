@@ -3,539 +3,577 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-08T19:06:45.852325",
+    "fetched_at": "2026-10-08T23:35:20.650098",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "24375 books are to be arranged equally in shelves, of 375 books are arranged in each shelf, how many shelves will be needed?",
+      "q": "He insisted __ going _____ them.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "55",
-        "65",
-        "75",
-        "85"
+        "With /on",
+        "In /with",
+        "To /of",
+        "On / with"
       ],
-      "correct": 1,
-      "explanation": "<p class=\"PDq2pG_selectionAnchorContainer\" data-end=\"24\" data-start=\"14\" dir=\"auto\"><font color=\"#0000ff\"><strong data-end=\"24\" data-start=\"14\">Given:</strong><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "correct": 3,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#0000ff\">He insisted </font><font color=\"#00ff00\">on </font><font color=\"#0000ff\">going </font><font color=\"#9c00ff\">with </font><font color=\"#0000ff\">them.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "A train travels at 12 km/h. How much distance will it cover in 15 minutes?",
+      "q": "He has married____ doctor.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "2 km",
-        "3 km",
-        "4 km",
-        "5 km"
+        "To",
+        "With",
+        "At",
+        "A"
       ],
-      "correct": 1,
-      "explanation": "<p data-end=\"99\" data-start=\"87\" dir=\"auto\"><strong data-end=\"99\" data-start=\"87\"><font color=\"#9c00ff\">Formula:</font></strong></p>",
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\">He has married </font><font color=\"#ff0000\">a </font><font color=\"#0000ff\">doctor.</font></p>",
       "category": "all"
     },
     {
-      "q": "Find the missing number of the series: 13, 32, 24, 43, 35, ?, 46, 65, 57, 76",
+      "q": "I insisted _____ going.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "45",
-        "54",
-        "52",
-        "55"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">Series: </font><font color=\"#ff0000\">13, 32, 24, 43, 35, ?, 46, 65, 57, 76</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The average of 3 numbers is 33. What is the greatest possible number among the three?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "33",
-        "66",
-        "99",
-        "100"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"><span aria-label=\"text{Average}=frac{text{Sum of numbers}}{text{Number of numbers}}\" data-client-katex-layout=\"\" data-end=\"88\" data-math-source=\"text{Average}=frac{text{Sum of numbers}}{text{Number of numbers}}\" data-start=\"13\" role=\"math\"><span class=\"katex-display\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mord text\"><span class=\"mord\">Average</span></span><span class=\"mspace\"></span><span class=\"mrel\">=</span></span><span class=\"base\"><span class=\"mord\"><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"mord\"><span class=\"mord text\"><span class=\"mord\">Sum of numbers</span></span></span></span></span></span></span></span></span></span></span></span></span><span style=\"font-size: 0.875rem;\">Number of numbers</span><span style=\"font-size: 0.875rem;\">​</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Edify is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Destroy",
-        "Confuse",
-        "Instruct",
-        "Ignore"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Tentative is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Certain",
-        "Permanent",
-        "Uncertain",
-        "Final"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the synonym of TAWDRY?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Gaudy",
-        "Yellow-orange",
-        "Ancient",
-        "Forward"
+        "On",
+        "To",
+        "For",
+        "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><ul></ul></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What is the synonym of IMPAIR?",
+      "q": "To face the music means _____?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Weaken",
-        "Mend",
-        "Entreat",
-        "Corrupt"
+        "To be greeted rudely",
+        "To be offered warm",
+        "To be on the front seat in a concert",
+        "To bear the consequence"
       ],
-      "correct": 0,
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "DBMS stands for ______?",
+      "urdu": "ڈی بی ایم ایس کا مطلب ______ ہے؟",
+      "options": [
+        "Database Management Software",
+        "Database Management System",
+        "Database Management Service",
+        "None of these"
+      ],
+      "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "The Synonym of Abettor is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "In MS PowerPoint we press _____ key to start slideshow from current slide.",
+      "urdu": "ایم ایس پاورپوائنٹ میں ہم موجودہ سلائیڈ سے سلائیڈ شو شروع کرنے کے لئے _____ کی کو دبائیں۔",
       "options": [
-        "Gambler",
-        "Slaughter-house",
-        "Encourager",
+        "F5",
+        "Ctrl + F5",
+        "Shift + F5",
+        "Alt + F5"
+      ],
+      "correct": 2,
+      "explanation": "<p><font style=\"\"><span style=\"font-family: Helvetica;\"><b style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "One Megabyte (MB) is equal to ____?",
+      "urdu": "ایک میگا بائٹ (ایم بی) کس کے برابر ہے؟",
+      "options": [
+        "1024 Bits",
+        "1024 Bytes",
+        "1024 Kilobytes",
+        "1024 Gigabytes"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Where the General Headquarters (GHQ) of Pakistan Armed Forces (Pakistan Army) are located?",
+      "urdu": "پاکستان آرمی کا جی ایچ کیو کہاں واقع ہے۔",
+      "options": [
+        "Islamabad",
+        "Rawalpindi",
+        "Lahore",
+        "Karachi"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">The General </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">Headquarters</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> (GHQ) is the headquarters of</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"> the Pakistan Army </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Chief of Defence Forces of Pakistan?",
+      "urdu": "پاکستان کی دفاعی افواج کا موجودہ سربراہ کون ہے؟",
+      "options": [
+        "Gen Raheel Sharif",
+        "Gen Qamar Javed Bajwa",
+        "Syed Asim Munir",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-05-2026</font></b></p>",
+      "explanation": "<p></p>",
       "category": "all"
     },
     {
-      "q": "What is the synonym of BOMBASTIC?",
+      "q": "The currency of South Africa is ______?",
+      "urdu": "جنوبی افریقہ کی کرنسی کونسی ہے؟",
+      "options": [
+        "Rupee",
+        "Dinar",
+        "Rand",
+        "Dollar"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which surah is known as the Heart of Holy Quran?",
+      "urdu": "وہ کون سی سورت ہے جسے قرآن پاک کا دل کہا جاتا ہے؟",
+      "options": [
+        "Surah Yaseen",
+        "Surah Rehman",
+        "Surah Al-Baqara",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which battle was the trench dug?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Inflated",
-        "Explosive",
-        "Retaliatory",
-        "Meek"
+        "Uhad",
+        "Khandaq",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><p \"helvetica=\"\" -webkit-text-stroke-width:=\"\" 0px;=\"\" 255);=\"\" 255,=\"\" 2;=\"\" 37,=\"\" 400;=\"\" 41);\"=\"\" arial,=\"\" background-color:=\"\" color:=\"\" font-style:=\"\" font-variant-caps:=\"\" font-variant-ligatures:=\"\" font-weight:=\"\" helvetica,=\"\" initial;=\"\" letter-spacing:=\"\" neue\",=\"\" none;=\"\" normal;=\"\" open=\"\" orphans:=\"\" rgb(255,=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" start;=\"\" style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; font-size: 14px !important; font-family: \" text-align:=\"\" text-decoration-color:=\"\" text-decoration-style:=\"\" text-decoration-thickness:=\"\" text-indent:=\"\" text-transform:=\"\" white-space:=\"\" widows:=\"\" word-spacing:=\"\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span 49,=\"\" 700;=\"\" 99);\"=\"\" arial=\"\" black\";=\"\" black\";\"=\"\" color:=\"\" font-weight:=\"\" rgb(0,=\"\" style=\"box-sizing: border-box;\"></span></span></p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Boundary agreement was signed between Pakistan and China in?",
+      "urdu": "پاکستان اور چین کے درمیان سرحدی معاہدے پر دستخط  کب ہوئے؟",
+      "options": [
+        "2 March 1963",
+        "2 March 1962",
+        "2 March 1969",
+        "2 March 1947"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoListParagraph\" style=\"margin-left: 0.25in; line-height: 150%;\"><font style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(0, 0, 255); line-height: 107%;\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Fasting (Roza) made obligatory in Islam?",
+      "urdu": "روزہ کب فرض کیا گیا؟",
+      "options": [
+        "8th Shaban, 2 A.H",
+        "7th Shaban, 2 A.H",
+        "10th Shaban, 2 A.H",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">When fasting was made obligatory:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Cabinet Mission announced their plan on which date?",
+      "urdu": "کیبنٹ مشن نے کس تاریخ کو اپنے منصوبے کا اعلان کیا؟",
+      "options": [
+        "8th April 1947",
+        "5th December 1947",
+        "15th January 1947",
+        "16th May 1946"
+      ],
+      "correct": 3,
+      "explanation": "<p><span style=\"font-size: 13.3333px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-05-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which formula is used to find the number of numerical cells in a range of cells in Excel?",
+      "urdu": "ایکسل میں کسی رینج میں موجود عددی سیلز کی تعداد معلوم کرنے کے لیے کون سا فارمولا استعمال ہوتا ہے؟",
+      "options": [
+        "COUNTIF",
+        "COUNT",
+        "COUNTA",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How can you insert a page break in Microsoft Word?",
+      "urdu": "مائیکروسافٹ ورڈ میں پیج بریک کیسے ڈالا جاتا ہے؟",
+      "options": [
+        "Ctrl + Tab",
+        "Ctrl + Enter",
+        "Ctrl + Alt",
+        "Ctrl + Shift"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is increased by 20% and then decreased by 20%. Find the net increase or decrease percent?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Does not changes",
+        "Decreased by 4%",
+        "Increased by 4%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The last ruler of Ottoman Empire was _____?",
+      "urdu": "سلطنت عثمانیہ کا آخری حکمران _____ تھا؟",
+      "options": [
+        "Sultan Ahmad",
+        "Abdul Majeed II",
+        "Sultan Mehmood",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which shortcut key is used to use the find and replace feature?",
+      "urdu": "فائنڈ اینڈ ریپلیس فیچر استعمال کرنے کے لیے کون سا شارٹ کٹ کی استعمال ہوتا ہے؟",
+      "options": [
+        "CTRL + H",
+        "CTRL + F",
+        "CTRL + G",
+        "CTRL + R"
       ],
       "correct": 0,
       "explanation": "<p></p>",
       "category": "all"
     },
     {
-      "q": "Synonym of Intimate is?",
+      "q": "The perimeter of square whose side is 2.5 cm long is.",
+      "urdu": "مربع کا دائرہ جس کی طرف 2.5 سینٹی میٹر لمبا ہے۔",
+      "options": [
+        "10 cm",
+        "15 cm",
+        "20 cm",
+        "25 cm"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>Given:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Colorado river is located in ______ ?",
+      "urdu": "کولوراڈو دریا کہاں واقع ہے؟",
+      "options": [
+        "Canada",
+        "U.K",
+        "Australia",
+        "USA"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If 20% of a is equal to 80% of b which of the following is equal to a + b?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Distant",
-        "Strange",
-        "Close",
-        "Hostile"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"> Intimate means:</font><font color=\"#ff0000\"> Very close, familiar, or private.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Instructions given to a computer are executed in which language?",
-      "urdu": "کمپیوٹر کو دی گئی ہدایات کس زبان میں دی جاتی ہیں؟",
-      "options": [
-        "Assembly Language",
-        "High-Level Language",
-        "Machine Language",
-        "Scripting Language"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the first manifestation of faith in Islam?",
-      "urdu": "اسلام میں ایمان کا پہلا مظہر کیا ہے؟",
-      "options": [
-        "Prayer",
-        "Zakat",
-        "Hajj",
-        "Shahadah"
+        "3a",
+        "2.5a",
+        "2a",
+        "1.5a"
       ],
       "correct": 3,
-      "explanation": "",
+      "explanation": "<p><b><font color=\"#ff0000\">Let's start by using the information that 20% of a is equal to 80% of b</font><font color=\"#0000ff\">. We can write this as an equation:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which was the first computer language?",
-      "urdu": "کمپیوٹر کی پہلی زبان کون سی تھی؟",
+      "q": "Who was the fourth Governor-General of Pakistan?",
+      "urdu": "پاکستان کے چوتھے گورنر جنرل کون تھے؟",
       "options": [
-        "Pascal",
-        "BASIC",
-        "Cobol",
-        "Fortron"
+        "Muhammad Ali Jinnah",
+        "Sir Khawaja Nazimuddin",
+        "Sir Ghulam Muhammad",
+        "Iskander Mirza"
       ],
       "correct": 3,
-      "explanation": "",
+      "explanation": "<p>List of Governors-General of Pakistan</p>",
       "category": "all"
     },
     {
-      "q": "Who concluded a three-day official visit to Pakistan on October 8, 2026?",
-      "urdu": "آٹھ اکتوبر 2026 کو پاکستان کے تین روزہ سرکاری دورے کا اختتام کس نے کیا؟",
+      "q": "The first Martial Law was imposed on Pakistan under leadership of?",
+      "urdu": "پاکستان میں پہلا مارشل لاء کس کی قیادت میں لگایا گیا تھا؟",
       "options": [
-        "Antonio Guterres",
-        "Volker Turk",
-        "Tedros Adhanom",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">United Nations Secretary-General</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Antonio Guterres</font><font color=\"#0000ff\"> arrived in </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">for a three-day official visit from </font>October 6 to 8<font color=\"#0000ff\">, 2026.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Prime Minister of Malaysia?",
-      "urdu": "ملائیشیا کا موجودہ وزیر اعظم کون ہے؟",
-      "options": [
-        "Mahathir Bin Mohamad",
-        "Anwar Ibrahim",
-        "Ismail Sabri Yaakob",
+        "General Yahya Khan",
+        "General Ayub Khan",
+        "General Pervez Musharraf",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">Anwar Ibrahim </font><font color=\"#0000ff\">is the current &amp; <span style=\"background-color: rgb(255, 255, 0);\">10th</span> prime minister of </font><font color=\"#ff0000\">Malaysia </font><font color=\"#0000ff\">since November </font><font color=\"#ff0000\">2022</font></b></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Anne Carson became the first Canadian to win the Nobel Prize in Literature in 2026 since which year?",
-      "urdu": "این کارسن 2026 میں ادب کا نوبل انعام جیتنے والی پہلی کینیڈین بنیں؛ یہ اعزاز اس سے قبل کس سال کے بعد کسی کینیڈین کو ملا تھا؟",
+      "q": "Who was a good Player of flute?",
+      "urdu": "بانسری کا اچھا بجانے والا کون تھا؟",
       "options": [
-        "2011",
-        "2012",
-        "2013",
+        "Hazart Idrees (AS)",
+        "Hazart Yahya (AS)",
+        "Hazart Dawood (AS)",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Literature <font color=\"#0000ff\">has been awarded to poet, essayist, and translator </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Anne Carson.<o:p></o:p></font></span></p>",
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Anne Carson is the author of which country who has been awarded the 2026 Nobel Prize in Literature?",
-      "urdu": "این کارسن کس ملک کی مصنفہ ہیں جنہیں ادب کا 2026 کا نوبل انعام دیا گیا ہے؟",
+      "q": "Which number will complete the number series? 2, 5, 12, 23, 38, 57, ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "USA",
-        "Canada",
-        "United Kingdom",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Literature <font color=\"#0000ff\">has been awarded to poet, essayist, and translator </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Anne Carson.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 Nobel Prize in Literature?",
-      "urdu": "ادب کا 2026 کا نوبل انعام کس نے جیتا؟",
-      "options": [
-        "Anne Carson",
-        "Margaret Atwood",
-        "Haruki Murakami",
+        "80",
+        "70",
+        "76",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Literature <font color=\"#0000ff\">has been awarded to poet, essayist, and\r\ntranslator </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Anne Carson.<o:p></o:p></font></b></p>",
+      "explanation": "<p><font color=\"#0000ff\"><b>2 + 3 = 5</b></font></p>",
       "category": "all"
     },
     {
-      "q": "Secretary General of which organization Antonio Guterres visited Pakistan in 2026?",
-      "urdu": "انتونیو گوتریس نے 2026 میں کس تنظیم کے سیکرٹری جنرل کی حیثیت سے پاکستان کا دورہ کیا؟",
+      "q": "What is 16 out of 80 as a percentage?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "NATO",
-        "European Union",
-        "UN",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif; color: rgb(33, 37, 41);'><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">United Nations Secretary-General</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Antonio Guterres</font><font color=\"#0000ff\"> arrived in </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">for a three-day official visit from </font>October 6 to 8<font color=\"#0000ff\">, 2026.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "United Nations Secretary General Antonio Guterres' visit to Pakistan lasted from?",
-      "urdu": "اقوام متحدہ کے سیکرٹری جنرل انتونیو گوتریس کا دورۂ پاکستان کب سے کب تک جاری رہا؟",
-      "options": [
-        "October 1–3, 2026",
-        "October 6–8, 2026",
-        "October 4–6, 2026",
+        "10%",
+        "20%",
+        "15%",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">United Nations Secretary-General</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Antonio Guterres</font><font color=\"#0000ff\"> arrived in </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">for a three-day official visit from </font>October 6 to 8<font color=\"#0000ff\">, 2026.<o:p></o:p></font></span></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">(16 ÷ 80) × 100 = </font><font color=\"#ff0000\">20%</font></b></p>",
       "category": "all"
     },
     {
-      "q": "United Nations Secretary General Antonio Guterres made an official visit to Pakistan for how many days in October 2026?",
-      "urdu": "اقوام متحدہ کے سیکرٹری جنرل انتونیو گوتریس نے اکتوبر 2026 میں کتنے دنوں کے لیے پاکستان کا سرکاری دورہ کیا؟",
+      "q": "The computer process both analog and digital signal is ______?",
+      "urdu": "کمپیوٹر پراسیس ینالاگ اور ڈیجیٹل سگنل دونوں ______ ہے؟",
       "options": [
-        "Two days",
-        "Three days",
-        "Five days",
+        "Hybrid",
+        "Analogue",
+        "Digital",
         "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">United Nations Secretary-General</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Antonio Guterres</font><font color=\"#0000ff\"> arrived in </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">for a three-day official visit from </font>October 6 to 8<font color=\"#0000ff\">, 2026.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who dismissed the government of Khawaja Nazim ud Din?",
-      "urdu": "خواجہ ناظم الدین کی حکومت کو کس نے برطرف کیا؟",
-      "options": [
-        "Malik Ghulam Muhammad",
-        "Sikandar Ali Mirza",
-        "M. Ali Bogra",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the First Pakistani to climb K-2?",
-      "urdu": "کے-ٹو کو چڑھنے والا پہلا پاکستانی کون تھا؟",
-      "options": [
-        "Mohsan Rizvi",
-        "Ashraf Aman",
-        "Nazir Hussain",
-        "Nazir Sabir"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "How many noble prize categories are there?",
-      "urdu": "نوبل پرائز کے کتنے زمرے ہیں؟",
-      "options": [
-        "Four",
-        "Five",
-        "Six",
-        "Seven",
-        "Eight"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoListParagraphCxSpFirst\" style=\"\"><!--[if !supportLists]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "The English Channel  is located between which two countries",
-      "urdu": "انگلش چینل کن دو ممالک کے درمیان واقع ہے۔",
-      "options": [
-        "England and France",
-        "England and Italy",
-        "England and USA",
-        "None"
       ],
       "correct": 0,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Babar ruled India for how many years?",
-      "urdu": "بابر نے ہندوستان پر کتنے سال حکومت کی؟",
+      "q": "When Quaid-e-Azam presented his historical fourteen (14) points?",
+      "urdu": "قائداعظم نے اپنے تاریخی چودہ نکات کب پیش کیے؟",
       "options": [
-        "1",
-        "2",
-        "3",
-        "4"
+        "September 1921",
+        "March 1927",
+        "September 1928",
+        "March 1929"
       ],
       "correct": 3,
+      "explanation": "<p><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">          </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Short cut key for opening the font dialog box in Microsoft Word?",
+      "urdu": "مائیکروسافٹ ورڈ میں فونٹ ڈائیلاگ باکس کھولنے کے لیے کون سی شارٹ کٹ کی ہے؟",
+      "options": [
+        "CTRL+B",
+        "CTRL+D",
+        "CTRL+C",
+        "None of these"
+      ],
+      "correct": 1,
       "explanation": "<p><br/></p>",
       "category": "all"
     },
     {
-      "q": "Who was the writer of famous Noval series The Godfather?",
-      "urdu": "مشہور ناول سیریز \"دی گاڈ فادر\" کا مصنف کون تھا؟",
+      "q": "Belief in the Day of Judgement & the afterlife (Akhira) is the _______ articles of faith.",
+      "urdu": "آخرت پر ایمان رکھنا ایمان مفصل میں کونسے نمبر پر ہے؟",
       "options": [
-        "Mario Puzo",
-        "Victor Hue",
-        "John Hilton",
-        "Mack jay"
+        "Third",
+        "Fifth",
+        "Second",
+        "Fourth"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"color: rgb(0, 0, 255); line-height: 17.12px;\">Seven</span><span style=\"color: rgb(0, 0, 255); line-height: 17.12px;\"> </span><span style=\"line-height: 17.12px;\"><font color=\"#0000ff\">essential beliefs are in</font><font color=\"#ff00ff\"> Iman-e-Mafassal</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Average of five number is 4. If the number 2 is added to all five numbers, what will be the average?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Younis (AS) remained in the abdomen of fish for how many days?",
+      "urdu": "حضرت یونس علیہ السلام کتنے دن مچھلی کے پیٹ میں رہے؟",
+      "options": [
+        "30 days",
+        "40 days",
+        "20 days",
+        "10 days",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><o:p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"> </span></o:p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Prophet was swallowed by a whale (fish) and remained in its abdomen?",
+      "urdu": "کون سے نبی مچھلی (وہیل) کے پیٹ میں رہے تھے؟",
+      "options": [
+        "Hazrat Ibrahim AS",
+        "Hazrat Musa AS",
+        "Hazrat Younas AS",
+        "Hazrat Dawood AS"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Zaboor was revealed on which Prophet?",
+      "urdu": "زبور کس نبیؑ پر نازل ہوئی؟",
+      "options": [
+        "Hazrat Mossa (a.s)",
+        "Hazrat Issa (a.s)",
+        "Hazrat Dawood (a.s)",
+        "Hazrat Muhammad (a.s)"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Al-Biruni came to India with ______?",
+      "urdu": "البیرونی کس کے ساتھ ہندوستان آئے تھے؟",
+      "options": [
+        "Alexander the Great",
+        "Mehmud Ghaznavi",
+        "Muhammad Ghori",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which desert is located in Eastern part of Punjab?",
+      "urdu": "پنجاب کے مشرقی حصے میں کون سا صحرا ہے؟",
+      "options": [
+        "Kharan Desert",
+        "Thar Desert",
+        "Thal Desert",
+        "Cholistan Desert"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who dismissed Benazir Bhutto’s Government for the second time?",
+      "urdu": "بے نظیر بھٹو کی حکومت کو دوسری بار کس نے برطرف کیا؟",
+      "options": [
+        "Rafiq Tarar",
+        "Farooq Ahmed Khan Leghari",
+        "Shaukat Aziz",
+        "Yahya Khan"
+      ],
+      "correct": 1,
+      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "“In the Line of Fire” is the autobiography of ____?",
+      "urdu": "ان دی لائن آف فائر کس کی خود نوشت ہے؟",
+      "options": [
+        "Pervez Musharraf",
+        "Benazir Bhutto",
+        "Zia-Ul-Haq",
+        "Asif Zardari"
       ],
       "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Autobiography:</font><font color=\"#ff0000\"> In the Line of Fire</font><font color=\"#0000ff\"> </font><font color=\"#0000ff\">by </font><font color=\"#ff0000\">Pervez Musharraf</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "DVI stands for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Digital Video Interface",
+        "Digital Visual Interface",
+        "Digital Virtual Interface",
+        "Direct Visual Input"
+      ],
+      "correct": 1,
       "explanation": "",
       "category": "all"
     },
     {
-      "q": "Who was the opponent of Ayub Khan in the Presidential election of 1965?",
-      "urdu": "سن 1965 کے صدارتی انتخابات میں ایوب خان کا مخالف کون تھا؟",
+      "q": "The Peacock Throne was made for ____?",
+      "urdu": "مور کا تخت کس کے لیے بنایا گیا تھا؟",
       "options": [
-        "Fatima Jinnah",
-        "Yahya Khan",
-        "Mrs. Liaqat Ali Khan",
-        "Sikandar Mirza"
+        "Shah Jahan",
+        "Aurangzeb",
+        "Jahangir",
+        "Akbar"
       ],
       "correct": 0,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which Surah of the Holy Quran, rights of the women have been explained?",
+      "urdu": "قرآن مجید کی کس سورہ میں ، خواتین کے حقوق کی وضاحت کی گئی ہے؟",
+      "options": [
+        "Surah Al-Tariq",
+        "Surah Al-Talaq",
+        "Surah Al-Tahreem",
+        "Surah An-Nisa"
+      ],
+      "correct": 3,
       "explanation": "<p><ul></ul></p>",
       "category": "all"
     },
     {
-      "q": "When did Liaquat Ali Khan visit USA?",
-      "urdu": "لیاقت علی خان نے امریکہ کا دورہ کب کیا؟",
+      "q": "Hazrat Ali (R.A) changed capital from Madina after the battle of Jamal to?",
+      "urdu": "حضرت علیؓ نے جنگِ جمل کے بعد دارالحکومت مدینہ سے کہاں منتقل کیا؟",
       "options": [
-        "1949",
-        "1947",
-        "1948",
-        "1950"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Reko Diq reserves of copper and gold are situated in ______ district of Baluchistan.",
-      "urdu": "ریکوڈک کے تانبے اور سونے کے ذخائر بلوچستان کے کس ضلع میں واقع ہیں؟",
-      "options": [
-        "Lasbela",
-        "Chagai",
-        "Quetta",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-07-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many Surahs of the Holy Quran start with Bismillahir Rahmaanir Raheem?",
-      "urdu": "قرآن پاک کی کتنی سورتیں بسم اللہ الرحمن الرحیم سے شروع ہوتی ہیں؟",
-      "options": [
-        "114",
-        "113",
-        "112",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"margin: 0px 0px 16px; border-bottom: 0px rgb(10, 10, 10);\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#ff9c00\"></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which surah of the Holy Quran has Bismillah twice?",
-      "urdu": "قرآن پاک کی کون سی سورت میں بسم اللہ دو بار آتی ہے؟",
-      "options": [
-        "Al Noor",
-        "Al Nahl",
-        "Al Naml",
-        "Al Ra’d"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\"><font style=\"\">Additional information</font>:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Shanghai Cooperation Organisation was founded in:",
-      "urdu": "شنگھائی تعاون تنظیم کی بنیاد کب  رکھی گئی",
-      "options": [
-        "2000",
-        "2001",
-        "2002",
-        "2003",
-        "2004"
-      ],
-      "correct": 1,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "ECO was founded in?",
-      "urdu": "ای سی او  کی بنیاد ___ میں رکھی گئی تھی۔",
-      "options": [
-        "1985",
-        "1986",
-        "1966",
-        "1988"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\">ECO 10 member states:<br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of following is considered as the unsolicited commercial E mail",
-      "urdu": "مندرجہ ذیل میں سے کس کو غیر مطلوب تجارتی ای میل سمجھا جاتا ہے۔",
-      "options": [
-        "Spam",
-        "Junk",
-        "Flaming",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "BMP abbreviation stands for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Bitmap",
-        "Binary Media Picture",
-        "Basic Media Protocol",
-        "Best Map Picture"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Waterloo, where Napoleon was finally defeated, is situated in ______?",
-      "urdu": "واٹرلو، جہاں نپولین کو آخری شکست ہوئی، کہاں واقع ہے؟",
-      "options": [
-        "France",
-        "Germany",
-        "Holland",
-        "Belgium"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Analogy: Sun : Heat :: Piano : ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sound",
-        "Song",
-        "Music",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Greenwich Mean Time (GMT) is the standard time of which of the following countries?",
-      "urdu": "گرین وچ مین ٹائم  مندرجہ ذیل میں سے کس ملک کا معیاری وقت ہے؟",
-      "options": [
-        "China",
-        "Germany",
-        "USA",
-        "UK"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who introduced firstly the silver coin (rupee) named \"Rupia\" in the Indian subcontinent?",
-      "urdu": "برصغیر پاک و ہند میں \"روپیا\" نامی چاندی کا سکہ کس نے متعارف کرایا؟",
-      "options": [
-        "Sher Shah Suri",
-        "Sikandar Azam",
-        "Mahmood Ghaznavi",
+        "Kuffa",
+        "Baghdad",
+        "Makkah",
         "None of these"
       ],
       "correct": 0,
@@ -543,120 +581,81 @@
       "category": "all"
     },
     {
-      "q": "Who was the first viceroy of India?",
-      "urdu": "ہندوستان کا پہلا وائسرائے کون تھا؟",
+      "q": "When Hazrat Ali (AS) shifted capital from Madina to Kufa?",
+      "urdu": "حضرت علی (ع) نے کب دارالحکومت مدینہ سے کوفہ منتقل کیا؟",
       "options": [
-        "Lord Canning",
-        "Lord Hardinge",
-        "Lord Elgin",
-        "Warren Hastings"
+        "657 CE (36 AH)",
+        "658 CE (37 AH)",
+        "659 CE (38 AH)",
+        "669 AD"
       ],
       "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0070c0\">:</font></span></p>",
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></span></p>",
       "category": "all"
     },
     {
-      "q": "The word uttered before Namaz is called ____?",
-      "urdu": "نماز شروع کرنے سے پہلے کہے جانے والے کلمات کو کیا کہتے ہیں؟",
+      "q": "The Headquarters of Air Force is located in?",
+      "urdu": "ایئر فورس کا ہیڈ کوارٹر کس میں واقع ہے؟",
       "options": [
-        "Tashhad",
-        "Takbeer-e-Tahreema",
-        "Azan",
-        "None of these"
+        "Islamabad",
+        "Peshawar",
+        "Karachi",
+        "Rawalpindi"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\" style=\"line-height:150%\"><font color=\"#0000ff\"><br/></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of the North Atlantic Treaty Organization (NATO) located?",
+      "urdu": "شمالی اوقیانوسی معاہدہ تنظیم (نیٹو) کا ہیڈکوارٹر کہاں واقع ہے؟",
+      "options": [
+        "Washington, D.C., USA",
+        "Brussels, Belgium",
+        "Geneva, Switzerland",
+        "None of the above"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
       "category": "all"
     },
     {
-      "q": "When did Queen Victoria become the Empress of India?",
-      "urdu": "ملکہ وکٹوریہ کب ہندوستان کی مہارانی بنیں؟",
+      "q": "The President of Pakistan elected for a term of years?",
+      "urdu": "پاکستان کا صدرکتنے سال کے لیے منتخب ہوتا ہے؟",
       "options": [
-        "1857",
-        "1876",
-        "1877",
-        "1880"
+        "5",
+        "4",
+        "3",
+        "6"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><o:p></o:p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Tragedy of Karbala took place in the year _____?",
+      "urdu": "سانحہ کربلا کس سال میں پیش آیا؟",
+      "options": [
+        "71 Hijri",
+        "79 Hijri",
+        "61 Hijri",
+        "82 Hijri"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 25-04-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "MAC stands for_______.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Main Access Control",
+        "Media Access Control",
+        "Multiple Access Channel",
+        "Machine Access Code"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Al-Razi is famous for?",
-      "urdu": "الرازی کس شعبے میں مشہور ہیں؟",
-      "options": [
-        "Medicine",
-        "Astronomy",
-        "Mathematics",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Fall of Granada took place in which year?",
-      "urdu": "غرناطہ کا سقوط کس سال ہوا؟",
-      "options": [
-        "1492",
-        "1453",
-        "1487",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which gulf lies between India and Sri Lanka?",
-      "urdu": "بھارت اور سری لنکا کے درمیان کون سی خلیج واقع ہے؟",
-      "options": [
-        "Gulf of Mannar",
-        "Gulf of Aden",
-        "Persian Gulf",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which mineral is abundantly present in the Atacama Desert?",
-      "urdu": "صحرائے اٹاکاما میں کون سی معدنیات وافر مقدار میں پائی جاتی ہے؟",
-      "options": [
-        "Copper",
-        "Gold",
-        "Iron",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the title of the winning novel for the 2026 International Booker Prize?",
-      "urdu": "سن 2026 انٹرنیشنل بُکر پرائز جیتنے والے ناول کا عنوان کیا ہے؟",
-      "options": [
-        "he Nights Are Quiet in Tehran",
-        "On Earth As It Is Beneath",
-        "Taiwan Travelogue",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which country was the Summit of Muslim Countries held in December 2019?",
-      "urdu": "دسمبر 2019 میں مسلم ممالک کا سربراہی اجلاس کس ملک میں منعقد ہوا؟",
-      "options": [
-        "Saudi Arabia",
-        "Turkey",
-        "Malaysia",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated 15-feb-2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff0000\"></font></b></span></p>",
       "category": "all"
     }
   ]
