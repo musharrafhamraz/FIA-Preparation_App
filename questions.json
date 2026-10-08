@@ -3,10 +3,466 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-08T06:59:24.128086",
+    "fetched_at": "2026-10-08T14:18:32.615486",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Reko Diq reserves of copper and gold are situated in ______ district of Baluchistan.",
+      "urdu": "ریکوڈک کے تانبے اور سونے کے ذخائر بلوچستان کے کس ضلع میں واقع ہیں؟",
+      "options": [
+        "Lasbela",
+        "Chagai",
+        "Quetta",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 20-07-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many Surahs of the Holy Quran start with Bismillahir Rahmaanir Raheem?",
+      "urdu": "قرآن پاک کی کتنی سورتیں بسم اللہ الرحمن الرحیم سے شروع ہوتی ہیں؟",
+      "options": [
+        "114",
+        "113",
+        "112",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"margin: 0px 0px 16px; border-bottom: 0px rgb(10, 10, 10);\"><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated by NA ON 16-09-2026</span><font color=\"#ff9c00\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which surah of the Holy Quran has Bismillah twice?",
+      "urdu": "قرآن پاک کی کون سی سورت میں بسم اللہ دو بار آتی ہے؟",
+      "options": [
+        "Al Noor",
+        "Al Nahl",
+        "Al Naml",
+        "Al Ra’d"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\"><font style=\"\">Additional information</font>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Shanghai Cooperation Organisation was founded in:",
+      "urdu": "شنگھائی تعاون تنظیم کی بنیاد کب  رکھی گئی",
+      "options": [
+        "2000",
+        "2001",
+        "2002",
+        "2003",
+        "2004"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "ECO was founded in?",
+      "urdu": "ای سی او  کی بنیاد ___ میں رکھی گئی تھی۔",
+      "options": [
+        "1985",
+        "1986",
+        "1966",
+        "1988"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\">ECO 10 member states:<br/></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of following is considered as the unsolicited commercial E mail",
+      "urdu": "مندرجہ ذیل میں سے کس کو غیر مطلوب تجارتی ای میل سمجھا جاتا ہے۔",
+      "options": [
+        "Spam",
+        "Junk",
+        "Flaming",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "BMP abbreviation stands for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bitmap",
+        "Binary Media Picture",
+        "Basic Media Protocol",
+        "Best Map Picture"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Waterloo, where Napoleon was finally defeated, is situated in ______?",
+      "urdu": "واٹرلو، جہاں نپولین کو آخری شکست ہوئی، کہاں واقع ہے؟",
+      "options": [
+        "France",
+        "Germany",
+        "Holland",
+        "Belgium"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Analogy: Sun : Heat :: Piano : ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sound",
+        "Song",
+        "Music",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Greenwich Mean Time (GMT) is the standard time of which of the following countries?",
+      "urdu": "گرین وچ مین ٹائم  مندرجہ ذیل میں سے کس ملک کا معیاری وقت ہے؟",
+      "options": [
+        "China",
+        "Germany",
+        "USA",
+        "UK"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who introduced firstly the silver coin (rupee) named \"Rupia\" in the Indian subcontinent?",
+      "urdu": "برصغیر پاک و ہند میں \"روپیا\" نامی چاندی کا سکہ کس نے متعارف کرایا؟",
+      "options": [
+        "Sher Shah Suri",
+        "Sikandar Azam",
+        "Mahmood Ghaznavi",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who was the first viceroy of India?",
+      "urdu": "ہندوستان کا پہلا وائسرائے کون تھا؟",
+      "options": [
+        "Lord Canning",
+        "Lord Hardinge",
+        "Lord Elgin",
+        "Warren Hastings"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0070c0\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The word uttered before Namaz is called ____?",
+      "urdu": "نماز شروع کرنے سے پہلے کہے جانے والے کلمات کو کیا کہتے ہیں؟",
+      "options": [
+        "Tashhad",
+        "Takbeer-e-Tahreema",
+        "Azan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did Queen Victoria become the Empress of India?",
+      "urdu": "ملکہ وکٹوریہ کب ہندوستان کی مہارانی بنیں؟",
+      "options": [
+        "1857",
+        "1876",
+        "1877",
+        "1880"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Al-Razi is famous for?",
+      "urdu": "الرازی کس شعبے میں مشہور ہیں؟",
+      "options": [
+        "Medicine",
+        "Astronomy",
+        "Mathematics",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Fall of Granada took place in which year?",
+      "urdu": "غرناطہ کا سقوط کس سال ہوا؟",
+      "options": [
+        "1492",
+        "1453",
+        "1487",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which gulf lies between India and Sri Lanka?",
+      "urdu": "بھارت اور سری لنکا کے درمیان کون سی خلیج واقع ہے؟",
+      "options": [
+        "Gulf of Mannar",
+        "Gulf of Aden",
+        "Persian Gulf",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which mineral is abundantly present in the Atacama Desert?",
+      "urdu": "صحرائے اٹاکاما میں کون سی معدنیات وافر مقدار میں پائی جاتی ہے؟",
+      "options": [
+        "Copper",
+        "Gold",
+        "Iron",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the title of the winning novel for the 2026 International Booker Prize?",
+      "urdu": "سن 2026 انٹرنیشنل بُکر پرائز جیتنے والے ناول کا عنوان کیا ہے؟",
+      "options": [
+        "he Nights Are Quiet in Tehran",
+        "On Earth As It Is Beneath",
+        "Taiwan Travelogue",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which country was the Summit of Muslim Countries held in December 2019?",
+      "urdu": "دسمبر 2019 میں مسلم ممالک کا سربراہی اجلاس کس ملک میں منعقد ہوا؟",
+      "options": [
+        "Saudi Arabia",
+        "Turkey",
+        "Malaysia",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The global center of innovation and technology is located in?",
+      "urdu": "جدت اور ٹیکنالوجی کا عالمی مرکز کہاں واقع ہے؟",
+      "options": [
+        "New York",
+        "London",
+        "Silicon Valley",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which small celestial bodies are made of ice, dust, and gases and travel around the Sun in highly elliptical orbits?",
+      "urdu": "کون سے چھوٹے فلکی اجسام برف، گرد و غبار اور گیسوں سے بنے ہوتے ہیں اور سورج کے گرد انتہائی بیضوی مدار میں گردش کرتے ہیں؟",
+      "options": [
+        "Asteroids",
+        "Meteoroids",
+        "Comets",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "One unit was dissolved on?",
+      "urdu": "ایک یونٹ کب تحلیل کیا گیا تھا؟",
+      "options": [
+        "1st July 1970",
+        "1st July 1971",
+        "1st July 1972",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A _____ of stairs is needed to go to the upper story of the toy shop.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Group",
+        "Set",
+        "Flight",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "World Braille Day is celebrated on what date?",
+      "urdu": "عالمی بریل ڈے ہر سال کب منایا جاتا ہے؟",
+      "options": [
+        "January 4",
+        "January 5",
+        "January 3",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The rear (back) view mirror used in the vehicles is _____?",
+      "urdu": "گاڑیوں میں استعمال ہونے والا ریئر ویو مرر کون سا ہوتا ہے؟",
+      "options": [
+        "Parabolic mirror",
+        "Plane mirror",
+        "Concave mirror",
+        "Convex mirror"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified 26-04-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the current Prime Minister of the United Kingdom (UK)?",
+      "urdu": "برطانیہ کا موجودہ وزیر اعظم کون ہے؟",
+      "options": [
+        "Andy Burnham",
+        "Keir Starmer",
+        "Boris Johnson",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><b>Andy Burnham </b></font><b><font color=\"#0000ff\">is the current &amp; </font><font color=\"#ff0000\">59th </font><font color=\"#0000ff\">prime minister of the </font><font color=\"#ff0000\">United\r\nKingdom (UK) since July 2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "King of ______ tore away the message of Prophet SAW.",
+      "urdu": "کے بادشاہ نے رسول اللہ ﷺ کا پیغام پھاڑ دیا۔ _____",
+      "options": [
+        "Iraq",
+        "Syria",
+        "Egypt",
+        "Iran"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "When did Momin Khan Momin die?",
+      "urdu": "مومن خان مومن کا انتقال کب ہوا؟",
+      "options": [
+        "14 May 1852",
+        "14 May 1853",
+        "14 May 1854",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which vitamin helps in the clotting of blood?",
+      "urdu": "کون سا وٹامن خون کے جمنے میں مدد کرتا ہے؟",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin K",
+        "Vitamin D"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul><div><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b><font color=\"#ff0000\">Vitamin C </font><font color=\"#0000ff\">may protect the </font><font color=\"#ff0000\">body</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">against</font><font color=\"#0000ff\"> the effects of pollution.</font></b></li><li><b><font color=\"#0000ff\">It may also prevent </font><font color=\"#ff0000\">blood clots and reduce bruising</font><font color=\"#0000ff\">.</font></b></li></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "The sum of the ages of a father and his son is 45 years. Five years ago, the father was 6 times as old as his son. What is the present age of the father?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "40 years",
+        "30 years",
+        "35 years",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Let the present age of the son = x years.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which country is the largest trading partner of Pakistan?",
+      "urdu": "پاکستان کا سب سے بڑا تجارتی شراکت دار کون سا ملک ہے؟",
+      "options": [
+        "Saudi Arabia",
+        "China",
+        "Japan",
+        "USA"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-05-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who advised the division of Punjab into Pakistani Punjab and Indian Punjab?",
+      "urdu": "پنجاب کو پاکستانی پنجاب اور بھارتی پنجاب میں تقسیم کرنے کا مشورہ کس نے دیا؟",
+      "options": [
+        "Sir Stafford Cripps",
+        "Lord Mountbatten",
+        "Sir Cyril Radcliffe",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "بدلتا ہے رنگ آسماں کیسے کیسے۔ کس شاعر کا شعر ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مرزا غالب",
+        "اکبر الہ آبادی",
+        "علامہ اقبال",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">یہ مشہور شعر</font><font color=\"#ff0000\"> اکبر الہ آبادی</font><font color=\"#0000ff\"> کا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "منٹو کے افسانوں کا پہلا مجموعہ کون سا تھا؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "آتشی پارے",
+        "ٹھنڈا گوشت",
+        "سیاہ حاشیے",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">آتشی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">پارے</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سعادت حسن منٹو</font><font color=\"#0000ff\"> کے افسانوں کا </font><font color=\"#ff0000\">پہلا</font><font color=\"#0000ff\"> مجموعہ تھا۔</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which one does not have an ion? Neutron, Electron, Proton, None of these",
       "urdu": "ان میں سے کس میں آئن نہیں ہوتا؟",
@@ -200,462 +656,6 @@
       ],
       "correct": 2,
       "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "IAEA (International Atomic Energy Agency) was founded on ________?",
-      "urdu": "بین الاقوامی جوہری توانائی ایجنسی کی بنیاد ________ پر رکھی گئی تھی؟",
-      "options": [
-        "July 29, 1957",
-        "June 19, 1947",
-        "August 09, 1967",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">The </span><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">International Atomic Energy Agency</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"> is an international organization that seeks to promote the peaceful use of </span><span style=\"font-weight: bolder; color: rgb(255, 0, 0);\">nuclear energy.</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Establishment of new forests, where no forests existed previously is called _____?",
-      "urdu": "نئے جنگلات کا قیام ، جہاں پہلے کوئی جنگل موجود نہیں تھا اسے کیا کہا جاتا ہے؟",
-      "options": [
-        "Reformation",
-        "Afforestation",
-        "Deforestation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year did Kyoto Protocol come into force?",
-      "urdu": "کیوٹو پروٹوکول کس سال نافذ ہوا؟",
-      "options": [
-        "1997",
-        "2004",
-        "2007",
-        "2005"
-      ],
-      "correct": 3,
-      "explanation": "<p data-end=\"570\" data-start=\"524\"><b style=\"\"><span data-end=\"536\" data-start=\"524\" style=\"color: rgb(0, 0, 255);\">Came into Force: </span><span data-end=\"536\" data-start=\"524\" style=\"\"><font color=\"#ff0000\">16 February 2005</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the term “Isohyet” mean?",
-      "urdu": "اسوہیت سے کیا مراد ہے؟",
-      "options": [
-        "A line joining places of equal temperature",
-        "A line joining places of equal atmospheric pressure",
-        "A line joining places of equal rainfall",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the motto/theme of the 81st session of the United Nations General Assembly?",
-      "urdu": "اقوام متحدہ کی جنرل اسمبلی کے 81ویں اجلاس کا نعرہ/موضوع کیا تھا؟",
-      "options": [
-        "Better Together: 80 Years and More United Nations for Peace",
-        "Restoring Trust, Managing Transformation: A United Nations That Delivers for All",
-        "United Nations Peace, Development and Human Rights",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the symbol/theme associated with Chinese Culture Day 2026?",
-      "urdu": "سن 2026 میں چینی ثقافتی دن سے منسلک علامت/موضوع کیا ہے؟",
-      "options": [
-        "Chinese Cultural Heritage and Traditional Culture",
-        "Modern Chinese Technology",
-        "Chinese Economic Development",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the All-India Muslim Conference founded?",
-      "urdu": "آل انڈیا مسلم کانفرنس کب قائم کی گئی؟",
-      "options": [
-        "October 31, 1926",
-        "October 31, 1928",
-        "October 31, 1930",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the cold desert known as the Katpana Desert located?",
-      "urdu": "کَٹپانا ریگستان کہاں واقع ہے؟",
-      "options": [
-        "Chitral, Khyber Pakhtunkhwa, Pakistan",
-        "Skardu, Gilgit-Baltistan, Pakistan",
-        "Hunza, Gilgit-Baltistan, Pakistan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country first recognize Pakistan after its independence?",
-      "urdu": "آزادی کے بعد سب سے پہلے پاکستان کو کس ملک نے تسلیم کیا؟",
-      "options": [
-        "China",
-        "Turkey",
-        "India",
-        "Iran"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\" style=\"line-height: normal;\"><span style=\"font-family: Arial, sans-serif; font-weight: 700; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">List of Country recognized Pakistan Date vise:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country banned “paper gold” trading in 2026?",
-      "urdu": "سن 2026 میں پیپر گولڈ کی تجارت پر پابندی لگانے والا ملک کون سا تھا؟",
-      "options": [
-        "India",
-        "Russia",
-        "China",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first Governor General of Bengal?",
-      "urdu": "بنگال کا پہلا گورنر جنرل کون تھا؟",
-      "options": [
-        "Warren Hastings",
-        "Lord Curzon",
-        "Robert Clive",
-        "William Bentinck"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first critic to write a critical essay on Faiz Ahmed Faiz?",
-      "urdu": "فیض احمد فیض پر تنقیدی مضمون لکھنے والے پہلے نقاد کون تھے؟",
-      "options": [
-        "Muhammad Hasan Askari",
-        "N. M. Rashed",
-        "Kaleemuddin Ahmad",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If one side of a regular hexagon is 7 cm, what is its perimeter?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "35 cm",
-        "42 cm",
-        "49 cm",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">A regular hexagon has 6 equal sides.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Managing Director of IMF?",
-      "urdu": "موجودہ مینیجنگ ڈائریکٹر آف آئی ایم ایف کون ہیں؟",
-      "options": [
-        "Gita Gopinath",
-        "Pierre-Olivier Gourinchas",
-        "Kristalina Georgieva",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The sum of the interior angles of the hexagon is _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "900°",
-        "720°",
-        "540°",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The sum of the interior angles of a polygon can be calculated using the formula:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A 60-degree angle is called a/an?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Right angle",
-        "Obtuse angle",
-        "Acute angle",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Russia launched a massive missile and drone attack on which country in October 2026?",
-      "urdu": "روس نے اکتوبر 2026 میں کس ملک پر میزائل اور ڈرون کا بڑے پیمانے پر حملہ کیا؟",
-      "options": [
-        "Ukraine",
-        "Israel",
-        "Belarus",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russia </font><font color=\"#0000ff\">launched a massive missile and drone attack on </font><font color=\"#ff0000\">Ukraine </font><font color=\"#0000ff\">in October 2026.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country launched a major missile and drone attack on Ukraine in October 2026?",
-      "urdu": "کس ملک نے اکتوبر 2026 میں یوکرین پر میزائل اور ڈرون کا بڑا حملہ کیا؟",
-      "options": [
-        "Belarus",
-        "Russia",
-        "Poland",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Russia </font><font color=\"#0000ff\">launched a massive missile and drone attack\r\non </font><font color=\"#ff0000\">Ukraine </font><font color=\"#0000ff\">in October 2026.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which type of Hadith are the sayings of the Prophet Muhammad (SAW) as revealed to him by the Almighty Allah?",
-      "urdu": "وہ کون سی حدیث ہے جس کے الفاظ رسول اللہ ﷺ بیان کرتے ہیں لیکن معنی اللہ تعالیٰ کی طرف سے ہوتے ہیں؟",
-      "options": [
-        "Hadith Qudsi",
-        "Hadith Quali",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonio Guterres is the Secretary General of which organization who made an official visit to Pakistan in 2026?",
-      "urdu": "انتونیو گوتریس کس تنظیم کے سیکرٹری جنرل ہیں جنہوں نے 2026 میں پاکستان کا سرکاری دورہ کیا؟",
-      "options": [
-        "NATO",
-        "OIC",
-        "United Nations",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">United Nations Secretary-General</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Antonio Guterres</font><font color=\"#0000ff\"> arrived in </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">for a three-day official visit from </font>October 6 to 8<font color=\"#0000ff\">, 2026.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was Al-Khwarizmi?",
-      "urdu": "الخوارزمی کون تھا؟",
-      "options": [
-        "Mathematician",
-        "Musician",
-        "Chemist",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Who visited Pakistan for a three-day official visit in October 2026?",
-      "urdu": "اکتوبر 2026 میں تین روزہ سرکاری دورے پر پاکستان کا دورہ کس نے کیا؟",
-      "options": [
-        "Antonio Guterres",
-        "Emmanuel Macron",
-        "Antonio Costa",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"\"><b><font color=\"#0000ff\">United Nations\r\nSecretary-General</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> Antonio Guterres</font><font color=\"#0000ff\"> arrived in </font><font color=\"#ff0000\">Pakistan </font><font color=\"#0000ff\">for a three-day official\r\nvisit from </font>October 6 to 8<font color=\"#0000ff\">, 2026.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country was the first to establish a Space Force in 2019?",
-      "urdu": "سن 2019 میں اسپیس فورس قائم کرنے والا دنیا کا پہلا ملک کون سا تھا؟",
-      "options": [
-        "USA",
-        "UK",
-        "Uganda",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"color: rgb(133, 135, 150); font-family: Nunito, -apple-system, BlinkMacSystemFont, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fatah-4 is described as what, test fired by Pakistan in October 2026?",
-      "urdu": "اکتوبر 2026 میں پاکستان کی جانب سے تجربہ کیے گئے 'فتح-4' کو کس طور پر بیان کیا گیا ہے؟",
-      "options": [
-        "Ballistic missile",
-        "Cruise missile",
-        "Anti-aircraft missile",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Pakistan </span>successfully test-fired an extended-range version of the indigenously developed </font><font color=\"#ff0000\">Fatah-4 </font><font color=\"#0000ff\">ground-launched cruise missile on </font>October 6, 2026.<font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which missile did Pakistan test successfully in October 2026?",
-      "urdu": "پاکستان نے اکتوبر 2026 میں کس میزائل کا کامیاب تجربہ کیا؟",
-      "options": [
-        "Babur-III",
-        "Ghaznavi C",
-        "Fatah-4",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"\"><b><font color=\"#0000ff\"><span style=\"background-color: rgb(255, 255, 0);\">Pakistan </span>successfully\r\ntest-fired an extended-range version of the indigenously developed </font><font color=\"#ff0000\">Fatah-4\r\n</font><font color=\"#0000ff\">ground-launched cruise missile on </font>October 6, 2026.<font color=\"#0000ff\"><o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Five Rings of the Olympic Games Logo represent?",
-      "urdu": "اولمپک گیمز کے لوگو کے پانچ حلقے کس چیز کی نمائندگی کرتے ہیں؟",
-      "options": [
-        "Five cities",
-        "Five countries",
-        "Five peoples",
-        "Five continents"
-      ],
-      "correct": 3,
-      "explanation": "<p><img alt=\"Olympics Rings Colours Meaning | What Do The Olympic Rings Mean | Cartoon Sports - YouTube\" src=\"data:image/jpeg;base64,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\"/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Country hosted BRICS 11th summit 2019?",
-      "urdu": "سن 2019 میں برکس کی 11ویں سربراہی کانفرنس کی میزبانی کس ملک نے کی؟",
-      "options": [
-        "Brazil",
-        "Pakistan",
-        "China",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who invented Binomial Theorem?",
-      "urdu": "بائنومیئل تھیورم کس نے ایجاد کیا؟",
-      "options": [
-        "Zahrawi",
-        "Khuwarzimi",
-        "Omar-Khayam",
-        "Ibn-e-Sina",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the first person to measure the speed of light?",
-      "urdu": "روشنی کی رفتار ناپنے والا پہلا شخص کون تھا؟",
-      "options": [
-        "Remer",
-        "Galilee",
-        "Albert Einstein",
-        "Ole Romer"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is contribution of agriculture to Pakistan's GDP?",
-      "urdu": "پاکستان کی جی ڈی پی میں زراعت کا کیا حصہ ہے؟",
-      "options": [
-        "30%",
-        "39%",
-        "24%",
-        "32%"
-      ],
-      "correct": 2,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "United Nations Organization (UNO) officially came into existence / was founded / established on?",
-      "urdu": "اقوام متحدہ کا ادارہ باضابطہ طور پر کب وجود میں آیا؟",
-      "options": [
-        "10 October 1945",
-        "14 October 1945",
-        "24 October 1945",
-        "28 October 1945"
-      ],
-      "correct": 2,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" background-attachment:=\"\" background-clip:=\"\" background-image:=\"\" background-origin:=\"\" background-position:=\"\" background-repeat:=\"\" background-size:=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" initial;=\"\" line-height:=\"\" neue\",=\"\" normal;\"=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font face=\"Arial, sans-serif\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Surah Al-Ma'idah is the which Surah of the Holy Quran?",
-      "urdu": "سورۃ المائدہ قرآنِ مجید کی کون سی سورت ہے؟",
-      "options": [
-        "3rd",
-        "4th",
-        "5th",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which surah is called Ummul Kitab (Mother of the Book)?",
-      "urdu": "کون سی سورت کو اُمُّ الکتاب (کتاب کی ماں) کہا جاتا ہے؟",
-      "options": [
-        "Surah Fatih",
-        "Surah Bakra",
-        "Surah Muhammad",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following first President of the Constituent Assembly of Pakistan?",
-      "urdu": "مندرجہ ذیل میں سے کون پاکستان کی آئین ساز اسمبلی کا پہلا صدر تھا؟",
-      "options": [
-        "Quaid-e-Azam",
-        "Moulvi Tameez-ud-Din",
-        "Liaquat Ali Khan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Quaid-e-Azam resigns/left from Indian National Congress in which year?",
-      "urdu": "قائداعظم محمد علی جناح نے انڈین نیشنل کانگریس سے کب علیحدگی اختیار کی؟",
-      "options": [
-        "1925",
-        "1922",
-        "1920",
-        "1913"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     }
   ]
