@@ -3,10 +3,400 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-09T07:07:38.552454",
+    "fetched_at": "2026-10-09T14:02:58.958340",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "فیض احمد فیض کی شاعری کے بنیادی عناصر کیا ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "حقیقت نگاری",
+        "جمہوریت",
+        "رومانیت",
+        "سیاست"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "وہ ضمیر ہوتی ہے جو کسی نامعلوم، غیر معین یا غیر واضح شخص، چیز یا جگہ کے لیے استعمال کی جاتی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ضمیرِ شخصی",
+        "ضمیرِ تنکیر",
+        "ضمیرِ استفہام",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">ضمیرِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تنکیر</font><font color=\"#0000ff\"> کسی نامعلوم یا غیر معین شخص، چیز یا جگہ کے لیے استعمال ہوتی ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many members were in the Committee of Basic Principles?",
+      "urdu": "بنیادی اصولوں کی کمیٹی میں کتنے ارکان تھے؟",
+      "options": [
+        "24",
+        "26",
+        "12",
+        "18"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was the Pakistan Volleyball Federation formed?",
+      "urdu": "پاکستان والی بال فیڈریشن کب قائم ہوئی؟",
+      "options": [
+        "13 January 1955",
+        "13 February 1955",
+        "13 March 1955",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "LFO stands for what?",
+      "urdu": "ایل ایف او کا مطلب کیا ہے؟",
+      "options": [
+        "Legal Federation Order",
+        "Legal Framework Ordinance",
+        "Legal Framework Order",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#ff00ff\">:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Don't judge a book _____ its cover.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "By",
+        "With",
+        "For",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Arif is my _______ brother.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Older",
+        "Elder",
+        "Olde",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "SmartArt can be added in PowerPoint through which tab?",
+      "urdu": "پاورپوائنٹ میں اسمارٹ آرٹ کس ٹیب کے ذریعے شامل کیا جا سکتا ہے؟",
+      "options": [
+        "Insert",
+        "Home",
+        "Design",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of the IFERROR function in MS Excel?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To return a specified value if a formula results in an error",
+        "To add numbers in a range",
+        "To check spelling errors",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which option is used to copy formatting from one place and apply it to another?",
+      "urdu": "فارمیٹنگ کو ایک جگہ سے کاپی کرنے اور دوسری جگہ لاگو کرنے کے لیے کون سا آپشن استعمال ہوتا ہے؟",
+      "options": [
+        "Copy",
+        "Copy formatter",
+        "Format painter",
+        "Formatting"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the term HTTPS means?",
+      "urdu": "ایڇ۔ٹی۔ٹی۔پی۔ایس کی اصطلاح کا کیا مطلب ہے؟",
+      "options": [
+        "Hyper Text Transfer Protocol Secure",
+        "Hyper Text Translation Protocol Service",
+        "Hyper Text Translation Protocol Secure",
+        "Hyper Text Transfer Protocol Service"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ratio between the perimeter and the breadth of a rectangle is 5:1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "14 cm",
+        "16 cm",
+        "18 cm",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Serve deficiency of Vitamin C results in? Scurvy, Rickets, Beriberi, Night Blindness",
+      "urdu": "وٹامن سی کی کمی کے نتیجے میں کیا ہوتا ہے؟",
+      "options": [
+        "Scurvy",
+        "Rickets",
+        "Beriberi",
+        "Night Blindness"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 2015 climate change conference is called?",
+      "urdu": "سن 2015 کی موسمیاتی تبدیلی کی کانفرنس کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Paris",
+        "America",
+        "London",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Nawab Bahadur Yar Jung belonged to which princely state?",
+      "urdu": "نواب بہادر یار جنگ کا تعلق کس نوابی ریاست سے تھا؟",
+      "options": [
+        "State of Junagadh",
+        "State of Bhopal",
+        "State of Hyderabad",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Apiary?",
+      "urdu": "اپیاری سے کیا مراد ہے؟",
+      "options": [
+        "Place where butterflies are kept",
+        "Place for breeding silkworms",
+        "Place where bees are kept",
+        "Place where dogs are kept"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Earthquakes below magnitude 2.0 are called?",
+      "urdu": "شدت 2.0 سے کم کے زلزلوں کو کیا کہتے ہیں؟",
+      "options": [
+        "Microearthquakes",
+        "Major earthquakes",
+        "Minor earthquakes",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which punctuation is used for making contractions?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Period",
+        "Apostrophe",
+        "Comma",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the smallest number that, when divided by 8, 10, 20, and 30, leaves a remainder of 5 in each case.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "120",
+        "125",
+        "240",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">LCM of 8, 10, 20, and 30 = 120.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "British Indian Association was formed / founded in _____?",
+      "urdu": "برٹش انڈین ایسوسی ایشن کب قائم کی گئی؟",
+      "options": [
+        "1872",
+        "1851",
+        "1881",
+        "1876"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change into Indirect Speech: He said to me, “What a lovely garden you have!”",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He told me that what a lovely garden I had.",
+        "He exclaimed with admiration that I had a very lovely garden.",
+        "He said to me that I have a lovely garden.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 4x − 2y = 10 and 2x + y = 5, then what is the value of x?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2.5",
+        "3.5",
+        "4.5",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The world’s Largest fresh water Lake is?",
+      "urdu": "دنیا کی سب سے بڑی تازہ پانی کی جھیل  کونسی ہے؟",
+      "options": [
+        "Lake Superior",
+        "Lake Victoria",
+        "Great Bear Lake",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following combinations is correct? Who I and you, Between you and me, Between two, Neither I and you",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Who I and you",
+        "Between you and me",
+        "Between two",
+        "Neither I and you"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The suffix “-fy” means ______, as in terrify, beautify, and simplify.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To describe",
+        "To remove",
+        "To make or become",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Gwadar is mainly for _____?",
+      "urdu": "گوادر زیادہ تر کس مقصد کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Agriculture + industries",
+        "Tourism + real estate",
+        "Trade + fishing / Trade and energy routes",
+        "Mining + education"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Asian Games are also known as _____?",
+      "urdu": "ایشین گیمز کو _____ کے نام سے بھی جانا جاتا ہے؟",
+      "options": [
+        "Olympics",
+        "Asiad",
+        "Commonwealth Games",
+        "Pan-Asian Games"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On which date did Hamas announce the dissolution of its governing body in Gaza?",
+      "urdu": "حماس نے غزہ میں اپنی حکومتی باڈی کو تحلیل کرنے کا اعلان کس تاریخ کو کیا؟",
+      "options": [
+        "4 July 2026",
+        "5 July 2026",
+        "6 July 2026",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the main purpose of CAPTCHA?",
+      "urdu": "کیپچا کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "To speed up website loading times",
+        "To verify that the user is human",
+        "To improve image quality",
+        "To block internet access"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one of the following is not printer? Pixel printer, Laser, Dot matrix, Inkjet printer",
+      "urdu": "درج ذیل میں سے کون سا پرنٹر نہیں ہے؟",
+      "options": [
+        "Pixel printer",
+        "Laser",
+        "Dot matrix",
+        "Inkjet printer"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "He insisted __ going _____ them.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -265,397 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The perimeter of square whose side is 2.5 cm long is.",
-      "urdu": "مربع کا دائرہ جس کی طرف 2.5 سینٹی میٹر لمبا ہے۔",
-      "options": [
-        "10 cm",
-        "15 cm",
-        "20 cm",
-        "25 cm"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>Given:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Colorado river is located in ______ ?",
-      "urdu": "کولوراڈو دریا کہاں واقع ہے؟",
-      "options": [
-        "Canada",
-        "U.K",
-        "Australia",
-        "USA"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If 20% of a is equal to 80% of b which of the following is equal to a + b?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3a",
-        "2.5a",
-        "2a",
-        "1.5a"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">Let's start by using the information that 20% of a is equal to 80% of b</font><font color=\"#0000ff\">. We can write this as an equation:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was the fourth Governor-General of Pakistan?",
-      "urdu": "پاکستان کے چوتھے گورنر جنرل کون تھے؟",
-      "options": [
-        "Muhammad Ali Jinnah",
-        "Sir Khawaja Nazimuddin",
-        "Sir Ghulam Muhammad",
-        "Iskander Mirza"
-      ],
-      "correct": 3,
-      "explanation": "<p>List of Governors-General of Pakistan</p>",
-      "category": "all"
-    },
-    {
-      "q": "The first Martial Law was imposed on Pakistan under leadership of?",
-      "urdu": "پاکستان میں پہلا مارشل لاء کس کی قیادت میں لگایا گیا تھا؟",
-      "options": [
-        "General Yahya Khan",
-        "General Ayub Khan",
-        "General Pervez Musharraf",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was a good Player of flute?",
-      "urdu": "بانسری کا اچھا بجانے والا کون تھا؟",
-      "options": [
-        "Hazart Idrees (AS)",
-        "Hazart Yahya (AS)",
-        "Hazart Dawood (AS)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which number will complete the number series? 2, 5, 12, 23, 38, 57, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "80",
-        "70",
-        "76",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>2 + 3 = 5</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 16 out of 80 as a percentage?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10%",
-        "20%",
-        "15%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">(16 ÷ 80) × 100 = </font><font color=\"#ff0000\">20%</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The computer process both analog and digital signal is ______?",
-      "urdu": "کمپیوٹر پراسیس ینالاگ اور ڈیجیٹل سگنل دونوں ______ ہے؟",
-      "options": [
-        "Hybrid",
-        "Analogue",
-        "Digital",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "When Quaid-e-Azam presented his historical fourteen (14) points?",
-      "urdu": "قائداعظم نے اپنے تاریخی چودہ نکات کب پیش کیے؟",
-      "options": [
-        "September 1921",
-        "March 1927",
-        "September 1928",
-        "March 1929"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-family: Helvetica;\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">          </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Short cut key for opening the font dialog box in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں فونٹ ڈائیلاگ باکس کھولنے کے لیے کون سی شارٹ کٹ کی ہے؟",
-      "options": [
-        "CTRL+B",
-        "CTRL+D",
-        "CTRL+C",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Belief in the Day of Judgement & the afterlife (Akhira) is the _______ articles of faith.",
-      "urdu": "آخرت پر ایمان رکھنا ایمان مفصل میں کونسے نمبر پر ہے؟",
-      "options": [
-        "Third",
-        "Fifth",
-        "Second",
-        "Fourth"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"color: rgb(0, 0, 255); line-height: 17.12px;\">Seven</span><span style=\"color: rgb(0, 0, 255); line-height: 17.12px;\"> </span><span style=\"line-height: 17.12px;\"><font color=\"#0000ff\">essential beliefs are in</font><font color=\"#ff00ff\"> Iman-e-Mafassal</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Average of five number is 4. If the number 2 is added to all five numbers, what will be the average?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "4",
-        "6",
-        "8",
-        "10"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat Younis (AS) remained in the abdomen of fish for how many days?",
-      "urdu": "حضرت یونس علیہ السلام کتنے دن مچھلی کے پیٹ میں رہے؟",
-      "options": [
-        "30 days",
-        "40 days",
-        "20 days",
-        "10 days",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><o:p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"> </span></o:p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Prophet was swallowed by a whale (fish) and remained in its abdomen?",
-      "urdu": "کون سے نبی مچھلی (وہیل) کے پیٹ میں رہے تھے؟",
-      "options": [
-        "Hazrat Ibrahim AS",
-        "Hazrat Musa AS",
-        "Hazrat Younas AS",
-        "Hazrat Dawood AS"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Zaboor was revealed on which Prophet?",
-      "urdu": "زبور کس نبیؑ پر نازل ہوئی؟",
-      "options": [
-        "Hazrat Mossa (a.s)",
-        "Hazrat Issa (a.s)",
-        "Hazrat Dawood (a.s)",
-        "Hazrat Muhammad (a.s)"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Al-Biruni came to India with ______?",
-      "urdu": "البیرونی کس کے ساتھ ہندوستان آئے تھے؟",
-      "options": [
-        "Alexander the Great",
-        "Mehmud Ghaznavi",
-        "Muhammad Ghori",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which desert is located in Eastern part of Punjab?",
-      "urdu": "پنجاب کے مشرقی حصے میں کون سا صحرا ہے؟",
-      "options": [
-        "Kharan Desert",
-        "Thar Desert",
-        "Thal Desert",
-        "Cholistan Desert"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who dismissed Benazir Bhutto’s Government for the second time?",
-      "urdu": "بے نظیر بھٹو کی حکومت کو دوسری بار کس نے برطرف کیا؟",
-      "options": [
-        "Rafiq Tarar",
-        "Farooq Ahmed Khan Leghari",
-        "Shaukat Aziz",
-        "Yahya Khan"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><font color=\"#0000ff\">Additional information:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "“In the Line of Fire” is the autobiography of ____?",
-      "urdu": "ان دی لائن آف فائر کس کی خود نوشت ہے؟",
-      "options": [
-        "Pervez Musharraf",
-        "Benazir Bhutto",
-        "Zia-Ul-Haq",
-        "Asif Zardari"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Autobiography:</font><font color=\"#ff0000\"> In the Line of Fire</font><font color=\"#0000ff\"> </font><font color=\"#0000ff\">by </font><font color=\"#ff0000\">Pervez Musharraf</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "DVI stands for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Digital Video Interface",
-        "Digital Visual Interface",
-        "Digital Virtual Interface",
-        "Direct Visual Input"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The Peacock Throne was made for ____?",
-      "urdu": "مور کا تخت کس کے لیے بنایا گیا تھا؟",
-      "options": [
-        "Shah Jahan",
-        "Aurangzeb",
-        "Jahangir",
-        "Akbar"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which Surah of the Holy Quran, rights of the women have been explained?",
-      "urdu": "قرآن مجید کی کس سورہ میں ، خواتین کے حقوق کی وضاحت کی گئی ہے؟",
-      "options": [
-        "Surah Al-Tariq",
-        "Surah Al-Talaq",
-        "Surah Al-Tahreem",
-        "Surah An-Nisa"
-      ],
-      "correct": 3,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hazrat Ali (R.A) changed capital from Madina after the battle of Jamal to?",
-      "urdu": "حضرت علیؓ نے جنگِ جمل کے بعد دارالحکومت مدینہ سے کہاں منتقل کیا؟",
-      "options": [
-        "Kuffa",
-        "Baghdad",
-        "Makkah",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Hazrat Ali (AS) shifted capital from Madina to Kufa?",
-      "urdu": "حضرت علی (ع) نے کب دارالحکومت مدینہ سے کوفہ منتقل کیا؟",
-      "options": [
-        "657 CE (36 AH)",
-        "658 CE (37 AH)",
-        "659 CE (38 AH)",
-        "669 AD"
-      ],
-      "correct": 0,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Headquarters of Air Force is located in?",
-      "urdu": "ایئر فورس کا ہیڈ کوارٹر کس میں واقع ہے؟",
-      "options": [
-        "Islamabad",
-        "Peshawar",
-        "Karachi",
-        "Rawalpindi"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"line-height:150%\"><font color=\"#0000ff\"><br/></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is the headquarters of the North Atlantic Treaty Organization (NATO) located?",
-      "urdu": "شمالی اوقیانوسی معاہدہ تنظیم (نیٹو) کا ہیڈکوارٹر کہاں واقع ہے؟",
-      "options": [
-        "Washington, D.C., USA",
-        "Brussels, Belgium",
-        "Geneva, Switzerland",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The President of Pakistan elected for a term of years?",
-      "urdu": "پاکستان کا صدرکتنے سال کے لیے منتخب ہوتا ہے؟",
-      "options": [
-        "5",
-        "4",
-        "3",
-        "6"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><o:p></o:p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Tragedy of Karbala took place in the year _____?",
-      "urdu": "سانحہ کربلا کس سال میں پیش آیا؟",
-      "options": [
-        "71 Hijri",
-        "79 Hijri",
-        "61 Hijri",
-        "82 Hijri"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 25-04-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "MAC stands for_______.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Main Access Control",
-        "Media Access Control",
-        "Multiple Access Channel",
-        "Machine Access Code"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated 15-feb-2026</span><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#ff0000\"></font></b></span></p>",
       "category": "all"
     }
   ]
