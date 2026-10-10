@@ -3,10 +3,283 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-10T13:12:04.982296",
+    "fetched_at": "2026-10-10T17:35:36.323137",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The termination of the conditioned stimulus (CS) either with the onset of the unconditioned stimulus (UCS) or during the presentation of the unconditioned stimulus (UCS) is known as ______?",
+      "urdu": "مشروط محرک کا غیر مشروط محرک کے شروع ہونے پر یا اس کی پیشکش کے دوران ختم ہو جانا کیا کہلاتا ہے؟",
+      "options": [
+        "Backward Conditioning",
+        "Delay Conditioning",
+        "Trace Conditioning",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On whom does the burden of proof lie in a criminal case?",
+      "urdu": "فوجداری مقدمے میں ثبوت پیش کرنے کی بنیادی ذمہ داری کس پر ہوتی ہے؟",
+      "options": [
+        "Prosecution",
+        "Witness",
+        "Accused",
+        "Judge"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence:  1. A) Gold is more precious in all metals. B) Gold is most precious in all metals. C) Gold is the most precious of all metals.D) Gold is more precious than all metals.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Gold is more precious in all metals.",
+        "Gold is most precious in all metals.",
+        "Gold is the most precious of all metals",
+        "Gold is more precious than all metals."
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Gold is the most precious of all metals. </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 20% of a is equal to 80% of b which of the following is equal to a + b?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3a",
+        "2.5a",
+        "2a",
+        "1.25a"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">If 20% of a = 80% of b</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct the sentence: Neither the supervisor nor the clerks was present in the GHQ office.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Neither the supervisor nor the clerks were present in the GHQ office.",
+        "Neither the supervisor nor the clerks was present in the GHQ office.",
+        "Neither the supervisor or the clerks were present in the GHQ office.",
+        "Neither supervisor nor clerks is present in the GHQ office."
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Neither the supervisor nor the clerks were present in the GHQ office.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct the Sentences:God made earth and sky.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "God make the Earth and sky.",
+        "God has made earth and sky.",
+        "God created the Earth and the sky.",
+        "God creating the Earth and sky."
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">God created the Earth and the sky.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct the Sentences:Ten miles are a long distance.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ten miles were a long distance.",
+        "Ten miles have a long distance.",
+        "Ten miles is a long distance.",
+        "Ten miles are long distances."
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\"> Ten miles is a long distance</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct the Sentences:Either Ashar or Musharif kept my book",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Either Ashar or Musharif have kept my book.",
+        "Either Ashar or Musharif keep my book.",
+        "Either Ashar or Musharif has kept my book.",
+        "Either Ashar or Musharif keeping my book."
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Either Ashar or Musharif has kept my book.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the first popular graphical web browser?",
+      "urdu": "پہلا مقبول گرافیکل ویب براؤزر کون سا تھا؟",
+      "options": [
+        "Netscape",
+        "Internet Explorer",
+        "Mosaic",
+        "Chrome"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What was the first web browser?",
+      "urdu": "سب سے پہلا ویب براؤزر کون سا تھا؟",
+      "options": [
+        "Mosaic",
+        "Netscape",
+        "Internet Explorer",
+        "WorldWideWeb (Nexus)"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "DIV commonly stands for",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Digital Interface Version",
+        "Division",
+        "Data Input Value",
+        "Device Information Variable"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "A circle has radius 7 cm, its diameter is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "12 cm",
+        "14 cm",
+        "16 cm",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Diameter = 2 x Radius</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "LCM of 8 and 12 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "24",
+        "26",
+        "28",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">LCM of 8 and 12 is 24.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The value of 25² is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "625",
+        "725",
+        "825",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>25² = 625</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 7x = 91, then x is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "13",
+        "14",
+        "15",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">7x = 91</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "35% of 400 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "120",
+        "140",
+        "160",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">35% means 35 out of 100</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Rainbow is formed due to ______?",
+      "urdu": "قوسِ قزح (دھنک) بننے کا سبب کون سا مظہر ہے؟",
+      "options": [
+        "Emission of light",
+        "Absorption of light",
+        "Reflection and refraction of light",
+        "Transmission of sound"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary/main component of natural gas?",
+      "urdu": "قدرتی گیس کا بنیادی جزو کیا ہے؟",
+      "options": [
+        "Methane",
+        "Propane",
+        "Butane",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated question 15 March2026</span><b style=\"\"><font color=\"#9c00ff\"></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The part of brain involved in balance and precision in movements is ______?",
+      "urdu": "دماغ کا کون سا حصہ جسمانی توازن اور حرکات میں درستگی برقرار رکھنے میں مدد دیتا ہے؟",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Thalamus",
+        "Medulla oblongata"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The natural satellite of Earth is known as ______?",
+      "urdu": "زمین کا قدرتی سیارہ کیا کہلاتا ہے؟",
+      "options": [
+        "Sun",
+        "Asteroid",
+        "Moon",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The chemical symbol of calcium is?",
+      "urdu": "کیلشیم کی کیمیائی علامت کیا ہے؟",
+      "options": [
+        "Ca",
+        "C",
+        "Cr",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Electric current is measured by ____?",
       "urdu": "برقی رو کو کس آلے سے ناپا جاتا ہے؟",
@@ -382,279 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Pakistan Navy Headquarters is located in ______?",
-      "urdu": "پاکستان نیوی کا مرکزی دفتر کس شہر میں واقع ہے؟",
-      "options": [
-        "Rawalpindi",
-        "Islamabad",
-        "Lahore",
-        "Karachi"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city is known as City of Saints or Blue pottery and Shrines?",
-      "urdu": "کس شہر کو اولیاء کے شہر، نیلی مٹی کے برتنوں اور مزارات کے شہر کے نام سے جانا جاتا ہے؟",
-      "options": [
-        "Lahore",
-        "Multan",
-        "Rawalpindi",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Rohtas Fort near Jehlum built by _______?",
-      "urdu": "جہلم کے قریب روہتاس قلعہ کس نے بنایا؟",
-      "options": [
-        "Akbar",
-        "Sher Shah Suri",
-        "Shah Jahan",
-        "Baber"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-05-2026</span></font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the national dress of Pakistan?",
-      "urdu": "پاکستان کا قومی لباس کیا ہے؟",
-      "options": [
-        "Sherwani only",
-        "Shalwar Kameez",
-        "Kurta Pajama only",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ranikot Fort is located in which province?",
-      "urdu": "رینکوٹ قلعہ کس صوبے میں واقع ہے؟",
-      "options": [
-        "Sindh",
-        "Punjab",
-        "KPK",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the first and only Pakistani woman to summit Mount Everest?",
-      "urdu": "ماؤنٹ ایورسٹ سر کرنے والی پاکستان کی پہلی اور واحد خاتون کون ہیں؟",
-      "options": [
-        "Saba Khan",
-        "Ayesha Ishaq",
-        "Shiza Bilal",
-        "Samina Baig"
-      ],
-      "correct": 3,
-      "explanation": "<p><strong><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></strong></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Lahore Museum was established in?",
-      "urdu": "لاہور میوزیم کب قائم کیا گیا؟",
-      "options": [
-        "1947",
-        "1865",
-        "1894",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The teacher explained the lesson ___ the students.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "By",
-        "To",
-        "From",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "We walked ___ the river bank.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Over",
-        "Along",
-        "Inside",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The book was written ___ a famous author.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "With",
-        "From",
-        "By",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is capable _______ being an excellent student.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Of",
-        "For",
-        "To",
-        "With"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Wingdings\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 10-10-2026</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The workers protested ___ low wages.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "From",
-        "Against",
-        "By",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Make hay while the sun shines. Here the word \"while\" is _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Preposition",
-        "Noun",
-        "Conjunction",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "I hope you will find \"someone\" there to help you. The word someone is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Relative pronoun",
-        "Reflexive pronoun",
-        "Indefinite pronoun",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The word \"fortunately\" is a?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Adjective",
-        "Verb",
-        "Adverb",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word \"creative\" is a?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Pronoun",
-        "Adjective",
-        "Noun",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The word \"childhood\" is a?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Adverb",
-        "Verb",
-        "Noun",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "They arrived _____ the airport just in time for their flight.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "By",
-        "At",
-        "On",
-        "None"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 10-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "She is responsible ____ organizing the event.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "For",
-        "To",
-        "With",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "فیض احمد فیض کی شاعری کے بنیادی عناصر کیا ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حقیقت نگاری",
-        "جمہوریت",
-        "رومانیت",
-        "سیاست"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "وہ ضمیر ہوتی ہے جو کسی نامعلوم، غیر معین یا غیر واضح شخص، چیز یا جگہ کے لیے استعمال کی جاتی ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ضمیرِ شخصی",
-        "ضمیرِ تنکیر",
-        "ضمیرِ استفہام",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">ضمیرِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تنکیر</font><font color=\"#0000ff\"> کسی نامعلوم یا غیر معین شخص، چیز یا جگہ کے لیے استعمال ہوتی ہے۔</font></b></p>",
       "category": "all"
     }
   ]
