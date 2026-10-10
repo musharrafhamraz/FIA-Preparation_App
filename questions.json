@@ -3,10 +3,634 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-10T06:41:10.907197",
+    "fetched_at": "2026-10-10T13:12:04.982296",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Electric current is measured by ____?",
+      "urdu": "برقی رو کو کس آلے سے ناپا جاتا ہے؟",
+      "options": [
+        "Ammeter",
+        "Ohmmeter",
+        "Multimeter",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The chemical process in which energy is released from food?",
+      "urdu": "وہ کیمیائی عمل جس میں خوراک سے توانائی خارج ہوتی ہے، کیا کہلاتا ہے؟",
+      "options": [
+        "Nutrition",
+        "Exception",
+        "Respiration",
+        "Digestion"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Insulin is produced and secreted by which organ of the body?",
+      "urdu": "انسولین جسم کے کس عضو سے تیار ہوتی ہے؟",
+      "options": [
+        "Liver",
+        "Pancreas",
+        "Kidney",
+        "Brain"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The outer most layer of earth is called ______?",
+      "urdu": "زمین کی سب سے بیرونی تہہ کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Core",
+        "Crust",
+        "Mental",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p data-pm-slice=\"1 1 []\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The speed of light is ________?",
+      "urdu": "روشنی کی رفتار کتنی ہے؟",
+      "options": [
+        "280,000 km/s",
+        "300,000 km/s",
+        "320,000 km/s",
+        "None of the above"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The human respiratory system mainly exchanges?",
+      "urdu": "انسانی نظامِ تنفس بنیادی طور پر کن گیسوں کا تبادلہ کرتا ہے؟",
+      "options": [
+        "Food and energy",
+        "Water and salts",
+        "Oxygen and carbon dioxide",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The only elemental metal that is liquid at room temperature is?",
+      "urdu": "کمرے کے درجہ حرارت پر مائع حالت میں رہنے والی واحد دھات کون سی ہے؟",
+      "options": [
+        "Lead",
+        "Zinc",
+        "Mercury",
+        "Aluminum"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The breakdown of large food particles into smaller particles (simpler substances) is called?",
+      "urdu": "خوراک کے بڑے ذرات کو چھوٹے ذرات یا سادہ مادّوں میں توڑنے کے عمل کو کیا کہتے ہیں؟",
+      "options": [
+        "Egestion",
+        "Absorption",
+        "Utilization",
+        "Digestion"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which planet has both the smallest diameter and escape velocity / smallest planet in our solar system?",
+      "urdu": "کس سیارے کا قطر اور فرار کی رفتار دونوں سب سے کم ہیں؟",
+      "options": [
+        "Venus",
+        "Earth",
+        "Mercury",
+        "Mars"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 23-06-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which vitamin helps in the clotting of blood?",
+      "urdu": "کون سا وٹامن خون کے جمنے میں مدد کرتا ہے؟",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin K",
+        "Vitamin D"
+      ],
+      "correct": 2,
+      "explanation": "<p><ul></ul><div><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b><font color=\"#ff0000\">Vitamin C </font><font color=\"#0000ff\">may protect the </font><font color=\"#ff0000\">body</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">against</font><font color=\"#0000ff\"> the effects of pollution.</font></b></li><li><b><font color=\"#0000ff\">It may also prevent </font><font color=\"#ff0000\">blood clots and reduce bruising</font><font color=\"#0000ff\">.</font></b></li></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which organ(s)/part(s) of plants help in reproduction?",
+      "urdu": "پودوں کے کون سے اعضاء تولید میں مدد کرتے ہیں؟",
+      "options": [
+        "Stems",
+        "Flowers",
+        "Roots",
+        "Leaves"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 18-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "For which purpose seismograph is used?",
+      "urdu": "سیسموگراف کس مقصد کے لیے استعمال کیا جاتا ہے؟",
+      "options": [
+        "For predicting earthquake",
+        "For recording earthquake",
+        "For measuring intensity of earthquake",
+        "For locating epicenter of earthquake"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-09-2026</span></font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "Chemical formula of water is _____?",
+      "urdu": "پانی کا کیمیائی فارمولا ہے؟",
+      "options": [
+        "H₂G",
+        "H₂O",
+        "H₂u",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the largest gland in the human body?",
+      "urdu": "انسانی جسم میں سب سے بڑا غدود کون سا ہے؟",
+      "options": [
+        "Thyroid",
+        "Liver",
+        "Pancreas",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></div><ul><li><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">pineal gland</font><font color=\"#0000ff\"> is the </font><font color=\"#ff0000\">smallest gland</font><font color=\"#0000ff\">.</font></b></li><li><b style=\"\"><font color=\"#0000ff\">It about the </font><font color=\"#ff0000\">size</font><font color=\"#0000ff\"> of a </font><font color=\"#ff0000\">grain of rice</font><font color=\"#0000ff\">.</font></b></li><li><b style=\"\"><font color=\"#0000ff\">It </font><font color=\"#ff0000\">weighs</font><font color=\"#0000ff\"> approximately </font><font color=\"#ff0000\">150 mg</font><font color=\"#0000ff\">.</font></b></li><li><b style=\"\"><font color=\"#0000ff\">It is part of the </font><font color=\"#ff0000\">endocrine system</font><font color=\"#0000ff\">.</font></b></li></ul><div><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-04-2026</font></b></div></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which are the basic structural and functional units of the nervous system?",
+      "urdu": "اعصابی نظام کی بنیادی ساختی اور فعال اکائیاں کون سی ہیں؟",
+      "options": [
+        "Axons",
+        "Nephrons",
+        "Neurons",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The main objective of the Ehsaas/BISP type programs is?",
+      "urdu": "احساس اور بینظیر انکم سپورٹ پروگرام جیسے پروگراموں کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Foreign trade",
+        "Social protection",
+        "Defence expansion",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Pakistan Stock Exchange provides a platform for?",
+      "urdu": "پاکستان اسٹاک ایکسچینج کس کام کے لیے پلیٹ فارم فراہم کرتی ہے؟",
+      "options": [
+        "Tax collection",
+        "Buying and selling shares",
+        "Currency printing",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The National Electric Power Regulatory Authority (NEPRA) regulates?",
+      "urdu": "نیشنل الیکٹرک پاور ریگولیٹری اتھارٹی کس شعبے کو منظم کرتی ہے؟",
+      "options": [
+        "Agriculture Sector",
+        "Electricity Sector",
+        "Banking Sector",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-05-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The main purpose of the Digital Pakistan initiative is?",
+      "urdu": "ڈیجیٹل پاکستان اقدام کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Increase rainfall",
+        "Build dams only",
+        "Promote digital services",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Pakistan Bureau of Statistics conducts?",
+      "urdu": "پاکستان بیورو آف اسٹیٹسٹکس کون سا کام انجام دیتا ہے؟",
+      "options": [
+        "Banking activities",
+        "Population census and surveys",
+        "Defence operations",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The purpose of the State Bank's foreign exchange reserves is to?",
+      "urdu": "اسٹیٹ بینک کے زرمبادلہ کے ذخائر کا مقصد کیا ہے؟",
+      "options": [
+        "Control weather",
+        "Support economic stability",
+        "Conduct elections",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan's largest seaport is?",
+      "urdu": "پاکستان کی سب سے بڑی بندرگاہ کون سی ہے؟",
+      "options": [
+        "Port of Karachi",
+        "Muhammad Bin Qasim Port",
+        "Gwadar Port",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The National Highway Authority (NHA) manages?",
+      "urdu": "نیشنل ہائی وے اتھارٹی کس چیز کا انتظام کرتی ہے؟",
+      "options": [
+        "Railways",
+        "Highways and motorways",
+        "Airports",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the role of the Special Investment Facilitation Council (SIFC)?",
+      "urdu": "خصوصی سرمایہ کاری کی سہولت کونسل کا کیا کردار ہے؟",
+      "options": [
+        "To promote foreign and domestic investment in Pakistan",
+        "To regulate stock market activities",
+        "To manage agricultural subsidies",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bold; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 10-10-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Pakistan Meteorological Department mainly deals with?",
+      "urdu": "پاکستان محکمہ موسمیات بنیادی طور پر کس کام سے متعلق ہے؟",
+      "options": [
+        "Education policy",
+        "Weather forecasting",
+        "Banking services",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In which desert is the Derawar fort is located?",
+      "urdu": "دیوار قلعہ کس صحرا میں واقع ہے؟",
+      "options": [
+        "Thal",
+        "Cholistan",
+        "Thar",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest coal deposits (coal reservoir) in Pakistan are found in?",
+      "urdu": "پاکستان میں کوئلے کے سب سے بڑے ذخائر کہاں پائے جاتے ہیں؟",
+      "options": [
+        "Thal, Sindh",
+        "Thar, Sindh",
+        "Thatta, Sindh",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What was the first Pakistani satellite launched into space?",
+      "urdu": "خلا میں بھیجا جانے والا پاکستان کا پہلا سیٹلائٹ کون سا تھا؟",
+      "options": [
+        "PAKSAT-1",
+        "Badr-1",
+        "iCube-1",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When was Pakistan's first satellite, Badr-1, launched into space?",
+      "urdu": "پاکستان کا پہلا سیٹلائٹ بدر-1 خلا میں کب بھیجا گیا؟",
+      "options": [
+        "2 August  1986",
+        "3 July 1991",
+        "16 July 1990",
+        "15 Dec 1992"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated 07-09-2026 by NA</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Pakistan Navy Headquarters is located in ______?",
+      "urdu": "پاکستان نیوی کا مرکزی دفتر کس شہر میں واقع ہے؟",
+      "options": [
+        "Rawalpindi",
+        "Islamabad",
+        "Lahore",
+        "Karachi"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which city is known as City of Saints or Blue pottery and Shrines?",
+      "urdu": "کس شہر کو اولیاء کے شہر، نیلی مٹی کے برتنوں اور مزارات کے شہر کے نام سے جانا جاتا ہے؟",
+      "options": [
+        "Lahore",
+        "Multan",
+        "Rawalpindi",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Rohtas Fort near Jehlum built by _______?",
+      "urdu": "جہلم کے قریب روہتاس قلعہ کس نے بنایا؟",
+      "options": [
+        "Akbar",
+        "Sher Shah Suri",
+        "Shah Jahan",
+        "Baber"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-05-2026</span></font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the national dress of Pakistan?",
+      "urdu": "پاکستان کا قومی لباس کیا ہے؟",
+      "options": [
+        "Sherwani only",
+        "Shalwar Kameez",
+        "Kurta Pajama only",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ranikot Fort is located in which province?",
+      "urdu": "رینکوٹ قلعہ کس صوبے میں واقع ہے؟",
+      "options": [
+        "Sindh",
+        "Punjab",
+        "KPK",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 16-05-2026</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the first and only Pakistani woman to summit Mount Everest?",
+      "urdu": "ماؤنٹ ایورسٹ سر کرنے والی پاکستان کی پہلی اور واحد خاتون کون ہیں؟",
+      "options": [
+        "Saba Khan",
+        "Ayesha Ishaq",
+        "Shiza Bilal",
+        "Samina Baig"
+      ],
+      "correct": 3,
+      "explanation": "<p><strong><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></strong></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Lahore Museum was established in?",
+      "urdu": "لاہور میوزیم کب قائم کیا گیا؟",
+      "options": [
+        "1947",
+        "1865",
+        "1894",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The teacher explained the lesson ___ the students.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "By",
+        "To",
+        "From",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "We walked ___ the river bank.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Over",
+        "Along",
+        "Inside",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The book was written ___ a famous author.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "With",
+        "From",
+        "By",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is capable _______ being an excellent student.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Of",
+        "For",
+        "To",
+        "With"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Wingdings\"><span style=\"font-size: 16px; background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 10-10-2026</b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The workers protested ___ low wages.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "From",
+        "Against",
+        "By",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Make hay while the sun shines. Here the word \"while\" is _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Preposition",
+        "Noun",
+        "Conjunction",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "I hope you will find \"someone\" there to help you. The word someone is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Relative pronoun",
+        "Reflexive pronoun",
+        "Indefinite pronoun",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The word \"fortunately\" is a?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Adjective",
+        "Verb",
+        "Adverb",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The word \"creative\" is a?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pronoun",
+        "Adjective",
+        "Noun",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The word \"childhood\" is a?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Adverb",
+        "Verb",
+        "Noun",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "They arrived _____ the airport just in time for their flight.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "By",
+        "At",
+        "On",
+        "None"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 10-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "She is responsible ____ organizing the event.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "For",
+        "To",
+        "With",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "فیض احمد فیض کی شاعری کے بنیادی عناصر کیا ہیں؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -31,630 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\">ضمیرِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">تنکیر</font><font color=\"#0000ff\"> کسی نامعلوم یا غیر معین شخص، چیز یا جگہ کے لیے استعمال ہوتی ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many members were in the Committee of Basic Principles?",
-      "urdu": "بنیادی اصولوں کی کمیٹی میں کتنے ارکان تھے؟",
-      "options": [
-        "24",
-        "26",
-        "12",
-        "18"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Pakistan Volleyball Federation formed?",
-      "urdu": "پاکستان والی بال فیڈریشن کب قائم ہوئی؟",
-      "options": [
-        "13 January 1955",
-        "13 February 1955",
-        "13 March 1955",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "LFO stands for what?",
-      "urdu": "ایل ایف او کا مطلب کیا ہے؟",
-      "options": [
-        "Legal Federation Order",
-        "Legal Framework Ordinance",
-        "Legal Framework Order",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#ff00ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Don't judge a book _____ its cover.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "By",
-        "With",
-        "For",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Arif is my _______ brother.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Older",
-        "Elder",
-        "Olde",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "SmartArt can be added in PowerPoint through which tab?",
-      "urdu": "پاورپوائنٹ میں اسمارٹ آرٹ کس ٹیب کے ذریعے شامل کیا جا سکتا ہے؟",
-      "options": [
-        "Insert",
-        "Home",
-        "Design",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of the IFERROR function in MS Excel?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To return a specified value if a formula results in an error",
-        "To add numbers in a range",
-        "To check spelling errors",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which option is used to copy formatting from one place and apply it to another?",
-      "urdu": "فارمیٹنگ کو ایک جگہ سے کاپی کرنے اور دوسری جگہ لاگو کرنے کے لیے کون سا آپشن استعمال ہوتا ہے؟",
-      "options": [
-        "Copy",
-        "Copy formatter",
-        "Format painter",
-        "Formatting"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the term HTTPS means?",
-      "urdu": "ایڇ۔ٹی۔ٹی۔پی۔ایس کی اصطلاح کا کیا مطلب ہے؟",
-      "options": [
-        "Hyper Text Transfer Protocol Secure",
-        "Hyper Text Translation Protocol Service",
-        "Hyper Text Translation Protocol Secure",
-        "Hyper Text Transfer Protocol Service"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ratio between the perimeter and the breadth of a rectangle is 5:1. If the area of the rectangle is 216 sq. cm, what is the length of the rectangle?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "14 cm",
-        "16 cm",
-        "18 cm",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Serve deficiency of Vitamin C results in? Scurvy, Rickets, Beriberi, Night Blindness",
-      "urdu": "وٹامن سی کی کمی کے نتیجے میں کیا ہوتا ہے؟",
-      "options": [
-        "Scurvy",
-        "Rickets",
-        "Beriberi",
-        "Night Blindness"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 2015 climate change conference is called?",
-      "urdu": "سن 2015 کی موسمیاتی تبدیلی کی کانفرنس کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Paris",
-        "America",
-        "London",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Nawab Bahadur Yar Jung belonged to which princely state?",
-      "urdu": "نواب بہادر یار جنگ کا تعلق کس نوابی ریاست سے تھا؟",
-      "options": [
-        "State of Junagadh",
-        "State of Bhopal",
-        "State of Hyderabad",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is meant by Apiary?",
-      "urdu": "اپیاری سے کیا مراد ہے؟",
-      "options": [
-        "Place where butterflies are kept",
-        "Place for breeding silkworms",
-        "Place where bees are kept",
-        "Place where dogs are kept"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Earthquakes below magnitude 2.0 are called?",
-      "urdu": "شدت 2.0 سے کم کے زلزلوں کو کیا کہتے ہیں؟",
-      "options": [
-        "Microearthquakes",
-        "Major earthquakes",
-        "Minor earthquakes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which punctuation is used for making contractions?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Period",
-        "Apostrophe",
-        "Comma",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the smallest number that, when divided by 8, 10, 20, and 30, leaves a remainder of 5 in each case.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "120",
-        "125",
-        "240",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">LCM of 8, 10, 20, and 30 = 120.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "British Indian Association was formed / founded in _____?",
-      "urdu": "برٹش انڈین ایسوسی ایشن کب قائم کی گئی؟",
-      "options": [
-        "1872",
-        "1851",
-        "1881",
-        "1876"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change into Indirect Speech: He said to me, “What a lovely garden you have!”",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He told me that what a lovely garden I had.",
-        "He exclaimed with admiration that I had a very lovely garden.",
-        "He said to me that I have a lovely garden.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 4x − 2y = 10 and 2x + y = 5, then what is the value of x?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2.5",
-        "3.5",
-        "4.5",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The world’s Largest fresh water Lake is?",
-      "urdu": "دنیا کی سب سے بڑی تازہ پانی کی جھیل  کونسی ہے؟",
-      "options": [
-        "Lake Superior",
-        "Lake Victoria",
-        "Great Bear Lake",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following combinations is correct? Who I and you, Between you and me, Between two, Neither I and you",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Who I and you",
-        "Between you and me",
-        "Between two",
-        "Neither I and you"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The suffix “-fy” means ______, as in terrify, beautify, and simplify.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To describe",
-        "To remove",
-        "To make or become",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Gwadar is mainly for _____?",
-      "urdu": "گوادر زیادہ تر کس مقصد کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Agriculture + industries",
-        "Tourism + real estate",
-        "Trade + fishing / Trade and energy routes",
-        "Mining + education"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Asian Games are also known as _____?",
-      "urdu": "ایشین گیمز کو _____ کے نام سے بھی جانا جاتا ہے؟",
-      "options": [
-        "Olympics",
-        "Asiad",
-        "Commonwealth Games",
-        "Pan-Asian Games"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "On which date did Hamas announce the dissolution of its governing body in Gaza?",
-      "urdu": "حماس نے غزہ میں اپنی حکومتی باڈی کو تحلیل کرنے کا اعلان کس تاریخ کو کیا؟",
-      "options": [
-        "4 July 2026",
-        "5 July 2026",
-        "6 July 2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main purpose of CAPTCHA?",
-      "urdu": "کیپچا کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "To speed up website loading times",
-        "To verify that the user is human",
-        "To improve image quality",
-        "To block internet access"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one of the following is not printer? Pixel printer, Laser, Dot matrix, Inkjet printer",
-      "urdu": "درج ذیل میں سے کون سا پرنٹر نہیں ہے؟",
-      "options": [
-        "Pixel printer",
-        "Laser",
-        "Dot matrix",
-        "Inkjet printer"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He insisted __ going _____ them.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "With /on",
-        "In /with",
-        "To /of",
-        "On / with"
-      ],
-      "correct": 3,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#0000ff\">He insisted </font><font color=\"#00ff00\">on </font><font color=\"#0000ff\">going </font><font color=\"#9c00ff\">with </font><font color=\"#0000ff\">them.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He has married____ doctor.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To",
-        "With",
-        "At",
-        "A"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\">He has married </font><font color=\"#ff0000\">a </font><font color=\"#0000ff\">doctor.</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "I insisted _____ going.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "On",
-        "To",
-        "For",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 08-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "To face the music means _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To be greeted rudely",
-        "To be offered warm",
-        "To be on the front seat in a concert",
-        "To bear the consequence"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "DBMS stands for ______?",
-      "urdu": "ڈی بی ایم ایس کا مطلب ______ ہے؟",
-      "options": [
-        "Database Management Software",
-        "Database Management System",
-        "Database Management Service",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In MS PowerPoint we press _____ key to start slideshow from current slide.",
-      "urdu": "ایم ایس پاورپوائنٹ میں ہم موجودہ سلائیڈ سے سلائیڈ شو شروع کرنے کے لئے _____ کی کو دبائیں۔",
-      "options": [
-        "F5",
-        "Ctrl + F5",
-        "Shift + F5",
-        "Alt + F5"
-      ],
-      "correct": 2,
-      "explanation": "<p><font style=\"\"><span style=\"font-family: Helvetica;\"><b style=\"\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span></b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "One Megabyte (MB) is equal to ____?",
-      "urdu": "ایک میگا بائٹ (ایم بی) کس کے برابر ہے؟",
-      "options": [
-        "1024 Bits",
-        "1024 Bytes",
-        "1024 Kilobytes",
-        "1024 Gigabytes"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Where the General Headquarters (GHQ) of Pakistan Armed Forces (Pakistan Army) are located?",
-      "urdu": "پاکستان آرمی کا جی ایچ کیو کہاں واقع ہے۔",
-      "options": [
-        "Islamabad",
-        "Rawalpindi",
-        "Lahore",
-        "Karachi"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">The General </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">Headquarters</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> (GHQ) is the headquarters of</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\"> the Pakistan Army </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Chief of Defence Forces of Pakistan?",
-      "urdu": "پاکستان کی دفاعی افواج کا موجودہ سربراہ کون ہے؟",
-      "options": [
-        "Gen Raheel Sharif",
-        "Gen Qamar Javed Bajwa",
-        "Syed Asim Munir",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The currency of South Africa is ______?",
-      "urdu": "جنوبی افریقہ کی کرنسی کونسی ہے؟",
-      "options": [
-        "Rupee",
-        "Dinar",
-        "Rand",
-        "Dollar"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><!--[if supportFields]><span style='font-size:12.0pt; line-height:107%;color:#0070C0'><span style='mso-element:field-begin'></span><span style='mso-spacerun:yes'> </span>MERGEFIELD Country <span style='mso-element: field-separator'></span></span><![endif]--></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which surah is known as the Heart of Holy Quran?",
-      "urdu": "وہ کون سی سورت ہے جسے قرآن پاک کا دل کہا جاتا ہے؟",
-      "options": [
-        "Surah Yaseen",
-        "Surah Rehman",
-        "Surah Al-Baqara",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which battle was the trench dug?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Uhad",
-        "Khandaq",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><p \"helvetica=\"\" -webkit-text-stroke-width:=\"\" 0px;=\"\" 255);=\"\" 255,=\"\" 2;=\"\" 37,=\"\" 400;=\"\" 41);\"=\"\" arial,=\"\" background-color:=\"\" color:=\"\" font-style:=\"\" font-variant-caps:=\"\" font-variant-ligatures:=\"\" font-weight:=\"\" helvetica,=\"\" initial;=\"\" letter-spacing:=\"\" neue\",=\"\" none;=\"\" normal;=\"\" open=\"\" orphans:=\"\" rgb(255,=\"\" rgb(33,=\"\" sans\",=\"\" sans-serif;=\"\" start;=\"\" style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; font-size: 14px !important; font-family: \" text-align:=\"\" text-decoration-color:=\"\" text-decoration-style:=\"\" text-decoration-thickness:=\"\" text-indent:=\"\" text-transform:=\"\" white-space:=\"\" widows:=\"\" word-spacing:=\"\"><span style=\"box-sizing: border-box; font-weight: bolder;\"><span 49,=\"\" 700;=\"\" 99);\"=\"\" arial=\"\" black\";=\"\" black\";\"=\"\" color:=\"\" font-weight:=\"\" rgb(0,=\"\" style=\"box-sizing: border-box;\"></span></span></p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Boundary agreement was signed between Pakistan and China in?",
-      "urdu": "پاکستان اور چین کے درمیان سرحدی معاہدے پر دستخط  کب ہوئے؟",
-      "options": [
-        "2 March 1963",
-        "2 March 1962",
-        "2 March 1969",
-        "2 March 1947"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoListParagraph\" style=\"margin-left: 0.25in; line-height: 150%;\"><font style=\"background-color: rgb(255, 255, 255);\"><span style=\"color: rgb(0, 0, 255); line-height: 107%;\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was Fasting (Roza) made obligatory in Islam?",
-      "urdu": "روزہ کب فرض کیا گیا؟",
-      "options": [
-        "8th Shaban, 2 A.H",
-        "7th Shaban, 2 A.H",
-        "10th Shaban, 2 A.H",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">When fasting was made obligatory:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Cabinet Mission announced their plan on which date?",
-      "urdu": "کیبنٹ مشن نے کس تاریخ کو اپنے منصوبے کا اعلان کیا؟",
-      "options": [
-        "8th April 1947",
-        "5th December 1947",
-        "15th January 1947",
-        "16th May 1946"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 13.3333px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-05-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which formula is used to find the number of numerical cells in a range of cells in Excel?",
-      "urdu": "ایکسل میں کسی رینج میں موجود عددی سیلز کی تعداد معلوم کرنے کے لیے کون سا فارمولا استعمال ہوتا ہے؟",
-      "options": [
-        "COUNTIF",
-        "COUNT",
-        "COUNTA",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How can you insert a page break in Microsoft Word?",
-      "urdu": "مائیکروسافٹ ورڈ میں پیج بریک کیسے ڈالا جاتا ہے؟",
-      "options": [
-        "Ctrl + Tab",
-        "Ctrl + Enter",
-        "Ctrl + Alt",
-        "Ctrl + Shift"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 03-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number is increased by 20% and then decreased by 20%. Find the net increase or decrease percent?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Does not changes",
-        "Decreased by 4%",
-        "Increased by 4%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The last ruler of Ottoman Empire was _____?",
-      "urdu": "سلطنت عثمانیہ کا آخری حکمران _____ تھا؟",
-      "options": [
-        "Sultan Ahmad",
-        "Abdul Majeed II",
-        "Sultan Mehmood",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which shortcut key is used to use the find and replace feature?",
-      "urdu": "فائنڈ اینڈ ریپلیس فیچر استعمال کرنے کے لیے کون سا شارٹ کٹ کی استعمال ہوتا ہے؟",
-      "options": [
-        "CTRL + H",
-        "CTRL + F",
-        "CTRL + G",
-        "CTRL + R"
-      ],
-      "correct": 0,
-      "explanation": "<p></p>",
       "category": "all"
     }
   ]
