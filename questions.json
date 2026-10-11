@@ -3,10 +3,388 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-11T13:42:40.257764",
+    "fetched_at": "2026-10-11T17:52:32.841813",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the value of 9^6+7/8= ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "531,441.875",
+        "531,448.875",
+        "531,440.875",
+        "531,441.75"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Correct the sentence: My stick fel down I am walking.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "My stick fall down while I walk.",
+        "My stick fell down while I was walking.",
+        "My stick falls down while I was walking.",
+        "My stick fallen down while I am walking."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">My stick fell down while I was walking.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct sentence:You need not to come to me.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "You need not come to me.",
+        "You do not need come to me.",
+        "You need not coming to me.",
+        "You needed not to come to me."
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">You need not come to me.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct sentence:I bade him to post the letter.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "I bade him posting the letter.",
+        "I bade him post the letter.",
+        "I bade him posted the letter.",
+        "I bade him to posted the letter."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><span data-d-stream-word=\"\" data-d-text-flow=\"word\">I </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">bade </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">him </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">post </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">the </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">letter.</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct sentence:My son is the oldest.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "My son is older.",
+        "My son is the eldest.",
+        "My son is more old.",
+        "My son is most old."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\"><span data-d-stream-word=\"\" data-d-text-flow=\"word\"> </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">My </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">son </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">is </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">the </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">eldest.</span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Correct sentence:Out of two this is one.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Out of two, this is the one.",
+        "Of the two, this is the one.",
+        "Of two, this is one.",
+        "Out of the two, this is the one."
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#0000ff\">Of the two, this is the one</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Rabbi Zidni Ilma is present in which surah of Holy Quran?",
+      "urdu": "ربِّ زِدْنِي عِلْمًا کس سورت میں آیا ہے؟",
+      "options": [
+        "Surah Al-Baqarah",
+        "Surah Al-Imran",
+        "Surah Ta-Ha",
+        "Surah Al-Rahman"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "How many number of Makki Surahs are there in the Holy Quran?",
+      "urdu": "قرآنِ مجید میں مکی سورتوں کی تعداد کتنی ہے؟",
+      "options": [
+        "84",
+        "85",
+        "86",
+        "87"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which prophet slept for 100 years?",
+      "urdu": "کس نبی نے سو سال تک نیند فرمائی؟",
+      "options": [
+        "Hazrat Moosa (A.S)",
+        "Hazrat Idrees (A.S)",
+        "Hazrat Uzair (A.S)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "He had knowledge of the interpretation of dreams?",
+      "urdu": "کو خوابوں کی تعبیر کا علم تھا؟ _____",
+      "options": [
+        "Hazrat Issa (AS)",
+        "Hazrat Yousuf (AS)",
+        "Hazrat Musa (AS)",
+        "Hazrat Yoonus (AS)"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Hazrat Yousaf (AS) remained in the well for ____ days?",
+      "urdu": "حضرت یوسف علیہ السلام کنویں میں ____ دن رہے؟",
+      "options": [
+        "7 days",
+        "5 days",
+        "3 days",
+        "12 days"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many countries are the members of NATO?",
+      "urdu": "نیٹو میں کتنے رکن ممالک ہیں؟",
+      "options": [
+        "30",
+        "27",
+        "32",
+        "29"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><o:p><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\"> </span></o:p></p>",
+      "category": "all"
+    },
+    {
+      "q": "NATO stands for ______?",
+      "urdu": "نیٹو کا مطلب کیا ہے؟",
+      "options": [
+        "North Atlantic Treaty Organization",
+        "No Action Till Order",
+        "North Africa Treaty Organization",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">Total Members: </font><font color=\"#ff0000\">32</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is the champion of FIFA World Cup 2026?",
+      "urdu": "درج ذیل میں سے کون فیفا ورلڈ کپ 2026 کا فاتح ہے؟",
+      "options": [
+        "Argentina",
+        "Spain",
+        "France",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ruins of Harappa are situated in which district?",
+      "urdu": "ہڑپہ کے آثارِ قدیمہ کس ضلع میں واقع ہیں؟",
+      "options": [
+        "Okara",
+        "Multan",
+        "Sahiwal",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which mountain range separates Pakistan and Afghanistan?",
+      "urdu": "پاکستان اور افغانستان کو کون سا پہاڑی سلسلہ الگ کرتا ہے؟",
+      "options": [
+        "Pamirs Range",
+        "Karakoram Range",
+        "Kirthar Range",
+        "Hindu Kush Range"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Gobi desert is located in?",
+      "urdu": "صحرائے گوبی کہاں واقع ہے؟",
+      "options": [
+        "China and Mangolia",
+        "Iran and Iraq",
+        "Saudi Arabia and Yamen",
+        "Australia and Europe"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "SAARC was founded in which city?",
+      "urdu": "سارک کس شہر میں قائم ہوا؟",
+      "options": [
+        "Beijing",
+        "Karachi",
+        "Khatmandu",
+        "Dhaka"
+      ],
+      "correct": 3,
+      "explanation": "<p \"helvetica=\"\" arial,=\"\" helvetica,=\"\" neue\",=\"\" open=\"\" sans\",=\"\" sans-serif;\"=\"\" style=\"margin: 0px 0px 10px; padding: 0px; font-family: \"><font color=\"#ff0000\" style=\"font-weight: bolder; font-size: 13px;\">Additional information</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Prime Minister of Bangladesh?",
+      "urdu": "بنگلہ دیش کا موجودہ وزیر اعظم کون ہے؟",
+      "options": [
+        "Muhammad Yunus",
+        "Shiekh Hasina",
+        "Tarique Rahman",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#ff0000\" style=\"\">Tarique Rahman</font><font color=\"#0000ff\"> is the current </font><font color=\"#ff0000\">Prime Minister </font><font color=\"#0000ff\">of\r\n</font><font color=\"#ff0000\">Bangladesh</font><font color=\"#0000ff\"> (since </font><font color=\"#ff0000\">17 February 2026</font><font color=\"#0000ff\">).<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice: The teacher has checked the answer sheets.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The answer sheets are checked by the teacher.",
+        "The answer sheets were checked by the teacher.",
+        "The answer sheets have been checked by the teacher.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 11-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice: I had completed the assignment.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The assignment had been completed by me.",
+        "The assignment was completed by me.",
+        "The assignment will be completed by me.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct passive voice: We should avoid tranquilizer in order to have a good health.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Tranquilizer should be avoided by us in order to have a good health.",
+        "Tranquilizer is avoided by us in order to have a good health.",
+        "Tranquilizer was avoided by us in order to have a good health.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice: He must conduct online classes.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Online classes must not be conducted by him",
+        "Online classes must be conducted by him",
+        "Online classes must have conducted by him",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the voice: You need not wind this watch.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "This watch need not be wound.",
+        "This watch need not be wounded.",
+        "This watch does not wind.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: Ali said, \"I have been preparing for the examination for two months.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ali said that he was preparing for the examination for two months.",
+        "Ali said that he had been preparing for the examination for two months.",
+        "Ali said that he has been preparing for the examination for two months.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: He said to me, \"Are you coming with me?\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He asked me if you are coming with him.",
+        "He asked me if I was coming with him.",
+        "He asked me if I was coming with me.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: The pilot said, \"Please don't panic but tighten your seat belt.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The pilot told to the passengers to not panic but to tighten your seat belts.",
+        "The pilot told to the passengers that they should not panic but tighten the seat belts.",
+        "The pilot told the passengers not to panic but to tighten their seat belts.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: He said, \"Bravo you have done well.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He applauded him saying that he had done well.",
+        "He applauded him to say that he had done well.",
+        "He applauded him and said that you have done well.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: Roshan said, \"The concert ended yesterday.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Roshan said that the concert had ended the previous day.",
+        "Roshan said that the concert had ended yesterday.",
+        "Roshan said that the concert ended the day before.",
+        "Roshan said that the concert ended already.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Who among the following allegedly attacked King Khalid International Airport of Saudi Arabia in October 2026?",
       "urdu": "درج ذیل میں سے کس نے مبینہ طور پر اکتوبر 2026 میں سعودی عرب کے شاہ خالد انٹرنیشنل ایئرپورٹ پر حملہ کیا؟",
@@ -277,385 +655,6 @@
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Scathing is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Scornful",
-        "Devastating",
-        "Gentle",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Anxiety is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Intense",
-        "Angry",
-        "Worry",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Nostalgic is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Healthy",
-        "Angry",
-        "Homesick",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 11-10-2026</font></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ھيٺين مان درست املا ڪھڙي آھي؟ ذميواري, زميواري, زمي واري, انهن مان ڪو بہ نہ",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ذميواري",
-        "زميواري",
-        "زمي واري",
-        "انهن مان ڪو بہ نہ"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">ذميواري</font><font color=\"#0000ff\"> درست </font><font color=\"#ff0000\">املا</font><font color=\"#0000ff\"> آهي، جنهن جي معنيٰ </font><font color=\"#ff0000\">فرض، جوابدهي يا ڪنهن ڪم جي ذميداري</font><font color=\"#0000ff\"> آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ھڪ تير سان ٻه شڪار جو استعمال ڪھڙي صورتحال ۾ وڌيڪ درست آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "ھڪ ڪم ناڪام ٿيڻ",
-        "ھڪ ڪم سان ٻه مقصد حاصل ڪرڻ",
-        "ڪنھن سان ٺڳي ڪرڻ",
-        "انهن مان ڪو بہ نہ"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">محاوري ”</font><font color=\"#ff0000\">هڪ تير سان ٻه شڪار</font><font color=\"#0000ff\">“ جو مطلب آهي </font><font color=\"#ff0000\">هڪ ئي ڪوشش يا ڪم سان ٻه فائدا حاصل ڪرڻ۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "تشخيص ۽ تشبيهه ۾ بنيادي فرق ڪھڙو آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "تشخيص ۾ قافيو لازمي آھي",
-        "تشبيهه صرف نثر ۾ استعمال ٿئي ٿو",
-        "تشخيص ۾ بي جان شيءِ کي انساني صفت ڏني وڃي ٿي، جڏهن ته تشبيهه ۾ مشابهت ظاھر ڪئي وڃي ٿي",
-        "انهن مان ڪو بہ نہ"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">تشخيص</font><font color=\"#0000ff\">: </font><font color=\"#ff0000\">بي جان</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شين يا غير انساني</font><font color=\"#0000ff\"> شين کي </font><font color=\"#ff0000\">انساني</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">صفتون</font><font color=\"#0000ff\"> يا عمل ڏنا وڃن ٿا. مثال: </font><font color=\"#ff0000\">هوا گيت ڳائي ٿي</font><font color=\"#0000ff\">۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ھيٺين مان ڪھڙو جوڙو شاعر ـ ادبي خصوصيت جي لحاظ کان درست آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "شيخ اياز ـ صرف لوڪ گيت",
-        "شاھ عبداللطيف ڀٽائي ـ صوفي فڪر",
-        "سچل سرمست ـ صرف ناول نگاري",
-        "انهن مان ڪو بہ نہ"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">شاھ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبداللطيف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڀٽائي</font><font color=\"#0000ff\"> سنڌي ٻوليءَ جو عظيم </font><font color=\"#ff0000\">صوفي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شاعر</font><font color=\"#0000ff\"> هو، جنهن پنهنجي شاعريءَ ۾ </font><font color=\"#ff0000\">عشقِ حقيقي، انسانيت ۽ روحانيت</font><font color=\"#0000ff\"> کي بيان ڪيو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ڪنھن درسي سبق جي آخر ۾ پيراگراف ۾ ليکڪ اھڙو نتيجو پيش ڪري ٿو، جيڪو سڄي مضمون جي واقعن مان منطقي طور نڪري ٿو. ان نتيجي کي ڪھڙي طريقي سان سمجهڻ وڌيڪ درست آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "سڄي متن جي مرڪزي خيال سان ڳنڍي",
-        "صرف آخري جملي کي ياد ڪري",
-        "عنوان کي جواب سمجھي",
-        "انهن مان ڪو بہ نہ"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">ڪنهن سبق جي نتيجي کي صحيح سمجهڻ لاءِ </font><font color=\"#ff0000\">سڄي متن جي مرڪزي خيال ۽ واقعن کي نظر</font><font color=\"#0000ff\"> ۾ رکڻ ضروري آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "جيڪڏهن ڪنهن درسي نظم ۾ شاعر فطرت جي منظرن وسيلي انسان جي اندروني ڪيفيت بيان ڪري تہ اھڙي شاعريءَ ۾ فطرت جو ڪردار ڪھڙو سمجهيو ويندو؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "صرف ڪافيي جو ذريعو",
-        "صرف پسمنظر",
-        "علامتي ۽ معنوي وسيلو",
-        "انهن مان ڪو بہ نہ"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">جڏهن شاعر فطرت جي منظرن ذريعي انسان جي اندروني احساسن ۽ ڪيفيتن کي بيان ڪري ٿو، تڏهن فطرت </font><font color=\"#ff0000\">علامتي ۽ معنوي وسيلو</font><font color=\"#0000ff\"> بڻجي ٿي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "استاد شاگردن کان سوال پڇيو ۾ لفظ شاگردن کان جو نحوي ڪردار ڪھڙو آھي؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "واسطيدار / متعلق فعل جزو",
-        "صفت",
-        "فاعل",
-        "انهن مان ڪو بہ نہ"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">جملي ۾ ”</font><font color=\"#ff0000\">استاد</font><font color=\"#0000ff\">“ </font><font color=\"#ff0000\">فاعل</font><font color=\"#0000ff\"> آهي، ڇاڪاڻ ته </font><font color=\"#ff0000\">سوال پڇڻ</font><font color=\"#0000ff\"> جو </font><font color=\"#ff0000\">ڪم استاد</font><font color=\"#0000ff\"> ڪيو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ھيٺين مان ڪھڙي جملي ۾ لفظ جيڪو جو استعمال ضمير موصول طور ٿيو آھي؟ جيڪو ڪتاب ميز تي آهي، اھو منھنجو آھي, جيڪو به ھجي، مون کي خبر ناهي, جيڪو! تون ھتي ڇو آيو آهين؟, جيڪو شاگرد محنت ڪندو، سو ڪامياب ٿيندو, مٿين سڀني ۾",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "جيڪو ڪتاب ميز تي آهي، اھو منھنجو آھي",
-        "جيڪو به ھجي، مون کي خبر ناهي",
-        "جيڪو! تون ھتي ڇو آيو آهين؟",
-        "جيڪو شاگرد محنت ڪندو، سو ڪامياب ٿيندو",
-        "مٿين سڀني ۾"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">جيڪو شاگرد محنت ڪندو، سو ڪامياب ٿيندو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "اسم ضمیر کی کتنی اقسام ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "تین",
-        "دو",
-        "چار",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "آپ بیتی کیا بیان کرتی ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "فرضی کہانی",
-        "اپنی زندگی کی کہانی",
-        "دوسروں کی زندگی کی کہانی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">آپ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بیتی</font><font color=\"#0000ff\"> ایسی تحریر ہے جس میں </font><font color=\"#ff0000\">مصنف اپنی زندگی کے حالات و واقعات خود بیان</font><font color=\"#0000ff\"> کرتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "رنڈوا کی مؤنث کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "بیوہ",
-        "مطلقہ",
-        "کنواری",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">رنڈوا</font><font color=\"#0000ff\"> اس مرد کو کہتے ہیں جس کی </font><font color=\"#ff0000\">بیوی فوت ہو چکی</font><font color=\"#0000ff\"> ہو۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "درویش کی جمع کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "درویشان",
-        "درویشوں",
-        "درویشاں",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">درویش</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">فقیر، صوفی یا دنیاوی مال و دولت سے بے رغبت شخص</font><font color=\"#0000ff\"> کے ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لطیف کا متضاد کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "راہبر",
-        "کثیف",
-        "ادنی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "استعارہ میں لفظ کے حقیقی اور مجازی معنوں کے مابین تشبیہ کا تعلق کیا ہوتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "تشبیہ کا",
-        "تضاد کا",
-        "مبالغے کا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">استعارہ</font><font color=\"#0000ff\"> میں لفظ اپنے حقیقی معنی کے </font><font color=\"#ff0000\">بجائے مجازی معنی میں استعمال</font><font color=\"#0000ff\"> ہوتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "چند منٹوں میں جھاگ بیٹھ _____؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "گئی",
-        "گئے",
-        "گیا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">لفظ </font><font color=\"#ff0000\">جھاگ</font><font color=\"#0000ff\"> اردو میں </font><font color=\"#ff0000\">مؤنث</font><font color=\"#0000ff\"> استعمال ہوتا ہے، اس لیے اس کے ساتھ فعل </font><font color=\"#ff0000\">گئی</font><font color=\"#0000ff\"> آئے گا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "رباعی میں کتنے مصرے ہوتے ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "چار",
-        "پانچ",
-        "چھ",
-        "سات"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ترکیب اضافی کی مثال دیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "دیو و عشق",
-        "چاند سورج",
-        "سلام و دعا",
-        "چال چل",
-        "دِلِ ناداں"
-      ],
-      "correct": 4,
-      "explanation": "<p><b><font color=\"#ff0000\">ترکیبِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اضافی</font><font color=\"#0000ff\"> میں دو اسموں کے درمیان اضافت کا تعلق ہوتا ہے، جسے عموماً </font><font color=\"#ff0000\">زیر (ـِ)</font><font color=\"#0000ff\"> سے ظاہر کیا جاتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "محاورہ \"آ بیل مجھے مار\" کا مفہوم کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "دوسروں کی مدد کرنا",
-        "مشکل سے بچ نکلنا",
-        "خود اپنی مصیبت کو دعوت دینا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">اس محاورے کا مطلب ہے </font><font color=\"#ff0000\">جان بوجھ کر اپنے لیے مشکل یا پریشانی پیدا کرنا</font><font color=\"#0000ff\">۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The train moved ___ the platform slowly.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Beside",
-        "Away from",
-        "Into",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He was accused ____ theft.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Of",
-        "Over",
-        "With",
-        "In"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</span></font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "The child hid ___ the bed.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Above",
-        "On",
-        "Under",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He became addicted _______ drugs at quite any early age.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To",
-        "For",
-        "Into",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The meeting was postponed ___ next week.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Since",
-        "For",
-        "Until",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "She prefers tea ___ coffee.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Over",
-        "Than",
-        "From",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He is famous _____ his bravery.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In",
-        "At",
-        "For",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The teacher was pleased _____ the student's performance.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "On",
-        "Of",
-        "With",
-        "Upon"
-      ],
-      "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
       "category": "all"
     }
