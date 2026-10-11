@@ -3,10 +3,479 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-11T06:48:07.839871",
+    "fetched_at": "2026-10-11T13:42:40.257764",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who among the following allegedly attacked King Khalid International Airport of Saudi Arabia in October 2026?",
+      "urdu": "درج ذیل میں سے کس نے مبینہ طور پر اکتوبر 2026 میں سعودی عرب کے شاہ خالد انٹرنیشنل ایئرپورٹ پر حملہ کیا؟",
+      "options": [
+        "Daesh",
+        "Taliban",
+        "Houthi",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The deadly </font><span style=\"background-color: rgb(255, 255, 0);\">Houthi </span><font color=\"#0000ff\">missile attack in 2026 hit </font><font color=\"#ff0000\">King Khalid International Airport</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Riyadh</font><font color=\"#0000ff\">.<o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Saudi Arabian airport was hit by the deadly Houthi missile attack in October 2026?",
+      "urdu": "اکتوبر 2026 میں حوثیوں کے مہلک میزائل حملے کا نشانہ سعودی عرب کا کون سا ہوائی اڈہ بنا؟",
+      "options": [
+        "Jeddah International Airport",
+        "King Khalid International Airport",
+        "King Fahd International Airport",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"\"><b><font color=\"#0000ff\">The deadly </font><span style=\"background-color: rgb(255, 255, 0);\">Houthi </span><font color=\"#0000ff\">missile attack in 2026 hit </font><font color=\"#ff0000\">King\r\nKhalid International Airport</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Riyadh</font><font color=\"#0000ff\">.<o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If students ____ regularly, they are more likely to perform well in competitive examinations.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Practice",
+        "Will practice",
+        "Practiced",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The government of which political party was removed in KP through governor's rule and emergency in 2026?",
+      "urdu": "دو ہزار چھبیس  میں خیبر پختونخوا میں گورنر راج اور ایمرجنسی کے ذریعے کس سیاسی جماعت کی حکومت ہٹائی گئی تھی؟",
+      "options": [
+        "Pakistan Muslim League-N",
+        "Pakistan Peoples Party",
+        "Pakistan Tehreek-e-Insaf",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\">Khyber Pakhtunkhwa (KP) </font><font color=\"#0000ff\">in Pakistan is the province affected by emergency measures.<o:p></o:p></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The teacher was angry ____ his students.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "At",
+        "Over",
+        "With",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "As of October 2026, which province has been affected by emergency measures?",
+      "urdu": "اکتوبر 2026 تک، کون سا صوبہ ہنگامی اقدامات سے متاثر ہوا ہے؟",
+      "options": [
+        "Sindh",
+        "Balochistan",
+        "KPK",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#ff0000\">Khyber Pakhtunkhwa (KP) </font><font color=\"#0000ff\">in Pakistan is the province\r\naffected by emergency measures.<o:p></o:p></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The price of gold as well as silver ____ risen.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Are",
+        "Have",
+        "Has",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "While the teacher ____ the concept, several students were taking notes.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Explains",
+        "Explained",
+        "Was explaining",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The children ran ____ the room.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "At",
+        "On",
+        "Into",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling: Maggistrate, Maggstrate, Magistrate, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Maggistrate",
+        "Maggstrate",
+        "Magistrate",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling: Embarasment, Embarrassment, Embarrassement, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Embarasment",
+        "Embarrassment",
+        "Embarrassement",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Chose the correct spelling: Pronuncietion, Pronunciation, Pronunceation, Prunciation",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pronuncietion",
+        "Pronunciation",
+        "Pronunceation",
+        "Prunciation"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling: Omission, Omition, Ommission, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Omission",
+        "Omition",
+        "Ommission",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling: Thrasheng, Thrasheing, Thrashing, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Thrasheng",
+        "Thrasheing",
+        "Thrashing",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Docile is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pliable",
+        "Pliant",
+        "Quiet",
+        "Unyielding"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><span style=\"font-family: Tahoma; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 11-10-2026</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Gloomy is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Lively",
+        "Bright",
+        "Cheerful",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Concise is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Verbose",
+        "Lengthy",
+        "Brief",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Timid is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Bold",
+        "Brave",
+        "Poet",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Rigid is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hard",
+        "Strong",
+        "Flexible",
+        "Fixed"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\"> Last updated NA 12-04-2026</span><font color=\"#9c00ff\"></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Latent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hidden",
+        "Genuine",
+        "Trustworthy",
+        "Generous"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Resist is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Agree",
+        "Oppose",
+        "Support",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Scathing is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Scornful",
+        "Devastating",
+        "Gentle",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Anxiety is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Intense",
+        "Angry",
+        "Worry",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Nostalgic is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Healthy",
+        "Angry",
+        "Homesick",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><span style=\"font-family: Helvetica; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Last verified on 11-10-2026</font></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ھيٺين مان درست املا ڪھڙي آھي؟ ذميواري, زميواري, زمي واري, انهن مان ڪو بہ نہ",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ذميواري",
+        "زميواري",
+        "زمي واري",
+        "انهن مان ڪو بہ نہ"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">ذميواري</font><font color=\"#0000ff\"> درست </font><font color=\"#ff0000\">املا</font><font color=\"#0000ff\"> آهي، جنهن جي معنيٰ </font><font color=\"#ff0000\">فرض، جوابدهي يا ڪنهن ڪم جي ذميداري</font><font color=\"#0000ff\"> آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ھڪ تير سان ٻه شڪار جو استعمال ڪھڙي صورتحال ۾ وڌيڪ درست آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ھڪ ڪم ناڪام ٿيڻ",
+        "ھڪ ڪم سان ٻه مقصد حاصل ڪرڻ",
+        "ڪنھن سان ٺڳي ڪرڻ",
+        "انهن مان ڪو بہ نہ"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">محاوري ”</font><font color=\"#ff0000\">هڪ تير سان ٻه شڪار</font><font color=\"#0000ff\">“ جو مطلب آهي </font><font color=\"#ff0000\">هڪ ئي ڪوشش يا ڪم سان ٻه فائدا حاصل ڪرڻ۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "تشخيص ۽ تشبيهه ۾ بنيادي فرق ڪھڙو آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "تشخيص ۾ قافيو لازمي آھي",
+        "تشبيهه صرف نثر ۾ استعمال ٿئي ٿو",
+        "تشخيص ۾ بي جان شيءِ کي انساني صفت ڏني وڃي ٿي، جڏهن ته تشبيهه ۾ مشابهت ظاھر ڪئي وڃي ٿي",
+        "انهن مان ڪو بہ نہ"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">تشخيص</font><font color=\"#0000ff\">: </font><font color=\"#ff0000\">بي جان</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شين يا غير انساني</font><font color=\"#0000ff\"> شين کي </font><font color=\"#ff0000\">انساني</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">صفتون</font><font color=\"#0000ff\"> يا عمل ڏنا وڃن ٿا. مثال: </font><font color=\"#ff0000\">هوا گيت ڳائي ٿي</font><font color=\"#0000ff\">۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ھيٺين مان ڪھڙو جوڙو شاعر ـ ادبي خصوصيت جي لحاظ کان درست آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "شيخ اياز ـ صرف لوڪ گيت",
+        "شاھ عبداللطيف ڀٽائي ـ صوفي فڪر",
+        "سچل سرمست ـ صرف ناول نگاري",
+        "انهن مان ڪو بہ نہ"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">شاھ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">عبداللطيف</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ڀٽائي</font><font color=\"#0000ff\"> سنڌي ٻوليءَ جو عظيم </font><font color=\"#ff0000\">صوفي</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">شاعر</font><font color=\"#0000ff\"> هو، جنهن پنهنجي شاعريءَ ۾ </font><font color=\"#ff0000\">عشقِ حقيقي، انسانيت ۽ روحانيت</font><font color=\"#0000ff\"> کي بيان ڪيو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ڪنھن درسي سبق جي آخر ۾ پيراگراف ۾ ليکڪ اھڙو نتيجو پيش ڪري ٿو، جيڪو سڄي مضمون جي واقعن مان منطقي طور نڪري ٿو. ان نتيجي کي ڪھڙي طريقي سان سمجهڻ وڌيڪ درست آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "سڄي متن جي مرڪزي خيال سان ڳنڍي",
+        "صرف آخري جملي کي ياد ڪري",
+        "عنوان کي جواب سمجھي",
+        "انهن مان ڪو بہ نہ"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">ڪنهن سبق جي نتيجي کي صحيح سمجهڻ لاءِ </font><font color=\"#ff0000\">سڄي متن جي مرڪزي خيال ۽ واقعن کي نظر</font><font color=\"#0000ff\"> ۾ رکڻ ضروري آهي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "جيڪڏهن ڪنهن درسي نظم ۾ شاعر فطرت جي منظرن وسيلي انسان جي اندروني ڪيفيت بيان ڪري تہ اھڙي شاعريءَ ۾ فطرت جو ڪردار ڪھڙو سمجهيو ويندو؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "صرف ڪافيي جو ذريعو",
+        "صرف پسمنظر",
+        "علامتي ۽ معنوي وسيلو",
+        "انهن مان ڪو بہ نہ"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">جڏهن شاعر فطرت جي منظرن ذريعي انسان جي اندروني احساسن ۽ ڪيفيتن کي بيان ڪري ٿو، تڏهن فطرت </font><font color=\"#ff0000\">علامتي ۽ معنوي وسيلو</font><font color=\"#0000ff\"> بڻجي ٿي۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "استاد شاگردن کان سوال پڇيو ۾ لفظ شاگردن کان جو نحوي ڪردار ڪھڙو آھي؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "واسطيدار / متعلق فعل جزو",
+        "صفت",
+        "فاعل",
+        "انهن مان ڪو بہ نہ"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">جملي ۾ ”</font><font color=\"#ff0000\">استاد</font><font color=\"#0000ff\">“ </font><font color=\"#ff0000\">فاعل</font><font color=\"#0000ff\"> آهي، ڇاڪاڻ ته </font><font color=\"#ff0000\">سوال پڇڻ</font><font color=\"#0000ff\"> جو </font><font color=\"#ff0000\">ڪم استاد</font><font color=\"#0000ff\"> ڪيو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ھيٺين مان ڪھڙي جملي ۾ لفظ جيڪو جو استعمال ضمير موصول طور ٿيو آھي؟ جيڪو ڪتاب ميز تي آهي، اھو منھنجو آھي, جيڪو به ھجي، مون کي خبر ناهي, جيڪو! تون ھتي ڇو آيو آهين؟, جيڪو شاگرد محنت ڪندو، سو ڪامياب ٿيندو, مٿين سڀني ۾",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "جيڪو ڪتاب ميز تي آهي، اھو منھنجو آھي",
+        "جيڪو به ھجي، مون کي خبر ناهي",
+        "جيڪو! تون ھتي ڇو آيو آهين؟",
+        "جيڪو شاگرد محنت ڪندو، سو ڪامياب ٿيندو",
+        "مٿين سڀني ۾"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">جيڪو شاگرد محنت ڪندو، سو ڪامياب ٿيندو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "اسم ضمیر کی کتنی اقسام ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "تین",
+        "دو",
+        "چار",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "آپ بیتی کیا بیان کرتی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "فرضی کہانی",
+        "اپنی زندگی کی کہانی",
+        "دوسروں کی زندگی کی کہانی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\">آپ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بیتی</font><font color=\"#0000ff\"> ایسی تحریر ہے جس میں </font><font color=\"#ff0000\">مصنف اپنی زندگی کے حالات و واقعات خود بیان</font><font color=\"#0000ff\"> کرتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "رنڈوا کی مؤنث کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "بیوہ",
+        "مطلقہ",
+        "کنواری",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">رنڈوا</font><font color=\"#0000ff\"> اس مرد کو کہتے ہیں جس کی </font><font color=\"#ff0000\">بیوی فوت ہو چکی</font><font color=\"#0000ff\"> ہو۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "درویش کی جمع کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "درویشان",
+        "درویشوں",
+        "درویشاں",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">درویش</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">فقیر، صوفی یا دنیاوی مال و دولت سے بے رغبت شخص</font><font color=\"#0000ff\"> کے ہیں۔</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "لطیف کا متضاد کیا ہے؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -147,7 +616,7 @@
         "Until",
         "None of these"
       ],
-      "correct": 1,
+      "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
       "category": "all"
     },
@@ -188,474 +657,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the series: B, F, J, N, ___?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Q",
-        "R",
-        "S",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Logic: +4</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Arrange the words given below in a meaningful sequence. 1. Tree 2. Seed 3. Flowers 4. Fruit 5. Plant",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5, 2, 1, 3, 4",
-        "2, 5, 1, 4, 3",
-        "2, 5, 1, 3, 4",
-        "2, 5, 3, 1, 4"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If today is Wednesday, what day will it be after 25 days?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Saturday",
-        "Sunday",
-        "Monday",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">Days repeat every 7 days.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person walks 6 km south and then 4 km east. His final direction from the starting point?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "North-East",
-        "South-East",
-        "South-West",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">               N</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the missing number: 10, 20, 35, 55, ___?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "80",
-        "90",
-        "70",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern is +10, +15, +20, +25</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If all birds have wings and a sparrow is a bird, then a sparrow has?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hooves",
-        "Fins",
-        "Wings",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Complete the analogy: Eye : See :: Ear : ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Speak",
-        "Hear",
-        "Smell",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the odd one out: Apple, Circle, Square, Triangle",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Apple",
-        "Circle",
-        "Square",
-        "Triangle"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If CAT is coded as DBU, then DOG is coded as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "DPH",
-        "EPH",
-        "EDG",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern is +1 for each letter:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next number in the series: 5, 10, 20, 40, ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70",
-        "80",
-        "100",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern: x2 each time</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The area of a square with side 14 cm is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "256 cm²",
-        "196 cm²",
-        "224 cm²",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Area = side x side = 14 x 14 = </font><font color=\"#ff0000\">196 cm²</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A product costs Rs. 2500. After a discount of 20%, the price is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 2400",
-        "Rs. 2200",
-        "Rs. 2000",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Discount = 20% of 2500 = 500</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Solve: 4x - 8 = 16?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "6",
-        "7",
-        "8",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">4x = 16+8 = 24</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The average of 25, 35 and 45 is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "35",
-        "40",
-        "45",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Average = (25+35+45)/3 = 105/3 = </font><font color=\"#ff0000\">35</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When we convert 0.75 into a rational number, we get _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3/2",
-        "3/4",
-        "1/4",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-02-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If 6 clerks can draft 24 letters in 3 hours, how many hours will it take 8 clerks to draft 32 letters?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "2 hours",
-        "3 hours",
-        "4 hours",
-        "5 hours"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\" data-d-text-flow=\"\"><font color=\"#00ff00\"><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">6 </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">clerks </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">draft </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">24 </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">letters </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">in </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">3 </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">hours.</span><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The average marks of 5 students in an exam is 40. If one student who scored 60 marks is excluded, what is the new average?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "30",
-        "35",
-        "40",
-        "45"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\" data-d-text-flow=\"\"><font color=\"#0000ff\"><span class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\" data-d-default-strong=\"\" data-d-inline=\"\" data-d-text-flow=\"\"><span data-d-stream-word=\"\" data-d-text-flow=\"word\">Step </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">1: </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">Find </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">the </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">total </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">marks.</span></span><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "If A:B = 3:4 and B:C = 8:9, what is the combined ratio A:B:C?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3:4:9",
-        "6:8:9",
-        "6:8:18",
-        "3:8:9"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\">Given:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is 15% of 15% of 32,000?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "600",
-        "720",
-        "800",
-        "900"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\">15% of 15% of 32,000</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the square of 2.5 cm?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5.25 cm²",
-        "6.25 cm²",
-        "7.25 cm²",
-        "8.25 cm²"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"> If the side is 2.5 cm:</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "All police officers are trained. Ali is a police officer. Therefore:",
-      "urdu": "تمام پولیس افسر تربیت یافتہ ہیں۔ علی پولیس افسر ہے۔ لہٰذا:",
-      "options": [
-        "Ali may be trained",
-        "Ali is trained",
-        "Ali is not trained",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Odd one out: 121, 144, 169, 196, 210",
-      "urdu": "مختلف عدد پہچانیں: 121، 144، 169، 196، 210",
-      "options": [
-        "144",
-        "169",
-        "196",
-        "210"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Doctor : Hospital :: Teacher : ?",
-      "urdu": "ڈاکٹر : ہسپتال :: استاد : ؟",
-      "options": [
-        "Student",
-        "School",
-        "Book",
-        "Class"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "3, 10, 29, 66, 127, ?",
-      "urdu": "سیریز مکمل کریں: 3، 10، 29، 66، 127، ؟",
-      "options": [
-        "216",
-        "218",
-        "220",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "7, 15, 32, 67, 138, ?",
-      "urdu": "سیریز مکمل کریں: 7، 15، 32، 67، 138، ؟",
-      "options": [
-        "279",
-        "280",
-        "281",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "AZ, CX, FU, JQ, ?",
-      "urdu": "سیریز مکمل کریں: AZ، CX، FU، JQ، ؟",
-      "options": [
-        "OL",
-        "NL",
-        "OM",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "If ASI is coded as ZHR, how is CYBER coded?",
-      "urdu": "اگر ASI کا کوڈ ZHR ہو تو CYBER کا کوڈ کیا ہوگا؟",
-      "options": [
-        "XBYWI",
-        "XCYVI",
-        "XBYVI",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A is B's brother. C is A's father. D is C's sister. E is D's son. How is E related to B?",
-      "urdu": "A، B کا بھائی ہے۔ C، A کا والد ہے۔ D، C کی بہن ہے۔ E، D کا بیٹا ہے۔ E کا B سے کیا رشتہ ہے؟",
-      "options": [
-        "Brother",
-        "Cousin",
-        "Nephew",
-        "Uncle"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A man facing North turns 90° clockwise, then 180° anticlockwise, then 45° clockwise. Which way is he facing?",
-      "urdu": "ایک آدمی شمال کی طرف منہ کیے 90° گھڑی کی سمت، پھر 180° الٹی سمت، پھر 45° گھڑی کی سمت مڑتا ہے۔ اس کا رخ کس طرف ہے؟",
-      "options": [
-        "North-East",
-        "South-West",
-        "North-West",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Six friends sit around a round table facing the centre. A is opposite D. B is immediately left of A. C is opposite B. F is not next to D. Who sits between A and C?",
-      "urdu": "چھ دوست گول میز کے گرد مرکز کی طرف منہ کیے بیٹھے ہیں۔ A، D کے سامنے ہے۔ B، A کے فوراً بائیں ہے۔ C، B کے سامنے ہے۔ F، D کے ساتھ نہیں۔ A اور C کے درمیان کون ہے؟",
-      "options": [
-        "E",
-        "B",
-        "D",
-        "F"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "\"Accidents fell after Safe City cameras were installed.\" Which STRENGTHENS the claim that the cameras caused it?",
-      "urdu": "\"سیف سٹی کیمرے لگنے کے بعد حادثات کم ہوئے۔\" کون سی بات اس دعوے کو مضبوط کرتی ہے کہ کمی کیمروں کی وجہ سے ہوئی؟",
-      "options": [
-        "Accidents fell mainly at camera locations, not elsewhere",
-        "Traffic volume fell sharply due to high fuel prices",
-        "Cameras are expensive",
-        "Other cities also installed cameras"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Bilal was a candidate. All candidates scoring above 60 were called for interview. Bilal was not called. Therefore:",
-      "urdu": "بلال امیدوار تھا۔ 60 سے زیادہ نمبر لینے والے تمام امیدوار انٹرویو کے لیے بلائے گئے۔ بلال کو نہیں بلایا گیا۔ لہٰذا:",
-      "options": [
-        "Bilal scored 60 or below",
-        "Bilal scored below 50",
-        "Bilal did not appear",
-        "Bilal scored above 60"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Only graduates can apply for the ASI post. Hamza applied. Therefore:",
-      "urdu": "ASI کی آسامی کے لیے صرف گریجویٹ اپلائی کر سکتے ہیں۔ حمزہ نے اپلائی کیا۔ لہٰذا:",
-      "options": [
-        "Hamza may be a graduate",
-        "Hamza is not a graduate",
-        "Hamza is a graduate",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the angle between the clock hands at 3:40?",
-      "urdu": "3:40 پر گھڑی کی سوئیوں کے درمیان زاویہ کتنا ہے؟",
-      "options": [
-        "130°",
-        "120°",
-        "140°",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Matrix: Row 1: 2, 4, 8 | Row 2: 3, 9, 27 | Row 3: 4, 16, ?",
-      "urdu": "میٹرکس: قطار 1: 2، 4، 8 | قطار 2: 3، 9، 27 | قطار 3: 4، 16، ؟",
-      "options": [
-        "64",
-        "48",
-        "32",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A patrol must visit checkpoints P, Q, R, S. Q must come before R. S must be last. P cannot be first. Which order is valid?",
-      "urdu": "ایک گشتی ٹیم کو چیک پوائنٹس P، Q، R، S پر جانا ہے۔ Q، R سے پہلے ہو۔ S آخری ہو۔ P پہلا نہ ہو۔ کون سی ترتیب درست ہے؟",
-      "options": [
-        "P, Q, R, S",
-        "Q, R, S, P",
-        "Q, P, R, S",
-        "R, Q, P, S"
-      ],
-      "correct": 2,
-      "explanation": "",
       "category": "all"
     }
   ]
