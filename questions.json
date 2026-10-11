@@ -3,10 +3,388 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-10T22:04:48.176618",
+    "fetched_at": "2026-10-11T06:48:07.839871",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "لطیف کا متضاد کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "راہبر",
+        "کثیف",
+        "ادنی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "استعارہ میں لفظ کے حقیقی اور مجازی معنوں کے مابین تشبیہ کا تعلق کیا ہوتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "تشبیہ کا",
+        "تضاد کا",
+        "مبالغے کا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">استعارہ</font><font color=\"#0000ff\"> میں لفظ اپنے حقیقی معنی کے </font><font color=\"#ff0000\">بجائے مجازی معنی میں استعمال</font><font color=\"#0000ff\"> ہوتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "چند منٹوں میں جھاگ بیٹھ _____؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "گئی",
+        "گئے",
+        "گیا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">لفظ </font><font color=\"#ff0000\">جھاگ</font><font color=\"#0000ff\"> اردو میں </font><font color=\"#ff0000\">مؤنث</font><font color=\"#0000ff\"> استعمال ہوتا ہے، اس لیے اس کے ساتھ فعل </font><font color=\"#ff0000\">گئی</font><font color=\"#0000ff\"> آئے گا۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "رباعی میں کتنے مصرے ہوتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "چار",
+        "پانچ",
+        "چھ",
+        "سات"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "ترکیب اضافی کی مثال دیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دیو و عشق",
+        "چاند سورج",
+        "سلام و دعا",
+        "چال چل",
+        "دِلِ ناداں"
+      ],
+      "correct": 4,
+      "explanation": "<p><b><font color=\"#ff0000\">ترکیبِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">اضافی</font><font color=\"#0000ff\"> میں دو اسموں کے درمیان اضافت کا تعلق ہوتا ہے، جسے عموماً </font><font color=\"#ff0000\">زیر (ـِ)</font><font color=\"#0000ff\"> سے ظاہر کیا جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "محاورہ \"آ بیل مجھے مار\" کا مفہوم کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "دوسروں کی مدد کرنا",
+        "مشکل سے بچ نکلنا",
+        "خود اپنی مصیبت کو دعوت دینا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">اس محاورے کا مطلب ہے </font><font color=\"#ff0000\">جان بوجھ کر اپنے لیے مشکل یا پریشانی پیدا کرنا</font><font color=\"#0000ff\">۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The train moved ___ the platform slowly.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Beside",
+        "Away from",
+        "Into",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He was accused ____ theft.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Of",
+        "Over",
+        "With",
+        "In"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</span></font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The child hid ___ the bed.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Above",
+        "On",
+        "Under",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He became addicted _______ drugs at quite any early age.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To",
+        "For",
+        "Into",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The meeting was postponed ___ next week.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Since",
+        "For",
+        "Until",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "She prefers tea ___ coffee.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Over",
+        "Than",
+        "From",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He is famous _____ his bravery.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In",
+        "At",
+        "For",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The teacher was pleased _____ the student's performance.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "On",
+        "Of",
+        "With",
+        "Upon"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Complete the series: B, F, J, N, ___?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Q",
+        "R",
+        "S",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Logic: +4</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Arrange the words given below in a meaningful sequence. 1. Tree 2. Seed 3. Flowers 4. Fruit 5. Plant",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5, 2, 1, 3, 4",
+        "2, 5, 1, 4, 3",
+        "2, 5, 1, 3, 4",
+        "2, 5, 3, 1, 4"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If today is Wednesday, what day will it be after 25 days?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Saturday",
+        "Sunday",
+        "Monday",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\">Days repeat every 7 days.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person walks 6 km south and then 4 km east. His final direction from the starting point?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "North-East",
+        "South-East",
+        "South-West",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">               N</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the missing number: 10, 20, 35, 55, ___?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "80",
+        "90",
+        "70",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern is +10, +15, +20, +25</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If all birds have wings and a sparrow is a bird, then a sparrow has?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hooves",
+        "Fins",
+        "Wings",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Complete the analogy: Eye : See :: Ear : ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Speak",
+        "Hear",
+        "Smell",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-02-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the odd one out: Apple, Circle, Square, Triangle",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Apple",
+        "Circle",
+        "Square",
+        "Triangle"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If CAT is coded as DBU, then DOG is coded as?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "DPH",
+        "EPH",
+        "EDG",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern is +1 for each letter:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next number in the series: 5, 10, 20, 40, ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "70",
+        "80",
+        "100",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern: x2 each time</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The area of a square with side 14 cm is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "256 cm²",
+        "196 cm²",
+        "224 cm²",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Area = side x side = 14 x 14 = </font><font color=\"#ff0000\">196 cm²</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A product costs Rs. 2500. After a discount of 20%, the price is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 2400",
+        "Rs. 2200",
+        "Rs. 2000",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Discount = 20% of 2500 = 500</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Solve: 4x - 8 = 16?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">4x = 16+8 = 24</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The average of 25, 35 and 45 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "35",
+        "40",
+        "45",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">Average = (25+35+45)/3 = 105/3 = </font><font color=\"#ff0000\">35</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When we convert 0.75 into a rational number, we get _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3/2",
+        "3/4",
+        "1/4",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-02-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "If 6 clerks can draft 24 letters in 3 hours, how many hours will it take 8 clerks to draft 32 letters?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -275,383 +653,6 @@
         "Q, R, S, P",
         "Q, P, R, S",
         "R, Q, P, S"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In a test with +1 for correct and −0.25 for wrong, a candidate attempts 80 questions and scores 60. How many were correct?",
-      "urdu": "ایک ٹیسٹ میں درست جواب پر +1 اور غلط پر −0.25 ہے۔ امیدوار نے 80 سوال حل کیے اور 60 نمبر لیے۔ کتنے درست تھے؟",
-      "options": [
-        "64",
-        "60",
-        "68",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Odd one out: 17, 23, 29, 33, 37",
-      "urdu": "مختلف عدد پہچانیں: 17، 23، 29، 33، 37",
-      "options": [
-        "17",
-        "23",
-        "33",
-        "37"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Pen : Write :: Knife : ?",
-      "urdu": "قلم : لکھنا :: چھری : ؟",
-      "options": [
-        "Cut",
-        "Sharp",
-        "Kitchen",
-        "Steel"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Ali is taller than Babar. Babar is taller than Chand. Who is the shortest?",
-      "urdu": "علی بابر سے لمبا ہے۔ بابر چاند سے لمبا ہے۔ سب سے چھوٹا کون ہے؟",
-      "options": [
-        "Ali",
-        "Babar",
-        "Chand",
-        "Cannot be determined"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A man faces East, turns left, then turns left again. Which direction is he facing?",
-      "urdu": "ایک آدمی مشرق کی طرف منہ کیے بائیں مڑتا ہے، پھر دوبارہ بائیں مڑتا ہے۔ اب اس کا رخ کس طرف ہے؟",
-      "options": [
-        "North",
-        "South",
-        "West",
-        "East"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "What is the average of the first 10 natural numbers?",
-      "urdu": "پہلے 10 قدرتی اعداد کی اوسط کیا ہے؟",
-      "options": [
-        "5",
-        "6",
-        "4.5",
-        "None of these"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "I: Several banks reported online fraud cases. II: NCCIA issued a public advisory on phishing.",
-      "urdu": "I: کئی بینکوں نے آن لائن فراڈ کی رپورٹس دیں۔ II: NCCIA نے فشنگ کے بارے میں عوامی ایڈوائزری جاری کی۔",
-      "options": [
-        "II is the cause, I is the effect",
-        "Both are independent",
-        "I is the cause, II is the effect",
-        "Both are effects of a common cause"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "I: Many schools in Lahore were closed. II: Hospitals reported more respiratory cases.",
-      "urdu": "I: لاہور میں کئی اسکول بند کر دیے گئے۔ II: ہسپتالوں میں سانس کی بیماریوں کے کیسز بڑھ گئے۔",
-      "options": [
-        "I is the cause",
-        "II is the cause",
-        "Both are independent",
-        "Both are effects of a common cause"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A bridge shows major cracks after a flood. Courses of action: I. Close the bridge immediately for inspection. II. Arrest the engineer who built it.",
-      "urdu": "سیلاب کے بعد ایک پل میں بڑی دراڑیں آ گئیں۔ اقدامات: I. معائنے کے لیے پل فوراً بند کیا جائے۔ II. پل بنانے والے انجینئر کو گرفتار کیا جائے۔",
-      "options": [
-        "Only II",
-        "Only I",
-        "Both",
-        "Neither"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Is x even? (x is an integer) I. x² is even. II. x + 3 is odd.",
-      "urdu": "کیا x جفت ہے؟ (x صحیح عدد ہے) I. x² جفت ہے۔ II. x + 3 طاق ہے۔",
-      "options": [
-        "I alone",
-        "II alone",
-        "Both together needed",
-        "Either alone is sufficient"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "How is T related to M? I. T is the brother of N. II. N is the daughter of M.",
-      "urdu": "T کا M سے کیا رشتہ ہے؟ I. T، N کا بھائی ہے۔ II. N، M کی بیٹی ہے۔",
-      "options": [
-        "Both together needed",
-        "I alone",
-        "II alone",
-        "Neither"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A machine doubles odd numbers and halves even numbers. Input: 14, 9, 22, 7. Output?",
-      "urdu": "ایک مشین طاق اعداد کو دگنا اور جفت اعداد کو آدھا کرتی ہے۔ ان پٹ: 14، 9، 22، 7۔ آؤٹ پٹ کیا ہوگا؟",
-      "options": [
-        "7, 18, 11, 14",
-        "28, 18, 44, 14",
-        "7, 4.5, 11, 3.5",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "On a standard die, 3 is on top. What is on the bottom?",
-      "urdu": "ایک عام ڈائس کے اوپر 3 ہے۔ نیچے کون سا عدد ہے؟",
-      "options": [
-        "3",
-        "5",
-        "6",
-        "None of these"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A triangle has one line drawn from its top vertex to the base. How many triangles are there in total?",
-      "urdu": "ایک تکون میں اوپر والے کونے سے قاعدے تک ایک لکیر کھینچی گئی ہے۔ کل کتنی تکونیں ہیں؟",
-      "options": [
-        "2",
-        "4",
-        "3",
-        "5"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Statements: All A are B. Some B are C. Conclusions: I. Some A are C. II. Some C are B.",
-      "urdu": "بیانات: تمام A، B ہیں۔ کچھ B، C ہیں۔ نتائج: I. کچھ A، C ہیں۔ II. کچھ C، B ہیں۔",
-      "options": [
-        "Only I",
-        "Neither",
-        "Both",
-        "Only II"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A woman says about a man: \"He is the son of my father's only son.\" How is she related to him?",
-      "urdu": "ایک عورت ایک آدمی کے بارے میں کہتی ہے: \"یہ میرے والد کے اکلوتے بیٹے کا بیٹا ہے۔\" عورت کا اس سے کیا رشتہ ہے؟",
-      "options": [
-        "Mother",
-        "Sister",
-        "Aunt",
-        "Cousin"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "How many times do the hour and minute hands overlap in 12 hours?",
-      "urdu": "12 گھنٹوں میں گھنٹے اور منٹ کی سوئیاں کتنی بار ملتی ہیں؟",
-      "options": [
-        "12",
-        "11",
-        "22",
-        "24"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Files W, X, Y, Z are checked Monday–Thursday, one per day. X before W. Z on Wednesday. Y not on Monday. W not on Thursday. Which file is checked on Tuesday?",
-      "urdu": "فائلیں W، X، Y، Z پیر تا جمعرات روزانہ ایک چیک ہوتی ہے۔ X، W سے پہلے۔ Z بدھ کو۔ Y پیر کو نہیں۔ W جمعرات کو نہیں۔ منگل کو کون سی فائل چیک ہوگی؟",
-      "options": [
-        "W",
-        "X",
-        "Y",
-        "Z"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "\"sun is hot\" = \"ka la ta\"; \"hot tea\" = \"ta mo\"; \"tea is good\" = \"mo la pi\". What is the code for \"sun\"?",
-      "urdu": "\"sun is hot\" = \"ka la ta\"؛ \"hot tea\" = \"ta mo\"؛ \"tea is good\" = \"mo la pi\"۔ \"sun\" کا کوڈ کیا ہے؟",
-      "options": [
-        "ka",
-        "la",
-        "ta",
-        "mo"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Notice: \"Apply online before 30 September to avoid the last-minute rush.\" Assumptions: I. Applying online is possible. II. A rush is expected near the deadline.",
-      "urdu": "نوٹس: \"آخری دنوں کے رش سے بچنے کے لیے 30 ستمبر سے پہلے آن لائن اپلائی کریں۔\" مفروضے: I. آن لائن اپلائی ممکن ہے۔ II. آخری تاریخ کے قریب رش متوقع ہے۔",
-      "options": [
-        "Only II",
-        "Neither",
-        "Only I",
-        "Both"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Every ASI in the unit has a law degree. Some law graduates in the unit are women. Which MUST be true?",
-      "urdu": "یونٹ کے ہر ASI کے پاس قانون کی ڈگری ہے۔ یونٹ کے کچھ قانون گریجویٹ خواتین ہیں۔ کون سی بات لازماً درست ہے؟",
-      "options": [
-        "Some women in the unit have law degrees",
-        "Some ASIs are women",
-        "All law graduates are ASIs",
-        "No ASI is a woman"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "1, 4, 9, 16, 25, ?",
-      "urdu": "سیریز مکمل کریں: 1، 4، 9، 16، 25، ؟",
-      "options": [
-        "30",
-        "36",
-        "49",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Odd one out: Square, Rectangle, Triangle, Rhombus",
-      "urdu": "مختلف شکل پہچانیں: مربع، مستطیل، تکون، معین",
-      "options": [
-        "Square",
-        "Rectangle",
-        "Triangle",
-        "Rhombus"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Book : Library :: Money : ?",
-      "urdu": "کتاب : لائبریری :: پیسہ : ؟",
-      "options": [
-        "Bank",
-        "Wallet",
-        "Rich",
-        "Coin"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "A man walks 4 km West, then 3 km North. How far is he from the start?",
-      "urdu": "ایک آدمی 4 کلومیٹر مغرب، پھر 3 کلومیٹر شمال چلتا ہے۔ وہ نقطۂ آغاز سے کتنی دور ہے؟",
-      "options": [
-        "7 km",
-        "5 km",
-        "1 km",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "100, 90, 81, 73, 66, ?",
-      "urdu": "سیریز مکمل کریں: 100، 90، 81، 73، 66، ؟",
-      "options": [
-        "58",
-        "59",
-        "60",
-        "61"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which does not belong: January, March, July, June",
-      "urdu": "کون سا مختلف ہے: جنوری، مارچ، جولائی، جون",
-      "options": [
-        "January",
-        "March",
-        "July",
-        "June"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Passage: In City X, reported cybercrime complaints doubled between 2023 and 2025, while internet users grew by 40%. Most complaints involved financial fraud. — Statement: The number of internet users in City X decreased between 2023 and 2025.",
-      "urdu": "عبارت: شہر X میں 2023 سے 2025 کے دوران رپورٹ شدہ سائبر جرائم کی شکایات دگنی ہو گئیں جبکہ انٹرنیٹ صارفین 40% بڑھے۔ زیادہ تر شکایات مالی فراڈ کی تھیں۔ — بیان: شہر X میں 2023 سے 2025 کے دوران انٹرنیٹ صارفین کم ہوئے۔",
-      "options": [
-        "Definitely true",
-        "Probably true",
-        "Data inadequate",
-        "Definitely false"
-      ],
-      "correct": 3,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Passage: In City X, reported cybercrime complaints doubled between 2023 and 2025, while internet users grew by 40%. Most complaints involved financial fraud. — Statement: Awareness campaigns caused the rise in complaints.",
-      "urdu": "عبارت: شہر X میں 2023 سے 2025 کے دوران رپورٹ شدہ سائبر جرائم کی شکایات دگنی ہو گئیں جبکہ انٹرنیٹ صارفین 40% بڑھے۔ زیادہ تر شکایات مالی فراڈ کی تھیں۔ — بیان: آگاہی مہمات کی وجہ سے شکایات بڑھیں۔",
-      "options": [
-        "Definitely true",
-        "Probably true",
-        "Data inadequate",
-        "Definitely false"
       ],
       "correct": 2,
       "explanation": "",
