@@ -3,10 +3,88 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-12T16:23:12.487159",
+    "fetched_at": "2026-10-12T21:30:50.815336",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "17% of 51 is what percent of which number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "8.67",
+        "153",
+        "102",
+        "119"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-size: 14px;\"><b style=\"\"><font color=\"#0000ff\">17% of 51 </font></b></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the Simple Interest: P = 2000, R = 10%, T = 3 years.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "400",
+        "500",
+        "600",
+        "700"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If 500 is divided in the ratio 2:3, what is the largest part?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\" data-d-text-flow=\"\"><font color=\"#0000ff\"><span data-d-stream-word=\"\" data-d-text-flow=\"word\">Total </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">ratio </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\">= </span><span class=\"BbFS-a_Math\" data-d-component=\"math\" data-d-stream-inline=\"\" dir=\"ltr\"><span class=\"katex\"><span class=\"katex-mathml\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn><br/></mn></mrow><annotation encoding=\"application/x-tex\">2+3=5</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">2</span><span class=\"mspace\"></span><span class=\"mbin\">+</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">3</span><span class=\"mspace\"></span><span class=\"mrel\">=</span><span class=\"mspace\"></span></span><span class=\"base\"><span class=\"strut\"></span><span class=\"mord\">5</span></span></span></span></span><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Simplify: (x²+x−20)/(x²−4)",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "(x+5)(x−4)​/(x−2)(x+2)",
+        "x+5/x+2",
+        "x−4​/x−2",
+        "x+5​/x−2"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\" data-d-text-flow=\"\"><span class=\"w6asjq_TextBase _85PZeG_Text\" data-d-component=\"text\" data-d-default-strong=\"\" data-d-inline=\"\" data-d-text-flow=\"\"><font color=\"#0000ff\">(x²+x−20)/(x²−4)</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "If 54 is subtracted from 3 times a number, the result is 36. What is the number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"w6asjq_TextBase _85PZeG_Text PDq2pG_selectionAnchorContainer\" data-d-component=\"text\" data-d-text-flow=\"\"><font color=\"#0000ff\"><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">Let </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">the </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">number </span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">be</span><span class=\"BbFS-a_Math\" data-d-component=\"math\" data-d-stream-inline=\"\" dir=\"ltr\" style=\"\"><span class=\"katex\"><span aria-hidden=\"true\" class=\"katex-html\"><span class=\"base\"><span class=\"mord mathnormal\">x</span></span></span></span></span><span data-d-stream-word=\"\" data-d-text-flow=\"word\" style=\"\">.</span><span aria-hidden=\"true\" class=\"PDq2pG_selectionAnchor\"></span></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "3% is 600 of which number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1,000",
+        "2,000",
+        "5,000",
+        "20,000"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\"><span class=\"base\"><span class=\"mord text\"><span class=\"mord\">Number</span></span><span class=\"mspace\"></span><span class=\"mrel\">=</span></span><span class=\"base\"><span class=\"mord\"><span class=\"mfrac\"><span class=\"vlist-t vlist-t2\"><span class=\"vlist-r\"><span class=\"vlist\"><span class=\"mord\"><span class=\"mord\">600</span><span class=\"mspace\"></span><span class=\"mbin\">×</span><span class=\"mspace\"></span><span class=\"mord\">100/3</span></span></span><span class=\"vlist-s\">​</span></span></span></span></span></span></font></p>",
+      "category": "all"
+    },
     {
       "q": "COVID-19 is caused by?",
       "urdu": "کووڈ-19 _____ کی وجہ سے ہے؟",
@@ -579,85 +657,6 @@
       ],
       "correct": 2,
       "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">PNG </b><b style=\"color: rgb(0, 0, 255);\">is a file format used for lossless </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">image </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">compression</b><b style=\"color: rgb(0, 0, 255);\">.</b><o:p></o:p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan Television (PTV) started its live transmission?",
-      "urdu": "پاکستان ٹیلی ویژن (پی ٹی وی) نے اپنی لائیو نشریات کا آغاز کیا؟",
-      "options": [
-        "April 20, 1964",
-        "November 20, 1964",
-        "December 26, 1968",
-        "November 26, 1964"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#0000ff\" style=\"\"><span style=\"font-size: 14px;\"><b>Additional information:</b></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When the constitution of 1962 was abrogated?",
-      "urdu": "آئین1962 کب منسوخ ہوا؟",
-      "options": [
-        "21th March 1968",
-        "22nd March 1969",
-        "25th March 1969",
-        "26th March 1968",
-        "28th March 1969"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"width: 426px;\"><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\">President Ayub Khan </font><font color=\"#00ff00\" style=\"background-color: rgb(255, 255, 255);\">promulgated</font><font color=\"#0000ff\" style=\"background-color: rgb(255, 255, 255);\"> the Constitution of 1962 </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 255);\">on 1 March 1962 </font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A political system governed by wealthy people is known as ______?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Oligarchy",
-        "Plutocracy",
-        "Aristocracy",
-        "Pantisocracy"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A government person that is carried on through officers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Bureaucracy",
-        "Democracy",
-        "Autocracy",
-        "Monarchy"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">A government carried on by officers is called a </font><font color=\"#9c00ff\">bureaucracy</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person who loves mankind is called ---",
-      "urdu": "انسان سے محبت کرنے والا شخص کہلاتا ہے۔",
-      "options": [
-        "Philanthropist",
-        "Misogynist",
-        "Pessimist",
-        "Atheist"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "He will come here ___ Friday.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In",
-        "At",
-        "On",
-        "By"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\">He will come here on Friday.</font></p>",
       "category": "all"
     }
   ]
