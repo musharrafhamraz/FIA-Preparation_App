@@ -3,10 +3,244 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-13T23:08:51.520231",
+    "fetched_at": "2026-10-14T05:48:26.130706",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Gilgit Baltistan is located in which side of Pakistan?",
+      "urdu": "گلگت بلتستان پاکستان کے کس حصے میں واقع ہے؟",
+      "options": [
+        "South",
+        "East",
+        "West",
+        "North"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The largest province of Pakistan by area is _____?",
+      "urdu": "پاکستان کا رقبہ کے لحاظ سے سب سے بڑا صوبہ کون سا ہے؟",
+      "options": [
+        "Baluchistan",
+        "Punjab",
+        "Sindh",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p \"=\"\" \"\"=\"\" \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" -apple-system,=\"\" 135,=\"\" 150);=\"\" 700;\"=\"\" arial,=\"\" blinkmacsystemfont,=\"\" color=\"\" color:\"=\"\" emoji\",=\"\" emoji\";=\"\" font-family:=\"\" font-weight:=\"\" neue\",=\"\" nunito,=\"\" rgb(133,=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span 0);=\"\" 0,=\"\" 1rem;\"=\"\" 255);=\"\" 255,=\"\" background-color:=\"\" bolder;=\"\" font-family:=\"\" font-size:=\"\" font-weight:=\"\" helvetica;=\"\" rgb(255,=\"\" style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Additional information:</b></font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who wrote The Emergence of Pakistan?",
+      "urdu": "پاکستان کا ظہور کس نے لکھا؟",
+      "options": [
+        "Ahmed Saeed",
+        "Allama Iqbal",
+        "Choudhry Muhammad Ali",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 1962 Constitution of Pakistan was passed during the regime of?",
+      "urdu": "پاکستان کا 1962 کا آئین کس کے دور حکومت میں منظور ہوا؟",
+      "options": [
+        "Ayub Khan",
+        "Sikandar Mirza",
+        "Yahya Khan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Malik Ghulam Muhammad was the ________ Governor General of Pakistan.",
+      "urdu": "ملک غلام محمد پاکستان کے کون سے گورنر جنرل تھے؟",
+      "options": [
+        "Second",
+        "Fourth",
+        "Third",
+        "First"
+      ],
+      "correct": 2,
+      "explanation": "<p><p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p><ol><li><b style=\"\"><font color=\"#ff0000\">Muhammad Ali Jinnah</font><font color=\"#0000ff\">: 15 August 1947 – 11 September 1948.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Khawaja Nazimuddin</font><font color=\"#0000ff\">: 14 September 1948 – 17 October 1951.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Malik Ghulam Muhammad</font><font color=\"#0000ff\">: </font><font color=\"#ff0000\">17 October 1951</font><font color=\"#0000ff\"> – </font><font color=\"#ff0000\">6 October 1955</font><font color=\"#0000ff\">.</font></b></li><li><b style=\"\"><font color=\"#ff0000\">Iskander Mirza</font><font color=\"#0000ff\">: 6 October 1955 – 23 March 1956.</font></b></li></ol><p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-10-2026</font></b></p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan Steel Mills is located in?",
+      "urdu": "پاکستان اسٹیل ملز کہاں واقع ہے؟",
+      "options": [
+        "Karachi",
+        "Lahore",
+        "Islamabad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Karachi remained capital of Pakistan from _____?",
+      "urdu": "کراچی پاکستان کا دارالحکومت کب سے کب تک رہا؟",
+      "options": [
+        "1947 to 1959",
+        "1947 to 1969",
+        "1947 to 1956",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under which article of 1973, gives powers to the president to suspend Fundamental Rights of Citizens during emergency period?",
+      "urdu": "سن 1973 کے آئین کے کس آرٹیکل کے تحت صدر کو ہنگامی حالت کے دوران شہریوں کے بنیادی حقوق معطل کرنے کا اختیار حاصل ہے؟",
+      "options": [
+        "232",
+        "240",
+        "198",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which Province of Pakistan is known as \"Fruit Basket of Pakistan\"?",
+      "urdu": "پاکستان کے کس صوبے کو ’’پاکستان کی پھلوں کی ٹوکری‘‘ کہا جاتا ہے؟",
+      "options": [
+        "KPK",
+        "Balochistan",
+        "Punjab",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><font face=\"Tahoma\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where the biggest Salt Mine located in Pakistan?",
+      "urdu": "پاکستان میں نمک کی سب سے بڑی کان کہاں واقع ہے؟",
+      "options": [
+        "Mangora",
+        "Khewra",
+        "Swat",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span arial\",sans-serif;=\"\" color:#555555\"=\"\" style=\"font-size:10.5pt;line-height:115%;font-family:\"><o:p></o:p></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "When Pakistan left the Commonwealth for the first time before rejoining it in 1989?",
+      "urdu": "انیس سو نواسی (1989) میں پاکستان نے دولت مشترکہ میں دوبارہ شامل ہونے سے پہلے کب اسے چھوڑا؟",
+      "options": [
+        "January, 1971",
+        "January, 1972",
+        "January, 1973",
+        "January, 1974"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is the largest fort of Pakistan?",
+      "urdu": "پاکستان کا سب سے بڑا قلعہ کونسا ہے؟",
+      "options": [
+        "Ranikot Fort",
+        "Lahore Fort",
+        "Fort Monroe",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-03-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Balochistan province is located in ______ of Pakistan.",
+      "urdu": "صوبہ بلوچستان پاکستان کے ______ میں واقع ہے۔",
+      "options": [
+        "North West",
+        "South West",
+        "West",
+        "South"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\" style=\"\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Only people and bicycles can cross the bridge because it is _____ for cars.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Too wide",
+        "Narrow enough",
+        "Too narrow",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "It is not easy to remain tranquil when those around you _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Are losing their heads",
+        "Behave in a socially acceptable manner",
+        "Exhibit pleasant mannerism",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 14-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "We took more time than originally agreed _____ complete the assignment.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To",
+        "For",
+        "With",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "You should not have made _____ errors.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Little",
+        "Much",
+        "So many",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sri Lanka for the present is deeply _____ in economic difficulties, but the Government has taken a pledge to set everything right within 2 years.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Interested",
+        "Swamped",
+        "Relaxed",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "“It is an uphill task, but you will have to do it” means?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -109,19 +343,6 @@
       ],
       "correct": 1,
       "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Balochistan province is located in ______ of Pakistan.",
-      "urdu": "صوبہ بلوچستان پاکستان کے ______ میں واقع ہے۔",
-      "options": [
-        "North West",
-        "South West",
-        "West",
-        "South"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\" style=\"\">:</font></b></p>",
       "category": "all"
     },
     {
@@ -434,227 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan’s first coin was issued on _____?",
-      "urdu": "پاکستان کا پہلا سکہ کب جاری کیا گیا؟",
-      "options": [
-        "5th July 1948",
-        "3rd June 1948",
-        "3rd January 1948",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the age of Retirement of a Judge of Supreme Court in Pakistan?",
-      "urdu": "پاکستان میں سپریم کورٹ کے جج کی ریٹائرمنٹ کی عمر کتنی ہے؟",
-      "options": [
-        "55",
-        "60",
-        "62",
-        "65"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest city of Pakistan?",
-      "urdu": "پاکستان کا سب سے بڑا شہر کون سا ہے؟",
-      "options": [
-        "Sukkar",
-        "Karachi",
-        "Lahore",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who becomes Acting President in the absence of President of Pakistan?",
-      "urdu": "پاکستان کے صدر کی عدم موجودگی میں کون قائم مقام صدر بنتا ہے؟",
-      "options": [
-        "Chairman NAB",
-        "Chairman Senate",
-        "Speaker NA",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><span style=\"font-weight: bold; font-family: Tahoma; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\" style=\"\">Additional information</font></span><span style=\"font-weight: bold; font-family: Tahoma; color: rgb(255, 0, 0); background-color: rgb(255, 255, 255);\">:</span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Supreme Commander of Pakistan Armed Forces is?",
-      "urdu": "پاکستان کی مسلح افواج کے سپریم کمانڈر کون ہیں؟",
-      "options": [
-        "Army Chief",
-        "Governor",
-        "President",
-        "Prime Minister"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the name of the pact joined by Pakistan and the United Kingdom in 1954?",
-      "urdu": "پاکستان اور برطانیہ نے 1954 میں کس معاہدے میں شمولیت اختیار کی؟",
-      "options": [
-        "ASEAN",
-        "CENTO",
-        "SEATO",
-        "NATO"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the author of the book \"Struggle For Pakistan\"?",
-      "urdu": "کتاب پاکستان کے لیے جدوجہد کے مصنف کون ہیں؟",
-      "options": [
-        "K.K. Aziz",
-        "Ayesha Jalal",
-        "Shahid Rafiq",
-        "I.H. Qureshi"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the second highest peak in Pakistan?",
-      "urdu": "پاکستان کی دوسری بلند ترین چوٹی کون سی ہے؟",
-      "options": [
-        "K-2",
-        "Naga Parbat",
-        "Trich Mir",
-        "none of above"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who suggested Pakistan Standard Time?",
-      "urdu": "پاکستان کا معیاری وقت کس نے تجویز کیا؟",
-      "options": [
-        "Prof Muhammad Anwar",
-        "Liaqat Ali Khan",
-        "Dr. Abdus Salalm",
-        "Dr. Samar Mubarik"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#9c00ff\" style=\"background-color: rgb(255, 255, 0);\">History</font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan's city Gujranwala is best Known for the industry of _____?",
-      "urdu": "پاکستان کا شہر گوجرانوالہ کن صنعتوں کے لیے مشہور ہے؟",
-      "options": [
-        "Rice & Utensils",
-        "Iran & Safes",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Balochistan is the second major supplier of ______ in Pakistan.",
-      "urdu": "بلوچستان پاکستان میں ______ کی دوسری بڑی فراہمی کرنے والا صوبہ ہے۔",
-      "options": [
-        "Natural gas",
-        "Copper",
-        "Coal",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country topped Foreign Direct Investment (FDI) for the year 2026?",
-      "urdu": "کون سا ملک 2026 کے لیے براہ راست غیر ملکی سرمایہ کاری میں سرفہرست رہا؟",
-      "options": [
-        "China",
-        "UK",
-        "USA",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoListParagraphCxSpFirst\"><b style=\"\"><font color=\"#0000ff\">Through early 2026, </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">China</font><font color=\"#0000ff\"> is the largest source of</font><font color=\"#ff0000\"> foreign direct investment (FDI) in Pakistan.</font></b><span style=\"font-size: 0.875rem;\"> </span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Second largest city in Pakistan is _____?",
-      "urdu": "پاکستان کا دوسرا بڑا شہر کونسا ہے؟",
-      "options": [
-        "Lahore",
-        "Karachi",
-        "Faisalabad",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan attended its first summit conference of Non Aligned Movement (NAM) as full fledged member, which was held at _____ on _____?",
-      "urdu": "پاکستان نے ناوابستہ تحریک (این اے ایم) کی اپنی پہلی سربراہی کانفرنس میں مکمل رکن کے طور پر شرکت کی، جو _____ کو _____ میں منعقد ہوئی؟",
-      "options": [
-        "Kandy, 20th December 1978",
-        "Dhaka, 21st August 1977",
-        "Belgrade, 4th November 1977",
-        "Havana, 3rd September 1979"
-      ],
-      "correct": 3,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the main cause of the adverse balance of payment in Pakistan?",
-      "urdu": "پاکستان میں ادائیگیوں کے ناموافق توازن کی بنیادی وجہ کیا ہے؟",
-      "options": [
-        "Pakistan has developing policies",
-        "Heavy government expenses abroad",
-        "Less modernization of machinery",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 13-10-2026</b></font></p></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Quaid-e-Azam addressed the first Constituent Assembly of Pakistan?",
-      "urdu": "قائداعظم نے پاکستان کی پہلی دستور ساز اسمبلی سے خطاب کب کیا؟",
-      "options": [
-        "1 September 1947",
-        "11 August 1947",
-        "14 October 1947",
-        "29 August 1947"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the largest cantonment of Pakistan?",
-      "urdu": "پاکستان کی سب سے بڑی چھاؤنی کون سی ہے؟",
-      "options": [
-        "Quetta Cantt",
-        "Kharian Cantt",
-        "Karachi Cantt",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     }
   ]
