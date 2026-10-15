@@ -3,10 +3,465 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-15T12:22:34.867377",
+    "fetched_at": "2026-10-15T17:32:59.359990",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What does Mycology study?",
+      "urdu": "مائکولوجی کا مطالعہ کیا ہے؟",
+      "options": [
+        "Insects",
+        "Fungus (Fungi)",
+        "Sound",
+        "Minerals"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following mammalian vitamins is essential for proper calcium absorption in the gut?",
+      "urdu": "ممالیہ جانوروں کی آنتوں میں کیلشیم کے مناسب جذب کے لیے کون سا وٹامن ضروری ہے؟",
+      "options": [
+        "Vitamin K",
+        "Vitamin C",
+        "Vitamin D",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The respiratory pigment found inside the blood cells of an earthworm is?",
+      "urdu": "کیچوے کے خون کے خلیوں میں پایا جانے والا تنفسی رنگ دار مادہ کون سا ہے؟",
+      "options": [
+        "Hemocyanin",
+        "Hemoglobin",
+        "Erythrocruorin",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The cause of malaria is _____?",
+      "urdu": "ملیریا کس کی وجہ سے ہوتا ہے؟",
+      "options": [
+        "Bacteria",
+        "Virus",
+        "Plasmodium",
+        "Fungus"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Cell wall of fungi is made up of?",
+      "urdu": "فنجائی (پھپھوندی) کی خلیاتی دیوار کس چیز سے بنی ہوتی ہے؟",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The process in which solid directly changes to gas is called?",
+      "urdu": "وہ عمل جس میں ٹھوس براہ راست گیس میں تبدیل ہوتا ہے _____ کہلاتا ہے؟",
+      "options": [
+        "Distillation",
+        "Filtration",
+        "Sublimation",
+        "Crystallization"
+      ],
+      "correct": 2,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The complete transfer of one or more electrons from one atom to another atom forms which type of bond?",
+      "urdu": "ایک یا زیادہ الیکٹرانوں کی ایک ایٹم سے دوسرے ایٹم میں مکمل منتقلی سے کس قسم کا کیمیائی بند بنتا ہے؟",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Metallic bonding",
+        "Co-ordinate bonding"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A (an) ________ is the smallest possible particle of an element that can combine to form new compounds / take part in chemical reaction.",
+      "urdu": "ایک عنصر کا سب سے چھوٹا ممکنہ ذرہ ہے جو نئے مرکبات بنانے کے لیے یکجا ہو سکتا ہے۔ _____",
+      "options": [
+        "Molecule",
+        "Atom",
+        "Compound",
+        "Element"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-03-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which compound is an alkene? C₂H₂, C₂H₆, C₂H₄, None of these",
+      "urdu": "درج ذیل میں سے کون سا مرکب الکین ہے؟",
+      "options": [
+        "C₂H₂",
+        "C₂H₆",
+        "C₂H₄",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most abundant gas in the earth's atmosphere by volume is _____?",
+      "urdu": "زمین کے ماحول میں حجم کے لحاظ سے سب سے زیادہ پائی جانے والی گیس کون سی ہے؟",
+      "options": [
+        "Nitrogen",
+        "Oxygen",
+        "Argon",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The wave that has the highest frequency & penetrating power is?",
+      "urdu": "سب سے زیادہ تعدد اور نفوذی طاقت رکھنے والی موج کون سی ہے؟",
+      "options": [
+        "X-rays",
+        "Ultraviolet rays",
+        "Gamma rays",
+        "Microwaves"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The atmospheric pressure (air pressure) at any place is measured by _____?",
+      "urdu": "کسی بھی جگہ پر فضائی دباؤ (ہوا کا دباؤ) کس آلے سے ناپا جاتا ہے؟",
+      "options": [
+        "Altimeter",
+        "Pressure Meter",
+        "Barometer",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which property of a wave determines its loudness? Amplitude, Frequency, Wavelength, None of these",
+      "urdu": "موج کی کون سی خاصیت آواز کی بلندی کا تعین کرتی ہے؟",
+      "options": [
+        "Amplitude",
+        "Frequency",
+        "Wavelength",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which day is observed as Black Day in Kashmir_____?",
+      "urdu": "کشمیر میں کس دن کو یوم سیاہ کے طور پر منایا جاتا ہے؟",
+      "options": [
+        "August 27",
+        "September 27",
+        "October 27",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "ISP stands for _____?",
+      "urdu": "آئی ایس پی کا مطلب _____ ہے؟",
+      "options": [
+        "Internet Service Protection",
+        "Internal Service Provider",
+        "Internet Service Provider",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">ISP</font><font color=\"#0000ff\"> stands for </font><font color=\"#ff0000\">Internet Service Provider</font><font color=\"#0000ff\"> — a company that provides access to the Internet.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The area under a velocity-time graph gives/represents ______?",
+      "urdu": "رفتار کے وقت کے گراف کے تحت علاقہ ______ دیتا ہے؟",
+      "options": [
+        "Displacement",
+        "Speed",
+        "Acceleration",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does SWF stand for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Small Web Format.",
+        "Standard Web Format",
+        "System Window File",
+        "Software Framework"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which companion of Prophet (PBUH) was awarded with the title of Saifullah (Sword of Allah)?",
+      "urdu": "رسول اللہ صلی اللہ علیہ وسلم کے کس صحابی کو سیف اللہ (اللہ کی تلوار) کے خطاب سے نوازا گیا؟",
+      "options": [
+        "Hazrat Umar R.A",
+        "Hazrat Ali R.A",
+        "Khalid bin Waleed R.A",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many farz Wuzu (ablution) has?",
+      "urdu": "وضو میں کتنے فرض ہیں؟",
+      "options": [
+        "Three",
+        "Five",
+        "Two",
+        "Four"
+      ],
+      "correct": 3,
+      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">4 Farz</font><font color=\"#0000ff\"> (obligatory acts) in </font><font color=\"#ff0000\">Wudu</font><font color=\"#0000ff\"> (Ablution).</font></b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The speed of sound is maximum in _____? Gases, Solids, Liquids, Plasma",
+      "urdu": "آواز کی رفتار کس میں سب سے زیادہ ہوتی ہے؟",
+      "options": [
+        "Gases",
+        "Solids",
+        "Liquids",
+        "Plasma"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does the RSS stand for?",
+      "urdu": "آر ایس ایس کا مکمل نام کیا ہے؟",
+      "options": [
+        "Rashtriya Swayamsevak Sangh",
+        "Regional Socialist Society",
+        "Republican Student Society",
+        "Religious Social Service"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The poem \"The Solitary Reaper\" is composed by _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "William Wordsworth",
+        "William Blake",
+        "John Keats",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Change the narration: He said, \"I am tired.\"",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "He told that he is tired.",
+        "He said that I was tired.",
+        "He said that he was tired.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "_____ Earth revolves around ____ Sun.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The, the",
+        "The, an",
+        "An, the",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "We are answerable ______ God _____ his actions.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To - upon",
+        "For - to",
+        "To - for",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sentence contains a collective noun? The flowers are beautiful., The birds are flying., The team won the match., The boy is running.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The flowers are beautiful.",
+        "The birds are flying.",
+        "The team won the match.",
+        "The boy is running."
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "William Wordsworth is a _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Classical poet",
+        "Romantic poet",
+        "Famous comedian",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The poem \"Character of Happy Life\" is written by _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sir Henry Wotton",
+        "William Shakespeare",
+        "William Wordsworth",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym Scarce is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Mediocre",
+        "Abundant",
+        "Abundance",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-06-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Deficit is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Start",
+        "Limited",
+        "Surplus",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Scorching is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Very Hot",
+        "Comforting",
+        "Very Cold",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Woeful / Woe?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Grieved",
+        "Sorrow",
+        "Cheerful",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bird in the hand is worth two in the ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Sky",
+        "Tree",
+        "Brush",
+        "Nest"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The word “Often” belongs to which part of speech?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Adjective",
+        "Adverb",
+        "Preposition",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Microsoft Word, which feature is used to create a table of figures?",
+      "urdu": "مائیکروسافٹ ورڈ میں اعداد و شمار یا تصاویر کی فہرست بنانے کے لیے کون سا فیچر استعمال ہوتا ہے؟",
+      "options": [
+        "Layout",
+        "Insert",
+        "References",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "American economists Robert Ernest Hall and Michael Woodford have jointly been awarded the Nobel Prize in Economists in which year?",
       "urdu": "امریکی ماہرینِ معاشیات رابرٹ ارنسٹ ہال اور مائیکل ووڈفورڈ کو مشترکہ طور پر معاشیات کا نوبل انعام کس سال دیا گیا؟",
@@ -200,461 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Peace Prize</font><font color=\"#0000ff\"> has been awarded to </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">South African</font><font color=\"#0000ff\"> jurist and human rights champion Navanethem \"</font><font color=\"#ff0000\">Navi</font><font color=\"#0000ff\">\" </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Pillay</font><font color=\"#0000ff\">.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 Nobel Peace Prize?",
-      "urdu": "دو ہزار چھبیس کا نوبل امن انعام کس نے جیتا؟",
-      "options": [
-        "Maria Corina Machado",
-        "Donald Trump",
-        "Navi Pillay",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Peace Prize</font><font color=\"#0000ff\"> has been awarded to\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">South African</font><font color=\"#0000ff\"> jurist and human rights champion Navanethem \"</font><font color=\"#ff0000\">Navi</font><font color=\"#0000ff\">\"\r\n</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Pillay</font><font color=\"#0000ff\">.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Maria Corina Machado belongs to which country who has been awarded Nobel Peace Prize 2025?",
-      "urdu": "ماریا کورینا ماچاڈو کا تعلق کس ملک سے ہے جسے 2025 کا نوبل امن انعام دیا گیا ہے؟",
-      "options": [
-        "Germany",
-        "Venezuela",
-        "Republic of Korea",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><span style=\"background-color: rgb(255, 255, 0);\">Maria Corina Machado</span><font color=\"#0000ff\"> won the </font><span style=\"background-color: rgb(255, 255, 0);\">Nobel Peace Prize 2025</span><font color=\"#0000ff\"> for promoting </font><span style=\"background-color: rgb(255, 255, 0);\">democratic rights</span><font color=\"#0000ff\"> in her country and her struggle to achieve a transition to democracy.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country hosted the announcement of the 2026 Nobel Prize in Literature?",
-      "urdu": "دو ہزار چھبیس کے نوبل ادبی انعام کے اعلان کی میزبانی کس ملک نے کی؟",
-      "options": [
-        "Norway",
-        "Denmark",
-        "Sweden",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Literature <font color=\"#0000ff\">has been awarded to poet, essayist, and translator </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Anne Carson.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organization awarded the 2026 Nobel Prize in Literature?",
-      "urdu": "کس تنظیم نے ادب کا 2026 کا نوبل انعام دیا؟",
-      "options": [
-        "Norwegian Nobel Committee",
-        "Swedish Academy",
-        "Royal Society",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year did Anne Carson of Canada win the Nobel Prize in Literature?",
-      "urdu": "کینیڈا کی این کارسن نے کس سال ادب کا نوبل انعام جیتا؟",
-      "options": [
-        "2024",
-        "2025",
-        "2026",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Literature <font color=\"#0000ff\">has been awarded to poet, essayist, and translator </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Anne Carson.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Ottoman Empire was the successor of which empire?",
-      "urdu": "سلطنتِ عثمانیہ کس سلطنت کی جانشین تھی؟",
-      "options": [
-        "Seljuk Empire",
-        "Mughal Empire",
-        "Abbasid Caliphate",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many scientist share the 2026 Chemistry Nobel?",
-      "urdu": "دو ہزار چھبیس کا کیمیا کا نوبل انعام کتنے سائنسدانوں کو مشترکہ طور پر دیا گیا؟",
-      "options": [
-        "Two",
-        "Three",
-        "Four",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font>2026 <font color=\"#0000ff\">Nobel Prize in </font><font color=\"#ff0000\">Chemistry </font><font color=\"#0000ff\">was awarded jointly to </font><span style=\"background-color: rgb(255, 255, 0);\">Henri B. Kagan</span><font color=\"#0000ff\"> of France and </font><span style=\"background-color: rgb(255, 255, 0);\">Kenso Soai </span><font color=\"#0000ff\">of Japan \"for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis\".<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main subject of the 2026 Chemistry Nobel?",
-      "urdu": "دو ہزار چھبیس کے کیمیا کے نوبل انعام کا مرکزی موضوع کیا ہے؟",
-      "options": [
-        "Molecular handedness and asymmetric synthesis",
-        "Plastic recycling only",
-        "The discovery of a new planet",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font>2026 <font color=\"#0000ff\">Nobel Prize in </font><font color=\"#ff0000\">Chemistry </font><font color=\"#0000ff\">was awarded jointly to </font><span style=\"background-color: rgb(255, 255, 0);\">Henri B. Kagan</span><font color=\"#0000ff\"> of France and </font><span style=\"background-color: rgb(255, 255, 0);\">Kenso Soai </span><font color=\"#0000ff\">of Japan \"for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis\".<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Henri Boris Kagan is a chemist from which country who has been awarded the 2026 Nobel Prize in Chemistry?",
-      "urdu": "ہینری بورس کاگان کس ملک سے تعلق رکھنے والے کیمیا داں ہیں جنہیں کیمیا میں 2026 کا نوبل انعام دیا گیا ہے؟",
-      "options": [
-        "Japan",
-        "France",
-        "USA",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font>2026 <font color=\"#0000ff\">Nobel Prize in </font><font color=\"#ff0000\">Chemistry </font><font color=\"#0000ff\">was awarded jointly to </font><span style=\"background-color: rgb(255, 255, 0);\">Henri B. Kagan</span><font color=\"#0000ff\"> of France and </font><span style=\"background-color: rgb(255, 255, 0);\">Kenso Soai </span><font color=\"#0000ff\">of Japan \"for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis\".<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Prophet is famous by the title Sahib-ul-Hoot?",
-      "urdu": "صاحب الحوت کے نام سے کون سا نبی مشہور ہے؟",
-      "options": [
-        "Hazrat Nooh (A.S.)",
-        "Hazrat Younus (A.S.)",
-        "Hazrat Dawood (A.S.)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 15-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Kenso Soai is a chemist from which country who has been awarded the 2026 Nobel Prize in Chemistry?",
-      "urdu": "کینزو سوائی  کس ملک سے تعلق رکھنے والے کیمیا داں ہیں جنہیں کیمیا میں 2026 کا نوبل انعام دیا گیا ہے؟",
-      "options": [
-        "Japan",
-        "South Korea",
-        "Singapore",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font>2026 <font color=\"#0000ff\">Nobel Prize in </font><font color=\"#ff0000\">Chemistry </font><font color=\"#0000ff\">was awarded jointly to </font><span style=\"background-color: rgb(255, 255, 0);\">Henri B. Kagan</span><font color=\"#0000ff\"> of France and </font><span style=\"background-color: rgb(255, 255, 0);\">Kenso Soai </span><font color=\"#0000ff\">of Japan \"for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis\".<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organization awarded the 2026 Nobel Prize in Chemistry?",
-      "urdu": "کس تنظیم نے کیمیا کا 2026 کا نوبل انعام دیا؟",
-      "options": [
-        "Royal Swedish Academy of Sciences",
-        "Karolinska Institute",
-        "Swedish Academy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font>2026 <font color=\"#0000ff\">Nobel Prize in </font><font color=\"#ff0000\">Chemistry </font><font color=\"#0000ff\">was awarded jointly to </font><span style=\"background-color: rgb(255, 255, 0);\">Henri B. Kagan</span><font color=\"#0000ff\"> of France and </font><span style=\"background-color: rgb(255, 255, 0);\">Kenso Soai </span><font color=\"#0000ff\">of Japan \"for the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis\".<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 Nobel Prize in Chemistry?",
-      "urdu": "کیمسٹری کا 2026 کا نوبل انعام کس نے جیتا؟",
-      "options": [
-        "Karl Deisseroth and Peter Hegemann",
-        "Henri B. Kagan and Kenso Soai",
-        "Robert E. Hall and Michael Woodford",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font>2026 <font color=\"#0000ff\">Nobel Prize in </font><font color=\"#ff0000\">Chemistry </font><font color=\"#0000ff\">was awarded jointly to\r\n</font><span style=\"background-color: rgb(255, 255, 0);\">Henri B. Kagan</span><font color=\"#0000ff\"> of France and </font><span style=\"background-color: rgb(255, 255, 0);\">Kenso Soai </span><font color=\"#0000ff\">of Japan \"for the discovery of\r\nnon-linear effects and autocatalysis in asymmetric organic synthesis\".<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who was named TIME's 2025 Person of the Year?",
-      "urdu": "ٹائم میگزین نے 2025 کی پرسن آف دی ایئر کا اعزاز کسے دیا؟",
-      "options": [
-        "Scientists of the Year",
-        "Architects of AI",
-        "Global Climate Leaders",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which scientist received the 2026 Nobel Prize in Physics for work associated with IceCube?",
-      "urdu": "کس سائنسدان کو ’آئس کیوب‘  سے متعلق کام کے لیے 2026 کا نوبل انعام برائے طبیعیات ملا؟",
-      "options": [
-        "John Clarke",
-        "Michel H. Devoret",
-        "Francis Halzen",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize in Physics</font><font color=\"#0000ff\"> was awarded to </font></span><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 0.875rem;\">a Belgian-born physicist</span><span style=\"font-weight: bolder; font-size: 0.875rem;\"><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Francis Halzen</font><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Pakistan purchased nuclear program from France?",
-      "urdu": "پاکستان نے فرانس کے ساتھ ایٹمی ری پروسیسنگ پلانٹ خریدنے کا معاہدہ کب کیا؟",
-      "options": [
-        "March 1976",
-        "April 1978",
-        "June 1974",
-        "January 1980"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><b><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What was the principal reason for awarding Francis Halzen the 2026 Nobel Prize in Physics?",
-      "urdu": "فرانسس ہالزن کو 2026 کا نوبل انعام برائے طبیعیات دینے کی بنیادی وجہ کیا تھی؟",
-      "options": [
-        "Discovery of gravitational waves",
-        "Contributions to IceCube and discovery of high-energy astrophysical neutrinos",
-        "Development of quantum computers",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; color: rgb(33, 37, 41); padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize in Physics</font><font color=\"#0000ff\"> was awarded to </font></span><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 0.875rem;\">a Belgian-born physicist</span><span style=\"font-weight: bolder; font-size: 0.875rem;\"><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Francis Halzen</font><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which observatory is associated with the 2026 Physics Nobel Prize?",
-      "urdu": "دو ہزار چھبیس کے نوبل انعام برائے طبیعیات کا تعلق کس رصد گاہ سے ہے؟",
-      "options": [
-        "James Webb Space Telescope",
-        "IceCube Neutrino Observatory",
-        "Hubble Space Telescope",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style='margin: 0px 0px 10px; padding: 0px; font-family: \"Open Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif;'><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize in Physics</font><font color=\"#0000ff\"> was awarded to </font></span><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 0.875rem;\">a Belgian-born physicist</span><span style=\"font-weight: bolder; font-size: 0.875rem;\"><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Francis Halzen</font><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Complete the analogy: Sawm : Locust :: Pack : ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Wolf",
-        "Deer",
-        "Fox",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which year did Francis Halzen win the Physics Nobel Prize?",
-      "urdu": "فرانسس ہالزن نے کس سال طبیعیات کا نوبل انعام جیتا؟",
-      "options": [
-        "2025",
-        "2026",
-        "2027",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize in Physics</font><font color=\"#0000ff\"> was awarded to </font></span><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 0.875rem;\">a Belgian-born physicist</span><span style=\"font-weight: bolder; font-size: 0.875rem;\"><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Francis Halzen</font><font color=\"#0000ff\">.</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the elections of 1945–46, how many out of the 119 Muslim seats in Bengal did the Muslim League win?",
-      "urdu": "سن 1945–46 کے انتخابات میں بنگال کی 119 مسلم نشستوں میں سے مسلم لیگ نے کتنی نشستیں جیتیں؟",
-      "options": [
-        "114",
-        "110",
-        "115",
-        "113"
-      ],
-      "correct": 3,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 Nobel Prize in Physics?",
-      "urdu": "دو ہزار چھبیس کا طبیعیات کا نوبل انعام کس نے جیتا؟",
-      "options": [
-        "Francis Halzen",
-        "Kenso Soai",
-        "Michael Woodford",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize in Physics</font><font color=\"#0000ff\"> was awarded to </font></b><span style=\"color: rgb(0, 0, 255); font-weight: bolder; font-size: 0.875rem;\">a Belgian-born physicist</span><b style=\"font-size: 0.875rem;\"><font color=\"#0000ff\"> </font><font color=\"#ff0000\">Francis\r\nHalzen</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which bank had the highest total assets in the world in 2026?",
-      "urdu": "سن 2026 میں دنیا میں سب سے زیادہ کل اثاثے کس بینک کے پاس تھے؟",
-      "options": [
-        "Bank of America",
-        "JPMorgan Chase",
-        "Industrial and Commercial Bank of China (ICBC)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many scientists shared the 2026 Medicine Nobel Prize?",
-      "urdu": "دو ہزار چھبیس کا طب کا نوبل انعام کتنے سائنسدانوں نے مشترکہ طور پر حاصل کیا؟",
-      "options": [
-        "Two",
-        "Three",
-        "Four",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Physiology<font color=\"#0000ff\"> or </font><font color=\"#ff00ff\">Medicine </font><font color=\"#0000ff\">was jointly awarded to three scientists<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "The 2026 Nobel Prize in Medicine recognized discoveries related to which of the following?",
-      "urdu": "طب کے شعبے میں 2026 کا نوبل انعام، درج ذیل میں سے کس سے متعلق دریافتوں کے اعتراف میں دیا گیا؟",
-      "options": [
-        "mRNA vaccines",
-        "Light-gated ion channels and optogenetics",
-        "Antibiotic resistance",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Physiology<font color=\"#0000ff\"> or </font><font color=\"#ff00ff\">Medicine </font><font color=\"#0000ff\">was jointly awarded to three scientists<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When Minto Morley reforms enforced?",
-      "urdu": "منٹو مورلے کی اصلاحات کب نافذ ہوئیں؟",
-      "options": [
-        "13 Mrach 1909",
-        "12 March 1909",
-        "14 March 1909",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who won the 2026 Nobel Prize in Physiology or Medicine?",
-      "urdu": "دو ہزار چھبیس کا فزیالوجی یا طب کا نوبل انعام کس نے جیتا؟",
-      "options": [
-        "Katalin Kariko, Drew Weissman, and Svante Pääbo",
-        "Karl Deisseroth, Peter Hegemann, and Georg Nagel",
-        "Mary E. Brunkow, Fred Ramsdell, and Shimon Sakaguchi",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize</font><font color=\"#0000ff\"> in </font>Physiology<font color=\"#0000ff\"> or </font><font color=\"#ff00ff\">Medicine </font><font color=\"#0000ff\">was jointly\r\nawarded to three scientists <o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When did Pakistan join World Bank?",
-      "urdu": "پاکستان ورلڈ بینک میں کب شامل ہوا؟",
-      "options": [
-        "1948",
-        "1949",
-        "1950",
-        "1995"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who became the first Christian woman to achieve the rank of Brigadier in the Pakistan Army in 2024?",
-      "urdu": "سن 2024 میں پاکستان آرمی میں بریگیڈیئر کا عہدہ حاصل کرنے والی پہلی مسیحی خاتون کون بنیں؟",
-      "options": [
-        "Brigadier Helen Mary Roberts",
-        "Brigadier Maria Bibi",
-        "Brigadier Elizabeth Masih",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which city is known as the “City of Kings”?",
-      "urdu": "کس شہر کو ’’بادشاہوں کا شہر‘‘ کہا جاتا ہے؟",
-      "options": [
-        "Madrid",
-        "Cairo",
-        "Lima",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who introduced leather token currency in India?",
-      "urdu": "ہندوستان میں چمڑے کی ٹوکن کرنسی کس نے متعارف کروائی؟",
-      "options": [
-        "Mohammad-Bin-Tughlaq",
-        "Humayun",
-        "Babur",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the longest (largest) surah in the Holy Quran?",
-      "urdu": "قرآن پاک کی سب سے لمبی سورت کون سی ہے؟",
-      "options": [
-        "Kousar",
-        "Baqarah",
-        "Al Imran",
-        "None of the above"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"font-size: 0.875rem;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Gwadar is mainly for _____?",
-      "urdu": "گوادر زیادہ تر کس مقصد کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Agriculture + industries",
-        "Tourism + real estate",
-        "Trade + fishing / Trade and energy routes",
-        "Mining + education"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan bought Gwadar from Oman in 1958. Who was the Prime Minister of Pakistan at that time?",
-      "urdu": "سن 1958 میں پاکستان نے عمان سے گوادر خریدا، اس وقت پاکستان کے وزیرِاعظم کون تھے؟",
-      "options": [
-        "Muhammad Ali Bogra",
-        "Malik Feroz Khan Noon",
-        "Chaudhry Muhammad Ali",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which country launched Operation Midnight Hammer to strike on nuclear sites of Iran in 2025?",
-      "urdu": "کس ملک نے 2025 میں ایران کے جوہری مقامات پر حملہ کرنے کے لیے آپریشن مڈ نائٹ ہیمر شروع کیا؟",
-      "options": [
-        "Israel",
-        "Unites Kingdom",
-        "United States",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">In </font><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">2025</span></font><font color=\"#0000ff\">, the United States of America (</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">USA</font><font color=\"#0000ff\">) attacked three nuclear facilities in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Iran </font><font color=\"#0000ff\">as part of the Iran–Israel war.<o:p></o:p></font></span></span></p>",
       "category": "all"
     }
   ]
