@@ -3,10 +3,595 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-16T05:26:39.072697",
+    "fetched_at": "2026-10-16T12:02:35.598390",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Sodicity of soil is treated with?",
+      "urdu": "زمین کی سوڈیسٹی کا علاج کس طریقے سے کیا جاتا ہے؟",
+      "options": [
+        "Gypsum",
+        "Leaching",
+        "Both (Gypsum followed by Leaching)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Blind hoeing is done in?",
+      "urdu": "بلائنڈ ہوئنگ کس فصل میں کی جاتی ہے؟",
+      "options": [
+        "Sugarcane",
+        "Cotton",
+        "Rice",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Prunus armeniaca is the scientific name of?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Pear",
+        "Plum",
+        "Apricot",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Ginger is a _____?",
+      "urdu": "ادرک پودے کا کون سا حصہ ہے؟",
+      "options": [
+        "Leaf",
+        "Stem (Rhizome)",
+        "Root",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Olericulture is the study dealing with ______?",
+      "urdu": "اولی کلچرکس کا مطالعہ ہے جس سے نمٹا جاتا ہے۔",
+      "options": [
+        "Vegetable production",
+        "Fruits production",
+        "Wheat production",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "Study of fruit is called ______?",
+      "urdu": "پھلوں کے مطالعہ کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Sericulture",
+        "Pomology",
+        "Apiculture",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 31-01-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A subsoiler is used for?",
+      "urdu": "سب سوائلر کس مقصد کے لیے استعمال ہوتا ہے؟",
+      "options": [
+        "Zero tillage",
+        "Primary tillage",
+        "Secondary tillage",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Soil particles deposited by water are called?",
+      "urdu": "پانی کے ذریعے جمع ہونے والے مٹی کے ذرات کو کیا کہتے ہیں؟",
+      "options": [
+        "Colluvial deposits",
+        "Alluvial deposits",
+        "Aeolian deposits",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Water required for plant metabolic activities and evapotranspiration is called?",
+      "urdu": "پودوں کی میٹابولک سرگرمیوں اور تبخیر و نتح کے لیے درکار پانی کو کیا کہتے ہیں؟",
+      "options": [
+        "Net irrigation requirement",
+        "Irrigation water requirement",
+        "Consumptive water use",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The point at which actual vapour pressure becomes equal to saturated vapour pressure is called?",
+      "urdu": "وہ درجۂ حرارت کیا کہلاتا ہے جس پر حقیقی بخارات کا دباؤ، سیر شدہ بخارات کے دباؤ کے برابر ہو جاتا ہے؟",
+      "options": [
+        "Dry bulb temperature",
+        "Dew point temperature",
+        "Wet bulb temperature",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Amino acids are building blocks of ______?",
+      "urdu": "امینو ایسڈز کس چیز کے بنیادی اجزاء ہیں؟",
+      "options": [
+        "Nucleic acids",
+        "Protein",
+        "Vitamins",
+        "Lipid"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which plant sheds its leaves in winter?",
+      "urdu": "کون سا پودا سردیوں میں اپنے پتے گرا دیتا ہے؟",
+      "options": [
+        "Strawberry",
+        "Banana",
+        "Apple",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In chain survey the area is divided into?",
+      "urdu": "چین سروے میں زمین کے رقبے کو کن شکلوں میں تقسیم کیا جاتا ہے؟",
+      "options": [
+        "Triangles",
+        "Rectangles",
+        "Squares",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Soybean nematodes can be managed by?",
+      "urdu": "سویا بین میں نیماٹوڈز کو کیسے کنٹرول کیا جا سکتا ہے؟",
+      "options": [
+        "Nematicide seed treatment",
+        "Crop rotation",
+        "Resistant varieties",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The total depth of water required for a crop during its entire field period is called _____?",
+      "urdu": "کسی فصل کے پورے پودائی دور میں مطلوبہ کل پانی کی مقدار کو کیا کہتے ہیں؟",
+      "options": [
+        "Duty",
+        "Delta",
+        "Base period",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Weeds can be removed by using a?",
+      "urdu": "جڑی بوٹیوں کو ختم کرنے کے لیے کون سا زرعی آلہ استعمال کیا جا سکتا ہے؟",
+      "options": [
+        "Rotavator",
+        "Bar harrow",
+        "Plank",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is an immobile nutrient in plants and shows symptoms in young leaves?",
+      "urdu": "پودوں میں کون سا غذائی عنصر غیر متحرک ہوتا ہے اور اس کی کمی کی علامات نئی پتّیوں پر ظاہر ہوتی ہیں؟",
+      "options": [
+        "Iron",
+        "Nitrogen",
+        "Phosphorus",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Potato belongs to the family?",
+      "urdu": "آلو کس نباتاتی خاندان سے تعلق رکھتا ہے؟",
+      "options": [
+        "Fabaceae",
+        "Solanaceae",
+        "Poaceae",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Cotton is a?",
+      "urdu": "کپاس کس قسم کی فصل ہے؟",
+      "options": [
+        "Pulse crop",
+        "Grain crop",
+        "Fibre crop",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An implement driven completely by the tractor's steering is classified as?",
+      "urdu": "وہ زرعی آلہ جس کا کنٹرول مکمل طور پر ٹریکٹر کے اسٹیئرنگ اور نظام کے ذریعے ہوتا ہے، کس قسم میں شمار ہوتا ہے؟",
+      "options": [
+        "Self-propelled",
+        "Mounted",
+        "Semi-mounted",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An old and common method of irrigation in Pakistan is?",
+      "urdu": "پاکستان میں آبپاشی کا ایک قدیم اور عام طریقہ کون سا ہے؟",
+      "options": [
+        "Sprinkler irrigation",
+        "Border irrigation",
+        "Basin irrigation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Storage and reuse of irrigation water is?",
+      "urdu": "آبپاشی کے پانی کو جمع کرکے دوبارہ استعمال کرنے کا طریقہ کیا کہلاتا ہے؟",
+      "options": [
+        "Tail-end (tailwater) recovery",
+        "Drip irrigation",
+        "Surge irrigation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Organic matter is decomposed by microorganisms under?",
+      "urdu": "نامیاتی مادہ کن حالات میں خرد جانداروں کے ذریعے تحلیل ہوتا ہے؟",
+      "options": [
+        "Aerobic conditions",
+        "Anaerobic conditions",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which type of wastes are classified as Biodegradable waste?",
+      "urdu": "بایوڈیگریڈیبل فضلہ کے طور پر کس قسم کے فضلہ کی درجہ بندی کی جاتی ہے؟",
+      "options": [
+        "Waste from plastic industries",
+        "Vegetables waste from farms",
+        "Wasted water from homes",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "1 acre is equal to ______ square foot.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "45434 square foot",
+        "34343 square foot",
+        "43572 square foot",
+        "43560 square foot"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Water-holding capacity of soil depends on?",
+      "urdu": "مٹی کی پانی برقرار رکھنے کی صلاحیت کن عوامل پر منحصر ہوتی ہے؟",
+      "options": [
+        "Capillary tension",
+        "Soil porosity",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is NOT a GIS? AutoCAD, MapInfo, IDRISI 32, GID",
+      "urdu": "درج ذیل میں سے کون سا جی آئی ایس (جغرافیائی معلوماتی نظام) نہیں ہے؟",
+      "options": [
+        "AutoCAD",
+        "MapInfo",
+        "IDRISI 32",
+        "GID"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which method is NOT used to remove waterlogging conditions? Contour drainage, Lining of canals, Tubewell (vertical) drainage, Bio-drainage (tree planting)",
+      "urdu": "آبی جمع ہونے کی حالت کو ختم کرنے کے لیے کون سا طریقہ استعمال نہیں کیا جاتا؟",
+      "options": [
+        "Contour drainage",
+        "Lining of canals",
+        "Tubewell (vertical) drainage",
+        "Bio-drainage (tree planting)"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Alkaline soil is treated with ____?",
+      "urdu": "الکلائن (قلوی) مٹی کا علاج کس چیز سے کیا جاتا ہے؟",
+      "options": [
+        "Lime",
+        "Leaching",
+        "Gypsum",
+        "Both B and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Tea leaves are obtained from (contain)?",
+      "urdu": "چائے کی پتی میں کون سے اجزاء پائے جاتے ہیں؟",
+      "options": [
+        "Alkaloids",
+        "Tannins",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Diesel engine temperature can be maintained up to?",
+      "urdu": "ڈیزل انجن کا درجۂ حرارت کتنے ڈگری سیلسیس تک برقرار رکھا جا سکتا ہے؟",
+      "options": [
+        "30°C",
+        "40°C",
+        "90°C",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The founder of hybrid seed technology is?",
+      "urdu": "ہائبرڈ بیج ٹیکنالوجی کا بانی کون ہے؟",
+      "options": [
+        "George H. Shull",
+        "Yuan Longping",
+        "Norman Borlaug",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The type of seed production without fusion of male and female gametes is ______?",
+      "urdu": "نر اور مادہ گیمیٹس کے ملاپ کے بغیر بیج بننے کے عمل کو کیا کہتے ہیں؟",
+      "options": [
+        "Parthenocarpy",
+        "Apomixes",
+        "Grafting",
+        "Scion"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The seed rate of sugarcane per hectare is?",
+      "urdu": "گنے کی فی ہیکٹر بیج کی مقدار کتنی ہوتی ہے؟",
+      "options": [
+        "7-9 tons",
+        "21-28 tons",
+        "2-3 tons",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The process of increasing the value of food products is called?",
+      "urdu": "خوراک کی مصنوعات کی قدر میں اضافہ کرنے کے عمل کو کیا کہتے ہیں؟",
+      "options": [
+        "Food science",
+        "Food processing",
+        "Food preservation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sour citrus is related to which province?",
+      "urdu": "کھٹا ترش پھل کس صوبے سے تعلق رکھتا ہے؟",
+      "options": [
+        "Khyber Pakhtunkhwa",
+        "Punjab",
+        "Balochistan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Carbamate and organophosphate insecticides kill insects mainly by affecting the?",
+      "urdu": "کاربامیٹ اور آرگینو فاسفیٹ کیڑے مار ادویات بنیادی طور پر کیڑوں کے کس نظام کو متاثر کرکے انہیں مارتی ہیں؟",
+      "options": [
+        "Respiratory system",
+        "Nervous system",
+        "Digestive system",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Number of sugarcane setts per hectare is approximately?",
+      "urdu": "فی ہیکٹر گنے کے بیج کے ٹکڑوں کی تعداد تقریباً کتنی ہوتی ہے؟",
+      "options": [
+        "60,000",
+        "80,000",
+        "100,000",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The organism which feed directly on another living organism is called?",
+      "urdu": "وہ جاندار جو براہِ راست کسی دوسرے زندہ جاندار سے غذا حاصل کرتا ہے، کیا کہلاتا ہے؟",
+      "options": [
+        "Mutualism",
+        "Parasitism",
+        "Predator-prey",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which region has high temperature, rainfall, and humidity?",
+      "urdu": "کس خطے میں درجہ حرارت، بارش اور نمی زیادہ ہوتی ہے؟",
+      "options": [
+        "Arid",
+        "Polar",
+        "Tropical",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The total number of climate-related ecological zones according to PARC (1980) is?",
+      "urdu": "پی اے آر سی (1980) کے مطابق آب و ہوا سے متعلق ماحولیاتی خطوں کی کل تعداد کتنی ہے؟",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Anti-dunes deposit when Froude Number is?",
+      "urdu": "اینٹی ڈونز کس فریوڈ نمبر پر جمع ہوتے ہیں؟",
+      "options": [
+        "Less than 1",
+        "Equal to 1",
+        "Greater than 1",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In an engine, which component controls the intake and exhaust valves?",
+      "urdu": "انجن میں کون سا پرزہ ہوا کے داخلے اور گیسوں کے اخراج والے والوز کو کنٹرول کرتا ہے؟",
+      "options": [
+        "Flywheel",
+        "Crankshaft",
+        "Camshaft",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ارسطو سے ایلیٹ تک کس کی کتاب ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ڈاکٹر جمیل جالبی",
+        "غفور شاہ",
+        "وحید قاضی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "شاعرِ انقلاب کس شاعر کو کہا جاتا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "جوش ملیح آبادی",
+        "احسان دانش",
+        "میر تقی میر",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">جوش</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ملیح</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">آبادی</font><font color=\"#0000ff\"> کو انقلابی خیالات اور جوشیلی شاعری کی وجہ سے \"</font><font color=\"#ff0000\">شاعرِ انقلاب</font><font color=\"#0000ff\">\" کہا جاتا ہے۔</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "مرزا اسداللہ خان کا تخلص کیا تھا؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -70,591 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\">سچل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">سرمست</font><font color=\"#0000ff\"> سنڌي </font><font color=\"#ff0000\">ڪافيءَ</font><font color=\"#0000ff\"> جي </font><font color=\"#ff0000\">مشهور</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">صوفي</font><font color=\"#0000ff\"> شاعرن مان هڪ آهي۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is used to uniquely identify a device on a network?",
-      "urdu": "نیٹ ورک پر کسی ڈیوائس کی منفرد شناخت کے لیے کیا استعمال ہوتا ہے؟",
-      "options": [
-        "Password",
-        "IP Address",
-        "File Name",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which hardware is required to enable a network in a computer?",
-      "urdu": "کمپیوٹر میں نیٹ ورک کو فعال کرنے کے لیے کون سے ہارڈ ویئر کی ضرورت ہے؟",
-      "options": [
-        "Network Interface Card (NIC)",
-        "RAM",
-        "Hard Drive",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "In which City (District) Manchhar Lake is situated?",
-      "urdu": "منچھر جھیل کس شہر میں واقع ہے؟",
-      "options": [
-        "Dadu",
-        "Larkana",
-        "Jamshoro",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who introduced Two Nations Theory in the subcontinent?",
-      "urdu": "برصغیر میں دو قومی نظریہ کس نے متعارف کرایا؟",
-      "options": [
-        "Muhammad Ali Jinnah",
-        "Sir Syed Ahmad Khan",
-        "Allama Muhammad Iqbal",
-        "Zafar Ali khan"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was All India Muslim League founded?",
-      "urdu": "آل انڈیا مسلم لیگ کب قائم ہوئی؟",
-      "options": [
-        "30 December 1906",
-        "30 November 1906",
-        "30 August 1947",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">When the </font><font color=\"#ff0000\">Muslim League ended</font><font color=\"#0000ff\"> in </font><font color=\"#ff0000\">1947</font><font color=\"#0000ff\">, it split into </font><font color=\"#ff0000\">three</font><font color=\"#0000ff\"> parties:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the literal Meaning of Islam?",
-      "urdu": "اسلام کے لغوی معنی کیا ہے؟",
-      "options": [
-        "To obey and To have safety",
-        "To bow down the neck and To seek safety",
-        "Peace and submission",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who accepted Islam first in Women?",
-      "urdu": "عورتوں میں سب سے پہلے اسلام کس نے قبول کیا؟",
-      "options": [
-        "Hazrat Amina (RA)",
-        "Hazrat Khadija (RA)",
-        "Hazrat Hafsa (RA)",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"\"></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which was the first battle of Islam?",
-      "urdu": "اسلام کی پہلی جنگ کون سی تھی؟",
-      "options": [
-        "Battle of Badr",
-        "Battle of Uhad",
-        "Battle of Khyber",
-        "None of the above"
-      ],
-      "correct": 0,
-      "explanation": "<p><span style=\"color: rgb(255, 0, 0); background-color: rgb(255, 255, 0);\">Last updated question by NA 22-April-2026</span><span style=\"font-size: 16px;\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which surah of the Holy Quran starts without Bismillah (Tasmia)?",
-      "urdu": "بسم اللہ کے بغیر کون سی سورت شروع ہوتی ہے؟",
-      "options": [
-        "Younas",
-        "Fatiha",
-        "Naml",
-        "Tauba"
-      ],
-      "correct": 3,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "If an angle measures 35°, what is the measure of its supplement?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "325°",
-        "90°",
-        "145°",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Supplement sum = 180°</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the value of the discriminant (b² - 4ac) for the quadratic equation 2x² -4x -3?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "40",
-        "45",
-        "50",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">For equation 2x^2 - 4x - 3 = 0</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The sum of three consecutive odd integers is 57. What is the smallest of these integers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "19",
-        "17",
-        "15",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Let numbers be x, x+2, x+4</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If you roll two fair six-sided dice, what is the probability that the sum of the numbers showing on the two dice is equal to 7?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1/9",
-        "1/6",
-        "1/12",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Total possible outcomes for two dice is 36.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Naked seed plants are called _____?",
-      "urdu": "ننگے بیج والے پودے کیا کہلاتے ہیں؟",
-      "options": [
-        "Angiosperms",
-        "Gymnosperms",
-        "Bryophytes",
-        "Pteridophytes"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organelle is responsible for photosynthesis in plants cells?",
-      "urdu": "پودوں کے خلیوں میں فوٹو سنتھیت کے لئے کون سا آرگنیل ذمہ دار ہے؟",
-      "options": [
-        "Nucleus",
-        "Endoplasmic Reticulum",
-        "Chloroplast",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which organs of plants are also called as food factory of plant?",
-      "urdu": "پودوں کے کن اعضاء کو پودے کی فوڈ فیکٹری بھی کہا جاتا ہے؟",
-      "options": [
-        "Roots",
-        "Stems",
-        "Leaves",
-        "Flowers"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 13-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does Mycology study?",
-      "urdu": "مائکولوجی کا مطالعہ کیا ہے؟",
-      "options": [
-        "Insects",
-        "Fungus (Fungi)",
-        "Sound",
-        "Minerals"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following mammalian vitamins is essential for proper calcium absorption in the gut?",
-      "urdu": "ممالیہ جانوروں کی آنتوں میں کیلشیم کے مناسب جذب کے لیے کون سا وٹامن ضروری ہے؟",
-      "options": [
-        "Vitamin K",
-        "Vitamin C",
-        "Vitamin D",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The red respiratory pigment of an earthworm is found dissolved in its?",
-      "urdu": "کیچوے کا سرخ تنفسی رنگ دار مادہ اس کے کس حصے میں حل شدہ پایا جاتا ہے؟",
-      "options": [
-        "Red blood cells (RBCs)",
-        "White blood cells (WBCs)",
-        "Blood plasma",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The cause of malaria is _____?",
-      "urdu": "ملیریا کس کی وجہ سے ہوتا ہے؟",
-      "options": [
-        "Bacteria",
-        "Virus",
-        "Plasmodium",
-        "Fungus"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 11-07-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Cell wall of fungi is made up of?",
-      "urdu": "فنجائی (پھپھوندی) کی خلیاتی دیوار کس چیز سے بنی ہوتی ہے؟",
-      "options": [
-        "Cellulose",
-        "Chitin",
-        "Peptidoglycan",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The process in which solid directly changes to gas is called?",
-      "urdu": "وہ عمل جس میں ٹھوس براہ راست گیس میں تبدیل ہوتا ہے _____ کہلاتا ہے؟",
-      "options": [
-        "Distillation",
-        "Filtration",
-        "Sublimation",
-        "Crystallization"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The complete transfer of one or more electrons from one atom to another atom forms which type of bond?",
-      "urdu": "ایک یا زیادہ الیکٹرانوں کی ایک ایٹم سے دوسرے ایٹم میں مکمل منتقلی سے کس قسم کا کیمیائی بند بنتا ہے؟",
-      "options": [
-        "Ionic bond",
-        "Covalent bond",
-        "Metallic bonding",
-        "Co-ordinate bonding"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A (an) ________ is the smallest possible particle of an element that can combine to form new compounds / take part in chemical reaction.",
-      "urdu": "ایک عنصر کا سب سے چھوٹا ممکنہ ذرہ ہے جو نئے مرکبات بنانے کے لیے یکجا ہو سکتا ہے۔ _____",
-      "options": [
-        "Molecule",
-        "Atom",
-        "Compound",
-        "Element"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-03-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which compound is an alkene? C₂H₂, C₂H₆, C₂H₄, None of these",
-      "urdu": "درج ذیل میں سے کون سا مرکب الکین ہے؟",
-      "options": [
-        "C₂H₂",
-        "C₂H₆",
-        "C₂H₄",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most abundant gas in the earth's atmosphere by volume is _____?",
-      "urdu": "زمین کے ماحول میں حجم کے لحاظ سے سب سے زیادہ پائی جانے والی گیس کون سی ہے؟",
-      "options": [
-        "Nitrogen",
-        "Oxygen",
-        "Argon",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The wave that has the highest frequency & penetrating power is?",
-      "urdu": "سب سے زیادہ تعدد اور نفوذی طاقت رکھنے والی موج کون سی ہے؟",
-      "options": [
-        "X-rays",
-        "Ultraviolet rays",
-        "Gamma rays",
-        "Microwaves"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The atmospheric pressure (air pressure) at any place is measured by _____?",
-      "urdu": "کسی بھی جگہ پر فضائی دباؤ (ہوا کا دباؤ) کس آلے سے ناپا جاتا ہے؟",
-      "options": [
-        "Altimeter",
-        "Pressure Meter",
-        "Barometer",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 09-07-2026</font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which property of a wave determines its loudness? Amplitude, Frequency, Wavelength, None of these",
-      "urdu": "موج کی کون سی خاصیت آواز کی بلندی کا تعین کرتی ہے؟",
-      "options": [
-        "Amplitude",
-        "Frequency",
-        "Wavelength",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which day is observed as Black Day in Kashmir_____?",
-      "urdu": "کشمیر میں کس دن کو یوم سیاہ کے طور پر منایا جاتا ہے؟",
-      "options": [
-        "August 27",
-        "September 27",
-        "October 27",
-        "None of the above"
-      ],
-      "correct": 2,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "ISP stands for _____?",
-      "urdu": "آئی ایس پی کا مطلب _____ ہے؟",
-      "options": [
-        "Internet Service Protection",
-        "Internal Service Provider",
-        "Internet Service Provider",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">ISP</font><font color=\"#0000ff\"> stands for </font><font color=\"#ff0000\">Internet Service Provider</font><font color=\"#0000ff\"> — a company that provides access to the Internet.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The area under a velocity-time graph gives/represents ______?",
-      "urdu": "رفتار کے وقت کے گراف کے تحت علاقہ ______ دیتا ہے؟",
-      "options": [
-        "Displacement",
-        "Speed",
-        "Acceleration",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does SWF stand for?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Small Web Format.",
-        "Standard Web Format",
-        "System Window File",
-        "Software Framework"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Which companion of Prophet (PBUH) was awarded with the title of Saifullah (Sword of Allah)?",
-      "urdu": "رسول اللہ صلی اللہ علیہ وسلم کے کس صحابی کو سیف اللہ (اللہ کی تلوار) کے خطاب سے نوازا گیا؟",
-      "options": [
-        "Hazrat Umar R.A",
-        "Hazrat Ali R.A",
-        "Khalid bin Waleed R.A",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 10-06-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many farz Wuzu (ablution) has?",
-      "urdu": "وضو میں کتنے فرض ہیں؟",
-      "options": [
-        "Three",
-        "Five",
-        "Two",
-        "Four"
-      ],
-      "correct": 3,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">4 Farz</font><font color=\"#0000ff\"> (obligatory acts) in </font><font color=\"#ff0000\">Wudu</font><font color=\"#0000ff\"> (Ablution).</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The speed of sound is maximum in _____? Gases, Solids, Liquids, Plasma",
-      "urdu": "آواز کی رفتار کس میں سب سے زیادہ ہوتی ہے؟",
-      "options": [
-        "Gases",
-        "Solids",
-        "Liquids",
-        "Plasma"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the RSS stand for?",
-      "urdu": "آر ایس ایس کا مکمل نام کیا ہے؟",
-      "options": [
-        "Rashtriya Swayamsevak Sangh",
-        "Regional Socialist Society",
-        "Republican Student Society",
-        "Religious Social Service"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The poem \"The Solitary Reaper\" is composed by _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "William Wordsworth",
-        "William Blake",
-        "John Keats",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Change the narration: He said, \"I am tired.\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "He told that he is tired.",
-        "He said that I was tired.",
-        "He said that he was tired.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 07-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "_____ Earth revolves around ____ Sun.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The, the",
-        "The, an",
-        "An, the",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "We are answerable ______ God _____ his actions.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To - upon",
-        "For - to",
-        "To - for",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sentence contains a collective noun? The flowers are beautiful., The birds are flying., The team won the match., The boy is running.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The flowers are beautiful.",
-        "The birds are flying.",
-        "The team won the match.",
-        "The boy is running."
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "William Wordsworth is a _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Classical poet",
-        "Romantic poet",
-        "Famous comedian",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The poem \"Character of Happy Life\" is written by _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sir Henry Wotton",
-        "William Shakespeare",
-        "William Wordsworth",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 15-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym Scarce is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Mediocre",
-        "Abundant",
-        "Abundance",
-        "All of these"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 28-06-2026</font></b></p>",
       "category": "all"
     }
   ]
