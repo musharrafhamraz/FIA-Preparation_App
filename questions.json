@@ -3,10 +3,556 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-17T11:17:48.429474",
+    "fetched_at": "2026-10-17T16:05:06.489852",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "A clock shows 3:40. What is the smaller angle between the hour hand and the minute hand?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "130°",
+        "120°",
+        "140°",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Phishing is commonly an attempt to?",
+      "urdu": "فشنگ عام طور پر کس مقصد کے لیے کی جاتی ہے؟",
+      "options": [
+        "Install legitimate updates",
+        "Improve computer performance",
+        "Obtain sensitive information through deceptive messages or websites",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is increased by 20% and then decreased by 20%. Find the net increase or decrease percent?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Does not changes",
+        "Decreased by 4%",
+        "Increased by 4%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A train travels 240 km at a certain speed. If its speed is increased by 20 km/h, the journey takes 1 hour less. What was the original speed?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "60 km/h",
+        "70 km/h",
+        "80 km/h",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>Time = Distance / Speed</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The appropriate position for a person with a nosebleed is generally?",
+      "urdu": "ناک سے خون بہنے والے شخص کے لیے عام طور پر کون سی پوزیشن مناسب ہے؟",
+      "options": [
+        "Lying flat with the head backward",
+        "Tilting the head fully backward",
+        "Sitting upright and leaning slightly forward",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A paramedic sees a seriously ill patient in a crowded area. The safest approach is to?",
+      "urdu": "ایک پیرامیڈک کسی بھیڑ والی جگہ پر ایک شدید بیمار مریض کو دیکھتا ہے۔ سب سے محفوظ طریقہ کیا ہے؟",
+      "options": [
+        "Assess the patient while maintaining scene safety and seeking appropriate assistance",
+        "Leave without reporting",
+        "Ask the patient to move alone",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is an example of a cloud storage service? Google Drive and Dropbox,Skype and Internet, Explorer and Mozilla Firefox, None of these",
+      "urdu": "مندرجہ ذیل میں سے کلاؤڈ اسٹوریج سروس کی مثال کون سی ہے؟",
+      "options": [
+        "Google Drive and Dropbox",
+        "Skype and Internet",
+        "Explorer and Mozilla Firefox",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Last verified on 06-07-2026</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "After prolonged exertion, a pilgrim who has consumed excessive plain water develops headache, nausea and confusion. Which condition requires urgent consideration?",
+      "urdu": "طویل جسمانی مشقت کے بعد ایک عازمِ حج نے ضرورت سے زیادہ سادہ پانی پیا اور اسے سر درد، متلی اور ذہنی الجھن ہونے لگی۔ کس حالت کا فوری طور پر شبہ کرنا چاہیے؟",
+      "options": [
+        "Exercise-associated hyponatremia",
+        "Seasonal allergic rhinitis",
+        "Uncomplicated muscle fatigue",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the default file extension for Microsoft Excel 2007 and later?",
+      "urdu": "مائیکروسافٹ ایکسل 2007 اور اس کے بعد کے ورژنز کی ڈیفالٹ فائل ایکسٹینشن کیا ہے؟",
+      "options": [
+        ".xls",
+        ".xlsx",
+        ".pptx",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><ul></ul></p>",
+      "category": "all"
+    },
+    {
+      "q": "The primary purpose of a strong password is to?",
+      "urdu": "مضبوط پاس ورڈ کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Protect an account from unauthorized access",
+        "Improve screen resolution",
+        "Increase internet speed",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A pilgrim has vomiting and diarrhea accompanied by weakness. The paramedic should be alert to?",
+      "urdu": "اگر کسی عازمِ حج کو قے، اسہال اور کمزوری ہو تو پیرامیڈک کو کن ممکنہ مسائل کے بارے میں محتاط رہنا چاہیے؟",
+      "options": [
+        "A religious ruling",
+        "A passport problem",
+        "Dehydration and possible infectious illness",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Statements: • All trained paramedics follow safety procedures. • Some emergency responders are trained paramedics. • No person who follows safety procedures ignores safety instructions. Which conclusion must be true?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Some emergency responders do not ignore safety instructions",
+        "All emergency responders ignore safety instructions",
+        "All safety-conscious persons are emergency responders",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How should an intact blister from a minor thermal burn be managed initially!",
+      "urdu": "معمولی حرارتی جلنے سے بننے والے ایسے چھالے کی ابتدائی دیکھ بھال کیسے کرنی چاہیے جو ابھی پھٹا نہ ہو؟",
+      "options": [
+        "Remove the blister roof before applying a dressing",
+        "Leave it intact and protect it with a clean, non-adherent dressing",
+        "Open it with a sterile needle to release pressure",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why is accurate medical documentation important during Hajj?",
+      "urdu": "حج کے دوران درست طبی دستاویزات کیوں اہم ہیں؟",
+      "options": [
+        "It replaces patient examination",
+        "It prevents every medical emergency",
+        "It supports continuity of care, accountability and appropriate reporting",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is a common warning sign of stroke?",
+      "urdu": "فالج کی ایک عام انتباہی علامت کون سی ہے؟",
+      "options": [
+        "Sudden facial weakness or speech difficulty",
+        "Improved vision",
+        "Increased appetite",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a mass-casualty incident, triage is primarily used to?",
+      "urdu": "بڑے پیمانے پر جانی نقصان والے واقعے میں ٹرائیج بنیادی طور پر کس مقصد کے لیے استعمال ہوتی ہے؟",
+      "options": [
+        "Avoid treating critically ill patients",
+        "Identify the most expensive treatment",
+        "Prioritize patients according to urgency and available resources",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A medical mission should maintain emergency supplies because?",
+      "urdu": "طبی مشن کو ہنگامی طبی سامان دستیاب کیوں رکھنا چاہیے؟",
+      "options": [
+        "Emergencies cannot occur during Hajj",
+        "Medical emergencies may arise unexpectedly and require immediate initial management",
+        "They are only administrative items",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The initial first-aid measure for severe external bleeding is generally?",
+      "urdu": "شدید بیرونی خون بہنے کی صورت میں ابتدائی طبی امداد کے طور پر عام طور پر کیا کرنا چاہیے؟",
+      "options": [
+        "Massaging the wound",
+        "Encouraging the patient to walk",
+        "Direct pressure on the bleeding site",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A team member makes a minor mistake that has already been corrected. What is the most constructive response?",
+      "urdu": "اگر ٹیم کا کوئی رکن معمولی غلطی کرے اور اسے درست کر دیا جائے تو سب سے زیادہ تعمیری ردِعمل کیا ہونا چاہیے؟",
+      "options": [
+        "Discuss the mistake with unrelated staff",
+        "Learn from the incident and reinforce the correct procedure",
+        "Remove the person from the team",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Daily medical statistics are useful primarily for?",
+      "urdu": "روزانہ کے طبی اعداد و شمار بنیادی طور پر کس مقصد کے لیے مفید ہیں؟",
+      "options": [
+        "Monitoring healthcare activity and supporting appropriate reporting",
+        "Replacing individual patient records",
+        "Issuing transport tickets",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is meant by Rami al-Jamarat?",
+      "urdu": "رامی الجامارت سے کیا مراد ہے؟",
+      "options": [
+        "Sacrificing an animal during Hajj",
+        "Stoning the pillars representing Satan / Stoning the Jamarat",
+        "Drinking Zamzam water",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><span style=\"color: rgb(255, 0, 0); font-weight: 700; background-color: rgb(255, 255, 0);\">Last updated by NA on 26 April 2026</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Obfuscate is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rectify",
+        "Clarify",
+        "Explain",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><span jameel=\"\" nastaleeq\";color:red\"=\"\" noori=\"\" style=\"font-size: 12pt; line-height: 17.12px;\"><span dir=\"RTL\" lang=\"AR-SA\" style=\"color: rgb(0, 0, 255);\"></span></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Four departments — P, Q, R and S — are scheduled from Monday to Thursday, one department each day. P must be scheduled before R, cannot be scheduled on Monday. S must be scheduled immediately after Q. Which schedule is possible?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "P, Q, S, R",
+        "R, P, Q, S",
+        "Q, S, P, R",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">P must be scheduled before R, S cannot be scheduled on Monday, S must be scheduled immediately after Q</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A pilgrim has severe chest pain and shortness of breath. The paramedic should?",
+      "urdu": "اگر کسی عازمِ حج کو سینے میں شدید درد اور سانس لینے میں دشواری ہو تو پیرامیڈک کو کیا کرنا چاہیے؟",
+      "options": [
+        "Send the pilgrim to the hotel",
+        "Ask the pilgrim to wait",
+        "Urgently assess and arrange emergency medical care",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If all ZORs are KALs, no KAL is a MIP, and some MIPs are TANs, which statement is necessarily true?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "No ZOR is a MIP",
+        "All TANs are KALs",
+        "Some ZORs are MIPs",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which information is most useful for identifying a pilgrim receiving medical care?",
+      "urdu": "طبی امداد حاصل کرنے والے عازمِ حج کی شناخت کے لیے کون سی معلومات سب سے زیادہ مفید ہیں؟",
+      "options": [
+        "Personal opinions",
+        "Passport/identification details and relevant clinical information",
+        "Social-media username",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a chemical substance enters the eye, the immediate first-aid measure is to?",
+      "urdu": "اگر کوئی کیمیائی مادہ آنکھ میں چلا جائے تو فوری ابتدائی طبی امداد کیا ہے؟",
+      "options": [
+        "Irrigate the eye generously with clean water",
+        "Apply an unknown ointment",
+        "Rub the eye",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A paramedic is dealing with several patients simultaneously. Which response best demonstrates emotional regulation?",
+      "urdu": "جب پیرامیڈک بیک وقت کئی مریضوں کو سنبھال رہا ہو تو کون سا ردِعمل جذباتی ضبط کی بہترین مثال ہے؟",
+      "options": [
+        "Allow others to make all decisions",
+        "Remain calm, prioritize patients according to urgency, and follow procedures",
+        "Leave the area until the situation improves",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The average of five consecutive odd numbers is 37. What is the product of the smallest and largest numbers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1353",
+        "1253",
+        "1153",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">The middle number of 5 consecutive numbers is the average.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The appropriate initial first aid for a minor thermal burn is?",
+      "urdu": "معمولی حرارتی جلنے کی صورت میں ابتدائی طبی امداد کے طور پر کیا کرنا چاہیے؟",
+      "options": [
+        "Apply ice directly",
+        "Cool the affected area with cool running water",
+        "Rub the affected area",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which information belongs in an HMM patient record?",
+      "urdu": "حج میڈیکل مشن کے مریض کے ریکارڈ میں کون سی معلومات شامل ہونی چاہئیں؟",
+      "options": [
+        "Only mobile number",
+        "Only the patient's name",
+        "Identification, clinical information, diagnosis, treatment and outcome",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which practice is most important for infection prevention in a medical mission?",
+      "urdu": "طبی مشن میں انفیکشن سے بچاؤ کے لیے کون سا عمل سب سے زیادہ اہم ہے؟",
+      "options": [
+        "Reusing disposable equipment",
+        "Avoiding cleaning of treatment areas",
+        "Appropriate infection-control and sterilization procedures",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A paramedic should seek urgent assistance when?",
+      "urdu": "پیرامیڈک کو فوری مدد کب طلب کرنی چاہیے؟",
+      "options": [
+        "A patient asks for directions",
+        "A patient has signs of a life-threatening emergency",
+        "A patient wants routine information",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A patient with suspected spinal injury should be moved?",
+      "urdu": "اگر کسی مریض کی ریڑھ کی ہڈی میں چوٹ کا شبہ ہو تو اسے کب منتقل کرنا چاہیے؟",
+      "options": [
+        "Only when necessary for safety or airway management, using appropriate precautions",
+        "By pulling the arms",
+        "As quickly as possible regardless of circumstances",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Five persons — P, Q, R, S and T — are standing in a line. P is taller than Q but shorter than R. S is shorter than Q. T is taller than P but shorter than R. Who is definitely the tallest?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "R",
+        "Q",
+        "T",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person who is \"parsimonious\" is most likely to?",
+      "urdu": "ایک کفایت شعار شخص غالباً کیا کرتا ہے؟",
+      "options": [
+        "Spend money without planning",
+        "Donate generously to others",
+        "Avoid unnecessary expenditure",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a person with severe bleeding becomes unconscious, the priority is to?",
+      "urdu": "اگر شدید خون بہنے والا شخص بے ہوش ہو جائے تو سب سے اہم اقدام کیا ہے؟",
+      "options": [
+        "Give oral medication",
+        "Ask the person to walk",
+        "Control life-threatening bleeding and maintain basic life support",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A colleague criticizes a paramedic's performance unfairly. What is the most professional response?",
+      "urdu": "اگر کوئی ساتھی پیرامیڈک کی کارکردگی پر غیر منصفانہ تنقید کرے تو پیشہ ورانہ طور پر بہترین ردِعمل کیا ہونا چاہیے؟",
+      "options": [
+        "Immediately leave the duty station",
+        "Discuss the concern calmly and professionally",
+        "Stop communicating with the colleague",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A conscious adult is choking and cannot speak or cough effectively. What should the first-aid provider do?",
+      "urdu": "ایک ہوش مند بالغ شخص کے گلے میں کوئی چیز پھنس گئی ہے اور وہ مؤثر طریقے سے بول یا کھانس نہیں سکتا۔ ابتدائی طبی امداد فراہم کرنے والے کو کیا کرنا چاہیے؟",
+      "options": [
+        "A back massage only",
+        "Oral fluids",
+        "Appropriate choking first aid, including abdominal thrusts where indicated",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A paramedic receives conflicting information about a patient's condition. What should the paramedic do?",
+      "urdu": "اگر پیرامیڈک کو مریض کی حالت کے بارے میں متضاد معلومات ملیں تو اسے کیا کرنا چاہیے؟",
+      "options": [
+        "Verify the information before making an important decision",
+        "Accept the information from the most senior person without checking",
+        "Wait until the patient's condition changes",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person suffering from heat exhaustion should generally be?",
+      "urdu": "گرمی کی تھکن کا شکار شخص کے ساتھ عام طور پر کیا کرنا چاہیے؟",
+      "options": [
+        "Moved to a cooler environment and given appropriate fluids if conscious",
+        "Covered with heavy blankets",
+        "Encouraged to continue walking",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Four teams — P, Q, R and S — are assigned to four consecutive days, one team per day. • P must be assigned before Q. • R must be assigned immediately before S. • Q cannot be assigned on the fourth day. Which schedule is possible?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "R, P, Q, S",
+        "P, R, S, Q",
+        "P, Q, R, S",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Rules to check:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "A, B and C can complete a task individually in 12, 18 and 36 days, respectively. If they work together, how many days will they require?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -108,552 +654,6 @@
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A conscious person with suspected low blood sugar who can swallow safely may be given?",
-      "urdu": "اگر کسی ہوش مند شخص میں خون میں شوگر کی کمی کا شبہ ہو اور وہ محفوظ طریقے سے نگل سکتا ہو، تو اسے کیا دیا جا سکتا ہے؟",
-      "options": [
-        "A sedative",
-        "Plain salt",
-        "A sugary source of carbohydrate",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a patient requires care beyond the capability of the medical mission, the appropriate action is to?",
-      "urdu": "اگر کسی مریض کو ایسی طبی نگہداشت کی ضرورت ہو جو طبی مشن کی صلاحیت سے باہر ہو، تو مناسب اقدام کیا ہے؟",
-      "options": [
-        "Arrange appropriate referral/transfer to the required healthcare facility",
-        "Ask the patient to self-treat",
-        "Treat beyond one's competence",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A pilgrim becomes separated from his group. The paramedic should?",
-      "urdu": "اگر کوئی عازمِ حج اپنے گروپ سے بچھڑ جائے تو پیرامیڈک کو کیا کرنا چاہیے؟",
-      "options": [
-        "Change his accommodation independently",
-        "Keep his passport permanently",
-        "Ensure his immediate safety and coordinate with the appropriate welfare/field team",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A suspected fracture should generally be managed by?",
-      "urdu": "ہڈی ٹوٹنے کے شبہے کی صورت میں عام طور پر کیا کرنا چاہیے؟",
-      "options": [
-        "Immobilizing the injured area and arranging medical assessment",
-        "Massaging the injured area",
-        "Forcefully straightening the limb",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How should a paramedic respond to an anxious pilgrim?",
-      "urdu": "ایک پریشان عازمِ حج کے ساتھ پیرامیڈک کو کس طرح پیش آنا چاہیے؟",
-      "options": [
-        "Tell the pilgrim to stop worrying",
-        "Promise that there is no serious problem",
-        "Listen carefully, communicate calmly, and provide appropriate reassurance",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An unconscious person is breathing normally and has no suspected spinal injury. What is generally appropriate?",
-      "urdu": "ایک بے ہوش شخص معمول کے مطابق سانس لے رہا ہے اور ریڑھ کی ہڈی کی چوٹ کا شبہ نہیں ہے۔ عام طور پر کیا کرنا مناسب ہے؟",
-      "options": [
-        "Begin abdominal thrusts",
-        "Place the person in the recovery position and monitor breathing",
-        "Ask the person to stand",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Five candidates — K, L, M, N and O — obtain different scores. • M scores higher than O. • O scores higher than K. • K scores higher than L. • L scores higher than N. Who must rank second?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Candidate K",
-        "Candidate M",
-        "Candidate O",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">M scores higher than O, so M ranks above O.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What should a paramedic verify before administering medication?",
-      "urdu": "دوا دینے سے پہلے پیرامیڈک کو کن چیزوں کی تصدیق کرنی چاہیے؟",
-      "options": [
-        "The correct patient, drug, dose, route, indication and relevant safety factors",
-        "The patient's accommodation details instead of clinical indications",
-        "Only that another staff member has previously used the medicine",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A sum of money is divided between A and B in the ratio 5 : 7. If B receives Rs. 840 more than A, what is the total amount?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 4,800",
-        "Rs. 5,040",
-        "Rs. 5,400",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Ratio = 5 : 7</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a medical mission identifies a suspected communicable disease, it should?",
-      "urdu": "اگر طبی مشن کو کسی متعدی بیماری کا شبہ ہو تو اسے کیا کرنا چاہیے؟",
-      "options": [
-        "Publish the patient's information",
-        "Send the patient away without assessment",
-        "Report and manage it according to applicable health requirements",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Why is hydration particularly important during Hajj?",
-      "urdu": "حج کے دوران جسم میں پانی کی مناسب مقدار برقرار رکھنا خاص طور پر کیوں ضروری ہے؟",
-      "options": [
-        "Heat, exertion and prolonged outdoor exposure can increase dehydration risk",
-        "Hydration has no effect on health",
-        "Dehydration occurs only in winter",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When working with pilgrims from different cultural and linguistic backgrounds, which quality is most important?",
-      "urdu": "مختلف ثقافتی اور لسانی پس منظر رکھنے والے عازمینِ حج کے ساتھ کام کرتے وقت کون سی خوبی سب سے زیادہ اہم ہے؟",
-      "options": [
-        "Relying on personal assumptions",
-        "Flexibility, patience, and respect",
-        "Avoiding unfamiliar people",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person suspected of having a stroke should be?",
-      "urdu": "فالج کا شبہ ہونے پر مریض کے ساتھ کیا کرنا چاہیے؟",
-      "options": [
-        "Given food and sent home",
-        "Referred urgently for emergency medical assessment",
-        "Given a painkiller and observed",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A panel must select exactly three members from A, B, C, D and E. • A cannot be selected with B. • C must be selected if D is selected. • E cannot be selected with C. Which group could be selected?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A, B, D",
-        "A, D, E",
-        "B, C, D",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Rules:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is it named to run between Safa and Marwa?",
-      "urdu": "صفا اور مروہ کے درمیان چلنے کو کیا نام دیا جائے؟",
-      "options": [
-        "Sayee",
-        "Rami",
-        "Hajjar-e-Aswad",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which description best defines psychological resilience?",
-      "urdu": "نفسیاتی لچک کی بہترین تعریف کیا ہے؟",
-      "options": [
-        "Suppress emotions completely",
-        "Adapt and continue functioning effectively during difficult circumstances",
-        "Work continuously without rest",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What must a medical mission obtain before practising in Saudi Arabia?",
-      "urdu": "سعودی عرب میں طبی خدمات انجام دینے سے پہلے میڈیکل مشن کے لیے کیا حاصل کرنا ضروری ہے؟",
-      "options": [
-        "Obtaining the required official authorization/work permit",
-        "Completing hotel registration",
-        "Receiving verbal permission from pilgrims",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Although the officer was initially ______ about the proposal, the evidence was sufficiently ______ to change his position.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Enthusiastic - weak",
-        "Confident - irrelevant",
-        "Skeptical - compelling",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the pair that best expresses a relationship similar to: EPHEMERAL : PERMANENT :: ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Temporary : Enduring",
-        "Rare : Unusual",
-        "Fragile : Delicate",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the next number: 3, 8, 18, 38, 78, _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "148",
-        "158",
-        "168",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p data-end=\"173\" data-start=\"103\"><font color=\"#0000ff\"><b>Pattern: Multiply by <span data-end=\"156\" data-start=\"151\">2</span> and add <span data-end=\"170\" data-start=\"165\">2</span>.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "On finding an unconscious person, the first priority is to?",
-      "urdu": "کسی بے ہوش شخص کو دیکھنے پر سب سے پہلے کیا کرنا چاہیے؟",
-      "options": [
-        "Move the person immediately",
-        "Give medication",
-        "Check the scene for danger and assess responsiveness",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which situation demonstrates good situational awareness?",
-      "urdu": "کون سی صورتِ حال حالات سے باخبر رہنے کی اچھی صلاحیت کو ظاہر کرتی ہے؟",
-      "options": [
-        "Assuming the environment is safe",
-        "Waiting for someone else to identify hazards",
-        "Observing the patient, surrounding hazards, and changing circumstances",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which symptom may indicate a heart attack?",
-      "urdu": "کون سی علامت دل کے دورے کی نشاندہی کر سکتی ہے؟",
-      "options": [
-        "Chest pressure or discomfort with sweating or shortness of breath",
-        "Increased appetite",
-        "Improved exercise tolerance",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the primary purpose of the Hajj Medical Mission?",
-      "urdu": "حج میڈیکل مشن کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "Conduct religious lectures",
-        "Provide medical and health-related services to pilgrims",
-        "Operate public transportation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A browser bookmark is mainly used to?",
-      "urdu": "براؤزر میں بک مارک کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "Remove viruses",
-        "Delete browsing history",
-        "Save a webpage for easier future access",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person faints and quickly regains consciousness. The best initial approach is to?",
-      "urdu": "اگر کوئی شخص بے ہوش ہو کر گِر جائے اور جلد ہوش میں آ جائے تو سب سے پہلے کیا کرنا چاہیے؟",
-      "options": [
-        "Give a heavy meal",
-        "Assess the person and determine possible causes",
-        "Give medication immediately",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which finding is most suggestive of shock?",
-      "urdu": "کون سی علامت صدمے کی سب سے زیادہ نشاندہی کرتی ہے؟",
-      "options": [
-        "Pale, clammy skin with weakness and a rapid pulse",
-        "Warm, dry skin with normal circulation",
-        "Normal pulse with increased energy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Personal protective equipment during first aid is important because it?",
-      "urdu": "ابتدائی طبی امداد کے دوران ذاتی حفاظتی سامان استعمال کرنا کیوں ضروری ہے؟",
-      "options": [
-        "Guarantees personal safety",
-        "Reduces exposure to blood and potentially infectious material",
-        "Eliminates the need for medical assessment",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-206</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The main purpose of a sterile dressing over a wound is to?",
-      "urdu": "زخم پر جراثیم سے پاک پٹی لگانے کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "Protect the wound from contamination and absorb blood",
-        "Prevent movement of every joint",
-        "Provide warmth",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The recommended compression rate during adult CPR is approximately?",
-      "urdu": "شخص پر سی پی آر کرتے وقت سینے کو دبانے کی تجویز کردہ رفتار تقریباً کتنی ہونی چاہیے؟",
-      "options": [
-        "40-60 per minute",
-        "60-80 per minute",
-        "100-120 per minute",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If an email contains a suspicious attachment from an unknown sender, the safest approach is to?",
-      "urdu": "اگر کسی نامعلوم بھیجنے والے کی ای میل میں مشکوک اٹیچمنٹ ہو تو سب سے محفوظ طریقہ کیا ہے؟",
-      "options": [
-        "Avoid opening it and verify the sender/message",
-        "Open it immediately",
-        "Forward it to colleagues",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sequence best represents the major movement associated with the Mashair?",
-      "urdu": "مشاعرِ مقدسہ میں نقل و حرکت کی اہم ترتیب کون سی ہے؟",
-      "options": [
-        "Arafat -> Mina -> Madinah -> Muzdalifah",
-        "Mina -> Madinah -> Arafat -> Jeddah",
-        "Mina -> Arafat -> Muzdalifah -> Mina",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 17-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which check best confirms that an AED is ready for emergency use?",
-      "urdu": "کون سا معائنہ اس بات کی بہترین تصدیق کرتا ہے کہ اے ای ڈی ہنگامی حالت میں استعمال کے لیے تیار ہے؟",
-      "options": [
-        "The carrying case is clean and securely closed",
-        "A staff member remembers using the same model previously",
-        "The status indicator, battery and electrode pads are serviceable",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A pilgrim develops dizziness and weakness after prolonged walking in high temperatures. The paramedic should first consider?",
-      "urdu": "شدید گرمی میں زیادہ دیر پیدل چلنے کے بعد اگر کسی حاجی کو چکر آئیں اور کمزوری محسوس ہو تو پیرا میڈک کو سب سے پہلے کس مسئلے کا شبہ کرنا چاہیے؟",
-      "options": [
-        "A passport problem",
-        "Heat-related illness and dehydration",
-        "A language problem",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If MANGO is coded as OCPIQ, using the same pattern, how would GRAPE be coded?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "JUDSH",
-        "ITCRG",
-        "ITCSG",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern is +2 for each letter:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the function of an antivirus software?",
-      "urdu": "اینٹی وائرس سافٹ ویئر کا کیا کام ہے؟",
-      "options": [
-        "Protect against malware and viruses",
-        "Detect and help protect against malicious software",
-        "Create and edit spreadsheets",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is an appropriate infection-control measure?",
-      "urdu": "انفیکشن سے بچاؤ کے لیے کون سا طریقہ مناسب ہے؟",
-      "options": [
-        "Reusing contaminated dressings",
-        "Leaving contaminated waste in treatment areas",
-        "Hand hygiene before and after patient contact",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An adult is unresponsive and not breathing normally. What should be done?",
-      "urdu": "ایک بالغ شخص بے ہوش ہے اور معمول کے مطابق سانس نہیں لے رہا۔ ایسی صورت میں کیا کرنا چاہیے؟",
-      "options": [
-        "Start CPR and activate emergency medical assistance",
-        "Give oral fluids",
-        "Wait for spontaneous recovery",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A suspected heart attack should be treated as?",
-      "urdu": "دل کا دورہ پڑنے کے شبہے کو کس طرح لینا چاہیے؟",
-      "options": [
-        "A condition that can wait until the following day",
-        "A minor digestive problem",
-        "A medical emergency requiring urgent medical assistance",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A pilgrim requests a detailed religious ruling beyond the paramedic's expertise. What should the paramedic do?",
-      "urdu": "اگر کوئی حاجی ایسا تفصیلی شرعی مسئلہ پوچھے جو پیرا میڈک کے علم اور مہارت سے باہر ہو، تو پیرا میڈک کو کیا کرنا چاہیے؟",
-      "options": [
-        "Refer the pilgrim to an authorized religious guide",
-        "Give a personal ruling",
-        "Ask another patient",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Seven boxes — P, Q, R, S, T, U and V — are arranged from left to right. P is immediately before Q. T is somewhere to the right of Q. R is immediately before U. S is not at either end. V is to the left of P. Which arrangement satisfies all the conditions?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "P Q V S R U T",
-        "V S P Q R T U",
-        "V P Q S R U T",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"><b>Conditions:</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The primary purpose of an AED is to?",
-      "urdu": "اے ای ڈی کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "Analyze cardiac rhythm and deliver a shock when indicated",
-        "Measure blood pressure",
-        "Measure oxygen saturation",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
       "category": "all"
     }
