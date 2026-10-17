@@ -3,43 +3,69 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-17T05:19:36.733335",
+    "fetched_at": "2026-10-17T11:17:48.429474",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "How many basic pillars of Islam are there?",
-      "urdu": "اسلام کے بنیادی ارکان کتنے ہیں؟",
-      "options": [
-        "4",
-        "6",
-        "5",
-        "7"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><font color=\"#0000ff\" style=\"\">There are </font><font color=\"#ff0000\" style=\"\">five pillars </font><font color=\"#0000ff\" style=\"\">of Islam:</font></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A trapezoidal channel (n = 0.013, side slope 1V:2H, bottom width 3 m) carries 17 m³/s. Discharge in litres per second is?",
+      "q": "A, B and C can complete a task individually in 12, 18 and 36 days, respectively. If they work together, how many days will they require?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "17000 L/s",
-        "18000 L/s",
-        "19000 L/s",
+        "6 days",
+        "5 days",
+        "7 days",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">17 m3/s = 17 x 1000 = </font><font color=\"#ff0000\">17000 litres/sec</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Combined work per day:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which chemical compound can be used for de-chlorination of water?",
-      "urdu": "پانی سے کلورین ختم کرنے کے لیے کون سا کیمیائی مرکب استعمال کیا جا سکتا ہے؟",
+      "q": "The shortcut key Ctrl + C in MS Word is used for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Sulphur dioxide",
-        "Carbon dioxide",
-        "Bleaching powder",
+        "Copy command",
+        "Cut command",
+        "Paste command",
+        "Bold command"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\"><font color=\"#ff0000\">Additional information</font></span><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">:</span></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which approach best summarizes safe HMM paramedic practice during Hajj?",
+      "urdu": "حج کے دوران حج میڈیکل مشن کے پیرامیڈک کے محفوظ اور مؤثر کام کا بہترین خلاصہ کون سا ہے؟",
+      "options": [
+        "Avoid documenting minor cases",
+        "Treat every patient without considering urgency",
+        "Prioritize safe patient care, infection control, documentation, communication and timely referral",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "After a seizure, an unconscious but breathing person should generally be?",
+      "urdu": "دورہ ختم ہونے کے بعد اگر کوئی شخص بے ہوش ہو لیکن سانس لے رہا ہو تو عام طور پر کیا کرنا چاہیے؟",
+      "options": [
+        "Forced to drink water",
+        "Placed safely on their side while breathing is monitored",
+        "Asked to walk",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a computerized medical record, confidentiality means?",
+      "urdu": "کمپیوٹرائزڈ طبی ریکارڈ میں رازداری سے کیا مراد ہے؟",
+      "options": [
+        "Patient information should be accessed and disclosed only by authorized persons for legitimate purposes",
+        "Records should never be updated",
+        "Patient information should be publicly posted",
         "None of these"
       ],
       "correct": 0,
@@ -47,12 +73,51 @@
       "category": "all"
     },
     {
-      "q": "Field capacity of soil depends upon?",
-      "urdu": "مٹی کی فیلڈ کیپیسٹی کن عوامل پر منحصر ہوتی ہے؟",
+      "q": "What is the principal operational purpose of a first-aid kit during Hajj?",
+      "urdu": "حج کے دوران فرسٹ ایڈ کٹ کا بنیادی عملی مقصد کیا ہے؟",
       "options": [
-        "Porosity",
-        "Capillary tension",
-        "Both A and B",
+        "To issue medications without assessment",
+        "To provide immediate basic management of injuries and emergencies",
+        "To replace hospitals",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A paramedic notices that fatigue is affecting concentration during a long duty period. What is the most appropriate response?",
+      "urdu": "طویل ڈیوٹی کے دوران اگر پیرامیڈک محسوس کرے کہ تھکن اس کی توجہ اور ارتکاز کو متاثر کر رہی ہے، تو اسے کیا کرنا چاہیے؟",
+      "options": [
+        "Continue taking unnecessary risks",
+        "Recognize the limitation and use appropriate rest/support arrangements",
+        "Leave patients without informing anyone",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During a seizure, a first-aid provider should?",
+      "urdu": "دورے کے دوران ابتدائی طبی امداد فراہم کرنے والے شخص کو کیا کرنا چاہیے؟",
+      "options": [
+        "Force the person to stand",
+        "Protect the person from injury and clear nearby hazards",
+        "Put a spoon in the person's mouth",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A conscious person with suspected low blood sugar who can swallow safely may be given?",
+      "urdu": "اگر کسی ہوش مند شخص میں خون میں شوگر کی کمی کا شبہ ہو اور وہ محفوظ طریقے سے نگل سکتا ہو، تو اسے کیا دیا جا سکتا ہے؟",
+      "options": [
+        "A sedative",
+        "Plain salt",
+        "A sugary source of carbohydrate",
         "None of these"
       ],
       "correct": 2,
@@ -60,64 +125,116 @@
       "category": "all"
     },
     {
-      "q": "Thiessen weights of 5 gauges are 0.10, 0.16, 0.12, 0.11, 0.09 and rainfall is 132, 114, 162, 138, 207 mm. Average depth of rainfall is?",
+      "q": "If a patient requires care beyond the capability of the medical mission, the appropriate action is to?",
+      "urdu": "اگر کسی مریض کو ایسی طبی نگہداشت کی ضرورت ہو جو طبی مشن کی صلاحیت سے باہر ہو، تو مناسب اقدام کیا ہے؟",
+      "options": [
+        "Arrange appropriate referral/transfer to the required healthcare facility",
+        "Ask the patient to self-treat",
+        "Treat beyond one's competence",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A pilgrim becomes separated from his group. The paramedic should?",
+      "urdu": "اگر کوئی عازمِ حج اپنے گروپ سے بچھڑ جائے تو پیرامیڈک کو کیا کرنا چاہیے؟",
+      "options": [
+        "Change his accommodation independently",
+        "Keep his passport permanently",
+        "Ensure his immediate safety and coordinate with the appropriate welfare/field team",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A suspected fracture should generally be managed by?",
+      "urdu": "ہڈی ٹوٹنے کے شبہے کی صورت میں عام طور پر کیا کرنا چاہیے؟",
+      "options": [
+        "Immobilizing the injured area and arranging medical assessment",
+        "Massaging the injured area",
+        "Forcefully straightening the limb",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How should a paramedic respond to an anxious pilgrim?",
+      "urdu": "ایک پریشان عازمِ حج کے ساتھ پیرامیڈک کو کس طرح پیش آنا چاہیے؟",
+      "options": [
+        "Tell the pilgrim to stop worrying",
+        "Promise that there is no serious problem",
+        "Listen carefully, communicate calmly, and provide appropriate reassurance",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An unconscious person is breathing normally and has no suspected spinal injury. What is generally appropriate?",
+      "urdu": "ایک بے ہوش شخص معمول کے مطابق سانس لے رہا ہے اور ریڑھ کی ہڈی کی چوٹ کا شبہ نہیں ہے۔ عام طور پر کیا کرنا مناسب ہے؟",
+      "options": [
+        "Begin abdominal thrusts",
+        "Place the person in the recovery position and monitor breathing",
+        "Ask the person to stand",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Five candidates — K, L, M, N and O — obtain different scores. • M scores higher than O. • O scores higher than K. • K scores higher than L. • L scores higher than N. Who must rank second?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "64.69",
-        "74.69",
-        "84.69",
+        "Candidate K",
+        "Candidate M",
+        "Candidate O",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Formula:</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">M scores higher than O, so M ranks above O.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "A line joining the center of rivets and parallel to the plate is called?",
-      "urdu": "رِوٹس کے مراکز کو ملانے والی اور پلیٹ کے متوازی جانے والی لائن کو کیا کہتے ہیں؟",
+      "q": "What should a paramedic verify before administering medication?",
+      "urdu": "دوا دینے سے پہلے پیرامیڈک کو کن چیزوں کی تصدیق کرنی چاہیے؟",
       "options": [
-        "Marginal pitch",
-        "Gauge line",
-        "Back pitch",
+        "The correct patient, drug, dose, route, indication and relevant safety factors",
+        "The patient's accommodation details instead of clinical indications",
+        "Only that another staff member has previously used the medicine",
         "None of these"
       ],
-      "correct": 1,
+      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Thermophilic organisms show best?",
-      "urdu": "تھرموفیلک جاندار کس درجۂ حرارت پر بہترین نشوونما کرتے ہیں؟",
+      "q": "A sum of money is divided between A and B in the ratio 5 : 7. If B receives Rs. 840 more than A, what is the total amount?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Below 45°C",
-        "Above 45°C",
-        "25°C",
+        "Rs. 4,800",
+        "Rs. 5,040",
+        "Rs. 5,400",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Ratio = 5 : 7</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Moisture between FC and PWP is called?",
-      "urdu": "فیلڈ کیپیسٹی اور مستقل مرجھانے کے نقطے کے درمیان موجود نمی کو کیا کہتے ہیں؟",
+      "q": "If a medical mission identifies a suspected communicable disease, it should?",
+      "urdu": "اگر طبی مشن کو کسی متعدی بیماری کا شبہ ہو تو اسے کیا کرنا چاہیے؟",
       "options": [
-        "Unavailable water",
-        "Gravitational water",
-        "Available water",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Confined aquifer pressure is?",
-      "urdu": "محصور آبی تہہ میں پانی کا دباؤ فضائی دباؤ کے مقابلے میں کیسا ہوتا ہے؟",
-      "options": [
-        "Equal atmospheric",
-        "Below atmospheric",
-        "Above atmospheric",
+        "Publish the patient's information",
+        "Send the patient away without assessment",
+        "Report and manage it according to applicable health requirements",
         "None of these"
       ],
       "correct": 2,
@@ -125,12 +242,25 @@
       "category": "all"
     },
     {
-      "q": "Identification of nucleotides (their order) is done by?",
-      "urdu": "نیوکلیوٹائڈز کی ترتیب معلوم کرنے کے لیے کون سی تکنیک استعمال کی جاتی ہے؟",
+      "q": "Why is hydration particularly important during Hajj?",
+      "urdu": "حج کے دوران جسم میں پانی کی مناسب مقدار برقرار رکھنا خاص طور پر کیوں ضروری ہے؟",
       "options": [
-        "Gel electrophoresis",
-        "DNA sequencing",
-        "Denaturation",
+        "Heat, exertion and prolonged outdoor exposure can increase dehydration risk",
+        "Hydration has no effect on health",
+        "Dehydration occurs only in winter",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When working with pilgrims from different cultural and linguistic backgrounds, which quality is most important?",
+      "urdu": "مختلف ثقافتی اور لسانی پس منظر رکھنے والے عازمینِ حج کے ساتھ کام کرتے وقت کون سی خوبی سب سے زیادہ اہم ہے؟",
+      "options": [
+        "Relying on personal assumptions",
+        "Flexibility, patience, and respect",
+        "Avoiding unfamiliar people",
         "None of these"
       ],
       "correct": 1,
@@ -138,12 +268,12 @@
       "category": "all"
     },
     {
-      "q": "Boron (hot-water soluble, after heat treatment) critical level is about?",
-      "urdu": "مٹی میں گرم پانی میں حل پذیر بوران کی اہم حد تقریباً کتنی ہوتی ہے؟",
+      "q": "A person suspected of having a stroke should be?",
+      "urdu": "فالج کا شبہ ہونے پر مریض کے ساتھ کیا کرنا چاہیے؟",
       "options": [
-        "5 ppm",
-        "0.5 ppm",
-        "2 ppm",
+        "Given food and sent home",
+        "Referred urgently for emergency medical assessment",
+        "Given a painkiller and observed",
         "None of these"
       ],
       "correct": 1,
@@ -151,25 +281,64 @@
       "category": "all"
     },
     {
-      "q": "Which is not the remedial solution for waterlogging? Conjunctive use of water basin, Lining of canal and water resources, Consumptive use of water, Counter adjacent",
-      "urdu": "آبی دلدلی کیفیت کو دور کرنے کا کون سا طریقہ نہیں ہے؟",
+      "q": "A panel must select exactly three members from A, B, C, D and E. • A cannot be selected with B. • C must be selected if D is selected. • E cannot be selected with C. Which group could be selected?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Conjunctive use of water basin",
-        "Lining of canal and water resources",
-        "Consumptive use of water",
-        "Counter adjacent"
+        "A, B, D",
+        "A, D, E",
+        "B, C, D",
+        "None of these"
       ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">Effective</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">remedial</font><font color=\"#0000ff\"> measures include:</font></b></p>",
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Rules:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Sugarcane production per hectare is?",
-      "urdu": "گنے کی فی ہیکٹر پیداوار کتنی ہوتی ہے؟",
+      "q": "What is it named to run between Safa and Marwa?",
+      "urdu": "صفا اور مروہ کے درمیان چلنے کو کیا نام دیا جائے؟",
       "options": [
-        "25–35 tonnes",
-        "40–50 tonnes",
-        "60–70 tonnes",
+        "Sayee",
+        "Rami",
+        "Hajjar-e-Aswad",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which description best defines psychological resilience?",
+      "urdu": "نفسیاتی لچک کی بہترین تعریف کیا ہے؟",
+      "options": [
+        "Suppress emotions completely",
+        "Adapt and continue functioning effectively during difficult circumstances",
+        "Work continuously without rest",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What must a medical mission obtain before practising in Saudi Arabia?",
+      "urdu": "سعودی عرب میں طبی خدمات انجام دینے سے پہلے میڈیکل مشن کے لیے کیا حاصل کرنا ضروری ہے؟",
+      "options": [
+        "Obtaining the required official authorization/work permit",
+        "Completing hotel registration",
+        "Receiving verbal permission from pilgrims",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Although the officer was initially ______ about the proposal, the evidence was sufficiently ______ to change his position.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Enthusiastic - weak",
+        "Confident - irrelevant",
+        "Skeptical - compelling",
         "None of these"
       ],
       "correct": 2,
@@ -177,12 +346,90 @@
       "category": "all"
     },
     {
-      "q": "Movement of the inlet and outlet valves is because of?",
-      "urdu": "انجن کے ان لیٹ اور آؤٹ لیٹ والوز کی حرکت کس حصے کی وجہ سے ہوتی ہے؟",
+      "q": "Choose the pair that best expresses a relationship similar to: EPHEMERAL : PERMANENT :: ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Flywheel",
-        "Crankshaft",
-        "Camshaft",
+        "Temporary : Enduring",
+        "Rare : Unusual",
+        "Fragile : Delicate",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the next number: 3, 8, 18, 38, 78, _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "148",
+        "158",
+        "168",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p data-end=\"173\" data-start=\"103\"><font color=\"#0000ff\"><b>Pattern: Multiply by <span data-end=\"156\" data-start=\"151\">2</span> and add <span data-end=\"170\" data-start=\"165\">2</span>.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "On finding an unconscious person, the first priority is to?",
+      "urdu": "کسی بے ہوش شخص کو دیکھنے پر سب سے پہلے کیا کرنا چاہیے؟",
+      "options": [
+        "Move the person immediately",
+        "Give medication",
+        "Check the scene for danger and assess responsiveness",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which situation demonstrates good situational awareness?",
+      "urdu": "کون سی صورتِ حال حالات سے باخبر رہنے کی اچھی صلاحیت کو ظاہر کرتی ہے؟",
+      "options": [
+        "Assuming the environment is safe",
+        "Waiting for someone else to identify hazards",
+        "Observing the patient, surrounding hazards, and changing circumstances",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which symptom may indicate a heart attack?",
+      "urdu": "کون سی علامت دل کے دورے کی نشاندہی کر سکتی ہے؟",
+      "options": [
+        "Chest pressure or discomfort with sweating or shortness of breath",
+        "Increased appetite",
+        "Improved exercise tolerance",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the primary purpose of the Hajj Medical Mission?",
+      "urdu": "حج میڈیکل مشن کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Conduct religious lectures",
+        "Provide medical and health-related services to pilgrims",
+        "Operate public transportation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A browser bookmark is mainly used to?",
+      "urdu": "براؤزر میں بک مارک کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Remove viruses",
+        "Delete browsing history",
+        "Save a webpage for easier future access",
         "None of these"
       ],
       "correct": 2,
@@ -190,12 +437,12 @@
       "category": "all"
     },
     {
-      "q": "Rotation movement of the piston is due to the help of?",
-      "urdu": "پسٹن کی آگے پیچھے حرکت کو گھومنے والی حرکت میں تبدیل کرنے کے لیے کس حصے کی مدد لی جاتی ہے؟",
+      "q": "A person faints and quickly regains consciousness. The best initial approach is to?",
+      "urdu": "اگر کوئی شخص بے ہوش ہو کر گِر جائے اور جلد ہوش میں آ جائے تو سب سے پہلے کیا کرنا چاہیے؟",
       "options": [
-        "Rotational Arm",
-        "Crankshaft",
-        "Camshaft",
+        "Give a heavy meal",
+        "Assess the person and determine possible causes",
+        "Give medication immediately",
         "None of these"
       ],
       "correct": 1,
@@ -203,12 +450,12 @@
       "category": "all"
     },
     {
-      "q": "A treatment applied on a small unit is?",
-      "urdu": "تجربے میں وہ چھوٹی اکائی جس پر کوئی ٹریٹمنٹ لاگو کیا جاتا ہے، کیا کہلاتی ہے؟",
+      "q": "Which finding is most suggestive of shock?",
+      "urdu": "کون سی علامت صدمے کی سب سے زیادہ نشاندہی کرتی ہے؟",
       "options": [
-        "Experimental unit",
-        "Factor",
-        "Sample",
+        "Pale, clammy skin with weakness and a rapid pulse",
+        "Warm, dry skin with normal circulation",
+        "Normal pulse with increased energy",
         "None of these"
       ],
       "correct": 0,
@@ -216,446 +463,198 @@
       "category": "all"
     },
     {
-      "q": "When the water level (head) is less than 5 times the orifice diameter, the orifice is?",
-      "urdu": "جب پانی کی سطح سے ہیڈ، آریفِس کے قطر سے پانچ گنا کم ہو، تو آریفِس کو کیا کہتے ہیں؟",
+      "q": "Personal protective equipment during first aid is important because it?",
+      "urdu": "ابتدائی طبی امداد کے دوران ذاتی حفاظتی سامان استعمال کرنا کیوں ضروری ہے؟",
       "options": [
-        "Bell-mouthed orifice",
-        "Submerged orifice",
-        "Large orifice",
+        "Guarantees personal safety",
+        "Reduces exposure to blood and potentially infectious material",
+        "Eliminates the need for medical assessment",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-206</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The main purpose of a sterile dressing over a wound is to?",
+      "urdu": "زخم پر جراثیم سے پاک پٹی لگانے کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "Protect the wound from contamination and absorb blood",
+        "Prevent movement of every joint",
+        "Provide warmth",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The recommended compression rate during adult CPR is approximately?",
+      "urdu": "شخص پر سی پی آر کرتے وقت سینے کو دبانے کی تجویز کردہ رفتار تقریباً کتنی ہونی چاہیے؟",
+      "options": [
+        "40-60 per minute",
+        "60-80 per minute",
+        "100-120 per minute",
         "None of these"
       ],
       "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If an email contains a suspicious attachment from an unknown sender, the safest approach is to?",
+      "urdu": "اگر کسی نامعلوم بھیجنے والے کی ای میل میں مشکوک اٹیچمنٹ ہو تو سب سے محفوظ طریقہ کیا ہے؟",
+      "options": [
+        "Avoid opening it and verify the sender/message",
+        "Open it immediately",
+        "Forward it to colleagues",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sequence best represents the major movement associated with the Mashair?",
+      "urdu": "مشاعرِ مقدسہ میں نقل و حرکت کی اہم ترتیب کون سی ہے؟",
+      "options": [
+        "Arafat -> Mina -> Madinah -> Muzdalifah",
+        "Mina -> Madinah -> Arafat -> Jeddah",
+        "Mina -> Arafat -> Muzdalifah -> Mina",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"><b>Last verified on 17-10-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which check best confirms that an AED is ready for emergency use?",
+      "urdu": "کون سا معائنہ اس بات کی بہترین تصدیق کرتا ہے کہ اے ای ڈی ہنگامی حالت میں استعمال کے لیے تیار ہے؟",
+      "options": [
+        "The carrying case is clean and securely closed",
+        "A staff member remembers using the same model previously",
+        "The status indicator, battery and electrode pads are serviceable",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A pilgrim develops dizziness and weakness after prolonged walking in high temperatures. The paramedic should first consider?",
+      "urdu": "شدید گرمی میں زیادہ دیر پیدل چلنے کے بعد اگر کسی حاجی کو چکر آئیں اور کمزوری محسوس ہو تو پیرا میڈک کو سب سے پہلے کس مسئلے کا شبہ کرنا چاہیے؟",
+      "options": [
+        "A passport problem",
+        "Heat-related illness and dehydration",
+        "A language problem",
+        "None of these"
+      ],
+      "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The best and most accurate method to estimate the average depth of precipitation is?",
-      "urdu": "کسی آبی حوض میں بارش کی اوسط گہرائی معلوم کرنے کا بہترین اور سب سے درست طریقہ کون سا ہے؟",
+      "q": "If MANGO is coded as OCPIQ, using the same pattern, how would GRAPE be coded?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Hypsometric Method",
-        "Isohyetal Method",
-        "Thiessen Polygon",
+        "JUDSH",
+        "ITCRG",
+        "ITCSG",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern is +2 for each letter:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Tissue culture technique used to grow disease-free plants is?",
-      "urdu": "بیماریوں سے پاک پودے اگانے کے لیے ٹشو کلچر کی کون سی تکنیک استعمال ہوتی ہے؟",
+      "q": "What is the function of an antivirus software?",
+      "urdu": "اینٹی وائرس سافٹ ویئر کا کیا کام ہے؟",
       "options": [
-        "Embryo culture",
-        "Meristem culture",
-        "Anther culture",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Rear wheels, if attached to a disc plough, are used to?",
-      "urdu": "ڈسک پلو کے ساتھ لگے ہوئے پچھلے پہیے کا استعمال کس مقصد کے لیے کیا جاتا ہے؟",
-      "options": [
-        "Increase speed",
-        "Control side draft",
-        "Control depth of cut",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Primary tillage is done to?",
-      "urdu": "بنیادی جوتائی کس مقصد کے لیے کی جاتی ہے؟",
-      "options": [
-        "Rearrange soil aggregates",
-        "Reduce soil strength",
-        "Cover plant material",
-        "All of these"
+        "Protect against malware and viruses",
+        "Detect and help protect against malicious software",
+        "Create and edit spreadsheets",
+        "Both A and B"
       ],
       "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 12-08-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is an appropriate infection-control measure?",
+      "urdu": "انفیکشن سے بچاؤ کے لیے کون سا طریقہ مناسب ہے؟",
+      "options": [
+        "Reusing contaminated dressings",
+        "Leaving contaminated waste in treatment areas",
+        "Hand hygiene before and after patient contact",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An adult is unresponsive and not breathing normally. What should be done?",
+      "urdu": "ایک بالغ شخص بے ہوش ہے اور معمول کے مطابق سانس نہیں لے رہا۔ ایسی صورت میں کیا کرنا چاہیے؟",
+      "options": [
+        "Start CPR and activate emergency medical assistance",
+        "Give oral fluids",
+        "Wait for spontaneous recovery",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A suspected heart attack should be treated as?",
+      "urdu": "دل کا دورہ پڑنے کے شبہے کو کس طرح لینا چاہیے؟",
+      "options": [
+        "A condition that can wait until the following day",
+        "A minor digestive problem",
+        "A medical emergency requiring urgent medical assistance",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A pilgrim requests a detailed religious ruling beyond the paramedic's expertise. What should the paramedic do?",
+      "urdu": "اگر کوئی حاجی ایسا تفصیلی شرعی مسئلہ پوچھے جو پیرا میڈک کے علم اور مہارت سے باہر ہو، تو پیرا میڈک کو کیا کرنا چاہیے؟",
+      "options": [
+        "Refer the pilgrim to an authorized religious guide",
+        "Give a personal ruling",
+        "Ask another patient",
+        "None of these"
+      ],
+      "correct": 0,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Robert Ernest Hall and Michael Woodford from the US have jointly been awarded the 2026 Nobel Prize in which category?",
-      "urdu": "امریکہ سے تعلق رکھنے والے رابرٹ ارنسٹ ہال اور مائیکل ووڈفورڈ کو مشترکہ طور پر کس شعبے میں 2026 کا نوبل انعام دیا گیا ہے؟",
+      "q": "Seven boxes — P, Q, R, S, T, U and V — are arranged from left to right. P is immediately before Q. T is somewhere to the right of Q. R is immediately before U. S is not at either end. V is to the left of P. Which arrangement satisfies all the conditions?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Physics",
-        "Economics",
-        "Chemistry",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize </font><font color=\"#0000ff\">in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Economic </font><font color=\"#0000ff\">Sciences in Memory of Alfred Nobel was jointly awarded to </font><span style=\"background-color: rgb(255, 255, 0);\">American </span><font color=\"#0000ff\">economists</font> Robert E. Hall and Michael Woodford. <font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which death anniversary of Shaheed-e-Millat, Khan Liaquat Ali Khan, observed on 16 October 2026?",
-      "urdu": "سولہ اکتوبر 2026 کو شہیدِ ملت خان لیاقت علی خان کی کون سی برسی منائی گئی؟",
-      "options": [
-        "73rd",
-        "75th",
-        "72rd",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-size: 16px;\"><b style=\"\"><font color=\"#0000ff\">The </font><span style=\"background-color: rgb(255, 255, 0);\">75th</span> <font color=\"#0000ff\">death anniversary of Shaheed-e-Millat Khan </font><font color=\"#ff0000\">Liaquat Ali Khan</font><font color=\"#0000ff\"> is observed on </font>16 October 2026.</b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the theme of World Food Day 2026?",
-      "urdu": "عالمی یومِ خوراک 2026 کا موضوع کیا ہے؟",
-      "options": [
-        "Right to foods for a better life",
-        "Our actions are our future",
-        "Innovate Today. Nourish Tomorrow",
+        "P Q V S R U T",
+        "V S P Q R T U",
+        "V P Q S R U T",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></span></p>",
+      "explanation": "<p><font color=\"#0000ff\"><b>Conditions:</b></font></p>",
       "category": "all"
     },
     {
-      "q": "Which organization awarded the 2026 Nobel Prize in Literature?",
-      "urdu": "کس تنظیم نے ادب کا 2026 کا نوبل انعام دیا؟",
+      "q": "The primary purpose of an AED is to?",
+      "urdu": "اے ای ڈی کا بنیادی مقصد کیا ہے؟",
       "options": [
-        "Norwegian Nobel Committee",
-        "Swedish Academy",
-        "Royal Society",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many American economists share  the 2026 Nobel Prize in Economic Sciences?",
-      "urdu": "کتنے امریکی ماہرینِ معاشیات 2026 کا نوبل انعام برائے معاشیات مشترکہ طور پر حاصل کر رہے ہیں؟",
-      "options": [
-        "Two",
-        "Three",
-        "Four",
+        "Analyze cardiac rhythm and deliver a shock when indicated",
+        "Measure blood pressure",
+        "Measure oxygen saturation",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">2026 Nobel Prize </font><font color=\"#0000ff\">in </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Economic </font><font color=\"#0000ff\">Sciences in Memory of Alfred Nobel was jointly awarded to </font><span style=\"background-color: rgb(255, 255, 0);\">American </span><font color=\"#0000ff\">economists</font> Robert E. Hall and Michael Woodford. <font color=\"#0000ff\"><o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who attended the European Union (EU) summit in October 2026 in Brussels, Belgium as President of Ukraine?",
-      "urdu": "اکتوبر 2026 میں برسلز، بیلجیم میں ہونے والی یورپی یونین سربراہی کانفرنس میں یوکرین کے صدر کی حیثیت سے کس نے شرکت کی؟",
-      "options": [
-        "Donald Tusk",
-        "Volodymyr Zelenskyy",
-        "Emmanuel Macron",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">European Union (EU</font><font color=\"#0000ff\">) summit held in </font>Brussels, Belgium<font color=\"#0000ff\">, on </font><font color=\"#ff00ff\">15–16 October 2026</font><font color=\"#0000ff\"> included </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukrainian President Volodymyr Zelenskyy</font><font color=\"#0000ff\">.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which city was the EU summit held on 15–16 October 2026?",
-      "urdu": "پندرہ سے 16 اکتوبر 2026 تک یورپی یونین  کا سربراہی اجلاس کس شہر میں منعقد ہوا؟",
-      "options": [
-        "Brussels",
-        "Geneva",
-        "Paris",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">European Union (EU</font><font color=\"#0000ff\">) summit held in </font>Brussels, Belgium<font color=\"#0000ff\">, on </font><font color=\"#ff00ff\">15–16 October 2026</font><font color=\"#0000ff\"> included </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukrainian President Volodymyr Zelenskyy</font><font color=\"#0000ff\">.<o:p></o:p></font></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where did the EU summit attended by Ukrainian President Volodymyr Zelenskyy take place in 2026?",
-      "urdu": "دو ہزار چھبیس میں یورپی یونین کا وہ سربراہی اجلاس کہاں منعقد ہوا جس میں یوکرینی صدر ولادیمیر زیلنسکی نے شرکت کی؟",
-      "options": [
-        "Paris",
-        "Brussels",
-        "Rome",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">The </font><font color=\"#ff0000\">European Union (EU</font><font color=\"#0000ff\">) summit held in </font>Brussels, Belgium<font color=\"#0000ff\">,\r\non </font><font color=\"#ff00ff\">15–16 October 2026</font><font color=\"#0000ff\"> included </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Ukrainian President Volodymyr Zelenskyy</font><font color=\"#0000ff\">.<o:p></o:p></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A tractor brake works on the principle of?",
-      "urdu": "ٹریکٹر کا بریک کس اصول کے تحت کام کرتا ہے؟",
-      "options": [
-        "Inertia",
-        "Torque",
-        "Friction",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "On which date is World Food Day observed?",
-      "urdu": "عالمی یوم خوراک کس تاریخ کو منایا جاتا ہے؟",
-      "options": [
-        "October 18",
-        "October 14",
-        "October 16",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Vapour pressure produced during steam is?",
-      "urdu": "بھاپ بننے کے دوران پیدا ہونے والے بخارات کو کیا کہتے ہیں؟",
-      "options": [
-        "Dry air",
-        "Superheated vapour",
-        "Saturated vapour",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Power at pump (input to pump shaft) is?",
-      "urdu": "پمپ کے شافٹ کو فراہم کی جانے والی طاقت کو کیا کہتے ہیں؟",
-      "options": [
-        "Drawbar horsepower",
-        "Water horsepower",
-        "Shaft horsepower",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Discharge of a well per unit drawdown is called?",
-      "urdu": "کنویں کے ڈرا ڈاؤن کی فی اکائی کے مقابلے میں خارج ہونے والے پانی کی مقدار کو کیا کہتے ہیں؟",
-      "options": [
-        "Well capacity",
-        "Well efficiency",
-        "Specific capacity of well",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a septic tank, decomposition of organic matter is carried out by?",
-      "urdu": "سیپٹک ٹینک میں نامیاتی مادّوں کو گلانے سڑانے کا عمل کون سے بیکٹیریا انجام دیتے ہیں؟",
-      "options": [
-        "Aerobic bacteria",
-        "Anaerobic bacteria",
-        "Both A and B",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the length of a rectangular weir is equal to the width of the channel, that type of weir is called?",
-      "urdu": "اگر مستطیل ویئر کی لمبائی چینل کی چوڑائی کے برابر ہو، تو اسے کس قسم کا ویئر کہتے ہیں؟",
-      "options": [
-        "Broad-crested weir",
-        "Suppressed weir",
-        "Contracted weir",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which crop has low seed storage capacity?",
-      "urdu": "کس فصل کے بیجوں کو ذخیرہ کرنے کی صلاحیت کم ہوتی ہے؟",
-      "options": [
-        "Cucurbit",
-        "Onion",
-        "Lettuce",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The suitable pH range for plant tissue culture is approximately?",
-      "urdu": "پودوں کے ٹشو کلچر کے لیے موزوں پی ایچ کی حد تقریباً کتنی ہے؟",
-      "options": [
-        "7.5–8.5",
-        "3.5–4.5",
-        "5.8–6.5",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The man-hours required for dibbling are approximately?",
-      "urdu": "ڈبّلنگ کے لیے تقریباً کتنے افرادی گھنٹے درکار ہوتے ہیں؟",
-      "options": [
-        "150–200 man-hours",
-        "200–250 man-hours",
-        "250–300 man-hours",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The base period of a crop is generally?",
-      "urdu": "فصل کی بیس پیریڈ عموماً فصل کی مدت کے مقابلے میں کیسی ہوتی ہے؟",
-      "options": [
-        "Unrelated to the crop period",
-        "Less than the crop period",
-        "Equal to the crop period",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The number of spark plugs needed in a diesel engine is ______?",
-      "urdu": "ڈیزل انجن میں اسپارک پلگ کی کتنی ضرورت ہے؟",
-      "options": [
-        "Zero",
-        "1",
-        "2",
-        "4"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "According to PARC, Pakistan is divided into?",
-      "urdu": "پاکستان ایگریکلچر ریسرچ کونسل کے مطابق پاکستان کو کتنے ماحولیاتی زرعی علاقوں میں تقسیم کیا گیا ہے؟",
-      "options": [
-        "10 ecological zones",
-        "12 ecological zones",
-        "15 ecological zones",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The smallest unit in an experiment is called?",
-      "urdu": "تجربے میں سب سے چھوٹی اکائی کو کیا کہتے ہیں؟",
-      "options": [
-        "Treatment",
-        "Sample",
-        "Experimental unit",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An auger in the metering mechanism is related to?",
-      "urdu": "میٹرنگ میکانزم میں اوجر کس زرعی آلے سے متعلق ہے؟",
-      "options": [
-        "Fertilizer applicator",
-        "Seed drill",
-        "Planter",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A rise of 10 Kelvin is equal to?",
-      "urdu": "درجۂ حرارت میں 10 کیلون کا اضافہ کتنے ڈگری سیلسیس کے اضافے کے برابر ہے؟",
-      "options": [
-        "283°C increase",
-        "273°C increase",
-        "10°C increase",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change in length divided by original/total length is called?",
-      "urdu": "لمبائی میں تبدیلی کو اصل لمبائی سے تقسیم کرنے کو کیا کہتے ہیں؟",
-      "options": [
-        "Elasticity",
-        "Stress",
-        "Strain",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Phosphorus is mainly lost/affected in soil due to?",
-      "urdu": "مٹی میں فاسفورس بنیادی طور پر کس عمل کی وجہ سے غیر دستیاب ہو جاتا ہے؟",
-      "options": [
-        "Denitrification",
-        "Leaching",
-        "Fixation in soil",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which one has a lower rate/degree of photoperiodism (photorespiration)?",
-      "urdu": "درج ذیل میں سے کس پودے میں فوٹو ریسپیریشن کی شرح کم ہوتی ہے؟",
-      "options": [
-        "Rice",
-        "Cactus",
-        "Wheat",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Fruits and vegetables contain relatively low amounts of?",
-      "urdu": "پھلوں اور سبزیوں میں نسبتاً کم مقدار میں کون سا غذائی جز پایا جاتا ہے؟",
-      "options": [
-        "Lipids",
-        "Carbohydrates",
-        "Proteins",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is NOT a water-soluble vitamin? Vitamin B, Vitamin C, Vitamin K, Vitamin A",
-      "urdu": "درج ذیل میں سے کون سے وٹامن پانی میں حل پذیر نہیں ہیں؟",
-      "options": [
-        "Vitamin B",
-        "Vitamin C",
-        "Vitamin K",
-        "Vitamin A",
-        "Both C and D"
-      ],
-      "correct": 4,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
       "category": "all"
     }
   ]
