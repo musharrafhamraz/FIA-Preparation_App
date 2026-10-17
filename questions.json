@@ -3,10 +3,283 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-16T21:48:11.927303",
+    "fetched_at": "2026-10-17T05:19:36.733335",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "How many basic pillars of Islam are there?",
+      "urdu": "اسلام کے بنیادی ارکان کتنے ہیں؟",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "correct": 2,
+      "explanation": "<p><font face=\"Helvetica\"><font color=\"#0000ff\" style=\"\">There are </font><font color=\"#ff0000\" style=\"\">five pillars </font><font color=\"#0000ff\" style=\"\">of Islam:</font></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A trapezoidal channel (n = 0.013, side slope 1V:2H, bottom width 3 m) carries 17 m³/s. Discharge in litres per second is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "17000 L/s",
+        "18000 L/s",
+        "19000 L/s",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">17 m3/s = 17 x 1000 = </font><font color=\"#ff0000\">17000 litres/sec</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which chemical compound can be used for de-chlorination of water?",
+      "urdu": "پانی سے کلورین ختم کرنے کے لیے کون سا کیمیائی مرکب استعمال کیا جا سکتا ہے؟",
+      "options": [
+        "Sulphur dioxide",
+        "Carbon dioxide",
+        "Bleaching powder",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Field capacity of soil depends upon?",
+      "urdu": "مٹی کی فیلڈ کیپیسٹی کن عوامل پر منحصر ہوتی ہے؟",
+      "options": [
+        "Porosity",
+        "Capillary tension",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Thiessen weights of 5 gauges are 0.10, 0.16, 0.12, 0.11, 0.09 and rainfall is 132, 114, 162, 138, 207 mm. Average depth of rainfall is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "64.69",
+        "74.69",
+        "84.69",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A line joining the center of rivets and parallel to the plate is called?",
+      "urdu": "رِوٹس کے مراکز کو ملانے والی اور پلیٹ کے متوازی جانے والی لائن کو کیا کہتے ہیں؟",
+      "options": [
+        "Marginal pitch",
+        "Gauge line",
+        "Back pitch",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Thermophilic organisms show best?",
+      "urdu": "تھرموفیلک جاندار کس درجۂ حرارت پر بہترین نشوونما کرتے ہیں؟",
+      "options": [
+        "Below 45°C",
+        "Above 45°C",
+        "25°C",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Moisture between FC and PWP is called?",
+      "urdu": "فیلڈ کیپیسٹی اور مستقل مرجھانے کے نقطے کے درمیان موجود نمی کو کیا کہتے ہیں؟",
+      "options": [
+        "Unavailable water",
+        "Gravitational water",
+        "Available water",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Confined aquifer pressure is?",
+      "urdu": "محصور آبی تہہ میں پانی کا دباؤ فضائی دباؤ کے مقابلے میں کیسا ہوتا ہے؟",
+      "options": [
+        "Equal atmospheric",
+        "Below atmospheric",
+        "Above atmospheric",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Identification of nucleotides (their order) is done by?",
+      "urdu": "نیوکلیوٹائڈز کی ترتیب معلوم کرنے کے لیے کون سی تکنیک استعمال کی جاتی ہے؟",
+      "options": [
+        "Gel electrophoresis",
+        "DNA sequencing",
+        "Denaturation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Boron (hot-water soluble, after heat treatment) critical level is about?",
+      "urdu": "مٹی میں گرم پانی میں حل پذیر بوران کی اہم حد تقریباً کتنی ہوتی ہے؟",
+      "options": [
+        "5 ppm",
+        "0.5 ppm",
+        "2 ppm",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which is not the remedial solution for waterlogging? Conjunctive use of water basin, Lining of canal and water resources, Consumptive use of water, Counter adjacent",
+      "urdu": "آبی دلدلی کیفیت کو دور کرنے کا کون سا طریقہ نہیں ہے؟",
+      "options": [
+        "Conjunctive use of water basin",
+        "Lining of canal and water resources",
+        "Consumptive use of water",
+        "Counter adjacent"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Effective</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">remedial</font><font color=\"#0000ff\"> measures include:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sugarcane production per hectare is?",
+      "urdu": "گنے کی فی ہیکٹر پیداوار کتنی ہوتی ہے؟",
+      "options": [
+        "25–35 tonnes",
+        "40–50 tonnes",
+        "60–70 tonnes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Movement of the inlet and outlet valves is because of?",
+      "urdu": "انجن کے ان لیٹ اور آؤٹ لیٹ والوز کی حرکت کس حصے کی وجہ سے ہوتی ہے؟",
+      "options": [
+        "Flywheel",
+        "Crankshaft",
+        "Camshaft",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Rotation movement of the piston is due to the help of?",
+      "urdu": "پسٹن کی آگے پیچھے حرکت کو گھومنے والی حرکت میں تبدیل کرنے کے لیے کس حصے کی مدد لی جاتی ہے؟",
+      "options": [
+        "Rotational Arm",
+        "Crankshaft",
+        "Camshaft",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A treatment applied on a small unit is?",
+      "urdu": "تجربے میں وہ چھوٹی اکائی جس پر کوئی ٹریٹمنٹ لاگو کیا جاتا ہے، کیا کہلاتی ہے؟",
+      "options": [
+        "Experimental unit",
+        "Factor",
+        "Sample",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When the water level (head) is less than 5 times the orifice diameter, the orifice is?",
+      "urdu": "جب پانی کی سطح سے ہیڈ، آریفِس کے قطر سے پانچ گنا کم ہو، تو آریفِس کو کیا کہتے ہیں؟",
+      "options": [
+        "Bell-mouthed orifice",
+        "Submerged orifice",
+        "Large orifice",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The best and most accurate method to estimate the average depth of precipitation is?",
+      "urdu": "کسی آبی حوض میں بارش کی اوسط گہرائی معلوم کرنے کا بہترین اور سب سے درست طریقہ کون سا ہے؟",
+      "options": [
+        "Hypsometric Method",
+        "Isohyetal Method",
+        "Thiessen Polygon",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Tissue culture technique used to grow disease-free plants is?",
+      "urdu": "بیماریوں سے پاک پودے اگانے کے لیے ٹشو کلچر کی کون سی تکنیک استعمال ہوتی ہے؟",
+      "options": [
+        "Embryo culture",
+        "Meristem culture",
+        "Anther culture",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Rear wheels, if attached to a disc plough, are used to?",
+      "urdu": "ڈسک پلو کے ساتھ لگے ہوئے پچھلے پہیے کا استعمال کس مقصد کے لیے کیا جاتا ہے؟",
+      "options": [
+        "Increase speed",
+        "Control side draft",
+        "Control depth of cut",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Primary tillage is done to?",
+      "urdu": "بنیادی جوتائی کس مقصد کے لیے کی جاتی ہے؟",
+      "options": [
+        "Rearrange soil aggregates",
+        "Reduce soil strength",
+        "Cover plant material",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Robert Ernest Hall and Michael Woodford from the US have jointly been awarded the 2026 Nobel Prize in which category?",
       "urdu": "امریکہ سے تعلق رکھنے والے رابرٹ ارنسٹ ہال اور مائیکل ووڈفورڈ کو مشترکہ طور پر کس شعبے میں 2026 کا نوبل انعام دیا گیا ہے؟",
@@ -383,279 +656,6 @@
       ],
       "correct": 4,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A current meter is used to measure the?",
-      "urdu": "کرنٹ میٹر کس چیز کی پیمائش کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Discharge",
-        "Velocity of flow of water",
-        "Depth of flow of water",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Water held in soil pores by surface tension is called?",
-      "urdu": "مٹی کے مساموں میں سطحی تناؤ کی وجہ سے رکا ہوا پانی کیا کہلاتا ہے؟",
-      "options": [
-        "Capillary water",
-        "Gravitational water",
-        "Hygroscopic water",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Field capacity is?",
-      "urdu": "فیلڈ کیپیسٹی کیا ہے؟",
-      "options": [
-        "Water held at full saturation",
-        "Water held at permanent wilting point",
-        "Water retained after gravitational water has drained",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Plant-available water is mainly?",
-      "urdu": "پودوں کے لیے دستیاب پانی بنیادی طور پر کون سا ہوتا ہے؟",
-      "options": [
-        "Gravitational water",
-        "Capillary water",
-        "Hygroscopic water",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "When agricultural demand decreases, overall production generally?",
-      "urdu": "جب زرعی طلب کم ہوتی ہے تو مجموعی پیداوار پر عموماً کیا اثر پڑتا ہے؟",
-      "options": [
-        "Increases",
-        "Decreases",
-        "Remains the same",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Implements used for hard soil having large tines are associated with?",
-      "urdu": "سخت زمین میں استعمال ہونے والے بڑے دندانے والے زرعی آلات کس سے متعلق ہیں؟",
-      "options": [
-        "Subsoiler",
-        "Chisel plough",
-        "Disc harrow",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Surface tension with increasing temperature?",
-      "urdu": "درجۂ حرارت بڑھنے سے سطحی تناؤ پر کیا اثر پڑتا ہے؟",
-      "options": [
-        "Decreases",
-        "Increases",
-        "First increases then decreases",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Loose smut of wheat is a _______-borne disease.",
-      "urdu": "گندم کی لوز سمٹ بیماری کس ذریعے سے پھیلتی ہے؟",
-      "options": [
-        "Water",
-        "Seed",
-        "Soil",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An agroforestry-based industry is?",
-      "urdu": "زرعی جنگلات پر مبنی صنعت کون سی ہے؟",
-      "options": [
-        "Textile",
-        "Furniture",
-        "Construction",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Denitrification is a?",
-      "urdu": "ڈینیٹریفیکیشن کس قسم کا عمل ہے؟",
-      "options": [
-        "Hydrolysis",
-        "Oxidation",
-        "Reduction",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sodicity of soil is treated with?",
-      "urdu": "زمین کی سوڈیسٹی کا علاج کس طریقے سے کیا جاتا ہے؟",
-      "options": [
-        "Gypsum",
-        "Leaching",
-        "Both (Gypsum followed by Leaching)",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Blind hoeing is done in?",
-      "urdu": "بلائنڈ ہوئنگ کس فصل میں کی جاتی ہے؟",
-      "options": [
-        "Sugarcane",
-        "Cotton",
-        "Rice",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prunus armeniaca is the scientific name of?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Pear",
-        "Plum",
-        "Apricot",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ginger is a _____?",
-      "urdu": "ادرک پودے کا کون سا حصہ ہے؟",
-      "options": [
-        "Leaf",
-        "Stem (Rhizome)",
-        "Root",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Olericulture is the study dealing with ______?",
-      "urdu": "اولی کلچرکس کا مطالعہ ہے جس سے نمٹا جاتا ہے۔",
-      "options": [
-        "Vegetable production",
-        "Fruits production",
-        "Wheat production",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><ul></ul></p>",
-      "category": "all"
-    },
-    {
-      "q": "Study of fruit is called ______?",
-      "urdu": "پھلوں کے مطالعہ کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Sericulture",
-        "Pomology",
-        "Apiculture",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 31-01-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A subsoiler is used for?",
-      "urdu": "سب سوائلر کس مقصد کے لیے استعمال ہوتا ہے؟",
-      "options": [
-        "Zero tillage",
-        "Primary tillage",
-        "Secondary tillage",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Soil particles deposited by water are called?",
-      "urdu": "پانی کے ذریعے جمع ہونے والے مٹی کے ذرات کو کیا کہتے ہیں؟",
-      "options": [
-        "Colluvial deposits",
-        "Alluvial deposits",
-        "Aeolian deposits",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Water required for plant metabolic activities and evapotranspiration is called?",
-      "urdu": "پودوں کی میٹابولک سرگرمیوں اور تبخیر و نتح کے لیے درکار پانی کو کیا کہتے ہیں؟",
-      "options": [
-        "Net irrigation requirement",
-        "Irrigation water requirement",
-        "Consumptive water use",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The point at which actual vapour pressure becomes equal to saturated vapour pressure is called?",
-      "urdu": "وہ درجۂ حرارت کیا کہلاتا ہے جس پر حقیقی بخارات کا دباؤ، سیر شدہ بخارات کے دباؤ کے برابر ہو جاتا ہے؟",
-      "options": [
-        "Dry bulb temperature",
-        "Dew point temperature",
-        "Wet bulb temperature",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 16-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Amino acids are building blocks of ______?",
-      "urdu": "امینو ایسڈز کس چیز کے بنیادی اجزاء ہیں؟",
-      "options": [
-        "Nucleic acids",
-        "Protein",
-        "Vitamins",
-        "Lipid"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Verified &amp; Updated</b></font></p>",
       "category": "all"
     }
   ]
