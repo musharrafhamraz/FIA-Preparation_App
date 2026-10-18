@@ -3,10 +3,36 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-18T11:54:08.435915",
+    "fetched_at": "2026-10-18T16:19:17.351994",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which anniversary of tragic Karsaz incident observed on 18th October 2026?",
+      "urdu": "اٹھارہ اکتوبر 2026 کو کارساز کے المناک واقعے کی کونسی برسی منائی گئی؟",
+      "options": [
+        "19th",
+        "18th",
+        "17th",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><span lang=\"EN-US\" style=\"\"><b><font color=\"#0000ff\">The Pakistan Peoples Party (<span style=\"background-color: rgb(255, 255, 0);\">PPP</span>) is set to\r\ncommemorate on <span style=\"background-color: rgb(255, 255, 0);\">18 October 2026 </span>the <span style=\"background-color: rgb(255, 255, 0);\">19th </span>anniversary of the tragic Karsaz tragedy.\r\n<o:p></o:p></font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "In an A.P a=3, d=6, n=9, Tn= ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "48",
+        "51",
+        "-51",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
     {
       "q": "وہ اسم جو کسی جاندار یا بے جان کی آواز کو ظاہر کرے، کیا کہلاتا ہے؟",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -629,32 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A conscious adult is choking and cannot speak or cough effectively. What should the first-aid provider do?",
-      "urdu": "ایک ہوش مند بالغ شخص کے گلے میں کوئی چیز پھنس گئی ہے اور وہ مؤثر طریقے سے بول یا کھانس نہیں سکتا۔ ابتدائی طبی امداد فراہم کرنے والے کو کیا کرنا چاہیے؟",
-      "options": [
-        "A back massage only",
-        "Oral fluids",
-        "Appropriate choking first aid, including abdominal thrusts where indicated",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A paramedic receives conflicting information about a patient's condition. What should the paramedic do?",
-      "urdu": "اگر پیرامیڈک کو مریض کی حالت کے بارے میں متضاد معلومات ملیں تو اسے کیا کرنا چاہیے؟",
-      "options": [
-        "Verify the information before making an important decision",
-        "Accept the information from the most senior person without checking",
-        "Wait until the patient's condition changes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 17-10-2026</font></b></p>",
       "category": "all"
     }
   ]
