@@ -3,10 +3,62 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-19T14:14:22.151407",
+    "fetched_at": "2026-10-19T18:56:47.180536",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which number of anniversary of United Nations Organizations (UNO) celebrated on 24 October 2026?",
+      "urdu": "چوبیس اکتوبر 2026 کو اقوام متحدہ کی کون سی سالگرہ منائی جائے گی؟",
+      "options": [
+        "80th",
+        "81st",
+        "78th",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255);\">The World Celebrated </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">81st </b><b style=\"color: rgb(0, 0, 255);\">anniversary of United Nations on </b><b style=\"\"><span style=\"color: rgb(255, 0, 255);\">24 October 2026.</span><span style=\"color: rgb(0, 0, 255);\"><o:p></o:p></span></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The economic policy proposed by the ministry is preferable to the alternative suggested by the opposition., The diplomat remarked that the treaty was superior than any bilateral agreement signed in the previous decade., Prior to the ratification of the charter, member states engaged in extensive multilateral consultations., She is senior to all other magistrates currently serving on the regional appellate bench.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The economic policy proposed by the ministry is preferable to the alternative suggested by the opposition.",
+        "The diplomat remarked that the treaty was superior than any bilateral agreement signed in the previous decade.",
+        "Prior to the ratification of the charter, member states engaged in extensive multilateral consultations.",
+        "She is senior to all other magistrates currently serving on the regional appellate bench."
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The research team has published their findings regarding atmospheric microplastics in a peer-reviewed journal., The quantum physicist explained that the particle's momentum could not be measured without altering its trajectory., Neither the principal investigator nor the data analysts were capable of explaining the statistical anomaly., Higher temperatures and increased humidity affect the rate at which enzymes catalyze cellular reactions.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The research team has published their findings regarding atmospheric microplastics in a peer-reviewed journal.",
+        "The quantum physicist explained that the particle's momentum could not be measured without altering its trajectory.",
+        "Neither the principal investigator nor the data analysts were capable of explaining the statistical anomaly.",
+        "Higher temperatures and increased humidity affect the rate at which enzymes catalyze cellular reactions."
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the Grammatically Correct Sentence: The envoy, as well as his technical advisors, have been detained at the border control checkpoint., The envoy, as well as his technical advisors, was detained at the border control checkpoint., The envoy, as well as his technical advisors, are detained at the border control checkpoint., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The envoy, as well as his technical advisors, have been detained at the border control checkpoint.",
+        "The envoy, as well as his technical advisors, was detained at the border control checkpoint.",
+        "The envoy, as well as his technical advisors, are detained at the border control checkpoint.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Choose the Grammatically Correct Sentence: Hardly had the economic summit convened than news of the border skirmish broke out., Hardly had the economic summit convened when news of the border skirmish broke out., Hardly did the economic summit convene than news of the border skirmish broke out., None of these",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -385,19 +437,6 @@
       "category": "all"
     },
     {
-      "q": "پاکستان کی سپریم کورٹ نے 8 ستمبر 2015 کو اردو کو سرکاری زبان کے طور پر نافذ کرنے کا فیصلہ کیا، مندرجہ ذیل میں سے کون سا ایک فیصلہ میں شامل ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "وفاقی اور صوبائی سطحوں پر تمام قوانین، نوٹیفکیشز، اور دفتری خطوط کا اردو میں ترجمہ فوری کرنے کا حکم",
-        "وفاقی اور صوبائی سطحوں پر تمام قوانین، ضابطے، تشریحات، دستخطی اور خطوط کا اردو میں ترجمہ فوری کرنے کا حکم",
-        "صدر اور وزیراعظم کے لیے اردو میں تقریر لازم قرار دینا",
-        "یہ تمام نکات"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">آئینی بنیاد </font><font color=\"#ff0000\">آرٹیکل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">251</font><font color=\"#0000ff\"> ہے، جو </font><font color=\"#ff0000\">اردو</font><font color=\"#0000ff\"> کو پاکستان کی </font><font color=\"#ff0000\">قومی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">زبان</font><font color=\"#0000ff\"> قرار دیتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
       "q": "The principle of Shura is best applied in administration when a leader?",
       "urdu": "انتظامی امور میں شوریٰ کے اصول کا بہترین اطلاق اس وقت ہوتا ہے جب کوئی رہنما ______؟",
       "options": [
@@ -611,45 +650,6 @@
         "Zulhajj 9 to 12",
         "Zulhajj 9 to 11",
         "Zulhajj 8 to 12",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A Pakistani humanitarian organisation uses unrestricted non-Zakat relief funds to distribute emergency assistance overseas according to verified need, without differentiating recipients by ethnicity or religion. Which principle of Islamic global engagement is best reflected?",
-      "urdu": "ایک پاکستانی انسانی ہمدردی کی تنظیم زکوٰۃ کے علاوہ غیر مشروط امدادی فنڈز استعمال کرتے ہوئے بیرونِ ملک مستحق افراد کو تصدیق شدہ ضرورت کے مطابق ہنگامی امداد فراہم کرتی ہے، بغیر کسی نسلی یا مذہبی امتیاز کے۔ اسلامی عالمی تعلقات کا کون سا اصول اس عمل کی بہترین عکاسی کرتا ہے؟",
-      "options": [
-        "Reciprocal benefit should determine the scope of humanitarian assistance",
-        "Human welfare may be pursued through impartial need-based assistance",
-        "Cultural affinity should determine the distribution of external relief",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The four fundamental sources of Islamic law are?",
-      "urdu": "اسلامی قانون کے چار بنیادی مصادر کون سے ہیں؟",
-      "options": [
-        "Sunnah, Custom, Language, and History",
-        "Ijma, Istishab, Custom, and Politics",
-        "The Qur’an, Sunnah, Ijma‘, and Qiyas",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">There are </font><font color=\"#ff0000\">four fundamental sources of Islamic</font><font color=\"#0000ff\"> law:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In Islamic thought, the principal distinction between Deen and a narrowly understood concept of religion is that Deen ______?",
-      "urdu": "اسلامی فکر میں دین اور مذہب کے محدود تصور کے درمیان بنیادی فرق یہ ہے کہ دین ______؟",
-      "options": [
-        "Regulates worship while leaving conduct unrestricted",
-        "Operates only within specifically religious institutions",
-        "Provides guidance for individual and collective life together",
         "None of these"
       ],
       "correct": 2,
