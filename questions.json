@@ -3,10 +3,608 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-20T05:39:39.317329",
+    "fetched_at": "2026-10-20T12:28:18.327456",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Two angles of a triangle measure 15° and 85°. What is the measure for the third angle?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "80",
+        "90",
+        "100",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Sum of all 3 angles = 180°</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Exactly four students are to attend a workshop. They are to be chosen from a group of seven eligible students: three boys F, G, H and four girls J, K, M, and N. The four are to be chosen according to the following conditions? (i) If either G or H attends the workshop, then other must also attend. (ii) J and K cannot both attend the workshop. (iii) G and M cannot both attend the workshop. Which of the following could be the group attending the workshop?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "G, J, M, N",
+        "F, G, H, M",
+        "F, K, M, N",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Check all 3 against the rules:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Every record cleared by Unit X carries a digital signature. A particular record has no digital signature. Which conclusion is valid?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "It must carry a paper signature.",
+        "It was not cleared by Unit X.",
+        "It was rejected by every unit.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The statement means: If Unit X clears a record, that record has a digital signature.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Sarah is twice as old as her youngest brother. If the difference between their ages is 15 years, how old is her youngest brother?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15",
+        "20",
+        "25",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let youngest brother = x</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Six folders A, B, C, D, E and F are arranged in a row. A is before D, C is immediately after B, and F is before B. Which statement must be true?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "D must occur after C.",
+        "F occurs before C.",
+        "E must occur after A.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">C is immediately after B, so the order includes B → C.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The statement \"The archive remains locked whenever the custodian is absent\" is logically equivalent to which option?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "If the archive remains locked, the custodian is absent.",
+        "If the archive is unlocked, the custodian is absent.",
+        "If the archive is unlocked, the custodian is present.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">“Whenever the custodian is absent, the archive remains locked” means: If the custodian is absent, then the archive is locked.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Some trainers are assessors. All assessors are certified. No certified person is temporary. Which conclusion necessarily follows?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Some temporary persons are assessors.",
+        "No trainer can ever be temporary.",
+        "Some trainers are not temporary.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Some trainers are assessors, and all assessors are certified. Therefore, those trainers who are assessors are also certified.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Find the missing number in the sequence: 3, 7, 15, ______, 63, 127.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "31",
+        "32",
+        "33",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Pattern is x2 + 1</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the integer n? Statement I: n is strictly between 20 and 30. Statement II: n leaves a remainder of 2 when divided by 7. Which option correctly describes the information?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Only the pair is sufficient.",
+        "Only statement I is sufficient.",
+        "Only statement II is sufficient.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Statement I alone is insufficient: n could be any integer from 21 to 29.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On a map, 1 inch represents 20 miles. The distance between two towns is 6 1/5 inches. How many miles are actually between the two towns?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "124 miles",
+        "84 miles",
+        "138 miles",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">1 inch = 20 miles</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Applicants are shortlisted only if they score at least 70 and have two years of experience. An accredited certificate substitutes for one year of experience, but not for the score. A candidate scores 74, has one and a half years of experience, and holds the certificate. What is the correct decision?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Reject for insufficient experience.",
+        "Shortlist the candidate.",
+        "Reject for an insufficient score.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "1200 boys and 800 girls appeared in an examination. If 60% of the boys and 40% of the girls passed the examination, what is the percentage of candidates who failed in the examination?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "49%",
+        "48%",
+        "47%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Boys passed = 60% of 1200 = 720</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A manager argues that appointment slots will reduce queue congestion because arrivals will be distributed across the day. Which assumption is required?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Every listed service takes equal time.",
+        "Applicants keep assigned slots.",
+        "The premises have only one entrance.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">argument assumes</font><font color=\"#0000ff\"> that applicants arrive according</font><font color=\"#ff0000\"> to their assigned appointment slots</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A parking lot contains 160 vehicles. Each vehicle is either a car or a truck and each vehicle is either red or green. 70 vehicles are red and 120 vehicles are cars. If there are 18 green trucks, how many red cars are there?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "48",
+        "50",
+        "52",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Total vehicles = 160</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ratio of male and female students in a class is 27:23. If the difference between the number of male and female students is 200, then the number of female students is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1150",
+        "1350",
+        "1550",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">27 - 23 = 4 parts = 200</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a fruit seller buys bananas at Rs.100 per dozen and sells at Rs.140 per dozen, he earns the profit at?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "40%",
+        "30%",
+        "20%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Profit = 140 - 100 = 40</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the cost price of an item is Rs.1200 and sold at loss of 10%, what is the selling price?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1180",
+        "1280",
+        "1080",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">SP = CP × (100% - Loss%)</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a random sample of 80 records, 12 are incomplete. Using the sample proportion, how many incomplete records would be expected among 600 similar records?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "88",
+        "90",
+        "92",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Sample proportion = 12/80 = 0.15 = 15%</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Let A be the set of positive multiples of 2 below 12, and B the set of positive factors of 12. How many elements are in A ∩ B?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">A = {2,4,6,8,10}</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the cost price of 15 items is equal to the selling price of 10 items, what is the profit or loss percentage?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "50% loss",
+        "50% profit",
+        "33.33% loss",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">CP of 15 = SP of 10</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The ages of two brothers are in the ratio 3:1. If the sum of their ages is 32, what is the age of the younger brother?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">3x + x = 32</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is doubled and then decreased by 6. The result is 24. What is the original number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">2x - 6 = 24</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the sum of four consecutive numbers is 54, what is the smallest number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let smallest number = x</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the lowest form of the ratio 24:36?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "6:2",
+        "2:3",
+        "3:4",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">24:36 = both divided by 12</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "After a discount of 15%, an item costs Rs 3,400. What was its marked price?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs 4,100",
+        "Rs 4,200",
+        "Rs 4,000",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">After 15% discount, you pay 85%</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A vehicle covers 162 kilometres in 2 hours 15 minutes at a constant speed. What is its speed in kilometres per hour?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "70",
+        "72",
+        "74",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">2 hours 15 minutes = 2.25 hours</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The mean of six observations is 42. Five observations are 35, 39, 41, 46 and 50. What is the sixth observation?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "41",
+        "39",
+        "37",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Mean of 6 observations = 42</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "For which value of x does 3(x - 4) + 2 = 2x + 9?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "17",
+        "15",
+        "19",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">3(x - 4) + 2 = 2x + 9</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Among 120 candidates, 68 can use spreadsheet software, 52 can use presentation software, and 20 can use neither. How many can use both?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "24",
+        "22",
+        "20",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Total = 120</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a triangle, one angle is twice the smallest angle and the third angle is 30° greater than the smallest angle. What is the largest angle?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "70.0°",
+        "72.5°",
+        "75.0°",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Let smallest angle = x</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An allowance is increased by 20% and then reduced by 10% of the increased amount. What is the overall change from the original allowance?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "8% increase",
+        "4% increase",
+        "2% increase",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Six clerks can process 720 applications in eight hours at a constant individual rate. At the same rate, how many applications can five clerks process in six hours?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "440",
+        "450",
+        "460",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">6 clerks × 8 hours = 48 clerk-hours</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "An allocation for stationery and printing is divided in the ratio 3:5. If the printing share exceeds the stationery share by Rs 48,000, what is the total allocation?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs 192,000",
+        "Rs 204,000",
+        "Rs 216,000",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Ratio = Stationery : Printing = 3 : 5</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A processing unit completes 18, 22, 20 and 16 cases in its first four hours. How many cases must it complete in the fifth hour for the five-hour average to be 20?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "24",
+        "23",
+        "22",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">To get a 5-hour average of 20, you need a total of 100 cases.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Translation from Urdu to English: اس سے پہلے کہ معاہدے کی حتمی عبارت منظور کی جاتی، ماہرین نے ہر ایسی شق دوبارہ لکھی جس کے دو مختلف مفہوم نکل سکتے تھے۔",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Before approving the final agreement, every clause with two meanings had been rewritten by the experts.",
+        "Before the final wording was approved, the experts rewrote every potentially ambiguous clause.",
+        "The experts revised each ambiguous clause after the final wording of the agreement had been approved.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Translation from Urdu to English: خواہ پیمائشیں ایک ہی آلے سے کی گئی ہوں، اگر حالات یکساں نہ ہوں تو ان کا براہ راست موازنہ گمراہ کن ہو سکتا ہے۔",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Although one instrument may record all the measurements, unequal conditions can make every comparison unreliable.",
+        "Measurements taken with the same instrument can be compared directly, provided the conditions are recorded.",
+        "Even if taken with the same instrument, measurements may mislead when compared under unequal conditions.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Translation from Urdu to English: جو تبدیلی ابتدا میں معمولی سمجھی گئی وہ اس وقت اہم ثابت ہوئی جب دونوں سلسلوں کا الگ الگ تجزیہ کیا گیا۔",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "What had seemed a minor change proved significant when the two series were analysed separately.",
+        "The initially minor change was judged highly significant because both separate series were analysed independently.",
+        "A change regarded as minor proved significant only after one series was separated from the other.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Translation from Urdu to English: تحقیق کار نے یہ دعویٰ نہیں کیا کہ نمونہ نمائندہ تھا؛ اس نے صرف یہ کہا کہ نتائج ایک بڑے سروے کی ضرورت کی طرف اشارہ کرتے ہیں۔",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The researcher did not test whether the sample was representative; they stated instead that the findings themselves formed a broader survey.",
+        "The researcher claimed that the sample was unrepresentative and that the findings therefore required immediate confirmation through a larger survey.",
+        "The researcher made no claim that the sample was representative; they said only that the findings indicated a need for a larger survey.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Translation from Urdu to English: اگر مصنف نے اصطلاح کی تعریف ابتدا ہی میں کر دی ہوتی تو بعد کے ابواب میں پیدا ہونے والا ابہام بڑی حد تک ختم ہو ٹل تھا۔",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Had the author defined the term initially, much of the later ambiguity could have been avoided.",
+        "If the author had defined the term initially, the later chapters would have contained no ambiguity at all.",
+        "Had the term been defined at the outset, all ambiguity in later chapters might entirely have disappeared.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current Security Chief of Iran?",
+      "urdu": "ایران کا موجودہ سیکورٹی چیف کون ہے؟",
+      "options": [
+        "Mohsen Rezaei",
+        "Masoud Pezeshkian",
+        "Mohammad Bagher Zolghadr",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><img data-filename=\"1000425696.jpg\" src=\"data:image/jpeg;base64,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\" style=\"width: 230px;\"/><b><font color=\"#0000ff\"><br/></font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: To \"break a butterfly on a wheel\" is to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Punish an innocent person for another person's conduct.",
+        "Pursue beauty through needlessly elaborate and complex methods.",
+        "Use excessive force against a minor offence.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: To \"keep one's powder dry\" is to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Conceal one's intentions from every observer.",
+        "Withdraw from a conflict before it begins.",
+        "Remain prepared for a future contingency.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: To \"strain at a gnat and swallow a camel\" is to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Accept a minor fault while rejecting a far greater virtue.",
+        "Object to a trifle while tolerating a grave fault.",
+        "Exaggerate two separate faults until both seem equally serious.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Idiom: To \"beard the lion in his den\" is to?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Confront a powerful opponent in their own stronghold.",
+        "Avoid direct confrontation until reliable support finally arrives.",
+        "Enter a dispute without first understanding its underlying cause.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A Manager with no personal stake is described as ____, whereas a spectator who does not care is described as ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Disinterested / uninterested",
+        "Disinteresting / uninterested",
+        "Disinterested / disinteresting",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Group of Words: The account sounded ____; only a ____ reader, however, would accept it without corroboration.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Incredulous/creditable",
+        "Credible/credulous",
+        "Credulous/credible",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Pair of Words: The interviewer tried to ____ a response without referring to the ____ recording.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -57,604 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Grouping of Words: Scribe : Manuscript :: Potter : ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Vessel",
-        "Ink",
-        "Needle",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Grouping of Words: ____ : Oar :: Bicycle : Pedal.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Boat",
-        "Sailor",
-        "Harbour",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The apparatus appeared \"medieval\" beside the modern instruments. Which word most nearly matches that description?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Provisional",
-        "Antiquated",
-        "Anomalous",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Perfunctory is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cursory",
-        "Done superficially",
-        "Blunt",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Cogent is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Compelling",
-        "Convincing",
-        "Rouse",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">The Antonym of Cogent is </b><font color=\"#ff0000\"><b style=\"\">U</b><b style=\"\">nconvincing.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Synonym: The reviewer called the tone \"rebarbative\".",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Conciliatory",
-        "Repellent",
-        "Inaccessible",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym: The commentary was \"bias\", not.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Partisan",
-        "Impartial",
-        "Polemical",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym: The proposal was \"Nascent\" rather than.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Fully developed",
-        "Newly conceived",
-        "Partly tested",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonym: The envoy's response was \"pusillanimous\".",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Guarded",
-        "Evasive",
-        "Resolute",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antonyms: The surviving evidence was described as \"Scanty\".",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Abundant",
-        "Equivocal",
-        "Derivative",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The annotation is posterior ____ the watermark yet anterior ____ the rebinding.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To / than",
-        "Than / to",
-        "To / to",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The reader must distinguish an inference drawn ____ context from a meaning imposed ____ the text.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "With / into",
-        "From / upon",
-        "By / over",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The inscription was copied ____ hand and then checked ____ the surviving rubbing.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In / beside",
-        "By / against",
-        "From / to",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Her account is at variance ____ the earlier testimony but entirely consonant ____ the surviving notes.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Against / to",
-        "With / with",
-        "From / by",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The substitute chart was accepted ____ lieu of the damaged original and retained ____ future reference.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In / for",
-        "At / to",
-        "On / with",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: Ten million dollars was allocated by the cabinet for the urgent restoration of the historic heritage site., Two-thirds of the parliamentary committee members were present during the voting on the intelligence bill., A series of high-level diplomatic symposiums were organized to address cross-border water sharing., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ten million dollars was allocated by the cabinet for the urgent restoration of the historic heritage site.",
-        "Two-thirds of the parliamentary committee members were present during the voting on the intelligence bill.",
-        "A series of high-level diplomatic symposiums were organized to address cross-border water sharing.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The state bank has maintained a tight monetary policy since the global financial crisis began., Central banks are implementing aggressive quantitative easing measures since the past five fiscal quarters., The development agency has supported agricultural modernization projects in the region for a long time., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The state bank has maintained a tight monetary policy since the global financial crisis began.",
-        "Central banks are implementing aggressive quantitative easing measures since the past five fiscal quarters.",
-        "The development agency has supported agricultural modernization projects in the region for a long time.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The border security force prevented the unauthorized vessel to enter sovereign territorial waters., High court judges prohibited the media from broadcasting prejudiced commentary during trial proceedings., Environmental activists refrained from protesting outside the embassy during high-level trade talks., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The border security force prevented the unauthorized vessel to enter sovereign territorial waters.",
-        "High court judges prohibited the media from broadcasting prejudiced commentary during trial proceedings.",
-        "Environmental activists refrained from protesting outside the embassy during high-level trade talks.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which number of anniversary of United Nations Organizations (UNO) celebrated on 24 October 2026?",
-      "urdu": "چوبیس اکتوبر 2026 کو اقوام متحدہ کی کون سی سالگرہ منائی جائے گی؟",
-      "options": [
-        "80th",
-        "81st",
-        "78th",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p class=\"MsoNormal\"><b style=\"color: rgb(0, 0, 255);\">The World Celebrated </b><b style=\"color: rgb(0, 0, 255); background-color: rgb(255, 255, 0);\">81st </b><b style=\"color: rgb(0, 0, 255);\">anniversary of United Nations on </b><b style=\"\"><span style=\"color: rgb(255, 0, 255);\">24 October 2026.</span><span style=\"color: rgb(0, 0, 255);\"><o:p></o:p></span></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The economic policy proposed by the ministry is preferable to the alternative suggested by the opposition., The diplomat remarked that the treaty was superior than any bilateral agreement signed in the previous decade., Prior to the ratification of the charter, member states engaged in extensive multilateral consultations., She is senior to all other magistrates currently serving on the regional appellate bench.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The economic policy proposed by the ministry is preferable to the alternative suggested by the opposition.",
-        "The diplomat remarked that the treaty was superior than any bilateral agreement signed in the previous decade.",
-        "Prior to the ratification of the charter, member states engaged in extensive multilateral consultations.",
-        "She is senior to all other magistrates currently serving on the regional appellate bench."
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The research team has published their findings regarding atmospheric microplastics in a peer-reviewed journal., The quantum physicist explained that the particle's momentum could not be measured without altering its trajectory., Neither the principal investigator nor the data analysts were capable of explaining the statistical anomaly., Higher temperatures and increased humidity affect the rate at which enzymes catalyze cellular reactions.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The research team has published their findings regarding atmospheric microplastics in a peer-reviewed journal.",
-        "The quantum physicist explained that the particle's momentum could not be measured without altering its trajectory.",
-        "Neither the principal investigator nor the data analysts were capable of explaining the statistical anomaly.",
-        "Higher temperatures and increased humidity affect the rate at which enzymes catalyze cellular reactions."
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the Grammatically Correct Sentence: The envoy, as well as his technical advisors, have been detained at the border control checkpoint., The envoy, as well as his technical advisors, was detained at the border control checkpoint., The envoy, as well as his technical advisors, are detained at the border control checkpoint., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The envoy, as well as his technical advisors, have been detained at the border control checkpoint.",
-        "The envoy, as well as his technical advisors, was detained at the border control checkpoint.",
-        "The envoy, as well as his technical advisors, are detained at the border control checkpoint.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the Grammatically Correct Sentence: Hardly had the economic summit convened than news of the border skirmish broke out., Hardly had the economic summit convened when news of the border skirmish broke out., Hardly did the economic summit convene than news of the border skirmish broke out., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hardly had the economic summit convened than news of the border skirmish broke out.",
-        "Hardly had the economic summit convened when news of the border skirmish broke out.",
-        "Hardly did the economic summit convene than news of the border skirmish broke out.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the Grammatically Correct Sentence: The reason why the bilateral trade talk failed was that the delegation refused to compromise on tariffs., The reason the bilateral trade talk failed was due to the delegation refusing to compromise on tariffs., The reason why the bilateral trade talk failed was owing to the delegation's refusal to compromise on tariffs., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The reason why the bilateral trade talk failed was that the delegation refused to compromise on tariffs.",
-        "The reason the bilateral trade talk failed was due to the delegation refusing to compromise on tariffs.",
-        "The reason why the bilateral trade talk failed was owing to the delegation's refusal to compromise on tariffs.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the Grammatically Correct Sentence: Having examined the classified documents, it was decided by the magistrate to deliver the verdict without delay., Examining the classified documents, the verdict was delivered without delay by the magistrate., Having examined the classified documents, the magistrate delivered the verdict without delay., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Having examined the classified documents, it was decided by the magistrate to deliver the verdict without delay.",
-        "Examining the classified documents, the verdict was delivered without delay by the magistrate.",
-        "Having examined the classified documents, the magistrate delivered the verdict without delay.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the Grammatically Correct Sentence: Not only had the CEO suppressed the internal audit report, but he attempted to intimidate the whistleblower also., Not only did the CEO suppress the internal audit report, but he also attempted to intimidate the whistleblower., Not only the CEO suppressed the internal audit report, but he also attempted to intimidate the whistleblower., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Not only had the CEO suppressed the internal audit report, but he attempted to intimidate the whistleblower also.",
-        "Not only did the CEO suppress the internal audit report, but he also attempted to intimidate the whistleblower.",
-        "Not only the CEO suppressed the internal audit report, but he also attempted to intimidate the whistleblower.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The marginal signs are believed ____ after the volume was rebound.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To have been added",
-        "To have added themselves",
-        "To be having added",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What little correspondence survives from the expedition ____ that the route was abandoned abruptly.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Suggests",
-        "Suggest",
-        "Have suggested",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The labels were photographed before removal lest their original sequence ____ impossible to reconstruct.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Became",
-        "Become",
-        "Had become",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "By the time the discrepancy was noticed, the relevant figures ____ into three subsequent tables.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Have been copied",
-        "Were already copied",
-        "Had been copied",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Were the distinction merely terminological, it ____ how the clause is read today.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Would not affect",
-        "Will not have affected",
-        "Did not affect",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "درج ذیل اردو جملے کا درست انگریزی ترجمہ منتخب کریں: صوبائی تربیتی ادارے نے ہدایت دی کہ ہر شعبہ اپنی سہ ماہی رپورٹ ایسی زبان میں مرتب کرے جو اعداد و شمار کی درست تشریح بھی کرے اور غیر ضروری دعوؤں سے بھی گریز کرے۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The provincial training institute instructed each section to draft its quarterly report so that it merely presents the data accurately and avoids unnecessary claims.",
-        "The provincial training institute instructed each section to draft its quarterly report so that it briefly presents the data accurately and avoids unnecessary claims.",
-        "The provincial training institute instructed each section to draft its quarterly report so that it both interprets the data accurately and avoids unnecessary claims.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Correct sentence: </font><font color=\"#ff0000\">The provincial training institute instructed each section to draft its quarterly report so that it both interprets the data accurately and avoids unnecessary claims</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "درج ذیل اردو جملے کا درست انگریزی ترجمہ منتخب کریں: ریکارڈ  کی ڈیجیٹل نقل دستیاب ہونے کے باوجود، جانچ افسر نے اصل فائل دیکھے بغیر کوئی نتیجہ اخذ نہ کیا، کیونکہ معمولی اندراجی فرق بھی امیدوار کی اہلیت پر اثر ڈال سکتا تھا۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Although a digital copy of the record was available, the security officer drew no conclusion without checking the original file, because even minor entry discrepancy could effect the candidate's eligibility.",
-        "Although a digital copy of the record was available the security officer drew no conclusion without checking the original file, because even minor entry discrepancy could effect the candidate's eligibility",
-        "Although a digital copy of the record was available the security officer drew no conclusion without checking the original file. Because even minor entry discrepancy could effect the candidate's eligibility.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Correct sentence: </font><font color=\"#ff0000\">Although a digital copy of the record was available, the security officer drew no conclusion without checking the original file, because even minor entry discrepancy could effect the candidate's eligibility.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "ترکیبی فعل کے معاون جز \"لینا\" نے بنیادی طور پر کون سا مفہوم پیدا کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "عمل کے مسلسل جاری رہنے کا",
-        "عمل کے مکمل ہو جانے کا",
-        "عمل کے اچانک شروع ہونے کا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">عمل کے مکمل ہو جانے کا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "کون سا جملا ایسے عمل کو ظاہر کرتا ہے جو ماضی کے ایک دوسرے عمل سے پہلے ہو چکا تھا؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "محرر اجلاس سے پہلے خلاصہ لکھ چکا تھا۔",
-        "محرر اجلاس سے پہلے خلاصہ لکھ چکا ہے۔",
-        "محرر اجلاس سے پہلے خلاصہ لکھ رہا تھا۔",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">محرر اجلاس سے پہلے خلاصہ لکھ چکا تھا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "مہتر کا مؤنث کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مہتورانی",
-        "مہتاران",
-        "مہترانی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">مہتر</font><font color=\"#0000ff\"> ایک مذکر لفظ ہے، اور اس کا مؤنث \"</font><font color=\"#ff0000\">مہترانی</font><font color=\"#0000ff\">\" ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "درست جمع کا انتخاب کیجیے: قلب؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "قلوب",
-        "اسلوب",
-        "قالب",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">قلب</font><font color=\"#0000ff\"> کی جمع </font><font color=\"#ff0000\">قلوب</font><font color=\"#0000ff\"> ہے، جس کے معنی </font><font color=\"#ff0000\">دل</font><font color=\"#0000ff\"> ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "درست جمع کا انتخاب کیجیے: حاشیہ؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "حواشی",
-        "حاشیات",
-        "حواشیات",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">حاشیہ</font><font color=\"#0000ff\"> کی درست جمع </font><font color=\"#ff0000\">حواشی</font><font color=\"#0000ff\"> اور </font><font color=\"#ff0000\">حاشیے</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "درست الفاظ معنی کا انتخاب کیجیے؟ رَسَد: اشیائے ضرورت کی دستیابی, رَسَد: دوربین سے آسمان کا مشاہدہ کرنا, رَصَد: اشیائے ضرورت کی دستیابی, ان میں سے کوئی نہیں",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "رَسَد: اشیائے ضرورت کی دستیابی",
-        "رَسَد: دوربین سے آسمان کا مشاہدہ کرنا",
-        "رَصَد: اشیائے ضرورت کی دستیابی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">رَسَد</font><font color=\"#0000ff\">: </font><font color=\"#ff0000\">ضروری اشیا کی فراہمی یا دستیابی</font><font color=\"#0000ff\">، مثلاً خوراک اور پانی کی رسد۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "محاورے جاں بلب ہونا کا درست معنی کون سا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "صحت یاب ہونا",
-        "قریب مرگ",
-        "جان میں جان آنا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">جاں</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">بلب</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ہونا</font><font color=\"#0000ff\"> ایک محاورہ ہے، جس کا مطلب ہے </font><font color=\"#ff0000\">موت کے قریب ہونا یا سخت نزع کی حالت</font><font color=\"#0000ff\"> میں ہونا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "الفاظ کے جوڑے اَرض اور عَرض کا درست استعمال کس جملے میں ہوا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "سروے ٹیم نے اَرض کا نقشہ بنایا اور ندی کی عَرض ناپی۔",
-        "سروے ٹیم نے عَرض کا نقشہ بنایا اور ندی کی اَرض ناپی۔",
-        "سروے ٹیم نے سروے ٹیم نے اَرض کا نقشہ بنایا اور ندی کی اَرض ناپی۔",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">سروے ٹیم نے اَرض کا نقشہ بنایا اور ندی کی عَرض ناپی۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ ہنوز کا درست معنی منتخب کیجیے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "جڑا ہوا",
-        "خلاصہ",
-        "ابھی تک",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">ہنوز</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">فارسی</font><font color=\"#0000ff\"> زبان کا لفظ ہے، جس کے معنی </font><font color=\"#ff0000\">ابھی تک، اب تک یا تاحال ہیں</font><font color=\"#0000ff\">۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ مستند کا درست مترادف منتخب کیجیے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مبہم",
-        "ثابت",
-        "مشروط",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">مستند</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">معتبر، قابلِ اعتماد یا ثبوت</font><font color=\"#0000ff\"> سے </font><font color=\"#ff0000\">ثابت</font><font color=\"#0000ff\"> شدہ ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ مستثنیٰ کا درست متضاد منتخب کیجیے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "موجود",
-        "منسلک",
-        "پابند",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">مستثنیٰ</font><font color=\"#0000ff\"> کے معنی ہیں </font><font color=\"#ff0000\">کسی قاعدے، شرط یا پابندی سے الگ یا آزاد</font><font color=\"#0000ff\"> ہونا۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "لفظ متواتر کا درست متضاد منتخب کیجیے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "مربوط",
-        "منقطع",
-        "مسلسل",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\">متواتر</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">مسلسل، لگاتار یا پے در پے</font><font color=\"#0000ff\"> ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "درست جملے کا انتخاب کیجیے۔ وہ حاصلِ استفادہ ہے۔, اس نے استفادہ حاصل کیا۔, اس نے استفادہ کیا۔, ان میں سے کوئی نہیں",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "وہ حاصلِ استفادہ ہے۔",
-        "اس نے استفادہ حاصل کیا۔",
-        "اس نے استفادہ کیا۔",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">استفادہ</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">فائدہ اٹھانا </font><font color=\"#0000ff\">یا کسی چیز سے فائدہ حاصل کرنا ہیں۔</font></b></p>",
       "category": "all"
     }
   ]
