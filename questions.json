@@ -3,10 +3,348 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-20T12:28:18.327456",
+    "fetched_at": "2026-10-20T17:43:37.688054",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "The next term in the sequence FAG, GAF, HAI, IAH, is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "HAL",
+        "JAK",
+        "JAI",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">FAG -&gt; GAF = 1st and 3rd letter swapped.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What number should fill the blank in the following sequence 1/9, 1/3, 1, ..., 9?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>Multiply by 3 each time.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a certain language, the word SISTER is coded as 535301, the word UNCLE is coded as 84670 and the word BOY as 129, then the word SON is coded as?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "522",
+        "524",
+        "526",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">SISTER = 535301</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Odd one out: Cone, Cylinder, Sphere, Circle",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cone",
+        "Cylinder",
+        "Sphere",
+        "Circle"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\">Circle</font><font color=\"#0000ff\"> is the </font><font color=\"#ff0000\">odd one out</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The pair of numbers that does not belong to the group for lack of common property? 86, 99 56, 63 96, 108 16, 18",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "86, 99",
+        "56, 63",
+        "96, 108",
+        "16, 18"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">All pairs have a common factor greater than 1 except one.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Q is twice as old as P but twice younger than T. R is half the age of P but is twice older than S. Who is the second oldest?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Q",
+        "S",
+        "P",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let P = 1 unit</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The radius of a circle is increased by 1%. If the original value of radius is 10, the percentage increase in the area of circle is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1.15%",
+        "3.07%",
+        "2.01%",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">New Radius = 10 + 1% of 10 = 10 + 0.1 = 10.1</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the price of sharpeners reduces by 20%, a girl can purchase 3 more sharpeners in a dollar. The number of sharpeners that can be purchased in five dollars is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "75",
+        "65",
+        "55",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Price becomes cheap, so you get 3 extra in $1.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In a race, Pervaiz is ahead of Ghazi but behind Omar. Omar and Yasir are running side by side. Pervaiz is behind Bilal. Who is at the second place in the race?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Omar",
+        "Pervaiz",
+        "Ghazi",
+        "Bilal"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#0000ff\">Order given is:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Five cartoon videos P, Q, R, S and T are to be played to kids in a sequence meeting the condition given below: (i) P must be played earlier than R (ii) Q must be played earlier than S (iii) T must be the fifth video played. If Q, S and T are played one after another in sequence, when can P be played in the remaining two positions?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "First",
+        "Second",
+        "Third",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">T is fixed at 5th.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A teacher told his class that teacher's evaluation by students is not a valid measure of teaching quality. For this evaluation, students should fill out questionnaires at the end of the course. Which of the following, if true, supports suggestion of the teacher?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Teachers are not interested in any survey",
+        "Students opinions against teachers are filtered during course",
+        "Students show interest in teacher's evaluation",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Teacher's claim = Student evaluation is not valid.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bus for Multan leaves every thirty minutes from a bus stand. An enquiry clerk told a passenger that the bus had already left ten minutes ago and the next bus will leave at 10:45 AM. At what time did the enquiry clerk give this information to the passenger?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "10:30 AM",
+        "10:15 AM",
+        "10:25 AM",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Next bus = 10:45 AM</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pointing to a gentleman, Dayyan said \"His only brother is the father of my daughter's father.\" How is the gentleman related to Dayyan?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Father",
+        "Uncle",
+        "Grandfather",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">\"My daughter's father\" = Dayyan himself</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the arithmetic mean of 7, 5, 13, x and 9 is 10, the value of x is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Mean = Sum / n</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose which pair of numbers come next in the sequence 16, 26, 56, 36, 46, 68, 56, ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "64, 82",
+        "66, 80",
+        "78, 68",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Sequence is: 16, 26, 56, 36, 46, 68, 56, ?, ?</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The pair of numbers that does not belong to the group for lack of common property? 18, 45 27, 36 29, 82 14, 23",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "18, 45",
+        "27, 36",
+        "29, 82",
+        "14, 23"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\"><b>All pairs except one have a common property inside the pair.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "The wheel of a car is of diameter 70 cm. The number of revolutions per minute must the wheel make so as to keep a speed of 66 km/hour will be?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "300",
+        "400",
+        "500",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Diameter = 70 cm</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the Mathematics department of a certain university, the student teacher ratio was 20:1. It was decided to increase the number of students and teachers by 50% and 10% respectively. The new student to teacher ratio is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "30:1",
+        "300:11",
+        "25:1",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Old ratio = 20 : 1</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A class has four sections and the number of students in each section is 50, 40, 30 and 20. The pass percentage of these sections is 20%, 15%, 30%, and 50% respectively. The failure percentage of the entire class is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "70%",
+        "75%",
+        "80%",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Total students = 50 + 40 + 30 + 20 = 140</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Two discounts of 15% and 30% are equal to a single discount of?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "40.5%",
+        "41.5%",
+        "42.5%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Single discount = 100 - (100 - D1)_(100 - D2)/100</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If x + 1/x = 5, what is the value of x² + 1/x²?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "21",
+        "22",
+        "23",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula: (x + 1/x)^2 = x^2 + 1/x^2 + 2</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A student was solving a question of Mathematics. While he was doing calculations, he multiplied a number by 3/2 instead of 2/3. The percentage error in the calculation is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "55.55%",
+        "55.45%",
+        "55.35%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\"><b>Let number = x</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "A mark is initially placed in the upper-right corner of a transparent square. The square is rotated 90° anticlockwise, reflected across its vertical centre-line, and then rotated 180°. Where is the mark finally located?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Lower-right corner",
+        "Lower-left corner",
+        "Upper-left corner",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Start: Upper-Right</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A person faces north, turns 90° right, then 135° left, and finally 45° right. Which direction is the person facing?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "W",
+        "N",
+        "E",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Facing North.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Beginning with 5, a sequence is formed by repeatedly applying these operations in order: add 4, multiply by 2, and subtract 3. What is the seventh displayed number when the starting number is counted as the first?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "35",
+        "36",
+        "37",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Starting number 5 is counted as 1st.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Four friends A, B, C, D are residing in a same locality. The house of B is in the east of house of A but in the north of house of C. The house is in the west of house of D. The house of D is in which direction of house of A?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "East",
+        "South-East",
+        "North-East",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Put A at center:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Two angles of a triangle measure 15° and 85°. What is the measure for the third angle?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -317,344 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#0000ff\">24:36 = both divided by 12</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "After a discount of 15%, an item costs Rs 3,400. What was its marked price?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs 4,100",
-        "Rs 4,200",
-        "Rs 4,000",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">After 15% discount, you pay 85%</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A vehicle covers 162 kilometres in 2 hours 15 minutes at a constant speed. What is its speed in kilometres per hour?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70",
-        "72",
-        "74",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">2 hours 15 minutes = 2.25 hours</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The mean of six observations is 42. Five observations are 35, 39, 41, 46 and 50. What is the sixth observation?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "41",
-        "39",
-        "37",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Mean of 6 observations = 42</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "For which value of x does 3(x - 4) + 2 = 2x + 9?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "17",
-        "15",
-        "19",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">3(x - 4) + 2 = 2x + 9</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Among 120 candidates, 68 can use spreadsheet software, 52 can use presentation software, and 20 can use neither. How many can use both?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24",
-        "22",
-        "20",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Total = 120</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a triangle, one angle is twice the smallest angle and the third angle is 30° greater than the smallest angle. What is the largest angle?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70.0°",
-        "72.5°",
-        "75.0°",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Let smallest angle = x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An allowance is increased by 20% and then reduced by 10% of the increased amount. What is the overall change from the original allowance?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "8% increase",
-        "4% increase",
-        "2% increase",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "Six clerks can process 720 applications in eight hours at a constant individual rate. At the same rate, how many applications can five clerks process in six hours?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "440",
-        "450",
-        "460",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">6 clerks × 8 hours = 48 clerk-hours</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "An allocation for stationery and printing is divided in the ratio 3:5. If the printing share exceeds the stationery share by Rs 48,000, what is the total allocation?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs 192,000",
-        "Rs 204,000",
-        "Rs 216,000",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Ratio = Stationery : Printing = 3 : 5</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A processing unit completes 18, 22, 20 and 16 cases in its first four hours. How many cases must it complete in the fifth hour for the five-hour average to be 20?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "24",
-        "23",
-        "22",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">To get a 5-hour average of 20, you need a total of 100 cases.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Translation from Urdu to English: اس سے پہلے کہ معاہدے کی حتمی عبارت منظور کی جاتی، ماہرین نے ہر ایسی شق دوبارہ لکھی جس کے دو مختلف مفہوم نکل سکتے تھے۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Before approving the final agreement, every clause with two meanings had been rewritten by the experts.",
-        "Before the final wording was approved, the experts rewrote every potentially ambiguous clause.",
-        "The experts revised each ambiguous clause after the final wording of the agreement had been approved.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Translation from Urdu to English: خواہ پیمائشیں ایک ہی آلے سے کی گئی ہوں، اگر حالات یکساں نہ ہوں تو ان کا براہ راست موازنہ گمراہ کن ہو سکتا ہے۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Although one instrument may record all the measurements, unequal conditions can make every comparison unreliable.",
-        "Measurements taken with the same instrument can be compared directly, provided the conditions are recorded.",
-        "Even if taken with the same instrument, measurements may mislead when compared under unequal conditions.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Translation from Urdu to English: جو تبدیلی ابتدا میں معمولی سمجھی گئی وہ اس وقت اہم ثابت ہوئی جب دونوں سلسلوں کا الگ الگ تجزیہ کیا گیا۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "What had seemed a minor change proved significant when the two series were analysed separately.",
-        "The initially minor change was judged highly significant because both separate series were analysed independently.",
-        "A change regarded as minor proved significant only after one series was separated from the other.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Translation from Urdu to English: تحقیق کار نے یہ دعویٰ نہیں کیا کہ نمونہ نمائندہ تھا؛ اس نے صرف یہ کہا کہ نتائج ایک بڑے سروے کی ضرورت کی طرف اشارہ کرتے ہیں۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "The researcher did not test whether the sample was representative; they stated instead that the findings themselves formed a broader survey.",
-        "The researcher claimed that the sample was unrepresentative and that the findings therefore required immediate confirmation through a larger survey.",
-        "The researcher made no claim that the sample was representative; they said only that the findings indicated a need for a larger survey.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Translation from Urdu to English: اگر مصنف نے اصطلاح کی تعریف ابتدا ہی میں کر دی ہوتی تو بعد کے ابواب میں پیدا ہونے والا ابہام بڑی حد تک ختم ہو ٹل تھا۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Had the author defined the term initially, much of the later ambiguity could have been avoided.",
-        "If the author had defined the term initially, the later chapters would have contained no ambiguity at all.",
-        "Had the term been defined at the outset, all ambiguity in later chapters might entirely have disappeared.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Security Chief of Iran?",
-      "urdu": "ایران کا موجودہ سیکورٹی چیف کون ہے؟",
-      "options": [
-        "Mohsen Rezaei",
-        "Masoud Pezeshkian",
-        "Mohammad Bagher Zolghadr",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><img data-filename=\"1000425696.jpg\" src=\"data:image/jpeg;base64,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\" style=\"width: 230px;\"/><b><font color=\"#0000ff\"><br/></font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: To \"break a butterfly on a wheel\" is to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Punish an innocent person for another person's conduct.",
-        "Pursue beauty through needlessly elaborate and complex methods.",
-        "Use excessive force against a minor offence.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: To \"keep one's powder dry\" is to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Conceal one's intentions from every observer.",
-        "Withdraw from a conflict before it begins.",
-        "Remain prepared for a future contingency.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: To \"strain at a gnat and swallow a camel\" is to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Accept a minor fault while rejecting a far greater virtue.",
-        "Object to a trifle while tolerating a grave fault.",
-        "Exaggerate two separate faults until both seem equally serious.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Idiom: To \"beard the lion in his den\" is to?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Confront a powerful opponent in their own stronghold.",
-        "Avoid direct confrontation until reliable support finally arrives.",
-        "Enter a dispute without first understanding its underlying cause.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A Manager with no personal stake is described as ____, whereas a spectator who does not care is described as ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Disinterested / uninterested",
-        "Disinteresting / uninterested",
-        "Disinterested / disinteresting",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Group of Words: The account sounded ____; only a ____ reader, however, would accept it without corroboration.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Incredulous/creditable",
-        "Credible/credulous",
-        "Credulous/credible",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pair of Words: The interviewer tried to ____ a response without referring to the ____ recording.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Allude / illegal",
-        "Elicit / illicit",
-        "Extract / elicited",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pair of Words: The imagery was intended to ____ a vanished era, whereas the preface sought to ____ tradition as an authority.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Suggest / summon",
-        "Elicit / cite",
-        "Evoke / invoke",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Grouping of Words: Index : Book :: Legend : _____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Lamp",
-        "Plot",
-        "Map",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Grouping of Words: Opaque : Transparency :: Brittle : ____?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Hardness",
-        "Flexibility",
-        "Fragility",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
       "category": "all"
     }
   ]
