@@ -3,10 +3,296 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-19T22:40:43.091871",
+    "fetched_at": "2026-10-20T05:39:39.317329",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Pair of Words: The interviewer tried to ____ a response without referring to the ____ recording.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Allude / illegal",
+        "Elicit / illicit",
+        "Extract / elicited",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pair of Words: The imagery was intended to ____ a vanished era, whereas the preface sought to ____ tradition as an authority.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Suggest / summon",
+        "Elicit / cite",
+        "Evoke / invoke",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Grouping of Words: Index : Book :: Legend : _____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Lamp",
+        "Plot",
+        "Map",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Grouping of Words: Opaque : Transparency :: Brittle : ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Hardness",
+        "Flexibility",
+        "Fragility",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Grouping of Words: Scribe : Manuscript :: Potter : ____?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Vessel",
+        "Ink",
+        "Needle",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Grouping of Words: ____ : Oar :: Bicycle : Pedal.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Boat",
+        "Sailor",
+        "Harbour",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The apparatus appeared \"medieval\" beside the modern instruments. Which word most nearly matches that description?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Provisional",
+        "Antiquated",
+        "Anomalous",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Perfunctory is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Cursory",
+        "Done superficially",
+        "Blunt",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-09-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Cogent is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Compelling",
+        "Convincing",
+        "Rouse",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">The Antonym of Cogent is </b><font color=\"#ff0000\"><b style=\"\">U</b><b style=\"\">nconvincing.</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Synonym: The reviewer called the tone \"rebarbative\".",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Conciliatory",
+        "Repellent",
+        "Inaccessible",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Antonym: The commentary was \"bias\", not.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Partisan",
+        "Impartial",
+        "Polemical",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Antonym: The proposal was \"Nascent\" rather than.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Fully developed",
+        "Newly conceived",
+        "Partly tested",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Antonym: The envoy's response was \"pusillanimous\".",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Guarded",
+        "Evasive",
+        "Resolute",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Antonyms: The surviving evidence was described as \"Scanty\".",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Abundant",
+        "Equivocal",
+        "Derivative",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The annotation is posterior ____ the watermark yet anterior ____ the rebinding.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To / than",
+        "Than / to",
+        "To / to",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The reader must distinguish an inference drawn ____ context from a meaning imposed ____ the text.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "With / into",
+        "From / upon",
+        "By / over",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The inscription was copied ____ hand and then checked ____ the surviving rubbing.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In / beside",
+        "By / against",
+        "From / to",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Her account is at variance ____ the earlier testimony but entirely consonant ____ the surviving notes.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Against / to",
+        "With / with",
+        "From / by",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The substitute chart was accepted ____ lieu of the damaged original and retained ____ future reference.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "In / for",
+        "At / to",
+        "On / with",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: Ten million dollars was allocated by the cabinet for the urgent restoration of the historic heritage site., Two-thirds of the parliamentary committee members were present during the voting on the intelligence bill., A series of high-level diplomatic symposiums were organized to address cross-border water sharing., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ten million dollars was allocated by the cabinet for the urgent restoration of the historic heritage site.",
+        "Two-thirds of the parliamentary committee members were present during the voting on the intelligence bill.",
+        "A series of high-level diplomatic symposiums were organized to address cross-border water sharing.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The state bank has maintained a tight monetary policy since the global financial crisis began., Central banks are implementing aggressive quantitative easing measures since the past five fiscal quarters., The development agency has supported agricultural modernization projects in the region for a long time., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The state bank has maintained a tight monetary policy since the global financial crisis began.",
+        "Central banks are implementing aggressive quantitative easing measures since the past five fiscal quarters.",
+        "The development agency has supported agricultural modernization projects in the region for a long time.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Select the Sentence that contains a grammatical, syntactical or idiom usage error: The border security force prevented the unauthorized vessel to enter sovereign territorial waters., High court judges prohibited the media from broadcasting prejudiced commentary during trial proceedings., Environmental activists refrained from protesting outside the embassy during high-level trade talks., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The border security force prevented the unauthorized vessel to enter sovereign territorial waters.",
+        "High court judges prohibited the media from broadcasting prejudiced commentary during trial proceedings.",
+        "Environmental activists refrained from protesting outside the embassy during high-level trade talks.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which number of anniversary of United Nations Organizations (UNO) celebrated on 24 October 2026?",
       "urdu": "چوبیس اکتوبر 2026 کو اقوام متحدہ کی کون سی سالگرہ منائی جائے گی؟",
@@ -369,291 +655,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b><font color=\"#ff0000\">استفادہ</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">فائدہ اٹھانا </font><font color=\"#0000ff\">یا کسی چیز سے فائدہ حاصل کرنا ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "اسلم میرے ساتھ ______ تک چلنے کی ______ بھری۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "دکان، ہامی",
-        "دوکان، حامی",
-        "دکان، حامی",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">اسلم میرے ساتھ </font><font color=\"#ff0000\">دکان</font><font color=\"#0000ff\"> تک چلنے کی </font><font color=\"#ff0000\">حامی</font><font color=\"#0000ff\"> بھری۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "تخلیق کائنات کا سب سے بڑا المیہ یہ ہے کہ انسان اپنی جبلت کا اسیر ہو کر ضمیر کی آواز کو پشت ڈال دیتا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "فطرت",
-        "عقل",
-        "محبت",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">جبلت</font><font color=\"#0000ff\"> کے معنی </font><font color=\"#ff0000\">فطری رجحان، سرشت یا پیدائشی خاصیت</font><font color=\"#0000ff\"> کے ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "بازیچہ اطفال ہے دنیا میرے آگے ہوتا ہے شب و روز تماشہ میرے آگے۔ بازیچہ اطفال کے معنی ہیں؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "بچوں کا کھیل",
-        "بچوں کی لڑائی",
-        "بچوں کی پڑھائی",
-        "ان میں س کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "لفظ اردو ________ زبان سے آیا ہے جس کے معنی ________ کے ہیں۔",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "عربی، لشکر",
-        "فارسی، گڑی ہوئی",
-        "ترکی، لشکر",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">لفظ </font><font color=\"#ff0000\">اردو</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">ترکی</font><font color=\"#0000ff\"> زبان کے لفظ </font><font color=\"#ff0000\">اوردو</font><font color=\"#0000ff\"> سے نکلا ہے، جس کے معنی </font><font color=\"#ff0000\">لشکر یا فوجی پڑاؤ</font><font color=\"#0000ff\"> کے ہیں۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "پاکستان کی سپریم کورٹ نے 8 ستمبر 2015 کو اردو کو سرکاری زبان کے طور پر نافذ کرنے کا فیصلہ کیا، مندرجہ ذیل میں سے کون سا ایک فیصلہ میں شامل ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "وفاقی اور صوبائی سطحوں پر تمام قوانین، نوٹیفکیشز، اور دفتری خطوط کا اردو میں ترجمہ فوری کرنے کا حکم",
-        "وفاقی اور صوبائی سطحوں پر تمام قوانین، ضابطے، تشریحات، دستخطی اور خطوط کا اردو میں ترجمہ فوری کرنے کا حکم",
-        "صدر اور وزیراعظم کے لیے اردو میں تقریر لازم قرار دینا",
-        "یہ تمام نکات"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">آئینی بنیاد </font><font color=\"#ff0000\">آرٹیکل</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">251</font><font color=\"#0000ff\"> ہے، جو </font><font color=\"#ff0000\">اردو</font><font color=\"#0000ff\"> کو پاکستان کی </font><font color=\"#ff0000\">قومی</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">زبان</font><font color=\"#0000ff\"> قرار دیتا ہے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The principle of Shura is best applied in administration when a leader?",
-      "urdu": "انتظامی امور میں شوریٰ کے اصول کا بہترین اطلاق اس وقت ہوتا ہے جب کوئی رہنما ______؟",
-      "options": [
-        "Obtains relevant advice before deciding while retaining responsibility",
-        "Transfers all accountability to advisers who participate in consultation",
-        "Seeks opinions chiefly to confirm a preference already fixed",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The rulings concerning financial and civil dealings between individuals are called ______?",
-      "urdu": "افراد کے درمیان مالی اور شہری معاملات سے متعلق احکام کو کیا کہا جاتا ہے؟",
-      "options": [
-        "Fiqh al-‘Ibādāt",
-        "Fiqh al-Mu‘āmalāt",
-        "Fiqh al-Jināyāt",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In \"Reconstruction of Religious Thought in Islam\", Iqbal's idea of reconstruction is best characterized as?",
-      "urdu": "اسلام میں مذہبی فکر کی تشکیل نو میں اسلامی فکر کی تشکیلِ نو کے تصور کی بہترین وضاحت کیا ہے؟",
-      "options": [
-        "Abandonment of inherited Islamic thought in favour of contemporary Western philosophy",
-        "Critical re-examination of Islamic thought under modern intellectual conditions without severing it from revelation",
-        "Replacement of jurisprudence by philosophy as the principal source of Islamic guidance",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In his book \"Islam at the Cross-roads, the author Muhammad Asad argues that the principal danger posed by the uncritical adoption of Western civilization by Muslims is best understood as?",
-      "urdu": "اپنی کتاب \"اسلام ایٹ دی کراس روڈز\" میں مصنف محمد اسد نے دلیل دی ہے کہ مسلمانوں کی طرف سے مغربی تہذیب کو غیر تنقیدی طور پر اپنانے سے درپیش بنیادی خطرے کو کس طرح سمجھا جاتا ہے؟",
-      "options": [
-        "The substitution of Islamic intellectual traditions by Western scientific methodology",
-        "The absorption of social and moral values whose underlying assumptions are incompatible with the Islamic conception of life",
-        "The replacement of Arabic as the principal language of Muslim intellectual discourse",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Wealth accumulation through lotteries or hyper-speculative markets without creating genuine economic value is called _______?",
-      "urdu": "حقیقی معاشی قدر پیدا کیے بغیر لاٹریوں یا انتہائی قیاس آرائی پر مبنی منڈیوں کے ذریعے دولت جمع کرنے کو کیا کہتے ہیں؟",
-      "options": [
-        "Maysar",
-        "Gharar",
-        "Riba",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In ________, one partner provides the capital while the other provides management and labor. Profits are shared according to a pre-agreed ratio, but financial losses are borne entirely by the capital provider.",
-      "urdu": "میں ایک شریک سرمایہ فراہم کرتا ہے جبکہ دوسرا انتظام اور محنت فراہم کرتا ہے۔ منافع پہلے سے طے شدہ تناسب کے مطابق تقسیم ہوتا ہے، لیکن مالی نقصان مکمل طور پر سرمایہ فراہم کرنے والا برداشت کرتا ہے۔ ______",
-      "options": [
-        "Musharakah",
-        "Mudarabah",
-        "Qard al-Hasana",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which proposition most clearly distinguishes the Islamic economic conception from both unrestricted capitalism and collectivist socialism?",
-      "urdu": "کون سا اصول اسلامی معاشی تصور کو غیر محدود سرمایہ داری اور اجتماعی سوشلزم دونوں سے واضح طور پر ممتاز کرتا ہے؟",
-      "options": [
-        "Economic equality is established through compulsory state redistribution of all surplus wealth",
-        "Private property is abolished in favour of public ownership",
-        "Private property is recognized, but its exercise is subject to moral and legal obligations derived from Islam",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which qualification is most important for responsible Ijtihad?",
-      "urdu": "ذمہ دارانہ اجتہاد کے لیے سب سے اہم اہلیت کون سی ہے؟",
-      "options": [
-        "Personal confidence combined with familiarity with current affairs",
-        "Sound knowledge of primary sources and juristic methodology",
-        "Senior age combined with long participation in community affairs",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Treaty of Hudaybiyyah is especially instructive for diplomats because it demonstrates that?",
-      "urdu": "معاہدۂ حدیبیہ سفارت کاروں کو خاص طور پر یہ سبق دیتا ہے کہ؟",
-      "options": [
-        "Formal agreements are useful only when all gains are immediate",
-        "Strategic patience may secure larger benefits through peaceful engagement",
-        "Diplomatic success requires avoiding apparently unfavourable terms altogether",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The dynasty which founded Al-Azhar university was ________?",
-      "urdu": "جامعہ الازہر کی بنیاد رکھنے والا خاندان کون سا تھا؟",
-      "options": [
-        "Ottoman Dynasty",
-        "Fatimid Dynasty",
-        "Umayyad Dynasty"
-      ],
-      "correct": 1,
-      "explanation": "<p style=\"color: rgb(33, 37, 41);\"><font color=\"#ff0000\" face=\"Helvetica\"><span style=\"font-weight: bolder; background-color: rgb(255, 255, 0);\">Last verified on 08-09-2026</span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "When a genuinely new issue requires an Islamic legal assessment, the soundest general procedure is to?",
-      "urdu": "جب کسی نئے مسئلے کے لیے اسلامی قانونی رہنمائی درکار ہو تو درست عمومی طریقۂ کار کیا ہے؟",
-      "options": [
-        "Decide according to convenience and seek legal support afterwards",
-        "Avoid established sources because the issue itself is contemporary",
-        "Examine primary guidance and apply recognised juristic reasoning appropriately",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A society advances in technology and wealth, yet corruption and exploitation steadily increase. From an Islamic civilizational perspective, what deficiency is most evident?",
-      "urdu": "ایک معاشرہ ٹیکنالوجی اور دولت میں ترقی کرتا ہے، لیکن بدعنوانی اور استحصال مسلسل بڑھتے جاتے ہیں۔ اسلامی تہذیبی نقطۂ نظر سے اس میں سب سے نمایاں کمی کیا ہے؟",
-      "options": [
-        "Weak moral formation accompanying material progress",
-        "Weak cultural continuity accompanying technical innovation",
-        "Weak civic participation accompanying demographic change",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Accountability in Islamic governance most directly means that an office-holder?",
-      "urdu": "اسلامی نظامِ حکمرانی میں جواب دہی کا براہِ راست مطلب یہ ہے کہ ایک عہدے دار ______؟",
-      "options": [
-        "Becomes exempt from review after receiving lawful authority",
-        "May judge personal performance solely by good intentions",
-        "Remains answerable for the manner in which authority is exercised",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The classical institution of Hisbah was most closely associated with?",
-      "urdu": "کلاسیکی اسلامی تہذیب میں ادارۂ حسبہ کا سب سے زیادہ تعلق کس کام سے تھا؟",
-      "options": [
-        "Supervision of military recruitment and territorial defence alone",
-        "Oversight of fair dealing and certain public-interest obligations",
-        "Collection of every category of state revenue from citizens",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Tolerance in Islamic civilization is best understood as?",
-      "urdu": "اسلامی تہذیب میں رواداری کو بہترین طور پر کس طرح سمجھا جاتا ہے؟",
-      "options": [
-        "Permitting peaceful coexistence while maintaining one's principles",
-        "Avoiding all discussion of moral and intellectual differences",
-        "Surrendering legal order whenever communities disagree",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The basic unit of society in Islamic civilization is _______?",
-      "urdu": "اسلامی تہذیب میں معاشرے کی بنیادی اکائی ______ ہے؟",
-      "options": [
-        "Family (Home)",
-        "Government (Provincial)",
-        "Tribe (Caste)",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Hajj is performed during which dates of Zulhajj?",
-      "urdu": "حج کب سے کب تک ہوتا ہے؟",
-      "options": [
-        "Zulhajj 9 to 12",
-        "Zulhajj 9 to 11",
-        "Zulhajj 8 to 12",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
       "category": "all"
     }
   ]
