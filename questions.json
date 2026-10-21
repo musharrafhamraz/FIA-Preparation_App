@@ -3,10 +3,114 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-20T21:58:59.599169",
+    "fetched_at": "2026-10-21T05:43:06.384377",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Which of the following is NOT a type of air pollutant? Hydrocarbons, Chromium, Carbon dioxide, Nitrogen",
+      "urdu": "درج ذیل میں سے کون سی چیز فضائی آلودگی پھیلانے والے مادے کی قسم نہیں ہے؟",
+      "options": [
+        "Hydrocarbons",
+        "Chromium",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the basic output of GIS or spatial data analysis system?",
+      "urdu": "جی آئی ایس یا مکانی ڈیٹا کے تجزیاتی نظام کا بنیادی آؤٹ پٹ کیا ہوتا ہے؟",
+      "options": [
+        "Map",
+        "Numbers",
+        "Locations",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is the best and most effective way to prevent Hepatitis A?",
+      "urdu": "ہیپاٹائٹس اے سے بچاؤ کا سب سے بہترین اور مؤثر طریقہ کون سا ہے؟",
+      "options": [
+        "Taking antibiotics daily",
+        "Wearing a face mask",
+        "Getting the Hepatitis A vaccination and washing hands",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pick the incorrect statement: An endemic is a constant, predictable presence in a specific area, A pandemic is a global epidemic crossing multiple countries and continents, A pandemic is a global endemic crossing multiple countries and continents, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "An endemic is a constant, predictable presence in a specific area",
+        "A pandemic is a global epidemic crossing multiple countries and continents",
+        "A pandemic is a global endemic crossing multiple countries and continents",
+        "An epidemic is a sudden, unexpected spike in cases within a region"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The primary difference between a virus and a bacteria is that?",
+      "urdu": "وائرس اور بیکٹیریا کے درمیان بنیادی فرق کیا ہے؟",
+      "options": [
+        "Bacteria are free-living, single-celled organisms, while viruses are non-living collections of genetic code.",
+        "Viruses are free-living, single-celled organisms, while bacteria are non-living collections of genetic code.",
+        "Bacteria require a host to survive and reproduce, Viruses split and multiply on surfaces or in soil.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The lightning conductor or rod used for protecting buildings from lightning is made of?",
+      "urdu": "عمارتوں کو آسمانی بجلی سے محفوظ رکھنے کے لیے استعمال ہونے والی بجلی کی چھڑی کس دھات سے بنائی جاتی ہے؟",
+      "options": [
+        "Copper",
+        "Aluminum",
+        "Iron",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Australia has summer in December because?",
+      "urdu": "آسٹریلیا میں دسمبر کے مہینے میں گرمیوں کا موسم کیوں ہوتا ہے؟",
+      "options": [
+        "It sits in the Northern Hemisphere which leans towards the sun in December",
+        "It sits in the Southern Hemisphere which leans towards the sun in December",
+        "It sits in the Southern Hemisphere which leans away from the sun in December",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pluto is no longer considered a full planet because?",
+      "urdu": "پلوٹو کو اب مکمل سیارہ کیوں نہیں سمجھا جاتا؟",
+      "options": [
+        "It no more orbits the Sun",
+        "It is not heavy enough to clear other space rocks out of its path",
+        "It is not round",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The next term in the sequence FAG, GAF, HAI, IAH, is?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -551,110 +655,6 @@
       ],
       "correct": 0,
       "explanation": "<p><b><font color=\"#0000ff\">Profit = 140 - 100 = 40</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the cost price of an item is Rs.1200 and sold at loss of 10%, what is the selling price?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1180",
-        "1280",
-        "1080",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">SP = CP × (100% - Loss%)</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a random sample of 80 records, 12 are incomplete. Using the sample proportion, how many incomplete records would be expected among 600 similar records?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "88",
-        "90",
-        "92",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Sample proportion = 12/80 = 0.15 = 15%</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Let A be the set of positive multiples of 2 below 12, and B the set of positive factors of 12. How many elements are in A ∩ B?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "5",
-        "4",
-        "3",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">A = {2,4,6,8,10}</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the cost price of 15 items is equal to the selling price of 10 items, what is the profit or loss percentage?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "50% loss",
-        "50% profit",
-        "33.33% loss",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">CP of 15 = SP of 10</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ages of two brothers are in the ratio 3:1. If the sum of their ages is 32, what is the age of the younger brother?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "8",
-        "7",
-        "6",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">3x + x = 32</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number is doubled and then decreased by 6. The result is 24. What is the original number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15",
-        "16",
-        "17",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">2x - 6 = 24</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the sum of four consecutive numbers is 54, what is the smallest number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "12",
-        "14",
-        "16",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let smallest number = x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the lowest form of the ratio 24:36?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "6:2",
-        "2:3",
-        "3:4",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">24:36 = both divided by 12</font></b></p>",
       "category": "all"
     }
   ]
