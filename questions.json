@@ -3,7 +3,7 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-21T12:37:52.749705",
+    "fetched_at": "2026-10-21T17:49:51.692720",
     "source": "live_scrape"
   },
   "questions": [
@@ -466,12 +466,12 @@
       "q": "What does SaaS stand for in cloud computing?",
       "urdu": "کلاؤڈ کمپیوٹنگ میں ساس کا کیا مطلب ہے؟",
       "options": [
-        "System as a solution",
+        "System as a Solution",
         "Software as a Service",
         "Storage and Access Service",
         "None of these"
       ],
-      "correct": 2,
+      "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
