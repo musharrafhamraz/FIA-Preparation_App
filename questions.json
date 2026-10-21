@@ -3,10 +3,556 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-21T05:43:06.384377",
+    "fetched_at": "2026-10-21T12:37:52.749705",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Pakistan faces simultaneous concerns involving Afghan-origin militancy, formal trade, border management and refugee returns. Which policy framework is most coherent?",
+      "urdu": "پاکستان کو افغانستان سے متعلق عسکریت پسندی، باقاعدہ تجارت، سرحدی انتظام اور مہاجرین کی واپسی کے بیک وقت مسائل درپیش ہیں۔ ان مسائل سے نمٹنے کے لیے کون سا پالیسی فریم ورک سب سے زیادہ مربوط ہے؟",
+      "options": [
+        "Combine secure borders, lawful trade, counter-terrorism and orderly return of refugees",
+        "Treat refugee management, trade and security as unrelated portfolios",
+        "Base policy solely on short-term political changes in Kabul",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "________ of the UNSC recommends a free and impartial plebiscite in Jammu & Kashmir.",
+      "urdu": "اقوامِ متحدہ کی سلامتی کونسل کی کون سی قرارداد جموں و کشمیر میں آزادانہ اور غیر جانب دارانہ رائے شماری کی سفارش کرتی ہے؟",
+      "options": [
+        "Resolution 39 (1948)",
+        "Resolution 38 (1948)",
+        "Resolution 47 (1948)",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which structural flaw in Pakistan's power sector heavily drain public finance and causes severe energy crises?",
+      "urdu": "پاکستان کے بجلی کے شعبے میں کون سی ساختی خامی عوامی مالیات پر بھاری بوجھ ڈالتی ہے اور توانائی کے شدید بحرانوں کا سبب بنتی ہے؟",
+      "options": [
+        "Circular debt and reliance on imported fuel",
+        "Low demand from industrial sectors",
+        "Surplus generation of renewable energy",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "How do frequent power blackout and energy shortage affect Pakistan's industrial sector?",
+      "urdu": "بجلی کی بار بار بندش اور توانائی کی قلت پاکستان کے صنعتی شعبے کو کیسے متاثر کرتی ہے؟",
+      "options": [
+        "Higher costs",
+        "Reduce output",
+        "Both A and B",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In June 2026, what taxes did the federal government decide to impose on the residents of the merged tribal districts and Malakand division including Swat?",
+      "urdu": "جون 2026 میں وفاقی حکومت نے ضم شدہ قبائلی اضلاع اور ملاکنڈ ڈویژن، بشمول سوات، کے رہائشیوں پر کون سے ٹیکس عائد کرنے کا فیصلہ کیا؟",
+      "options": [
+        "Corporate and digital",
+        "Property and inheritance taxes",
+        "Income, sales and custom taxes",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "13th Amendment of the Constitution?",
+      "urdu": "آئینِ پاکستان کی تیرہویں ترمیم کے ذریعے کیا تبدیلی کی گئی؟",
+      "options": [
+        "Formed Special courts for speedy trials",
+        "Reversed Article 58(2)b",
+        "Introduced article 58(2)b",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under the Constitution of 1973, the budgetary powers rest with?",
+      "urdu": "سن 1973 کے آئین کے تحت بجٹ کے اختیارات کس کے پاس ہیں؟",
+      "options": [
+        "The Executive",
+        "The National Assembly",
+        "The Senate",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan raises substantial revenue through consumption taxes while many higher-income activities remain lightly documented. Which reform would improve both equity and durability?",
+      "urdu": "پاکستان میں کھپت پر ٹیکسوں سے خاطر خواہ آمدنی حاصل ہوتی ہے، جبکہ زیادہ آمدنی والی کئی سرگرمیوں کا ریکارڈ محدود ہے۔ کون سی اصلاح ٹیکس میں مساوات اور آمدنی کے پائیدار نظام، دونوں کو بہتر بنائے گی؟",
+      "options": [
+        "Exempt additional high-value sectors from audit and disclosure",
+        "Broaden direct taxation and reduce unjustified exemptions",
+        "Finance routine expenditure through repeated central-bank borrowing",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which regulatory authority overseas the safety, security and operational control of Pakistan's nuclear assets?",
+      "urdu": "پاکستان کے جوہری اثاثوں کی حفاظت، سلامتی اور عملیاتی کنٹرول کی نگرانی کون سا ادارہ کرتا ہے؟",
+      "options": [
+        "PNRA",
+        "KRL",
+        "MTCR",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Where is the headquarters of SAARC located?",
+      "urdu": "سارک کا ہیڈ کوارٹر کس کہاں واقع ہے؟",
+      "options": [
+        "Katmandu, Nepal",
+        "Islamabad, Pakistan",
+        "Delhi, India",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">SAARC Member Countries</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The internationally known Truck Art of Pakistan smybolishes the country's folk creativity while having international recognition from?",
+      "urdu": "پاکستان کا عالمی شہرت یافتہ ٹرک آرٹ لوک تخلیقی صلاحیتوں کی علامت ہے۔ اسے بین الاقوامی سطح پر کس ادارے سے شناخت حاصل ہے؟",
+      "options": [
+        "International Federation of Arts Councils an Culture Agencies",
+        "United Nations Educational, Scientific and Cultural Organization",
+        "International Centre for the Study of the Preservation and Restoration of Cultural Property",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A mountain district contains rapidly enlarging glacial lakes above populated valleys. Which package best reduces glacial-lake-outburst-flood risk before the next melt season?",
+      "urdu": "ایک پہاڑی ضلع میں آبادی والی وادیوں کے اوپر گلیشیائی جھیلیں تیزی سے پھیل رہی ہیں۔ اگلے برف پگھلنے کے موسم سے پہلے گلیشیائی جھیل کے اچانک سیلاب کے خطرے کو کم کرنے کے لیے کون سے اقدامات بہترین ہیں؟",
+      "options": [
+        "Deepen channels, delay warnings and expand valley construction",
+        "Relocate sensors downstream and remove community communication links",
+        "Monitor lakes, warn communities, map routes and control exposure",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Makran Subduction Zone lies along Pakistan's?",
+      "urdu": "مکران سبڈکشن زون پاکستان کے کس علاقے کے ساتھ واقع ہے؟",
+      "options": [
+        "Northern Mountains",
+        "Arabian Sea Coast",
+        "Indus Plain",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A Pakistani city faces recurrent heatwaves intensified by the urban heat-island effect. Which package is most likely to reduce both exposure and ambient heat?",
+      "urdu": "پاکستان کے ایک شہر میں شدید گرمی کی لہریں بار بار آتی ہیں، جن کی شدت شہری حرارتی جزیرے کے اثر سے بڑھ جاتی ہے۔ کون سا اقدامات کا مجموعہ گرمی سے متاثر ہونے کے خطرے اور اردگرد کے درجۂ حرارت دونوں کو کم کرنے میں زیادہ مؤثر ہوگا؟",
+      "options": [
+        "Reflective roofs, shade, vegetation, warnings and adjusted work hours",
+        "Dark roofs, wider asphalt surfaces and unrestricted afternoon labour",
+        "More air-conditioners without grid planning or outdoor heat mitigation",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which sequence is chronologically correct? Wavell Plan → Simla Conference → Cabinet Mission → Direct Action, Simla Conference → Cabinet Mission → Wavell Plan → Direct Action, Wavell Plan → Cabinet Mission → Simla Conference → Direct Action, None of these",
+      "urdu": "درج ذیل میں سے کون سی ترتیب تاریخی لحاظ سے درست ہے؟",
+      "options": [
+        "Wavell Plan → Simla Conference → Cabinet Mission → Direct Action",
+        "Simla Conference → Cabinet Mission → Wavell Plan → Direct Action",
+        "Wavell Plan → Cabinet Mission → Simla Conference → Direct Action",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The 3rd June Plan differed from the Cabinet Mission fundamentally because the former?",
+      "urdu": "تین جون پلان، کابینہ مشن پلان سے بنیادی طور پر کس طرح مختلف تھا؟",
+      "options": [
+        "Abolished provincial legislature",
+        "Preserved Indian Unity through a weak centre",
+        "Accepted partition as a basis for constitutional settlement",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The constitutional significance of the Government of India Act 1935 after independence was that it?",
+      "urdu": "آزادی کے بعد گورنمنٹ آف انڈیا ایکٹ 1935 کی آئینی اہمیت کیا تھی؟",
+      "options": [
+        "Served as the interim constitutional framework",
+        "Introduced the 1973 parliamentary system",
+        "Became Pakistan's permanent constitution",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The region that is going to witness the fastest population growth rate is?",
+      "urdu": "مستقبل میں کس خطے کی آبادی میں سب سے تیز رفتار اضافہ متوقع ہے؟",
+      "options": [
+        "South Asia",
+        "Sub-Saharan Africa",
+        "East Asia",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Russia's acquisition of territory to its west historically served what major strategic purpose?",
+      "urdu": "تاریخی طور پر روس نے اپنے مغرب میں علاقے حاصل کرکے کون سا بڑا تزویراتی مقصد حاصل کیا؟",
+      "options": [
+        "To create greater strategic depth between the Russian heartland and potential European invaders",
+        "To gain direct control over the Mediterranean",
+        "To eliminate Russia's dependence on Siberian resources",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Iran's location is strategically significant because it sits near?",
+      "urdu": "ایران کا محلِ وقوع تزویراتی لحاظ سے اہم کیوں ہے؟",
+      "options": [
+        "The Strait of Hormuz and the Mediterranean",
+        "The Strait of Hormuz and the Persian Gulf",
+        "The Strait of Hormuz and the Arabian Sea",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan's stated 2026 position supports a Palestinian state based on which territorial reference?",
+      "urdu": "پاکستان کے 2026 کے سرکاری مؤقف کے مطابق فلسطینی ریاست کن علاقائی حدود کی بنیاد پر قائم ہونی چاہیے؟",
+      "options": [
+        "The 1949 armistice lines only",
+        "The pre-1967 borders",
+        "The 1947 partition lines",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In August 2026, Pakistan welcomed progress under which mechanism for implementing the Gaza Peace Plan?",
+      "urdu": "اگست 2026 میں پاکستان نے غزہ امن منصوبے پر عمل درآمد کے لیے کس طریقۂ کار کے تحت پیش رفت کا خیرمقدم کیا؟",
+      "options": [
+        "Arab League Secretariat",
+        "Gulf Cooperation Council",
+        "Board of Peace",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Afghanistan formally joined the South Asian Association for Regional Cooperation (SAARC) and became its 8th member in?",
+      "urdu": "افغانستان باضابطہ طور پر سارک میں شامل ہو کر اس کا آٹھواں رکن کس سال بنا؟",
+      "options": [
+        "2007",
+        "2008",
+        "2009",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which strategic sector has become a bone of contention in the ongoing global trade competition among great powers?",
+      "urdu": "بڑی عالمی طاقتوں کے درمیان جاری تجارتی مقابلے میں کون سا اسٹریٹجک شعبہ تنازعے کا سبب بن گیا ہے؟",
+      "options": [
+        "Textile Production",
+        "Artificial Intelligence Technology",
+        "Semiconductors",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is an important global initiative under the Paris Agreement on climate change that emphasises the attainment of long-term goals?",
+      "urdu": "موسمیاتی تبدیلی سے متعلق پیرس معاہدے کے تحت کون سا اہم اقدام طویل مدتی اہداف کے حصول پر زور دیتا ہے؟",
+      "options": [
+        "Earth Hour",
+        "National Determined Contributions",
+        "Fridays for Future",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Kyoto Protocol's architecture was based most strongly on the idea that?",
+      "urdu": "کیوٹو پروٹوکول کا بنیادی ڈھانچہ کس اصول پر سب سے زیادہ مبنی تھا؟",
+      "options": [
+        "Developed countries should take the lead in reducing greenhouse-gas emissions",
+        "Developing countries should bear the greatest historical responsibility",
+        "Climate policy should be entirely voluntary",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "During the Prime Minister's 6-8 August 2026 visit to Saudi Arabia, which objective was explicitly highlighted?",
+      "urdu": "چھ سے 8 اگست 2026 کے دوران وزیراعظم کے دورۂ سعودی عرب میں کس مقصد کو واضح طور پر اجاگر کیا گیا؟",
+      "options": [
+        "A Pakistan-Saudi customs union",
+        "Bilateral ties and regional coordination",
+        "A shared land-border management regime",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which bilateral agreement between India and Pakistan requires both nuclear rivals to exchange the list of their nuclear installations annually?",
+      "urdu": "بھارت اور پاکستان کے درمیان کون سا دوطرفہ معاہدہ دونوں جوہری حریف ممالک کو اپنی جوہری تنصیبات کی فہرست ہر سال ایک دوسرے کے ساتھ تبادلہ کرنے کا پابند کرتا ہے؟",
+      "options": [
+        "Creation of Hotlines between DGMO",
+        "Pre-Notification of Ballistic Missile Flight Tests",
+        "Agreement on the Prohibition of Attack Against Nuclear Installations and Facilities",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On 17th August 2026, Pakistan assumed the presidency of which multilateral forum in Geneva?",
+      "urdu": "سترہ اگست 2026 کو پاکستان نے جنیوا میں کس کثیرالجہتی فورم کی صدارت سنبھالی؟",
+      "options": [
+        "Conference on Disarmament",
+        "International Labour Conference",
+        "UN Human Rights Council",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Indian and Pakistani governments hold full membership of an intergovernmental setup known as?",
+      "urdu": "بھارت اور پاکستان کی حکومتیں کس بین الحکومتی تنظیم کی مکمل رکن ہیں؟",
+      "options": [
+        "BRICS",
+        "ASEAN",
+        "SCO",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pakistan fully supports the One-China principle and?",
+      "urdu": "پاکستان ون چائنا اصول کی مکمل حمایت کرتا ہے اور اس کے مطابق کون سا مؤقف اختیار کرتا ہے؟",
+      "options": [
+        "Treats the Taiwan issue as an internal affair of China",
+        "Views Beijing as the sole legitimate Government representing all of China",
+        "Official diplomatic or political ties with Taiwan do not exist",
+        "All of these"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The trading route connecting Pakistan's Kurram district with Afghanistan's Khost area is called?",
+      "urdu": "پاکستان کے ضلع کرم کو افغانستان کے علاقے خوست سے ملانے والے تجارتی راستے کو کیا کہا جاتا ہے؟",
+      "options": [
+        "Kharlachi Route",
+        "Khyber Corridor",
+        "Hormuz-Makran Coastal Link",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "At its meeting on 27th July 2026, the State Bank of Pakistan kept the policy rate unchanged at 11.5 per cent. Given that the full effects of policy-rate changes in Pakistan typically materialise over 18–24 months, which inference is most defensible?",
+      "urdu": "ستائیس جولائی 2026 کو اسٹیٹ بینک آف پاکستان نے شرحِ پالیسی 11.5 فیصد پر برقرار رکھی۔ چونکہ پاکستان میں شرحِ پالیسی میں تبدیلیوں کے مکمل اثرات عام طور پر 18 سے 24 ماہ میں ظاہر ہوتے ہیں، اس لیے کون سا نتیجہ زیادہ درست ہے؟",
+      "options": [
+        "A policy-rate decision determines the national fiscal deficit immediately",
+        "A policy-rate decision can affect inflation with substantial lags",
+        "A policy-rate decision eliminates every domestic supply-side price shock",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to the Defence Forces of Pakistan Act, 2026, who hold the ultimate authority to appoint the Chief of Defence Forces (CDF)?",
+      "urdu": "ڈیفنس فورسز آف پاکستان ایکٹ 2026 کے مطابق چیف آف ڈیفنس فورسز کی تقرری کا حتمی اختیار کس کے پاس ہے؟",
+      "options": [
+        "Federal Cabinet",
+        "The Prime Minister of Pakistan",
+        "The President of Pakistan, on the advice of the Prime Minister",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "LLM stands for?",
+      "urdu": "ایل ایل ایم کا مکمل نام کیا ہے؟",
+      "options": [
+        "Learning Language Module",
+        "Legal Law Management",
+        "Large Language Model",
+        "License of Law Management"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What does SaaS stand for in cloud computing?",
+      "urdu": "کلاؤڈ کمپیوٹنگ میں ساس کا کیا مطلب ہے؟",
+      "options": [
+        "System as a solution",
+        "Software as a Service",
+        "Storage and Access Service",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the function of an HDMI cable?",
+      "urdu": "ایچ ڈی ایم آئی کیبل کا کیا کام ہے؟",
+      "options": [
+        "To connect audio and video devices",
+        "To transmit internet signals",
+        "To connect storage devices",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Bitcoin deploys ________ technology.",
+      "urdu": "بٹ کوائن کس ٹیکنالوجی کو استعمال کرتا ہے؟",
+      "options": [
+        "Hashgraph",
+        "Blockchain",
+        "DAG",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The major source of quick energy for our body is?",
+      "urdu": "انسانی جسم کے لیے فوری توانائی کا سب سے بڑا ذریعہ کون سا ہے؟",
+      "options": [
+        "Carbohydrates",
+        "Mineral",
+        "Vitamin",
+        "Protein"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 14-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A cereal-and-pulse meal supplies non-haem iron, but the household habitually drinks tea with food. Which modification would most improve iron absorption without changing the staple meal?",
+      "urdu": "اناج اور دالوں پر مشتمل کھانے سے نان ہیم آئرن حاصل ہوتا ہے، لیکن گھر میں عادتاً کھانے کے ساتھ چائے پی جاتی ہے۔ بنیادی کھانا تبدیل کیے بغیر آئرن کے جذب کو بہتر بنانے کے لیے کون سی تبدیلی سب سے مؤثر ہوگی؟",
+      "options": [
+        "Add guava and postpone tea until later",
+        "Add calcium tablets and remove all legumes",
+        "Add butter and replace pulses with polished rice",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A proposed municipal landfill overlies a permeable aquifer and will receive biodegradable waste. Which engineering package best controls both groundwater and climate risks?",
+      "urdu": "ایک مجوزہ میونسپل لینڈ فل ایسی قابلِ نفوذ زیرِ زمین آبی تہہ کے اوپر بنایا جا رہا ہے جہاں گلنے سڑنے والا کچرا ڈالا جائے گا۔ زیرِ زمین پانی اور موسمیاتی تبدیلی کے خطرات کو کم کرنے کے لیے کون سا انجینئرنگ نظام بہترین ہے؟",
+      "options": [
+        "Unlined burial, stormwater injection and passive smoke vents",
+        "Composite liner, leachate collection and methane capture",
+        "Daily flooding, deep compaction and unrestricted gas release",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Several tube wells in a district contain excessive arsenic, while nearby tested wells are within the safe limit. Which immediate risk-reduction measure is most defensible?",
+      "urdu": "ایک ضلع میں کئی ٹیوب ویلوں کے پانی میں آرسینک کی مقدار زیادہ ہے، جبکہ قریب کے دیگر ٹیسٹ شدہ کنوؤں کا پانی محفوظ حد میں ہے۔ خطرے کو فوری طور پر کم کرنے کا سب سے مناسب طریقہ کیا ہے؟",
+      "options": [
+        "Mix every tested source regardless of its arsenic level",
+        "Mark tested sources and shift households to low-arsenic water",
+        "Boil all groundwater for longer periods before household consumption",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Which of the following is NOT a type of air pollutant? Hydrocarbons, Chromium, Carbon dioxide, Nitrogen",
       "urdu": "درج ذیل میں سے کون سی چیز فضائی آلودگی پھیلانے والے مادے کی قسم نہیں ہے؟",
@@ -47,7 +593,7 @@
       "category": "all"
     },
     {
-      "q": "Pick the incorrect statement: An endemic is a constant, predictable presence in a specific area, A pandemic is a global epidemic crossing multiple countries and continents, A pandemic is a global endemic crossing multiple countries and continents, None of these",
+      "q": "Pick the incorrect statement: An endemic is a constant, predictable presence in a specific area, A pandemic is a global epidemic crossing multiple countries and continents, A pandemic is a global endemic crossing multiple countries and continents, An epidemic is a sudden, unexpected spike in cases within a region",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
         "An endemic is a constant, predictable presence in a specific area",
@@ -109,552 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The next term in the sequence FAG, GAF, HAI, IAH, is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "HAL",
-        "JAK",
-        "JAI",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">FAG -&gt; GAF = 1st and 3rd letter swapped.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What number should fill the blank in the following sequence 1/9, 1/3, 1, ..., 9?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "3",
-        "4",
-        "5",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>Multiply by 3 each time.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a certain language, the word SISTER is coded as 535301, the word UNCLE is coded as 84670 and the word BOY as 129, then the word SON is coded as?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "522",
-        "524",
-        "526",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">SISTER = 535301</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Odd one out: Cone, Cylinder, Sphere, Circle",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Cone",
-        "Cylinder",
-        "Sphere",
-        "Circle"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\">Circle</font><font color=\"#0000ff\"> is the </font><font color=\"#ff0000\">odd one out</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The pair of numbers that does not belong to the group for lack of common property? 86, 99 56, 63 96, 108 16, 18",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "86, 99",
-        "56, 63",
-        "96, 108",
-        "16, 18"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">All pairs have a common factor greater than 1 except one.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Q is twice as old as P but twice younger than T. R is half the age of P but is twice older than S. Who is the second oldest?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Q",
-        "S",
-        "P",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let P = 1 unit</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The radius of a circle is increased by 1%. If the original value of radius is 10, the percentage increase in the area of circle is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1.15%",
-        "3.07%",
-        "2.01%",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">New Radius = 10 + 1% of 10 = 10 + 0.1 = 10.1</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the price of sharpeners reduces by 20%, a girl can purchase 3 more sharpeners in a dollar. The number of sharpeners that can be purchased in five dollars is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "75",
-        "65",
-        "55",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Price becomes cheap, so you get 3 extra in $1.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a race, Pervaiz is ahead of Ghazi but behind Omar. Omar and Yasir are running side by side. Pervaiz is behind Bilal. Who is at the second place in the race?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Omar",
-        "Pervaiz",
-        "Ghazi",
-        "Bilal"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#0000ff\">Order given is:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Five cartoon videos P, Q, R, S and T are to be played to kids in a sequence meeting the condition given below: (i) P must be played earlier than R (ii) Q must be played earlier than S (iii) T must be the fifth video played. If Q, S and T are played one after another in sequence, when can P be played in the remaining two positions?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "First",
-        "Second",
-        "Third",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">T is fixed at 5th.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A teacher told his class that teacher's evaluation by students is not a valid measure of teaching quality. For this evaluation, students should fill out questionnaires at the end of the course. Which of the following, if true, supports suggestion of the teacher?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Teachers are not interested in any survey",
-        "Students opinions against teachers are filtered during course",
-        "Students show interest in teacher's evaluation",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Teacher's claim = Student evaluation is not valid.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A bus for Multan leaves every thirty minutes from a bus stand. An enquiry clerk told a passenger that the bus had already left ten minutes ago and the next bus will leave at 10:45 AM. At what time did the enquiry clerk give this information to the passenger?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "10:30 AM",
-        "10:15 AM",
-        "10:25 AM",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Next bus = 10:45 AM</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pointing to a gentleman, Dayyan said \"His only brother is the father of my daughter's father.\" How is the gentleman related to Dayyan?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Father",
-        "Uncle",
-        "Grandfather",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">\"My daughter's father\" = Dayyan himself</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the arithmetic mean of 7, 5, 13, x and 9 is 10, the value of x is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "16",
-        "17",
-        "18",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Mean = Sum / n</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose which pair of numbers come next in the sequence 16, 26, 56, 36, 46, 68, 56, ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "64, 82",
-        "66, 80",
-        "78, 68",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Sequence is: 16, 26, 56, 36, 46, 68, 56, ?, ?</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The pair of numbers that does not belong to the group for lack of common property? 18, 45 27, 36 29, 82 14, 23",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "18, 45",
-        "27, 36",
-        "29, 82",
-        "14, 23"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#0000ff\"><b>All pairs except one have a common property inside the pair.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "The wheel of a car is of diameter 70 cm. The number of revolutions per minute must the wheel make so as to keep a speed of 66 km/hour will be?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "300",
-        "400",
-        "500",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Diameter = 70 cm</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the Mathematics department of a certain university, the student teacher ratio was 20:1. It was decided to increase the number of students and teachers by 50% and 10% respectively. The new student to teacher ratio is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "30:1",
-        "300:11",
-        "25:1",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Old ratio = 20 : 1</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A class has four sections and the number of students in each section is 50, 40, 30 and 20. The pass percentage of these sections is 20%, 15%, 30%, and 50% respectively. The failure percentage of the entire class is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70%",
-        "75%",
-        "80%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Total students = 50 + 40 + 30 + 20 = 140</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Two discounts of 15% and 30% are equal to a single discount of?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "40.5%",
-        "41.5%",
-        "42.5%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Single discount = 100 - (100 - D1)_(100 - D2)/100</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If x + 1/x = 5, what is the value of x² + 1/x²?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "21",
-        "22",
-        "23",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Formula: (x + 1/x)^2 = x^2 + 1/x^2 + 2</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A student was solving a question of Mathematics. While he was doing calculations, he multiplied a number by 3/2 instead of 2/3. The percentage error in the calculation is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "55.55%",
-        "55.45%",
-        "55.35%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#0000ff\"><b>Let number = x</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "A mark is initially placed in the upper-right corner of a transparent square. The square is rotated 90° anticlockwise, reflected across its vertical centre-line, and then rotated 180°. Where is the mark finally located?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Lower-right corner",
-        "Lower-left corner",
-        "Upper-left corner",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Start: Upper-Right</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A person faces north, turns 90° right, then 135° left, and finally 45° right. Which direction is the person facing?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "W",
-        "N",
-        "E",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Facing North.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Beginning with 5, a sequence is formed by repeatedly applying these operations in order: add 4, multiply by 2, and subtract 3. What is the seventh displayed number when the starting number is counted as the first?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "35",
-        "36",
-        "37",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Starting number 5 is counted as 1st.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Four friends A, B, C, D are residing in a same locality. The house of B is in the east of house of A but in the north of house of C. The house is in the west of house of D. The house of D is in which direction of house of A?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "East",
-        "South-East",
-        "North-East",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Put A at center:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Two angles of a triangle measure 15° and 85°. What is the measure for the third angle?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "80",
-        "90",
-        "100",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Sum of all 3 angles = 180°</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Exactly four students are to attend a workshop. They are to be chosen from a group of seven eligible students: three boys F, G, H and four girls J, K, M, and N. The four are to be chosen according to the following conditions? (i) If either G or H attends the workshop, then other must also attend. (ii) J and K cannot both attend the workshop. (iii) G and M cannot both attend the workshop. Which of the following could be the group attending the workshop?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "G, J, M, N",
-        "F, G, H, M",
-        "F, K, M, N",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Check all 3 against the rules:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Every record cleared by Unit X carries a digital signature. A particular record has no digital signature. Which conclusion is valid?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "It must carry a paper signature.",
-        "It was not cleared by Unit X.",
-        "It was rejected by every unit.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The statement means: If Unit X clears a record, that record has a digital signature.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Sarah is twice as old as her youngest brother. If the difference between their ages is 15 years, how old is her youngest brother?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "15",
-        "20",
-        "25",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let youngest brother = x</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Six folders A, B, C, D, E and F are arranged in a row. A is before D, C is immediately after B, and F is before B. Which statement must be true?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "D must occur after C.",
-        "F occurs before C.",
-        "E must occur after A.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">C is immediately after B, so the order includes B → C.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The statement \"The archive remains locked whenever the custodian is absent\" is logically equivalent to which option?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "If the archive remains locked, the custodian is absent.",
-        "If the archive is unlocked, the custodian is absent.",
-        "If the archive is unlocked, the custodian is present.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">“Whenever the custodian is absent, the archive remains locked” means: If the custodian is absent, then the archive is locked.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Some trainers are assessors. All assessors are certified. No certified person is temporary. Which conclusion necessarily follows?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Some temporary persons are assessors.",
-        "No trainer can ever be temporary.",
-        "Some trainers are not temporary.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Some trainers are assessors, and all assessors are certified. Therefore, those trainers who are assessors are also certified.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Find the missing number in the sequence: 3, 7, 15, ______, 63, 127.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "31",
-        "32",
-        "33",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Pattern is x2 + 1</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the integer n? Statement I: n is strictly between 20 and 30. Statement II: n leaves a remainder of 2 when divided by 7. Which option correctly describes the information?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Only the pair is sufficient.",
-        "Only statement I is sufficient.",
-        "Only statement II is sufficient.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Statement I alone is insufficient: n could be any integer from 21 to 29.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "On a map, 1 inch represents 20 miles. The distance between two towns is 6 1/5 inches. How many miles are actually between the two towns?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "124 miles",
-        "84 miles",
-        "138 miles",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">1 inch = 20 miles</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Applicants are shortlisted only if they score at least 70 and have two years of experience. An accredited certificate substitutes for one year of experience, but not for the score. A candidate scores 74, has one and a half years of experience, and holds the certificate. What is the correct decision?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Reject for insufficient experience.",
-        "Shortlist the candidate.",
-        "Reject for an insufficient score.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 20-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "1200 boys and 800 girls appeared in an examination. If 60% of the boys and 40% of the girls passed the examination, what is the percentage of candidates who failed in the examination?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "49%",
-        "48%",
-        "47%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Boys passed = 60% of 1200 = 720</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A manager argues that appointment slots will reduce queue congestion because arrivals will be distributed across the day. Which assumption is required?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Every listed service takes equal time.",
-        "Applicants keep assigned slots.",
-        "The premises have only one entrance.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">The </font><font color=\"#ff0000\">argument assumes</font><font color=\"#0000ff\"> that applicants arrive according</font><font color=\"#ff0000\"> to their assigned appointment slots</font><font color=\"#0000ff\">.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A parking lot contains 160 vehicles. Each vehicle is either a car or a truck and each vehicle is either red or green. 70 vehicles are red and 120 vehicles are cars. If there are 18 green trucks, how many red cars are there?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "48",
-        "50",
-        "52",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Total vehicles = 160</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ratio of male and female students in a class is 27:23. If the difference between the number of male and female students is 200, then the number of female students is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "1150",
-        "1350",
-        "1550",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">27 - 23 = 4 parts = 200</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a fruit seller buys bananas at Rs.100 per dozen and sells at Rs.140 per dozen, he earns the profit at?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "40%",
-        "30%",
-        "20%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Profit = 140 - 100 = 40</font></b></p>",
       "category": "all"
     }
   ]
