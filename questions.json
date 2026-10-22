@@ -3,10 +3,205 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-22T12:42:27.024340",
+    "fetched_at": "2026-10-22T17:49:37.215198",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Pakistan won how many total medals in Asian Games 2026?",
+      "urdu": "پاکستان نے ایشین گیمز 2026 میں کل کتنے تمغے جیتے؟",
+      "options": [
+        "15 medals",
+        "10 medals",
+        "5 medals",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p class=\"MsoNormal\" style=\"color: rgb(33, 37, 41);\"><span style=\"font-weight: bolder; color: rgb(0, 0, 255);\">Asian Games </span><span style=\"font-weight: bolder;\"><span style=\"color: rgb(0, 0, 255);\"><span style=\"background-color: rgb(255, 255, 0);\">2026</span><o:p></o:p></span></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "وہ شاعر و ادیب کون ہیں جن کے ناولوں میں عورتوں کی مظلومیت کو نمایاں طور پر پیش کیا گیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "علامہ راشد الخیری",
+        "حیدر دہلوی",
+        "کرشن چندر",
+        "حفیظ جالندھری"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "وہ صفت جو کسی کو دوسری صفت سے منفرد یا اچھا بنائے، اسے کیا کہتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "وجہِ امتیاز",
+        "صفتِ مشبہ",
+        "تشبیہ",
+        "استعارہ"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\">وجہِ</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">امتیاز</font><font color=\"#0000ff\"> اس خاص </font><font color=\"#ff0000\">وصف یا خوبی</font><font color=\"#0000ff\"> کو کہتے ہیں جو کسی </font><font color=\"#ff0000\">شخص یا چیز کو دوسروں</font><font color=\"#0000ff\"> سے </font><font color=\"#ff0000\">ممتاز</font><font color=\"#0000ff\"> کرے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "ارکانِ استعارہ کتنے ہوتے ہیں؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "چھ",
+        "چار",
+        "دو",
+        "تین"
+      ],
+      "correct": 3,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Who was the Premier of Bengal at the time of the Partition of Bengal in 1947?",
+      "urdu": "سن 1947ء میں تقسیمِ بنگال کے وقت بنگال کا وزیرِاعلیٰ کون تھا؟",
+      "options": [
+        "Huseyn Shaheed Suhrawardy",
+        "A. K. Fazlul Huq",
+        "Khawaja Nazimuddin",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Why is lightning seen earlier than the sound of thunder?",
+      "urdu": "بجلی کی چمک گرج کی آواز سے پہلے کیوں نظر آتی ہے؟",
+      "options": [
+        "Light travels faster than sound.",
+        "Sound travels faster than light.",
+        "Lightning occurs before thunder is produced.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If A and B are two positive even integers, which of the following will be the greatest?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "(-2A)^B",
+        "-2A²B",
+        "Both are equal",
+        "Cannot be determined"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Given:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If a clock strikes once at 1 o’clock, twice at 2 o’clock, thrice at 3 o’clock, and so on, what is the total number of strikes in 12 hours?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "78",
+        "79",
+        "80",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Clock strikes:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The decimal form of 2/5 is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "0.2",
+        "0.4",
+        "0.5",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\">2/5 = </font><font color=\"#ff0000\">0.4</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "If the value of the y-coordinate is zero, then which statement is correct?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The point will always lie on the y-axis.",
+        "The point will always lie on the x-axis.",
+        "The point will always lie in the first quadrant.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the use of 'Custom Slide Show'?",
+      "urdu": "کسٹم سلائیڈ شو کا استعمال کیا ہے؟",
+      "options": [
+        "To add animations",
+        "To create a new presentation",
+        "To show slides in a specific order",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "بیل منڈھے چڑھنا کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "کسی کام کا کامیاب ہونا",
+        "غصہ آنا",
+        "حوصلہ بڑھانا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 0,
+      "explanation": "<p style=\"text-align: right; \"><b style=\"\"><font color=\"#0000ff\">بیل منڈھے چڑھنا ایک اردو محاورہ ہے جس کا مطلب ہے کسی کام کا کامیاب ہونا</font><font color=\"#ff0000\">، مقصد حاصل کرنا، یا کسی منصوبے کا پایہ تکمیل تک پہنچنا۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In 1932, the British Prime Minister announced the Communal Award granting separate electorate to the depressed classes. Name the British Prime Minister?",
+      "urdu": "سن انیس سو بتیس میں برطانوی وزیر اعظم نے کمیونل ایوارڈ کا اعلان کیا جس سے محروم طبقے کو الگ ووٹر دیے گئے۔ برطانوی وزیراعظم کا نام بتائی؟",
+      "options": [
+        "Harold McMillan",
+        "Winston Churchill",
+        "Ramsay Macdonald",
+        "Attlee"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In present constitution, how many lists of power are given for the division of powers between Provinces and Federation?",
+      "urdu": "موجودہ آئینِ پاکستان میں وفاق اور صوبوں کے درمیان اختیارات کی تقسیم کے لیے کتنی فہرستیں دی گئی ہیں؟",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who added the words Assalat-u-Khairum- Menun-Naum in the Fajr Azan?",
+      "urdu": "فجر کی اذان میں اَلسَّلَامُ الْخَیْرُمُ مَنْنُم کے الفاظ کس نے شامل کیے؟",
+      "options": [
+        "Hazrat Abu Bakr (RA)",
+        "Hazrat Umar (RA)",
+        "Hazrat Usman (RA)",
+        "Hazrat Ali (RA)"
+      ],
+      "correct": 1,
+      "explanation": "<p><font color=\"#ff0000\" style=\"\"><span style=\"background-color: rgb(255, 255, 0);\"><b style=\"\">Last verified on 22-10-2026</b></span></font></p>",
+      "category": "all"
+    },
     {
       "q": "Uranium deposits are found in which city of Punjab?",
       "urdu": "یورینیم کے ذخائر پنجاب کے کس شہر میں پائے جاتے ہیں؟",
@@ -461,201 +656,6 @@
       ],
       "correct": 2,
       "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which type of government was proposed in the Objectives Resolution of 1949?",
-      "urdu": "قراردادِ مقاصد 1949ء میں کس طرزِ حکومت کی تجویز دی گئی تھی؟",
-      "options": [
-        "Presidential form of government",
-        "Parliamentary form of government",
-        "Monarchical form of government",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "National Assembly and Senate unanimously passed constitutional amendment bill on",
-      "urdu": "قومی اسمبلی اور سینیٹ نے متفقہ طور پر آئینی ترمیمی بل کب منظور کیا؟",
-      "options": [
-        "2/3",
-        "3/5",
-        "4/4",
-        "3/4"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Eternal is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Temporary",
-        "Everlasting",
-        "Brief",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "محاورہ: بلی کے بھاگوں چھینکا ٹوٹا کا مطلب کیا ہے؟",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "اچانک بغیر کوشش کے فائدہ حاصل ہونا",
-        "کسی چیز کا نقصان ہو جانا",
-        "مشکل کام کو آسان بنانا",
-        "ان میں سے کوئی نہیں"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\">بلی کے بھاگوں چھینکا ٹوٹا کا </font><font color=\"#0000ff\">مطلب ہے کہ</font><font color=\"#ff0000\"> کسی شخص کو بغیر محنت یا توقع</font><font color=\"#0000ff\"> کے اچانک کوئی فائدہ یا موقع مل جائے۔</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The removal of wastes from the body is known as?",
-      "urdu": "جسم سے فاضل مادوں کو خارج کرنے کے عمل کو کیا کہتے ہیں؟",
-      "options": [
-        "Ingestion",
-        "Excretion",
-        "Digestion",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Oxidation is a chemical reaction involving the ______?",
-      "urdu": "آکسیکرن ایک کیمیائی رد عمل ہے جس میں  شامل ہوتا ہے؟",
-      "options": [
-        "Gain of Electrons",
-        "Loss of Electrons",
-        "Gain of Protons",
-        "Loss of Protons"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" -apple-system,=\"\" arial,=\"\" blinkmacsystemfont,=\"\" color=\"\" dm=\"\" emoji\",=\"\" emoji\";\"=\"\" neue\",=\"\" roboto,=\"\" sans\",=\"\" sans-serif,=\"\" style=\"margin-bottom: 10px; color: rgb(33, 37, 41); --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; font-family: D-DINExp, \" symbol\",=\"\" ui=\"\" ui\",=\"\"><b><font color=\"#0000ff\"><span style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ;\">Oxidation</span> </font><font color=\"#ff0000\">is the chemical process </font><font color=\"#0000ff\">of:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What does the phrase “In common” mean?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "In secret",
-        "Shared by two or more people",
-        "In difficulty",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "It was raining heavily yesterday night, so they ________ out.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Did not go",
-        "Did not gone",
-        "Did not went",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><font color=\"#ff0000\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "On what date did the All-India Muslim League observe the “Day of Deliverance” after the resignation of Congress ministries?",
-      "urdu": "مسلم لیگ نے کانگریس وزارتوں کے استعفے کے بعد \"یومِ نجات\" کس تاریخ کو منایا؟",
-      "options": [
-        "22 October 1938",
-        "22 October 1939",
-        "22 December 1939",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is not a social issue in Pakistan?",
-      "urdu": "پاکستان میں مندرجہ ذیل میں سے کون سا سماجی مسئلہ نہیں ہے؟",
-      "options": [
-        "Constitutional Crisis",
-        "Illiteracy",
-        "Poverty",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which Pakistani player becomes first Pakistani to score 10000 runs in Test Cricket?",
-      "urdu": "ٹیسٹ کرکٹ میں 10,000 رنز بنانے والے پہلے پاکستانی کھلاڑی کون ہیں؟",
-      "options": [
-        "Muhammad Yousaf",
-        "Younis Khan",
-        "Inzamam Ul Haq",
-        "Azhar Ali"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Cabinet Mission announced their plan on which date?",
-      "urdu": "کیبنٹ مشن نے کس تاریخ کو اپنے منصوبے کا اعلان کیا؟",
-      "options": [
-        "8th April 1947",
-        "5th December 1947",
-        "15th January 1947",
-        "16th May 1946"
-      ],
-      "correct": 3,
-      "explanation": "<p><span style=\"font-size: 13.3333px; background-color: rgb(255, 255, 0);\"><b style=\"\"><font color=\"#ff0000\">Last verified on 01-05-2026</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "When was the Objectives Resolution passed?",
-      "urdu": "قرار داد مقاصد کب منظور ہوئی؟",
-      "options": [
-        "12 March 1947",
-        "12 March 1948",
-        "12 March 1949",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p data-end=\"222\" data-start=\"190\"><b style=\"\"><font color=\"#0000ff\">Adopted: </font><font color=\"#ff0000\">12 March 1949</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Where is Diego Garcia situated?",
-      "urdu": "ڈیاگو گارسیا کہاں واقع ہے؟",
-      "options": [
-        "Near bay of Bangal",
-        "Caspian sea",
-        "In Indian Ocean",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the game of hockey, which player wears the most protective padding?",
-      "urdu": "ہاکی کے کھیل میں کون سا کھلاڑی سب سے زیادہ حفاظتی پیڈنگ پہنتا ہے؟",
-      "options": [
-        "Goalkeeper",
-        "Striker",
-        "Defender",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 22-10-2026</font></b></p>",
       "category": "all"
     }
   ]
