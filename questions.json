@@ -3,10 +3,296 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-23T21:44:38.251221",
+    "fetched_at": "2026-10-24T05:22:55.158528",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "According to financial management rules, up to which date can a Principal Accounting Officer (PAO) typically make re-appropriations within the budget before year-end closures?",
+      "urdu": "مالیاتی انتظام کے قواعد کے مطابق، مالی سال کے اختتام سے پہلے پرنسپل اکاؤنٹنگ آفیسر کس تاریخ تک بجٹ کے اندر رقوم کی دوبارہ تخصیص کر سکتا ہے؟",
+      "options": [
+        "31st May",
+        "31st March",
+        "30th June",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under general government administrative rules, who among the following is authorized to make appointments to posts in BPS-20 and above?",
+      "urdu": "عمومی سرکاری انتظامی قواعد کے تحت گریڈ 20 اور اس سے اوپر کی آسامیوں پر تقرری کرنے کا اختیار کس کو حاصل ہے؟",
+      "options": [
+        "Prime Minister",
+        "Cabinet Secretary",
+        "Secretary Establishment",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Six clerks can complete a piece of work in 15 hours. After working for 5 hours, 3 more clerks join them with the same efficiency. How much total time will be required to complete the work?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "11 hours 40 minutes",
+        "11 hours 50 minutes",
+        "11 hours 20 minutes",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Total work = 6 clerks _ 15 hours = 90 clerk-hours</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the maximum permissible duration for issuing a notice when making ad-hoc or temporary appointments in government service?",
+      "urdu": "سرکاری ملازمت میں عارضی یا ایڈہاک تقرری کے دوران ملازمت ختم کرنے کے لیے نوٹس کی زیادہ سے زیادہ مقررہ مدت کتنی ہے؟",
+      "options": [
+        "30 days",
+        "60 days",
+        "14 days",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is decreased by 12% and then increased by 15%. What is the final value as a percentage of the original number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "101.2%",
+        "102.2%",
+        "103.2%",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Let original number = 100</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A number is increased by 20%. By what percentage must the increased number be decreased to return to the original number?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "14⅔%",
+        "15⅔%",
+        "16⅔%",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Original number = 100</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The principal and operation accounts are in the ratio of 7:5. If Rs. 90,000 is transferred from the principal account to the operation account, the ratio becomes 5:4. What was the original amount in the principal account?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 1,891,000",
+        "Rs. 1,892,000",
+        "Rs. 1,890,000",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Principal and Operation accounts ratio is 7:5</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What happens to a civil servant’s date of birth after joining government service?",
+      "urdu": "سرکاری ملازمت میں شامل ہونے کے بعد سول سرونٹ کی تاریخِ پیدائش کے ساتھ کیا معاملہ کیا جاتا ہے؟",
+      "options": [
+        "It can be changed at any time",
+        "It is treated as final, subject to applicable rules",
+        "It is changed after promotion",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who assists the Principal Accounting Officer (PAO) in carrying out financial management responsibilities?",
+      "urdu": "پرنسپل اکاؤنٹنگ آفیسر کو مالیاتی انتظام کی ذمہ داریاں ادا کرنے میں کون مدد دیتا ہے؟",
+      "options": [
+        "Subordinate officers",
+        "Private contractors",
+        "External auditors only",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is a volatile memory? RAM, ROM, Cache, Both A and C",
+      "urdu": "مندرجہ ذیل میں سے کون سی غیر مستحکم میموری ہے؟",
+      "options": [
+        "RAM",
+        "ROM",
+        "Cache",
+        "Both A and C"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under Rule 33 of the Public Procurement Rules, 2004, when may a procuring agency reject all bids or proposals?",
+      "urdu": "پبلک پروکیورمنٹ رولز 2004 کے رول 33 کے تحت، خریداری کرنے والا ادارہ تمام بولیاں یا تجاویز کب مسترد کر سکتا ہے؟",
+      "options": [
+        "Only after the contract is awarded",
+        "At any time before acceptance of a bid or proposal",
+        "Only when every bidder requests rejection",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under the single-stage, two-envelope bidding procedure, what happens to the technical and financial proposals?",
+      "urdu": "سنگل اسٹیج، ٹو اینویلپ بولی کے طریقۂ کار میں تکنیکی اور مالی تجاویز کے ساتھ کیا کیا جاتا ہے؟",
+      "options": [
+        "Both proposals are opened and evaluated simultaneously",
+        "The financial proposal is evaluated before the technical proposal",
+        "The technical proposal is evaluated first, and financial proposals of technically accepted bidders are opened afterward",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the main purpose of allowances paid to government employees?",
+      "urdu": "سرکاری ملازمین کو الاؤنس دینے کا بنیادی مقصد کیا ہے؟",
+      "options": [
+        "To generate additional profit for employees",
+        "To cover specified expenses or compensate for prescribed conditions of service",
+        "To replace the employee's basic salary permanently",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What principle should be followed when spending public money?",
+      "urdu": "عوامی رقم خرچ کرتے وقت کس اصول پر عمل کرنا چاہیے؟",
+      "options": [
+        "Public money should be spent without restrictions",
+        "Public money should be spent only at the end of the year",
+        "Public money should be spent as carefully as one's own money",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Can a Principal Accounting Officer (PAO) delegate duties to junior staff while retaining overall responsibility for accounts-related matters?",
+      "urdu": "کیا پرنسپل اکاؤنٹنگ آفیسر اکاؤنٹس سے متعلق معاملات کی مجموعی ذمہ داری برقرار رکھتے ہوئے اپنے فرائض ماتحت عملے کو سونپ سکتا ہے؟",
+      "options": [
+        "No, delegation is completely prohibited",
+        "Yes, but overall responsibility remains with the PAO",
+        "Yes, and all responsibility transfers to junior staff",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Chief Finance and Accounts Officer (CFAO) is posted by the Establishment Division in consultation with whom?",
+      "urdu": "چیف فنانس اینڈ اکاؤنٹس آفیسر کو اسٹیبلشمنٹ ڈویژن کس کے مشورے سے تعینات کرتا ہے؟",
+      "options": [
+        "State Bank of Pakistan",
+        "Federal Public Service Commission",
+        "Auditor-General of Pakistan",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the constitutional head of Pakistan?",
+      "urdu": "پاکستان کا آئینی سربراہ کون ہے؟",
+      "options": [
+        "The Chairman Senate",
+        "The Prime Minister",
+        "The President",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What happens when a civil servant promoted to a higher post fails to pass the prescribed training examination?",
+      "urdu": "اگر کسی اعلیٰ عہدے پر ترقی پانے والا سول سرونٹ مقررہ تربیتی امتحان پاس کرنے میں ناکام ہو جائے تو کیا ہوگا؟",
+      "options": [
+        "The civil servant is reverted to the lower post",
+        "The civil servant is permanently dismissed",
+        "The civil servant is automatically confirmed",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "On what basis is selection to a selection post made under the civil service rules?",
+      "urdu": "سول سروس کے قواعد کے تحت سلیکشن پوسٹ پر انتخاب کس بنیاد پر کیا جاتا ہے؟",
+      "options": [
+        "Seniority alone",
+        "Length of service alone",
+        "Merit",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What happens if a civil servant fails to complete the prescribed training or pass the required training examination during probation on initial appointment?",
+      "urdu": "اگر کوئی سول سرونٹ ابتدائی تقرری کے دوران پروبیشن میں مقررہ تربیت مکمل کرنے یا مطلوبہ امتحان پاس کرنے میں ناکام ہو جائے تو کیا ہوگا؟",
+      "options": [
+        "The probation period is automatically waived",
+        "The civil servant is discharged from service",
+        "The civil servant is promoted to the next grade",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Against which type of post is a civil servant confirmed under the Civil Servants Act, 1973?",
+      "urdu": "سول سرونٹس ایکٹ 1973 کے تحت سول سرونٹ کی تصدیق کس قسم کی آسامی پر کی جاتی ہے؟",
+      "options": [
+        "A permanent post",
+        "A temporary post",
+        "A contract post",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is not included in the category of a civil servant under the Civil Servants Act, 1973?",
+      "urdu": "سول سرونٹس ایکٹ 1973 کے تحت کون سا شخص سول سرونٹ کی تعریف میں شامل نہیں ہے؟",
+      "options": [
+        "A person appointed to a civil post in connection with the affairs of the Federation",
+        "A person appointed to a civil service of the Federation",
+        "A person on deputation to the Federation",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "The travelers ______ the beautiful scenery as they ______ their way through the country.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -369,292 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Due to the 2022 floods, the estimated loss to the economy of Pakistan was?",
-      "urdu": "دو ہزار بائیس کے سیلاب کی وجہ سے پاکستان کی معیشت کو تخمینی نقصان کتنا ہوا؟",
-      "options": [
-        "About $5 billion",
-        "About $15 billion",
-        "About $50 billion",
-        "About $100 billion"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan has been elected non permanent member of UN Security Council for the 8th times from?",
-      "urdu": "پاکستان 8ویں مرتبہ اقوام متحدہ کی سلامتی کونسل کا غیر مستقل رکن منتخب ہوا؟",
-      "options": [
-        "2024-25",
-        "2026-27",
-        "2025-26",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p class=\"MsoNormal\"><span style=\"font-weight: bolder;\"><font color=\"#0000ff\">On 6 June 2024, <span style=\"background-color: rgb(255, 255, 0);\">Pakistan </span>was elected as a non-permanent member of the </font><font color=\"#ff0000\">UN Security Council (UNSC)</font><font color=\"#0000ff\"> for the </font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">8</font><span style=\"font-size: 12pt;\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">th </font><font color=\"#0000ff\">time.<o:p></o:p></font></span></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "USA withdrew from Loss and Damage Fund (LDF). It was established at which event?",
-      "urdu": "امریکہ نے نقصان اور نقصان کے فنڈ سے دستبرداری اختیار کر لی۔ یہ کس تقریب میں قائم ہوا؟",
-      "options": [
-        "COP26, Glasgow, UK",
-        "COP28, Dubai, UAE",
-        "COP27, Sharm-ul-Sheikh, Egypt",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">On </font><font color=\"#ff0000\">March 4, 2025</font><font color=\"#0000ff\">, the </font><font color=\"#ff0000\">United States </font><font color=\"#0000ff\">withdrew from the board of the United Nations' </font><font color=\"#ff0000\">Loss and Damage Fund.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan hosted the _____ meeting of Council of the Heads of Government (CHG) of the Member States of the Shanghai Cooperation Organization (SCO) from 15 to 16 October, 2024 in Islamabad.",
-      "urdu": "پاکستان نے 15 سے 16 اکتوبر 2024 کو اسلام آباد میں شنگھائی تعاون تنظیم (ایس سی او) کے رکن ممالک کے سربراہان حکومت کی کونسل (سی ایچ جی) کے _____ اجلاس کی میزبانی کی۔",
-      "options": [
-        "25th",
-        "23rd",
-        "24th",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan was removed from the FATF grey list after meeting _______ action items.",
-      "urdu": "پاکستان کو ایف اے ٹی ایف کی گرے لسٹ سے کتنے ایکشن آئٹمز مکمل کرنے کے بعد نکالا گیا؟",
-      "options": [
-        "36",
-        "34",
-        "32",
-        "38"
-      ],
-      "correct": 1,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How many times Pakistan became non permanent member of UNO Security Council?",
-      "urdu": "پاکستان کتنی بار اقوام متحدہ کی سلامتی کونسل کا غیر مستقل رکن بنا؟",
-      "options": [
-        "7 times",
-        "8 times",
-        "9 times",
-        "10 times"
-      ],
-      "correct": 1,
-      "explanation": "<p \"apple=\"\" \"helvetica=\"\" \"noto=\"\" \"segoe=\"\" 700;\"=\"\" arial,=\"\" class=\"MsoNormal\" color=\"\" emoji\",=\"\" emoji\";=\"\" font-weight:=\"\" neue\",=\"\" roboto,=\"\" sans-serif,=\"\" segoe=\"\" style=\"\" symbol\",=\"\" ui=\"\" ui\",=\"\"><span style=\"font-size: 16px;\"><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the Arithmetic Mean of the numbers 10, 20, 30, 40, and 50?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "30",
-        "25",
-        "35",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">To find the Arithmetic Mean (Average):</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If a number increases from 80 to 100, what is the percentage increase?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "20%",
-        "25%",
-        "30%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#0000ff\"><b>Increase = 100 − 80 = 20.</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Allama Iqbal gave his historical Presidential Address at ____?",
-      "urdu": "علامہ اقبال نے اپنا تاریخی صدارتی خطبہ کہاں دیا؟",
-      "options": [
-        "Allahabad",
-        "Lahore",
-        "Delhi",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 30-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The formula for Arithmetic Mean is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Sum of all observations × Total number of observations",
-        "Sum of all observations ÷ Total number of observations",
-        "Total number of observations ÷ Sum of all observations",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The mean of five consecutive positive integers is 68. What is the largest integer?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "70",
-        "69",
-        "68",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">The mean of five consecutive integers is the middle integer, so the middle number is 68.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Prevention of Poliomyelitis (Polio) is possible with _____?",
-      "urdu": "پولیو سے بچاؤ کس کے ذریعے ممکن ہے؟",
-      "options": [
-        "Vaccination (IPV & OPV)",
-        "Medication",
-        "Gene therapy",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which two countries remain endemic for wild polio?",
-      "urdu": "جنگلی پولیو وائرس اب بھی کن دو ممالک میں مقامی طور پر موجود ہے؟",
-      "options": [
-        "Afghanistan and Iran",
-        "Pakistan and India",
-        "Pakistan and Afghanistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pakistan Monument Museum is famous for what?",
-      "urdu": "پاکستان مونومنٹ میوزیم کس چیز کے لیے مشہور ہے؟",
-      "options": [
-        "Traditional crafts and regional festivals",
-        "Ancient civilizations and archaeological discoveries",
-        "Pakistan Movement and the struggle for independence",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Lok Virsa Museum in Islamabad is famous for what?",
-      "urdu": "اسلام آباد میں لوک ورثہ میوزیم کس چیز کے لیے مشہور ہے؟",
-      "options": [
-        "Folk heritage, crafts, and culture",
-        "Modern technology and innovation",
-        "Wildlife conservation and research",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The ML-1 (Main Line-1) project is related to which sector?",
-      "urdu": "ایم ایل-1 (مین لائن-1) منصوبہ کس شعبے سے متعلق ہے؟",
-      "options": [
-        "Railway sector",
-        "Road transport",
-        "Aviation sector",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "River Kabul joins Indus at?",
-      "urdu": "دریائے کابل کس مقام پر دریائے سندھ سے ملتا ہے؟",
-      "options": [
-        "Jhelum",
-        "Mianwali",
-        "Attock",
-        "Sahiwal"
-      ],
-      "correct": 2,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who demanded a separate Muslim homeland in 1930 at Allahabad?",
-      "urdu": "سن 1930 میں الہ آباد میں علیحدہ مسلم وطن کا مطالبہ کس نے کیا؟",
-      "options": [
-        "Quaid-i-Azam",
-        "Liaquat Ali Khan",
-        "Allama Iqbal",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "In which of the following city, All India Muslim League was found?",
-      "urdu": "آل انڈیا مسلم لیگ مندرجہ ذیل میں سے کس شہر میں بنی؟",
-      "options": [
-        "Delhi",
-        "Lahore",
-        "Dhaka",
-        "Allahabad"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 21-04-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "K2 (Godwin Austin), the second-highest mountain in the world, is located in which mountain range?",
-      "urdu": "دنیا کا دوسرا بلند ترین پہاڑ کے ٹو کس پہاڑی سلسلے میں واقع ہے؟",
-      "options": [
-        "Himalayas",
-        "Hindu Kush",
-        "Karakoram Range",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><font face=\"Helvetica\"><span style=\"font-weight: bolder;\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></span></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Ajrak is the cultural dress of which province?",
-      "urdu": "اجرک کس صوبے کا ثقافتی لباس ہے؟",
-      "options": [
-        "Punjab",
-        "KPK",
-        "Sindh",
-        "Balochistan"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Desert of Thar lies in the province of ______?",
-      "urdu": "پاکستان کا سب سے بڑا صحرا تھر کس صوبے میں واقع ہے؟",
-      "options": [
-        "Balochistan",
-        "Punjab",
-        "KPK",
-        "Sindh"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
       "category": "all"
     }
   ]
