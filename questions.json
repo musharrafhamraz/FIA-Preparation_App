@@ -3,10 +3,23 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-24T11:47:42.293173",
+    "fetched_at": "2026-10-24T16:24:25.890522",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "If I had a degree, I could have applied for that vacancy. Select the correct tense?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Past Perfect Continuous",
+        "Simple Past",
+        "Past Perfect",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Who is the Current Inspector General of Pakistan Railways Police?",
       "urdu": "پاکستان ریلوے پولیس کے موجودہ انسپکٹر جنرل کون ہیں؟",
@@ -641,19 +654,6 @@
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What should a security guard do if a suspicious object is found?",
-      "urdu": "اگر کوئی مشکوک چیز ملے تو سکیورٹی گارڈ کو کیا کرنا چاہیے؟",
-      "options": [
-        "Open the object to identify its contents",
-        "Do not touch it, isolate the area, and inform the authorities",
-        "Ignore the object and continue the patrol",
-        "None of these"
-      ],
-      "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
       "category": "all"
     }
