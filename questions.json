@@ -3,10 +3,153 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-24T05:22:55.158528",
+    "fetched_at": "2026-10-24T11:47:42.293173",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "Who is the Current Inspector General of Pakistan Railways Police?",
+      "urdu": "پاکستان ریلوے پولیس کے موجودہ انسپکٹر جنرل کون ہیں؟",
+      "options": [
+        "Sarfraz Ahmed Falki",
+        "Muhammad Wisal Fakhar Sultan",
+        "Rao Sardar Ali Khan",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><o:p></o:p></p>",
+      "category": "all"
+    },
+    {
+      "q": "Who is the Current T20 Captain of Pakistan Cricket Team?",
+      "urdu": "پاکستان کرکٹ ٹیم کا موجودہ ٹی ٹونٹی کپتان کون ہے؟",
+      "options": [
+        "Shan Masood",
+        "Mohammad Rizwan",
+        "Salman Ali Agha",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A federal department expects several employees to retire within the next two years. What should be the first HRM step before recruiting new employees or training or redeploying existing staff?",
+      "urdu": "ایک وفاقی محکمہ توقع کرتا ہے کہ اگلے دو سال میں کئی ملازمین ریٹائر ہو جائیں گے۔ نئے ملازمین بھرتی کرنے، موجودہ عملے کو تربیت دینے یا دوبارہ تعینات کرنے سے پہلے ایچ آر ایم کا پہلا قدم کیا ہونا چاہیے؟",
+      "options": [
+        "Conduct workforce planning and assess future staffing needs",
+        "Immediately recruit new employees",
+        "Transfer all existing employees",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The average of 10 numbers was calculated as 48. It was later discovered that while calculating the average, one number, 82, was incorrectly entered as 28. What is the correct average of these numbers?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "42.6",
+        "48.5",
+        "53.4",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">Average of 10 numbers = 48</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A system fails at 13:32 and is restored at 16:00. If the permitted recovery time is 2 hours, which recovery objective has been exceeded?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Recovery Point Objective (RPO)",
+        "Recovery Time Objective (RTO)",
+        "Both RTO and RPO necessarily",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">The outage lasted from </font><font color=\"#ff0000\">13:32 to 16:00</font><font color=\"#0000ff\">, which is 2 hours 28 minutes.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Under civil service promotion and transfer (APT) frameworks for BPS-20 and above, who constitutes the primary selection board?",
+      "urdu": "سول سروس کے تقرری، ترقی اور تبادلے کے قواعد کے تحت بی پی ایس-20 اور اس سے اوپر کے عہدوں کے لیے بنیادی سلیکشن بورڈ کون سا ہوتا ہے؟",
+      "options": [
+        "A high-level Selection Board comprising senior authorities for BPS-20 and above posts.",
+        "Private auditing firms.",
+        "Local district recruitment committees.",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the typical consequence or administrative action when employee turnover or resignation rates spike repeatedly within a supervisory domain?",
+      "urdu": "جب کسی افسر کی نگرانی میں ملازمین کے ملازمت چھوڑنے یا استعفیٰ دینے کی شرح بار بار بڑھ جائے تو عموماً کیا انتظامی کارروائی کی جاتی ہے؟",
+      "options": [
+        "No action is taken as turnover is unregulated.",
+        "Supervisors may face evaluation, review, or inquiry to determine underlying causes and reasons.",
+        "All subordinates are automatically promoted.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which division or body is primarily responsible for handling approvals related to foreign affairs documents and international element clearances?",
+      "urdu": "خارجہ امور کی دستاویزات اور بین الاقوامی معاملات سے متعلق منظوریوں کو سنبھالنے کا بنیادی ذمہ دار کون سا ڈویژن یا ادارہ ہے؟",
+      "options": [
+        "Law and Justice Division",
+        "Finance Division",
+        "Foreign Affairs Division",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In HR management concerning workplace equity and disciplinary justice systems, what principle must be maintained between personnel of similar standing?",
+      "urdu": "کام کی جگہ پر مساوات اور تادیبی انصاف کے نظام میں یکساں حیثیت رکھنے والے ملازمین کے درمیان کون سا اصول برقرار رکھنا ضروری ہے؟",
+      "options": [
+        "Senior officials are exempt from all disciplinary codes.",
+        "Disciplinary rules are discretionary based on personal relation.",
+        "Equal treatment and identical standards of discipline and rules must be applied to prevent degradation or bias.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Once a government employee has completed their initial appointment documentation and identity card verification, what is the rule regarding subsequent changes to essential identity records?",
+      "urdu": "سرکاری ملازم کی ابتدائی تقرری کے کاغذات اور شناختی کارڈ کی تصدیق مکمل ہونے کے بعد بنیادی شناختی ریکارڈ میں تبدیلیوں کے بارے میں کیا اصول ہے؟",
+      "options": [
+        "Core records are discarded after probation completion.",
+        "They can be updated monthly by the employee without verification.",
+        "Identity card details and core records cannot be arbitrarily changed once locked during initial entry.",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In government administrative structures, what is the role of the Principal Accounting Officer (PAO) regarding internal audit and accounts officers?",
+      "urdu": "سرکاری انتظامی ڈھانچے میں اندرونی آڈٹ اور اکاؤنٹس افسران کے حوالے سے پرنسپل اکاؤنٹنگ آفیسر کا کیا کردار ہے؟",
+      "options": [
+        "The PAO oversees financial compliance and works closely with internal audit and chief account officers under revised financial rules.",
+        "The PAO holds administrative and financial control over accounting officers and internal audit mechanisms within the division.",
+        "The PAO reports directly to judicial commissions.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "According to financial management rules, up to which date can a Principal Accounting Officer (PAO) typically make re-appropriations within the budget before year-end closures?",
       "urdu": "مالیاتی انتظام کے قواعد کے مطابق، مالی سال کے اختتام سے پہلے پرنسپل اکاؤنٹنگ آفیسر کس تاریخ تک بجٹ کے اندر رقوم کی دوبارہ تخصیص کر سکتا ہے؟",
@@ -512,149 +655,6 @@
       ],
       "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What should a security guard do if an unauthorized person enters a restricted area?",
-      "urdu": "اگر کوئی غیر مجاز شخص ممنوعہ علاقے میں داخل ہو جائے تو سکیورٹی گارڈ کو کیا کرنا چاہیے؟",
-      "options": [
-        "Allow the person to remain until questioned",
-        "Alert security control and follow access procedures",
-        "Ignore the person if they appear harmless",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What should a security guard do if a vehicle breaches a security barrier?",
-      "urdu": "اگر کوئی گاڑی سکیورٹی رکاوٹ توڑ کر اندر داخل ہو جائے تو سکیورٹی گارڈ کو کیا کرنا چاہیے؟",
-      "options": [
-        "Raise the alarm, inform the control room, and follow emergency procedures",
-        "Ignore the incident if no damage occurs",
-        "Attempt to stop the vehicle without following procedures",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What should a security guard do if a door lock is not engaged?",
-      "urdu": "اگر کسی دروازے کا تالا بند نہ ہو تو سکیورٹی گارڈ کو کیا کرنا چاہیے؟",
-      "options": [
-        "Ignore the door and continue patrol",
-        "Leave the door open for convenience",
-        "Secure the door and report the fault",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What should a security guard do if keys are lost?",
-      "urdu": "اگر کسی سکیورٹی گارڈ کی چابیاں گم ہو جائیں تو اسے کیا کرنا چاہیے؟",
-      "options": [
-        "Wait until the keys are found",
-        "Inform the supervisor, secure the area, and follow procedures",
-        "Ignore the loss if no damage occurs",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If the ages of 3 persons are 17, 16, and 12, and another person is added making the average age 20, what is the age of the new person?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "40",
-        "30",
-        "35",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Total of 3 ages = 17 + 16 + 12 = 45</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which is the third largest desert in the world?",
-      "urdu": "دنیا کا تیسرا سب سے بڑا صحرا کون سا ہے؟",
-      "options": [
-        "Gobi Desert",
-        "Arabian Desert",
-        "Sahara Desert",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct indirect speech for the following sentence: She said, 'I am going to the market.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "She said that she is going to the market.",
-        "She said that I was going to the market.",
-        "She said that she was going to the market.",
-        "She said that she had gone to the market."
-      ],
-      "correct": 2,
-      "explanation": "<p><span style=\"font-size: 14px;\"><b><font color=\"#0000ff\">The reporting verb</font><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\"> \"said\" is in the past tense.</font></b></span></p>",
-      "category": "all"
-    },
-    {
-      "q": "Convert the Direct speech into Indirect speech: \"I was digging the garden when the doctor arrived,\" replied Ahsan.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ahsan said that he had been digging the garden when the doctor arrived",
-        "Ahsan said that he was digging the garden when the doctor arrived",
-        "Ahsan says that he was digging the garden when the doctor arrive",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Identify the correct passive voice of: Somebody has slept in my bed.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "My bed has been sleeping",
-        "My bed has been slept in",
-        "Somebody has been slept in my bed",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Change from Active to Passive Voice: \"She was watching a film.\"",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A film is being watched by her",
-        "A film will be watched by her",
-        "A film was being watched by her",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Active Voice</font><font color=\"#0000ff\">: She was watching a film. (</font><font color=\"#ff0000\">The subject</font><font color=\"#0000ff\"> \"she\" is </font><font color=\"#ff0000\">performing</font><font color=\"#0000ff\"> the action)</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In 2024, Pakistan secured an Extended Fund Facility (EFF) from IMF amounting to?",
-      "urdu": "سن 2024 میں پاکستان نے آئی ایم ایف سے کتنی مالیت کا ایکسٹینڈڈ فنڈ فیسیلٹی حاصل کیا؟",
-      "options": [
-        "US$5 billion",
-        "US$7 billion",
-        "US$9 billion",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 06-09-2026</font></b></p>",
       "category": "all"
     }
   ]
