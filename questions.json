@@ -3,10 +3,283 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-25T12:16:10.301371",
+    "fetched_at": "2026-10-25T16:56:22.544372",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "How much Chinese commercial debt did Pakistan repay in July 2026?",
+      "urdu": "پاکستان نے جولائی دو ہزار چھبیس میں چین کا ایک ارب چالیس کروڑ امریکی ڈالر کا کمرشل قرض واپس کیا۔",
+      "options": [
+        "$1.0 billion",
+        "$1.3 billion",
+        "$1.4 billion",
+        "$2.2 billion"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Hijra (migration) from Makkah to Madina started in which Nabvi year?",
+      "urdu": "مکہ سے مدینہ کی طرف ہجرت کس نبوی سال میں شروع ہوئی؟",
+      "options": [
+        "12th",
+        "13th",
+        "14th",
+        "15th"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the main difference between SSD and HDD?",
+      "urdu": "ایس ایس ڈی  اور ایچ ڈی ڈی  کے درمیان بنیادی فرق کیا ہے؟",
+      "options": [
+        "SSD has no moving parts",
+        "HDD uses spinning disks",
+        "Both use magnetic tapes",
+        "Both are types of RAM"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "The unit of frequency is _____?",
+      "urdu": "تعدد کی اکائی _____ ہے؟",
+      "options": [
+        "Hertz",
+        "Metre",
+        "Meter Per Second",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "If two identical springs, of spring constant k, are attached end to end, then the spring constant of the resulting spring is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2K",
+        "K/2",
+        "K",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">When springs are attached end to end, it is series combination.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A car is travelling with uniform acceleration along a straight road. The road has marker posts every 180 m. When the car passes one post, its speed is 12 m/s and when it passes the next one, its speed is 24 m/s. What is the car's acceleration?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "1.30 m/s²",
+        "1.20 m/s²",
+        "1.10 m/s²",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula: v^2 = u^2 + 2as</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In case when electrons lose all their KE in the first collision the x-ray photon emitted has which of the following set of frequency and wave length?",
+      "urdu": "اگر الیکٹران پہلی ہی ٹکر میں اپنی تمام حرکی توانائی کھو دے، تو خارج ہونے والے ایکس رے فوٹون کی فریکوئنسی اور طولِ موج کیا ہوں گے؟",
+      "options": [
+        "f_min , λ_max",
+        "f_max , λ_max",
+        "f_max , λ_min",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#0000ff\">When an electron loses all its </font><font color=\"#ff0000\" style=\"\">kinetic energy in a single collision</font><font color=\"#0000ff\">, the maximum possible energy is transferred to one </font><font color=\"#ff0000\">X-ray photon</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "When charge particle enters in the uniform magnetic field, the magnetic force will be equal?",
+      "urdu": "جب کوئی چارج شدہ ذرہ یکساں مقناطیسی میدان میں داخل ہوتا ہے تو مقناطیسی قوت کس قوت کے برابر ہوتی ہے؟",
+      "options": [
+        "Centripetal force",
+        "Magnetic force",
+        "Gravitational force",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem; background-color: rgb(255, 255, 0);\"><b><font color=\"#ff0000\">Last verified on 25-10-2026</font></b></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "The work done by restoring force during one complete oscillation is equal to?",
+      "urdu": "ایک مکمل ارتعاش کے دوران بحال کرنے والی قوت کا کیا گیا کام کتنا ہوتا ہے؟",
+      "options": [
+        "K.E of pendulum",
+        "Zero",
+        "P.E of pendulum",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A bag is dropped from the top of a building 25m height. At what height from the ground its velocity will be 14m/s?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "14m",
+        "15m",
+        "16m",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Formula: v^2 = u^2 + 2gh</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In the photoelectric effect, a graph of kinetic energy (KE) against frequency shows that the threshold frequency of sodium is approximately 5 units, while that of aluminum is approximately 10 units. Both lines have the same slope. What can be inferred from the graph?",
+      "urdu": "فوٹو الیکٹرک ایفیکٹ میں حرکی توانائی اور فریکوئنسی کے گراف سے کیا نتیجہ اخذ کیا جا سکتا ہے، اگر سوڈیم کی حدی فریکوئنسی تقریباً 5 اور ایلومینیم کی تقریباً 10 ہو؟",
+      "options": [
+        "Threshold frequency of Aluminum is greater than Sodium",
+        "Threshold frequency of Sodium is greater than Aluminum",
+        "Both have equal threshold frequency",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "After two half-lives the number of undecayed nuclei of an element are?",
+      "urdu": "دو نصف عمروں کے بعد عنصر کے کتنے غیر تحلیل شدہ نیوکلیائی باقی رہ جاتے ہیں؟",
+      "options": [
+        "N/4",
+        "N/2",
+        "3N/4",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">After 1 half-life = half remains = N/2</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "X-rays are also known as?",
+      "urdu": "ایکس ریز کو اور کس نام سے جانا جاتا ہے؟",
+      "options": [
+        "Zig-zag rays",
+        "Roentgen rays",
+        "Ultraviolet rays",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Rate of change of linear momentum is called _____?",
+      "urdu": "لکیری رفتار کی تبدیلی کی شرح کو _____ کہا جاتا ہے؟",
+      "options": [
+        "Force",
+        "Energy",
+        "Power",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one of the following takes a plural verb? Physics, News, Jeans, None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Physics",
+        "News",
+        "Jeans",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling: Miscellaneous, Missellaneous, Misscellaneous, Misscellanious",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Miscellaneous",
+        "Missellaneous",
+        "Misscellaneous",
+        "Misscellanious"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Miscellaneous</font><font color=\"#0000ff\"> means </font><font color=\"#ff0000\">متفرق</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Negligible is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Significant",
+        "Momentous",
+        "Hefty",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Interruption is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Break",
+        "Difference",
+        "Continuity",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Antonym of Concise is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Verbose",
+        "Lengthy",
+        "Brief",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-06-2026</b></font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Analogy: KERNEL : NUT :: ?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Soil : Seed",
+        "Yolk : Egg",
+        "Grape : Raisin",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose analogous pair: Light : Blind ::?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Speech : Dumb",
+        "Tongue : Sound",
+        "Language : Deaf",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "Error detection: In Maxwell's days, no instruments had been made which could register the greatly enormously long waves of electricity.",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
@@ -381,279 +654,6 @@
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "High level of aluminum may contribute to the onset of diseases?",
-      "urdu": "ایلومینیم کی زیادہ مقدار کن بیماریوں کے آغاز میں معاون ثابت ہو سکتی ہے؟",
-      "options": [
-        "Parkinson's disease",
-        "Epilepsy",
-        "Alzheimer's disease",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The following organs are part of the digestive system: 1. Mouth / Salivary glands, 2. Liver, 3. Stomach, 4. Pancreas, 5. Small intestine, 6. Large intestine. Where is amylase present?",
-      "urdu": "درج ذیل ہاضمے کے اعضا میں امائلیز کہاں موجود ہوتا ہے؟",
-      "options": [
-        "1, 4 and 5",
-        "1, 2 and 3",
-        "2, 6 and 4",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term mammals was given by?",
-      "urdu": "ممالیہ کی اصطلاح کس نے متعارف کروائی؟",
-      "options": [
-        "Lynn",
-        "Linnaeus",
-        "Darwin",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to evolutionists which force initiated the process of evolution?",
-      "urdu": "ارتقائی نظریے کے مطابق ارتقا کے عمل کا آغاز کس قوت سے ہوا؟",
-      "options": [
-        "Extinction",
-        "Adaptation",
-        "Variation",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In a dihybrid cross experiment, If the F₂ generation displays a phenotypic ratio of 3:1, what genetic principle does this observation most strongly suggest?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Codominance was being shown",
-        "Polygenic inheritance was involved",
-        "The gene loci were linked",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A part of the digestive system that is not in contact with food is the ______?",
-      "urdu": "نظامِ ہاضمہ کا وہ کون سا حصہ ہے جو براہِ راست غذا کے رابطے میں نہیں آتا؟",
-      "options": [
-        "Large intestine",
-        "Small intestine",
-        "Liver",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Antiserum is the serum containing?",
-      "urdu": "اینٹی سیرم ایسا سیرم ہے جس میں کیا موجود ہوتا ہے؟",
-      "options": [
-        "Antigen",
-        "Antibiotic",
-        "Antibody",
-        "All of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Most important organic compound of the cell which carries out virtually all of the cell's activities is?",
-      "urdu": "خلیے کا سب سے اہم نامیاتی مرکب کون سا ہے جو خلیے کی تقریباً تمام سرگرمیاں انجام دیتا ہے؟",
-      "options": [
-        "Lipids",
-        "Carbohydrates",
-        "Protein",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The most important part of the cell that controls all activities of the cell is called _____?",
-      "urdu": "سیل کا سب سے اہم حصہ جو سیل کی تمام سرگرمیوں کو کنٹرول کرتا ہے اسے _____ کہا جاتا ہے؟",
-      "options": [
-        "Vacuole",
-        "Mitochondria",
-        "Golgi bodies",
-        "Nucleus"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A pyrimidine that is absent in RNA is?",
-      "urdu": "وہ کون سا پائریمیڈین بیس ہے جو آر این اے میں موجود نہیں ہوتا؟",
-      "options": [
-        "Adenine",
-        "Thymine",
-        "Uracil",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Detoxifying harmful substance in the cell is function of?",
-      "urdu": "خلیے میں نقصان دہ مادّوں کو بے ضرر بنانے کا کام کون سا خلیاتی عضیہ انجام دیتا ہے؟",
-      "options": [
-        "Peroxisome",
-        "Golgi body",
-        "Lysosome",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A self-regulating process by which biological systems maintain stability while adjusting to changing conditions is called?",
-      "urdu": "وہ خودکار عمل کیا کہلاتا ہے جس کے ذریعے حیاتیاتی نظام بدلتے ہوئے حالات کے مطابق خود کو ڈھالتے ہوئے استحکام برقرار رکھتے ہیں؟",
-      "options": [
-        "Homeostasis",
-        "Excretion",
-        "Biological rhythms",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pharynx leads air into ______ through glottis.",
-      "urdu": "حلق، گلوتس کے ذریعے ہوا کو کس حصے میں پہنچاتا ہے؟",
-      "options": [
-        "Bronchus",
-        "Trachea",
-        "Larynx",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A group of biologically active molecules formed from amino acids, which interact with the surface of the lipid bilayer of cell membranes, are called?",
-      "urdu": "امینو ایسڈز سے بننے والے حیاتیاتی طور پر فعال مالیکیولز، جو خلیے کی جھلی کی لپڈ بائی لیئر کی سطح کے ساتھ تعامل کرتے ہیں، کیا کہلاتے ہیں؟",
-      "options": [
-        "Plasmodesmata",
-        "Integral Proteins",
-        "Peripheral Proteins",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the study of fossils called?",
-      "urdu": "فوسلز (قدیم جانداروں کے محفوظ شدہ باقیات) کے مطالعے کو کیا کہتے ہیں؟",
-      "options": [
-        "Paleontology",
-        "Archaeology",
-        "Geology",
-        "Anthropology"
-      ],
-      "correct": 0,
-      "explanation": "<p><strong style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></strong></p>",
-      "category": "all"
-    },
-    {
-      "q": "Oxidation number of Cr in Na₂Cr₂O₇ is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "+6",
-        "+3",
-        "+9",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Oxidation number of Cr in Na2Cr2O7:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "For what achievement did James Chadwick receive the Nobel Prize in 1935?",
-      "urdu": "جیمز چیڈوک کو 1935 میں کس کارنامے پر نوبیل انعام دیا گیا؟",
-      "options": [
-        "Discovery of the proton",
-        "Discovery of the neutron",
-        "Development of the atomic bomb",
-        "Discovery of radioactivity"
-      ],
-      "correct": 1,
-      "explanation": "<p></p>",
-      "category": "all"
-    },
-    {
-      "q": "The symbol for an element Antimony is?  A. At  B. Am  C. Sm  D. Sb",
-      "urdu": "اینٹی مونی عنصر کی کیمیائی علامت کیا ہے؟",
-      "options": [
-        "At",
-        "Am",
-        "Sb",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Total enthalpy change of a reaction always remain same, regardless of the manner in which reaction take place is called as?",
-      "urdu": "کسی تعامل میں کل اینتھالپی کی تبدیلی ہمیشہ یکساں رہتی ہے، چاہے تعامل کسی بھی طریقے سے مکمل ہو، اس اصول کو کیا کہتے ہیں؟",
-      "options": [
-        "Hess's law of heat summation",
-        "First law of thermodynamics",
-        "Second law of thermodynamics",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In addition of HCl to CH₃CH=CH₂, which one will be added first?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "H⁻",
-        "H⁺",
-        "Cl⁺",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Electronic configuration of M²⁺ ion is 2, 8, 14, and its atomic mass is 56 amu. The number of neutrons in its nucleus are?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "29",
-        "30",
-        "28",
-        "None of these"
-      ],
-      "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     }
