@@ -3,69 +3,147 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-25T05:40:51.980317",
+    "fetched_at": "2026-10-25T12:16:10.301371",
     "source": "live_scrape"
   },
   "questions": [
     {
-      "q": "Which of the following is a fat soluble vitamin?",
-      "urdu": "مندرجہ ذیل میں سے کون سا چربی میں حل پذیر وٹامن ہے؟",
+      "q": "Error detection: In Maxwell's days, no instruments had been made which could register the greatly enormously long waves of electricity.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Could",
+        "Long",
+        "Greatly",
+        "No error"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Error detection: Mr. Ahmed is to old to work now: he depends upon his son.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "To",
+        "Depends",
+        "Work now",
+        "No error"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Unambiguous is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Interesting",
+        "Exact",
+        "Clear",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Mediative is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Selfish",
+        "Thoughtful",
+        "Heedless",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Wreck is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Ruin",
+        "Certain",
+        "Immaterial",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-04-2026</font></b><br/></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Synonym of Hardship is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Relief",
+        "Suffering",
+        "Tribulation",
+        "Both A and B"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct sentence: Philippines consists of more than 7,000 islands., The Philippines consists of more than 7,000 islands., The Philippine consists of more than 7,000 islands., None of these",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Philippines consists of more than 7,000 islands.",
+        "The Philippines consists of more than 7,000 islands.",
+        "The Philippine consists of more than 7,000 islands.",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "________ from the campaigns have been used to buy medical supplies, food and educational materials.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Proceed",
+        "Earnings",
+        "Revenue",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "________ Out of here. It is getting suffocating.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Let get",
+        "Lets get",
+        "Let's get",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "He received plenty of ________ from his friends.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Spectacleses",
+        "Spectacles",
+        "Spectacle",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "It is a pleasure to do a business with such ________ efficient organization.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
         "A",
-        "B",
-        "C",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "",
-      "category": "all"
-    },
-    {
-      "q": "The reaction of calcium carbonate (CaCO₃) with hydrochloric acid is given below: CaCO₃ + 2HCl → CaCl₂ + CO₂ + H₂O. If 50 g of CaCO₃ reacts with excess hydrochloric acid and 14.52 g of CO₂ is produced, calculate the theoretical yield and percentage yield of CO₂ gas?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "66%",
-        "33%",
-        "99%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Reaction: CaCO3 + 2HCl -&gt; CaCl2 + CO2 + H2O</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "How will the equilibrium of the following reaction be affected if additional nitrogen is added? N₂ + 3H₂ ⇌ 2NH₃",
-      "urdu": "اگر درج ذیل تعامل میں مزید نائٹروجن شامل کی جائے تو کیمیائی توازن پر کیا اثر پڑے گا؟",
-      "options": [
-        "It will be shifted to the right",
-        "The effect on the equilibrium cannot be determined without more information",
-        "More NH₃ will be produced",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following could be used to make a basic buffer?",
-      "urdu": "درج ذیل میں سے کون سا امتزاج بنیادی بفر محلول بنانے کے لیے استعمال کیا جا سکتا ہے؟",
-      "options": [
-        "HCl + excess NH₃",
-        "H₂SO₄ + excess CH₃COONa",
-        "HCl + NaOH",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A catalyst is species which increases the rate of reaction because it?",
-      "urdu": "ایک عمل انگیز وہ مادہ ہے جو کیمیائی تعامل کی رفتار بڑھاتا ہے کیونکہ یہ کیا کرتا ہے؟",
-      "options": [
-        "Increases activation energy",
-        "Decreases activation energy",
-        "Decreases internal energy",
+        "An",
+        "The",
         "None of these"
       ],
       "correct": 1,
@@ -73,38 +151,25 @@
       "category": "all"
     },
     {
-      "q": "IUPAC name of following compound. CH3CH=CH-C≡CH?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Which sequence is correct concerning higher to lower level? (I) Biosphere (II) Atom (III) Cell (IV) Organ-system (V) Species (VI) Ecosystem",
+      "urdu": "بڑے درجے سے چھوٹے درجے کی طرف درست ترتیب کون سی ہے؟",
       "options": [
-        "3-pentene-1-pentyne",
-        "2-pentene-3yene",
-        "3-pentene-1-yne",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Mass per unit volume of a substance can be determined in terms of?",
-      "urdu": "کسی مادے کی فی اکائی حجم کمیت کو کس پیمانے سے ظاہر کیا جاتا ہے؟",
-      "options": [
-        "Volume",
-        "Density",
-        "Meter",
+        "II, III, IV, VI, V, I",
+        "I, VI, V, IV, III, II",
+        "I, VI, IV, V, III, II",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</b></font></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which reaction best describe the Kp < Kc?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Patients lack a gene for trans membrane carrier of the chloride ion in?",
+      "urdu": "کن مریضوں میں کلورائیڈ آئن کو جھلی کے پار منتقل کرنے والے پروٹین کے جین میں خرابی ہوتی ہے؟",
       "options": [
-        "3C + D ⇌ 2P + Q",
-        "2A + C ⇌ 4MO + N",
-        "A + 2C ⇌ 3",
+        "Cystic fibrosis",
+        "Hypertension",
+        "Cystic hygroma",
         "None of these"
       ],
       "correct": 0,
@@ -112,25 +177,77 @@
       "category": "all"
     },
     {
-      "q": "Which of the molecules shown below are aromatic? Compound I = Naphthalene Compound II = 1-Methylindole Compound III = Benzocyclobutadiene",
-      "urdu": "ذیل میں دیے گئے مالیکیولز میں سے کون سے خوشبودار ہیں؟",
+      "q": "It converts light energy into chemical energy?",
+      "urdu": "روشنی کی توانائی کو کیمیائی توانائی میں کون تبدیل کرتا ہے؟",
       "options": [
-        "I only",
-        "I and II",
-        "II only",
+        "Cytoplasm",
+        "Grana",
+        "Thylakoid",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In an experiment, the production of hormone secretin was blocked. As a result, levels of all of the following enzymes were affected EXCEPT? Chymotrypsin, Pepsin, Trypsin, Amylase",
+      "urdu": "ایک تجربے میں سیکریٹن ہارمون کی پیداوار روک دی گئی۔ اس کے نتیجے میں درج ذیل میں سے کس انزائم کی سطح متاثر نہیں ہوگی؟",
+      "options": [
+        "Trypsin",
+        "Chymotrypsin",
+        "Pepsin",
+        "Amylase"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Chlorophyll a is a ______ while chlorophyll b is a ______?",
+      "urdu": "کلوروفل اے کا رنگ کیا ہوتا ہے، جبکہ کلوروفل بی کا رنگ کیا ہوتا ہے؟",
+      "options": [
+        "Blue-violet: yellow-blue",
+        "Blue-green: blue-violet",
+        "Blue-green: yellow-green",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The Cocci bacteria are _____?",
+      "urdu": "کوکی بیکٹیریا _____ ہیں؟",
+      "options": [
+        "Triangular shaped",
+        "Spiral shaped",
+        "Spherical or oval shaped",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">Cocci</font><font color=\"#0000ff\"> are bacteria with a </font><font color=\"#ff0000\">round or oval shape.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A man with hemophilia (X-linked recessive) marries a woman who is not a carrier. What percentage of their grandsons (through their daughter) will be affected if the daughter marries a normal man?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "100%",
+        "50%",
+        "25%",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#0000ff\">Hemophilia is X-linked recessive. Man is XhY and woman is XHXH.</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Which statement about the following equilibrium is correct? 2SO₂ + O₂ ⇌ 2SO₃, ΔH = −94 kJ/mol",
-      "urdu": "درج ذیل توازن کے بارے میں کون سا بیان درست ہے؟",
+      "q": "The statement that precisely defines a characteristic of protein metabolism for energy is?",
+      "urdu": "توانائی حاصل کرنے کے لیے پروٹین کے میٹابولزم کی خصوصیت کو درست طور پر کون سا بیان ظاہر کرتا ہے؟",
       "options": [
-        "Adding a catalyst increases the equilibrium yield of SO₃.",
-        "The value of Kp decreases with an increase in pressure.",
-        "The value of Kp decreases with an increase in temperature.",
+        "Protein carbon chains are solely oxidized in glycolysis.",
+        "Amino acids are converted directly into Acetyl-CoA.",
+        "The R-group of amino acids defines their oxidation site.",
         "None of these"
       ],
       "correct": 2,
@@ -138,64 +255,12 @@
       "category": "all"
     },
     {
-      "q": "Electron above hydrogen is ECS have negative potential they have stronger to loss electron then hydrogen. In this statement hydrogen behave as?",
-      "urdu": "اس بیان کے مطابق کہ ہائیڈروجن سے اوپر موجود الیکٹروڈز کا پوٹینشل منفی ہوتا ہے اور وہ ہائیڈروجن کے مقابلے میں الیکٹران زیادہ آسانی سے خارج کرتے ہیں، ہائیڈروجن کس طرح کام کرتی ہے؟",
+      "q": "In the movement of water from the epidermis through the cortex and endodermis toward the xylem, which pathway carries water through cell walls and intercellular spaces?",
+      "urdu": "ایپی ڈرمس سے کارٹیکس اور اینڈوڈرمس کے ذریعے زائلم کی طرف پانی کی حرکت میں کون سا راستہ پانی کو خلیوں کی دیواروں اور خلیوں کے درمیان موجود خالی جگہوں سے گزارتا ہے؟",
       "options": [
-        "Cathode",
-        "Anode",
-        "Reducing agent",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The branch of chemistry that deals with the Interconversion of electrical and chemical energy is called?",
-      "urdu": "کیمسٹری کی وہ شاخ جو برقی توانائی اور کیمیائی توانائی کی ایک دوسرے میں تبدیلی کا مطالعہ کرتی ہے، کیا کہلاتی ہے؟",
-      "options": [
-        "Electrochemistry",
-        "Reaction kinetics",
-        "Chemical bonding",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "If I had a degree, I could have applied for that vacancy. Select the correct tense?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Past Perfect Continuous",
-        "Simple Past",
-        "Past Perfect",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current Inspector General of Pakistan Railways Police?",
-      "urdu": "پاکستان ریلوے پولیس کے موجودہ انسپکٹر جنرل کون ہیں؟",
-      "options": [
-        "Sarfraz Ahmed Falki",
-        "Muhammad Wisal Fakhar Sultan",
-        "Rao Sardar Ali Khan",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p class=\"MsoNormal\"><o:p></o:p></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the Current T20 Captain of Pakistan Cricket Team?",
-      "urdu": "پاکستان کرکٹ ٹیم کا موجودہ ٹی ٹونٹی کپتان کون ہے؟",
-      "options": [
-        "Shan Masood",
-        "Mohammad Rizwan",
-        "Salman Ali Agha",
+        "Water pathway",
+        "Cellular pathway",
+        "Apoplast pathway",
         "None of these"
       ],
       "correct": 2,
@@ -203,458 +268,393 @@
       "category": "all"
     },
     {
-      "q": "A federal department expects several employees to retire within the next two years. What should be the first HRM step before recruiting new employees or training or redeploying existing staff?",
-      "urdu": "ایک وفاقی محکمہ توقع کرتا ہے کہ اگلے دو سال میں کئی ملازمین ریٹائر ہو جائیں گے۔ نئے ملازمین بھرتی کرنے، موجودہ عملے کو تربیت دینے یا دوبارہ تعینات کرنے سے پہلے ایچ آر ایم کا پہلا قدم کیا ہونا چاہیے؟",
+      "q": "The under surface of the tongue have a fold of mucus membrane called?",
+      "urdu": "زبان کی نچلی سطح پر موجود مخاطی جھلی کی تہہ کو کیا کہتے ہیں؟",
       "options": [
-        "Conduct workforce planning and assess future staffing needs",
-        "Immediately recruit new employees",
-        "Transfer all existing employees",
+        "Frenulum",
+        "Papillae",
+        "Amylase",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The average of 10 numbers was calculated as 48. It was later discovered that while calculating the average, one number, 82, was incorrectly entered as 28. What is the correct average of these numbers?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "The more concentrated external environment with respect to internal environment of a cell is termed as?",
+      "urdu": "خلیے کے اندرونی ماحول کے مقابلے میں زیادہ مرتکز بیرونی ماحول کو کیا کہتے ہیں؟",
       "options": [
-        "42.6",
-        "48.5",
-        "53.4",
+        "Hypotonic",
+        "Isotonic",
+        "Hypertonic",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Average of 10 numbers = 48</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "A system fails at 13:32 and is restored at 16:00. If the permitted recovery time is 2 hours, which recovery objective has been exceeded?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Pyruvic acid is the end product of?",
+      "urdu": "پائرووک ایسڈ کس عمل کا آخری پیداوار ہے؟",
       "options": [
-        "Recovery Point Objective (RPO)",
-        "Recovery Time Objective (RTO)",
-        "Both RTO and RPO necessarily",
+        "Krebs cycle",
+        "Glycolysis",
+        "Electron transport chain",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">The outage lasted from </font><font color=\"#ff0000\">13:32 to 16:00</font><font color=\"#0000ff\">, which is 2 hours 28 minutes.</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Under civil service promotion and transfer (APT) frameworks for BPS-20 and above, who constitutes the primary selection board?",
-      "urdu": "سول سروس کے تقرری، ترقی اور تبادلے کے قواعد کے تحت بی پی ایس-20 اور اس سے اوپر کے عہدوں کے لیے بنیادی سلیکشن بورڈ کون سا ہوتا ہے؟",
+      "q": "Pituitary gland releases ______ hormone and ______ hormone, while ovaries produce ______ and progesterone.",
+      "urdu": "پٹیوٹری غدود کون سے دو ہارمون خارج کرتا ہے، جبکہ بیضہ دانیاں ایسٹروجن اور پروجیسٹرون پیدا کرتی ہیں؟",
       "options": [
-        "A high-level Selection Board comprising senior authorities for BPS-20 and above posts.",
-        "Private auditing firms.",
-        "Local district recruitment committees.",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the typical consequence or administrative action when employee turnover or resignation rates spike repeatedly within a supervisory domain?",
-      "urdu": "جب کسی افسر کی نگرانی میں ملازمین کے ملازمت چھوڑنے یا استعفیٰ دینے کی شرح بار بار بڑھ جائے تو عموماً کیا انتظامی کارروائی کی جاتی ہے؟",
-      "options": [
-        "No action is taken as turnover is unregulated.",
-        "Supervisors may face evaluation, review, or inquiry to determine underlying causes and reasons.",
-        "All subordinates are automatically promoted.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which division or body is primarily responsible for handling approvals related to foreign affairs documents and international element clearances?",
-      "urdu": "خارجہ امور کی دستاویزات اور بین الاقوامی معاملات سے متعلق منظوریوں کو سنبھالنے کا بنیادی ذمہ دار کون سا ڈویژن یا ادارہ ہے؟",
-      "options": [
-        "Law and Justice Division",
-        "Finance Division",
-        "Foreign Affairs Division",
+        "Follicle-stimulating and estrogen; luteinizing",
+        "Estrogen and follicle-stimulating; luteinizing",
+        "Follicle-stimulating and luteinizing; estrogen",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "In HR management concerning workplace equity and disciplinary justice systems, what principle must be maintained between personnel of similar standing?",
-      "urdu": "کام کی جگہ پر مساوات اور تادیبی انصاف کے نظام میں یکساں حیثیت رکھنے والے ملازمین کے درمیان کون سا اصول برقرار رکھنا ضروری ہے؟",
+      "q": "The autonomic nervous system controls all of the following activities except? Heart beat, Breathing rate, Digestion of food, Thought",
+      "urdu": "خودکار اعصابی نظام درج ذیل میں سے کن سرگرمیوں کو کنٹرول نہیں کرتا؟",
       "options": [
-        "Senior officials are exempt from all disciplinary codes.",
-        "Disciplinary rules are discretionary based on personal relation.",
-        "Equal treatment and identical standards of discipline and rules must be applied to prevent degradation or bias.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Once a government employee has completed their initial appointment documentation and identity card verification, what is the rule regarding subsequent changes to essential identity records?",
-      "urdu": "سرکاری ملازم کی ابتدائی تقرری کے کاغذات اور شناختی کارڈ کی تصدیق مکمل ہونے کے بعد بنیادی شناختی ریکارڈ میں تبدیلیوں کے بارے میں کیا اصول ہے؟",
-      "options": [
-        "Core records are discarded after probation completion.",
-        "They can be updated monthly by the employee without verification.",
-        "Identity card details and core records cannot be arbitrarily changed once locked during initial entry.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In government administrative structures, what is the role of the Principal Accounting Officer (PAO) regarding internal audit and accounts officers?",
-      "urdu": "سرکاری انتظامی ڈھانچے میں اندرونی آڈٹ اور اکاؤنٹس افسران کے حوالے سے پرنسپل اکاؤنٹنگ آفیسر کا کیا کردار ہے؟",
-      "options": [
-        "The PAO oversees financial compliance and works closely with internal audit and chief account officers under revised financial rules.",
-        "The PAO holds administrative and financial control over accounting officers and internal audit mechanisms within the division.",
-        "The PAO reports directly to judicial commissions.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "According to financial management rules, up to which date can a Principal Accounting Officer (PAO) typically make re-appropriations within the budget before year-end closures?",
-      "urdu": "مالیاتی انتظام کے قواعد کے مطابق، مالی سال کے اختتام سے پہلے پرنسپل اکاؤنٹنگ آفیسر کس تاریخ تک بجٹ کے اندر رقوم کی دوبارہ تخصیص کر سکتا ہے؟",
-      "options": [
-        "31st May",
-        "31st March",
-        "30th June",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Under general government administrative rules, who among the following is authorized to make appointments to posts in BPS-20 and above?",
-      "urdu": "عمومی سرکاری انتظامی قواعد کے تحت گریڈ 20 اور اس سے اوپر کی آسامیوں پر تقرری کرنے کا اختیار کس کو حاصل ہے؟",
-      "options": [
-        "Prime Minister",
-        "Cabinet Secretary",
-        "Secretary Establishment",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Six clerks can complete a piece of work in 15 hours. After working for 5 hours, 3 more clerks join them with the same efficiency. How much total time will be required to complete the work?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "11 hours 40 minutes",
-        "11 hours 50 minutes",
-        "11 hours 20 minutes",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#0000ff\" style=\"\">Total work = 6 clerks _ 15 hours = 90 clerk-hours</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the maximum permissible duration for issuing a notice when making ad-hoc or temporary appointments in government service?",
-      "urdu": "سرکاری ملازمت میں عارضی یا ایڈہاک تقرری کے دوران ملازمت ختم کرنے کے لیے نوٹس کی زیادہ سے زیادہ مقررہ مدت کتنی ہے؟",
-      "options": [
-        "30 days",
-        "60 days",
-        "14 days",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number is decreased by 12% and then increased by 15%. What is the final value as a percentage of the original number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "101.2%",
-        "102.2%",
-        "103.2%",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#0000ff\">Let original number = 100</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A number is increased by 20%. By what percentage must the increased number be decreased to return to the original number?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "14⅔%",
-        "15⅔%",
-        "16⅔%",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Original number = 100</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The principal and operation accounts are in the ratio of 7:5. If Rs. 90,000 is transferred from the principal account to the operation account, the ratio becomes 5:4. What was the original amount in the principal account?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Rs. 1,891,000",
-        "Rs. 1,892,000",
-        "Rs. 1,890,000",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#0000ff\">Principal and Operation accounts ratio is 7:5</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What happens to a civil servant’s date of birth after joining government service?",
-      "urdu": "سرکاری ملازمت میں شامل ہونے کے بعد سول سرونٹ کی تاریخِ پیدائش کے ساتھ کیا معاملہ کیا جاتا ہے؟",
-      "options": [
-        "It can be changed at any time",
-        "It is treated as final, subject to applicable rules",
-        "It is changed after promotion",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who assists the Principal Accounting Officer (PAO) in carrying out financial management responsibilities?",
-      "urdu": "پرنسپل اکاؤنٹنگ آفیسر کو مالیاتی انتظام کی ذمہ داریاں ادا کرنے میں کون مدد دیتا ہے؟",
-      "options": [
-        "Subordinate officers",
-        "Private contractors",
-        "External auditors only",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which of the following is a volatile memory? RAM, ROM, Cache, Both A and C",
-      "urdu": "مندرجہ ذیل میں سے کون سی غیر مستحکم میموری ہے؟",
-      "options": [
-        "RAM",
-        "ROM",
-        "Cache",
-        "Both A and C"
+        "Heart beat",
+        "Breathing rate",
+        "Digestion of food",
+        "Thought"
       ],
       "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\"><span style=\"background-color: rgb(255, 255, 0);\">Additional information</span>:</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Under Rule 33 of the Public Procurement Rules, 2004, when may a procuring agency reject all bids or proposals?",
-      "urdu": "پبلک پروکیورمنٹ رولز 2004 کے رول 33 کے تحت، خریداری کرنے والا ادارہ تمام بولیاں یا تجاویز کب مسترد کر سکتا ہے؟",
+      "q": "The term \"follicle atresia\" means?",
+      "urdu": "فولیکل ایٹریزیا کا کیا مطلب ہے؟",
       "options": [
-        "Only after the contract is awarded",
-        "At any time before acceptance of a bid or proposal",
-        "Only when every bidder requests rejection",
+        "Development of follicles",
+        "Breakdown of follicle",
+        "Production of follicles",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Under the single-stage, two-envelope bidding procedure, what happens to the technical and financial proposals?",
-      "urdu": "سنگل اسٹیج، ٹو اینویلپ بولی کے طریقۂ کار میں تکنیکی اور مالی تجاویز کے ساتھ کیا کیا جاتا ہے؟",
+      "q": "Which component of the heart's electrical conduction system is characterized by a crucial delay in impulse transmission, allowing atrial contraction to complete before ventricular contraction begins is?",
+      "urdu": "دل کے برقی ترسیلی نظام کا کون سا حصہ برقی تحریک کی ترسیل میں اہم تاخیر پیدا کرتا ہے، جس سے وینٹریکلز کے سکڑنے سے پہلے ایٹریا کو سکڑنے کا وقت ملتا ہے؟",
       "options": [
-        "Both proposals are opened and evaluated simultaneously",
-        "The financial proposal is evaluated before the technical proposal",
-        "The technical proposal is evaluated first, and financial proposals of technically accepted bidders are opened afterward",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What is the main purpose of allowances paid to government employees?",
-      "urdu": "سرکاری ملازمین کو الاؤنس دینے کا بنیادی مقصد کیا ہے؟",
-      "options": [
-        "To generate additional profit for employees",
-        "To cover specified expenses or compensate for prescribed conditions of service",
-        "To replace the employee's basic salary permanently",
+        "Sinoatrial (SA) node",
+        "Atrioventricular (AV) node",
+        "Purkinje fibres",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What principle should be followed when spending public money?",
-      "urdu": "عوامی رقم خرچ کرتے وقت کس اصول پر عمل کرنا چاہیے؟",
+      "q": "Dengue fever, encephalitis and yellow fever are caused by which group of viruses?",
+      "urdu": "ڈینگی بخار، انسیفلائٹس اور زرد بخار وائرس کے کس گروہ کی وجہ سے ہوتے ہیں؟",
       "options": [
-        "Public money should be spent without restrictions",
-        "Public money should be spent only at the end of the year",
-        "Public money should be spent as carefully as one's own money",
+        "Rhino-viruses",
+        "Retro-viruses",
+        "Arbo-viruses",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Can a Principal Accounting Officer (PAO) delegate duties to junior staff while retaining overall responsibility for accounts-related matters?",
-      "urdu": "کیا پرنسپل اکاؤنٹنگ آفیسر اکاؤنٹس سے متعلق معاملات کی مجموعی ذمہ داری برقرار رکھتے ہوئے اپنے فرائض ماتحت عملے کو سونپ سکتا ہے؟",
+      "q": "The organelle that provides a site for the attachment of spindle fibers during cell division is the?",
+      "urdu": "خلیے کی تقسیم کے دوران اسپنڈل فائبرز کے جڑنے کے لیے جگہ فراہم کرنے والا عضیہ کون سا ہے؟",
       "options": [
-        "No, delegation is completely prohibited",
-        "Yes, but overall responsibility remains with the PAO",
-        "Yes, and all responsibility transfers to junior staff",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Chief Finance and Accounts Officer (CFAO) is posted by the Establishment Division in consultation with whom?",
-      "urdu": "چیف فنانس اینڈ اکاؤنٹس آفیسر کو اسٹیبلشمنٹ ڈویژن کس کے مشورے سے تعینات کرتا ہے؟",
-      "options": [
-        "State Bank of Pakistan",
-        "Federal Public Service Commission",
-        "Auditor-General of Pakistan",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Who is the constitutional head of Pakistan?",
-      "urdu": "پاکستان کا آئینی سربراہ کون ہے؟",
-      "options": [
-        "The Chairman Senate",
-        "The Prime Minister",
-        "The President",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What happens when a civil servant promoted to a higher post fails to pass the prescribed training examination?",
-      "urdu": "اگر کسی اعلیٰ عہدے پر ترقی پانے والا سول سرونٹ مقررہ تربیتی امتحان پاس کرنے میں ناکام ہو جائے تو کیا ہوگا؟",
-      "options": [
-        "The civil servant is reverted to the lower post",
-        "The civil servant is permanently dismissed",
-        "The civil servant is automatically confirmed",
+        "Centriole",
+        "Golgi apparatus",
+        "Vacuole",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "On what basis is selection to a selection post made under the civil service rules?",
-      "urdu": "سول سروس کے قواعد کے تحت سلیکشن پوسٹ پر انتخاب کس بنیاد پر کیا جاتا ہے؟",
+      "q": "High level of aluminum may contribute to the onset of diseases?",
+      "urdu": "ایلومینیم کی زیادہ مقدار کن بیماریوں کے آغاز میں معاون ثابت ہو سکتی ہے؟",
       "options": [
-        "Seniority alone",
-        "Length of service alone",
-        "Merit",
+        "Parkinson's disease",
+        "Epilepsy",
+        "Alzheimer's disease",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "What happens if a civil servant fails to complete the prescribed training or pass the required training examination during probation on initial appointment?",
-      "urdu": "اگر کوئی سول سرونٹ ابتدائی تقرری کے دوران پروبیشن میں مقررہ تربیت مکمل کرنے یا مطلوبہ امتحان پاس کرنے میں ناکام ہو جائے تو کیا ہوگا؟",
+      "q": "The following organs are part of the digestive system: 1. Mouth / Salivary glands, 2. Liver, 3. Stomach, 4. Pancreas, 5. Small intestine, 6. Large intestine. Where is amylase present?",
+      "urdu": "درج ذیل ہاضمے کے اعضا میں امائلیز کہاں موجود ہوتا ہے؟",
       "options": [
-        "The probation period is automatically waived",
-        "The civil servant is discharged from service",
-        "The civil servant is promoted to the next grade",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Against which type of post is a civil servant confirmed under the Civil Servants Act, 1973?",
-      "urdu": "سول سرونٹس ایکٹ 1973 کے تحت سول سرونٹ کی تصدیق کس قسم کی آسامی پر کی جاتی ہے؟",
-      "options": [
-        "A permanent post",
-        "A temporary post",
-        "A contract post",
+        "1, 4 and 5",
+        "1, 2 and 3",
+        "2, 6 and 4",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "Who is not included in the category of a civil servant under the Civil Servants Act, 1973?",
-      "urdu": "سول سرونٹس ایکٹ 1973 کے تحت کون سا شخص سول سرونٹ کی تعریف میں شامل نہیں ہے؟",
+      "q": "The term mammals was given by?",
+      "urdu": "ممالیہ کی اصطلاح کس نے متعارف کروائی؟",
       "options": [
-        "A person appointed to a civil post in connection with the affairs of the Federation",
-        "A person appointed to a civil service of the Federation",
-        "A person on deputation to the Federation",
+        "Lynn",
+        "Linnaeus",
+        "Darwin",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "According to evolutionists which force initiated the process of evolution?",
+      "urdu": "ارتقائی نظریے کے مطابق ارتقا کے عمل کا آغاز کس قوت سے ہوا؟",
+      "options": [
+        "Extinction",
+        "Adaptation",
+        "Variation",
         "None of these"
       ],
       "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 24-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "The travelers ______ the beautiful scenery as they ______ their way through the country.",
+      "q": "In a dihybrid cross experiment, If the F₂ generation displays a phenotypic ratio of 3:1, what genetic principle does this observation most strongly suggest?",
       "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
       "options": [
-        "Enjoy, made",
-        "Enjoys, make",
-        "Enjoys, making",
+        "Codominance was being shown",
+        "Polygenic inheritance was involved",
+        "The gene loci were linked",
         "None of these"
       ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     },
     {
-      "q": "______ through an old album, Alia ______ by some of the photographs.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "A part of the digestive system that is not in contact with food is the ______?",
+      "urdu": "نظامِ ہاضمہ کا وہ کون سا حصہ ہے جو براہِ راست غذا کے رابطے میں نہیں آتا؟",
       "options": [
-        "Looking, has amused",
-        "Looking, was amused",
-        "Looks, amused",
+        "Large intestine",
+        "Small intestine",
+        "Liver",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Antiserum is the serum containing?",
+      "urdu": "اینٹی سیرم ایسا سیرم ہے جس میں کیا موجود ہوتا ہے؟",
+      "options": [
+        "Antigen",
+        "Antibiotic",
+        "Antibody",
+        "All of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Most important organic compound of the cell which carries out virtually all of the cell's activities is?",
+      "urdu": "خلیے کا سب سے اہم نامیاتی مرکب کون سا ہے جو خلیے کی تقریباً تمام سرگرمیاں انجام دیتا ہے؟",
+      "options": [
+        "Lipids",
+        "Carbohydrates",
+        "Protein",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The most important part of the cell that controls all activities of the cell is called _____?",
+      "urdu": "سیل کا سب سے اہم حصہ جو سیل کی تمام سرگرمیوں کو کنٹرول کرتا ہے اسے _____ کہا جاتا ہے؟",
+      "options": [
+        "Vacuole",
+        "Mitochondria",
+        "Golgi bodies",
+        "Nucleus"
+      ],
+      "correct": 3,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-05-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A pyrimidine that is absent in RNA is?",
+      "urdu": "وہ کون سا پائریمیڈین بیس ہے جو آر این اے میں موجود نہیں ہوتا؟",
+      "options": [
+        "Adenine",
+        "Thymine",
+        "Uracil",
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 23-10-2026</font></b></p>",
+      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</b></font></p>",
       "category": "all"
     },
     {
-      "q": "The average of 10 students is 80. The average becomes 85 after adding 5 more students. What is the total marks of the 5 new students?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "q": "Detoxifying harmful substance in the cell is function of?",
+      "urdu": "خلیے میں نقصان دہ مادّوں کو بے ضرر بنانے کا کام کون سا خلیاتی عضیہ انجام دیتا ہے؟",
       "options": [
-        "425",
-        "475",
-        "500",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Total marks of 10 students = 10 × 80 = 800</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "What little correspondence survives from the expedition ____ that the route was abandoned abruptly.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Suggests",
-        "Suggest",
-        "Have suggested",
+        "Peroxisome",
+        "Golgi body",
+        "Lysosome",
         "None of these"
       ],
       "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 19-10-2026</font></b></p>",
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A self-regulating process by which biological systems maintain stability while adjusting to changing conditions is called?",
+      "urdu": "وہ خودکار عمل کیا کہلاتا ہے جس کے ذریعے حیاتیاتی نظام بدلتے ہوئے حالات کے مطابق خود کو ڈھالتے ہوئے استحکام برقرار رکھتے ہیں؟",
+      "options": [
+        "Homeostasis",
+        "Excretion",
+        "Biological rhythms",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Pharynx leads air into ______ through glottis.",
+      "urdu": "حلق، گلوتس کے ذریعے ہوا کو کس حصے میں پہنچاتا ہے؟",
+      "options": [
+        "Bronchus",
+        "Trachea",
+        "Larynx",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A group of biologically active molecules formed from amino acids, which interact with the surface of the lipid bilayer of cell membranes, are called?",
+      "urdu": "امینو ایسڈز سے بننے والے حیاتیاتی طور پر فعال مالیکیولز، جو خلیے کی جھلی کی لپڈ بائی لیئر کی سطح کے ساتھ تعامل کرتے ہیں، کیا کہلاتے ہیں؟",
+      "options": [
+        "Plasmodesmata",
+        "Integral Proteins",
+        "Peripheral Proteins",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the study of fossils called?",
+      "urdu": "فوسلز (قدیم جانداروں کے محفوظ شدہ باقیات) کے مطالعے کو کیا کہتے ہیں؟",
+      "options": [
+        "Paleontology",
+        "Archaeology",
+        "Geology",
+        "Anthropology"
+      ],
+      "correct": 0,
+      "explanation": "<p><strong style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></strong></p>",
+      "category": "all"
+    },
+    {
+      "q": "Oxidation number of Cr in Na₂Cr₂O₇ is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "+6",
+        "+3",
+        "+9",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">Oxidation number of Cr in Na2Cr2O7:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "For what achievement did James Chadwick receive the Nobel Prize in 1935?",
+      "urdu": "جیمز چیڈوک کو 1935 میں کس کارنامے پر نوبیل انعام دیا گیا؟",
+      "options": [
+        "Discovery of the proton",
+        "Discovery of the neutron",
+        "Development of the atomic bomb",
+        "Discovery of radioactivity"
+      ],
+      "correct": 1,
+      "explanation": "<p></p>",
+      "category": "all"
+    },
+    {
+      "q": "The symbol for an element Antimony is?  A. At  B. Am  C. Sm  D. Sb",
+      "urdu": "اینٹی مونی عنصر کی کیمیائی علامت کیا ہے؟",
+      "options": [
+        "At",
+        "Am",
+        "Sb",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Total enthalpy change of a reaction always remain same, regardless of the manner in which reaction take place is called as?",
+      "urdu": "کسی تعامل میں کل اینتھالپی کی تبدیلی ہمیشہ یکساں رہتی ہے، چاہے تعامل کسی بھی طریقے سے مکمل ہو، اس اصول کو کیا کہتے ہیں؟",
+      "options": [
+        "Hess's law of heat summation",
+        "First law of thermodynamics",
+        "Second law of thermodynamics",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "In addition of HCl to CH₃CH=CH₂, which one will be added first?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "H⁻",
+        "H⁺",
+        "Cl⁺",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Electronic configuration of M²⁺ ion is 2, 8, 14, and its atomic mass is 56 amu. The number of neutrons in its nucleus are?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "29",
+        "30",
+        "28",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     }
   ]
