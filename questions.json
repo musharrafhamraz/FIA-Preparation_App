@@ -3,10 +3,283 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-25T16:56:22.544372",
+    "fetched_at": "2026-10-25T21:17:35.418421",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the purpose of hashing in security?",
+      "urdu": "سیکیورٹی میں ہیشنگ  کا کیا مقصد ہے؟",
+      "options": [
+        "Encrypt data for recovery",
+        "Verify data integrity",
+        "Increase storage",
+        "Compress files"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What kind of cyberattack floods a system with traffic to make it unresponsive?",
+      "urdu": "کس قسم کا سائبر حملہ کسی سسٹم کو غیر فعال کرنے کے لیے اس پر بہت زیادہ ٹریفک بھیجتا ہے؟",
+      "options": [
+        "Phishing",
+        "Malware",
+        "DDoS",
+        "SQL Injection"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What cyberattack exploits unsanitized input in database queries?",
+      "urdu": "کون سا سائبر حملہ ڈیٹا بیس کی کوئریز میں غیر محفوظ اِن پٹ  کا فائدہ اٹھاتا ہے؟",
+      "options": [
+        "Phishing",
+        "SQL Injection",
+        "DDoS",
+        "Spoofing"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the output of COUNT(*) on an empty table?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "0",
+        "1",
+        "NULL",
+        "Error"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which SQL keyword ensures only unique rows are returned in the query result?",
+      "urdu": "ایس کیو ایل  میں کون سا کی ورڈ اس بات کو یقینی بناتا ہے کہ کوئری کے نتیجے میں صرف منفرد قطاریں  ہی واپس آئیں؟",
+      "options": [
+        "UNIQUE",
+        "DISTINCT",
+        "ORDER BY",
+        "GROUP BY"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the term for a query within another SQL query?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Join",
+        "Subquery",
+        "Trigger",
+        "Index"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the difference between a view and a materialized view?",
+      "urdu": "ویواور میٹیریلائزڈ ویو میں کیا فرق ہے؟",
+      "options": [
+        "Both store data",
+        "View stores data",
+        "Materialized view stores data while view generally does not",
+        "Neither stores data"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the antonym of Obscurity?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Darkness",
+        "Fame",
+        "Confusion",
+        "Mystery"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "What is the antonym of Sovereign?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Supreme",
+        "Independent",
+        "Autonomous",
+        "Subordinate"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#0000ff\">Sovereign = </font><font color=\"#ff0000\">خود مختار </font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the atonement for breaking the fast.",
+      "urdu": "روزہ توڑنے کا کفارہ کیا ہے؟",
+      "options": [
+        "To Feed 70 people",
+        "To Feed 60 people",
+        "To Feed 50 people",
+        "To Feed 80 people"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which pillar of Islam is used as Kaffarah?",
+      "urdu": "اسلام کا کون سا ستون کفارہ کے طور پر استعمال ہوتا ہے؟",
+      "options": [
+        "Hajj",
+        "Zakat",
+        "Fasting",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b><font color=\"#ff0000\">Fasting</font><font color=\"#0000ff\"> (Sawm) is used as </font><font color=\"#ff0000\">Kaffarah</font><font color=\"#0000ff\"> (expiation) for certain sins like </font><font color=\"#ff00ff\">breaking an oath or intentionally breaking</font><font color=\"#0000ff\"> a fast in </font><font color=\"#ff0000\">Ramadan</font><font color=\"#0000ff\">.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the antonym of Seditious?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rebellious",
+        "Mutinous",
+        "Loyal",
+        "Treasonable"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\"><font color=\"#0000ff\">Seditious =</font><font color=\"#ff0000\"> بغاوت پر اکسانے والا</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "اینٹ کا جواب پتھر سے دینا کا کیا مطلب ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "مدد کرنا",
+        "نرمی سے پیش آنا",
+        "سخت جواب دینا",
+        "خاموش رہنا"
+      ],
+      "correct": 2,
+      "explanation": "<p style=\"text-align: right; \"><font color=\"#0000ff\">سخت جواب دینا —</font><font color=\"#ff0000\"> یعنی کسی کی سختی کا اسی طرح سختی سے جواب دینا۔</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "In Artificial Neural Networks (ANNs), what does MSE stand for?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Mean Squared Error",
+        "Maximum System Efficiency",
+        "Mean Statistical Evaluation",
+        "Minimum Squared Estimate"
+      ],
+      "correct": 0,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "2 kg of almonds cost the same as 8 kg of walnuts. If 5 kg of almonds and 16 kg of walnuts cost Rs. 1060, what is the price of 1 kg of almonds?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 118",
+        "Rs. 120",
+        "Rs. 100",
+        "None of above"
+      ],
+      "correct": 3,
+      "explanation": "<p><font color=\"#ff0000\">Solution:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the area of a triangle having a base of 19 m and a height of 7 m?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "66.5 m²",
+        "76.5 m²",
+        "56.5 m²",
+        "133 m²"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">Formula:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Merge Sort uses which technique?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Greedy Algorithm",
+        "Divide and Conquer",
+        "Dynamic Programming",
+        "Backtracking"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "If 8 is 4% of k, what is k?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "500",
+        "200",
+        "5000",
+        "2000"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which layer of the OSI model provides error detection and reliable data delivery?",
+      "urdu": "او ایس آئی  ماڈل کی کون سی تہہ غلطیوں کی نشاندہی اور ڈیٹا کی قابلِ اعتماد ترسیل فراہم کرتی ہے؟",
+      "options": [
+        "Transport Layer",
+        "Network Layer",
+        "Session Layer",
+        "Presentation Layer"
+      ],
+      "correct": 0,
+      "explanation": "<p><span style=\"font-size: 0.875rem;\"><font color=\"#00ff00\">Additional information:</font></span></p>",
+      "category": "all"
+    },
+    {
+      "q": "X sold a property for Rs. 96,000 to Y at a 20% profit. Y then sold the property to Z at a 20% loss. For how much did Z buy the property?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Rs. 76,800",
+        "Rs. 96,000",
+        "Rs. 90,000",
+        "Rs. 1,00,000"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#ff0000\">Given:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Which one is an application software?",
+      "urdu": "کون سا ایپلیکیشن سافٹ ویئر ہے؟",
+      "options": [
+        "Windows",
+        "Linux",
+        "MS Excel",
+        "DOS"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
     {
       "q": "How much Chinese commercial debt did Pakistan repay in July 2026?",
       "urdu": "پاکستان نے جولائی دو ہزار چھبیس میں چین کا ایک ارب چالیس کروڑ امریکی ڈالر کا کمرشل قرض واپس کیا۔",
@@ -381,279 +654,6 @@
         "None of these"
       ],
       "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "________ Out of here. It is getting suffocating.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Let get",
-        "Lets get",
-        "Let's get",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "He received plenty of ________ from his friends.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Spectacleses",
-        "Spectacles",
-        "Spectacle",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "It is a pleasure to do a business with such ________ efficient organization.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "A",
-        "An",
-        "The",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which sequence is correct concerning higher to lower level? (I) Biosphere (II) Atom (III) Cell (IV) Organ-system (V) Species (VI) Ecosystem",
-      "urdu": "بڑے درجے سے چھوٹے درجے کی طرف درست ترتیب کون سی ہے؟",
-      "options": [
-        "II, III, IV, VI, V, I",
-        "I, VI, V, IV, III, II",
-        "I, VI, IV, V, III, II",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Patients lack a gene for trans membrane carrier of the chloride ion in?",
-      "urdu": "کن مریضوں میں کلورائیڈ آئن کو جھلی کے پار منتقل کرنے والے پروٹین کے جین میں خرابی ہوتی ہے؟",
-      "options": [
-        "Cystic fibrosis",
-        "Hypertension",
-        "Cystic hygroma",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "It converts light energy into chemical energy?",
-      "urdu": "روشنی کی توانائی کو کیمیائی توانائی میں کون تبدیل کرتا ہے؟",
-      "options": [
-        "Cytoplasm",
-        "Grana",
-        "Thylakoid",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In an experiment, the production of hormone secretin was blocked. As a result, levels of all of the following enzymes were affected EXCEPT? Chymotrypsin, Pepsin, Trypsin, Amylase",
-      "urdu": "ایک تجربے میں سیکریٹن ہارمون کی پیداوار روک دی گئی۔ اس کے نتیجے میں درج ذیل میں سے کس انزائم کی سطح متاثر نہیں ہوگی؟",
-      "options": [
-        "Trypsin",
-        "Chymotrypsin",
-        "Pepsin",
-        "Amylase"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Chlorophyll a is a ______ while chlorophyll b is a ______?",
-      "urdu": "کلوروفل اے کا رنگ کیا ہوتا ہے، جبکہ کلوروفل بی کا رنگ کیا ہوتا ہے؟",
-      "options": [
-        "Blue-violet: yellow-blue",
-        "Blue-green: blue-violet",
-        "Blue-green: yellow-green",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Cocci bacteria are _____?",
-      "urdu": "کوکی بیکٹیریا _____ ہیں؟",
-      "options": [
-        "Triangular shaped",
-        "Spiral shaped",
-        "Spherical or oval shaped",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\">Cocci</font><font color=\"#0000ff\"> are bacteria with a </font><font color=\"#ff0000\">round or oval shape.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "A man with hemophilia (X-linked recessive) marries a woman who is not a carrier. What percentage of their grandsons (through their daughter) will be affected if the daughter marries a normal man?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "100%",
-        "50%",
-        "25%",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#0000ff\">Hemophilia is X-linked recessive. Man is XhY and woman is XHXH.</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The statement that precisely defines a characteristic of protein metabolism for energy is?",
-      "urdu": "توانائی حاصل کرنے کے لیے پروٹین کے میٹابولزم کی خصوصیت کو درست طور پر کون سا بیان ظاہر کرتا ہے؟",
-      "options": [
-        "Protein carbon chains are solely oxidized in glycolysis.",
-        "Amino acids are converted directly into Acetyl-CoA.",
-        "The R-group of amino acids defines their oxidation site.",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "In the movement of water from the epidermis through the cortex and endodermis toward the xylem, which pathway carries water through cell walls and intercellular spaces?",
-      "urdu": "ایپی ڈرمس سے کارٹیکس اور اینڈوڈرمس کے ذریعے زائلم کی طرف پانی کی حرکت میں کون سا راستہ پانی کو خلیوں کی دیواروں اور خلیوں کے درمیان موجود خالی جگہوں سے گزارتا ہے؟",
-      "options": [
-        "Water pathway",
-        "Cellular pathway",
-        "Apoplast pathway",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The under surface of the tongue have a fold of mucus membrane called?",
-      "urdu": "زبان کی نچلی سطح پر موجود مخاطی جھلی کی تہہ کو کیا کہتے ہیں؟",
-      "options": [
-        "Frenulum",
-        "Papillae",
-        "Amylase",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The more concentrated external environment with respect to internal environment of a cell is termed as?",
-      "urdu": "خلیے کے اندرونی ماحول کے مقابلے میں زیادہ مرتکز بیرونی ماحول کو کیا کہتے ہیں؟",
-      "options": [
-        "Hypotonic",
-        "Isotonic",
-        "Hypertonic",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pyruvic acid is the end product of?",
-      "urdu": "پائرووک ایسڈ کس عمل کا آخری پیداوار ہے؟",
-      "options": [
-        "Krebs cycle",
-        "Glycolysis",
-        "Electron transport chain",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Pituitary gland releases ______ hormone and ______ hormone, while ovaries produce ______ and progesterone.",
-      "urdu": "پٹیوٹری غدود کون سے دو ہارمون خارج کرتا ہے، جبکہ بیضہ دانیاں ایسٹروجن اور پروجیسٹرون پیدا کرتی ہیں؟",
-      "options": [
-        "Follicle-stimulating and estrogen; luteinizing",
-        "Estrogen and follicle-stimulating; luteinizing",
-        "Follicle-stimulating and luteinizing; estrogen",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The autonomic nervous system controls all of the following activities except? Heart beat, Breathing rate, Digestion of food, Thought",
-      "urdu": "خودکار اعصابی نظام درج ذیل میں سے کن سرگرمیوں کو کنٹرول نہیں کرتا؟",
-      "options": [
-        "Heart beat",
-        "Breathing rate",
-        "Digestion of food",
-        "Thought"
-      ],
-      "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The term \"follicle atresia\" means?",
-      "urdu": "فولیکل ایٹریزیا کا کیا مطلب ہے؟",
-      "options": [
-        "Development of follicles",
-        "Breakdown of follicle",
-        "Production of follicles",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Which component of the heart's electrical conduction system is characterized by a crucial delay in impulse transmission, allowing atrial contraction to complete before ventricular contraction begins is?",
-      "urdu": "دل کے برقی ترسیلی نظام کا کون سا حصہ برقی تحریک کی ترسیل میں اہم تاخیر پیدا کرتا ہے، جس سے وینٹریکلز کے سکڑنے سے پہلے ایٹریا کو سکڑنے کا وقت ملتا ہے؟",
-      "options": [
-        "Sinoatrial (SA) node",
-        "Atrioventricular (AV) node",
-        "Purkinje fibres",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Additional information</font><font color=\"#0000ff\">:</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Dengue fever, encephalitis and yellow fever are caused by which group of viruses?",
-      "urdu": "ڈینگی بخار، انسیفلائٹس اور زرد بخار وائرس کے کس گروہ کی وجہ سے ہوتے ہیں؟",
-      "options": [
-        "Rhino-viruses",
-        "Retro-viruses",
-        "Arbo-viruses",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The organelle that provides a site for the attachment of spindle fibers during cell division is the?",
-      "urdu": "خلیے کی تقسیم کے دوران اسپنڈل فائبرز کے جڑنے کے لیے جگہ فراہم کرنے والا عضیہ کون سا ہے؟",
-      "options": [
-        "Centriole",
-        "Golgi apparatus",
-        "Vacuole",
-        "None of these"
-      ],
-      "correct": 0,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     }
