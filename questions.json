@@ -3,10 +3,167 @@
     "count": 50,
     "requested": 50,
     "category": "all",
-    "fetched_at": "2026-10-25T21:17:35.418421",
+    "fetched_at": "2026-10-26T05:45:53.628413",
     "source": "live_scrape"
   },
   "questions": [
+    {
+      "q": "What is the shift in wavelength of an X-ray photon when it reflects after striking an electron at an angle of 90°?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "2.42 × 10⁻¹⁰ m",
+        "2.42 × 10⁻¹² m",
+        "2.42 × 10⁻¹⁴ m",
+        "None of these"
+      ],
+      "correct": 1,
+      "explanation": "<p><b><font color=\"#0000ff\">Compton shift formula:</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A stone of 2 kg is tied to a 0.50 m long string and swung around a circle at an angular velocity of 12 rad/s. The net torque on the stone about the center of the circle is?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "0 N m",
+        "1 N m",
+        "3 N m",
+        "None of these"
+      ],
+      "correct": 0,
+      "explanation": "<p><b><font color=\"#0000ff\">In circular motion, the force (tension) is towards the center, and r is also along same line.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "What is the main function of a router?",
+      "urdu": "روٹر کا بنیادی کام کیا ہے؟",
+      "options": [
+        "To print documents",
+        "To connect different networks",
+        "To scan files",
+        "To store data"
+      ],
+      "correct": 1,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "One billionth of a second is equal to which unit?",
+      "urdu": "ایک سیکنڈ کا ایک اربواں حصہ کس اکائی کے برابر ہوتا ہے؟",
+      "options": [
+        "Millisecond",
+        "Microsecond",
+        "Nanosecond",
+        "Picosecond"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "Which of the following is the shortest-duration memory in a computer?",
+      "urdu": "کمپیوٹر میں درج ذیل میں سے کون سی میموری سب سے کم وقت تک ڈیٹا محفوظ رکھتی ہے؟",
+      "options": [
+        "RAM",
+        "Cache Memory",
+        "Register",
+        "Hard Disk"
+      ],
+      "correct": 2,
+      "explanation": "<p><font color=\"#0000ff\">Additional information:</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "How many ways you can save a document in Microsoft Word?",
+      "urdu": "مائیکروسافٹ ورڈ میں ایک حقیقت کو کتنی حالت سے محفوظ کیا جا سکتا ہے؟",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "<p><font color=\"#0000ff\">A document in Microsoft Word can be saved in </font><font color=\"#ff0000\">three commonly t</font><font color=\"#0000ff\">aught ways.</font></p>",
+      "category": "all"
+    },
+    {
+      "q": "Choose the correct spelling Fanaticism,Fanaticisim",
+      "urdu": "درست سپیلنگ پربتائیں",
+      "options": [
+        "Panaticism",
+        "Fanaticisim",
+        "Fanaticism",
+        "Fanatizism",
+        "All are wrong"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"color: rgb(0, 0, 255);\">Fanaticism is the </b><b style=\"\"><font color=\"#ff0000\">correct spelling.</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "یک نہ شد دو شد کا مطلب کیا ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "ایک خوشی کے بعد دوسری خوشی ملی",
+        "ایک مصیبت سے جان چھوٹی تھی کہ ایک اور مصیبت آ گئی",
+        "ایک شخص کامیاب ہو گیا",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 1,
+      "explanation": "<p style=\"text-align: right; \"><b style=\"\"><font color=\"#ff0000\">یک</font><font color=\"#0000ff\"> </font><font color=\"#ff0000\">نہ شد دو شد</font><font color=\"#0000ff\"> فارسی </font><font color=\"#ff0000\">محاورہ</font><font color=\"#0000ff\"> ہے۔</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "The analogy of Lion : Carnivores ::",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Granivore : Reptile",
+        "Omnivore : Beetle",
+        "Hen : Herbivores",
+        "None of these"
+      ],
+      "correct": 2,
+      "explanation": "<p><b style=\"\"><font color=\"#ff0000\">Lion</font></b><b style=\"color: rgb(0, 0, 255);\"> is to </b><b style=\"\"><font color=\"#ff0000\">carnivores</font></b><b style=\"color: rgb(0, 0, 255);\"> as </b><b style=\"\"><font color=\"#ff0000\">rhino</font></b><b style=\"color: rgb(0, 0, 255);\"> is to </b><b style=\"\"><font color=\"#ff0000\">herbivore</font></b><b style=\"color: rgb(0, 0, 255);\">. </b></p>",
+      "category": "all"
+    },
+    {
+      "q": "Change the Active into Passive voice: Kindly open the window.",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "The should be opened.",
+        "You are requested open the window.",
+        "You are requested to open the window.",
+        "None of the above"
+      ],
+      "correct": 2,
+      "explanation": "",
+      "category": "all"
+    },
+    {
+      "q": "مشہور نظم  مدوجزر اسلام  کس نے لکھی ہے؟",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "علامہ اقبال",
+        "سر سید احمد خان",
+        "الطاف حسین حالی",
+        "ان میں سے کوئی نہیں"
+      ],
+      "correct": 2,
+      "explanation": "<p class=\"MsoNormal\" style=\"text-align: right; \"><b style=\"\"><font color=\"#0000ff\">مصنف: </font><font color=\"#ff0000\">خواجہ الطاف حسین حالی</font></b></p>",
+      "category": "all"
+    },
+    {
+      "q": "A group of cattle is called ______?",
+      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
+      "options": [
+        "Herd",
+        "Swarm",
+        "Troop",
+        "Company"
+      ],
+      "correct": 0,
+      "explanation": "<p class=\"MsoNormal\"><b><font color=\"#0000ff\">Additional information:</font></b></p>",
+      "category": "all"
+    },
     {
       "q": "What is the purpose of hashing in security?",
       "urdu": "سیکیورٹی میں ہیشنگ  کا کیا مقصد ہے؟",
@@ -498,162 +655,6 @@
         "Both A and B"
       ],
       "correct": 3,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Interruption is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Break",
-        "Difference",
-        "Continuity",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Antonym of Concise is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Verbose",
-        "Lengthy",
-        "Brief",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><font color=\"#ff0000\" face=\"Helvetica\"><b style=\"background-color: rgb(255, 255, 0);\">Last verified on 04-06-2026</b></font></p>",
-      "category": "all"
-    },
-    {
-      "q": "Analogy: KERNEL : NUT :: ?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Soil : Seed",
-        "Yolk : Egg",
-        "Grape : Raisin",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose analogous pair: Light : Blind ::?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Speech : Dumb",
-        "Tongue : Sound",
-        "Language : Deaf",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Error detection: In Maxwell's days, no instruments had been made which could register the greatly enormously long waves of electricity.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Could",
-        "Long",
-        "Greatly",
-        "No error"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Error detection: Mr. Ahmed is to old to work now: he depends upon his son.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "To",
-        "Depends",
-        "Work now",
-        "No error"
-      ],
-      "correct": 0,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Unambiguous is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Interesting",
-        "Exact",
-        "Clear",
-        "None of these"
-      ],
-      "correct": 2,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Mediative is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Selfish",
-        "Thoughtful",
-        "Heedless",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Wreck is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Ruin",
-        "Certain",
-        "Immaterial",
-        "None of these"
-      ],
-      "correct": 0,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 02-04-2026</font></b><br/></p>",
-      "category": "all"
-    },
-    {
-      "q": "The Synonym of Hardship is?",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Relief",
-        "Suffering",
-        "Tribulation",
-        "Both A and B"
-      ],
-      "correct": 3,
-      "explanation": "<p><b style=\"\"><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 01-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "Choose the correct sentence: Philippines consists of more than 7,000 islands., The Philippines consists of more than 7,000 islands., The Philippine consists of more than 7,000 islands., None of these",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Philippines consists of more than 7,000 islands.",
-        "The Philippines consists of more than 7,000 islands.",
-        "The Philippine consists of more than 7,000 islands.",
-        "None of these"
-      ],
-      "correct": 1,
-      "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
-      "category": "all"
-    },
-    {
-      "q": "________ from the campaigns have been used to buy medical supplies, food and educational materials.",
-      "urdu": "اس سوال کو وضاحت کے ساتھ پڑھیں",
-      "options": [
-        "Proceed",
-        "Earnings",
-        "Revenue",
-        "None of these"
-      ],
-      "correct": 1,
       "explanation": "<p><b><font color=\"#ff0000\" style=\"background-color: rgb(255, 255, 0);\">Last verified on 25-10-2026</font></b></p>",
       "category": "all"
     }
